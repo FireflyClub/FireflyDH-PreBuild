@@ -1,0 +1,229 @@
+[
+  {
+    "TypeParameter": [
+      1,
+      5
+    ],
+    "SkillDesc": {
+      "Hash": 22311797
+    },
+    "Type": "StatsNeedDecAbs",
+    "ItemSkillID": 1
+  },
+  {
+    "TypeParameter": [
+      100
+    ],
+    "SkillDesc": {
+      "Hash": -1421295820
+    },
+    "Type": "GainFunds",
+    "ItemSkillID": 101
+  },
+  {
+    "TypeParameter": [
+      500
+    ],
+    "SkillDesc": {
+      "Hash": -1421295821
+    },
+    "Type": "GainFunds",
+    "ItemSkillID": 102
+  },
+  {
+    "TypeParameter": [
+      800
+    ],
+    "SkillDesc": {
+      "Hash": -1421295822
+    },
+    "Type": "GainFunds",
+    "ItemSkillID": 103
+  },
+  {
+    "TypeParameter": [
+      1300
+    ],
+    "SkillDesc": {
+      "Hash": -1421295815
+    },
+    "Type": "GainFunds",
+    "ItemSkillID": 104
+  },
+  {
+    "TypeParameter": [
+      2000
+    ],
+    "SkillDesc": {
+      "Hash": -1421295816
+    },
+    "Type": "GainFunds",
+    "ItemSkillID": 105
+  },
+  {
+    "TypeParameter": [
+      1,
+      5
+    ],
+    "SkillDesc": {
+      "Hash": -1421295817
+    },
+    "Type": "StatsNeedDecPercent",
+    "ItemSkillID": 106
+  },
+  {
+    "TypeParameter": [
+      3,
+      5
+    ],
+    "SkillDesc": {
+      "Hash": -1421295818
+    },
+    "Type": "StatsNeedDecPercent",
+    "ItemSkillID": 107
+  },
+  {
+    "TypeParameter": [
+      3000
+    ],
+    "SkillDesc": {
+      "Hash": -1421295827
+    },
+    "Type": "GainFunds",
+    "ItemSkillID": 108
+  },
+  {
+    "TypeParameter": [
+      5000
+    ],
+    "SkillDesc": {
+      "Hash": -1421295828
+    },
+    "Type": "GainFunds",
+    "ItemSkillID": 109
+  },
+  {
+    "TypeParameter": [
+      7000
+    ],
+    "SkillDesc": {
+      "Hash": 144788122
+    },
+    "Type": "GainFunds",
+    "ItemSkillID": 110
+  },
+  {
+    "TypeParameter": [
+      2,
+      5
+    ],
+    "SkillDesc": {
+      "Hash": 144788121
+    },
+    "Type": "StatsNeedDecPercent",
+    "ItemSkillID": 111
+  },
+  {
+    "TypeParameter": [
+      9000
+    ],
+    "SkillDesc": {
+      "Hash": 144788120
+    },
+    "Type": "GainFunds",
+    "ItemSkillID": 112
+  },
+  {
+    "TypeParameter": [
+      1,
+      5
+    ],
+    "SkillDesc": {
+      "Hash": 144788119
+    },
+    "Type": "StatsNeedDecPercent",
+    "ItemSkillID": 113
+  },
+  {
+    "TypeParameter": [
+      11000
+    ],
+    "SkillDesc": {
+      "Hash": 144788126
+    },
+    "Type": "GainFunds",
+    "ItemSkillID": 114
+  },
+  {
+    "TypeParameter": [
+      13000
+    ],
+    "SkillDesc": {
+      "Hash": 144788125
+    },
+    "Type": "GainFunds",
+    "ItemSkillID": 115
+  },
+  {
+    "TypeParameter": [
+      2,
+      5
+    ],
+    "SkillDesc": {
+      "Hash": 144788124
+    },
+    "Type": "StatsNeedDecPercent",
+    "ItemSkillID": 116
+  },
+  {
+    "TypeParameter": [
+      15000
+    ],
+    "SkillDesc": {
+      "Hash": 144788123
+    },
+    "Type": "GainFunds",
+    "ItemSkillID": 117
+  },
+  {
+    "TypeParameter": [
+      5
+    ],
+    "SkillDesc": {
+      "Hash": 144788114
+    },
+    "Type": "BaseStatsIncPercent",
+    "ItemSkillID": 118
+  },
+  {
+    "TypeParameter": [
+      3,
+      5
+    ],
+    "SkillDesc": {
+      "Hash": 144788113
+    },
+    "Type": "StatsNeedDecPercent",
+    "ItemSkillID": 119
+  },
+  {
+    "TypeParameter": [
+      17000
+    ],
+    "SkillDesc": {
+      "Hash": -258496405
+    },
+    "Type": "GainFunds",
+    "ItemSkillID": 120
+  },
+  {
+    "TypeParameter": [
+      20000
+    ],
+    "SkillDesc": {
+      "Hash": -258496406
+    },
+    "Type": "GainFunds",
+    "ItemSkillID": 121
+  }
+]

@@ -1,0 +1,728 @@
+[
+  {
+    "UnlockPhase": 1,
+    "IsInitial": false,
+    "IsTargetReward": false,
+    "SceneGroupID": 18,
+    "DisplayOrder": 4,
+    "EvidenceInfoTextID": {
+      "Hash": 868117132
+    },
+    "RecruitPrice": 0,
+    "RecruitUnlockMission": 0,
+    "ItemID": 250101,
+    "Type": "Avatar",
+    "CollectedReward": 26000107,
+    "MuseumStuffDesc": {
+      "Hash": -1540536268
+    },
+    "StatsA": 48,
+    "StatsC": 85,
+    "StatsB": 23,
+    "ScenePropID": 300008
+  },
+  {
+    "UnlockPhase": 1,
+    "IsInitial": false,
+    "IsTargetReward": false,
+    "SceneGroupID": 18,
+    "DisplayOrder": 5,
+    "EvidenceInfoTextID": {
+      "Hash": -1860766223
+    },
+    "RecruitPrice": 0,
+    "RecruitUnlockMission": 0,
+    "ItemID": 250102,
+    "Type": "Avatar",
+    "CollectedReward": 26000107,
+    "MuseumStuffDesc": {
+      "Hash": -1943820795
+    },
+    "StatsA": 88,
+    "StatsC": 26,
+    "StatsB": 72,
+    "ScenePropID": 300011
+  },
+  {
+    "UnlockPhase": 1,
+    "IsInitial": false,
+    "IsTargetReward": false,
+    "SceneGroupID": 18,
+    "DisplayOrder": 7,
+    "EvidenceInfoTextID": {
+      "Hash": -1860766223
+    },
+    "RecruitPrice": 0,
+    "RecruitUnlockMission": 0,
+    "ItemID": 250103,
+    "Type": "Avatar",
+    "CollectedReward": 26000107,
+    "MuseumStuffDesc": {
+      "Hash": -377736854
+    },
+    "StatsA": 68,
+    "StatsC": 10,
+    "StatsB": 57,
+    "ScenePropID": 300004
+  },
+  {
+    "UnlockPhase": 1,
+    "IsInitial": false,
+    "IsTargetReward": false,
+    "SceneGroupID": 18,
+    "DisplayOrder": 9,
+    "EvidenceInfoTextID": {
+      "Hash": -1860766223
+    },
+    "RecruitPrice": 0,
+    "RecruitUnlockMission": 0,
+    "ItemID": 250104,
+    "Type": "Avatar",
+    "CollectedReward": 26000107,
+    "MuseumStuffDesc": {
+      "Hash": -781021381
+    },
+    "StatsA": 5,
+    "StatsC": 83,
+    "StatsB": 80,
+    "ScenePropID": 300009
+  },
+  {
+    "UnlockPhase": 1,
+    "IsInitial": false,
+    "IsTargetReward": false,
+    "SceneGroupID": 18,
+    "DisplayOrder": 2,
+    "EvidenceInfoTextID": {
+      "Hash": -1860766223
+    },
+    "RecruitPrice": 0,
+    "RecruitUnlockMission": 0,
+    "ItemID": 250105,
+    "Type": "Avatar",
+    "CollectedReward": 26000107,
+    "MuseumStuffDesc": {
+      "Hash": 785062560
+    },
+    "StatsA": 56,
+    "StatsC": 64,
+    "StatsB": 15,
+    "ScenePropID": 300005
+  },
+  {
+    "UnlockPhase": 1,
+    "IsInitial": true,
+    "IsTargetReward": false,
+    "SceneGroupID": 18,
+    "DisplayOrder": 1,
+    "EvidenceInfoTextID": {
+      "Hash": 868117132
+    },
+    "RecruitPrice": 0,
+    "RecruitUnlockMission": 0,
+    "ItemID": 250106,
+    "Type": "Avatar",
+    "CollectedReward": 26000107,
+    "MuseumStuffDesc": {
+      "Hash": 381778033
+    },
+    "StatsA": 30,
+    "StatsC": 30,
+    "StatsB": 30,
+    "ScenePropID": 300003
+  },
+  {
+    "UnlockPhase": 1,
+    "IsInitial": false,
+    "IsTargetReward": false,
+    "SceneGroupID": 18,
+    "DisplayOrder": 6,
+    "EvidenceInfoTextID": {
+      "Hash": 868117132
+    },
+    "RecruitPrice": 0,
+    "RecruitUnlockMission": 0,
+    "ItemID": 250107,
+    "Type": "Avatar",
+    "CollectedReward": 26000107,
+    "MuseumStuffDesc": {
+      "Hash": 1947861974
+    },
+    "StatsA": 15,
+    "StatsC": 78,
+    "StatsB": 75,
+    "ScenePropID": 300006
+  },
+  {
+    "UnlockPhase": 1,
+    "IsInitial": false,
+    "IsTargetReward": false,
+    "SceneGroupID": 18,
+    "DisplayOrder": 8,
+    "EvidenceInfoTextID": {
+      "Hash": 868117132
+    },
+    "RecruitPrice": 0,
+    "RecruitUnlockMission": 0,
+    "ItemID": 250108,
+    "Type": "Avatar",
+    "CollectedReward": 26000107,
+    "MuseumStuffDesc": {
+      "Hash": 832116727
+    },
+    "StatsA": 93,
+    "StatsC": 0,
+    "StatsB": 93,
+    "ScenePropID": 300010
+  },
+  {
+    "UnlockPhase": 1,
+    "IsInitial": false,
+    "IsTargetReward": false,
+    "SceneGroupID": 18,
+    "DisplayOrder": 3,
+    "EvidenceInfoTextID": {
+      "Hash": -1860766223
+    },
+    "RecruitPrice": 0,
+    "RecruitUnlockMission": 0,
+    "ItemID": 250109,
+    "Type": "Avatar",
+    "CollectedReward": 26000107,
+    "MuseumStuffDesc": {
+      "Hash": -1896766628
+    },
+    "StatsA": 80,
+    "StatsC": 76,
+    "StatsB": 0,
+    "ScenePropID": 300007
+  },
+  {
+    "UnlockPhase": 0,
+    "IsInitial": false,
+    "IsTargetReward": false,
+    "SceneGroupID": 18,
+    "DisplayOrder": 0,
+    "EvidenceInfoTextID": {
+      "Hash": 371857150
+    },
+    "RecruitPrice": 150000,
+    "RecruitUnlockMission": 0,
+    "ItemID": 250110,
+    "Type": "NPC",
+    "CollectedReward": 0,
+    "MuseumStuffDesc": {
+      "Hash": 371857150
+    },
+    "StatsA": 60,
+    "StatsC": 88,
+    "StatsB": 32,
+    "ScenePropID": 300012
+  },
+  {
+    "UnlockPhase": 0,
+    "IsInitial": false,
+    "IsTargetReward": true,
+    "SceneGroupID": 18,
+    "DisplayOrder": 0,
+    "EvidenceInfoTextID": {
+      "Hash": 371857150
+    },
+    "RecruitPrice": 1,
+    "RecruitUnlockMission": 0,
+    "ItemID": 250111,
+    "Type": "NPC",
+    "CollectedReward": 0,
+    "MuseumStuffDesc": {
+      "Hash": 371857150
+    },
+    "StatsA": 42,
+    "StatsC": 65,
+    "StatsB": 22,
+    "ScenePropID": 300013
+  },
+  {
+    "UnlockPhase": 0,
+    "IsInitial": false,
+    "IsTargetReward": false,
+    "SceneGroupID": 18,
+    "DisplayOrder": 0,
+    "EvidenceInfoTextID": {
+      "Hash": 371857150
+    },
+    "RecruitPrice": 150000,
+    "RecruitUnlockMission": 0,
+    "ItemID": 250112,
+    "Type": "NPC",
+    "CollectedReward": 0,
+    "MuseumStuffDesc": {
+      "Hash": 371857150
+    },
+    "StatsA": 18,
+    "StatsC": 82,
+    "StatsB": 80,
+    "ScenePropID": 300014
+  },
+  {
+    "UnlockPhase": 0,
+    "IsInitial": false,
+    "IsTargetReward": false,
+    "SceneGroupID": 18,
+    "DisplayOrder": 0,
+    "EvidenceInfoTextID": {
+      "Hash": 371857150
+    },
+    "RecruitPrice": 400,
+    "RecruitUnlockMission": 0,
+    "ItemID": 250113,
+    "Type": "NPC",
+    "CollectedReward": 0,
+    "MuseumStuffDesc": {
+      "Hash": 371857150
+    },
+    "StatsA": 50,
+    "StatsC": 17,
+    "StatsB": 29,
+    "ScenePropID": 300015
+  },
+  {
+    "UnlockPhase": 0,
+    "IsInitial": false,
+    "IsTargetReward": false,
+    "SceneGroupID": 18,
+    "DisplayOrder": 0,
+    "EvidenceInfoTextID": {
+      "Hash": 371857150
+    },
+    "RecruitPrice": 60000,
+    "RecruitUnlockMission": 0,
+    "ItemID": 250114,
+    "Type": "NPC",
+    "CollectedReward": 0,
+    "MuseumStuffDesc": {
+      "Hash": 371857150
+    },
+    "StatsA": 64,
+    "StatsC": 78,
+    "StatsB": 20,
+    "ScenePropID": 300016
+  },
+  {
+    "UnlockPhase": 0,
+    "IsInitial": false,
+    "IsTargetReward": false,
+    "SceneGroupID": 18,
+    "DisplayOrder": 0,
+    "EvidenceInfoTextID": {
+      "Hash": 371857150
+    },
+    "RecruitPrice": 50,
+    "RecruitUnlockMission": 0,
+    "ItemID": 250115,
+    "Type": "NPC",
+    "CollectedReward": 0,
+    "MuseumStuffDesc": {
+      "Hash": 371857150
+    },
+    "StatsA": 20,
+    "StatsC": 14,
+    "StatsB": 44,
+    "ScenePropID": 300017
+  },
+  {
+    "UnlockPhase": 0,
+    "IsInitial": false,
+    "IsTargetReward": false,
+    "SceneGroupID": 18,
+    "DisplayOrder": 0,
+    "EvidenceInfoTextID": {
+      "Hash": 371857150
+    },
+    "RecruitPrice": 400,
+    "RecruitUnlockMission": 0,
+    "ItemID": 250116,
+    "Type": "NPC",
+    "CollectedReward": 0,
+    "MuseumStuffDesc": {
+      "Hash": 371857150
+    },
+    "StatsA": 52,
+    "StatsC": 30,
+    "StatsB": 14,
+    "ScenePropID": 300018
+  },
+  {
+    "UnlockPhase": 0,
+    "IsInitial": false,
+    "IsTargetReward": false,
+    "SceneGroupID": 18,
+    "DisplayOrder": 0,
+    "EvidenceInfoTextID": {
+      "Hash": 371857150
+    },
+    "RecruitPrice": 60000,
+    "RecruitUnlockMission": 0,
+    "ItemID": 250117,
+    "Type": "NPC",
+    "CollectedReward": 0,
+    "MuseumStuffDesc": {
+      "Hash": 371857150
+    },
+    "StatsA": 64,
+    "StatsC": 18,
+    "StatsB": 80,
+    "ScenePropID": 300019
+  },
+  {
+    "UnlockPhase": 0,
+    "IsInitial": false,
+    "IsTargetReward": true,
+    "SceneGroupID": 18,
+    "DisplayOrder": 0,
+    "EvidenceInfoTextID": {
+      "Hash": 371857150
+    },
+    "RecruitPrice": 1,
+    "RecruitUnlockMission": 0,
+    "ItemID": 250118,
+    "Type": "NPC",
+    "CollectedReward": 0,
+    "MuseumStuffDesc": {
+      "Hash": 371857150
+    },
+    "StatsA": 56,
+    "StatsC": 40,
+    "StatsB": 72,
+    "ScenePropID": 300020
+  },
+  {
+    "UnlockPhase": 0,
+    "IsInitial": false,
+    "IsTargetReward": true,
+    "SceneGroupID": 18,
+    "DisplayOrder": 0,
+    "EvidenceInfoTextID": {
+      "Hash": 371857150
+    },
+    "RecruitPrice": 1,
+    "RecruitUnlockMission": 0,
+    "ItemID": 250119,
+    "Type": "NPC",
+    "CollectedReward": 0,
+    "MuseumStuffDesc": {
+      "Hash": 371857150
+    },
+    "StatsA": 52,
+    "StatsC": 36,
+    "StatsB": 20,
+    "ScenePropID": 300021
+  },
+  {
+    "UnlockPhase": 0,
+    "IsInitial": false,
+    "IsTargetReward": false,
+    "SceneGroupID": 18,
+    "DisplayOrder": 0,
+    "EvidenceInfoTextID": {
+      "Hash": 371857150
+    },
+    "RecruitPrice": 20000,
+    "RecruitUnlockMission": 0,
+    "ItemID": 250120,
+    "Type": "NPC",
+    "CollectedReward": 0,
+    "MuseumStuffDesc": {
+      "Hash": 371857150
+    },
+    "StatsA": 54,
+    "StatsC": 71,
+    "StatsB": 16,
+    "ScenePropID": 300022
+  },
+  {
+    "UnlockPhase": 0,
+    "IsInitial": false,
+    "IsTargetReward": false,
+    "SceneGroupID": 18,
+    "DisplayOrder": 0,
+    "EvidenceInfoTextID": {
+      "Hash": 371857150
+    },
+    "RecruitPrice": 2000,
+    "RecruitUnlockMission": 0,
+    "ItemID": 250121,
+    "Type": "NPC",
+    "CollectedReward": 0,
+    "MuseumStuffDesc": {
+      "Hash": 371857150
+    },
+    "StatsA": 8,
+    "StatsC": 42,
+    "StatsB": 58,
+    "ScenePropID": 300023
+  },
+  {
+    "UnlockPhase": 0,
+    "IsInitial": false,
+    "IsTargetReward": false,
+    "SceneGroupID": 18,
+    "DisplayOrder": 0,
+    "EvidenceInfoTextID": {
+      "Hash": 371857150
+    },
+    "RecruitPrice": 0,
+    "RecruitUnlockMission": 8001261,
+    "ItemID": 250122,
+    "Type": "NPC",
+    "CollectedReward": 0,
+    "MuseumStuffDesc": {
+      "Hash": 371857150
+    },
+    "StatsA": 26,
+    "StatsC": 26,
+    "StatsB": 26,
+    "ScenePropID": 300024
+  },
+  {
+    "UnlockPhase": 0,
+    "IsInitial": false,
+    "IsTargetReward": false,
+    "SceneGroupID": 18,
+    "DisplayOrder": 0,
+    "EvidenceInfoTextID": {
+      "Hash": 371857150
+    },
+    "RecruitPrice": 8000,
+    "RecruitUnlockMission": 0,
+    "ItemID": 250123,
+    "Type": "NPC",
+    "CollectedReward": 0,
+    "MuseumStuffDesc": {
+      "Hash": 371857150
+    },
+    "StatsA": 63,
+    "StatsC": 63,
+    "StatsB": 0,
+    "ScenePropID": 300025
+  },
+  {
+    "UnlockPhase": 0,
+    "IsInitial": false,
+    "IsTargetReward": false,
+    "SceneGroupID": 18,
+    "DisplayOrder": 0,
+    "EvidenceInfoTextID": {
+      "Hash": 371857150
+    },
+    "RecruitPrice": 50,
+    "RecruitUnlockMission": 0,
+    "ItemID": 250124,
+    "Type": "NPC",
+    "CollectedReward": 0,
+    "MuseumStuffDesc": {
+      "Hash": 371857150
+    },
+    "StatsA": 40,
+    "StatsC": 30,
+    "StatsB": 8,
+    "ScenePropID": 300026
+  },
+  {
+    "UnlockPhase": 0,
+    "IsInitial": false,
+    "IsTargetReward": false,
+    "SceneGroupID": 18,
+    "DisplayOrder": 0,
+    "EvidenceInfoTextID": {
+      "Hash": 371857150
+    },
+    "RecruitPrice": 20000,
+    "RecruitUnlockMission": 0,
+    "ItemID": 250125,
+    "Type": "NPC",
+    "CollectedReward": 0,
+    "MuseumStuffDesc": {
+      "Hash": 371857150
+    },
+    "StatsA": 10,
+    "StatsC": 73,
+    "StatsB": 58,
+    "ScenePropID": 300027
+  },
+  {
+    "UnlockPhase": 0,
+    "IsInitial": false,
+    "IsTargetReward": false,
+    "SceneGroupID": 18,
+    "DisplayOrder": 0,
+    "EvidenceInfoTextID": {
+      "Hash": 371857150
+    },
+    "RecruitPrice": 2000,
+    "RecruitUnlockMission": 0,
+    "ItemID": 250126,
+    "Type": "NPC",
+    "CollectedReward": 0,
+    "MuseumStuffDesc": {
+      "Hash": 371857150
+    },
+    "StatsA": 54,
+    "StatsC": 0,
+    "StatsB": 54,
+    "ScenePropID": 300028
+  },
+  {
+    "UnlockPhase": 0,
+    "IsInitial": false,
+    "IsTargetReward": false,
+    "SceneGroupID": 18,
+    "DisplayOrder": 0,
+    "EvidenceInfoTextID": {
+      "Hash": 371857150
+    },
+    "RecruitPrice": 150000,
+    "RecruitUnlockMission": 0,
+    "ItemID": 250127,
+    "Type": "NPC",
+    "CollectedReward": 0,
+    "MuseumStuffDesc": {
+      "Hash": 371857150
+    },
+    "StatsA": 94,
+    "StatsC": 0,
+    "StatsB": 86,
+    "ScenePropID": 300029
+  },
+  {
+    "UnlockPhase": 0,
+    "IsInitial": false,
+    "IsTargetReward": false,
+    "SceneGroupID": 18,
+    "DisplayOrder": 0,
+    "EvidenceInfoTextID": {
+      "Hash": 371857150
+    },
+    "RecruitPrice": 20000,
+    "RecruitUnlockMission": 0,
+    "ItemID": 250128,
+    "Type": "NPC",
+    "CollectedReward": 0,
+    "MuseumStuffDesc": {
+      "Hash": 371857150
+    },
+    "StatsA": 66,
+    "StatsC": 15,
+    "StatsB": 60,
+    "ScenePropID": 300032
+  },
+  {
+    "UnlockPhase": 0,
+    "IsInitial": false,
+    "IsTargetReward": false,
+    "SceneGroupID": 18,
+    "DisplayOrder": 0,
+    "EvidenceInfoTextID": {
+      "Hash": 371857150
+    },
+    "RecruitPrice": 60000,
+    "RecruitUnlockMission": 0,
+    "ItemID": 250129,
+    "Type": "NPC",
+    "CollectedReward": 0,
+    "MuseumStuffDesc": {
+      "Hash": 371857150
+    },
+    "StatsA": 12,
+    "StatsC": 88,
+    "StatsB": 62,
+    "ScenePropID": 300031
+  },
+  {
+    "UnlockPhase": 0,
+    "IsInitial": false,
+    "IsTargetReward": false,
+    "SceneGroupID": 18,
+    "DisplayOrder": 0,
+    "EvidenceInfoTextID": {
+      "Hash": 371857150
+    },
+    "RecruitPrice": 400,
+    "RecruitUnlockMission": 0,
+    "ItemID": 250130,
+    "Type": "NPC",
+    "CollectedReward": 0,
+    "MuseumStuffDesc": {
+      "Hash": 371857150
+    },
+    "StatsA": 36,
+    "StatsC": 20,
+    "StatsB": 40,
+    "ScenePropID": 300033
+  },
+  {
+    "UnlockPhase": 0,
+    "IsInitial": false,
+    "IsTargetReward": false,
+    "SceneGroupID": 18,
+    "DisplayOrder": 0,
+    "EvidenceInfoTextID": {
+      "Hash": 371857150
+    },
+    "RecruitPrice": 2000,
+    "RecruitUnlockMission": 0,
+    "ItemID": 250131,
+    "Type": "NPC",
+    "CollectedReward": 0,
+    "MuseumStuffDesc": {
+      "Hash": 371857150
+    },
+    "StatsA": 44,
+    "StatsC": 10,
+    "StatsB": 54,
+    "ScenePropID": 300030
+  },
+  {
+    "UnlockPhase": 0,
+    "IsInitial": false,
+    "IsTargetReward": false,
+    "SceneGroupID": 18,
+    "DisplayOrder": 0,
+    "EvidenceInfoTextID": {
+      "Hash": 371857150
+    },
+    "RecruitPrice": 8000,
+    "RecruitUnlockMission": 0,
+    "ItemID": 250132,
+    "Type": "NPC",
+    "CollectedReward": 0,
+    "MuseumStuffDesc": {
+      "Hash": 371857150
+    },
+    "StatsA": 10,
+    "StatsC": 50,
+    "StatsB": 66,
+    "ScenePropID": 300034
+  },
+  {
+    "UnlockPhase": 0,
+    "IsInitial": false,
+    "IsTargetReward": false,
+    "SceneGroupID": 18,
+    "DisplayOrder": 0,
+    "EvidenceInfoTextID": {
+      "Hash": 371857150
+    },
+    "RecruitPrice": 8000,
+    "RecruitUnlockMission": 0,
+    "ItemID": 250133,
+    "Type": "NPC",
+    "CollectedReward": 0,
+    "MuseumStuffDesc": {
+      "Hash": 371857150
+    },
+    "StatsA": 78,
+    "StatsC": 39,
+    "StatsB": 9,
+    "ScenePropID": 300035
+  }
+]

@@ -1,0 +1,1380 @@
+[
+  {
+    "TextJoinItemList": [
+      180,
+      181,
+      182
+    ],
+    "TextJoinID": 18,
+    "IsOverride": false,
+    "DefaultItem": 180,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      190,
+      191,
+      192
+    ],
+    "TextJoinID": 19,
+    "IsOverride": false,
+    "DefaultItem": 190,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      200,
+      201,
+      202
+    ],
+    "TextJoinID": 20,
+    "IsOverride": false,
+    "DefaultItem": 200,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      210,
+      211,
+      212,
+      213
+    ],
+    "TextJoinID": 21,
+    "IsOverride": false,
+    "DefaultItem": 210,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      220,
+      221,
+      222
+    ],
+    "TextJoinID": 22,
+    "IsOverride": false,
+    "DefaultItem": 220,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      230
+    ],
+    "TextJoinID": 23,
+    "IsOverride": true,
+    "DefaultItem": 230,
+    "Type": "CustomText"
+  },
+  {
+    "TextJoinItemList": [
+      240,
+      241
+    ],
+    "TextJoinID": 24,
+    "IsOverride": false,
+    "DefaultItem": 240,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      250,
+      251
+    ],
+    "TextJoinID": 25,
+    "IsOverride": false,
+    "DefaultItem": 250,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      260,
+      261
+    ],
+    "TextJoinID": 26,
+    "IsOverride": false,
+    "DefaultItem": 260,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      270,
+      271
+    ],
+    "TextJoinID": 27,
+    "IsOverride": false,
+    "DefaultItem": 270,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      280,
+      281
+    ],
+    "TextJoinID": 28,
+    "IsOverride": false,
+    "DefaultItem": 280,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      290,
+      291,
+      292,
+      293,
+      294
+    ],
+    "TextJoinID": 29,
+    "IsOverride": false,
+    "DefaultItem": 290,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      301,
+      302
+    ],
+    "TextJoinID": 30,
+    "IsOverride": false,
+    "DefaultItem": 301,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      311,
+      312
+    ],
+    "TextJoinID": 31,
+    "IsOverride": false,
+    "DefaultItem": 311,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      321,
+      322
+    ],
+    "TextJoinID": 32,
+    "IsOverride": false,
+    "DefaultItem": 321,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      341,
+      342
+    ],
+    "TextJoinID": 34,
+    "IsOverride": false,
+    "DefaultItem": 341,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      351,
+      352
+    ],
+    "TextJoinID": 35,
+    "IsOverride": false,
+    "DefaultItem": 351,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      361,
+      362
+    ],
+    "TextJoinID": 36,
+    "IsOverride": false,
+    "DefaultItem": 361,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      400,
+      401,
+      402
+    ],
+    "TextJoinID": 40,
+    "IsOverride": false,
+    "DefaultItem": 400,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      410,
+      411,
+      412
+    ],
+    "TextJoinID": 41,
+    "IsOverride": false,
+    "DefaultItem": 410,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      420,
+      421,
+      422
+    ],
+    "TextJoinID": 42,
+    "IsOverride": false,
+    "DefaultItem": 420,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      430,
+      431,
+      432
+    ],
+    "TextJoinID": 43,
+    "IsOverride": false,
+    "DefaultItem": 430,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      440,
+      441,
+      442,
+      443,
+      444,
+      445,
+      446,
+      447,
+      448,
+      449
+    ],
+    "TextJoinID": 44,
+    "IsOverride": false,
+    "DefaultItem": 440,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      450,
+      451,
+      452,
+      453,
+      454,
+      455,
+      456,
+      457,
+      458,
+      459
+    ],
+    "TextJoinID": 45,
+    "IsOverride": false,
+    "DefaultItem": 450,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      460,
+      461,
+      462,
+      463
+    ],
+    "TextJoinID": 46,
+    "IsOverride": false,
+    "DefaultItem": 460,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      480,
+      481,
+      482,
+      483
+    ],
+    "TextJoinID": 48,
+    "IsOverride": false,
+    "DefaultItem": 480,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      500,
+      501,
+      502,
+      503
+    ],
+    "TextJoinID": 50,
+    "IsOverride": false,
+    "DefaultItem": 500,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      520,
+      521,
+      522,
+      523
+    ],
+    "TextJoinID": 52,
+    "IsOverride": false,
+    "DefaultItem": 520,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      540,
+      541,
+      542,
+      543,
+      544,
+      545,
+      546,
+      547
+    ],
+    "TextJoinID": 54,
+    "IsOverride": false,
+    "DefaultItem": 540,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      550
+    ],
+    "TextJoinID": 55,
+    "IsOverride": true,
+    "DefaultItem": 550,
+    "Type": "AvatarID"
+  },
+  {
+    "TextJoinItemList": [
+      560
+    ],
+    "TextJoinID": 56,
+    "IsOverride": true,
+    "DefaultItem": 560,
+    "Type": "AvatarID"
+  },
+  {
+    "TextJoinItemList": [
+      570
+    ],
+    "TextJoinID": 57,
+    "IsOverride": true,
+    "DefaultItem": 570,
+    "Type": "AvatarID"
+  },
+  {
+    "TextJoinItemList": [
+      580
+    ],
+    "TextJoinID": 58,
+    "IsOverride": true,
+    "DefaultItem": 580,
+    "Type": "AvatarID"
+  },
+  {
+    "TextJoinItemList": [
+      590,
+      591,
+      592,
+      593
+    ],
+    "TextJoinID": 59,
+    "IsOverride": false,
+    "DefaultItem": 590,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      600,
+      601,
+      602,
+      603,
+      604
+    ],
+    "TextJoinID": 60,
+    "IsOverride": false,
+    "DefaultItem": 600,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      610,
+      611,
+      612,
+      613
+    ],
+    "TextJoinID": 61,
+    "IsOverride": false,
+    "DefaultItem": 610,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      620,
+      621,
+      622,
+      623
+    ],
+    "TextJoinID": 62,
+    "IsOverride": false,
+    "DefaultItem": 620,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      630
+    ],
+    "TextJoinID": 63,
+    "IsOverride": false,
+    "DefaultItem": 630,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      640
+    ],
+    "TextJoinID": 64,
+    "IsOverride": false,
+    "DefaultItem": 640,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      650
+    ],
+    "TextJoinID": 65,
+    "IsOverride": false,
+    "DefaultItem": 650,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      660,
+      661,
+      662,
+      663,
+      664
+    ],
+    "TextJoinID": 66,
+    "IsOverride": false,
+    "DefaultItem": 660,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      670,
+      671,
+      672,
+      673,
+      674
+    ],
+    "TextJoinID": 67,
+    "IsOverride": false,
+    "DefaultItem": 670,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      680,
+      681,
+      682,
+      683,
+      684
+    ],
+    "TextJoinID": 68,
+    "IsOverride": false,
+    "DefaultItem": 680,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      690,
+      691,
+      692,
+      693
+    ],
+    "TextJoinID": 69,
+    "IsOverride": false,
+    "DefaultItem": 690,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      700,
+      701,
+      702
+    ],
+    "TextJoinID": 70,
+    "IsOverride": false,
+    "DefaultItem": 700,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      710,
+      711,
+      712,
+      713
+    ],
+    "TextJoinID": 71,
+    "IsOverride": false,
+    "DefaultItem": 710,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      441,
+      443,
+      445,
+      447,
+      449
+    ],
+    "TextJoinID": 72,
+    "IsOverride": false,
+    "DefaultItem": 441,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      450,
+      452,
+      454,
+      456,
+      458
+    ],
+    "TextJoinID": 73,
+    "IsOverride": false,
+    "DefaultItem": 450,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      740,
+      741,
+      742,
+      743
+    ],
+    "TextJoinID": 74,
+    "IsOverride": false,
+    "DefaultItem": 740,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      750,
+      751
+    ],
+    "TextJoinID": 75,
+    "IsOverride": false,
+    "DefaultItem": 750,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      760,
+      761,
+      762,
+      763
+    ],
+    "TextJoinID": 76,
+    "IsOverride": false,
+    "DefaultItem": 760,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      770,
+      771
+    ],
+    "TextJoinID": 77,
+    "IsOverride": false,
+    "DefaultItem": 770,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      780,
+      781,
+      782,
+      783,
+      784
+    ],
+    "TextJoinID": 78,
+    "IsOverride": false,
+    "DefaultItem": 780,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      790,
+      791,
+      792,
+      793
+    ],
+    "TextJoinID": 79,
+    "IsOverride": false,
+    "DefaultItem": 790,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      800,
+      801
+    ],
+    "TextJoinID": 80,
+    "IsOverride": false,
+    "DefaultItem": 800,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      810,
+      811,
+      812
+    ],
+    "TextJoinID": 81,
+    "IsOverride": false,
+    "DefaultItem": 810,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      820,
+      821,
+      822,
+      823,
+      824
+    ],
+    "TextJoinID": 82,
+    "IsOverride": false,
+    "DefaultItem": 820,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      830
+    ],
+    "TextJoinID": 83,
+    "IsOverride": true,
+    "DefaultItem": 830,
+    "Type": "AvatarID"
+  },
+  {
+    "TextJoinItemList": [
+      840
+    ],
+    "TextJoinID": 84,
+    "IsOverride": true,
+    "DefaultItem": 840,
+    "Type": "AvatarID"
+  },
+  {
+    "TextJoinItemList": [
+      850
+    ],
+    "TextJoinID": 85,
+    "IsOverride": true,
+    "DefaultItem": 850,
+    "Type": "AvatarID"
+  },
+  {
+    "TextJoinItemList": [
+      860
+    ],
+    "TextJoinID": 86,
+    "IsOverride": true,
+    "DefaultItem": 860,
+    "Type": "AvatarID"
+  },
+  {
+    "TextJoinItemList": [
+      870,
+      871,
+      872,
+      873
+    ],
+    "TextJoinID": 87,
+    "IsOverride": false,
+    "DefaultItem": 870,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      881,
+      882,
+      883
+    ],
+    "TextJoinID": 88,
+    "IsOverride": false,
+    "DefaultItem": 881,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      891,
+      892,
+      893
+    ],
+    "TextJoinID": 89,
+    "IsOverride": false,
+    "DefaultItem": 891,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      901,
+      902,
+      903
+    ],
+    "TextJoinID": 90,
+    "IsOverride": false,
+    "DefaultItem": 901,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      911,
+      912,
+      913
+    ],
+    "TextJoinID": 91,
+    "IsOverride": false,
+    "DefaultItem": 911,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      921,
+      922,
+      923
+    ],
+    "TextJoinID": 92,
+    "IsOverride": false,
+    "DefaultItem": 921,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      931,
+      932,
+      933
+    ],
+    "TextJoinID": 93,
+    "IsOverride": false,
+    "DefaultItem": 931,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      941,
+      942,
+      943
+    ],
+    "TextJoinID": 94,
+    "IsOverride": false,
+    "DefaultItem": 941,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      951,
+      952,
+      953
+    ],
+    "TextJoinID": 95,
+    "IsOverride": false,
+    "DefaultItem": 951,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      961,
+      962,
+      963
+    ],
+    "TextJoinID": 96,
+    "IsOverride": false,
+    "DefaultItem": 961,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      971,
+      972,
+      973
+    ],
+    "TextJoinID": 97,
+    "IsOverride": false,
+    "DefaultItem": 971,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      981,
+      982
+    ],
+    "TextJoinID": 98,
+    "IsOverride": false,
+    "DefaultItem": 981,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      991,
+      992
+    ],
+    "TextJoinID": 99,
+    "IsOverride": false,
+    "DefaultItem": 991,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      1001,
+      1002
+    ],
+    "TextJoinID": 100,
+    "IsOverride": false,
+    "DefaultItem": 1001,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      1011,
+      1012,
+      1013
+    ],
+    "TextJoinID": 101,
+    "IsOverride": false,
+    "DefaultItem": 1011,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      1021,
+      1022,
+      1023
+    ],
+    "TextJoinID": 102,
+    "IsOverride": false,
+    "DefaultItem": 1021,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      1031,
+      1032,
+      1033
+    ],
+    "TextJoinID": 103,
+    "IsOverride": false,
+    "DefaultItem": 1031,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      1041,
+      1042,
+      1043
+    ],
+    "TextJoinID": 104,
+    "IsOverride": false,
+    "DefaultItem": 1041,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      1051,
+      1052,
+      1053
+    ],
+    "TextJoinID": 105,
+    "IsOverride": false,
+    "DefaultItem": 1051,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      1061,
+      1062,
+      1063
+    ],
+    "TextJoinID": 106,
+    "IsOverride": false,
+    "DefaultItem": 1061,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      1071,
+      1072,
+      1073
+    ],
+    "TextJoinID": 107,
+    "IsOverride": false,
+    "DefaultItem": 1071,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      1081,
+      1082,
+      1083
+    ],
+    "TextJoinID": 108,
+    "IsOverride": false,
+    "DefaultItem": 1082,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      1101,
+      1102,
+      1103
+    ],
+    "TextJoinID": 110,
+    "IsOverride": false,
+    "DefaultItem": 1101,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      1111,
+      1112,
+      1113
+    ],
+    "TextJoinID": 111,
+    "IsOverride": false,
+    "DefaultItem": 1112,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      1121,
+      1122,
+      1123,
+      1124
+    ],
+    "TextJoinID": 112,
+    "IsOverride": false,
+    "DefaultItem": 1121,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      1131,
+      1132,
+      1133,
+      1134
+    ],
+    "TextJoinID": 113,
+    "IsOverride": false,
+    "DefaultItem": 1132,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      1141,
+      1142,
+      1143
+    ],
+    "TextJoinID": 114,
+    "IsOverride": false,
+    "DefaultItem": 1141,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      1151,
+      1152,
+      1153
+    ],
+    "TextJoinID": 115,
+    "IsOverride": false,
+    "DefaultItem": 1152,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      1161
+    ],
+    "TextJoinID": 116,
+    "IsOverride": false,
+    "DefaultItem": 1161,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      1171
+    ],
+    "TextJoinID": 117,
+    "IsOverride": false,
+    "DefaultItem": 1171,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      1181
+    ],
+    "TextJoinID": 118,
+    "IsOverride": false,
+    "DefaultItem": 1181,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      1191
+    ],
+    "TextJoinID": 119,
+    "IsOverride": false,
+    "DefaultItem": 1191,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      1201,
+      1202,
+      1203,
+      1204,
+      1205
+    ],
+    "TextJoinID": 120,
+    "IsOverride": false,
+    "DefaultItem": 1201,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      1301,
+      1302,
+      1303
+    ],
+    "TextJoinID": 130,
+    "IsOverride": false,
+    "DefaultItem": 1301,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      1401,
+      1402,
+      1403
+    ],
+    "TextJoinID": 140,
+    "IsOverride": false,
+    "DefaultItem": 1401,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      1501,
+      1502,
+      1503
+    ],
+    "TextJoinID": 150,
+    "IsOverride": false,
+    "DefaultItem": 1501,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      1601,
+      1602,
+      1603
+    ],
+    "TextJoinID": 160,
+    "IsOverride": false,
+    "DefaultItem": 1601,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      1701,
+      1702,
+      1703
+    ],
+    "TextJoinID": 170,
+    "IsOverride": false,
+    "DefaultItem": 1701,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      1801,
+      1802,
+      1803
+    ],
+    "TextJoinID": 180,
+    "IsOverride": false,
+    "DefaultItem": 1801,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      1901,
+      1902,
+      1903
+    ],
+    "TextJoinID": 190,
+    "IsOverride": false,
+    "DefaultItem": 1901,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      1911,
+      1912,
+      1913
+    ],
+    "TextJoinID": 191,
+    "IsOverride": false,
+    "DefaultItem": 1911,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      1921,
+      1922,
+      1923
+    ],
+    "TextJoinID": 192,
+    "IsOverride": false,
+    "DefaultItem": 1921,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      1931,
+      1932,
+      1933,
+      1934,
+      1935,
+      1936
+    ],
+    "TextJoinID": 193,
+    "IsOverride": false,
+    "DefaultItem": 1933,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      1941,
+      1942,
+      1943
+    ],
+    "TextJoinID": 194,
+    "IsOverride": false,
+    "DefaultItem": 1941,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      1951,
+      1952,
+      1953
+    ],
+    "TextJoinID": 195,
+    "IsOverride": false,
+    "DefaultItem": 1951,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      1961,
+      1962,
+      1963
+    ],
+    "TextJoinID": 196,
+    "IsOverride": false,
+    "DefaultItem": 1961,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      1971,
+      1972,
+      1973
+    ],
+    "TextJoinID": 197,
+    "IsOverride": false,
+    "DefaultItem": 1971,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      1981,
+      1982,
+      1983
+    ],
+    "TextJoinID": 198,
+    "IsOverride": false,
+    "DefaultItem": 1981,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      1991,
+      1992,
+      1993,
+      1994,
+      1995,
+      1996
+    ],
+    "TextJoinID": 199,
+    "IsOverride": false,
+    "DefaultItem": 1991,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      2001,
+      2002,
+      2003
+    ],
+    "TextJoinID": 200,
+    "IsOverride": false,
+    "DefaultItem": 2001,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      2011,
+      2012,
+      2013
+    ],
+    "TextJoinID": 201,
+    "IsOverride": false,
+    "DefaultItem": 2011,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      2021,
+      2022,
+      2023
+    ],
+    "TextJoinID": 202,
+    "IsOverride": false,
+    "DefaultItem": 2021,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      2031,
+      2032,
+      2033
+    ],
+    "TextJoinID": 203,
+    "IsOverride": false,
+    "DefaultItem": 2031,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      2041,
+      2042,
+      2043
+    ],
+    "TextJoinID": 204,
+    "IsOverride": false,
+    "DefaultItem": 2041,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      2051,
+      2052,
+      2053
+    ],
+    "TextJoinID": 205,
+    "IsOverride": false,
+    "DefaultItem": 2051,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      2061,
+      2062
+    ],
+    "TextJoinID": 206,
+    "IsOverride": false,
+    "DefaultItem": 2061,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      2071,
+      2072
+    ],
+    "TextJoinID": 207,
+    "IsOverride": false,
+    "DefaultItem": 2071,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      2081,
+      2082
+    ],
+    "TextJoinID": 208,
+    "IsOverride": false,
+    "DefaultItem": 2081,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      2091,
+      2092
+    ],
+    "TextJoinID": 209,
+    "IsOverride": false,
+    "DefaultItem": 2091,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      2101,
+      2102
+    ],
+    "TextJoinID": 210,
+    "IsOverride": false,
+    "DefaultItem": 2101,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      2111,
+      2112
+    ],
+    "TextJoinID": 211,
+    "IsOverride": false,
+    "DefaultItem": 2111,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      2121,
+      2122
+    ],
+    "TextJoinID": 212,
+    "IsOverride": false,
+    "DefaultItem": 2121,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      2131,
+      2132
+    ],
+    "TextJoinID": 213,
+    "IsOverride": false,
+    "DefaultItem": 2131,
+    "Type": "TextJoinItem"
+  },
+  {
+    "TextJoinItemList": [
+      2141,
+      2142
+    ],
+    "TextJoinID": 214,
+    "IsOverride": false,
+    "DefaultItem": 2141,
+    "Type": "TextJoinItem"
+  }
+]

@@ -1,0 +1,254 @@
+[
+  {
+    "EventEffectID": 11,
+    "Param2": 0,
+    "Param1": 1,
+    "Param3": 0,
+    "EventEffectType": "UnlockShip"
+  },
+  {
+    "EventEffectID": 12,
+    "Param2": 1,
+    "Param1": 1,
+    "Param3": 0,
+    "EventEffectType": "SetLogisticsMap"
+  },
+  {
+    "EventEffectID": 21,
+    "Param2": 0,
+    "Param1": 2,
+    "Param3": 0,
+    "EventEffectType": "UnlockShip"
+  },
+  {
+    "EventEffectID": 22,
+    "Param2": 2,
+    "Param1": 2,
+    "Param3": 0,
+    "EventEffectType": "SetLogisticsMap"
+  },
+  {
+    "EventEffectID": 31,
+    "Param2": 0,
+    "Param1": 3,
+    "Param3": 0,
+    "EventEffectType": "UnlockShip"
+  },
+  {
+    "EventEffectID": 32,
+    "Param2": 3,
+    "Param1": 3,
+    "Param3": 0,
+    "EventEffectType": "SetLogisticsMap"
+  },
+  {
+    "EventEffectID": 33,
+    "Param2": 4,
+    "Param1": 4,
+    "Param3": 0,
+    "EventEffectType": "SetLogisticsMap"
+  },
+  {
+    "EventEffectID": 101,
+    "Param2": 0,
+    "Param1": 101,
+    "Param3": 0,
+    "EventEffectType": "UpgradeShop"
+  },
+  {
+    "EventEffectID": 102,
+    "Param2": 0,
+    "Param1": 102,
+    "Param3": 0,
+    "EventEffectType": "UpgradeShop"
+  },
+  {
+    "EventEffectID": 103,
+    "Param2": 0,
+    "Param1": 103,
+    "Param3": 0,
+    "EventEffectType": "UpgradeShop"
+  },
+  {
+    "EventEffectID": 104,
+    "Param2": 0,
+    "Param1": 104,
+    "Param3": 0,
+    "EventEffectType": "UpgradeShop"
+  },
+  {
+    "EventEffectID": 105,
+    "Param2": 0,
+    "Param1": 105,
+    "Param3": 0,
+    "EventEffectType": "UpgradeShop"
+  },
+  {
+    "EventEffectID": 106,
+    "Param2": 0,
+    "Param1": 106,
+    "Param3": 0,
+    "EventEffectType": "UpgradeShop"
+  },
+  {
+    "EventEffectID": 107,
+    "Param2": 0,
+    "Param1": 107,
+    "Param3": 0,
+    "EventEffectType": "UpgradeShop"
+  },
+  {
+    "EventEffectID": 108,
+    "Param2": 0,
+    "Param1": 108,
+    "Param3": 0,
+    "EventEffectType": "UpgradeShop"
+  },
+  {
+    "EventEffectID": 109,
+    "Param2": 0,
+    "Param1": 109,
+    "Param3": 0,
+    "EventEffectType": "UpgradeShop"
+  },
+  {
+    "EventEffectID": 110,
+    "Param2": 0,
+    "Param1": 110,
+    "Param3": 0,
+    "EventEffectType": "UpgradeShop"
+  },
+  {
+    "EventEffectID": 201,
+    "Param2": 1,
+    "Param1": 1,
+    "Param3": 0,
+    "EventEffectType": "UnlockLayerReward"
+  },
+  {
+    "EventEffectID": 202,
+    "Param2": 1,
+    "Param1": 1,
+    "Param3": 0,
+    "EventEffectType": "UnlockLayerReward"
+  },
+  {
+    "EventEffectID": 203,
+    "Param2": 1,
+    "Param1": 1,
+    "Param3": 0,
+    "EventEffectType": "UnlockLayerReward"
+  },
+  {
+    "EventEffectID": 204,
+    "Param2": 1,
+    "Param1": 2,
+    "Param3": 0,
+    "EventEffectType": "UnlockLayerReward"
+  },
+  {
+    "EventEffectID": 205,
+    "Param2": 1,
+    "Param1": 2,
+    "Param3": 0,
+    "EventEffectType": "UnlockLayerReward"
+  },
+  {
+    "EventEffectID": 206,
+    "Param2": 1,
+    "Param1": 2,
+    "Param3": 0,
+    "EventEffectType": "UnlockLayerReward"
+  },
+  {
+    "EventEffectID": 207,
+    "Param2": 1,
+    "Param1": 3,
+    "Param3": 0,
+    "EventEffectType": "UnlockLayerReward"
+  },
+  {
+    "EventEffectID": 208,
+    "Param2": 1,
+    "Param1": 3,
+    "Param3": 0,
+    "EventEffectType": "UnlockLayerReward"
+  },
+  {
+    "EventEffectID": 209,
+    "Param2": 1,
+    "Param1": 3,
+    "Param3": 0,
+    "EventEffectType": "UnlockLayerReward"
+  },
+  {
+    "EventEffectID": 210,
+    "Param2": 1,
+    "Param1": 4,
+    "Param3": 0,
+    "EventEffectType": "UnlockLayerReward"
+  },
+  {
+    "EventEffectID": 301,
+    "Param2": 1,
+    "Param1": 2,
+    "Param3": 0,
+    "EventEffectType": "UnlockLayerReward"
+  },
+  {
+    "EventEffectID": 302,
+    "Param2": 1,
+    "Param1": 3,
+    "Param3": 0,
+    "EventEffectType": "UnlockLayerReward"
+  },
+  {
+    "EventEffectID": 303,
+    "Param2": 1,
+    "Param1": 1,
+    "Param3": 0,
+    "EventEffectType": "UnlockLayerReward"
+  },
+  {
+    "EventEffectID": 304,
+    "Param2": 1,
+    "Param1": 1,
+    "Param3": 0,
+    "EventEffectType": "UnlockLayerReward"
+  },
+  {
+    "EventEffectID": 305,
+    "Param2": 1,
+    "Param1": 2,
+    "Param3": 0,
+    "EventEffectType": "UnlockLayerReward"
+  },
+  {
+    "EventEffectID": 306,
+    "Param2": 1,
+    "Param1": 3,
+    "Param3": 0,
+    "EventEffectType": "UnlockLayerReward"
+  },
+  {
+    "EventEffectID": 307,
+    "Param2": 1,
+    "Param1": 1,
+    "Param3": 0,
+    "EventEffectType": "UnlockLayerReward"
+  },
+  {
+    "EventEffectID": 308,
+    "Param2": 1,
+    "Param1": 2,
+    "Param3": 0,
+    "EventEffectType": "UnlockLayerReward"
+  },
+  {
+    "EventEffectID": 309,
+    "Param2": 1,
+    "Param1": 3,
+    "Param3": 0,
+    "EventEffectType": "UnlockLayerReward"
+  }
+]

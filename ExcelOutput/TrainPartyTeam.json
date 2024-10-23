@@ -1,0 +1,98 @@
+[
+  {
+    "PassengerList": [
+      1004,
+      1002,
+      1003,
+      1005,
+      1001
+    ],
+    "TeamName": {
+      "Hash": 1074958640
+    },
+    "TeamID": 1,
+    "LeaderWorkingBuffID": 101,
+    "GridNum": 11,
+    "InitialMeetingSkill": 0
+  },
+  {
+    "PassengerList": [
+      1002,
+      1003,
+      1005,
+      1001,
+      1006
+    ],
+    "TeamName": {
+      "Hash": 1074958643
+    },
+    "TeamID": 2,
+    "LeaderWorkingBuffID": 102,
+    "GridNum": 11,
+    "InitialMeetingSkill": 117
+  },
+  {
+    "PassengerList": [
+      1003,
+      1002,
+      1004,
+      1005,
+      1007
+    ],
+    "TeamName": {
+      "Hash": 1074958642
+    },
+    "TeamID": 3,
+    "LeaderWorkingBuffID": 103,
+    "GridNum": 11,
+    "InitialMeetingSkill": 108
+  },
+  {
+    "PassengerList": [
+      1005,
+      1001,
+      1002,
+      1004,
+      1008
+    ],
+    "TeamName": {
+      "Hash": 1074958637
+    },
+    "TeamID": 4,
+    "LeaderWorkingBuffID": 104,
+    "GridNum": 11,
+    "InitialMeetingSkill": 115
+  },
+  {
+    "PassengerList": [
+      1001,
+      1006,
+      1007,
+      1008,
+      1009
+    ],
+    "TeamName": {
+      "Hash": 1074958636
+    },
+    "TeamID": 5,
+    "LeaderWorkingBuffID": 105,
+    "GridNum": 6,
+    "InitialMeetingSkill": 214
+  },
+  {
+    "PassengerList": [
+      1004,
+      1002,
+      1003,
+      1005,
+      1001
+    ],
+    "TeamName": {
+      "Hash": 1074958639
+    },
+    "TeamID": 6,
+    "LeaderWorkingBuffID": 101,
+    "GridNum": 11,
+    "InitialMeetingSkill": 0
+  }
+]

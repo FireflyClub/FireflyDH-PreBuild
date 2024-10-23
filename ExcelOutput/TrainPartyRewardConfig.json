@@ -1,0 +1,242 @@
+[
+  {
+    "Name": {
+      "Hash": -65723355
+    },
+    "RequireStar": 1,
+    "RewardID": 241001,
+    "Level": 1
+  },
+  {
+    "Name": {
+      "Hash": -65723356
+    },
+    "RequireStar": 1,
+    "RewardID": 241002,
+    "Level": 2
+  },
+  {
+    "Name": {
+      "Hash": -65723357
+    },
+    "RequireStar": 1,
+    "RewardID": 241003,
+    "Level": 3
+  },
+  {
+    "Name": {
+      "Hash": -65723350
+    },
+    "RequireStar": 1,
+    "RewardID": 241004,
+    "Level": 4
+  },
+  {
+    "Name": {
+      "Hash": -65723351
+    },
+    "RequireStar": 1,
+    "RewardID": 241005,
+    "Level": 5
+  },
+  {
+    "Name": {
+      "Hash": -65723352
+    },
+    "RequireStar": 1,
+    "RewardID": 241006,
+    "Level": 6
+  },
+  {
+    "Name": {
+      "Hash": -65723353
+    },
+    "RequireStar": 1,
+    "RewardID": 241007,
+    "Level": 7
+  },
+  {
+    "Name": {
+      "Hash": -65723346
+    },
+    "RequireStar": 1,
+    "RewardID": 241008,
+    "Level": 8
+  },
+  {
+    "Name": {
+      "Hash": -65723347
+    },
+    "RequireStar": 1,
+    "RewardID": 241009,
+    "Level": 9
+  },
+  {
+    "Name": {
+      "Hash": 2121044885
+    },
+    "RequireStar": 1,
+    "RewardID": 241010,
+    "Level": 10
+  },
+  {
+    "Name": {
+      "Hash": 554960944
+    },
+    "RequireStar": 1,
+    "RewardID": 241011,
+    "Level": 11
+  },
+  {
+    "Name": {
+      "Hash": -1011122997
+    },
+    "RequireStar": 1,
+    "RewardID": 241012,
+    "Level": 12
+  },
+  {
+    "Name": {
+      "Hash": 1717760358
+    },
+    "RequireStar": 1,
+    "RewardID": 241013,
+    "Level": 13
+  },
+  {
+    "Name": {
+      "Hash": 151676417
+    },
+    "RequireStar": 1,
+    "RewardID": 241014,
+    "Level": 14
+  },
+  {
+    "Name": {
+      "Hash": -1414407524
+    },
+    "RequireStar": 1,
+    "RewardID": 241015,
+    "Level": 15
+  },
+  {
+    "Name": {
+      "Hash": 1314475831
+    },
+    "RequireStar": 1,
+    "RewardID": 241016,
+    "Level": 16
+  },
+  {
+    "Name": {
+      "Hash": -251608110
+    },
+    "RequireStar": 1,
+    "RewardID": 241017,
+    "Level": 17
+  },
+  {
+    "Name": {
+      "Hash": 1764814525
+    },
+    "RequireStar": 1,
+    "RewardID": 241018,
+    "Level": 18
+  },
+  {
+    "Name": {
+      "Hash": 198730584
+    },
+    "RequireStar": 1,
+    "RewardID": 241019,
+    "Level": 19
+  },
+  {
+    "Name": {
+      "Hash": 2121044884
+    },
+    "RequireStar": 1,
+    "RewardID": 241020,
+    "Level": 20
+  },
+  {
+    "Name": {
+      "Hash": 554960943
+    },
+    "RequireStar": 1,
+    "RewardID": 241021,
+    "Level": 21
+  },
+  {
+    "Name": {
+      "Hash": -1011122998
+    },
+    "RequireStar": 1,
+    "RewardID": 241022,
+    "Level": 22
+  },
+  {
+    "Name": {
+      "Hash": 1717760357
+    },
+    "RequireStar": 1,
+    "RewardID": 241023,
+    "Level": 23
+  },
+  {
+    "Name": {
+      "Hash": 151676416
+    },
+    "RequireStar": 1,
+    "RewardID": 241024,
+    "Level": 24
+  },
+  {
+    "Name": {
+      "Hash": -1414407525
+    },
+    "RequireStar": 1,
+    "RewardID": 241025,
+    "Level": 25
+  },
+  {
+    "Name": {
+      "Hash": 1314475830
+    },
+    "RequireStar": 1,
+    "RewardID": 241026,
+    "Level": 26
+  },
+  {
+    "Name": {
+      "Hash": -251608111
+    },
+    "RequireStar": 1,
+    "RewardID": 241027,
+    "Level": 27
+  },
+  {
+    "Name": {
+      "Hash": 1764814524
+    },
+    "RequireStar": 1,
+    "RewardID": 241028,
+    "Level": 28
+  },
+  {
+    "Name": {
+      "Hash": 198730583
+    },
+    "RequireStar": 1,
+    "RewardID": 241029,
+    "Level": 29
+  },
+  {
+    "Name": {
+      "Hash": 2121044883
+    },
+    "RequireStar": 1,
+    "RewardID": 241030,
+    "Level": 30
+  }
+]

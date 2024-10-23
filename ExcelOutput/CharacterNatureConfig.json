@@ -1,0 +1,37 @@
+[
+  {
+    "SpritePath": "",
+    "NatureType": "NatureNone",
+    "NatureID": 1
+  },
+  {
+    "SpritePath": "",
+    "NatureType": "Biologic",
+    "NatureID": 2
+  },
+  {
+    "SpritePath": "",
+    "NatureType": "Mechanoid",
+    "NatureID": 3
+  },
+  {
+    "SpritePath": "",
+    "NatureType": "Psychic",
+    "NatureID": 4
+  },
+  {
+    "SpritePath": "",
+    "NatureType": "Quantum",
+    "NatureID": 5
+  },
+  {
+    "SpritePath": "",
+    "NatureType": "Imaginary",
+    "NatureID": 6
+  },
+  {
+    "SpritePath": "",
+    "NatureType": "Chaos",
+    "NatureID": 7
+  }
+]

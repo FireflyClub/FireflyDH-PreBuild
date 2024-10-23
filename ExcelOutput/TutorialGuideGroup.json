@@ -1,0 +1,9920 @@
+[
+  {
+    "FinishTriggerParams": [
+      {
+        "TriggerParam": "1000401",
+        "TriggerType": "FinishMainMission"
+      }
+    ],
+    "TutorialGuideIDList": [
+      110101
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "20001006",
+        "TriggerType": "EnterBattle"
+      }
+    ],
+    "TutorialShowType": "Hide",
+    "GroupID": 1101,
+    "Order": 199,
+    "TutorialType": 1,
+    "MessageText": {
+      "Hash": 1269878980
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [
+      {
+        "TriggerParam": "1000401",
+        "TriggerType": "FinishMainMission"
+      }
+    ],
+    "TutorialGuideIDList": [
+      110102,
+      110103,
+      110104
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "20001003",
+        "TriggerType": "EnterBattle"
+      }
+    ],
+    "TutorialShowType": "Hide",
+    "GroupID": 1102,
+    "Order": 198,
+    "TutorialType": 1,
+    "MessageText": {
+      "Hash": 1269878977
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [
+      {
+        "TriggerParam": "1000401",
+        "TriggerType": "FinishMainMission"
+      }
+    ],
+    "TutorialGuideIDList": [
+      110301
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "20001003",
+        "TriggerType": "EnterBattle"
+      }
+    ],
+    "TutorialShowType": "Hide",
+    "GroupID": 1103,
+    "Order": 197,
+    "TutorialType": 1,
+    "MessageText": {
+      "Hash": 1269878978
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [
+      {
+        "TriggerParam": "1000401",
+        "TriggerType": "FinishMainMission"
+      }
+    ],
+    "TutorialGuideIDList": [
+      110401
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "20001003",
+        "TriggerType": "EnterBattle"
+      }
+    ],
+    "TutorialShowType": "Hide",
+    "GroupID": 1104,
+    "Order": 196,
+    "TutorialType": 1,
+    "MessageText": {
+      "Hash": 1269878975
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [
+      {
+        "TriggerParam": "1000401",
+        "TriggerType": "FinishMainMission"
+      }
+    ],
+    "TutorialGuideIDList": [
+      110502
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "20001003",
+        "TriggerType": "EnterBattle"
+      }
+    ],
+    "TutorialShowType": "Hide",
+    "GroupID": 1105,
+    "Order": 195,
+    "TutorialType": 1,
+    "MessageText": {
+      "Hash": 1269878976
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [
+      {
+        "TriggerParam": "1000401",
+        "TriggerType": "FinishMainMission"
+      }
+    ],
+    "TutorialGuideIDList": [
+      110801
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "20001003",
+        "TriggerType": "EnterBattle"
+      }
+    ],
+    "TutorialShowType": "Hide",
+    "GroupID": 1108,
+    "Order": 201,
+    "TutorialType": 1,
+    "MessageText": {
+      "Hash": 1269878987
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [
+      {
+        "TriggerParam": "1000401",
+        "TriggerType": "FinishMainMission"
+      }
+    ],
+    "TutorialGuideIDList": [
+      110901
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "20001003",
+        "TriggerType": "EnterBattle"
+      }
+    ],
+    "TutorialShowType": "Hide",
+    "GroupID": 1109,
+    "Order": 200,
+    "TutorialType": 1,
+    "MessageText": {
+      "Hash": 1269878988
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      100601
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "0",
+        "TriggerType": "DestructProp"
+      }
+    ],
+    "TutorialShowType": "Normal",
+    "GroupID": 1116,
+    "Order": 299,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": -296204968
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      110701
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "1002",
+        "TriggerType": "GetAvatar"
+      }
+    ],
+    "TutorialShowType": "Hide",
+    "GroupID": 1117,
+    "Order": 399,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": -296204967
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [
+      {
+        "TriggerParam": "1000401",
+        "TriggerType": "FinishMainMission"
+      }
+    ],
+    "TutorialGuideIDList": [
+      111801,
+      111802
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "20002002",
+        "TriggerType": "EnterBattle"
+      }
+    ],
+    "TutorialShowType": "Normal",
+    "GroupID": 1118,
+    "Order": 175,
+    "TutorialType": 1,
+    "MessageText": {
+      "Hash": -296204954
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      111901,
+      111902
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 1119,
+    "Order": 0,
+    "TutorialType": 1,
+    "MessageText": {
+      "Hash": -296204953
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      200601
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "0",
+        "TriggerType": "OpenChest"
+      },
+      {
+        "TriggerParam": "2",
+        "TriggerType": "GameMode"
+      }
+    ],
+    "TutorialShowType": "Normal",
+    "GroupID": 2006,
+    "Order": 299,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": -1438801437
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [
+      {
+        "TriggerParam": "1000401",
+        "TriggerType": "FinishMainMission"
+      }
+    ],
+    "TutorialGuideIDList": [
+      200701
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "2007",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "Normal",
+    "GroupID": 2007,
+    "Order": 298,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": -1438801438
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      200801
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "4004",
+        "TriggerType": "TutorialFinish"
+      }
+    ],
+    "TutorialShowType": "Normal",
+    "GroupID": 2008,
+    "Order": 297,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": -1438801423
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      210501,
+      210502
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "504",
+        "TriggerType": "GetNewItemByType"
+      },
+      {
+        "TriggerParam": "1002",
+        "TriggerType": "TutorialFinish"
+      }
+    ],
+    "TutorialShowType": "Normal",
+    "GroupID": 2105,
+    "Order": 398,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": -1438801403
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      210601
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "2010",
+        "TriggerType": "TutorialFinish"
+      }
+    ],
+    "TutorialShowType": "Hide",
+    "GroupID": 2106,
+    "Order": 179,
+    "TutorialType": 1,
+    "MessageText": {
+      "Hash": -1438801406
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [
+      {
+        "TriggerParam": "1000401",
+        "TriggerType": "FinishMainMission"
+      }
+    ],
+    "TutorialGuideIDList": [
+      500101,
+      500102
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "20002004",
+        "TriggerType": "EnterBattle"
+      }
+    ],
+    "TutorialShowType": "Hide",
+    "GroupID": 2107,
+    "Order": 178,
+    "TutorialType": 1,
+    "MessageText": {
+      "Hash": -1438801405
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [
+      {
+        "TriggerParam": "1000401",
+        "TriggerType": "FinishMainMission"
+      }
+    ],
+    "TutorialGuideIDList": [
+      220001
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "20002001",
+        "TriggerType": "EnterBattle"
+      }
+    ],
+    "TutorialShowType": "Hide",
+    "GroupID": 2200,
+    "Order": 194,
+    "TutorialType": 1,
+    "MessageText": {
+      "Hash": -1438801497
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [
+      {
+        "TriggerParam": "1000401",
+        "TriggerType": "FinishMainMission"
+      }
+    ],
+    "TutorialGuideIDList": [
+      220101
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "20002001",
+        "TriggerType": "EnterBattle"
+      }
+    ],
+    "TutorialShowType": "Hide",
+    "GroupID": 2201,
+    "Order": 187,
+    "TutorialType": 1,
+    "MessageText": {
+      "Hash": -1438801498
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [
+      {
+        "TriggerParam": "1000401",
+        "TriggerType": "FinishMainMission"
+      }
+    ],
+    "TutorialGuideIDList": [
+      220201
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "20002001",
+        "TriggerType": "EnterBattle"
+      }
+    ],
+    "TutorialShowType": "Hide",
+    "GroupID": 2202,
+    "Order": 185,
+    "TutorialType": 1,
+    "MessageText": {
+      "Hash": -1438801495
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [
+      {
+        "TriggerParam": "1000401",
+        "TriggerType": "FinishMainMission"
+      }
+    ],
+    "TutorialGuideIDList": [
+      220301
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "20002001",
+        "TriggerType": "EnterBattle"
+      }
+    ],
+    "TutorialShowType": "Hide",
+    "GroupID": 2203,
+    "Order": 183,
+    "TutorialType": 1,
+    "MessageText": {
+      "Hash": -1438801496
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [
+      {
+        "TriggerParam": "1000401",
+        "TriggerType": "FinishMainMission"
+      }
+    ],
+    "TutorialGuideIDList": [
+      220401
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "20002001",
+        "TriggerType": "EnterBattle"
+      }
+    ],
+    "TutorialShowType": "Hide",
+    "GroupID": 2204,
+    "Order": 186,
+    "TutorialType": 1,
+    "MessageText": {
+      "Hash": -1438801501
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [
+      {
+        "TriggerParam": "1000401",
+        "TriggerType": "FinishMainMission"
+      }
+    ],
+    "TutorialGuideIDList": [
+      220501
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "20002001",
+        "TriggerType": "EnterBattle"
+      }
+    ],
+    "TutorialShowType": "Hide",
+    "GroupID": 2205,
+    "Order": 184,
+    "TutorialType": 1,
+    "MessageText": {
+      "Hash": -1438801502
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [
+      {
+        "TriggerParam": "1000401",
+        "TriggerType": "FinishMainMission"
+      }
+    ],
+    "TutorialGuideIDList": [
+      220601
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "20002001",
+        "TriggerType": "EnterBattle"
+      }
+    ],
+    "TutorialShowType": "Hide",
+    "GroupID": 2206,
+    "Order": 182,
+    "TutorialType": 1,
+    "MessageText": {
+      "Hash": -1438801499
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [
+      {
+        "TriggerParam": "1000401",
+        "TriggerType": "FinishMainMission"
+      }
+    ],
+    "TutorialGuideIDList": [
+      220701
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "20002001",
+        "TriggerType": "EnterBattle"
+      }
+    ],
+    "TutorialShowType": "Hide",
+    "GroupID": 2207,
+    "Order": 181,
+    "TutorialType": 1,
+    "MessageText": {
+      "Hash": -1438801500
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [
+      {
+        "TriggerParam": "1000401",
+        "TriggerType": "FinishMainMission"
+      }
+    ],
+    "TutorialGuideIDList": [
+      210101
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "20002001",
+        "TriggerType": "EnterBattle"
+      }
+    ],
+    "TutorialShowType": "Normal",
+    "GroupID": 2208,
+    "Order": 191,
+    "TutorialType": 1,
+    "MessageText": {
+      "Hash": -1438801489
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [
+      {
+        "TriggerParam": "1000401",
+        "TriggerType": "FinishMainMission"
+      }
+    ],
+    "TutorialGuideIDList": [
+      110501,
+      220002
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "20002001",
+        "TriggerType": "EnterBattle"
+      }
+    ],
+    "TutorialShowType": "Normal",
+    "GroupID": 2209,
+    "Order": 192,
+    "TutorialType": 1,
+    "MessageText": {
+      "Hash": -1438801490
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      221001
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "1000300",
+        "TriggerType": "FinishMainMission"
+      }
+    ],
+    "TutorialShowType": "Hide",
+    "GroupID": 2210,
+    "Order": 176,
+    "TutorialType": 1,
+    "MessageText": {
+      "Hash": 127282444
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      221101
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "1000401",
+        "TriggerType": "FinishMainMission"
+      },
+      {
+        "TriggerParam": "0",
+        "TriggerType": "EnterBattle"
+      }
+    ],
+    "TutorialShowType": "Hide",
+    "GroupID": 2211,
+    "Order": 177,
+    "TutorialType": 1,
+    "MessageText": {
+      "Hash": 127282443
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [
+      {
+        "TriggerParam": "1000401",
+        "TriggerType": "FinishMainMission"
+      }
+    ],
+    "TutorialGuideIDList": [
+      221201,
+      221202
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "20002009",
+        "TriggerType": "EnterBattle"
+      }
+    ],
+    "TutorialShowType": "Hide",
+    "GroupID": 2212,
+    "Order": 170,
+    "TutorialType": 1,
+    "MessageText": {
+      "Hash": 127282446
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [
+      {
+        "TriggerParam": "1000401",
+        "TriggerType": "FinishMainMission"
+      }
+    ],
+    "TutorialGuideIDList": [
+      221301
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "20002001",
+        "TriggerType": "EnterBattle"
+      }
+    ],
+    "TutorialShowType": "Hide",
+    "GroupID": 2213,
+    "Order": 180,
+    "TutorialType": 1,
+    "MessageText": {
+      "Hash": 127282445
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [
+      {
+        "TriggerParam": "1000401",
+        "TriggerType": "FinishMainMission"
+      }
+    ],
+    "TutorialGuideIDList": [
+      221401
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "20002009",
+        "TriggerType": "EnterBattle"
+      }
+    ],
+    "TutorialShowType": "Hide",
+    "GroupID": 2214,
+    "Order": 174,
+    "TutorialType": 1,
+    "MessageText": {
+      "Hash": 127282440
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [
+      {
+        "TriggerParam": "1000401",
+        "TriggerType": "FinishMainMission"
+      }
+    ],
+    "TutorialGuideIDList": [
+      221501
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "20002009",
+        "TriggerType": "EnterBattle"
+      }
+    ],
+    "TutorialShowType": "Hide",
+    "GroupID": 2215,
+    "Order": 173,
+    "TutorialType": 1,
+    "MessageText": {
+      "Hash": 127282439
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [
+      {
+        "TriggerParam": "1000401",
+        "TriggerType": "FinishMainMission"
+      }
+    ],
+    "TutorialGuideIDList": [
+      221601
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "20002009",
+        "TriggerType": "EnterBattle"
+      }
+    ],
+    "TutorialShowType": "Hide",
+    "GroupID": 2216,
+    "Order": 172,
+    "TutorialType": 1,
+    "MessageText": {
+      "Hash": 127282442
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [
+      {
+        "TriggerParam": "1000401",
+        "TriggerType": "FinishMainMission"
+      }
+    ],
+    "TutorialGuideIDList": [
+      221701
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "20002009",
+        "TriggerType": "EnterBattle"
+      }
+    ],
+    "TutorialShowType": "Hide",
+    "GroupID": 2217,
+    "Order": 171,
+    "TutorialType": 1,
+    "MessageText": {
+      "Hash": 127282441
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [
+      {
+        "TriggerParam": "1000401",
+        "TriggerType": "FinishMainMission"
+      }
+    ],
+    "TutorialGuideIDList": [
+      221801
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "20002001",
+        "TriggerType": "EnterBattle"
+      }
+    ],
+    "TutorialShowType": "Hide",
+    "GroupID": 2218,
+    "Order": 190,
+    "TutorialType": 1,
+    "MessageText": {
+      "Hash": 127282452
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [
+      {
+        "TriggerParam": "1033001",
+        "TriggerType": "FinishMainMission"
+      }
+    ],
+    "TutorialGuideIDList": [
+      221901
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "103300102",
+        "TriggerType": "TakeSubMission"
+      }
+    ],
+    "TutorialShowType": "Normal",
+    "GroupID": 2219,
+    "Order": 398,
+    "TutorialType": 1,
+    "MessageText": {
+      "Hash": 127282451
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      222001
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "1033101",
+        "TriggerType": "FinishMainMission"
+      }
+    ],
+    "TutorialShowType": "Normal",
+    "GroupID": 2220,
+    "Order": 399,
+    "TutorialType": 1,
+    "MessageText": {
+      "Hash": -276002083
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [
+      {
+        "TriggerParam": "1000401",
+        "TriggerType": "FinishMainMission"
+      }
+    ],
+    "TutorialGuideIDList": [
+      970101,
+      970102
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "20002001",
+        "TriggerType": "EnterBattle"
+      }
+    ],
+    "TutorialShowType": "Hide",
+    "GroupID": 2221,
+    "Order": 189,
+    "TutorialType": 1,
+    "MessageText": {
+      "Hash": -276002084
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [
+      {
+        "TriggerParam": "1033001",
+        "TriggerType": "FinishMainMission"
+      }
+    ],
+    "TutorialGuideIDList": [
+      222002
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "103300102",
+        "TriggerType": "TakeSubMission"
+      }
+    ],
+    "TutorialShowType": "Normal",
+    "GroupID": 2222,
+    "Order": 400,
+    "TutorialType": 1,
+    "MessageText": {
+      "Hash": -276002081
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [
+      {
+        "TriggerParam": "1000401",
+        "TriggerType": "FinishMainMission"
+      }
+    ],
+    "TutorialGuideIDList": [
+      222301
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "20002001",
+        "TriggerType": "EnterBattle"
+      }
+    ],
+    "TutorialShowType": "Hide",
+    "GroupID": 2223,
+    "Order": 193,
+    "TutorialType": 1,
+    "MessageText": {
+      "Hash": -276002082
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [
+      {
+        "TriggerParam": "1000401",
+        "TriggerType": "FinishMainMission"
+      }
+    ],
+    "TutorialGuideIDList": [
+      222401
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "20002001",
+        "TriggerType": "EnterBattle"
+      }
+    ],
+    "TutorialShowType": "Hide",
+    "GroupID": 2224,
+    "Order": 188,
+    "TutorialType": 1,
+    "MessageText": {
+      "Hash": -276002087
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [
+      {
+        "TriggerParam": "2022002",
+        "TriggerType": "FinishMainMission"
+      }
+    ],
+    "TutorialGuideIDList": [
+      222501,
+      222502
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "20241051",
+        "TriggerType": "EnterBattle"
+      }
+    ],
+    "TutorialShowType": "BattleStart",
+    "GroupID": 2225,
+    "Order": 410,
+    "TutorialType": 1,
+    "MessageText": {
+      "Hash": -276002088
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [
+      {
+        "TriggerParam": "2022003",
+        "TriggerType": "FinishMainMission"
+      }
+    ],
+    "TutorialGuideIDList": [
+      222601,
+      222602
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "20241053",
+        "TriggerType": "EnterBattle"
+      }
+    ],
+    "TutorialShowType": "BattleStart",
+    "GroupID": 2226,
+    "Order": 415,
+    "TutorialType": 1,
+    "MessageText": {
+      "Hash": -276002085
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [
+      {
+        "TriggerParam": "1000401",
+        "TriggerType": "FinishMainMission"
+      }
+    ],
+    "TutorialGuideIDList": [
+      222701
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "20002001",
+        "TriggerType": "EnterBattle"
+      }
+    ],
+    "TutorialShowType": "Hide",
+    "GroupID": 2227,
+    "Order": 194,
+    "TutorialType": 1,
+    "MessageText": {
+      "Hash": -276002086
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [
+      {
+        "TriggerParam": "1000401",
+        "TriggerType": "FinishMainMission"
+      }
+    ],
+    "TutorialGuideIDList": [
+      300701
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "3007",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "Normal",
+    "GroupID": 3007,
+    "Order": 296,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": 1552203943
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      310501
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "3001",
+        "TriggerType": "TutorialFinish"
+      }
+    ],
+    "TutorialShowType": "Normal",
+    "GroupID": 3105,
+    "Order": 397,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": 1552203978
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [
+      {
+        "TriggerParam": "1000401",
+        "TriggerType": "FinishMainMission"
+      }
+    ],
+    "TutorialGuideIDList": [
+      310502
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "4011",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "Normal",
+    "GroupID": 3106,
+    "Order": 396,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": 1552203975
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      310701
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "5001",
+        "TriggerType": "TutorialFinish"
+      }
+    ],
+    "TutorialShowType": "Normal",
+    "GroupID": 3107,
+    "Order": 392,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": 1552203976
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      310801
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "5013",
+        "TriggerType": "TutorialFinish"
+      }
+    ],
+    "TutorialShowType": "Normal",
+    "GroupID": 3108,
+    "Order": 391,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": 1552203989
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      310901
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "4040024",
+        "TriggerType": "FinishMainMission"
+      }
+    ],
+    "TutorialShowType": "Normal",
+    "GroupID": 3109,
+    "Order": 393,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": 1552203990
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [
+      {
+        "TriggerParam": "1010101",
+        "TriggerType": "FinishMainMission"
+      }
+    ],
+    "TutorialGuideIDList": [
+      320101,
+      320102,
+      320103,
+      320104
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "4030001",
+        "TriggerType": "FinishMainMission"
+      }
+    ],
+    "TutorialShowType": "Normal",
+    "GroupID": 3201,
+    "Order": 396,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": 1552203883
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      320201
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "MusicAlbumMainPage",
+        "TriggerType": "ShowUIPage"
+      }
+    ],
+    "TutorialShowType": "Hide",
+    "GroupID": 3202,
+    "Order": 396,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": 1552203886
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [
+      {
+        "TriggerParam": "1010401",
+        "TriggerType": "FinishMainMission"
+      }
+    ],
+    "TutorialGuideIDList": [
+      320301,
+      320302
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "4010",
+        "TriggerType": "TutorialFinish"
+      }
+    ],
+    "TutorialShowType": "Normal",
+    "GroupID": 3203,
+    "Order": 396,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": 1552203885
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      320401,
+      320402
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "3204",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "Normal",
+    "GroupID": 3204,
+    "Order": 396,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": 1552203880
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      320501
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "ChallengeSelectPage",
+        "TriggerType": "ShowUIPage"
+      }
+    ],
+    "TutorialShowType": "Hide",
+    "GroupID": 3205,
+    "Order": 396,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": 1552203879
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      320601,
+      320602
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "3206",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "Normal",
+    "GroupID": 3206,
+    "Order": 396,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": 1552203882
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      320701
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "4015",
+        "TriggerType": "TutorialFinish"
+      }
+    ],
+    "TutorialShowType": "Normal",
+    "GroupID": 3207,
+    "Order": 396,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": 1552203881
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      320801,
+      320802
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "3207",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "Normal",
+    "GroupID": 3208,
+    "Order": 396,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": 1552203892
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      320901,
+      320902
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "OfferingWorldShopPage",
+        "TriggerType": "ShowUIPage"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 3209,
+    "Order": 396,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": 1552203891
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      320901,
+      320902
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 3210,
+    "Order": 396,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": -13880057
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      321101,
+      321102
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "MissionChronicleMainPage",
+        "TriggerType": "ShowUIPage"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 3211,
+    "Order": 396,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": -13880058
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      321201,
+      321202,
+      321203,
+      321204
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "4017",
+        "TriggerType": "TutorialFinish"
+      }
+    ],
+    "TutorialShowType": "Normal",
+    "GroupID": 3212,
+    "Order": 396,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": -13880055
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [
+      {
+        "TriggerParam": "1031101",
+        "TriggerType": "FinishMainMission"
+      }
+    ],
+    "TutorialGuideIDList": [
+      321301,
+      321306,
+      321303,
+      321309,
+      321302,
+      321305,
+      321304,
+      321307
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "103110103",
+        "TriggerType": "TakeSubMission"
+      }
+    ],
+    "TutorialShowType": "Hide",
+    "GroupID": 3213,
+    "Order": 396,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": -13880056
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      321301,
+      321306,
+      321308
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 3214,
+    "Order": 396,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": -13880061
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      321501,
+      321502
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "4033",
+        "TriggerType": "TutorialFinish"
+      }
+    ],
+    "TutorialShowType": "Hide",
+    "GroupID": 3215,
+    "Order": 396,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": -13880062
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      321601,
+      321602
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "RelicReplacePage",
+        "TriggerType": "ShowUIPage"
+      }
+    ],
+    "TutorialShowType": "Hide",
+    "GroupID": 3216,
+    "Order": 396,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": -13880059
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      321701
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "3217",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "Normal",
+    "GroupID": 3217,
+    "Order": 397,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": -13880060
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [
+      {
+        "TriggerParam": "1010101",
+        "TriggerType": "FinishMainMission"
+      }
+    ],
+    "TutorialGuideIDList": [
+      400102,
+      400101
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "101010120",
+        "TriggerType": "TakeSubMission"
+      }
+    ],
+    "TutorialShowType": "Normal",
+    "GroupID": 4001,
+    "Order": 394,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": -1156476430
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [
+      {
+        "TriggerParam": "1000503",
+        "TriggerType": "FinishMainMission"
+      }
+    ],
+    "TutorialGuideIDList": [
+      210401
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "100050304",
+        "TriggerType": "TakeSubMission"
+      }
+    ],
+    "TutorialShowType": "Normal",
+    "GroupID": 4101,
+    "Order": 395,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": -1156476397
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [
+      {
+        "TriggerParam": "13",
+        "TriggerType": "PlayerLevel"
+      }
+    ],
+    "TutorialGuideIDList": [
+      410201
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "1010403",
+        "TriggerType": "FinishMainMission"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 4102,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": -1156476400
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [
+      {
+        "TriggerParam": "4020101",
+        "TriggerType": "FinishMainMission"
+      }
+    ],
+    "TutorialGuideIDList": [
+      410301
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "1011001",
+        "TriggerType": "FinishMainMission"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 4103,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": -1156476399
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      410401
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 4104,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": -1156476402
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      410501,
+      410502
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "1000400",
+        "TriggerType": "FinishMainMission"
+      },
+      {
+        "TriggerParam": "3006",
+        "TriggerType": "TutorialFinish"
+      }
+    ],
+    "TutorialShowType": "Normal",
+    "GroupID": 4105,
+    "Order": 396,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": -1156476401
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      410601
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "1010101",
+        "TriggerType": "FinishMainMission"
+      },
+      {
+        "TriggerParam": "14",
+        "TriggerType": "PlayerLevel"
+      },
+      {
+        "TriggerParam": "3010",
+        "TriggerType": "TutorialFinish"
+      }
+    ],
+    "TutorialShowType": "Normal",
+    "GroupID": 4106,
+    "Order": 390,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": -1156476404
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      410701
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "4107",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 4107,
+    "Order": 388,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": -1156476403
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      410901
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "4010120",
+        "TriggerType": "FinishMainMission"
+      }
+    ],
+    "TutorialShowType": "Normal",
+    "GroupID": 4109,
+    "Order": 389,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": -1156476389
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      411001
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "4110",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 4110,
+    "Order": 396,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": 409607543
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      510101
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "5008",
+        "TriggerType": "TutorialFinish"
+      },
+      {
+        "TriggerParam": "5101",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "Normal",
+    "GroupID": 5101,
+    "Order": 295,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": 1834528984
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      510201
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "5009",
+        "TriggerType": "TutorialFinish"
+      }
+    ],
+    "TutorialShowType": "Normal",
+    "GroupID": 5102,
+    "Order": 294,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": 1834528981
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      510301
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "5010",
+        "TriggerType": "TutorialFinish"
+      }
+    ],
+    "TutorialShowType": "Normal",
+    "GroupID": 5103,
+    "Order": 293,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": 1834528982
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      510401
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "5011",
+        "TriggerType": "TutorialFinish"
+      }
+    ],
+    "TutorialShowType": "Normal",
+    "GroupID": 5104,
+    "Order": 292,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": 1834528979
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      510501
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "5012",
+        "TriggerType": "TutorialFinish"
+      },
+      {
+        "TriggerParam": "5105",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "Normal",
+    "GroupID": 5105,
+    "Order": 291,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": 1834528980
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [
+      {
+        "TriggerParam": "6020101",
+        "TriggerType": "FinishMainMission"
+      }
+    ],
+    "TutorialGuideIDList": [
+      510602,
+      510603,
+      510604,
+      510601
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "5106",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "Hide",
+    "GroupID": 5106,
+    "Order": 290,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": 1834528977
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      600101,
+      600102
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "1",
+        "TriggerType": "TriggerPuzzle"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 6001,
+    "Order": 288,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": -874151428
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [
+      {
+        "TriggerParam": "1010501",
+        "TriggerType": "FinishMainMission"
+      }
+    ],
+    "TutorialGuideIDList": [
+      600201,
+      600202,
+      600203
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "101050125",
+        "TriggerType": "TakeSubMission"
+      },
+      {
+        "TriggerParam": "5007",
+        "TriggerType": "TutorialFinish"
+      }
+    ],
+    "TutorialShowType": "Normal",
+    "GroupID": 6002,
+    "Order": 288,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": -874151429
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [
+      {
+        "TriggerParam": "2010401",
+        "TriggerType": "FinishMainMission"
+      }
+    ],
+    "TutorialGuideIDList": [
+      600301,
+      600302,
+      600303
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "201040104",
+        "TriggerType": "TakeSubMission"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 6003,
+    "Order": 288,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": -874151430
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [
+      {
+        "TriggerParam": "1000400",
+        "TriggerType": "FinishMainMission"
+      }
+    ],
+    "TutorialGuideIDList": [
+      600401,
+      600402
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "100040145",
+        "TriggerType": "TakeSubMission"
+      }
+    ],
+    "TutorialShowType": "Normal",
+    "GroupID": 6004,
+    "Order": 290,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": -874151431
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      600801,
+      600802
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "6008",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "Hide",
+    "GroupID": 6008,
+    "Order": 289,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": -874151419
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      600901,
+      600902,
+      600903
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "6009",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "Hide",
+    "GroupID": 6009,
+    "Order": 285,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": -874151420
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      601001,
+      601002
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "6010",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "Normal",
+    "GroupID": 6010,
+    "Order": 285,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": 691932514
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      601101,
+      601102
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "6011",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 6011,
+    "Order": 285,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": 691932513
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      601201,
+      601202
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "6012",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "Hide",
+    "GroupID": 6012,
+    "Order": 285,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": 691932512
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      601401
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "6014",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 6014,
+    "Order": 287,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": 691932510
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      601501,
+      601502,
+      601503,
+      601504
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "6015",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "Normal",
+    "GroupID": 6015,
+    "Order": 287,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": 691932509
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [
+      {
+        "TriggerParam": "1020501",
+        "TriggerType": "FinishMainMission"
+      }
+    ],
+    "TutorialGuideIDList": [
+      601702
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "102050106",
+        "TriggerType": "TakeSubMission"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 6018,
+    "Order": 285,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": 691932522
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      602001
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "6020",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "Normal",
+    "GroupID": 6020,
+    "Order": 285,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": 288647987
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      602101,
+      602102,
+      602103
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "6021",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "AutoShowInMaze",
+    "GroupID": 6021,
+    "Order": 285,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": 288647986
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      602301
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "6023",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "Hide",
+    "GroupID": 6023,
+    "Order": 285,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": 288647984
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      602302
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "6024",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 6024,
+    "Order": 285,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": 288647983
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      602303
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "6025",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 6025,
+    "Order": 285,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": 288647982
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      602601
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "6026",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "Normal",
+    "GroupID": 6026,
+    "Order": 285,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": 288647981
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [
+      {
+        "TriggerParam": "4071320",
+        "TriggerType": "FinishMainMission"
+      }
+    ],
+    "TutorialGuideIDList": [
+      602701,
+      602702,
+      602703
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "407132002",
+        "TriggerType": "TakeSubMission"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 6027,
+    "Order": 286,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": 288647980
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      602801,
+      602802,
+      602803
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "6028",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 6028,
+    "Order": 0,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": 288647995
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      601201,
+      601202,
+      601203
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "6029",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 6029,
+    "Order": 285,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": 288647994
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      601203
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "6030",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "Normal",
+    "GroupID": 6030,
+    "Order": 285,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": 1854731928
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      603101,
+      603102
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "6031",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "Normal",
+    "GroupID": 6031,
+    "Order": 285,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": 1854731927
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      603201
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 6032,
+    "Order": 0,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": 1854731926
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      603301
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "6033",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "Normal",
+    "GroupID": 6033,
+    "Order": 285,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": 1854731925
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      603401
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "6034",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "Normal",
+    "GroupID": 6034,
+    "Order": 285,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": 1854731924
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      603501,
+      603502
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "6035",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "AutoShowInMaze",
+    "GroupID": 6035,
+    "Order": 285,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": 1854731923
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      603601,
+      603602,
+      603603
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "6036",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "AutoShowInMaze",
+    "GroupID": 6036,
+    "Order": 0,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": 1854731922
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [
+      {
+        "TriggerParam": "8014106",
+        "TriggerType": "FinishMainMission"
+      }
+    ],
+    "TutorialGuideIDList": [
+      603701,
+      603702,
+      603703
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "6037",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "AutoShowInMaze",
+    "GroupID": 6037,
+    "Order": 0,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": 1854731921
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      603801,
+      603802,
+      603803
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "6038",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "AutoShowInMaze",
+    "GroupID": 6038,
+    "Order": 285,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": 1854731936
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      603901
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "6039",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "AutoShowInMaze",
+    "GroupID": 6039,
+    "Order": 285,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": 1854731935
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [
+      {
+        "TriggerParam": "2020602",
+        "TriggerType": "FinishMainMission"
+      }
+    ],
+    "TutorialGuideIDList": [
+      604001,
+      604002
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "202060213",
+        "TriggerType": "TakeSubMission"
+      }
+    ],
+    "TutorialShowType": "Hide",
+    "GroupID": 6040,
+    "Order": 285,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": 1451447401
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      604101,
+      604102,
+      604103,
+      604104,
+      604105
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "6041",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "AutoShowInMaze",
+    "GroupID": 6041,
+    "Order": 285,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": 1451447400
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      604201,
+      604202,
+      604203
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "6042",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "Hide",
+    "GroupID": 6042,
+    "Order": 285,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": 1451447399
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      604301,
+      604302
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "6043",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 6043,
+    "Order": 285,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": 1451447398
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      604401,
+      604402,
+      604403,
+      604404
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "6044",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 6044,
+    "Order": 285,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": 1451447397
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      604501,
+      604502
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "6045",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "AutoShowInMaze",
+    "GroupID": 6045,
+    "Order": 285,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": 1451447396
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      604601,
+      604602,
+      604603
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "6046",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "Normal",
+    "GroupID": 6046,
+    "Order": 285,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": 1451447395
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      604701,
+      604702
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "200090205",
+        "TriggerType": "TakeSubMission"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 6047,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": 1451447394
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      604801,
+      604802
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "200090211",
+        "TriggerType": "TakeSubMission"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 6048,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": 1451447409
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      604901,
+      604902
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "200090305",
+        "TriggerType": "TakeSubMission"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 6049,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": 1451447408
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [
+      {
+        "TriggerParam": "2001001",
+        "TriggerType": "FinishMainMission"
+      }
+    ],
+    "TutorialGuideIDList": [
+      605001,
+      605003,
+      605002
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "DecalPuzzleMainPage",
+        "TriggerType": "ShowUIPage"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 6050,
+    "Order": 285,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": -1277435954
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      605101,
+      605102,
+      605103,
+      605104
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "6051",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 6051,
+    "Order": 285,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": -1277435955
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      605201,
+      605202
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "6052",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 6052,
+    "Order": 289,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": -1277435956
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      605301
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "6053",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 6053,
+    "Order": 286,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": -1277435957
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      605401,
+      605402
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "6054",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 6054,
+    "Order": 288,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": -1277435958
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      605501
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "6055",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 6055,
+    "Order": 285,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": -1277435959
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      605601,
+      605602,
+      605603
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "6056",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 6056,
+    "Order": 285,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": -1277435960
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      605701,
+      605702,
+      605703
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "6057",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "AutoShowInMaze",
+    "GroupID": 6057,
+    "Order": 285,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": -1277435961
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      605801
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "6058",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "AutoShowInMaze",
+    "GroupID": 6058,
+    "Order": 285,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": -1277435946
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      605901
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "6059",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "AutoShowInMaze",
+    "GroupID": 6059,
+    "Order": 285,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": -1277435947
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      606001
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "6060",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "AutoShowInMaze",
+    "GroupID": 6060,
+    "Order": 285,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": -1680720481
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      606101
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "6061",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "AutoShowInMaze",
+    "GroupID": 6061,
+    "Order": 285,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": -1680720482
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [
+      {
+        "TriggerParam": "1030401",
+        "TriggerType": "FinishMainMission"
+      }
+    ],
+    "TutorialGuideIDList": [
+      606201,
+      606203
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "103040107",
+        "TriggerType": "TakeSubMission"
+      }
+    ],
+    "TutorialShowType": "AutoShowInMaze",
+    "GroupID": 6062,
+    "Order": 285,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": -1680720483
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [
+      {
+        "TriggerParam": "1030402",
+        "TriggerType": "FinishMainMission"
+      }
+    ],
+    "TutorialGuideIDList": [
+      606301,
+      606302,
+      606303
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "103040225",
+        "TriggerType": "TakeSubMission"
+      }
+    ],
+    "TutorialShowType": "AutoShowInMaze",
+    "GroupID": 6063,
+    "Order": 285,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": -1680720484
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      606401,
+      606402,
+      606403,
+      606404
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "6064",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 6064,
+    "Order": 285,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": -1680720485
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      606501,
+      606502
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "6065",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 6065,
+    "Order": 285,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": -1680720486
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      606503,
+      606504,
+      606505,
+      606506,
+      606509
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "6066",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 6066,
+    "Order": 285,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": -1680720487
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      606701
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "6067",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 6067,
+    "Order": 285,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": -1680720488
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      606801,
+      606802
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "6068",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "Normal",
+    "GroupID": 6068,
+    "Order": 285,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": -1680720473
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      606901
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "6069",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "Normal",
+    "GroupID": 6069,
+    "Order": 285,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": -1680720474
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      607001,
+      607002
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "6070",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "Normal",
+    "GroupID": 6070,
+    "Order": 285,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": -114636540
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      606507,
+      606508
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "6071",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 6071,
+    "Order": 285,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": -114636541
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      606601
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "6072",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 6072,
+    "Order": 285,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": -114636542
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [
+      {
+        "TriggerParam": "9704",
+        "TriggerType": "TutorialFinish"
+      }
+    ],
+    "TutorialGuideIDList": [
+      606602,
+      606603
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "6073",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "Hide",
+    "GroupID": 6073,
+    "Order": 285,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": -114636543
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      606604
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "6074",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 6074,
+    "Order": 285,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": -114636544
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      606605
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "6075",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 6075,
+    "Order": 285,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": -114636545
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      607601,
+      607602
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "AutoShowInMaze",
+    "GroupID": 6076,
+    "Order": 285,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": -114636546
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      605101,
+      605102,
+      605103,
+      605104
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "6077",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 6077,
+    "Order": 285,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": -114636547
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      605701,
+      605702,
+      605703
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "6078",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "AutoShowInMaze",
+    "GroupID": 6078,
+    "Order": 285,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": -114636532
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      605801
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "6079",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "AutoShowInMaze",
+    "GroupID": 6079,
+    "Order": 285,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": -114636533
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      605901
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "6080",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "AutoShowInMaze",
+    "GroupID": 6080,
+    "Order": 285,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": -517921067
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      606001
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "6081",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "AutoShowInMaze",
+    "GroupID": 6081,
+    "Order": 285,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": -517921068
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      606101
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "6082",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "AutoShowInMaze",
+    "GroupID": 6082,
+    "Order": 285,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": -517921069
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      606401,
+      606402,
+      606403,
+      606404
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "6083",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 6083,
+    "Order": 285,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": -517921070
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      606601
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "6085",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 6085,
+    "Order": 285,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": -517921072
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      606602,
+      606603
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "6086",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 6086,
+    "Order": 285,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": -517921073
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      606604
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "6087",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 6087,
+    "Order": 285,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": -517921074
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      606605
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "6088",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 6088,
+    "Order": 285,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": -517921059
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      608901
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "6089",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 6089,
+    "Order": 285,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": -517921060
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      606601,
+      606602,
+      606603,
+      606604,
+      606605
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 6090,
+    "Order": 0,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": 1048162874
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      605201,
+      605202,
+      605301,
+      605203,
+      605204
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 6091,
+    "Order": 0,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": 1048162873
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      605201,
+      605202,
+      605301,
+      605501
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 6092,
+    "Order": 0,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": 1048162872
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      605401,
+      605402,
+      610301,
+      605403,
+      605404
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 6093,
+    "Order": 0,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": 1048162871
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      605401,
+      605402,
+      610301,
+      610401
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 6094,
+    "Order": 0,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": 1048162870
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      609501
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "6095",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "Normal",
+    "GroupID": 6095,
+    "Order": 285,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": 1048162869
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      609601,
+      609602,
+      609603,
+      609604
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "6096",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 6096,
+    "Order": 285,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": 1048162868
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      609701
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "6097",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 6097,
+    "Order": 285,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": 1048162867
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      609801
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "6098",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 6098,
+    "Order": 285,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": 1048162882
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      609801,
+      609802
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "6099",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 6099,
+    "Order": 285,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": 1048162881
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      610001,
+      610002
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "6100",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 6100,
+    "Order": 285,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": -874151396
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      605203,
+      605204
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "6101",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 6101,
+    "Order": 287,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": -874151395
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      605403,
+      605404
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "6102",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 6102,
+    "Order": 285,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": -874151398
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      610301
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "6103",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 6103,
+    "Order": 285,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": -874151397
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      610401
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "6104",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 6104,
+    "Order": 285,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": -874151400
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      610501,
+      610502,
+      610503,
+      610504
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "6105",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 6105,
+    "Order": 285,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": -874151399
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      610601,
+      610602,
+      610603
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "6106",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 6106,
+    "Order": 285,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": -874151402
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      610701,
+      610702
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "6107",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "Hide",
+    "GroupID": 6107,
+    "Order": 285,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": -874151401
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      605401,
+      605402,
+      610502,
+      610503
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 6108,
+    "Order": 0,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": -874151388
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      610901
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "6109",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 6109,
+    "Order": 285,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": -874151387
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      611001,
+      611002
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "6110",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 6110,
+    "Order": 285,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": 691932545
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      611101
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "6111",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 6111,
+    "Order": 285,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": 691932546
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      611201
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "6112",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 6112,
+    "Order": 285,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": 691932543
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      611301,
+      611302,
+      611303,
+      611304
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "6113",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "Hide",
+    "GroupID": 6113,
+    "Order": 285,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": 691932544
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      611701,
+      611702,
+      611703,
+      611704,
+      611705
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "6117",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "Hide",
+    "GroupID": 6117,
+    "Order": 285,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": 691932540
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      611801,
+      611802,
+      611803
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "6118",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 6118,
+    "Order": 285,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": 691932553
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      611901,
+      611902,
+      611903
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "6119",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 6119,
+    "Order": 285,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": 691932554
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [
+      {
+        "TriggerParam": "1036002",
+        "TriggerType": "FinishMainMission"
+      }
+    ],
+    "TutorialGuideIDList": [
+      612001
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "103600217",
+        "TriggerType": "TakeSubMission"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 6120,
+    "Order": 285,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": 288648018
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      709001
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "7090",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "AutoShowInMaze",
+    "GroupID": 7090,
+    "Order": 285,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": 907000373
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      709101,
+      709102,
+      709103
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "7091",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "AutoShowInMaze",
+    "GroupID": 7091,
+    "Order": 285,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": 907000372
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      709201
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "7092",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "AutoShowInMaze",
+    "GroupID": 7092,
+    "Order": 285,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": 907000371
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      710001
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 7100,
+    "Order": 0,
+    "TutorialType": 1,
+    "MessageText": {
+      "Hash": 2116853985
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      710101
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 7101,
+    "Order": 0,
+    "TutorialType": 1,
+    "MessageText": {
+      "Hash": 2116853986
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      750101
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 7501,
+    "Order": 0,
+    "TutorialType": 1,
+    "MessageText": {
+      "Hash": 2116853854
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      750201,
+      750202
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 7502,
+    "Order": 0,
+    "TutorialType": 1,
+    "MessageText": {
+      "Hash": 2116853851
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      750302,
+      750303
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 7503,
+    "Order": 0,
+    "TutorialType": 1,
+    "MessageText": {
+      "Hash": 2116853852
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      750401,
+      750501
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 7504,
+    "Order": 0,
+    "TutorialType": 1,
+    "MessageText": {
+      "Hash": 2116853857
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      750601,
+      750602
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 7506,
+    "Order": 0,
+    "TutorialType": 1,
+    "MessageText": {
+      "Hash": 2116853855
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      750701
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 7507,
+    "Order": 0,
+    "TutorialType": 1,
+    "MessageText": {
+      "Hash": 2116853856
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      750801
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 7508,
+    "Order": 0,
+    "TutorialType": 1,
+    "MessageText": {
+      "Hash": 2116853861
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      750901
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 7509,
+    "Order": 0,
+    "TutorialType": 1,
+    "MessageText": {
+      "Hash": 2116853862
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      751101
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 7511,
+    "Order": 0,
+    "TutorialType": 1,
+    "MessageText": {
+      "Hash": 550769913
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      751401,
+      751402
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 7514,
+    "Order": 0,
+    "TutorialType": 1,
+    "MessageText": {
+      "Hash": 550769916
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      751501
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 7515,
+    "Order": 0,
+    "TutorialType": 1,
+    "MessageText": {
+      "Hash": 550769917
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      800101,
+      800102,
+      800501
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 8001,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": 1444540854
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      800201,
+      800202,
+      800203,
+      800204
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "SilverWolfActivityMissionPage",
+        "TriggerType": "ShowUIPage"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 8002,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": 1444540853
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      800301,
+      800302
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 8003,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": 1444540852
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      800402,
+      800403,
+      800401
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "8004",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 8004,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": 1444540851
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      800202
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "8006",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "AutoShowInMaze",
+    "GroupID": 8006,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": 1444540849
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      800203,
+      800205
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "8007",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "AutoShowInMaze",
+    "GroupID": 8007,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": 1444540848
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      800802,
+      800801
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 8008,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": 1444540863
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      801001,
+      801020,
+      801002,
+      801003,
+      801008,
+      801026,
+      801004
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 8010,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": -1284342500
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      801006
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "TreasureDungeon_8011",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 8011,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": -1284342501
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      801007
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "TreasureDungeon_8012",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 8012,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": -1284342502
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      801008,
+      801026
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "TreasureDungeon_8013",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 8013,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": -1284342503
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      801009
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "TreasureDungeon_8014",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 8014,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": -1284342504
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      801010
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "TreasureDungeon_8015",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 8015,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": -1284342505
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      801011
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 8016,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": -1284342506
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      801012,
+      801024
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 8017,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": -1284342507
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      801013
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 8018,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": -1284342492
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      801014,
+      801023
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 8019,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": -1284342493
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      801015,
+      801021
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 8020,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": 281741441
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      801016
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 8021,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": 281741440
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      801017
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 8022,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": 281741439
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      801018
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "TreasureDungeon_8023",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 8023,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": 281741438
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      801019
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "TreasureDungeon_8024",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 8024,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": 281741437
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      801005
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "TreasureDungeon_8025",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 8025,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": 281741436
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      801101,
+      801102,
+      801103
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "TreasureDungeon_8026",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 8026,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": 281741435
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      801105,
+      801106
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "TutorialAlleyTransportMainPage",
+        "TriggerType": "ShowUIPage"
+      }
+    ],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 8027,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": 281741434
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      801103
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 8028,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": 281741449
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      801201,
+      801203
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 8038,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": 1847825390
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      801205
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 8039,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": 1847825389
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      801207,
+      801208
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "800120106",
+        "TriggerType": "TakeSubMission"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 8047,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": -881057980
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      801022
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 8050,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": 685025968
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      801025
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 8051,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": 685025967
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      801001,
+      801020
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "TreasureDungeonMainPage",
+        "TriggerType": "ShowUIPage"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 8052,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": 685025966
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      805501,
+      805502,
+      805503
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 8055,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": 685025963
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      805506,
+      805504,
+      805505,
+      805507
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 8056,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": 685025962
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      801101,
+      801102
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 8057,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": 685025961
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      801105,
+      801106,
+      801107,
+      801108
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 8058,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": 685025976
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      801119
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 8059,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": 685025975
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      801109,
+      801110
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "8061",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 8061,
+    "Order": 288,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": -2043857388
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      806201,
+      806202,
+      806203
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "8062",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "AutoShowInMaze",
+    "GroupID": 8062,
+    "Order": 285,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": -2043857389
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      806301,
+      806302
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 8063,
+    "Order": 0,
+    "TutorialType": 1,
+    "MessageText": {
+      "Hash": -2043857390
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      801107
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "SecondTutorialAlleyTransportMainPage",
+        "TriggerType": "ShowUIPage"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 8064,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": -2043857391
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      801108
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "6013171",
+        "TriggerType": "FinishQuest"
+      }
+    ],
+    "TutorialShowType": "AutoShowInMaze",
+    "GroupID": 8065,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": -2043857392
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      806601,
+      806602,
+      806603,
+      801119,
+      801120
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 8066,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": -2043857393
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      801121
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "AetherDivideEntryPage",
+        "TriggerType": "ShowUIPage"
+      },
+      {
+        "TriggerParam": "8014106",
+        "TriggerType": "FinishMainMission"
+      },
+      {
+        "TriggerParam": "8014137",
+        "TriggerType": "FinishMainMission"
+      },
+      {
+        "TriggerParam": "8014138",
+        "TriggerType": "FinishMainMission"
+      },
+      {
+        "TriggerParam": "8014139",
+        "TriggerType": "FinishMainMission"
+      },
+      {
+        "TriggerParam": "8014140",
+        "TriggerType": "FinishMainMission"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 8067,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": -2043857394
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      806901,
+      806902
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 8069,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": -2043857380
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      807001,
+      807002,
+      807003,
+      807004
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 8070,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": -477773446
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      807201
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "8072",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 8072,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": -477773448
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      807301,
+      807302,
+      807304,
+      807303
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "2",
+        "TriggerType": "EnterBattleByChallengeType"
+      },
+      {
+        "TriggerParam": "5092",
+        "TriggerType": "TutorialFinish"
+      }
+    ],
+    "TutorialShowType": "BattleStart",
+    "GroupID": 8073,
+    "Order": 0,
+    "TutorialType": 1,
+    "MessageText": {
+      "Hash": -477773449
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      807401,
+      807405,
+      807403
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "8074",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "Hide",
+    "GroupID": 8074,
+    "Order": 0,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": -477773450
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      807501,
+      807502
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 8075,
+    "Order": 0,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": -477773451
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      807601,
+      807602
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 8076,
+    "Order": 0,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": -477773452
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      807801,
+      807802
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 8078,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": -477773438
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      807901,
+      807902
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "8079",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "AutoShowInMaze",
+    "GroupID": 8079,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": -477773439
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      808001
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "StrongChallengeMainPage",
+        "TriggerType": "ShowUIPage"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 8080,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": 1088310495
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      809001,
+      809002
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 8090,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": -1640572860
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      809101,
+      809102,
+      809103
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "413004",
+        "TriggerType": "EnterBattle"
+      }
+    ],
+    "TutorialShowType": "BattleStart",
+    "GroupID": 8091,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": -1640572861
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      809201,
+      809202
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "413001",
+        "TriggerType": "EnterBattle"
+      }
+    ],
+    "TutorialShowType": "BattleStart",
+    "GroupID": 8092,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": -1640572862
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      809301,
+      809302,
+      809303
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "413002",
+        "TriggerType": "EnterBattle"
+      }
+    ],
+    "TutorialShowType": "BattleStart",
+    "GroupID": 8093,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": -1640572863
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      809401,
+      809402,
+      809403
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "413003",
+        "TriggerType": "EnterBattle"
+      }
+    ],
+    "TutorialShowType": "BattleStart",
+    "GroupID": 8094,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": -1640572864
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      809501
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "BattleStart",
+    "GroupID": 8095,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": 371857150
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      809601,
+      809602
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "BattleStart",
+    "GroupID": 8096,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": -1640572866
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      810001,
+      810002,
+      810003
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "ActivityFeverTimeMainPage",
+        "TriggerType": "ShowUIPage"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 8100,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": 1444540886
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      810101,
+      810102
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "26",
+        "TriggerType": "EnterBattleByStageType"
+      },
+      {
+        "TriggerParam": "3107002",
+        "TriggerType": "CarryMazeBuff"
+      }
+    ],
+    "TutorialShowType": "BattleStart",
+    "GroupID": 8101,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": 1444540887
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      810201,
+      810202
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "26",
+        "TriggerType": "EnterBattleByStageType"
+      },
+      {
+        "TriggerParam": "3107003",
+        "TriggerType": "CarryMazeBuff"
+      }
+    ],
+    "TutorialShowType": "BattleStart",
+    "GroupID": 8102,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": 1444540884
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      810301,
+      810302
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "26",
+        "TriggerType": "EnterBattleByStageType"
+      },
+      {
+        "TriggerParam": "3107102",
+        "TriggerType": "CarryMazeBuff"
+      }
+    ],
+    "TutorialShowType": "BattleStart",
+    "GroupID": 8103,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": 1444540885
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      810401,
+      810402
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "26",
+        "TriggerType": "EnterBattleByStageType"
+      },
+      {
+        "TriggerParam": "3107103",
+        "TriggerType": "CarryMazeBuff"
+      }
+    ],
+    "TutorialShowType": "BattleStart",
+    "GroupID": 8104,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": 1444540882
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      810501,
+      810502
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "26",
+        "TriggerType": "EnterBattleByStageType"
+      },
+      {
+        "TriggerParam": "3107202",
+        "TriggerType": "CarryMazeBuff"
+      }
+    ],
+    "TutorialShowType": "BattleStart",
+    "GroupID": 8105,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": 1444540883
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      810601,
+      810602
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "26",
+        "TriggerType": "EnterBattleByStageType"
+      },
+      {
+        "TriggerParam": "3107203",
+        "TriggerType": "CarryMazeBuff"
+      }
+    ],
+    "TutorialShowType": "BattleStart",
+    "GroupID": 8106,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": 1444540880
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      810701,
+      810702
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "415005",
+        "TriggerType": "EnterBattle"
+      }
+    ],
+    "TutorialShowType": "BattleStart",
+    "GroupID": 8107,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": 1444540881
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      810801,
+      810802
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "26",
+        "TriggerType": "EnterBattleByStageType"
+      },
+      {
+        "TriggerParam": "3107303",
+        "TriggerType": "CarryMazeBuff"
+      }
+    ],
+    "TutorialShowType": "BattleStart",
+    "GroupID": 8108,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": 1444540894
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      810901,
+      810902
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "26",
+        "TriggerType": "EnterBattleByStageType"
+      },
+      {
+        "TriggerParam": "3107302",
+        "TriggerType": "CarryMazeBuff"
+      }
+    ],
+    "TutorialShowType": "BattleStart",
+    "GroupID": 8109,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": 1444540895
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      811001,
+      811003
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 8110,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": -1284342469
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      811101,
+      811102
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "26",
+        "TriggerType": "EnterBattleByStageType"
+      },
+      {
+        "TriggerParam": "3107502",
+        "TriggerType": "CarryMazeBuff"
+      }
+    ],
+    "TutorialShowType": "BattleStart",
+    "GroupID": 8111,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": -1284342468
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      811201,
+      811202
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "26",
+        "TriggerType": "EnterBattleByStageType"
+      },
+      {
+        "TriggerParam": "3107503",
+        "TriggerType": "CarryMazeBuff"
+      }
+    ],
+    "TutorialShowType": "BattleStart",
+    "GroupID": 8112,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": -1284342471
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      811301,
+      811302
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 8113,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": -1284342470
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      812201,
+      812202,
+      812203
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 8122,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": 281741470
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      812204
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 8123,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": 281741471
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      610601,
+      610602,
+      610603
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 8124,
+    "Order": 0,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": 281741468
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      813601,
+      813602,
+      813603,
+      813604,
+      813605
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 8130,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": 371857150
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      813101
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 8131,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": 1847825414
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      813201
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 8132,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": 1847825411
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      813301
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 8133,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": 1847825412
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      813401
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 8134,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": 1847825409
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      813501
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 8135,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": 1847825410
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      813601,
+      813602
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 8136,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": 1847825407
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      813601,
+      813602,
+      813604,
+      813605
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 8137,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": 1847825408
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      813801,
+      813802,
+      813804,
+      813803
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 8138,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": 1847825421
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      813601,
+      813602,
+      813604,
+      813605
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 8139,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": 1847825422
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      814001,
+      814002,
+      814003,
+      814004
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 8140,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": -881057942
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      814101,
+      814102
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 8141,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": -881057941
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      814201,
+      814202
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "414021",
+        "TriggerType": "EnterBattle"
+      }
+    ],
+    "TutorialShowType": "BattleStart",
+    "GroupID": 8142,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": -881057944
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      814301,
+      814302
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "414031",
+        "TriggerType": "EnterBattle"
+      }
+    ],
+    "TutorialShowType": "BattleStart",
+    "GroupID": 8143,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": -881057943
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      814501,
+      814502
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "414041",
+        "TriggerType": "EnterBattle"
+      }
+    ],
+    "TutorialShowType": "BattleStart",
+    "GroupID": 8144,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": -881057946
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      814501,
+      814502
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "414051",
+        "TriggerType": "EnterBattle"
+      }
+    ],
+    "TutorialShowType": "BattleStart",
+    "GroupID": 8145,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": -881057945
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      814601,
+      814602
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "414061",
+        "TriggerType": "EnterBattle"
+      }
+    ],
+    "TutorialShowType": "BattleStart",
+    "GroupID": 8146,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": -881057948
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      814701,
+      814702,
+      814703
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 8147,
+    "Order": 0,
+    "TutorialType": 1,
+    "MessageText": {
+      "Hash": -881057947
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      814801,
+      814802,
+      814803
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 8148,
+    "Order": 0,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": -881057934
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      814901,
+      814902
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 8149,
+    "Order": 0,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": -881057933
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      815001,
+      815002
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "417001",
+        "TriggerType": "EnterBattle"
+      }
+    ],
+    "TutorialShowType": "BattleStart",
+    "GroupID": 8150,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": 685025999
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      815101,
+      815102
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "417008",
+        "TriggerType": "EnterBattle"
+      }
+    ],
+    "TutorialShowType": "BattleStart",
+    "GroupID": 8151,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": 685026000
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      815202,
+      815502
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "417003",
+        "TriggerType": "EnterBattle"
+      }
+    ],
+    "TutorialShowType": "BattleStart",
+    "GroupID": 8152,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": 685025997
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      815301,
+      815302
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "417006",
+        "TriggerType": "EnterBattle"
+      }
+    ],
+    "TutorialShowType": "BattleStart",
+    "GroupID": 8153,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": 685025998
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      815401,
+      815402
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "417004",
+        "TriggerType": "EnterBattle"
+      }
+    ],
+    "TutorialShowType": "BattleStart",
+    "GroupID": 8154,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": 685025995
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      815501
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "417007",
+        "TriggerType": "EnterBattle"
+      }
+    ],
+    "TutorialShowType": "BattleStart",
+    "GroupID": 8155,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": 685025996
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      815601,
+      815602
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "417002",
+        "TriggerType": "EnterBattle"
+      }
+    ],
+    "TutorialShowType": "BattleStart",
+    "GroupID": 8156,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": 685025993
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      815701,
+      815702
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "417009",
+        "TriggerType": "EnterBattle"
+      }
+    ],
+    "TutorialShowType": "BattleStart",
+    "GroupID": 8157,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": 685025994
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      815801,
+      815802,
+      815803
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 8158,
+    "Order": 0,
+    "TutorialType": 1,
+    "MessageText": {
+      "Hash": 685026007
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      816001
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 8160,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": -2043857356
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      816102,
+      816101
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 8161,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": -2043857355
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      816201,
+      816202
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 8162,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": -2043857358
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      816301
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 8163,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": -2043857357
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      816401,
+      816402,
+      816403
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 8164,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": -2043857360
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      816501
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 8165,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": -2043857359
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      816601
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 8166,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": -2043857362
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      816101
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 8167,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": -2043857361
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      816701,
+      816702,
+      816703
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 8168,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": -2043857348
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      817001,
+      817002
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "421001",
+        "TriggerType": "EnterBattle"
+      }
+    ],
+    "TutorialShowType": "BattleStart",
+    "GroupID": 8170,
+    "Order": 0,
+    "TutorialType": 1,
+    "MessageText": {
+      "Hash": -477773415
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      817101,
+      817102,
+      817103
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "421011",
+        "TriggerType": "EnterBattle"
+      }
+    ],
+    "TutorialShowType": "BattleStart",
+    "GroupID": 8171,
+    "Order": 0,
+    "TutorialType": 1,
+    "MessageText": {
+      "Hash": -477773414
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      817201,
+      817202,
+      817203
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "421021",
+        "TriggerType": "EnterBattle"
+      }
+    ],
+    "TutorialShowType": "BattleStart",
+    "GroupID": 8172,
+    "Order": 0,
+    "TutorialType": 1,
+    "MessageText": {
+      "Hash": -477773417
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      817301,
+      817302
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "421031",
+        "TriggerType": "EnterBattle"
+      }
+    ],
+    "TutorialShowType": "BattleStart",
+    "GroupID": 8173,
+    "Order": 0,
+    "TutorialType": 1,
+    "MessageText": {
+      "Hash": -477773416
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      817401,
+      817402
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "421041",
+        "TriggerType": "EnterBattle"
+      }
+    ],
+    "TutorialShowType": "BattleStart",
+    "GroupID": 8174,
+    "Order": 0,
+    "TutorialType": 1,
+    "MessageText": {
+      "Hash": -477773419
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      817501,
+      817502,
+      817503,
+      817504
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 8175,
+    "Order": 0,
+    "TutorialType": 1,
+    "MessageText": {
+      "Hash": -477773418
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      817601,
+      817602
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 8176,
+    "Order": 0,
+    "TutorialType": 1,
+    "MessageText": {
+      "Hash": -477773421
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      818001,
+      818002,
+      818004,
+      818003
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 8180,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": 1088310526
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      818101,
+      818102
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "FightFestChallengeEntrancePage",
+        "TriggerType": "ShowUIPage"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 8181,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": 1088310527
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      818201,
+      818202,
+      818203
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "419000",
+        "TriggerType": "EnterBattle"
+      }
+    ],
+    "TutorialShowType": "Hide",
+    "GroupID": 8182,
+    "Order": 0,
+    "TutorialType": 1,
+    "MessageText": {
+      "Hash": 1088310524
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      818301,
+      818302,
+      818203
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "419201",
+        "TriggerType": "EnterBattle"
+      }
+    ],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 8183,
+    "Order": 0,
+    "TutorialType": 1,
+    "MessageText": {
+      "Hash": 1088310525
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      818401,
+      818402,
+      818403,
+      818203
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "419202",
+        "TriggerType": "EnterBattle"
+      }
+    ],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 8184,
+    "Order": 0,
+    "TutorialType": 1,
+    "MessageText": {
+      "Hash": 1088310522
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      818501,
+      818502,
+      818203
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "419203",
+        "TriggerType": "EnterBattle"
+      }
+    ],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 8185,
+    "Order": 0,
+    "TutorialType": 1,
+    "MessageText": {
+      "Hash": 1088310523
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      818601,
+      818602,
+      818203
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "419204",
+        "TriggerType": "EnterBattle"
+      }
+    ],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 8186,
+    "Order": 0,
+    "TutorialType": 1,
+    "MessageText": {
+      "Hash": 1088310520
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      818701,
+      818702,
+      818203
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "419205",
+        "TriggerType": "EnterBattle"
+      }
+    ],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 8187,
+    "Order": 0,
+    "TutorialType": 1,
+    "MessageText": {
+      "Hash": 1088310521
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      818801,
+      818802,
+      818203
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "419101",
+        "TriggerType": "EnterBattle"
+      }
+    ],
+    "TutorialShowType": "BattleStart",
+    "GroupID": 8188,
+    "Order": 0,
+    "TutorialType": 1,
+    "MessageText": {
+      "Hash": 1088310534
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      818901,
+      818203
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "419103",
+        "TriggerType": "EnterBattle"
+      }
+    ],
+    "TutorialShowType": "BattleStart",
+    "GroupID": 8189,
+    "Order": 0,
+    "TutorialType": 1,
+    "MessageText": {
+      "Hash": 1088310535
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      819001,
+      819002,
+      819003
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 8190,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": -1640572829
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      819001,
+      819102,
+      819103
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 8191,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": -1640572828
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      819201,
+      819202,
+      819205,
+      819203,
+      819204
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 8192,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": -1640572831
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      819301,
+      819302
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 8193,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": -1640572830
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      819401,
+      819402,
+      819403,
+      819404
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 8194,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": -1640572833
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      819501,
+      819502,
+      819503,
+      819505,
+      819504
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 8195,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": -1640572832
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      819601,
+      819602
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 8196,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": -1640572835
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      819701,
+      819702
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 8197,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": -1640572834
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      819801
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 8198,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": -1640572821
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      819901
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 8199,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": -1640572820
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      820001,
+      820002,
+      818203
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "419105",
+        "TriggerType": "EnterBattle"
+      }
+    ],
+    "TutorialShowType": "BattleStart",
+    "GroupID": 8200,
+    "Order": 0,
+    "TutorialType": 1,
+    "MessageText": {
+      "Hash": 1444540789
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      820101,
+      820102,
+      818203
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "419106",
+        "TriggerType": "EnterBattle"
+      }
+    ],
+    "TutorialShowType": "BattleStart",
+    "GroupID": 8201,
+    "Order": 0,
+    "TutorialType": 1,
+    "MessageText": {
+      "Hash": 1444540788
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      820201,
+      818203
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "419108",
+        "TriggerType": "EnterBattle"
+      }
+    ],
+    "TutorialShowType": "BattleStart",
+    "GroupID": 8202,
+    "Order": 0,
+    "TutorialType": 1,
+    "MessageText": {
+      "Hash": 1444540791
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      820301,
+      820302,
+      818203
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "419109",
+        "TriggerType": "EnterBattle"
+      }
+    ],
+    "TutorialShowType": "BattleStart",
+    "GroupID": 8203,
+    "Order": 0,
+    "TutorialType": 1,
+    "MessageText": {
+      "Hash": 1444540790
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      820401,
+      818203
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "419102",
+        "TriggerType": "EnterBattle"
+      }
+    ],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 8204,
+    "Order": 0,
+    "TutorialType": 1,
+    "MessageText": {
+      "Hash": 1444540785
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      820501,
+      818203
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "419104",
+        "TriggerType": "EnterBattle"
+      }
+    ],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 8205,
+    "Order": 0,
+    "TutorialType": 1,
+    "MessageText": {
+      "Hash": 1444540784
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      820601,
+      818203
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "419107",
+        "TriggerType": "EnterBattle"
+      }
+    ],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 8206,
+    "Order": 0,
+    "TutorialType": 1,
+    "MessageText": {
+      "Hash": 1444540787
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      830101,
+      830102,
+      830103,
+      830104,
+      807303
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "8301",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 8301,
+    "Order": 0,
+    "TutorialType": 1,
+    "MessageText": {
+      "Hash": 1444540821
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      830201,
+      830204,
+      830205,
+      830206,
+      830203
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "8302",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "Hide",
+    "GroupID": 8302,
+    "Order": 0,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": 1444540822
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      830301
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "8303",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "Hide",
+    "GroupID": 8303,
+    "Order": 416,
+    "TutorialType": 1,
+    "MessageText": {
+      "Hash": 1444540823
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      830102,
+      830103,
+      830104
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "8304",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 8304,
+    "Order": 0,
+    "TutorialType": 1,
+    "MessageText": {
+      "Hash": 1444540816
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      830204,
+      830102,
+      830103,
+      830104
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 8305,
+    "Order": 0,
+    "TutorialType": 1,
+    "MessageText": {
+      "Hash": 1444540817
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      830106,
+      830204,
+      830205,
+      830206
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 8306,
+    "Order": 0,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": 1444540818
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      831001
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "ActivityPhotoExhibitionMainPage",
+        "TriggerType": "ShowUIPage"
+      }
+    ],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 8310,
+    "Order": 0,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": -1284342535
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      910101
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "RogueSelectBuffPage",
+        "TriggerType": "ShowUIPage"
+      }
+    ],
+    "TutorialShowType": "Normal",
+    "GroupID": 9101,
+    "Order": 499,
+    "TutorialType": 4,
+    "MessageText": {
+      "Hash": 140578972
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      910201
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "RogueJoinAvatarSelectPage",
+        "TriggerType": "ShowUIPage"
+      }
+    ],
+    "TutorialShowType": "Normal",
+    "GroupID": 9102,
+    "Order": 498,
+    "TutorialType": 4,
+    "MessageText": {
+      "Hash": 140578969
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      910301
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "RogueSelectBonusBuffPage",
+        "TriggerType": "ShowUIPage"
+      }
+    ],
+    "TutorialShowType": "Normal",
+    "GroupID": 9103,
+    "Order": 497,
+    "TutorialType": 4,
+    "MessageText": {
+      "Hash": 140578970
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      910401
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "0",
+        "TriggerType": "DestructProp"
+      },
+      {
+        "TriggerParam": "5",
+        "TriggerType": "GameMode"
+      },
+      {
+        "TriggerParam": "4030002",
+        "TriggerType": "FinishMainMission"
+      }
+    ],
+    "TutorialShowType": "Normal",
+    "GroupID": 9104,
+    "Order": 496,
+    "TutorialType": 4,
+    "MessageText": {
+      "Hash": 140578967
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      910501
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "RogueEnhanceBuffPage",
+        "TriggerType": "ShowUIPage"
+      }
+    ],
+    "TutorialShowType": "Normal",
+    "GroupID": 9105,
+    "Order": 495,
+    "TutorialType": 4,
+    "MessageText": {
+      "Hash": 140578968
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      910701
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "9014",
+        "TriggerType": "TutorialFinish"
+      }
+    ],
+    "TutorialShowType": "Normal",
+    "GroupID": 9107,
+    "Order": 494,
+    "TutorialType": 4,
+    "MessageText": {
+      "Hash": 140578966
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      910801
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "RogueHandbookMainPage",
+        "TriggerType": "ShowUIPage"
+      }
+    ],
+    "TutorialShowType": "Normal",
+    "GroupID": 9108,
+    "Order": 493,
+    "TutorialType": 4,
+    "MessageText": {
+      "Hash": 140578979
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      910901
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "2200002",
+        "TriggerType": "FinishQuest"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 9109,
+    "Order": 492,
+    "TutorialType": 4,
+    "MessageText": {
+      "Hash": 140578980
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      911001
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "2200004",
+        "TriggerType": "FinishQuest"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 9110,
+    "Order": 491,
+    "TutorialType": 4,
+    "MessageText": {
+      "Hash": -1425504970
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      911101
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "2200005",
+        "TriggerType": "FinishQuest"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 9111,
+    "Order": 490,
+    "TutorialType": 4,
+    "MessageText": {
+      "Hash": -1425504969
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      911201
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "RogueSelectRelicPage",
+        "TriggerType": "ShowUIPage"
+      }
+    ],
+    "TutorialShowType": "Normal",
+    "GroupID": 9112,
+    "Order": 489,
+    "TutorialType": 4,
+    "MessageText": {
+      "Hash": -1425504972
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [
+      {
+        "TriggerParam": "9030",
+        "TriggerType": "TutorialFinish"
+      }
+    ],
+    "TutorialGuideIDList": [
+      911301,
+      911302
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "9113",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "Hide",
+    "GroupID": 9113,
+    "Order": 488,
+    "TutorialType": 4,
+    "MessageText": {
+      "Hash": -1425504971
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [
+      {
+        "TriggerParam": "8013102",
+        "TriggerType": "FinishMainMission"
+      }
+    ],
+    "TutorialGuideIDList": [
+      911401
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "9032",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "Normal",
+    "GroupID": 9114,
+    "Order": 487,
+    "TutorialType": 4,
+    "MessageText": {
+      "Hash": -1425504974
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [
+      {
+        "TriggerParam": "9027",
+        "TriggerType": "TutorialFinish"
+      }
+    ],
+    "TutorialGuideIDList": [
+      911501
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "9115",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "Hide",
+    "GroupID": 9115,
+    "Order": 486,
+    "TutorialType": 4,
+    "MessageText": {
+      "Hash": -1425504973
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [
+      {
+        "TriggerParam": "9029",
+        "TriggerType": "TutorialFinish"
+      }
+    ],
+    "TutorialGuideIDList": [
+      911601
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "9116",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "Hide",
+    "GroupID": 9116,
+    "Order": 485,
+    "TutorialType": 4,
+    "MessageText": {
+      "Hash": -1425504976
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [
+      {
+        "TriggerParam": "9046",
+        "TriggerType": "TutorialFinish"
+      }
+    ],
+    "TutorialGuideIDList": [
+      911701
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "9117",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "Hide",
+    "GroupID": 9117,
+    "Order": 484,
+    "TutorialType": 4,
+    "MessageText": {
+      "Hash": -1425504975
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [
+      {
+        "TriggerParam": "9037",
+        "TriggerType": "TutorialFinish"
+      }
+    ],
+    "TutorialGuideIDList": [
+      911801,
+      911802,
+      911803
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "9118",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "Hide",
+    "GroupID": 9118,
+    "Order": 483,
+    "TutorialType": 4,
+    "MessageText": {
+      "Hash": -1425504962
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [
+      {
+        "TriggerParam": "9038",
+        "TriggerType": "TutorialFinish"
+      }
+    ],
+    "TutorialGuideIDList": [
+      911901
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "9119",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "Hide",
+    "GroupID": 9119,
+    "Order": 482,
+    "TutorialType": 4,
+    "MessageText": {
+      "Hash": -1425504961
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [
+      {
+        "TriggerParam": "9048",
+        "TriggerType": "TutorialFinish"
+      }
+    ],
+    "TutorialGuideIDList": [
+      912001
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "9120",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "Hide",
+    "GroupID": 9120,
+    "Order": 482,
+    "TutorialType": 4,
+    "MessageText": {
+      "Hash": -1022220443
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      920101,
+      920102
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "8014163",
+        "TriggerType": "FinishMainMission"
+      }
+    ],
+    "TutorialShowType": "AutoShowInMaze",
+    "GroupID": 9201,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": 140578873
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      920201,
+      920202
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "8014164",
+        "TriggerType": "FinishMainMission"
+      }
+    ],
+    "TutorialShowType": "AutoShowInMaze",
+    "GroupID": 9202,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": 140578876
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      920301,
+      920302
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "8014165",
+        "TriggerType": "FinishMainMission"
+      }
+    ],
+    "TutorialShowType": "AutoShowInMaze",
+    "GroupID": 9203,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": 140578875
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      920401,
+      920402
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "8014166",
+        "TriggerType": "FinishMainMission"
+      }
+    ],
+    "TutorialShowType": "AutoShowInMaze",
+    "GroupID": 9204,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": 140578870
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      920501
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "8014167",
+        "TriggerType": "FinishMainMission"
+      }
+    ],
+    "TutorialShowType": "AutoShowInMaze",
+    "GroupID": 9205,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": 140578869
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      920601,
+      920602,
+      920603
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 9206,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": 140578872
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      920701,
+      920702,
+      920703
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "9207",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 9207,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": 140578871
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      920801,
+      920802
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "ShowRogueShopInfoDialogTask_LT",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "AutoShowInMaze",
+    "GroupID": 9208,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": 140578882
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      920901,
+      920902
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "RogueMiracleDetailDialog",
+        "TriggerType": "ShowUIPage"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 9209,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": 140578881
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      921001,
+      921002
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "ShowRogueShopInfoDialogTask_SP",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "AutoShowInMaze",
+    "GroupID": 9210,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": -1425505067
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      921101
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "ShowRogueShopInfoDialogTask_ZF",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "AutoShowInMaze",
+    "GroupID": 9211,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": -1425505068
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      921201,
+      921202
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "AutoShowInMaze",
+    "GroupID": 9212,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": -1425505065
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [
+      {
+        "TriggerParam": "8016102",
+        "TriggerType": "FinishMainMission"
+      }
+    ],
+    "TutorialGuideIDList": [
+      930101
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "9301",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "Hide",
+    "GroupID": 9301,
+    "Order": 481,
+    "TutorialType": 4,
+    "MessageText": {
+      "Hash": 140578906
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [
+      {
+        "TriggerParam": "9318",
+        "TriggerType": "TutorialFinish"
+      }
+    ],
+    "TutorialGuideIDList": [
+      930301,
+      930302
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "9303",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "Hide",
+    "GroupID": 9303,
+    "Order": 480,
+    "TutorialType": 4,
+    "MessageText": {
+      "Hash": 140578908
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [
+      {
+        "TriggerParam": "9322",
+        "TriggerType": "TutorialFinish"
+      }
+    ],
+    "TutorialGuideIDList": [
+      930401
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "9304",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "Hide",
+    "GroupID": 9304,
+    "Order": 478,
+    "TutorialType": 4,
+    "MessageText": {
+      "Hash": 140578901
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [
+      {
+        "TriggerParam": "8016102",
+        "TriggerType": "FinishMainMission"
+      }
+    ],
+    "TutorialGuideIDList": [
+      930501,
+      930502
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "9305",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "Hide",
+    "GroupID": 9305,
+    "Order": 479,
+    "TutorialType": 4,
+    "MessageText": {
+      "Hash": 140578902
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      930601,
+      930602,
+      930603,
+      930604,
+      930605
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "9054",
+        "TriggerType": "TutorialFinish"
+      }
+    ],
+    "TutorialShowType": "Hide",
+    "GroupID": 9306,
+    "Order": 477,
+    "TutorialType": 4,
+    "MessageText": {
+      "Hash": 140578903
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      930808,
+      930801,
+      930809
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "9308",
+        "TriggerType": "TaskUnlock"
+      },
+      {
+        "TriggerParam": "RogueWorkBenchPage",
+        "TriggerType": "ShowUIPage"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 9308,
+    "Order": 470,
+    "TutorialType": 4,
+    "MessageText": {
+      "Hash": 140578913
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      930901,
+      930902
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "RogueTournWeekChallengeAreaSelectPage",
+        "TriggerType": "ShowUIPage"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 9309,
+    "Order": 476,
+    "TutorialType": 4,
+    "MessageText": {
+      "Hash": 140578914
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      931001,
+      931002
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "RogueTournRelicCocoonSelectPage",
+        "TriggerType": "ShowUIPage"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 9310,
+    "Order": 475,
+    "TutorialType": 4,
+    "MessageText": {
+      "Hash": -1425505036
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      931201,
+      931205,
+      931202,
+      931203,
+      931204
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "9312",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 9312,
+    "Order": 474,
+    "TutorialType": 4,
+    "MessageText": {
+      "Hash": -1425505034
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      931301,
+      931302,
+      931303
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "9313",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 9313,
+    "Order": 473,
+    "TutorialType": 4,
+    "MessageText": {
+      "Hash": -1425505033
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      931401,
+      931402
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "9314",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 9314,
+    "Order": 472,
+    "TutorialType": 4,
+    "MessageText": {
+      "Hash": -1425505040
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      931501,
+      931502,
+      931503
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "RogueReforgeFormulaPage",
+        "TriggerType": "ShowUIPage"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 9315,
+    "Order": 469,
+    "TutorialType": 4,
+    "MessageText": {
+      "Hash": -1425505039
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      931601,
+      931602,
+      931603
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "RogueReforgeBuffPage",
+        "TriggerType": "ShowUIPage"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 9316,
+    "Order": 468,
+    "TutorialType": 4,
+    "MessageText": {
+      "Hash": -1425505038
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      931701,
+      931702,
+      931703
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "RogueWorkBenchEnhanceBuffPage",
+        "TriggerType": "ShowUIPage"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 9317,
+    "Order": 467,
+    "TutorialType": 4,
+    "MessageText": {
+      "Hash": -1425505037
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      931801,
+      931802,
+      931803
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "RogueComposeMiraclePage",
+        "TriggerType": "ShowUIPage"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 9318,
+    "Order": 466,
+    "TutorialType": 4,
+    "MessageText": {
+      "Hash": -1425505028
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      931901,
+      931902,
+      931903
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "RogueReforgeMiraclePage",
+        "TriggerType": "ShowUIPage"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 9319,
+    "Order": 465,
+    "TutorialType": 4,
+    "MessageText": {
+      "Hash": -1425505027
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      932001,
+      932002,
+      932003
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "9061",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "Hide",
+    "GroupID": 9320,
+    "Order": 471,
+    "TutorialType": 4,
+    "MessageText": {
+      "Hash": -1022220509
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      932101,
+      932102,
+      932103
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "9085",
+        "TriggerType": "TutorialFinish"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 9321,
+    "Order": 0,
+    "TutorialType": 4,
+    "MessageText": {
+      "Hash": -1022220508
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      932301,
+      932302,
+      932303,
+      932304
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "RogueTournTutorialPic_9323",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 9323,
+    "Order": 463,
+    "TutorialType": 4,
+    "MessageText": {
+      "Hash": -1022220506
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      932401,
+      932402,
+      932403,
+      932404,
+      932405
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "RogueTournTutorialPic_9324",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 9324,
+    "Order": 464,
+    "TutorialType": 4,
+    "MessageText": {
+      "Hash": -1022220513
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      932501
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "RogueMagicOptionalLayerGateConfirmDialog",
+        "TriggerType": "ShowUIDialog"
+      }
+    ],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 9325,
+    "Order": 0,
+    "TutorialType": 4,
+    "MessageText": {
+      "Hash": -1022220512
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      932601
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "RogueComposeMagicUnitPage",
+        "TriggerType": "ShowUIPage"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 9326,
+    "Order": 0,
+    "TutorialType": 4,
+    "MessageText": {
+      "Hash": -1022220511
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      932701,
+      932702
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "RogueReforgeMagicUnitPage",
+        "TriggerType": "ShowUIPage"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 9327,
+    "Order": 0,
+    "TutorialType": 4,
+    "MessageText": {
+      "Hash": -1022220510
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      933001,
+      933002,
+      933003
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "9078",
+        "TriggerType": "TutorialFinish"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 9330,
+    "Order": 0,
+    "TutorialType": 4,
+    "MessageText": {
+      "Hash": 1706662846
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      933101
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "9086",
+        "TriggerType": "TutorialFinish"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 9331,
+    "Order": 0,
+    "TutorialType": 4,
+    "MessageText": {
+      "Hash": 1706662847
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      932501
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "RogueMagicOptionalLayerGateConfirmDialog",
+        "TriggerType": "ShowUIDialog"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 9332,
+    "Order": 0,
+    "TutorialType": 4,
+    "MessageText": {
+      "Hash": 1706662848
+    },
+    "CanReview": true,
+    "RewardID": 201
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      960101,
+      960102,
+      960103,
+      960104
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 9601,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": 140578741
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      960201
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "SpaceZooCatteryPage",
+        "TriggerType": "ShowUIPage"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 9602,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": 140578744
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      960101,
+      960102
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "SpaceZooMainPage",
+        "TriggerType": "ShowUIPage"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 9603,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": 140578743
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      960103,
+      960104
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "SpaceZooMainPage",
+        "TriggerType": "ShowUIPage"
+      },
+      {
+        "TriggerParam": "801620108",
+        "TriggerType": "TakeSubMission"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 9604,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": 140578746
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      960501
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 9605,
+    "Order": 0,
+    "TutorialType": 1,
+    "MessageText": {
+      "Hash": 140578745
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      970101,
+      970102
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 9701,
+    "Order": 0,
+    "TutorialType": 1,
+    "MessageText": {
+      "Hash": 140578774
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      970201
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 9702,
+    "Order": 0,
+    "TutorialType": 1,
+    "MessageText": {
+      "Hash": 140578775
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      980101,
+      980102
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "9801",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 9801,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": 140579203
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      980201,
+      980202
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "9802",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 9802,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": 140579202
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      980101,
+      980102,
+      980201,
+      980202
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 9803,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": 140579201
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      980401
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "9804",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 9804,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": 140579200
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      981101,
+      981102
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "9811",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 9811,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": -1425504738
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      981201
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "9812",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 9812,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": -1425504739
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      981301
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "9813",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 9813,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": -1425504740
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      981401
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "9814",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 9814,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": -1425504741
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      981501,
+      981502
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "MusicRhythmCompositionPage",
+        "TriggerType": "ShowUIPage"
+      },
+      {
+        "TriggerParam": "5705",
+        "TriggerType": "TutorialFinish"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 9815,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": -1425504742
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      981601
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 9816,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": -1425504743
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      981501,
+      981502
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 9817,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": -1425504744
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      981801
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "9818",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 9818,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": -1425504745
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      981901
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 9819,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": -1425504746
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      990101,
+      990102
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 9901,
+    "Order": 0,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": 140579236
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      611301,
+      611302,
+      611303,
+      611304
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 9902,
+    "Order": 0,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": 140579233
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      990301,
+      990302
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "SecondWorldRaidCollection_9903",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 9903,
+    "Order": 0,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": 140579234
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      990401,
+      990402,
+      990403
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 9904,
+    "Order": 0,
+    "TutorialType": 3,
+    "MessageText": {
+      "Hash": 140579231
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      990501,
+      990502
+    ],
+    "TriggerParams": [
+      {
+        "TriggerParam": "9905",
+        "TriggerType": "TaskUnlock"
+      }
+    ],
+    "TutorialShowType": "AutoShow",
+    "GroupID": 9905,
+    "Order": 0,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": 140579232
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      990101,
+      990102
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 9911,
+    "Order": 0,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": -1425504705
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      990301,
+      990302
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 9913,
+    "Order": 0,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": -1425504707
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      990501,
+      990502
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 9915,
+    "Order": 0,
+    "TutorialType": 2,
+    "MessageText": {
+      "Hash": -1425504709
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      3100101
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 31001,
+    "Order": 0,
+    "TutorialType": 1,
+    "MessageText": {
+      "Hash": 371857150
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      3110201
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 31102,
+    "Order": 0,
+    "TutorialType": 1,
+    "MessageText": {
+      "Hash": 371857150
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      3110301
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 31103,
+    "Order": 0,
+    "TutorialType": 1,
+    "MessageText": {
+      "Hash": 371857150
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      3110501
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 31105,
+    "Order": 0,
+    "TutorialType": 1,
+    "MessageText": {
+      "Hash": 371857150
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      3110601
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 31106,
+    "Order": 0,
+    "TutorialType": 1,
+    "MessageText": {
+      "Hash": 371857150
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      3110901
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 31109,
+    "Order": 0,
+    "TutorialType": 1,
+    "MessageText": {
+      "Hash": 371857150
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      3120401
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 31204,
+    "Order": 0,
+    "TutorialType": 1,
+    "MessageText": {
+      "Hash": 371857150
+    },
+    "CanReview": false,
+    "RewardID": 100
+  },
+  {
+    "FinishTriggerParams": [],
+    "TutorialGuideIDList": [
+      3120601
+    ],
+    "TriggerParams": [],
+    "TutorialShowType": "NonTutorial",
+    "GroupID": 31206,
+    "Order": 0,
+    "TutorialType": 1,
+    "MessageText": {
+      "Hash": 371857150
+    },
+    "CanReview": false,
+    "RewardID": 100
+  }
+]

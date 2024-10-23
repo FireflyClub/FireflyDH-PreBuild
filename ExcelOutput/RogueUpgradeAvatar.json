@@ -1,0 +1,86 @@
+[
+  {
+    "AvatarSkillTreeKey": "W0_Standard_20-30",
+    "EquipmentPromotion": 1,
+    "RelicSet4Rarity": "CombatPowerRelicRarity3",
+    "RelicSet4AverageLevel": 1,
+    "EquipmentLevel": 25,
+    "AvatarPromotion": 1,
+    "AvatarLevel": 25,
+    "WorldLevel": 0,
+    "RelicSet2AverageLevel": 1,
+    "RelicSet2Rarity": "CombatPowerRelicRarity3"
+  },
+  {
+    "AvatarSkillTreeKey": "W1_Standard_30-40",
+    "EquipmentPromotion": 2,
+    "RelicSet4Rarity": "CombatPowerRelicRarity3",
+    "RelicSet4AverageLevel": 3,
+    "EquipmentLevel": 35,
+    "AvatarPromotion": 2,
+    "AvatarLevel": 35,
+    "WorldLevel": 1,
+    "RelicSet2AverageLevel": 3,
+    "RelicSet2Rarity": "CombatPowerRelicRarity3"
+  },
+  {
+    "AvatarSkillTreeKey": "W2_Standard_40-50",
+    "EquipmentPromotion": 3,
+    "RelicSet4Rarity": "CombatPowerRelicRarity4",
+    "RelicSet4AverageLevel": 6,
+    "EquipmentLevel": 45,
+    "AvatarPromotion": 3,
+    "AvatarLevel": 45,
+    "WorldLevel": 2,
+    "RelicSet2AverageLevel": 6,
+    "RelicSet2Rarity": "CombatPowerRelicRarity4"
+  },
+  {
+    "AvatarSkillTreeKey": "W3_Standard_50-60",
+    "EquipmentPromotion": 4,
+    "RelicSet4Rarity": "CombatPowerRelicRarity5",
+    "RelicSet4AverageLevel": 6,
+    "EquipmentLevel": 55,
+    "AvatarPromotion": 4,
+    "AvatarLevel": 55,
+    "WorldLevel": 3,
+    "RelicSet2AverageLevel": 6,
+    "RelicSet2Rarity": "CombatPowerRelicRarity5"
+  },
+  {
+    "AvatarSkillTreeKey": "W4_Standard_60-70",
+    "EquipmentPromotion": 5,
+    "RelicSet4Rarity": "CombatPowerRelicRarity5",
+    "RelicSet4AverageLevel": 10,
+    "EquipmentLevel": 65,
+    "AvatarPromotion": 5,
+    "AvatarLevel": 65,
+    "WorldLevel": 4,
+    "RelicSet2AverageLevel": 10,
+    "RelicSet2Rarity": "CombatPowerRelicRarity5"
+  },
+  {
+    "AvatarSkillTreeKey": "W5_Standard_70-80",
+    "EquipmentPromotion": 6,
+    "RelicSet4Rarity": "CombatPowerRelicRarity5",
+    "RelicSet4AverageLevel": 12,
+    "EquipmentLevel": 75,
+    "AvatarPromotion": 6,
+    "AvatarLevel": 75,
+    "WorldLevel": 5,
+    "RelicSet2AverageLevel": 12,
+    "RelicSet2Rarity": "CombatPowerRelicRarity5"
+  },
+  {
+    "AvatarSkillTreeKey": "W5_Standard_70-80",
+    "EquipmentPromotion": 6,
+    "RelicSet4Rarity": "CombatPowerRelicRarity5",
+    "RelicSet4AverageLevel": 15,
+    "EquipmentLevel": 80,
+    "AvatarPromotion": 6,
+    "AvatarLevel": 80,
+    "WorldLevel": 6,
+    "RelicSet2AverageLevel": 15,
+    "RelicSet2Rarity": "CombatPowerRelicRarity5"
+  }
+]

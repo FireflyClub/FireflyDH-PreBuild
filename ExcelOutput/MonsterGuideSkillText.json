@@ -1,0 +1,328 @@
+[
+  {
+    "EffectIDList": [
+      70000301
+    ],
+    "ParameterList": [],
+    "SkillTextID": 1001111,
+    "SkillDescription": {
+      "Hash": 793004366
+    },
+    "SkillID": 0,
+    "Difficulty": 1
+  },
+  {
+    "EffectIDList": [
+      70000304
+    ],
+    "ParameterList": [],
+    "SkillTextID": 1001121,
+    "SkillDescription": {
+      "Hash": 793004363
+    },
+    "SkillID": 0,
+    "Difficulty": 1
+  },
+  {
+    "EffectIDList": [
+      70000305
+    ],
+    "ParameterList": [],
+    "SkillTextID": 1001131,
+    "SkillDescription": {
+      "Hash": 793004364
+    },
+    "SkillID": 0,
+    "Difficulty": 1
+  },
+  {
+    "EffectIDList": [
+      70000301
+    ],
+    "ParameterList": [],
+    "SkillTextID": 1001211,
+    "SkillDescription": {
+      "Hash": 369516863
+    },
+    "SkillID": 0,
+    "Difficulty": 1
+  },
+  {
+    "EffectIDList": [
+      70000304
+    ],
+    "ParameterList": [],
+    "SkillTextID": 1001221,
+    "SkillDescription": {
+      "Hash": 369516860
+    },
+    "SkillID": 0,
+    "Difficulty": 1
+  },
+  {
+    "EffectIDList": [],
+    "ParameterList": [],
+    "SkillTextID": 1002111,
+    "SkillDescription": {
+      "Hash": 793004395
+    },
+    "SkillID": 0,
+    "Difficulty": 1
+  },
+  {
+    "EffectIDList": [
+      70000305
+    ],
+    "ParameterList": [],
+    "SkillTextID": 1002121,
+    "SkillDescription": {
+      "Hash": 793004398
+    },
+    "SkillID": 0,
+    "Difficulty": 1
+  },
+  {
+    "EffectIDList": [],
+    "ParameterList": [],
+    "SkillTextID": 1002211,
+    "SkillDescription": {
+      "Hash": 369516892
+    },
+    "SkillID": 0,
+    "Difficulty": 1
+  },
+  {
+    "EffectIDList": [],
+    "ParameterList": [],
+    "SkillTextID": 1002221,
+    "SkillDescription": {
+      "Hash": 369516895
+    },
+    "SkillID": 0,
+    "Difficulty": 1
+  },
+  {
+    "EffectIDList": [],
+    "ParameterList": [],
+    "SkillTextID": 1003111,
+    "SkillDescription": {
+      "Hash": 793004300
+    },
+    "SkillID": 0,
+    "Difficulty": 1
+  },
+  {
+    "EffectIDList": [
+      70000304
+    ],
+    "ParameterList": [],
+    "SkillTextID": 1003121,
+    "SkillDescription": {
+      "Hash": 793004301
+    },
+    "SkillID": 0,
+    "Difficulty": 1
+  },
+  {
+    "EffectIDList": [],
+    "ParameterList": [],
+    "SkillTextID": 1003131,
+    "SkillDescription": {
+      "Hash": 793004302
+    },
+    "SkillID": 0,
+    "Difficulty": 1
+  },
+  {
+    "EffectIDList": [],
+    "ParameterList": [],
+    "SkillTextID": 1004111,
+    "SkillDescription": {
+      "Hash": 793004593
+    },
+    "SkillID": 0,
+    "Difficulty": 1
+  },
+  {
+    "EffectIDList": [],
+    "ParameterList": [],
+    "SkillTextID": 1004121,
+    "SkillDescription": {
+      "Hash": 793004592
+    },
+    "SkillID": 0,
+    "Difficulty": 1
+  },
+  {
+    "EffectIDList": [],
+    "ParameterList": [],
+    "SkillTextID": 1004131,
+    "SkillDescription": {
+      "Hash": 793004591
+    },
+    "SkillID": 0,
+    "Difficulty": 1
+  },
+  {
+    "EffectIDList": [],
+    "ParameterList": [],
+    "SkillTextID": 1004211,
+    "SkillDescription": {
+      "Hash": 369517090
+    },
+    "SkillID": 0,
+    "Difficulty": 1
+  },
+  {
+    "EffectIDList": [],
+    "ParameterList": [],
+    "SkillTextID": 1004221,
+    "SkillDescription": {
+      "Hash": 369517089
+    },
+    "SkillID": 0,
+    "Difficulty": 1
+  },
+  {
+    "EffectIDList": [],
+    "ParameterList": [],
+    "SkillTextID": 1004231,
+    "SkillDescription": {
+      "Hash": 369517088
+    },
+    "SkillID": 0,
+    "Difficulty": 1
+  },
+  {
+    "EffectIDList": [],
+    "ParameterList": [],
+    "SkillTextID": 1005111,
+    "SkillDescription": {
+      "Hash": 793004498
+    },
+    "SkillID": 0,
+    "Difficulty": 1
+  },
+  {
+    "EffectIDList": [],
+    "ParameterList": [],
+    "SkillTextID": 1005211,
+    "SkillDescription": {
+      "Hash": 369516995
+    },
+    "SkillID": 0,
+    "Difficulty": 1
+  },
+  {
+    "EffectIDList": [],
+    "ParameterList": [],
+    "SkillTextID": 1006111,
+    "SkillDescription": {
+      "Hash": 793004527
+    },
+    "SkillID": 0,
+    "Difficulty": 1
+  },
+  {
+    "EffectIDList": [],
+    "ParameterList": [],
+    "SkillTextID": 1006121,
+    "SkillDescription": {
+      "Hash": 793004530
+    },
+    "SkillID": 0,
+    "Difficulty": 1
+  },
+  {
+    "EffectIDList": [],
+    "ParameterList": [],
+    "SkillTextID": 1006131,
+    "SkillDescription": {
+      "Hash": 793004529
+    },
+    "SkillID": 0,
+    "Difficulty": 1
+  },
+  {
+    "EffectIDList": [],
+    "ParameterList": [],
+    "SkillTextID": 1006211,
+    "SkillDescription": {
+      "Hash": 369517024
+    },
+    "SkillID": 0,
+    "Difficulty": 1
+  },
+  {
+    "EffectIDList": [],
+    "ParameterList": [],
+    "SkillTextID": 1007111,
+    "SkillDescription": {
+      "Hash": 793004432
+    },
+    "SkillID": 0,
+    "Difficulty": 1
+  },
+  {
+    "EffectIDList": [],
+    "ParameterList": [],
+    "SkillTextID": 1007121,
+    "SkillDescription": {
+      "Hash": 793004433
+    },
+    "SkillID": 0,
+    "Difficulty": 1
+  },
+  {
+    "EffectIDList": [
+      23025011
+    ],
+    "ParameterList": [],
+    "SkillTextID": 1007131,
+    "SkillDescription": {
+      "Hash": 793004434
+    },
+    "SkillID": 0,
+    "Difficulty": 1
+  },
+  {
+    "EffectIDList": [],
+    "ParameterList": [],
+    "SkillTextID": 1007211,
+    "SkillDescription": {
+      "Hash": 369516929
+    },
+    "SkillID": 0,
+    "Difficulty": 1
+  },
+  {
+    "EffectIDList": [],
+    "ParameterList": [],
+    "SkillTextID": 1008111,
+    "SkillDescription": {
+      "Hash": 793004197
+    },
+    "SkillID": 0,
+    "Difficulty": 1
+  },
+  {
+    "EffectIDList": [],
+    "ParameterList": [],
+    "SkillTextID": 1008121,
+    "SkillDescription": {
+      "Hash": 793004196
+    },
+    "SkillID": 0,
+    "Difficulty": 1
+  },
+  {
+    "EffectIDList": [],
+    "ParameterList": [],
+    "SkillTextID": 1008211,
+    "SkillDescription": {
+      "Hash": 369516694
+    },
+    "SkillID": 0,
+    "Difficulty": 1
+  }
+]

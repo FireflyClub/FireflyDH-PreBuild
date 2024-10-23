@@ -1,0 +1,191 @@
+[
+  {
+    "Rank": 1,
+    "Param": 22,
+    "ID": 1,
+    "SortID": 1,
+    "Type": "ItemID"
+  },
+  {
+    "Rank": 1,
+    "Param": 236,
+    "ID": 2,
+    "SortID": 2,
+    "Type": "ItemID"
+  },
+  {
+    "Rank": 1,
+    "Param": 241,
+    "ID": 3,
+    "SortID": 3,
+    "Type": "ItemID"
+  },
+  {
+    "Rank": 1,
+    "Param": 4,
+    "ID": 4,
+    "SortID": 4,
+    "Type": "PurposeType"
+  },
+  {
+    "Rank": 1,
+    "Param": 1,
+    "ID": 5,
+    "SortID": 5,
+    "Type": "ItemID"
+  },
+  {
+    "Rank": 1,
+    "Param": 2,
+    "ID": 6,
+    "SortID": -1,
+    "Type": "ItemID"
+  },
+  {
+    "Rank": 2,
+    "Param": 5,
+    "ID": 7,
+    "SortID": 1,
+    "Type": "Rank"
+  },
+  {
+    "Rank": 2,
+    "Param": 4,
+    "ID": 8,
+    "SortID": 2,
+    "Type": "Rank"
+  },
+  {
+    "Rank": 2,
+    "Param": 3,
+    "ID": 9,
+    "SortID": 3,
+    "Type": "Rank"
+  },
+  {
+    "Rank": 2,
+    "Param": 2,
+    "ID": 10,
+    "SortID": 4,
+    "Type": "Rank"
+  },
+  {
+    "Rank": 3,
+    "Param": 509,
+    "ID": 11,
+    "SortID": 1,
+    "Type": "ItemSubType"
+  },
+  {
+    "Rank": 3,
+    "Param": 503,
+    "ID": 12,
+    "SortID": 2,
+    "Type": "ItemSubType"
+  },
+  {
+    "Rank": 3,
+    "Param": 201,
+    "ID": 13,
+    "SortID": 3,
+    "Type": "ItemSubType"
+  },
+  {
+    "Rank": 3,
+    "Param": 602,
+    "ID": 14,
+    "SortID": 4,
+    "Type": "ItemSubType"
+  },
+  {
+    "Rank": 3,
+    "Param": 301,
+    "ID": 15,
+    "SortID": 5,
+    "Type": "ItemSubType"
+  },
+  {
+    "Rank": 3,
+    "Param": 121000,
+    "ID": 16,
+    "SortID": 6,
+    "Type": "ItemID"
+  },
+  {
+    "Rank": 3,
+    "Param": 121001,
+    "ID": 17,
+    "SortID": 6,
+    "Type": "ItemID"
+  },
+  {
+    "Rank": 3,
+    "Param": 121002,
+    "ID": 18,
+    "SortID": 6,
+    "Type": "ItemID"
+  },
+  {
+    "Rank": 3,
+    "Param": 514,
+    "ID": 19,
+    "SortID": 7,
+    "Type": "ItemSubType"
+  },
+  {
+    "Rank": 3,
+    "Param": 901,
+    "ID": 20,
+    "SortID": 8,
+    "Type": "ItemSubType"
+  },
+  {
+    "Rank": 3,
+    "Param": 510,
+    "ID": 21,
+    "SortID": 9,
+    "Type": "ItemSubType"
+  },
+  {
+    "Rank": 3,
+    "Param": 508,
+    "ID": 22,
+    "SortID": 10,
+    "Type": "ItemSubType"
+  },
+  {
+    "Rank": 3,
+    "Param": 505,
+    "ID": 23,
+    "SortID": 11,
+    "Type": "ItemSubType"
+  },
+  {
+    "Rank": 3,
+    "Param": 507,
+    "ID": 24,
+    "SortID": 100,
+    "Type": "ItemSubType"
+  },
+  {
+    "Rank": 3,
+    "Param": 201,
+    "ID": 25,
+    "SortID": 101,
+    "Type": "ItemID"
+  },
+  {
+    "Rank": 3,
+    "Param": 110101,
+    "ID": 26,
+    "SortID": 102,
+    "Type": "ItemID"
+  },
+  {
+    "Rank": 3,
+    "Param": 261,
+    "ID": 27,
+    "SortID": 103,
+    "Type": "ItemID"
+  }
+]

@@ -1,0 +1,686 @@
+[
+  {
+    "TierID": "Tier_1",
+    "GiftImage": "SpriteOutput/ItemFigures/3-t1.png",
+    "ProductID": "rpgchncoin60tier1",
+    "ListOrder": 1,
+    "NormalCharge": 0,
+    "GiftType": 1,
+    "FirstCharge": 60,
+    "GiftName": {
+      "Hash": 2055769336
+    }
+  },
+  {
+    "TierID": "Tier_5",
+    "GiftImage": "SpriteOutput/ItemFigures/3-t2.png",
+    "ProductID": "rpgchncoin300tier5",
+    "ListOrder": 2,
+    "NormalCharge": 30,
+    "GiftType": 1,
+    "FirstCharge": 300,
+    "GiftName": {
+      "Hash": -1793421005
+    }
+  },
+  {
+    "TierID": "Tier_15",
+    "GiftImage": "SpriteOutput/ItemFigures/3-t3.png",
+    "ProductID": "rpgchncoin980tier15",
+    "ListOrder": 3,
+    "NormalCharge": 110,
+    "GiftType": 1,
+    "FirstCharge": 980,
+    "GiftName": {
+      "Hash": -217760344
+    }
+  },
+  {
+    "TierID": "Tier_30",
+    "GiftImage": "SpriteOutput/ItemFigures/3-t4.png",
+    "ProductID": "rpgchncoin1980tier30",
+    "ListOrder": 4,
+    "NormalCharge": 260,
+    "GiftType": 1,
+    "FirstCharge": 1980,
+    "GiftName": {
+      "Hash": -716102330
+    }
+  },
+  {
+    "TierID": "Tier_50",
+    "GiftImage": "SpriteOutput/ItemFigures/3-t5.png",
+    "ProductID": "rpgchncoin3280tier50",
+    "ListOrder": 5,
+    "NormalCharge": 600,
+    "GiftType": 1,
+    "FirstCharge": 3280,
+    "GiftName": {
+      "Hash": -1487063547
+    }
+  },
+  {
+    "TierID": "Tier_60",
+    "GiftImage": "SpriteOutput/ItemFigures/3-t6.png",
+    "ProductID": "rpgchncoin6480tier60",
+    "ListOrder": 6,
+    "NormalCharge": 1600,
+    "GiftType": 1,
+    "FirstCharge": 6480,
+    "GiftName": {
+      "Hash": -611743831
+    }
+  },
+  {
+    "TierID": "Tier_1",
+    "GiftImage": "SpriteOutput/ItemFigures/3-t1.png",
+    "ProductID": "rpgglbcoin60tier1",
+    "ListOrder": 1,
+    "NormalCharge": 0,
+    "GiftType": 1,
+    "FirstCharge": 60,
+    "GiftName": {
+      "Hash": -1749802156
+    }
+  },
+  {
+    "TierID": "Tier_5",
+    "GiftImage": "SpriteOutput/ItemFigures/3-t2.png",
+    "ProductID": "rpgglbcoin300tier5",
+    "ListOrder": 2,
+    "NormalCharge": 30,
+    "GiftType": 1,
+    "FirstCharge": 300,
+    "GiftName": {
+      "Hash": 786062039
+    }
+  },
+  {
+    "TierID": "Tier_15",
+    "GiftImage": "SpriteOutput/ItemFigures/3-t3.png",
+    "ProductID": "rpgglbcoin980tier15",
+    "ListOrder": 3,
+    "NormalCharge": 110,
+    "GiftType": 1,
+    "FirstCharge": 980,
+    "GiftName": {
+      "Hash": 1663423108
+    }
+  },
+  {
+    "TierID": "Tier_30",
+    "GiftImage": "SpriteOutput/ItemFigures/3-t4.png",
+    "ProductID": "rpgglbcoin1980tier30",
+    "ListOrder": 4,
+    "NormalCharge": 260,
+    "GiftType": 1,
+    "FirstCharge": 1980,
+    "GiftName": {
+      "Hash": -989958038
+    }
+  },
+  {
+    "TierID": "Tier_50",
+    "GiftImage": "SpriteOutput/ItemFigures/3-t5.png",
+    "ProductID": "rpgglbcoin3280tier50",
+    "ListOrder": 5,
+    "NormalCharge": 600,
+    "GiftType": 1,
+    "FirstCharge": 3280,
+    "GiftName": {
+      "Hash": 512150241
+    }
+  },
+  {
+    "TierID": "Tier_60",
+    "GiftImage": "SpriteOutput/ItemFigures/3-t6.png",
+    "ProductID": "rpgglbcoin6480tier60",
+    "ListOrder": 6,
+    "NormalCharge": 1600,
+    "GiftType": 1,
+    "FirstCharge": 6480,
+    "GiftName": {
+      "Hash": 1396940413
+    }
+  },
+  {
+    "TierID": "Tier_5",
+    "GiftImage": "SpriteOutput/ItemFigures/300101_T.png",
+    "ProductID": "rpgchnmonthcardtier5",
+    "ListOrder": 7,
+    "NormalCharge": 0,
+    "GiftType": 2,
+    "FirstCharge": 0,
+    "GiftName": {
+      "Hash": -26725997
+    }
+  },
+  {
+    "TierID": "Tier_5",
+    "GiftImage": "SpriteOutput/ItemFigures/300101_T.png",
+    "ProductID": "rpgglbmonthcardtier5",
+    "ListOrder": 7,
+    "NormalCharge": 0,
+    "GiftType": 2,
+    "FirstCharge": 0,
+    "GiftName": {
+      "Hash": 1430440559
+    }
+  },
+  {
+    "TierID": "Tier_10",
+    "GiftImage": "SpriteOutput/ItemFigures/300102.png",
+    "ProductID": "rpgchnbattlepassnormaltier10",
+    "ListOrder": 0,
+    "NormalCharge": 0,
+    "GiftType": 3,
+    "FirstCharge": 0,
+    "GiftName": {
+      "Hash": -1231826793
+    }
+  },
+  {
+    "TierID": "Tier_20",
+    "GiftImage": "SpriteOutput/ItemFigures/300103.png",
+    "ProductID": "rpgchnbattlepassdeluxetier20",
+    "ListOrder": 0,
+    "NormalCharge": 0,
+    "GiftType": 4,
+    "FirstCharge": 0,
+    "GiftName": {
+      "Hash": 22584072
+    }
+  },
+  {
+    "TierID": "Tier_12",
+    "GiftImage": "SpriteOutput/ItemFigures/300103.png",
+    "ProductID": "rpgchnbattlepassupgradetier12",
+    "ListOrder": 0,
+    "NormalCharge": 0,
+    "GiftType": 5,
+    "FirstCharge": 0,
+    "GiftName": {
+      "Hash": 678817044
+    }
+  },
+  {
+    "TierID": "Tier_10",
+    "GiftImage": "SpriteOutput/ItemFigures/300102.png",
+    "ProductID": "rpgglbbattlepassnormaltier10",
+    "ListOrder": 0,
+    "NormalCharge": 0,
+    "GiftType": 3,
+    "FirstCharge": 0,
+    "GiftName": {
+      "Hash": -448898109
+    }
+  },
+  {
+    "TierID": "Tier_20",
+    "GiftImage": "SpriteOutput/ItemFigures/300103.png",
+    "ProductID": "rpgglbbattlepassdeluxetier20",
+    "ListOrder": 0,
+    "NormalCharge": 0,
+    "GiftType": 4,
+    "FirstCharge": 0,
+    "GiftName": {
+      "Hash": -1170199076
+    }
+  },
+  {
+    "TierID": "Tier_12",
+    "GiftImage": "SpriteOutput/ItemFigures/300104.png",
+    "ProductID": "rpgglbbattlepassupgradetier12",
+    "ListOrder": 0,
+    "NormalCharge": 0,
+    "GiftType": 5,
+    "FirstCharge": 0,
+    "GiftName": {
+      "Hash": -1821189184
+    }
+  },
+  {
+    "TierID": "Tier_1",
+    "GiftImage": "SpriteOutput/ItemFigures/3-t1.png",
+    "ProductID": "cloudrpgchncoin60tier1",
+    "ListOrder": 1,
+    "NormalCharge": 0,
+    "GiftType": 1,
+    "FirstCharge": 60,
+    "GiftName": {
+      "Hash": 1195764179
+    }
+  },
+  {
+    "TierID": "Tier_5",
+    "GiftImage": "SpriteOutput/ItemFigures/3-t2.png",
+    "ProductID": "cloudrpgchncoin300tier5",
+    "ListOrder": 2,
+    "NormalCharge": 30,
+    "GiftType": 1,
+    "FirstCharge": 300,
+    "GiftName": {
+      "Hash": 557251570
+    }
+  },
+  {
+    "TierID": "Tier_15",
+    "GiftImage": "SpriteOutput/ItemFigures/3-t3.png",
+    "ProductID": "cloudrpgchncoin980tier15",
+    "ListOrder": 3,
+    "NormalCharge": 110,
+    "GiftType": 1,
+    "FirstCharge": 980,
+    "GiftName": {
+      "Hash": -1683490987
+    }
+  },
+  {
+    "TierID": "Tier_30",
+    "GiftImage": "SpriteOutput/ItemFigures/3-t4.png",
+    "ProductID": "cloudrpgchncoin1980tier30",
+    "ListOrder": 4,
+    "NormalCharge": 260,
+    "GiftType": 1,
+    "FirstCharge": 1980,
+    "GiftName": {
+      "Hash": 1733464691
+    }
+  },
+  {
+    "TierID": "Tier_50",
+    "GiftImage": "SpriteOutput/ItemFigures/3-t5.png",
+    "ProductID": "cloudrpgchncoin3280tier50",
+    "ListOrder": 5,
+    "NormalCharge": 600,
+    "GiftType": 1,
+    "FirstCharge": 3280,
+    "GiftName": {
+      "Hash": -2072834674
+    }
+  },
+  {
+    "TierID": "Tier_60",
+    "GiftImage": "SpriteOutput/ItemFigures/3-t6.png",
+    "ProductID": "cloudrpgchncoin6480tier60",
+    "ListOrder": 6,
+    "NormalCharge": 1600,
+    "GiftType": 1,
+    "FirstCharge": 6480,
+    "GiftName": {
+      "Hash": -715842814
+    }
+  },
+  {
+    "TierID": "Tier_5",
+    "GiftImage": "SpriteOutput/ItemFigures/300101_T.png",
+    "ProductID": "cloudrpgchnmonthcardtier5",
+    "ListOrder": 7,
+    "NormalCharge": 0,
+    "GiftType": 2,
+    "FirstCharge": 0,
+    "GiftName": {
+      "Hash": -1828545796
+    }
+  },
+  {
+    "TierID": "Tier_10",
+    "GiftImage": "SpriteOutput/ItemFigures/300102.png",
+    "ProductID": "cloudrpgchnbattlepassnormaltier10",
+    "ListOrder": 0,
+    "NormalCharge": 0,
+    "GiftType": 3,
+    "FirstCharge": 0,
+    "GiftName": {
+      "Hash": 1002904670
+    }
+  },
+  {
+    "TierID": "Tier_20",
+    "GiftImage": "SpriteOutput/ItemFigures/300103.png",
+    "ProductID": "cloudrpgchnbattlepassdeluxetier20",
+    "ListOrder": 0,
+    "NormalCharge": 0,
+    "GiftType": 4,
+    "FirstCharge": 0,
+    "GiftName": {
+      "Hash": -488168637
+    }
+  },
+  {
+    "TierID": "Tier_12",
+    "GiftImage": "SpriteOutput/ItemFigures/300104.png",
+    "ProductID": "cloudrpgchnbattlepassupgradetier12",
+    "ListOrder": 0,
+    "NormalCharge": 0,
+    "GiftType": 5,
+    "FirstCharge": 0,
+    "GiftName": {
+      "Hash": 20801447
+    }
+  },
+  {
+    "TierID": "Tier_1",
+    "GiftImage": "SpriteOutput/ItemFigures/3-t1.png",
+    "ProductID": "HSRPSVC1STTIER01",
+    "ListOrder": 1,
+    "NormalCharge": 0,
+    "GiftType": 1,
+    "FirstCharge": 60,
+    "GiftName": {
+      "Hash": -2066785802
+    }
+  },
+  {
+    "TierID": "Tier_5",
+    "GiftImage": "SpriteOutput/ItemFigures/3-t2.png",
+    "ProductID": "HSRPSVC2NDTIER05",
+    "ListOrder": 2,
+    "NormalCharge": 30,
+    "GiftType": 1,
+    "FirstCharge": 300,
+    "GiftName": {
+      "Hash": -1799524902
+    }
+  },
+  {
+    "TierID": "Tier_15",
+    "GiftImage": "SpriteOutput/ItemFigures/3-t3.png",
+    "ProductID": "HSRPSVC3RDTIER15",
+    "ListOrder": 3,
+    "NormalCharge": 110,
+    "GiftType": 1,
+    "FirstCharge": 980,
+    "GiftName": {
+      "Hash": 437361640
+    }
+  },
+  {
+    "TierID": "Tier_30",
+    "GiftImage": "SpriteOutput/ItemFigures/3-t4.png",
+    "ProductID": "HSRPSVC4THTIER30",
+    "ListOrder": 4,
+    "NormalCharge": 260,
+    "GiftType": 1,
+    "FirstCharge": 1980,
+    "GiftName": {
+      "Hash": -2010183374
+    }
+  },
+  {
+    "TierID": "Tier_50",
+    "GiftImage": "SpriteOutput/ItemFigures/3-t5.png",
+    "ProductID": "HSRPSVC5THTIER50",
+    "ListOrder": 5,
+    "NormalCharge": 600,
+    "GiftType": 1,
+    "FirstCharge": 3280,
+    "GiftName": {
+      "Hash": 2946197
+    }
+  },
+  {
+    "TierID": "Tier_60",
+    "GiftImage": "SpriteOutput/ItemFigures/3-t6.png",
+    "ProductID": "HSRPSVC6THTIER60",
+    "ListOrder": 6,
+    "NormalCharge": 1600,
+    "GiftType": 1,
+    "FirstCharge": 6480,
+    "GiftName": {
+      "Hash": 353890277
+    }
+  },
+  {
+    "TierID": "Tier_5",
+    "GiftImage": "SpriteOutput/ItemFigures/300101_T.png",
+    "ProductID": "HSRPSMC000TIER05",
+    "ListOrder": 7,
+    "NormalCharge": 0,
+    "GiftType": 2,
+    "FirstCharge": 0,
+    "GiftName": {
+      "Hash": -682985465
+    }
+  },
+  {
+    "TierID": "Tier_10",
+    "GiftImage": "SpriteOutput/ItemFigures/300102.png",
+    "ProductID": "HSRPSBP001TIER10",
+    "ListOrder": 0,
+    "NormalCharge": 0,
+    "GiftType": 3,
+    "FirstCharge": 0,
+    "GiftName": {
+      "Hash": 1082147036
+    }
+  },
+  {
+    "TierID": "Tier_20",
+    "GiftImage": "SpriteOutput/ItemFigures/300103.png",
+    "ProductID": "HSRPSBP002TIER20",
+    "ListOrder": 0,
+    "NormalCharge": 0,
+    "GiftType": 4,
+    "FirstCharge": 0,
+    "GiftName": {
+      "Hash": -1442746226
+    }
+  },
+  {
+    "TierID": "Tier_12",
+    "GiftImage": "SpriteOutput/ItemFigures/300104.png",
+    "ProductID": "HSRPSBP003TIER12",
+    "ListOrder": 0,
+    "NormalCharge": 0,
+    "GiftType": 5,
+    "FirstCharge": 0,
+    "GiftName": {
+      "Hash": -1700970596
+    }
+  },
+  {
+    "TierID": "Tier_10",
+    "GiftImage": "SpriteOutput/ItemFigures/310007.png",
+    "ProductID": "HSRPRE3000TIER10",
+    "ListOrder": 0,
+    "NormalCharge": 0,
+    "GiftType": 7,
+    "FirstCharge": 0,
+    "GiftName": {
+      "Hash": 1348303744
+    }
+  },
+  {
+    "TierID": "Tier_10",
+    "GiftImage": "SpriteOutput/ItemFigures/310008.png",
+    "ProductID": "HSRPRE4000TIER10",
+    "ListOrder": 0,
+    "NormalCharge": 0,
+    "GiftType": 8,
+    "FirstCharge": 0,
+    "GiftName": {
+      "Hash": 1347185537
+    }
+  },
+  {
+    "TierID": "Tier_2",
+    "GiftImage": "",
+    "ProductID": "rpgglbgoogle100giftcard",
+    "ListOrder": 0,
+    "NormalCharge": 0,
+    "GiftType": 9,
+    "FirstCharge": 0,
+    "GiftName": {
+      "Hash": 1649247960
+    }
+  },
+  {
+    "TierID": "Tier_3",
+    "GiftImage": "",
+    "ProductID": "rpgglbgoogle150giftcard",
+    "ListOrder": 0,
+    "NormalCharge": 0,
+    "GiftType": 10,
+    "FirstCharge": 0,
+    "GiftName": {
+      "Hash": -467189847
+    }
+  },
+  {
+    "TierID": "Tier_1",
+    "GiftImage": "SpriteOutput/ItemFigures/3-t1.png",
+    "ProductID": "895652d904a2461797ffeab7b7489058",
+    "ListOrder": 1,
+    "NormalCharge": 0,
+    "GiftType": 1,
+    "FirstCharge": 60,
+    "GiftName": {
+      "Hash": 1726423397
+    }
+  },
+  {
+    "TierID": "Tier_5",
+    "GiftImage": "SpriteOutput/ItemFigures/3-t2.png",
+    "ProductID": "7aa297ea73b64f459f81299c7d687afa",
+    "ListOrder": 2,
+    "NormalCharge": 30,
+    "GiftType": 1,
+    "FirstCharge": 300,
+    "GiftName": {
+      "Hash": 339217883
+    }
+  },
+  {
+    "TierID": "Tier_15",
+    "GiftImage": "SpriteOutput/ItemFigures/3-t3.png",
+    "ProductID": "ee423f7a1c674229b9d1ef4ad358a32b",
+    "ListOrder": 3,
+    "NormalCharge": 110,
+    "GiftType": 1,
+    "FirstCharge": 980,
+    "GiftName": {
+      "Hash": 45410335
+    }
+  },
+  {
+    "TierID": "Tier_30",
+    "GiftImage": "SpriteOutput/ItemFigures/3-t4.png",
+    "ProductID": "9947c62398a04763a25a1d7d21bf6578",
+    "ListOrder": 4,
+    "NormalCharge": 260,
+    "GiftType": 1,
+    "FirstCharge": 1980,
+    "GiftName": {
+      "Hash": 114206687
+    }
+  },
+  {
+    "TierID": "Tier_50",
+    "GiftImage": "SpriteOutput/ItemFigures/3-t5.png",
+    "ProductID": "61db41ea1c114caeab47c9f4331f10f3",
+    "ListOrder": 5,
+    "NormalCharge": 600,
+    "GiftType": 1,
+    "FirstCharge": 3280,
+    "GiftName": {
+      "Hash": -1095752436
+    }
+  },
+  {
+    "TierID": "Tier_60",
+    "GiftImage": "SpriteOutput/ItemFigures/3-t6.png",
+    "ProductID": "f549555c11ff45309a359e6108c99b23",
+    "ListOrder": 6,
+    "NormalCharge": 1600,
+    "GiftType": 1,
+    "FirstCharge": 6480,
+    "GiftName": {
+      "Hash": 36747699
+    }
+  },
+  {
+    "TierID": "Tier_5",
+    "GiftImage": "SpriteOutput/ItemFigures/300101_T.png",
+    "ProductID": "d256923feae24e90a7afe9552bafe840",
+    "ListOrder": 7,
+    "NormalCharge": 0,
+    "GiftType": 2,
+    "FirstCharge": 0,
+    "GiftName": {
+      "Hash": 891912235
+    }
+  },
+  {
+    "TierID": "Tier_10",
+    "GiftImage": "SpriteOutput/ItemFigures/300102.png",
+    "ProductID": "c56aee17f7e642eaaf4a083bab918f32",
+    "ListOrder": 0,
+    "NormalCharge": 0,
+    "GiftType": 3,
+    "FirstCharge": 0,
+    "GiftName": {
+      "Hash": 1323890448
+    }
+  },
+  {
+    "TierID": "Tier_20",
+    "GiftImage": "SpriteOutput/ItemFigures/300103.png",
+    "ProductID": "9dcd3aeddae24b7d93afef7bec5805e6",
+    "ListOrder": 0,
+    "NormalCharge": 0,
+    "GiftType": 4,
+    "FirstCharge": 0,
+    "GiftName": {
+      "Hash": -327819014
+    }
+  },
+  {
+    "TierID": "Tier_12",
+    "GiftImage": "SpriteOutput/ItemFigures/300104.png",
+    "ProductID": "ccff4b12d2fb4250a6c5a8af70fc5f79",
+    "ListOrder": 0,
+    "NormalCharge": 0,
+    "GiftType": 5,
+    "FirstCharge": 0,
+    "GiftName": {
+      "Hash": -751620188
+    }
+  },
+  {
+    "TierID": "Tier_2",
+    "GiftImage": "",
+    "ProductID": "HSRPS030GIFTCARD",
+    "ListOrder": 0,
+    "NormalCharge": 0,
+    "GiftType": 11,
+    "FirstCharge": 0,
+    "GiftName": {
+      "Hash": 464738413
+    }
+  },
+  {
+    "TierID": "Tier_3",
+    "GiftImage": "",
+    "ProductID": "HSRPS050GIFTCARD",
+    "ListOrder": 0,
+    "NormalCharge": 0,
+    "GiftType": 12,
+    "FirstCharge": 0,
+    "GiftName": {
+      "Hash": 462366831
+    }
+  },
+  {
+    "TierID": "Tier_5",
+    "GiftImage": "",
+    "ProductID": "HSRPS100GIFTCARD",
+    "ListOrder": 0,
+    "NormalCharge": 0,
+    "GiftType": 13,
+    "FirstCharge": 0,
+    "GiftName": {
+      "Hash": -16933337
+    }
+  }
+]

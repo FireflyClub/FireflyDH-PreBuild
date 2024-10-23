@@ -1,0 +1,56 @@
+[
+  {
+    "ThemeSubColor1": "#2c68c2",
+    "ThemeSubColor2": "#3164ae",
+    "ThemeBgPrefabPath": "UI/Abyss/ChallengeStoryThemePanel/ChallengeStoryThemeBg1.prefab",
+    "ThemePanelPrefabPath": "UI/Abyss/ChallengeStoryThemePanel/ChallengeStoryThemePanel1.prefab",
+    "ThemeEffColor": "#8AC0F5",
+    "ThemeMainColor": "#4fa4e1",
+    "ThemeID": 1
+  },
+  {
+    "ThemeSubColor1": "#a05750",
+    "ThemeSubColor2": "#a3311b",
+    "ThemeBgPrefabPath": "UI/Abyss/ChallengeStoryThemePanel/ChallengeStoryThemeBg2.prefab",
+    "ThemePanelPrefabPath": "UI/Abyss/ChallengeStoryThemePanel/ChallengeStoryThemePanel2.prefab",
+    "ThemeEffColor": "#F5BF8A",
+    "ThemeMainColor": "#f5874c",
+    "ThemeID": 2
+  },
+  {
+    "ThemeSubColor1": "#2c8fc2",
+    "ThemeSubColor2": "#2c8fc2",
+    "ThemeBgPrefabPath": "UI/Abyss/ChallengeStoryThemePanel/ChallengeStoryThemeBg3.prefab",
+    "ThemePanelPrefabPath": "UI/Abyss/ChallengeStoryThemePanel/ChallengeStoryThemePanel3.prefab",
+    "ThemeEffColor": "#66FFFA",
+    "ThemeMainColor": "#45c8d1",
+    "ThemeID": 3
+  },
+  {
+    "ThemeSubColor1": "#2c68c2",
+    "ThemeSubColor2": "#3164ae",
+    "ThemeBgPrefabPath": "UI/Abyss/ChallengeStoryThemePanel/ChallengeStoryThemeBg1.prefab",
+    "ThemePanelPrefabPath": "UI/Abyss/ChallengeStoryThemePanel/ChallengeStoryEnhancedThemePanel1.prefab",
+    "ThemeEffColor": "#8AC0F5",
+    "ThemeMainColor": "#4fa4e1",
+    "ThemeID": 4
+  },
+  {
+    "ThemeSubColor1": "#a05750",
+    "ThemeSubColor2": "#a3311b",
+    "ThemeBgPrefabPath": "UI/Abyss/ChallengeStoryThemePanel/ChallengeStoryThemeBg2.prefab",
+    "ThemePanelPrefabPath": "UI/Abyss/ChallengeStoryThemePanel/ChallengeStoryEnhancedThemePanel2.prefab",
+    "ThemeEffColor": "#F5BF8A",
+    "ThemeMainColor": "#f5874c",
+    "ThemeID": 5
+  },
+  {
+    "ThemeSubColor1": "#2c8fc2",
+    "ThemeSubColor2": "#2c8fc2",
+    "ThemeBgPrefabPath": "UI/Abyss/ChallengeStoryThemePanel/ChallengeStoryThemeBg3.prefab",
+    "ThemePanelPrefabPath": "UI/Abyss/ChallengeStoryThemePanel/ChallengeStoryEnhancedThemePanel3.prefab",
+    "ThemeEffColor": "#66FFFA",
+    "ThemeMainColor": "#45c8d1",
+    "ThemeID": 6
+  }
+]

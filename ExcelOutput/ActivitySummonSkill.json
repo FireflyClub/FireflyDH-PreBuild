@@ -1,0 +1,628 @@
+[
+  {
+    "SkillTriggerKey": "Skill02",
+    "SkillIconPath": "SpriteOutput/SkillIcons/Avatar/8001/SkillIcon_8001_BP.png",
+    "SimpleSkillParmList": [
+      {
+        "Value": 1.0000000002328306
+      },
+      {
+        "Value": 5.000000001164153
+      },
+      {
+        "Value": 5.000000001164153
+      },
+      {
+        "Value": 1.0000000002328306
+      }
+    ],
+    "SkillParmList": [
+      {
+        "Value": 1.0000000002328306
+      },
+      {
+        "Value": 5.000000001164153
+      },
+      {
+        "Value": 5.000000001164153
+      },
+      {
+        "Value": 1.0000000002328306
+      }
+    ],
+    "SkillID": 1001,
+    "SimpleSkillDesc": {
+      "Hash": 1484021686
+    },
+    "SkillName": {
+      "Hash": 371857150
+    },
+    "SkillType": "AvatarSkill",
+    "SkillDesc": {
+      "Hash": 1484021686
+    }
+  },
+  {
+    "SkillTriggerKey": "Skill02",
+    "SkillIconPath": "SpriteOutput/SkillIcons/Avatar/1001/SkillIcon_1001_BP.png",
+    "SimpleSkillParmList": [
+      {
+        "Value": 3.000000000698492
+      },
+      {
+        "Value": 5.000000001164153
+      }
+    ],
+    "SkillParmList": [
+      {
+        "Value": 3.000000000698492
+      },
+      {
+        "Value": 2.0000000004656613
+      }
+    ],
+    "SkillID": 2001,
+    "SimpleSkillDesc": {
+      "Hash": -1244861669
+    },
+    "SkillName": {
+      "Hash": 371857150
+    },
+    "SkillType": "AvatarSkill",
+    "SkillDesc": {
+      "Hash": -1244861669
+    }
+  },
+  {
+    "SkillTriggerKey": "Skill02",
+    "SkillIconPath": "SpriteOutput/SkillIcons/Avatar/1108/SkillIcon_1108_BP.png",
+    "SimpleSkillParmList": [
+      {
+        "Value": 1.0000000002328306
+      },
+      {
+        "Value": 2.0000000004656613
+      },
+      {
+        "Value": 2.0000000004656613
+      }
+    ],
+    "SkillParmList": [
+      {
+        "Value": 1.0000000002328306
+      },
+      {
+        "Value": 2.0000000004656613
+      },
+      {
+        "Value": 2.0000000004656613
+      }
+    ],
+    "SkillID": 3001,
+    "SimpleSkillDesc": {
+      "Hash": 321222272
+    },
+    "SkillName": {
+      "Hash": 371857150
+    },
+    "SkillType": "AvatarSkill",
+    "SkillDesc": {
+      "Hash": 321222272
+    }
+  },
+  {
+    "SkillTriggerKey": "Skill02",
+    "SkillIconPath": "SpriteOutput/SkillIcons/Avatar/1101/SkillIcon_1101_BP.png",
+    "SimpleSkillParmList": [
+      {
+        "Value": 0.5000000005820766
+      },
+      {
+        "Value": 15.00000000349246
+      },
+      {
+        "Value": 25.000000005820766
+      },
+      {
+        "Value": 35.00000000814907
+      },
+      {
+        "Value": 100.00000002328306
+      }
+    ],
+    "SkillParmList": [
+      {
+        "Value": 0.5000000005820766
+      },
+      {
+        "Value": 15.00000000349246
+      },
+      {
+        "Value": 25.000000005820766
+      },
+      {
+        "Value": 35.00000000814907
+      },
+      {
+        "Value": 100.00000002328306
+      }
+    ],
+    "SkillID": 4001,
+    "SimpleSkillDesc": {
+      "Hash": -2051430723
+    },
+    "SkillName": {
+      "Hash": 371857150
+    },
+    "SkillType": "AvatarSkill",
+    "SkillDesc": {
+      "Hash": -2051430723
+    }
+  },
+  {
+    "SkillTriggerKey": "Skill02",
+    "SkillIconPath": "SpriteOutput/SkillIcons/Avatar/1106/SkillIcon_1106_BP.png",
+    "SimpleSkillParmList": [
+      {
+        "Value": 2.0000000004656613
+      }
+    ],
+    "SkillParmList": [
+      {
+        "Value": 2.0000000004656613
+      }
+    ],
+    "SkillID": 5001,
+    "SimpleSkillDesc": {
+      "Hash": -485346782
+    },
+    "SkillName": {
+      "Hash": 371857150
+    },
+    "SkillType": "AvatarSkill",
+    "SkillDesc": {
+      "Hash": -485346782
+    }
+  },
+  {
+    "SkillTriggerKey": "Skill03",
+    "SkillIconPath": "SpriteOutput/SkillIcons/Avatar/8001/SkillIcon_8001_Ultra.png",
+    "SimpleSkillParmList": [],
+    "SkillParmList": [],
+    "SkillID": 1002,
+    "SimpleSkillDesc": {
+      "Hash": 1484021717
+    },
+    "SkillName": {
+      "Hash": 371857150
+    },
+    "SkillType": "AvatarUltimate",
+    "SkillDesc": {
+      "Hash": 1484021717
+    }
+  },
+  {
+    "SkillTriggerKey": "Skill03",
+    "SkillIconPath": "SpriteOutput/SkillIcons/Avatar/1001/SkillIcon_1001_Ultra.png",
+    "SimpleSkillParmList": [],
+    "SkillParmList": [],
+    "SkillID": 2002,
+    "SimpleSkillDesc": {
+      "Hash": -1244861638
+    },
+    "SkillName": {
+      "Hash": 371857150
+    },
+    "SkillType": "AvatarUltimate",
+    "SkillDesc": {
+      "Hash": -1244861638
+    }
+  },
+  {
+    "SkillTriggerKey": "Skill03",
+    "SkillIconPath": "SpriteOutput/SkillIcons/Avatar/1108/SkillIcon_1108_Ultra.png",
+    "SimpleSkillParmList": [],
+    "SkillParmList": [],
+    "SkillID": 3002,
+    "SimpleSkillDesc": {
+      "Hash": 321222303
+    },
+    "SkillName": {
+      "Hash": 371857150
+    },
+    "SkillType": "AvatarUltimate",
+    "SkillDesc": {
+      "Hash": 321222303
+    }
+  },
+  {
+    "SkillTriggerKey": "Skill03",
+    "SkillIconPath": "SpriteOutput/SkillIcons/Avatar/1101/SkillIcon_1101_Ultra.png",
+    "SimpleSkillParmList": [],
+    "SkillParmList": [],
+    "SkillID": 4002,
+    "SimpleSkillDesc": {
+      "Hash": -2051430692
+    },
+    "SkillName": {
+      "Hash": 371857150
+    },
+    "SkillType": "AvatarUltimate",
+    "SkillDesc": {
+      "Hash": -2051430692
+    }
+  },
+  {
+    "SkillTriggerKey": "Skill03",
+    "SkillIconPath": "SpriteOutput/SkillIcons/Avatar/1106/SkillIcon_1106_Ultra.png",
+    "SimpleSkillParmList": [],
+    "SkillParmList": [],
+    "SkillID": 5002,
+    "SimpleSkillDesc": {
+      "Hash": -485346751
+    },
+    "SkillName": {
+      "Hash": 371857150
+    },
+    "SkillType": "AvatarUltimate",
+    "SkillDesc": {
+      "Hash": -485346751
+    }
+  },
+  {
+    "SkillTriggerKey": "Skill01",
+    "SkillIconPath": "SpriteOutput/SkillIcons/Summon/SkillIcon_3002050_02.png",
+    "SimpleSkillParmList": [
+      {
+        "Value": 4.000000000931323
+      },
+      {
+        "Value": 3.000000000698492
+      }
+    ],
+    "SkillParmList": [
+      {
+        "Value": 4.000000000931323
+      },
+      {
+        "Value": 3.000000000698492
+      }
+    ],
+    "SkillID": 1003,
+    "SimpleSkillDesc": {
+      "Hash": 1324875231
+    },
+    "SkillName": {
+      "Hash": 1521188526
+    },
+    "SkillType": "SummonerSkill",
+    "SkillDesc": {
+      "Hash": 1324875231
+    }
+  },
+  {
+    "SkillTriggerKey": "Skill01",
+    "SkillIconPath": "SpriteOutput/SkillIcons/Summon/SkillIcon_3002050_02.png",
+    "SimpleSkillParmList": [
+      {
+        "Value": 5.000000001164153
+      },
+      {
+        "Value": 1.0000000002328306
+      },
+      {
+        "Value": 3.000000000698492
+      },
+      {
+        "Value": 1.0000000002328306
+      }
+    ],
+    "SkillParmList": [
+      {
+        "Value": 5.000000001164153
+      },
+      {
+        "Value": 1.0000000002328306
+      },
+      {
+        "Value": 3.000000000698492
+      },
+      {
+        "Value": 1.0000000002328306
+      }
+    ],
+    "SkillID": 2003,
+    "SimpleSkillDesc": {
+      "Hash": 1324875232
+    },
+    "SkillName": {
+      "Hash": -1644481701
+    },
+    "SkillType": "SummonerSkill",
+    "SkillDesc": {
+      "Hash": 1324875232
+    }
+  },
+  {
+    "SkillTriggerKey": "Skill01",
+    "SkillIconPath": "SpriteOutput/SkillIcons/Summon/SkillIcon_3002050_01.png",
+    "SimpleSkillParmList": [
+      {
+        "Value": 5.000000001164153
+      },
+      {
+        "Value": 3.000000000698492
+      },
+      {
+        "Value": 1.0000000002328306
+      }
+    ],
+    "SkillParmList": [
+      {
+        "Value": 5.000000001164153
+      },
+      {
+        "Value": 3.000000000698492
+      },
+      {
+        "Value": 1.0000000002328306
+      }
+    ],
+    "SkillID": 3003,
+    "SimpleSkillDesc": {
+      "Hash": 1324875233
+    },
+    "SkillName": {
+      "Hash": 1064198414
+    },
+    "SkillType": "SummonerSkill",
+    "SkillDesc": {
+      "Hash": 1324875233
+    }
+  },
+  {
+    "SkillTriggerKey": "Skill01",
+    "SkillIconPath": "SpriteOutput/SkillIcons/Summon/SkillIcon_3002050_01.png",
+    "SimpleSkillParmList": [
+      {
+        "Value": 5.000000001164153
+      },
+      {
+        "Value": 3.000000000698492
+      },
+      {
+        "Value": 0.30000000034924595
+      },
+      {
+        "Value": 50.00000001164153
+      }
+    ],
+    "SkillParmList": [
+      {
+        "Value": 5.000000001164153
+      },
+      {
+        "Value": 3.000000000698492
+      },
+      {
+        "Value": 0.30000000034924595
+      },
+      {
+        "Value": 50.00000001164153
+      }
+    ],
+    "SkillID": 4003,
+    "SimpleSkillDesc": {
+      "Hash": 1324875234
+    },
+    "SkillName": {
+      "Hash": -1644481668
+    },
+    "SkillType": "SummonerSkill",
+    "SkillDesc": {
+      "Hash": 1324875234
+    }
+  },
+  {
+    "SkillTriggerKey": "Skill01",
+    "SkillIconPath": "SpriteOutput/SkillIcons/Summon/SkillIcon_3002050_02.png",
+    "SimpleSkillParmList": [
+      {
+        "Value": 5.000000001164153
+      }
+    ],
+    "SkillParmList": [
+      {
+        "Value": 5.000000001164153
+      }
+    ],
+    "SkillID": 5003,
+    "SimpleSkillDesc": {
+      "Hash": 1324875235
+    },
+    "SkillName": {
+      "Hash": -1644481734
+    },
+    "SkillType": "SummonerSkill",
+    "SkillDesc": {
+      "Hash": 1324875235
+    }
+  },
+  {
+    "SkillTriggerKey": "SkillP01",
+    "SkillIconPath": "SpriteOutput/SkillIcons/Summon/SkillIcon_3002050_04.png",
+    "SimpleSkillParmList": [],
+    "SkillParmList": [],
+    "SkillID": 1004,
+    "SimpleSkillDesc": {
+      "Hash": -1948455152
+    },
+    "SkillName": {
+      "Hash": 1521188528
+    },
+    "SkillType": "SummonerPassive",
+    "SkillDesc": {
+      "Hash": -1948455152
+    }
+  },
+  {
+    "SkillTriggerKey": "SkillP01",
+    "SkillIconPath": "SpriteOutput/SkillIcons/Summon/SkillIcon_3002050_04.png",
+    "SimpleSkillParmList": [
+      {
+        "Value": 1.0000000002328306
+      },
+      {
+        "Value": 5.000000001164153
+      }
+    ],
+    "SkillParmList": [
+      {
+        "Value": 1.0000000002328306
+      },
+      {
+        "Value": 5.000000001164153
+      }
+    ],
+    "SkillID": 2004,
+    "SimpleSkillDesc": {
+      "Hash": -1948455151
+    },
+    "SkillName": {
+      "Hash": -1644481670
+    },
+    "SkillType": "SummonerPassive",
+    "SkillDesc": {
+      "Hash": -1948455151
+    }
+  },
+  {
+    "SkillTriggerKey": "SkillP01",
+    "SkillIconPath": "SpriteOutput/SkillIcons/Summon/SkillIcon_3002050_04.png",
+    "SimpleSkillParmList": [
+      {
+        "Value": 0.30000000034924595
+      },
+      {
+        "Value": 2.0000000004656613
+      }
+    ],
+    "SkillParmList": [
+      {
+        "Value": 0.30000000034924595
+      },
+      {
+        "Value": 2.0000000004656613
+      }
+    ],
+    "SkillID": 3004,
+    "SimpleSkillDesc": {
+      "Hash": -1948455150
+    },
+    "SkillName": {
+      "Hash": 1064198412
+    },
+    "SkillType": "SummonerPassive",
+    "SkillDesc": {
+      "Hash": -1948455150
+    }
+  },
+  {
+    "SkillTriggerKey": "SkillP01",
+    "SkillIconPath": "SpriteOutput/SkillIcons/Summon/SkillIcon_3002050_04.png",
+    "SimpleSkillParmList": [
+      {
+        "Value": 1.0000000002328306
+      },
+      {
+        "Value": 1.0000000002328306
+      },
+      {
+        "Value": 0.20000000023283065
+      },
+      {
+        "Value": 1.0000000002328306
+      }
+    ],
+    "SkillParmList": [
+      {
+        "Value": 1.0000000002328306
+      },
+      {
+        "Value": 1.0000000002328306
+      },
+      {
+        "Value": 0.20000000023283065
+      },
+      {
+        "Value": 1.0000000002328306
+      }
+    ],
+    "SkillID": 4004,
+    "SimpleSkillDesc": {
+      "Hash": -1948455149
+    },
+    "SkillName": {
+      "Hash": -1644481703
+    },
+    "SkillType": "SummonerPassive",
+    "SkillDesc": {
+      "Hash": -1948455149
+    }
+  },
+  {
+    "SkillTriggerKey": "SkillP01",
+    "SkillIconPath": "SpriteOutput/SkillIcons/Summon/SkillIcon_3002050_04.png",
+    "SimpleSkillParmList": [
+      {
+        "Value": 1.0000000002328306
+      },
+      {
+        "Value": 4.000000000931323
+      },
+      {
+        "Value": 4.000000000931323
+      },
+      {
+        "Value": 100000.00002328306
+      },
+      {
+        "Value": 300000.0000698492
+      },
+      {
+        "Value": 30.00000000698492
+      }
+    ],
+    "SkillParmList": [
+      {
+        "Value": 1.0000000002328306
+      },
+      {
+        "Value": 4.000000000931323
+      },
+      {
+        "Value": 4.000000000931323
+      },
+      {
+        "Value": 100000.00002328306
+      },
+      {
+        "Value": 300000.0000698492
+      },
+      {
+        "Value": 30.00000000698492
+      }
+    ],
+    "SkillID": 5004,
+    "SimpleSkillDesc": {
+      "Hash": -1948455148
+    },
+    "SkillName": {
+      "Hash": -1644481732
+    },
+    "SkillType": "SummonerPassive",
+    "SkillDesc": {
+      "Hash": -1948455148
+    }
+  }
+]

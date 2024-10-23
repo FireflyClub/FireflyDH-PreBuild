@@ -1,0 +1,4994 @@
+[
+  {
+    "ImgPath": "SpriteOutput/HoshinoKami/HoshinoKami_001.png",
+    "IconPath": "SpriteOutput/AvatarProfessionTattoo/Profession/BgPathsKnight.png",
+    "ImageID": 201,
+    "TalkNameID": 1,
+    "SubName": {
+      "Hash": 1339543455
+    },
+    "Name": {
+      "Hash": 1389708315
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/HoshinoKami/HoshinoKami_006.png",
+    "IconPath": "SpriteOutput/AvatarProfessionTattoo/Profession/BgPathsMemory.png",
+    "ImageID": 202,
+    "TalkNameID": 2,
+    "SubName": {
+      "Hash": 1339543456
+    },
+    "Name": {
+      "Hash": -176375626
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/HoshinoKami/HoshinoKami_004.png",
+    "IconPath": "SpriteOutput/AvatarProfessionTattoo/Profession/BgPathsWarlock.png",
+    "ImageID": 203,
+    "TalkNameID": 3,
+    "SubName": {
+      "Hash": 1339543457
+    },
+    "Name": {
+      "Hash": -1742459567
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/HoshinoKami/HoshinoKami_003.png",
+    "IconPath": "SpriteOutput/AvatarProfessionTattoo/Profession/BgPathsPirest.png",
+    "ImageID": 204,
+    "TalkNameID": 4,
+    "SubName": {
+      "Hash": 1339543458
+    },
+    "Name": {
+      "Hash": 630193428
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/HoshinoKami/HoshinoKami_005.png",
+    "IconPath": "SpriteOutput/AvatarProfessionTattoo/Profession/BgPathsRogue.png",
+    "ImageID": 205,
+    "TalkNameID": 5,
+    "SubName": {
+      "Hash": 1339543459
+    },
+    "Name": {
+      "Hash": -935890513
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/HoshinoKami/HoshinoKami_002.png",
+    "IconPath": "SpriteOutput/AvatarProfessionTattoo/Profession/BgPathsWarrior.png",
+    "ImageID": 206,
+    "TalkNameID": 6,
+    "SubName": {
+      "Hash": 1339543460
+    },
+    "Name": {
+      "Hash": 1792992842
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/HoshinoKami/HoshinoKami_007.png",
+    "IconPath": "SpriteOutput/AvatarProfessionTattoo/Profession/BgPathsJoy.png",
+    "ImageID": 207,
+    "TalkNameID": 7,
+    "SubName": {
+      "Hash": 1339543461
+    },
+    "Name": {
+      "Hash": 226908901
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/HoshinoKami/HoshinoKami_Herta.png",
+    "IconPath": "",
+    "ImageID": 301,
+    "TalkNameID": 8,
+    "SubName": {
+      "Hash": 1339543462
+    },
+    "Name": {
+      "Hash": -982944680
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/HoshinoKami/HoshinoKami_Herta2.png",
+    "IconPath": "",
+    "ImageID": 302,
+    "TalkNameID": 9,
+    "SubName": {
+      "Hash": 1339543463
+    },
+    "Name": {
+      "Hash": 1745938675
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/HoshinoKami/HoshinoKami_001.png",
+    "IconPath": "SpriteOutput/AvatarProfessionTattoo/Profession/BgPathsOrder.png",
+    "ImageID": 208,
+    "TalkNameID": 10,
+    "SubName": {
+      "Hash": -1589107089
+    },
+    "Name": {
+      "Hash": 1363661163
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/HoshinoKami/HoshinoKami_008.png",
+    "IconPath": "SpriteOutput/AvatarProfessionTattoo/Profession/BgPathsShaman.png",
+    "ImageID": 209,
+    "TalkNameID": 11,
+    "SubName": {
+      "Hash": -23023148
+    },
+    "Name": {
+      "Hash": 1363661162
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/HoshinoKami/HoshinoKami_001.png",
+    "IconPath": "SpriteOutput/AvatarProfessionTattoo/Profession/BgPathsOroboros.png",
+    "ImageID": 210,
+    "TalkNameID": 12,
+    "SubName": {
+      "Hash": -426307675
+    },
+    "Name": {
+      "Hash": 1363661165
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/HoshinoKami/HoshinoKami_Herta3.png",
+    "IconPath": "",
+    "ImageID": 303,
+    "TalkNameID": 13,
+    "SubName": {
+      "Hash": 1139776266
+    },
+    "Name": {
+      "Hash": 1363661164
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/HoshinoKami/HoshinoKami_009.png",
+    "IconPath": "SpriteOutput/AvatarProfessionTattoo/Profession/BgPathsPropagation.png",
+    "ImageID": 211,
+    "TalkNameID": 14,
+    "SubName": {
+      "Hash": 736491739
+    },
+    "Name": {
+      "Hash": 1363661167
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/HoshinoKami/HoshinoKami_009.png",
+    "IconPath": "",
+    "ImageID": 304,
+    "TalkNameID": 15,
+    "SubName": {
+      "Hash": -1992391616
+    },
+    "Name": {
+      "Hash": 1363661166
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/HoshinoKami/HoshinoKami_009.png",
+    "IconPath": "",
+    "ImageID": 305,
+    "TalkNameID": 16,
+    "SubName": {
+      "Hash": 1899291153
+    },
+    "Name": {
+      "Hash": 1363661169
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/HoshinoKami/HoshinoKami_009.png",
+    "IconPath": "SpriteOutput/AvatarProfessionTattoo/Profession/BgPathsnMage.png",
+    "ImageID": 212,
+    "TalkNameID": 17,
+    "SubName": {
+      "Hash": -829592202
+    },
+    "Name": {
+      "Hash": 1363661168
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/HoshinoKami/HoshinoKami_009.png",
+    "IconPath": "",
+    "ImageID": 213,
+    "TalkNameID": 18,
+    "SubName": {
+      "Hash": -1945337449
+    },
+    "Name": {
+      "Hash": 1363661155
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/HoshinoKami/HoshinoKami_009.png",
+    "IconPath": "SpriteOutput/AvatarProfessionTattoo/Profession/BgPathsMythus.png",
+    "ImageID": 214,
+    "TalkNameID": 19,
+    "SubName": {
+      "Hash": -379253508
+    },
+    "Name": {
+      "Hash": 1363661154
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/HoshinoKami/HoshinoKami_009.png",
+    "IconPath": "",
+    "ImageID": 306,
+    "TalkNameID": 20,
+    "SubName": {
+      "Hash": -1589107088
+    },
+    "Name": {
+      "Hash": -202422778
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/HoshinoKami/HoshinoKami_009.png",
+    "IconPath": "",
+    "ImageID": 408,
+    "TalkNameID": 139,
+    "SubName": {
+      "Hash": 1826559233
+    },
+    "Name": {
+      "Hash": -1599333671
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/HoshinoKami/HoshinoKami_009.png",
+    "IconPath": "",
+    "ImageID": 409,
+    "TalkNameID": 140,
+    "SubName": {
+      "Hash": 1423274699
+    },
+    "Name": {
+      "Hash": 773319327
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/HoshinoKami/HoshinoKami_009.png",
+    "IconPath": "",
+    "ImageID": 409,
+    "TalkNameID": 141,
+    "SubName": {
+      "Hash": 1423274698
+    },
+    "Name": {
+      "Hash": -1955564028
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/HoshinoKami/HoshinoKami_009.png",
+    "IconPath": "",
+    "ImageID": 412,
+    "TalkNameID": 142,
+    "SubName": {
+      "Hash": 1423274701
+    },
+    "Name": {
+      "Hash": 1936118741
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/HoshinoKami/HoshinoKami_009.png",
+    "IconPath": "",
+    "ImageID": 412,
+    "TalkNameID": 143,
+    "SubName": {
+      "Hash": 1423274700
+    },
+    "Name": {
+      "Hash": -792764614
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/HoshinoKami/HoshinoKami_009.png",
+    "IconPath": "",
+    "ImageID": 410,
+    "TalkNameID": 144,
+    "SubName": {
+      "Hash": 1423274703
+    },
+    "Name": {
+      "Hash": -1552279501
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/HoshinoKami/HoshinoKami_009.png",
+    "IconPath": "",
+    "ImageID": 410,
+    "TalkNameID": 145,
+    "SubName": {
+      "Hash": 1423274702
+    },
+    "Name": {
+      "Hash": 13804440
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/HoshinoKami/HoshinoKami_009.png",
+    "IconPath": "",
+    "ImageID": 410,
+    "TalkNameID": 146,
+    "SubName": {
+      "Hash": 1423274705
+    },
+    "Name": {
+      "Hash": -389480087
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/HoshinoKami/HoshinoKami_009.png",
+    "IconPath": "",
+    "ImageID": 409,
+    "TalkNameID": 147,
+    "SubName": {
+      "Hash": 1423274704
+    },
+    "Name": {
+      "Hash": 1176603854
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/HoshinoKami/HoshinoKami_009.png",
+    "IconPath": "",
+    "ImageID": 412,
+    "TalkNameID": 148,
+    "SubName": {
+      "Hash": 1423274707
+    },
+    "Name": {
+      "Hash": 1129549687
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/HoshinoKami/HoshinoKami_009.png",
+    "IconPath": "",
+    "ImageID": 407,
+    "TalkNameID": 149,
+    "SubName": {
+      "Hash": 1423274706
+    },
+    "Name": {
+      "Hash": -1599333668
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/HoshinoKami/HoshinoKami_009.png",
+    "IconPath": "",
+    "ImageID": 408,
+    "TalkNameID": 150,
+    "SubName": {
+      "Hash": -1305608656
+    },
+    "Name": {
+      "Hash": 773319326
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/HoshinoKami/HoshinoKami_009.png",
+    "IconPath": "",
+    "ImageID": 408,
+    "TalkNameID": 151,
+    "SubName": {
+      "Hash": -1305608657
+    },
+    "Name": {
+      "Hash": -1955564029
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/HoshinoKami/HoshinoKami_009.png",
+    "IconPath": "",
+    "ImageID": 407,
+    "TalkNameID": 152,
+    "SubName": {
+      "Hash": -1305608654
+    },
+    "Name": {
+      "Hash": 1936118740
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/HoshinoKami/HoshinoKami_009.png",
+    "IconPath": "",
+    "ImageID": 407,
+    "TalkNameID": 153,
+    "SubName": {
+      "Hash": -1305608655
+    },
+    "Name": {
+      "Hash": -792764615
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/HoshinoKami/HoshinoKami_009.png",
+    "IconPath": "",
+    "ImageID": 411,
+    "TalkNameID": 154,
+    "SubName": {
+      "Hash": -1305608652
+    },
+    "Name": {
+      "Hash": -1552279502
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/HoshinoKami/HoshinoKami_009.png",
+    "IconPath": "",
+    "ImageID": 411,
+    "TalkNameID": 155,
+    "SubName": {
+      "Hash": -1305608653
+    },
+    "Name": {
+      "Hash": 13804439
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/HoshinoKami/HoshinoKami_009.png",
+    "IconPath": "",
+    "ImageID": 408,
+    "TalkNameID": 156,
+    "SubName": {
+      "Hash": -1305608650
+    },
+    "Name": {
+      "Hash": -389480088
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/HoshinoKami/HoshinoKami_009.png",
+    "IconPath": "",
+    "ImageID": 411,
+    "TalkNameID": 157,
+    "SubName": {
+      "Hash": -1305608651
+    },
+    "Name": {
+      "Hash": 1176603853
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/HoshinoKami/HoshinoKami_009.png",
+    "IconPath": "",
+    "ImageID": 407,
+    "TalkNameID": 158,
+    "SubName": {
+      "Hash": -1305608648
+    },
+    "Name": {
+      "Hash": 1129549686
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/HoshinoKami/HoshinoKami_009.png",
+    "IconPath": "",
+    "ImageID": 413,
+    "TalkNameID": 159,
+    "SubName": {
+      "Hash": -1305608649
+    },
+    "Name": {
+      "Hash": -1599333669
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/HoshinoKami/HoshinoKami_009.png",
+    "IconPath": "",
+    "ImageID": 413,
+    "TalkNameID": 160,
+    "SubName": {
+      "Hash": -1708893183
+    },
+    "Name": {
+      "Hash": 773319329
+    }
+  },
+  {
+    "ImgPath": "",
+    "IconPath": "",
+    "ImageID": 413,
+    "TalkNameID": 161,
+    "SubName": {
+      "Hash": -1708893184
+    },
+    "Name": {
+      "Hash": -1955564026
+    }
+  },
+  {
+    "ImgPath": "",
+    "IconPath": "",
+    "ImageID": 413,
+    "TalkNameID": 162,
+    "SubName": {
+      "Hash": -1708893181
+    },
+    "Name": {
+      "Hash": 1936118743
+    }
+  },
+  {
+    "ImgPath": "",
+    "IconPath": "",
+    "ImageID": 413,
+    "TalkNameID": 163,
+    "SubName": {
+      "Hash": -1708893182
+    },
+    "Name": {
+      "Hash": -792764612
+    }
+  },
+  {
+    "ImgPath": "",
+    "IconPath": "",
+    "ImageID": 413,
+    "TalkNameID": 164,
+    "SubName": {
+      "Hash": -1708893179
+    },
+    "Name": {
+      "Hash": -1552279499
+    }
+  },
+  {
+    "ImgPath": "",
+    "IconPath": "",
+    "ImageID": 413,
+    "TalkNameID": 165,
+    "SubName": {
+      "Hash": -1708893180
+    },
+    "Name": {
+      "Hash": 13804442
+    }
+  },
+  {
+    "ImgPath": "",
+    "IconPath": "",
+    "ImageID": 413,
+    "TalkNameID": 166,
+    "SubName": {
+      "Hash": -1708893177
+    },
+    "Name": {
+      "Hash": -389480085
+    }
+  },
+  {
+    "ImgPath": "",
+    "IconPath": "",
+    "ImageID": 413,
+    "TalkNameID": 167,
+    "SubName": {
+      "Hash": -1708893178
+    },
+    "Name": {
+      "Hash": 1176603856
+    }
+  },
+  {
+    "ImgPath": "",
+    "IconPath": "",
+    "ImageID": 413,
+    "TalkNameID": 168,
+    "SubName": {
+      "Hash": -1708893175
+    },
+    "Name": {
+      "Hash": 1129549689
+    }
+  },
+  {
+    "ImgPath": "",
+    "IconPath": "",
+    "ImageID": 413,
+    "TalkNameID": 169,
+    "SubName": {
+      "Hash": -1708893176
+    },
+    "Name": {
+      "Hash": -1599333666
+    }
+  },
+  {
+    "ImgPath": "",
+    "IconPath": "",
+    "ImageID": 413,
+    "TalkNameID": 170,
+    "SubName": {
+      "Hash": -142809242
+    },
+    "Name": {
+      "Hash": 773319328
+    }
+  },
+  {
+    "ImgPath": "",
+    "IconPath": "",
+    "ImageID": 413,
+    "TalkNameID": 171,
+    "SubName": {
+      "Hash": -142809243
+    },
+    "Name": {
+      "Hash": -1955564027
+    }
+  },
+  {
+    "ImgPath": "",
+    "IconPath": "",
+    "ImageID": 413,
+    "TalkNameID": 172,
+    "SubName": {
+      "Hash": -142809240
+    },
+    "Name": {
+      "Hash": 1936118742
+    }
+  },
+  {
+    "ImgPath": "",
+    "IconPath": "",
+    "ImageID": 413,
+    "TalkNameID": 173,
+    "SubName": {
+      "Hash": -142809241
+    },
+    "Name": {
+      "Hash": -792764613
+    }
+  },
+  {
+    "ImgPath": "",
+    "IconPath": "",
+    "ImageID": 413,
+    "TalkNameID": 174,
+    "SubName": {
+      "Hash": -142809238
+    },
+    "Name": {
+      "Hash": -1552279500
+    }
+  },
+  {
+    "ImgPath": "",
+    "IconPath": "",
+    "ImageID": 413,
+    "TalkNameID": 175,
+    "SubName": {
+      "Hash": -142809239
+    },
+    "Name": {
+      "Hash": 13804441
+    }
+  },
+  {
+    "ImgPath": "",
+    "IconPath": "",
+    "ImageID": 413,
+    "TalkNameID": 176,
+    "SubName": {
+      "Hash": -142809236
+    },
+    "Name": {
+      "Hash": -389480086
+    }
+  },
+  {
+    "ImgPath": "",
+    "IconPath": "",
+    "ImageID": 413,
+    "TalkNameID": 177,
+    "SubName": {
+      "Hash": -142809237
+    },
+    "Name": {
+      "Hash": 1176603855
+    }
+  },
+  {
+    "ImgPath": "",
+    "IconPath": "",
+    "ImageID": 413,
+    "TalkNameID": 178,
+    "SubName": {
+      "Hash": -142809234
+    },
+    "Name": {
+      "Hash": 1129549688
+    }
+  },
+  {
+    "ImgPath": "",
+    "IconPath": "",
+    "ImageID": 413,
+    "TalkNameID": 179,
+    "SubName": {
+      "Hash": -142809235
+    },
+    "Name": {
+      "Hash": -1599333667
+    }
+  },
+  {
+    "ImgPath": "",
+    "IconPath": "",
+    "ImageID": 413,
+    "TalkNameID": 180,
+    "SubName": {
+      "Hash": -1258554489
+    },
+    "Name": {
+      "Hash": 773319315
+    }
+  },
+  {
+    "ImgPath": "",
+    "IconPath": "",
+    "ImageID": 413,
+    "TalkNameID": 181,
+    "SubName": {
+      "Hash": -1258554490
+    },
+    "Name": {
+      "Hash": -1955564040
+    }
+  },
+  {
+    "ImgPath": "",
+    "IconPath": "",
+    "ImageID": 410,
+    "TalkNameID": 182,
+    "SubName": {
+      "Hash": -1258554487
+    },
+    "Name": {
+      "Hash": 1936118729
+    }
+  },
+  {
+    "ImgPath": "",
+    "IconPath": "",
+    "ImageID": 410,
+    "TalkNameID": 183,
+    "SubName": {
+      "Hash": -1258554488
+    },
+    "Name": {
+      "Hash": -792764626
+    }
+  },
+  {
+    "ImgPath": "",
+    "IconPath": "",
+    "ImageID": 410,
+    "TalkNameID": 184,
+    "SubName": {
+      "Hash": -1258554485
+    },
+    "Name": {
+      "Hash": -1552279513
+    }
+  },
+  {
+    "ImgPath": "",
+    "IconPath": "",
+    "ImageID": 410,
+    "TalkNameID": 185,
+    "SubName": {
+      "Hash": -1258554486
+    },
+    "Name": {
+      "Hash": 13804428
+    }
+  },
+  {
+    "ImgPath": "",
+    "IconPath": "",
+    "ImageID": 410,
+    "TalkNameID": 186,
+    "SubName": {
+      "Hash": -1258554483
+    },
+    "Name": {
+      "Hash": -389480099
+    }
+  },
+  {
+    "ImgPath": "",
+    "IconPath": "",
+    "ImageID": 410,
+    "TalkNameID": 187,
+    "SubName": {
+      "Hash": -1258554484
+    },
+    "Name": {
+      "Hash": 1176603842
+    }
+  },
+  {
+    "ImgPath": "",
+    "IconPath": "",
+    "ImageID": 410,
+    "TalkNameID": 188,
+    "SubName": {
+      "Hash": -1258554481
+    },
+    "Name": {
+      "Hash": 1129549675
+    }
+  },
+  {
+    "ImgPath": "",
+    "IconPath": "",
+    "ImageID": 410,
+    "TalkNameID": 189,
+    "SubName": {
+      "Hash": -1258554482
+    },
+    "Name": {
+      "Hash": -1599333680
+    }
+  },
+  {
+    "ImgPath": "",
+    "IconPath": "",
+    "ImageID": 410,
+    "TalkNameID": 190,
+    "SubName": {
+      "Hash": 307529452
+    },
+    "Name": {
+      "Hash": 773319314
+    }
+  },
+  {
+    "ImgPath": "",
+    "IconPath": "",
+    "ImageID": 410,
+    "TalkNameID": 191,
+    "SubName": {
+      "Hash": 307529451
+    },
+    "Name": {
+      "Hash": -1955564041
+    }
+  },
+  {
+    "ImgPath": "",
+    "IconPath": "",
+    "ImageID": 410,
+    "TalkNameID": 192,
+    "SubName": {
+      "Hash": 307529454
+    },
+    "Name": {
+      "Hash": 1936118728
+    }
+  },
+  {
+    "ImgPath": "",
+    "IconPath": "",
+    "ImageID": 410,
+    "TalkNameID": 193,
+    "SubName": {
+      "Hash": 307529453
+    },
+    "Name": {
+      "Hash": -792764627
+    }
+  },
+  {
+    "ImgPath": "",
+    "IconPath": "",
+    "ImageID": 410,
+    "TalkNameID": 194,
+    "SubName": {
+      "Hash": 307529456
+    },
+    "Name": {
+      "Hash": -1552279514
+    }
+  },
+  {
+    "ImgPath": "",
+    "IconPath": "",
+    "ImageID": 410,
+    "TalkNameID": 195,
+    "SubName": {
+      "Hash": 307529455
+    },
+    "Name": {
+      "Hash": 13804427
+    }
+  },
+  {
+    "ImgPath": "",
+    "IconPath": "",
+    "ImageID": 410,
+    "TalkNameID": 196,
+    "SubName": {
+      "Hash": 307529458
+    },
+    "Name": {
+      "Hash": -389480100
+    }
+  },
+  {
+    "ImgPath": "",
+    "IconPath": "",
+    "ImageID": 410,
+    "TalkNameID": 197,
+    "SubName": {
+      "Hash": 307529457
+    },
+    "Name": {
+      "Hash": 1176603841
+    }
+  },
+  {
+    "ImgPath": "",
+    "IconPath": "",
+    "ImageID": 410,
+    "TalkNameID": 198,
+    "SubName": {
+      "Hash": 307529460
+    },
+    "Name": {
+      "Hash": 1129549674
+    }
+  },
+  {
+    "ImgPath": "",
+    "IconPath": "",
+    "ImageID": 410,
+    "TalkNameID": 199,
+    "SubName": {
+      "Hash": 307529459
+    },
+    "Name": {
+      "Hash": -1599333681
+    }
+  },
+  {
+    "ImgPath": "",
+    "IconPath": "",
+    "ImageID": 414,
+    "TalkNameID": 200,
+    "SubName": {
+      "Hash": -902324032
+    },
+    "Name": {
+      "Hash": -812967594
+    }
+  },
+  {
+    "ImgPath": "",
+    "IconPath": "",
+    "ImageID": 414,
+    "TalkNameID": 201,
+    "SubName": {
+      "Hash": -902324031
+    },
+    "Name": {
+      "Hash": 1915915761
+    }
+  },
+  {
+    "ImgPath": "",
+    "IconPath": "",
+    "ImageID": 414,
+    "TalkNameID": 202,
+    "SubName": {
+      "Hash": -902324034
+    },
+    "Name": {
+      "Hash": -1975767008
+    }
+  },
+  {
+    "ImgPath": "",
+    "IconPath": "",
+    "ImageID": 414,
+    "TalkNameID": 203,
+    "SubName": {
+      "Hash": -902324033
+    },
+    "Name": {
+      "Hash": 753116347
+    }
+  },
+  {
+    "ImgPath": "",
+    "IconPath": "",
+    "ImageID": 414,
+    "TalkNameID": 204,
+    "SubName": {
+      "Hash": -902324028
+    },
+    "Name": {
+      "Hash": 1156400874
+    }
+  },
+  {
+    "ImgPath": "",
+    "IconPath": "",
+    "ImageID": 414,
+    "TalkNameID": 205,
+    "SubName": {
+      "Hash": -902324027
+    },
+    "Name": {
+      "Hash": -409683067
+    }
+  },
+  {
+    "ImgPath": "",
+    "IconPath": "",
+    "ImageID": 414,
+    "TalkNameID": 206,
+    "SubName": {
+      "Hash": -902324030
+    },
+    "Name": {
+      "Hash": -6398540
+    }
+  },
+  {
+    "ImgPath": "",
+    "IconPath": "",
+    "ImageID": 414,
+    "TalkNameID": 207,
+    "SubName": {
+      "Hash": -902324029
+    },
+    "Name": {
+      "Hash": -1572482481
+    }
+  },
+  {
+    "ImgPath": "",
+    "IconPath": "",
+    "ImageID": 414,
+    "TalkNameID": 208,
+    "SubName": {
+      "Hash": -902324024
+    },
+    "Name": {
+      "Hash": -456737234
+    }
+  },
+  {
+    "ImgPath": "",
+    "IconPath": "",
+    "ImageID": 414,
+    "TalkNameID": 209,
+    "SubName": {
+      "Hash": -902324023
+    },
+    "Name": {
+      "Hash": -2022821175
+    }
+  },
+  {
+    "ImgPath": "",
+    "IconPath": "",
+    "ImageID": 414,
+    "TalkNameID": 210,
+    "SubName": {
+      "Hash": 663759909
+    },
+    "Name": {
+      "Hash": -812967595
+    }
+  },
+  {
+    "ImgPath": "",
+    "IconPath": "",
+    "ImageID": 414,
+    "TalkNameID": 211,
+    "SubName": {
+      "Hash": 663759910
+    },
+    "Name": {
+      "Hash": 1915915760
+    }
+  },
+  {
+    "ImgPath": "",
+    "IconPath": "",
+    "ImageID": 414,
+    "TalkNameID": 212,
+    "SubName": {
+      "Hash": 663759907
+    },
+    "Name": {
+      "Hash": -1975767009
+    }
+  },
+  {
+    "ImgPath": "",
+    "IconPath": "",
+    "ImageID": 414,
+    "TalkNameID": 213,
+    "SubName": {
+      "Hash": 663759908
+    },
+    "Name": {
+      "Hash": 753116346
+    }
+  },
+  {
+    "ImgPath": "",
+    "IconPath": "",
+    "ImageID": 414,
+    "TalkNameID": 214,
+    "SubName": {
+      "Hash": 663759913
+    },
+    "Name": {
+      "Hash": 1156400873
+    }
+  },
+  {
+    "ImgPath": "",
+    "IconPath": "",
+    "ImageID": 414,
+    "TalkNameID": 215,
+    "SubName": {
+      "Hash": 663759914
+    },
+    "Name": {
+      "Hash": -409683068
+    }
+  },
+  {
+    "ImgPath": "",
+    "IconPath": "",
+    "ImageID": 414,
+    "TalkNameID": 216,
+    "SubName": {
+      "Hash": 663759911
+    },
+    "Name": {
+      "Hash": -6398541
+    }
+  },
+  {
+    "ImgPath": "",
+    "IconPath": "",
+    "ImageID": 414,
+    "TalkNameID": 217,
+    "SubName": {
+      "Hash": 663759912
+    },
+    "Name": {
+      "Hash": -1572482482
+    }
+  },
+  {
+    "ImgPath": "",
+    "IconPath": "",
+    "ImageID": 414,
+    "TalkNameID": 218,
+    "SubName": {
+      "Hash": 663759917
+    },
+    "Name": {
+      "Hash": -456737235
+    }
+  },
+  {
+    "ImgPath": "",
+    "IconPath": "",
+    "ImageID": 414,
+    "TalkNameID": 219,
+    "SubName": {
+      "Hash": 663759918
+    },
+    "Name": {
+      "Hash": -2022821176
+    }
+  },
+  {
+    "ImgPath": "",
+    "IconPath": "",
+    "ImageID": 414,
+    "TalkNameID": 220,
+    "SubName": {
+      "Hash": 260475382
+    },
+    "Name": {
+      "Hash": -812967592
+    }
+  },
+  {
+    "ImgPath": "",
+    "IconPath": "",
+    "ImageID": 414,
+    "TalkNameID": 221,
+    "SubName": {
+      "Hash": 260475383
+    },
+    "Name": {
+      "Hash": 1915915763
+    }
+  },
+  {
+    "ImgPath": "",
+    "IconPath": "",
+    "ImageID": 414,
+    "TalkNameID": 222,
+    "SubName": {
+      "Hash": 260475380
+    },
+    "Name": {
+      "Hash": -1975767006
+    }
+  },
+  {
+    "ImgPath": "",
+    "IconPath": "",
+    "ImageID": 413,
+    "TalkNameID": 223,
+    "SubName": {
+      "Hash": 260475381
+    },
+    "Name": {
+      "Hash": 753116349
+    }
+  },
+  {
+    "ImgPath": "",
+    "IconPath": "",
+    "ImageID": 413,
+    "TalkNameID": 224,
+    "SubName": {
+      "Hash": 260475386
+    },
+    "Name": {
+      "Hash": 1156400876
+    }
+  },
+  {
+    "ImgPath": "",
+    "IconPath": "",
+    "ImageID": 413,
+    "TalkNameID": 225,
+    "SubName": {
+      "Hash": 260475387
+    },
+    "Name": {
+      "Hash": -409683065
+    }
+  },
+  {
+    "ImgPath": "",
+    "IconPath": "",
+    "ImageID": 413,
+    "TalkNameID": 226,
+    "SubName": {
+      "Hash": 260475384
+    },
+    "Name": {
+      "Hash": -6398538
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 101,
+    "TalkNameID": 398,
+    "SubName": {
+      "Hash": 307529526
+    },
+    "Name": {
+      "Hash": 847224672
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/HoshinoKami/HoshinoKami_Herta.png",
+    "IconPath": "",
+    "ImageID": 301,
+    "TalkNameID": 10000,
+    "SubName": {
+      "Hash": -1849307361
+    },
+    "Name": {
+      "Hash": 1887116059
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/HoshinoKami/HoshinoKami_Herta.png",
+    "IconPath": "",
+    "ImageID": 301,
+    "TalkNameID": 10001,
+    "SubName": {
+      "Hash": -1849307362
+    },
+    "Name": {
+      "Hash": -841767296
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/HoshinoKami/HoshinoKami_Herta.png",
+    "IconPath": "",
+    "ImageID": 301,
+    "TalkNameID": 10002,
+    "SubName": {
+      "Hash": -1849307359
+    },
+    "Name": {
+      "Hash": -1245051823
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 101,
+    "TalkNameID": 10101,
+    "SubName": {
+      "Hash": -1849307329
+    },
+    "Name": {
+      "Hash": 1907319035
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Historian.png",
+    "IconPath": "",
+    "ImageID": 102,
+    "TalkNameID": 10201,
+    "SubName": {
+      "Hash": -1849307296
+    },
+    "Name": {
+      "Hash": -1124092298
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Historian.png",
+    "IconPath": "",
+    "ImageID": 102,
+    "TalkNameID": 10202,
+    "SubName": {
+      "Hash": -1849307297
+    },
+    "Name": {
+      "Hash": 441991643
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 101,
+    "TalkNameID": 10301,
+    "SubName": {
+      "Hash": -1849307263
+    },
+    "Name": {
+      "Hash": 1624994033
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 101,
+    "TalkNameID": 10401,
+    "SubName": {
+      "Hash": -1849307230
+    },
+    "Name": {
+      "Hash": -277117292
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 101,
+    "TalkNameID": 10501,
+    "SubName": {
+      "Hash": -1849307197
+    },
+    "Name": {
+      "Hash": -1822998257
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 101,
+    "TalkNameID": 10601,
+    "SubName": {
+      "Hash": -1849307164
+    },
+    "Name": {
+      "Hash": -559442294
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Pixel.png",
+    "IconPath": "",
+    "ImageID": 103,
+    "TalkNameID": 10701,
+    "SubName": {
+      "Hash": -1849307131
+    },
+    "Name": {
+      "Hash": -2105323259
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Toy.png",
+    "IconPath": "",
+    "ImageID": 104,
+    "TalkNameID": 10801,
+    "SubName": {
+      "Hash": -1849307098
+    },
+    "Name": {
+      "Hash": -1971067304
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Bond.png",
+    "IconPath": "",
+    "ImageID": 105,
+    "TalkNameID": 10901,
+    "SubName": {
+      "Hash": -1849307065
+    },
+    "Name": {
+      "Hash": 778019027
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Bond.png",
+    "IconPath": "",
+    "ImageID": 105,
+    "TalkNameID": 10902,
+    "SubName": {
+      "Hash": -1849307064
+    },
+    "Name": {
+      "Hash": -788064914
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 101,
+    "TalkNameID": 11001,
+    "SubName": {
+      "Hash": 1141698019
+    },
+    "Name": {
+      "Hash": -841767393
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 101,
+    "TalkNameID": 11101,
+    "SubName": {
+      "Hash": 1141698052
+    },
+    "Name": {
+      "Hash": 1907318938
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Bonus.png",
+    "IconPath": "",
+    "ImageID": 106,
+    "TalkNameID": 11201,
+    "SubName": {
+      "Hash": 1141698085
+    },
+    "Name": {
+      "Hash": -1124092395
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_ThreePig.png",
+    "IconPath": "",
+    "ImageID": 107,
+    "TalkNameID": 11301,
+    "SubName": {
+      "Hash": 1141698118
+    },
+    "Name": {
+      "Hash": 1624993936
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 101,
+    "TalkNameID": 11401,
+    "SubName": {
+      "Hash": 1141698151
+    },
+    "Name": {
+      "Hash": -277117389
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 101,
+    "TalkNameID": 11501,
+    "SubName": {
+      "Hash": 1141698184
+    },
+    "Name": {
+      "Hash": -1822998354
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 101,
+    "TalkNameID": 11601,
+    "SubName": {
+      "Hash": 1141698217
+    },
+    "Name": {
+      "Hash": -559442391
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_profiteer.png",
+    "IconPath": "",
+    "ImageID": 108,
+    "TalkNameID": 11701,
+    "SubName": {
+      "Hash": 1141698250
+    },
+    "Name": {
+      "Hash": -2105323356
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_profiteer.png",
+    "IconPath": "",
+    "ImageID": 108,
+    "TalkNameID": 11702,
+    "SubName": {
+      "Hash": 1141698247
+    },
+    "Name": {
+      "Hash": -1702038829
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_profiteer.png",
+    "IconPath": "",
+    "ImageID": 108,
+    "TalkNameID": 11703,
+    "SubName": {
+      "Hash": 1141698248
+    },
+    "Name": {
+      "Hash": 1026844526
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 101,
+    "TalkNameID": 11801,
+    "SubName": {
+      "Hash": 1141698283
+    },
+    "Name": {
+      "Hash": -1971067401
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Twin.png",
+    "IconPath": "",
+    "ImageID": 109,
+    "TalkNameID": 11901,
+    "SubName": {
+      "Hash": 1141698316
+    },
+    "Name": {
+      "Hash": 778018930
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Twin.png",
+    "IconPath": "",
+    "ImageID": 109,
+    "TalkNameID": 11902,
+    "SubName": {
+      "Hash": 1141698317
+    },
+    "Name": {
+      "Hash": -788065011
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Twin.png",
+    "IconPath": "",
+    "ImageID": 109,
+    "TalkNameID": 11903,
+    "SubName": {
+      "Hash": 1141698318
+    },
+    "Name": {
+      "Hash": 1940818344
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 101,
+    "TalkNameID": 12001,
+    "SubName": {
+      "Hash": -2131632364
+    },
+    "Name": {
+      "Hash": -841767230
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 101,
+    "TalkNameID": 12101,
+    "SubName": {
+      "Hash": -2131632331
+    },
+    "Name": {
+      "Hash": 1907319101
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Battle.png",
+    "IconPath": "",
+    "ImageID": 110,
+    "TalkNameID": 13301,
+    "SubName": {
+      "Hash": 859373116
+    },
+    "Name": {
+      "Hash": 1624994002
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Battle.png",
+    "IconPath": "",
+    "ImageID": 110,
+    "TalkNameID": 13302,
+    "SubName": {
+      "Hash": 859373113
+    },
+    "Name": {
+      "Hash": 2028278529
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 101,
+    "TalkNameID": 13501,
+    "SubName": {
+      "Hash": 859373182
+    },
+    "Name": {
+      "Hash": -1822998288
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 101,
+    "TalkNameID": 13502,
+    "SubName": {
+      "Hash": 859373183
+    },
+    "Name": {
+      "Hash": 905885067
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 101,
+    "TalkNameID": 13503,
+    "SubName": {
+      "Hash": 859373184
+    },
+    "Name": {
+      "Hash": -660198874
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Battle.png",
+    "IconPath": "",
+    "ImageID": 110,
+    "TalkNameID": 13401,
+    "SubName": {
+      "Hash": 859373149
+    },
+    "Name": {
+      "Hash": -277117323
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Battle.png",
+    "IconPath": "",
+    "ImageID": 110,
+    "TalkNameID": 13402,
+    "SubName": {
+      "Hash": 859373152
+    },
+    "Name": {
+      "Hash": -680401850
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Battle.png",
+    "IconPath": "",
+    "ImageID": 110,
+    "TalkNameID": 13601,
+    "SubName": {
+      "Hash": 859373215
+    },
+    "Name": {
+      "Hash": -559442325
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Battle.png",
+    "IconPath": "",
+    "ImageID": 110,
+    "TalkNameID": 13602,
+    "SubName": {
+      "Hash": 859373214
+    },
+    "Name": {
+      "Hash": 1006641616
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Battle.png",
+    "IconPath": "",
+    "ImageID": 110,
+    "TalkNameID": 13603,
+    "SubName": {
+      "Hash": 859373213
+    },
+    "Name": {
+      "Hash": -1722241739
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Battle.png",
+    "IconPath": "",
+    "ImageID": 110,
+    "TalkNameID": 13701,
+    "SubName": {
+      "Hash": 859373248
+    },
+    "Name": {
+      "Hash": -2105323290
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Battle.png",
+    "IconPath": "",
+    "ImageID": 110,
+    "TalkNameID": 13702,
+    "SubName": {
+      "Hash": 859373245
+    },
+    "Name": {
+      "Hash": -1702038763
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Battle.png",
+    "IconPath": "",
+    "ImageID": 110,
+    "TalkNameID": 13703,
+    "SubName": {
+      "Hash": 859373246
+    },
+    "Name": {
+      "Hash": 1026844592
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Battle.png",
+    "IconPath": "",
+    "ImageID": 110,
+    "TalkNameID": 13704,
+    "SubName": {
+      "Hash": 859373243
+    },
+    "Name": {
+      "Hash": 1786359479
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Battle.png",
+    "IconPath": "",
+    "ImageID": 110,
+    "TalkNameID": 13705,
+    "SubName": {
+      "Hash": 859373244
+    },
+    "Name": {
+      "Hash": 220275538
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Trade.png",
+    "IconPath": "",
+    "ImageID": 111,
+    "TalkNameID": 13801,
+    "SubName": {
+      "Hash": 859373281
+    },
+    "Name": {
+      "Hash": -1971067335
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Trade.png",
+    "IconPath": "",
+    "ImageID": 111,
+    "TalkNameID": 13901,
+    "SubName": {
+      "Hash": 859373314
+    },
+    "Name": {
+      "Hash": 778018996
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Trade.png",
+    "IconPath": "",
+    "ImageID": 111,
+    "TalkNameID": 14001,
+    "SubName": {
+      "Hash": 1881009930
+    },
+    "Name": {
+      "Hash": -841767164
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 401,
+    "TalkNameID": 114601,
+    "SubName": {
+      "Hash": -1836682667
+    },
+    "Name": {
+      "Hash": -143782715
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 401,
+    "TalkNameID": 114701,
+    "SubName": {
+      "Hash": -1695520166
+    },
+    "Name": {
+      "Hash": -143782748
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 401,
+    "TalkNameID": 114801,
+    "SubName": {
+      "Hash": 139592347
+    },
+    "Name": {
+      "Hash": -143783177
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 401,
+    "TalkNameID": 114901,
+    "SubName": {
+      "Hash": 280754848
+    },
+    "Name": {
+      "Hash": -143783210
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 401,
+    "TalkNameID": 115001,
+    "SubName": {
+      "Hash": -989707630
+    },
+    "Name": {
+      "Hash": 1442504004
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 401,
+    "TalkNameID": 115101,
+    "SubName": {
+      "Hash": -848545129
+    },
+    "Name": {
+      "Hash": 1442503971
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 401,
+    "TalkNameID": 115201,
+    "SubName": {
+      "Hash": -1272032632
+    },
+    "Name": {
+      "Hash": 1442504070
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 401,
+    "TalkNameID": 115301,
+    "SubName": {
+      "Hash": -1130870131
+    },
+    "Name": {
+      "Hash": 1442504037
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 401,
+    "TalkNameID": 115401,
+    "SubName": {
+      "Hash": -1554357634
+    },
+    "Name": {
+      "Hash": 1442504136
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 402,
+    "TalkNameID": 115501,
+    "SubName": {
+      "Hash": -1413195133
+    },
+    "Name": {
+      "Hash": 1442504103
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 402,
+    "TalkNameID": 115601,
+    "SubName": {
+      "Hash": -1836682636
+    },
+    "Name": {
+      "Hash": 1442504202
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 402,
+    "TalkNameID": 115701,
+    "SubName": {
+      "Hash": -1695520135
+    },
+    "Name": {
+      "Hash": 1442504169
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 402,
+    "TalkNameID": 115801,
+    "SubName": {
+      "Hash": 139592378
+    },
+    "Name": {
+      "Hash": 1442503740
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 402,
+    "TalkNameID": 115901,
+    "SubName": {
+      "Hash": 280754879
+    },
+    "Name": {
+      "Hash": 1442503707
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 402,
+    "TalkNameID": 116001,
+    "SubName": {
+      "Hash": -989707595
+    },
+    "Name": {
+      "Hash": -426107915
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 402,
+    "TalkNameID": 116101,
+    "SubName": {
+      "Hash": -848545094
+    },
+    "Name": {
+      "Hash": -426107948
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 402,
+    "TalkNameID": 116201,
+    "SubName": {
+      "Hash": -1272032597
+    },
+    "Name": {
+      "Hash": -426107849
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 402,
+    "TalkNameID": 116301,
+    "SubName": {
+      "Hash": -1130870096
+    },
+    "Name": {
+      "Hash": -426107882
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 402,
+    "TalkNameID": 116401,
+    "SubName": {
+      "Hash": -1554357599
+    },
+    "Name": {
+      "Hash": -426107783
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 402,
+    "TalkNameID": 116501,
+    "SubName": {
+      "Hash": -1413195098
+    },
+    "Name": {
+      "Hash": -426107816
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 402,
+    "TalkNameID": 116601,
+    "SubName": {
+      "Hash": -1836682601
+    },
+    "Name": {
+      "Hash": -426107717
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 403,
+    "TalkNameID": 116701,
+    "SubName": {
+      "Hash": -1695520100
+    },
+    "Name": {
+      "Hash": -426107750
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 403,
+    "TalkNameID": 116801,
+    "SubName": {
+      "Hash": 139592413
+    },
+    "Name": {
+      "Hash": -426108179
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 403,
+    "TalkNameID": 116901,
+    "SubName": {
+      "Hash": 280754914
+    },
+    "Name": {
+      "Hash": -426108212
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 403,
+    "TalkNameID": 117001,
+    "SubName": {
+      "Hash": -989707564
+    },
+    "Name": {
+      "Hash": 1160179002
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 403,
+    "TalkNameID": 117101,
+    "SubName": {
+      "Hash": -848545063
+    },
+    "Name": {
+      "Hash": 1160178969
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 403,
+    "TalkNameID": 117201,
+    "SubName": {
+      "Hash": -1272032566
+    },
+    "Name": {
+      "Hash": 1160179068
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 401,
+    "TalkNameID": 117301,
+    "SubName": {
+      "Hash": -1130870065
+    },
+    "Name": {
+      "Hash": 1160179035
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 401,
+    "TalkNameID": 117401,
+    "SubName": {
+      "Hash": -1554357568
+    },
+    "Name": {
+      "Hash": 1160179134
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 401,
+    "TalkNameID": 117501,
+    "SubName": {
+      "Hash": -1413195067
+    },
+    "Name": {
+      "Hash": 1160179101
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 404,
+    "TalkNameID": 117601,
+    "SubName": {
+      "Hash": -1836682570
+    },
+    "Name": {
+      "Hash": 1160179200
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 404,
+    "TalkNameID": 117701,
+    "SubName": {
+      "Hash": -1695520069
+    },
+    "Name": {
+      "Hash": 1160179167
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 404,
+    "TalkNameID": 117801,
+    "SubName": {
+      "Hash": 139592444
+    },
+    "Name": {
+      "Hash": 1160178738
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 404,
+    "TalkNameID": 117901,
+    "SubName": {
+      "Hash": 280754945
+    },
+    "Name": {
+      "Hash": 1160178705
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 404,
+    "TalkNameID": 118001,
+    "SubName": {
+      "Hash": -989707529
+    },
+    "Name": {
+      "Hash": -1837732925
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 404,
+    "TalkNameID": 118101,
+    "SubName": {
+      "Hash": -848545028
+    },
+    "Name": {
+      "Hash": -1837732958
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 405,
+    "TalkNameID": 118201,
+    "SubName": {
+      "Hash": -1272032531
+    },
+    "Name": {
+      "Hash": -1837732859
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 405,
+    "TalkNameID": 118301,
+    "SubName": {
+      "Hash": -1130870030
+    },
+    "Name": {
+      "Hash": -1837732892
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 405,
+    "TalkNameID": 118401,
+    "SubName": {
+      "Hash": -1554357533
+    },
+    "Name": {
+      "Hash": -1837732793
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 406,
+    "TalkNameID": 118501,
+    "SubName": {
+      "Hash": -1413195032
+    },
+    "Name": {
+      "Hash": -1837732826
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 406,
+    "TalkNameID": 118601,
+    "SubName": {
+      "Hash": -1836682535
+    },
+    "Name": {
+      "Hash": -1837732727
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 406,
+    "TalkNameID": 118701,
+    "SubName": {
+      "Hash": -1695520034
+    },
+    "Name": {
+      "Hash": -1837732760
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/HoshinoKami/HoshinoKami_Herta.png",
+    "IconPath": "",
+    "ImageID": 301,
+    "TalkNameID": 110003,
+    "SubName": {
+      "Hash": 173091621
+    },
+    "Name": {
+      "Hash": -708432915
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/HoshinoKami/HoshinoKami_Herta.png",
+    "IconPath": "",
+    "ImageID": 303,
+    "TalkNameID": 110004,
+    "SubName": {
+      "Hash": -1392992320
+    },
+    "Name": {
+      "Hash": -708432914
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/HoshinoKami/HoshinoKami_Herta.png",
+    "IconPath": "",
+    "ImageID": 301,
+    "TalkNameID": 110005,
+    "SubName": {
+      "Hash": 1335891035
+    },
+    "Name": {
+      "Hash": -708432913
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/HoshinoKami/HoshinoKami_Herta.png",
+    "IconPath": "",
+    "ImageID": 303,
+    "TalkNameID": 110006,
+    "SubName": {
+      "Hash": -230192906
+    },
+    "Name": {
+      "Hash": -708432912
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 101,
+    "TalkNameID": 110101,
+    "SubName": {
+      "Hash": -848545292
+    },
+    "Name": {
+      "Hash": -708432950
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Historian.png",
+    "IconPath": "",
+    "ImageID": 102,
+    "TalkNameID": 110201,
+    "SubName": {
+      "Hash": -1272032795
+    },
+    "Name": {
+      "Hash": -708432851
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 101,
+    "TalkNameID": 110301,
+    "SubName": {
+      "Hash": -1130870294
+    },
+    "Name": {
+      "Hash": -708432884
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 101,
+    "TalkNameID": 110401,
+    "SubName": {
+      "Hash": -1554357797
+    },
+    "Name": {
+      "Hash": -708432785
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 101,
+    "TalkNameID": 110501,
+    "SubName": {
+      "Hash": -1413195296
+    },
+    "Name": {
+      "Hash": -708432818
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 101,
+    "TalkNameID": 110601,
+    "SubName": {
+      "Hash": -1836682799
+    },
+    "Name": {
+      "Hash": -708432719
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Pixel.png",
+    "IconPath": "",
+    "ImageID": 103,
+    "TalkNameID": 110701,
+    "SubName": {
+      "Hash": -1695520298
+    },
+    "Name": {
+      "Hash": -708432752
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Toy.png",
+    "IconPath": "",
+    "ImageID": 104,
+    "TalkNameID": 110801,
+    "SubName": {
+      "Hash": 139592215
+    },
+    "Name": {
+      "Hash": -708433181
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Bond.png",
+    "IconPath": "",
+    "ImageID": 105,
+    "TalkNameID": 110901,
+    "SubName": {
+      "Hash": 280754716
+    },
+    "Name": {
+      "Hash": -708433214
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 101,
+    "TalkNameID": 111001,
+    "SubName": {
+      "Hash": -989707762
+    },
+    "Name": {
+      "Hash": 877854000
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 101,
+    "TalkNameID": 111101,
+    "SubName": {
+      "Hash": -848545261
+    },
+    "Name": {
+      "Hash": 877853967
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Bonus.png",
+    "IconPath": "",
+    "ImageID": 106,
+    "TalkNameID": 111201,
+    "SubName": {
+      "Hash": -1272032764
+    },
+    "Name": {
+      "Hash": 877854066
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_ThreePig.png",
+    "IconPath": "",
+    "ImageID": 107,
+    "TalkNameID": 111301,
+    "SubName": {
+      "Hash": -1130870263
+    },
+    "Name": {
+      "Hash": 877854033
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 101,
+    "TalkNameID": 111401,
+    "SubName": {
+      "Hash": -1554357766
+    },
+    "Name": {
+      "Hash": 877854132
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 101,
+    "TalkNameID": 111501,
+    "SubName": {
+      "Hash": -1413195265
+    },
+    "Name": {
+      "Hash": 877854099
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 101,
+    "TalkNameID": 111601,
+    "SubName": {
+      "Hash": -1836682768
+    },
+    "Name": {
+      "Hash": 877854198
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_profiteer.png",
+    "IconPath": "",
+    "ImageID": 108,
+    "TalkNameID": 111701,
+    "SubName": {
+      "Hash": -1695520267
+    },
+    "Name": {
+      "Hash": 877854165
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_profiteer.png",
+    "IconPath": "",
+    "ImageID": 108,
+    "TalkNameID": 111702,
+    "SubName": {
+      "Hash": -129436326
+    },
+    "Name": {
+      "Hash": 877854164
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_profiteer.png",
+    "IconPath": "",
+    "ImageID": 108,
+    "TalkNameID": 111703,
+    "SubName": {
+      "Hash": 1436647615
+    },
+    "Name": {
+      "Hash": 877854163
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 101,
+    "TalkNameID": 111801,
+    "SubName": {
+      "Hash": 139592246
+    },
+    "Name": {
+      "Hash": 877853736
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Twin.png",
+    "IconPath": "",
+    "ImageID": 109,
+    "TalkNameID": 111901,
+    "SubName": {
+      "Hash": 280754747
+    },
+    "Name": {
+      "Hash": 877853703
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Twin.png",
+    "IconPath": "",
+    "ImageID": 109,
+    "TalkNameID": 111902,
+    "SubName": {
+      "Hash": -122529780
+    },
+    "Name": {
+      "Hash": 877853706
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Twin.png",
+    "IconPath": "",
+    "ImageID": 109,
+    "TalkNameID": 111903,
+    "SubName": {
+      "Hash": 1443554161
+    },
+    "Name": {
+      "Hash": 877853705
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 101,
+    "TalkNameID": 112001,
+    "SubName": {
+      "Hash": -989707727
+    },
+    "Name": {
+      "Hash": -990757919
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 101,
+    "TalkNameID": 112101,
+    "SubName": {
+      "Hash": -848545226
+    },
+    "Name": {
+      "Hash": -990757952
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Battle.png",
+    "IconPath": "",
+    "ImageID": 110,
+    "TalkNameID": 113301,
+    "SubName": {
+      "Hash": -1130870197
+    },
+    "Name": {
+      "Hash": 595529031
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Battle.png",
+    "IconPath": "",
+    "ImageID": 110,
+    "TalkNameID": 113302,
+    "SubName": {
+      "Hash": 435213744
+    },
+    "Name": {
+      "Hash": 595529030
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 101,
+    "TalkNameID": 113501,
+    "SubName": {
+      "Hash": -1413195199
+    },
+    "Name": {
+      "Hash": 595529097
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 101,
+    "TalkNameID": 113502,
+    "SubName": {
+      "Hash": -1816479726
+    },
+    "Name": {
+      "Hash": 595529100
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 101,
+    "TalkNameID": 113503,
+    "SubName": {
+      "Hash": -250395785
+    },
+    "Name": {
+      "Hash": 595529099
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Battle.png",
+    "IconPath": "",
+    "ImageID": 110,
+    "TalkNameID": 113401,
+    "SubName": {
+      "Hash": -1554357700
+    },
+    "Name": {
+      "Hash": 595529130
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Battle.png",
+    "IconPath": "",
+    "ImageID": 110,
+    "TalkNameID": 113402,
+    "SubName": {
+      "Hash": 1174525655
+    },
+    "Name": {
+      "Hash": 595529131
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Battle.png",
+    "IconPath": "",
+    "ImageID": 110,
+    "TalkNameID": 113601,
+    "SubName": {
+      "Hash": -1836682702
+    },
+    "Name": {
+      "Hash": 595529196
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Battle.png",
+    "IconPath": "",
+    "ImageID": 110,
+    "TalkNameID": 113602,
+    "SubName": {
+      "Hash": -1433398175
+    },
+    "Name": {
+      "Hash": 595529193
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Battle.png",
+    "IconPath": "",
+    "ImageID": 110,
+    "TalkNameID": 113603,
+    "SubName": {
+      "Hash": 1295485180
+    },
+    "Name": {
+      "Hash": 595529194
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Battle.png",
+    "IconPath": "",
+    "ImageID": 110,
+    "TalkNameID": 113701,
+    "SubName": {
+      "Hash": -1695520201
+    },
+    "Name": {
+      "Hash": 595529163
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Battle.png",
+    "IconPath": "",
+    "ImageID": 110,
+    "TalkNameID": 113702,
+    "SubName": {
+      "Hash": -129436260
+    },
+    "Name": {
+      "Hash": 595529162
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Battle.png",
+    "IconPath": "",
+    "ImageID": 110,
+    "TalkNameID": 113703,
+    "SubName": {
+      "Hash": 1436647681
+    },
+    "Name": {
+      "Hash": 595529161
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Battle.png",
+    "IconPath": "",
+    "ImageID": 110,
+    "TalkNameID": 113704,
+    "SubName": {
+      "Hash": -1292235674
+    },
+    "Name": {
+      "Hash": 595529160
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Battle.png",
+    "IconPath": "",
+    "ImageID": 110,
+    "TalkNameID": 113705,
+    "SubName": {
+      "Hash": 273848267
+    },
+    "Name": {
+      "Hash": 595529159
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Trade.png",
+    "IconPath": "",
+    "ImageID": 111,
+    "TalkNameID": 113801,
+    "SubName": {
+      "Hash": 139592312
+    },
+    "Name": {
+      "Hash": 595528734
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Trade.png",
+    "IconPath": "",
+    "ImageID": 111,
+    "TalkNameID": 113901,
+    "SubName": {
+      "Hash": 280754813
+    },
+    "Name": {
+      "Hash": 595528701
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Trade.png",
+    "IconPath": "",
+    "ImageID": 111,
+    "TalkNameID": 114001,
+    "SubName": {
+      "Hash": -989707661
+    },
+    "Name": {
+      "Hash": -143782913
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 112,
+    "TalkNameID": 112201,
+    "SubName": {
+      "Hash": -1272032729
+    },
+    "Name": {
+      "Hash": -990757853
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 101,
+    "TalkNameID": 112301,
+    "SubName": {
+      "Hash": -1130870228
+    },
+    "Name": {
+      "Hash": -990757886
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 117,
+    "TalkNameID": 112401,
+    "SubName": {
+      "Hash": -1554357731
+    },
+    "Name": {
+      "Hash": -990757787
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 114,
+    "TalkNameID": 112501,
+    "SubName": {
+      "Hash": -1413195230
+    },
+    "Name": {
+      "Hash": -990757820
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 104,
+    "TalkNameID": 112601,
+    "SubName": {
+      "Hash": -1836682733
+    },
+    "Name": {
+      "Hash": -990757721
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 108,
+    "TalkNameID": 112701,
+    "SubName": {
+      "Hash": -1695520232
+    },
+    "Name": {
+      "Hash": -990757754
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 105,
+    "TalkNameID": 112801,
+    "SubName": {
+      "Hash": 139592281
+    },
+    "Name": {
+      "Hash": -990758183
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 116,
+    "TalkNameID": 112901,
+    "SubName": {
+      "Hash": 280754782
+    },
+    "Name": {
+      "Hash": -990758216
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 104,
+    "TalkNameID": 113001,
+    "SubName": {
+      "Hash": -989707696
+    },
+    "Name": {
+      "Hash": 595528998
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 105,
+    "TalkNameID": 114201,
+    "SubName": {
+      "Hash": -1272032663
+    },
+    "Name": {
+      "Hash": -143782847
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 105,
+    "TalkNameID": 114202,
+    "SubName": {
+      "Hash": -868748136
+    },
+    "Name": {
+      "Hash": -143782850
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 105,
+    "TalkNameID": 114203,
+    "SubName": {
+      "Hash": 1860135219
+    },
+    "Name": {
+      "Hash": -143782849
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 105,
+    "TalkNameID": 114204,
+    "SubName": {
+      "Hash": -1675317190
+    },
+    "Name": {
+      "Hash": -143782844
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 105,
+    "TalkNameID": 114301,
+    "SubName": {
+      "Hash": -1130870162
+    },
+    "Name": {
+      "Hash": -143782880
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 105,
+    "TalkNameID": 114302,
+    "SubName": {
+      "Hash": 435213779
+    },
+    "Name": {
+      "Hash": -143782881
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 113,
+    "TalkNameID": 114401,
+    "SubName": {
+      "Hash": -1554357665
+    },
+    "Name": {
+      "Hash": -143782781
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 113,
+    "TalkNameID": 114402,
+    "SubName": {
+      "Hash": 1174525690
+    },
+    "Name": {
+      "Hash": -143782780
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 101,
+    "TalkNameID": 114501,
+    "SubName": {
+      "Hash": -1413195164
+    },
+    "Name": {
+      "Hash": -143782814
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 115,
+    "TalkNameID": 118801,
+    "SubName": {
+      "Hash": 139592479
+    },
+    "Name": {
+      "Hash": -1837733189
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 115,
+    "TalkNameID": 118802,
+    "SubName": {
+      "Hash": -1426491462
+    },
+    "Name": {
+      "Hash": -1837733188
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 115,
+    "TalkNameID": 118803,
+    "SubName": {
+      "Hash": 1302391893
+    },
+    "Name": {
+      "Hash": -1837733187
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 115,
+    "TalkNameID": 118901,
+    "SubName": {
+      "Hash": 280754980
+    },
+    "Name": {
+      "Hash": -1837733222
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 115,
+    "TalkNameID": 118902,
+    "SubName": {
+      "Hash": -122529547
+    },
+    "Name": {
+      "Hash": -1837733219
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 115,
+    "TalkNameID": 118903,
+    "SubName": {
+      "Hash": 1443554394
+    },
+    "Name": {
+      "Hash": -1837733220
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 115,
+    "TalkNameID": 119001,
+    "SubName": {
+      "Hash": -989707498
+    },
+    "Name": {
+      "Hash": -251446008
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 115,
+    "TalkNameID": 119002,
+    "SubName": {
+      "Hash": 1739175857
+    },
+    "Name": {
+      "Hash": -251446007
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 115,
+    "TalkNameID": 119003,
+    "SubName": {
+      "Hash": 173091916
+    },
+    "Name": {
+      "Hash": -251446006
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 115,
+    "TalkNameID": 119101,
+    "SubName": {
+      "Hash": -848544997
+    },
+    "Name": {
+      "Hash": -251446041
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 115,
+    "TalkNameID": 119102,
+    "SubName": {
+      "Hash": -1251829524
+    },
+    "Name": {
+      "Hash": -251446038
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 115,
+    "TalkNameID": 119201,
+    "SubName": {
+      "Hash": -1272032500
+    },
+    "Name": {
+      "Hash": -251445942
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 115,
+    "TalkNameID": 119202,
+    "SubName": {
+      "Hash": -868747973
+    },
+    "Name": {
+      "Hash": -251445945
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 115,
+    "TalkNameID": 119203,
+    "SubName": {
+      "Hash": 1860135382
+    },
+    "Name": {
+      "Hash": -251445944
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 108,
+    "TalkNameID": 119301,
+    "SubName": {
+      "Hash": -1130869999
+    },
+    "Name": {
+      "Hash": -251445975
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 103,
+    "TalkNameID": 119401,
+    "SubName": {
+      "Hash": -1554357502
+    },
+    "Name": {
+      "Hash": -251445876
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 101,
+    "TalkNameID": 119501,
+    "SubName": {
+      "Hash": -1413195001
+    },
+    "Name": {
+      "Hash": -251445909
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 101,
+    "TalkNameID": 119502,
+    "SubName": {
+      "Hash": -1816479528
+    },
+    "Name": {
+      "Hash": -251445906
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 101,
+    "TalkNameID": 119503,
+    "SubName": {
+      "Hash": -250395587
+    },
+    "Name": {
+      "Hash": -251445907
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 101,
+    "TalkNameID": 119504,
+    "SubName": {
+      "Hash": -1009910474
+    },
+    "Name": {
+      "Hash": -251445912
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 109,
+    "TalkNameID": 114101,
+    "SubName": {
+      "Hash": -848545160
+    },
+    "Name": {
+      "Hash": -143782946
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 109,
+    "TalkNameID": 114102,
+    "SubName": {
+      "Hash": -1251829687
+    },
+    "Name": {
+      "Hash": -143782943
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 109,
+    "TalkNameID": 114103,
+    "SubName": {
+      "Hash": 314254254
+    },
+    "Name": {
+      "Hash": -143782944
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Bonus.png",
+    "IconPath": "",
+    "ImageID": 106,
+    "TalkNameID": 219701,
+    "SubName": {
+      "Hash": -1695516736
+    },
+    "Name": {
+      "Hash": -1341631554
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 120,
+    "TalkNameID": 320101,
+    "SubName": {
+      "Hash": -49138937
+    },
+    "Name": {
+      "Hash": -1435218109
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 118,
+    "TalkNameID": 320201,
+    "SubName": {
+      "Hash": 1779067030
+    },
+    "Name": {
+      "Hash": -1435218080
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 119,
+    "TalkNameID": 320301,
+    "SubName": {
+      "Hash": 233186065
+    },
+    "Name": {
+      "Hash": -1435218175
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 101,
+    "TalkNameID": 320401,
+    "SubName": {
+      "Hash": 932092024
+    },
+    "Name": {
+      "Hash": -1435217882
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 101,
+    "TalkNameID": 320501,
+    "SubName": {
+      "Hash": -613788941
+    },
+    "Name": {
+      "Hash": -1435217977
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 105,
+    "TalkNameID": 320601,
+    "SubName": {
+      "Hash": 1214417026
+    },
+    "Name": {
+      "Hash": -1435217948
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 105,
+    "TalkNameID": 320701,
+    "SubName": {
+      "Hash": -331463939
+    },
+    "Name": {
+      "Hash": -1435218043
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 105,
+    "TalkNameID": 320801,
+    "SubName": {
+      "Hash": -1668925260
+    },
+    "Name": {
+      "Hash": -1435218278
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 101,
+    "TalkNameID": 320901,
+    "SubName": {
+      "Hash": 1080161071
+    },
+    "Name": {
+      "Hash": -1435218373
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 101,
+    "TalkNameID": 320902,
+    "SubName": {
+      "Hash": 1483445598
+    },
+    "Name": {
+      "Hash": -1435218376
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Battle.png",
+    "IconPath": "",
+    "ImageID": 110,
+    "TalkNameID": 413401,
+    "SubName": {
+      "Hash": -1554352255
+    },
+    "Name": {
+      "Hash": 1685714841
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 105,
+    "TalkNameID": 414201,
+    "SubName": {
+      "Hash": -1272027548
+    },
+    "Name": {
+      "Hash": 99427858
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 105,
+    "TalkNameID": 414202,
+    "SubName": {
+      "Hash": -868743021
+    },
+    "Name": {
+      "Hash": 99427855
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 105,
+    "TalkNameID": 414203,
+    "SubName": {
+      "Hash": 1860140334
+    },
+    "Name": {
+      "Hash": 99427856
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 105,
+    "TalkNameID": 414204,
+    "SubName": {
+      "Hash": -1675312075
+    },
+    "Name": {
+      "Hash": 99427861
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 113,
+    "TalkNameID": 414401,
+    "SubName": {
+      "Hash": -1554352550
+    },
+    "Name": {
+      "Hash": 99427924
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 113,
+    "TalkNameID": 414402,
+    "SubName": {
+      "Hash": 1174530805
+    },
+    "Name": {
+      "Hash": 99427925
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 115,
+    "TalkNameID": 418801,
+    "SubName": {
+      "Hash": 139597858
+    },
+    "Name": {
+      "Hash": -465222476
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 115,
+    "TalkNameID": 418802,
+    "SubName": {
+      "Hash": -1426486083
+    },
+    "Name": {
+      "Hash": -465222475
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 115,
+    "TalkNameID": 418803,
+    "SubName": {
+      "Hash": 1302397272
+    },
+    "Name": {
+      "Hash": -465222474
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 115,
+    "TalkNameID": 419001,
+    "SubName": {
+      "Hash": -989702053
+    },
+    "Name": {
+      "Hash": 838739703
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 115,
+    "TalkNameID": 419002,
+    "SubName": {
+      "Hash": 1739181302
+    },
+    "Name": {
+      "Hash": 838739704
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 115,
+    "TalkNameID": 419003,
+    "SubName": {
+      "Hash": 173097361
+    },
+    "Name": {
+      "Hash": 838739705
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 115,
+    "TalkNameID": 419201,
+    "SubName": {
+      "Hash": -1272027055
+    },
+    "Name": {
+      "Hash": 838739769
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 115,
+    "TalkNameID": 419202,
+    "SubName": {
+      "Hash": -868742528
+    },
+    "Name": {
+      "Hash": 838739766
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 115,
+    "TalkNameID": 419203,
+    "SubName": {
+      "Hash": 1860140827
+    },
+    "Name": {
+      "Hash": 838739767
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 109,
+    "TalkNameID": 414101,
+    "SubName": {
+      "Hash": -848540045
+    },
+    "Name": {
+      "Hash": 99427759
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 109,
+    "TalkNameID": 414102,
+    "SubName": {
+      "Hash": -1251824572
+    },
+    "Name": {
+      "Hash": 99427762
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 112,
+    "TalkNameID": 412201,
+    "SubName": {
+      "Hash": -1272027350
+    },
+    "Name": {
+      "Hash": 381752860
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 101,
+    "TalkNameID": 412301,
+    "SubName": {
+      "Hash": -1130864849
+    },
+    "Name": {
+      "Hash": 381752827
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 117,
+    "TalkNameID": 412401,
+    "SubName": {
+      "Hash": -1554352352
+    },
+    "Name": {
+      "Hash": 381752926
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 114,
+    "TalkNameID": 412501,
+    "SubName": {
+      "Hash": -1413189851
+    },
+    "Name": {
+      "Hash": 381752893
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 104,
+    "TalkNameID": 412601,
+    "SubName": {
+      "Hash": -1836677354
+    },
+    "Name": {
+      "Hash": 381752992
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 108,
+    "TalkNameID": 412701,
+    "SubName": {
+      "Hash": -1695514853
+    },
+    "Name": {
+      "Hash": 381752959
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 105,
+    "TalkNameID": 412801,
+    "SubName": {
+      "Hash": 139597660
+    },
+    "Name": {
+      "Hash": 381752530
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 116,
+    "TalkNameID": 412901,
+    "SubName": {
+      "Hash": 280760161
+    },
+    "Name": {
+      "Hash": 381752497
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 104,
+    "TalkNameID": 413001,
+    "SubName": {
+      "Hash": -989702251
+    },
+    "Name": {
+      "Hash": 1685714709
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 105,
+    "TalkNameID": 414301,
+    "SubName": {
+      "Hash": -1130865047
+    },
+    "Name": {
+      "Hash": 99427825
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 105,
+    "TalkNameID": 414302,
+    "SubName": {
+      "Hash": 435218894
+    },
+    "Name": {
+      "Hash": 99427824
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 101,
+    "TalkNameID": 414501,
+    "SubName": {
+      "Hash": -1413190049
+    },
+    "Name": {
+      "Hash": 99427891
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 108,
+    "TalkNameID": 419301,
+    "SubName": {
+      "Hash": -1130864554
+    },
+    "Name": {
+      "Hash": 838739736
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 103,
+    "TalkNameID": 419401,
+    "SubName": {
+      "Hash": -1554352057
+    },
+    "Name": {
+      "Hash": 838739835
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 101,
+    "TalkNameID": 419501,
+    "SubName": {
+      "Hash": -1413189556
+    },
+    "Name": {
+      "Hash": 838739802
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 109,
+    "TalkNameID": 414103,
+    "SubName": {
+      "Hash": 314259369
+    },
+    "Name": {
+      "Hash": 99427761
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 120,
+    "TalkNameID": 420101,
+    "SubName": {
+      "Hash": -49135736
+    },
+    "Name": {
+      "Hash": 664083078
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 118,
+    "TalkNameID": 420201,
+    "SubName": {
+      "Hash": 1779070231
+    },
+    "Name": {
+      "Hash": 664083107
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 119,
+    "TalkNameID": 420301,
+    "SubName": {
+      "Hash": 233189266
+    },
+    "Name": {
+      "Hash": 664083012
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 101,
+    "TalkNameID": 420401,
+    "SubName": {
+      "Hash": 932095225
+    },
+    "Name": {
+      "Hash": 664083305
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 101,
+    "TalkNameID": 420501,
+    "SubName": {
+      "Hash": -613785740
+    },
+    "Name": {
+      "Hash": 664083210
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 105,
+    "TalkNameID": 420601,
+    "SubName": {
+      "Hash": 1214420227
+    },
+    "Name": {
+      "Hash": 664083239
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 105,
+    "TalkNameID": 420701,
+    "SubName": {
+      "Hash": -331460738
+    },
+    "Name": {
+      "Hash": 664083144
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 105,
+    "TalkNameID": 420801,
+    "SubName": {
+      "Hash": -1668922059
+    },
+    "Name": {
+      "Hash": 664082909
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 101,
+    "TalkNameID": 420901,
+    "SubName": {
+      "Hash": 1080164272
+    },
+    "Name": {
+      "Hash": 664082814
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 101,
+    "TalkNameID": 420902,
+    "SubName": {
+      "Hash": 1483448799
+    },
+    "Name": {
+      "Hash": 664082811
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Bonus.png",
+    "IconPath": "",
+    "ImageID": 106,
+    "TalkNameID": 411201,
+    "SubName": {
+      "Hash": -1272027319
+    },
+    "Name": {
+      "Hash": 1968039777
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 101,
+    "TalkNameID": 410101,
+    "SubName": {
+      "Hash": -848539913
+    },
+    "Name": {
+      "Hash": 664077763
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Historian.png",
+    "IconPath": "",
+    "ImageID": 102,
+    "TalkNameID": 410201,
+    "SubName": {
+      "Hash": -1272027416
+    },
+    "Name": {
+      "Hash": 664077862
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 101,
+    "TalkNameID": 410301,
+    "SubName": {
+      "Hash": -1130864915
+    },
+    "Name": {
+      "Hash": 664077829
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 101,
+    "TalkNameID": 410401,
+    "SubName": {
+      "Hash": -1554352418
+    },
+    "Name": {
+      "Hash": 664077928
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 101,
+    "TalkNameID": 410501,
+    "SubName": {
+      "Hash": -1413189917
+    },
+    "Name": {
+      "Hash": 664077895
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 101,
+    "TalkNameID": 410601,
+    "SubName": {
+      "Hash": -1836677420
+    },
+    "Name": {
+      "Hash": 664077994
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Pixel.png",
+    "IconPath": "",
+    "ImageID": 103,
+    "TalkNameID": 410701,
+    "SubName": {
+      "Hash": -1695514919
+    },
+    "Name": {
+      "Hash": 664077961
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Toy.png",
+    "IconPath": "",
+    "ImageID": 104,
+    "TalkNameID": 410801,
+    "SubName": {
+      "Hash": 139597594
+    },
+    "Name": {
+      "Hash": 664077532
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Bond.png",
+    "IconPath": "",
+    "ImageID": 105,
+    "TalkNameID": 410901,
+    "SubName": {
+      "Hash": 280760095
+    },
+    "Name": {
+      "Hash": 664077499
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 101,
+    "TalkNameID": 411001,
+    "SubName": {
+      "Hash": -989702317
+    },
+    "Name": {
+      "Hash": 1968039711
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 101,
+    "TalkNameID": 411101,
+    "SubName": {
+      "Hash": -848539816
+    },
+    "Name": {
+      "Hash": 1968039678
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_ThreePig.png",
+    "IconPath": "",
+    "ImageID": 107,
+    "TalkNameID": 411301,
+    "SubName": {
+      "Hash": -1130864818
+    },
+    "Name": {
+      "Hash": 1968039744
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 101,
+    "TalkNameID": 411401,
+    "SubName": {
+      "Hash": -1554352321
+    },
+    "Name": {
+      "Hash": 1968039843
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 101,
+    "TalkNameID": 411501,
+    "SubName": {
+      "Hash": -1413189820
+    },
+    "Name": {
+      "Hash": 1968039810
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 101,
+    "TalkNameID": 411601,
+    "SubName": {
+      "Hash": -1836677323
+    },
+    "Name": {
+      "Hash": 1968039909
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_profiteer.png",
+    "IconPath": "",
+    "ImageID": 108,
+    "TalkNameID": 411701,
+    "SubName": {
+      "Hash": -1695514822
+    },
+    "Name": {
+      "Hash": 1968039876
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_profiteer.png",
+    "IconPath": "",
+    "ImageID": 108,
+    "TalkNameID": 411702,
+    "SubName": {
+      "Hash": -129430881
+    },
+    "Name": {
+      "Hash": 1968039875
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_profiteer.png",
+    "IconPath": "",
+    "ImageID": 108,
+    "TalkNameID": 411703,
+    "SubName": {
+      "Hash": 1436653060
+    },
+    "Name": {
+      "Hash": 1968039874
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 101,
+    "TalkNameID": 411801,
+    "SubName": {
+      "Hash": 139597691
+    },
+    "Name": {
+      "Hash": 1968039447
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Twin.png",
+    "IconPath": "",
+    "ImageID": 109,
+    "TalkNameID": 411901,
+    "SubName": {
+      "Hash": 280760192
+    },
+    "Name": {
+      "Hash": 1968039414
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Twin.png",
+    "IconPath": "",
+    "ImageID": 109,
+    "TalkNameID": 411902,
+    "SubName": {
+      "Hash": -122524335
+    },
+    "Name": {
+      "Hash": 1968039417
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Twin.png",
+    "IconPath": "",
+    "ImageID": 109,
+    "TalkNameID": 411903,
+    "SubName": {
+      "Hash": 1443559606
+    },
+    "Name": {
+      "Hash": 1968039416
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 101,
+    "TalkNameID": 412001,
+    "SubName": {
+      "Hash": -989702348
+    },
+    "Name": {
+      "Hash": 381752794
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Battle.png",
+    "IconPath": "",
+    "ImageID": 110,
+    "TalkNameID": 413301,
+    "SubName": {
+      "Hash": -1130864752
+    },
+    "Name": {
+      "Hash": 1685714742
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 101,
+    "TalkNameID": 413501,
+    "SubName": {
+      "Hash": -1413189754
+    },
+    "Name": {
+      "Hash": 1685714808
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Battle.png",
+    "IconPath": "",
+    "ImageID": 110,
+    "TalkNameID": 413601,
+    "SubName": {
+      "Hash": -1836677257
+    },
+    "Name": {
+      "Hash": 1685714907
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Battle.png",
+    "IconPath": "",
+    "ImageID": 110,
+    "TalkNameID": 413701,
+    "SubName": {
+      "Hash": -1695514756
+    },
+    "Name": {
+      "Hash": 1685714874
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Trade.png",
+    "IconPath": "",
+    "ImageID": 111,
+    "TalkNameID": 413801,
+    "SubName": {
+      "Hash": 139597757
+    },
+    "Name": {
+      "Hash": 1685714445
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Trade.png",
+    "IconPath": "",
+    "ImageID": 111,
+    "TalkNameID": 413901,
+    "SubName": {
+      "Hash": 280760258
+    },
+    "Name": {
+      "Hash": 1685714412
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Trade.png",
+    "IconPath": "",
+    "ImageID": 111,
+    "TalkNameID": 414001,
+    "SubName": {
+      "Hash": -989702546
+    },
+    "Name": {
+      "Hash": 99427792
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 123,
+    "TalkNameID": 421001,
+    "SubName": {
+      "Hash": 1496745326
+    },
+    "Name": {
+      "Hash": 1968045088
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 124,
+    "TalkNameID": 421101,
+    "SubName": {
+      "Hash": -49135639
+    },
+    "Name": {
+      "Hash": 1968044993
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 125,
+    "TalkNameID": 421201,
+    "SubName": {
+      "Hash": 1779070328
+    },
+    "Name": {
+      "Hash": 1968045022
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 126,
+    "TalkNameID": 421301,
+    "SubName": {
+      "Hash": 233189363
+    },
+    "Name": {
+      "Hash": 1968044927
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 128,
+    "TalkNameID": 421401,
+    "SubName": {
+      "Hash": 932095322
+    },
+    "Name": {
+      "Hash": 1968045220
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 122,
+    "TalkNameID": 421501,
+    "SubName": {
+      "Hash": -613785643
+    },
+    "Name": {
+      "Hash": 1968045125
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 121,
+    "TalkNameID": 421601,
+    "SubName": {
+      "Hash": 1214420324
+    },
+    "Name": {
+      "Hash": 1968045154
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 127,
+    "TalkNameID": 421701,
+    "SubName": {
+      "Hash": -331460641
+    },
+    "Name": {
+      "Hash": 1968045059
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 128,
+    "TalkNameID": 422401,
+    "SubName": {
+      "Hash": 932095291
+    },
+    "Name": {
+      "Hash": 381758303
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 101,
+    "TalkNameID": 422501,
+    "SubName": {
+      "Hash": -613785674
+    },
+    "Name": {
+      "Hash": 381758208
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 108,
+    "TalkNameID": 422601,
+    "SubName": {
+      "Hash": 1214420293
+    },
+    "Name": {
+      "Hash": 381758237
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 105,
+    "TalkNameID": 422701,
+    "SubName": {
+      "Hash": -331460672
+    },
+    "Name": {
+      "Hash": 381758142
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 111,
+    "TalkNameID": 422801,
+    "SubName": {
+      "Hash": -1668921993
+    },
+    "Name": {
+      "Hash": 381757907
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 111,
+    "TalkNameID": 422811,
+    "SubName": {
+      "Hash": -1668921992
+    },
+    "Name": {
+      "Hash": -1184326034
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 128,
+    "TalkNameID": 423001,
+    "SubName": {
+      "Hash": 1496745392
+    },
+    "Name": {
+      "Hash": 1685720086
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 109,
+    "TalkNameID": 423101,
+    "SubName": {
+      "Hash": -49135573
+    },
+    "Name": {
+      "Hash": 1685719991
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 109,
+    "TalkNameID": 423102,
+    "SubName": {
+      "Hash": 354148954
+    },
+    "Name": {
+      "Hash": 1685719988
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 110,
+    "TalkNameID": 421801,
+    "SubName": {
+      "Hash": -1668921962
+    },
+    "Name": {
+      "Hash": 1968044824
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 129,
+    "TalkNameID": 421901,
+    "SubName": {
+      "Hash": 1080164369
+    },
+    "Name": {
+      "Hash": 1968044729
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 130,
+    "TalkNameID": 422101,
+    "SubName": {
+      "Hash": -49135670
+    },
+    "Name": {
+      "Hash": 381758076
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 128,
+    "TalkNameID": 422301,
+    "SubName": {
+      "Hash": 233189332
+    },
+    "Name": {
+      "Hash": 381758010
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 131,
+    "TalkNameID": 422001,
+    "SubName": {
+      "Hash": 1496745295
+    },
+    "Name": {
+      "Hash": 381758171
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 132,
+    "TalkNameID": 422201,
+    "SubName": {
+      "Hash": 1779070297
+    },
+    "Name": {
+      "Hash": 381758105
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 132,
+    "TalkNameID": 423501,
+    "SubName": {
+      "Hash": -613785577
+    },
+    "Name": {
+      "Hash": 1685720123
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 104,
+    "TalkNameID": 423601,
+    "SubName": {
+      "Hash": 1214420390
+    },
+    "Name": {
+      "Hash": 1685720152
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 103,
+    "TalkNameID": 519401,
+    "SubName": {
+      "Hash": -1554353146
+    },
+    "Name": {
+      "Hash": 1202135072
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 133,
+    "TalkNameID": 523801,
+    "SubName": {
+      "Hash": -1668922985
+    },
+    "Name": {
+      "Hash": 2049115059
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 134,
+    "TalkNameID": 523901,
+    "SubName": {
+      "Hash": 1080163346
+    },
+    "Name": {
+      "Hash": 2049114964
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 135,
+    "TalkNameID": 524001,
+    "SubName": {
+      "Hash": 1496744074
+    },
+    "Name": {
+      "Hash": 180503404
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 135,
+    "TalkNameID": 524002,
+    "SubName": {
+      "Hash": -1232139281
+    },
+    "Name": {
+      "Hash": 180503403
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 136,
+    "TalkNameID": 524101,
+    "SubName": {
+      "Hash": -49136891
+    },
+    "Name": {
+      "Hash": 180503309
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 304,
+    "TalkNameID": 510004,
+    "SubName": {
+      "Hash": -1392987964
+    },
+    "Name": {
+      "Hash": 745148034
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 302,
+    "TalkNameID": 510005,
+    "SubName": {
+      "Hash": 1335895391
+    },
+    "Name": {
+      "Hash": 745148035
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 128,
+    "TalkNameID": 424201,
+    "SubName": {
+      "Hash": 1779070099
+    },
+    "Name": {
+      "Hash": 99433103
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 109,
+    "TalkNameID": 424301,
+    "SubName": {
+      "Hash": 233189134
+    },
+    "Name": {
+      "Hash": 99433008
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 139,
+    "TalkNameID": 424401,
+    "SubName": {
+      "Hash": 932095093
+    },
+    "Name": {
+      "Hash": 99433301
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 137,
+    "TalkNameID": 424501,
+    "SubName": {
+      "Hash": -613785872
+    },
+    "Name": {
+      "Hash": 99433206
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 121,
+    "TalkNameID": 424601,
+    "SubName": {
+      "Hash": 1214420095
+    },
+    "Name": {
+      "Hash": 99433235
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 138,
+    "TalkNameID": 424701,
+    "SubName": {
+      "Hash": -331460870
+    },
+    "Name": {
+      "Hash": 99433140
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 139,
+    "TalkNameID": 424801,
+    "SubName": {
+      "Hash": -1668922191
+    },
+    "Name": {
+      "Hash": 99432905
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 140,
+    "TalkNameID": 424901,
+    "SubName": {
+      "Hash": 1080164140
+    },
+    "Name": {
+      "Hash": 99432810
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 140,
+    "TalkNameID": 424902,
+    "SubName": {
+      "Hash": 1483448667
+    },
+    "Name": {
+      "Hash": 99432807
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "ImageID": 140,
+    "TalkNameID": 424903,
+    "SubName": {
+      "Hash": -82635274
+    },
+    "Name": {
+      "Hash": 99432808
+    }
+  }
+]

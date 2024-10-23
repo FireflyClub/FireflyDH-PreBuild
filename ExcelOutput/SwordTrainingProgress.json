@@ -1,0 +1,1384 @@
+[
+  {
+    "ActionIDList": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "SectionHint": {
+      "Hash": -2028380784
+    },
+    "RecommendPower": 2,
+    "ExamID": 0,
+    "PartnerAbilitySelectNum": 0,
+    "TurnID": 101,
+    "TurnName": {
+      "Hash": -1932547848
+    },
+    "PartnerAbilityGroupID": 0,
+    "PartnerAbilitySelectHint": {
+      "Hash": 371857150
+    },
+    "TurnType": "Action"
+  },
+  {
+    "ActionIDList": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "SectionHint": {
+      "Hash": 371857150
+    },
+    "RecommendPower": 2,
+    "ExamID": 0,
+    "PartnerAbilitySelectNum": 0,
+    "TurnID": 102,
+    "TurnName": {
+      "Hash": 1959134921
+    },
+    "PartnerAbilityGroupID": 0,
+    "PartnerAbilitySelectHint": {
+      "Hash": 371857150
+    },
+    "TurnType": "Action"
+  },
+  {
+    "ActionIDList": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "SectionHint": {
+      "Hash": 371857150
+    },
+    "RecommendPower": 2,
+    "ExamID": 0,
+    "PartnerAbilitySelectNum": 0,
+    "TurnID": 103,
+    "TurnName": {
+      "Hash": -769748434
+    },
+    "PartnerAbilityGroupID": 0,
+    "PartnerAbilitySelectHint": {
+      "Hash": 371857150
+    },
+    "TurnType": "Action"
+  },
+  {
+    "ActionIDList": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "SectionHint": {
+      "Hash": 371857150
+    },
+    "RecommendPower": 2,
+    "ExamID": 0,
+    "PartnerAbilitySelectNum": 0,
+    "TurnID": 104,
+    "TurnName": {
+      "Hash": -1529263321
+    },
+    "PartnerAbilityGroupID": 0,
+    "PartnerAbilitySelectHint": {
+      "Hash": 371857150
+    },
+    "TurnType": "Action"
+  },
+  {
+    "ActionIDList": [],
+    "SectionHint": {
+      "Hash": 371857150
+    },
+    "RecommendPower": 2,
+    "ExamID": 101,
+    "PartnerAbilitySelectNum": 0,
+    "TurnID": 105,
+    "TurnName": {
+      "Hash": 36820620
+    },
+    "PartnerAbilityGroupID": 0,
+    "PartnerAbilitySelectHint": {
+      "Hash": 371857150
+    },
+    "TurnType": "Exam"
+  },
+  {
+    "ActionIDList": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "SectionHint": {
+      "Hash": -2028380779
+    },
+    "RecommendPower": 5,
+    "ExamID": 0,
+    "PartnerAbilitySelectNum": 0,
+    "TurnID": 106,
+    "TurnName": {
+      "Hash": -366463907
+    },
+    "PartnerAbilityGroupID": 0,
+    "PartnerAbilitySelectHint": {
+      "Hash": 371857150
+    },
+    "TurnType": "Action"
+  },
+  {
+    "ActionIDList": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "SectionHint": {
+      "Hash": 371857150
+    },
+    "RecommendPower": 5,
+    "ExamID": 0,
+    "PartnerAbilitySelectNum": 1,
+    "TurnID": 107,
+    "TurnName": {
+      "Hash": 1199620034
+    },
+    "PartnerAbilityGroupID": 10001,
+    "PartnerAbilitySelectHint": {
+      "Hash": 4307641
+    },
+    "TurnType": "Action"
+  },
+  {
+    "ActionIDList": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "SectionHint": {
+      "Hash": 371857150
+    },
+    "RecommendPower": 5,
+    "ExamID": 0,
+    "PartnerAbilitySelectNum": 1,
+    "TurnID": 108,
+    "TurnName": {
+      "Hash": 1152565867
+    },
+    "PartnerAbilityGroupID": 10001,
+    "PartnerAbilitySelectHint": {
+      "Hash": 1214161222
+    },
+    "TurnType": "Action"
+  },
+  {
+    "ActionIDList": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "SectionHint": {
+      "Hash": 371857150
+    },
+    "RecommendPower": 5,
+    "ExamID": 0,
+    "PartnerAbilitySelectNum": 1,
+    "TurnID": 109,
+    "TurnName": {
+      "Hash": -1576317488
+    },
+    "PartnerAbilityGroupID": 10001,
+    "PartnerAbilitySelectHint": {
+      "Hash": -1514722133
+    },
+    "TurnType": "Action"
+  },
+  {
+    "ActionIDList": [],
+    "SectionHint": {
+      "Hash": 371857150
+    },
+    "RecommendPower": 5,
+    "ExamID": 102,
+    "PartnerAbilitySelectNum": 0,
+    "TurnID": 110,
+    "TurnName": {
+      "Hash": 796335506
+    },
+    "PartnerAbilityGroupID": 0,
+    "PartnerAbilitySelectHint": {
+      "Hash": 371857150
+    },
+    "TurnType": "Exam"
+  },
+  {
+    "ActionIDList": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "SectionHint": {
+      "Hash": 700502571
+    },
+    "RecommendPower": 9,
+    "ExamID": 0,
+    "PartnerAbilitySelectNum": 1,
+    "TurnID": 111,
+    "TurnName": {
+      "Hash": -1932547849
+    },
+    "PartnerAbilityGroupID": 10001,
+    "PartnerAbilitySelectHint": {
+      "Hash": -1158491772
+    },
+    "TurnType": "Action"
+  },
+  {
+    "ActionIDList": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "SectionHint": {
+      "Hash": 371857150
+    },
+    "RecommendPower": 9,
+    "ExamID": 0,
+    "PartnerAbilitySelectNum": 1,
+    "TurnID": 112,
+    "TurnName": {
+      "Hash": 1959134920
+    },
+    "PartnerAbilityGroupID": 10001,
+    "PartnerAbilitySelectHint": {
+      "Hash": 407592169
+    },
+    "TurnType": "Action"
+  },
+  {
+    "ActionIDList": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "SectionHint": {
+      "Hash": 371857150
+    },
+    "RecommendPower": 9,
+    "ExamID": 0,
+    "PartnerAbilitySelectNum": 1,
+    "TurnID": 113,
+    "TurnName": {
+      "Hash": -769748435
+    },
+    "PartnerAbilityGroupID": 10001,
+    "PartnerAbilitySelectHint": {
+      "Hash": 1973676110
+    },
+    "TurnType": "Action"
+  },
+  {
+    "ActionIDList": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "SectionHint": {
+      "Hash": 371857150
+    },
+    "RecommendPower": 9,
+    "ExamID": 0,
+    "PartnerAbilitySelectNum": 1,
+    "TurnID": 114,
+    "TurnName": {
+      "Hash": -1529263322
+    },
+    "PartnerAbilityGroupID": 10001,
+    "PartnerAbilitySelectHint": {
+      "Hash": -398976885
+    },
+    "TurnType": "Action"
+  },
+  {
+    "ActionIDList": [],
+    "SectionHint": {
+      "Hash": 371857150
+    },
+    "RecommendPower": 9,
+    "ExamID": 103,
+    "PartnerAbilitySelectNum": 0,
+    "TurnID": 115,
+    "TurnName": {
+      "Hash": 36820619
+    },
+    "PartnerAbilityGroupID": 0,
+    "PartnerAbilitySelectHint": {
+      "Hash": 371857150
+    },
+    "TurnType": "Exam"
+  },
+  {
+    "ActionIDList": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "SectionHint": {
+      "Hash": -2028380751
+    },
+    "RecommendPower": 6,
+    "ExamID": 0,
+    "PartnerAbilitySelectNum": 0,
+    "TurnID": 201,
+    "TurnName": {
+      "Hash": 1938931945
+    },
+    "PartnerAbilityGroupID": 0,
+    "PartnerAbilitySelectHint": {
+      "Hash": 371857150
+    },
+    "TurnType": "Action"
+  },
+  {
+    "ActionIDList": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "SectionHint": {
+      "Hash": 371857150
+    },
+    "RecommendPower": 6,
+    "ExamID": 0,
+    "PartnerAbilitySelectNum": 1,
+    "TurnID": 202,
+    "TurnName": {
+      "Hash": -1952750824
+    },
+    "PartnerAbilityGroupID": 20001,
+    "PartnerAbilitySelectHint": {
+      "Hash": 306835619
+    },
+    "TurnType": "Action"
+  },
+  {
+    "ActionIDList": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "SectionHint": {
+      "Hash": 371857150
+    },
+    "RecommendPower": 6,
+    "ExamID": 0,
+    "PartnerAbilitySelectNum": 1,
+    "TurnID": 203,
+    "TurnName": {
+      "Hash": 776132531
+    },
+    "PartnerAbilityGroupID": 20001,
+    "PartnerAbilitySelectHint": {
+      "Hash": -1259248322
+    },
+    "TurnType": "Action"
+  },
+  {
+    "ActionIDList": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "SectionHint": {
+      "Hash": 371857150
+    },
+    "RecommendPower": 6,
+    "ExamID": 0,
+    "PartnerAbilitySelectNum": 1,
+    "TurnID": 204,
+    "TurnName": {
+      "Hash": 1179417058
+    },
+    "PartnerAbilityGroupID": 20001,
+    "PartnerAbilitySelectHint": {
+      "Hash": 1469635033
+    },
+    "TurnType": "Action"
+  },
+  {
+    "ActionIDList": [],
+    "SectionHint": {
+      "Hash": 371857150
+    },
+    "RecommendPower": 6,
+    "ExamID": 201,
+    "PartnerAbilitySelectNum": 0,
+    "TurnID": 205,
+    "TurnName": {
+      "Hash": -386666883
+    },
+    "PartnerAbilityGroupID": 0,
+    "PartnerAbilitySelectHint": {
+      "Hash": 371857150
+    },
+    "TurnType": "Exam"
+  },
+  {
+    "ActionIDList": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "SectionHint": {
+      "Hash": -2028380748
+    },
+    "RecommendPower": 10,
+    "ExamID": 0,
+    "PartnerAbilitySelectNum": 1,
+    "TurnID": 206,
+    "TurnName": {
+      "Hash": 16617644
+    },
+    "PartnerAbilityGroupID": 20001,
+    "PartnerAbilitySelectHint": {
+      "Hash": -1662532849
+    },
+    "TurnType": "Action"
+  },
+  {
+    "ActionIDList": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "SectionHint": {
+      "Hash": 371857150
+    },
+    "RecommendPower": 10,
+    "ExamID": 0,
+    "PartnerAbilitySelectNum": 1,
+    "TurnID": 207,
+    "TurnName": {
+      "Hash": -1549466297
+    },
+    "PartnerAbilityGroupID": 20002,
+    "PartnerAbilitySelectHint": {
+      "Hash": 1066350506
+    },
+    "TurnType": "Action"
+  },
+  {
+    "ActionIDList": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "SectionHint": {
+      "Hash": 371857150
+    },
+    "RecommendPower": 10,
+    "ExamID": 0,
+    "PartnerAbilitySelectNum": 1,
+    "TurnID": 208,
+    "TurnName": {
+      "Hash": -433721050
+    },
+    "PartnerAbilityGroupID": 20002,
+    "PartnerAbilitySelectHint": {
+      "Hash": -1212194155
+    },
+    "TurnType": "Action"
+  },
+  {
+    "ActionIDList": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "SectionHint": {
+      "Hash": 371857150
+    },
+    "RecommendPower": 10,
+    "ExamID": 0,
+    "PartnerAbilitySelectNum": 1,
+    "TurnID": 209,
+    "TurnName": {
+      "Hash": -1999804991
+    },
+    "PartnerAbilityGroupID": 20002,
+    "PartnerAbilitySelectHint": {
+      "Hash": 1516689200
+    },
+    "TurnType": "Action"
+  },
+  {
+    "ActionIDList": [],
+    "SectionHint": {
+      "Hash": 371857150
+    },
+    "RecommendPower": 10,
+    "ExamID": 202,
+    "PartnerAbilitySelectNum": 0,
+    "TurnID": 210,
+    "TurnName": {
+      "Hash": -789951411
+    },
+    "PartnerAbilityGroupID": 0,
+    "PartnerAbilitySelectHint": {
+      "Hash": 371857150
+    },
+    "TurnType": "Exam"
+  },
+  {
+    "ActionIDList": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "SectionHint": {
+      "Hash": 700502604
+    },
+    "RecommendPower": 14,
+    "ExamID": 0,
+    "PartnerAbilitySelectNum": 1,
+    "TurnID": 211,
+    "TurnName": {
+      "Hash": 1938931944
+    },
+    "PartnerAbilityGroupID": 20002,
+    "PartnerAbilitySelectHint": {
+      "Hash": 1872919561
+    },
+    "TurnType": "Action"
+  },
+  {
+    "ActionIDList": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "SectionHint": {
+      "Hash": 371857150
+    },
+    "RecommendPower": 14,
+    "ExamID": 0,
+    "PartnerAbilitySelectNum": 1,
+    "TurnID": 212,
+    "TurnName": {
+      "Hash": -1952750825
+    },
+    "PartnerAbilityGroupID": 20003,
+    "PartnerAbilitySelectHint": {
+      "Hash": 306835620
+    },
+    "TurnType": "Action"
+  },
+  {
+    "ActionIDList": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "SectionHint": {
+      "Hash": 371857150
+    },
+    "RecommendPower": 14,
+    "ExamID": 0,
+    "PartnerAbilitySelectNum": 1,
+    "TurnID": 213,
+    "TurnName": {
+      "Hash": 776132530
+    },
+    "PartnerAbilityGroupID": 20003,
+    "PartnerAbilitySelectHint": {
+      "Hash": -1259248321
+    },
+    "TurnType": "Action"
+  },
+  {
+    "ActionIDList": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "SectionHint": {
+      "Hash": 371857150
+    },
+    "RecommendPower": 14,
+    "ExamID": 0,
+    "PartnerAbilitySelectNum": 1,
+    "TurnID": 214,
+    "TurnName": {
+      "Hash": 1179417057
+    },
+    "PartnerAbilityGroupID": 20003,
+    "PartnerAbilitySelectHint": {
+      "Hash": 1469635034
+    },
+    "TurnType": "Action"
+  },
+  {
+    "ActionIDList": [],
+    "SectionHint": {
+      "Hash": 371857150
+    },
+    "RecommendPower": 14,
+    "ExamID": 203,
+    "PartnerAbilitySelectNum": 0,
+    "TurnID": 215,
+    "TurnName": {
+      "Hash": -386666884
+    },
+    "PartnerAbilityGroupID": 0,
+    "PartnerAbilitySelectHint": {
+      "Hash": 371857150
+    },
+    "TurnType": "Exam"
+  },
+  {
+    "ActionIDList": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "SectionHint": {
+      "Hash": -2028380718
+    },
+    "RecommendPower": 7,
+    "ExamID": 0,
+    "PartnerAbilitySelectNum": 0,
+    "TurnID": 301,
+    "TurnName": {
+      "Hash": 2080094446
+    },
+    "PartnerAbilityGroupID": 0,
+    "PartnerAbilitySelectHint": {
+      "Hash": 371857150
+    },
+    "TurnType": "Action"
+  },
+  {
+    "ActionIDList": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "SectionHint": {
+      "Hash": 371857150
+    },
+    "RecommendPower": 7,
+    "ExamID": 0,
+    "PartnerAbilitySelectNum": 1,
+    "TurnID": 302,
+    "TurnName": {
+      "Hash": -648788909
+    },
+    "PartnerAbilityGroupID": 30000,
+    "PartnerAbilitySelectHint": {
+      "Hash": -1279451298
+    },
+    "TurnType": "Action"
+  },
+  {
+    "ActionIDList": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "SectionHint": {
+      "Hash": 371857150
+    },
+    "RecommendPower": 7,
+    "ExamID": 0,
+    "PartnerAbilitySelectNum": 1,
+    "TurnID": 303,
+    "TurnName": {
+      "Hash": 917295032
+    },
+    "PartnerAbilityGroupID": 30001,
+    "PartnerAbilitySelectHint": {
+      "Hash": 286632643
+    },
+    "TurnType": "Action"
+  },
+  {
+    "ActionIDList": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      7
+    ],
+    "SectionHint": {
+      "Hash": 371857150
+    },
+    "RecommendPower": 7,
+    "ExamID": 0,
+    "PartnerAbilitySelectNum": 1,
+    "TurnID": 304,
+    "TurnName": {
+      "Hash": -1811588323
+    },
+    "PartnerAbilityGroupID": 30001,
+    "PartnerAbilitySelectHint": {
+      "Hash": -116651884
+    },
+    "TurnType": "Action"
+  },
+  {
+    "ActionIDList": [],
+    "SectionHint": {
+      "Hash": 371857150
+    },
+    "RecommendPower": 7,
+    "ExamID": 301,
+    "PartnerAbilitySelectNum": 0,
+    "TurnID": 305,
+    "TurnName": {
+      "Hash": -245504382
+    },
+    "PartnerAbilityGroupID": 0,
+    "PartnerAbilitySelectHint": {
+      "Hash": 371857150
+    },
+    "TurnType": "Exam"
+  },
+  {
+    "ActionIDList": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      7
+    ],
+    "SectionHint": {
+      "Hash": -2028380717
+    },
+    "RecommendPower": 12,
+    "ExamID": 0,
+    "PartnerAbilitySelectNum": 1,
+    "TurnID": 306,
+    "TurnName": {
+      "Hash": 1320579559
+    },
+    "PartnerAbilityGroupID": 30001,
+    "PartnerAbilitySelectHint": {
+      "Hash": 1046147530
+    },
+    "TurnType": "Action"
+  },
+  {
+    "ActionIDList": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      7
+    ],
+    "SectionHint": {
+      "Hash": 371857150
+    },
+    "RecommendPower": 12,
+    "ExamID": 0,
+    "PartnerAbilitySelectNum": 1,
+    "TurnID": 307,
+    "TurnName": {
+      "Hash": -1408303796
+    },
+    "PartnerAbilityGroupID": 30002,
+    "PartnerAbilitySelectHint": {
+      "Hash": -1682735825
+    },
+    "TurnType": "Action"
+  },
+  {
+    "ActionIDList": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      7
+    ],
+    "SectionHint": {
+      "Hash": 371857150
+    },
+    "RecommendPower": 12,
+    "ExamID": 0,
+    "PartnerAbilitySelectNum": 1,
+    "TurnID": 308,
+    "TurnName": {
+      "Hash": 870240865
+    },
+    "PartnerAbilityGroupID": 30002,
+    "PartnerAbilitySelectHint": {
+      "Hash": 1496486224
+    },
+    "TurnType": "Action"
+  },
+  {
+    "ActionIDList": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      7
+    ],
+    "SectionHint": {
+      "Hash": 371857150
+    },
+    "RecommendPower": 12,
+    "ExamID": 0,
+    "PartnerAbilitySelectNum": 1,
+    "TurnID": 309,
+    "TurnName": {
+      "Hash": -1858642490
+    },
+    "PartnerAbilityGroupID": 30002,
+    "PartnerAbilitySelectHint": {
+      "Hash": -1232397131
+    },
+    "TurnType": "Action"
+  },
+  {
+    "ActionIDList": [],
+    "SectionHint": {
+      "Hash": 371857150
+    },
+    "RecommendPower": 12,
+    "ExamID": 302,
+    "PartnerAbilitySelectNum": 0,
+    "TurnID": 310,
+    "TurnName": {
+      "Hash": 514010504
+    },
+    "PartnerAbilityGroupID": 0,
+    "PartnerAbilitySelectHint": {
+      "Hash": 371857150
+    },
+    "TurnType": "Exam"
+  },
+  {
+    "ActionIDList": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      7
+    ],
+    "SectionHint": {
+      "Hash": 700502637
+    },
+    "RecommendPower": 17,
+    "ExamID": 0,
+    "PartnerAbilitySelectNum": 1,
+    "TurnID": 311,
+    "TurnName": {
+      "Hash": 2080094445
+    },
+    "PartnerAbilityGroupID": 30002,
+    "PartnerAbilitySelectHint": {
+      "Hash": -876166770
+    },
+    "TurnType": "Action"
+  },
+  {
+    "ActionIDList": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      7
+    ],
+    "SectionHint": {
+      "Hash": 371857150
+    },
+    "RecommendPower": 17,
+    "ExamID": 0,
+    "PartnerAbilitySelectNum": 2,
+    "TurnID": 312,
+    "TurnName": {
+      "Hash": -648788910
+    },
+    "PartnerAbilityGroupID": 30003,
+    "PartnerAbilitySelectHint": {
+      "Hash": -1279451297
+    },
+    "TurnType": "Action"
+  },
+  {
+    "ActionIDList": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      7
+    ],
+    "SectionHint": {
+      "Hash": 371857150
+    },
+    "RecommendPower": 17,
+    "ExamID": 0,
+    "PartnerAbilitySelectNum": 2,
+    "TurnID": 313,
+    "TurnName": {
+      "Hash": 917295031
+    },
+    "PartnerAbilityGroupID": 30003,
+    "PartnerAbilitySelectHint": {
+      "Hash": 286632644
+    },
+    "TurnType": "Action"
+  },
+  {
+    "ActionIDList": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      7
+    ],
+    "SectionHint": {
+      "Hash": 371857150
+    },
+    "RecommendPower": 17,
+    "ExamID": 0,
+    "PartnerAbilitySelectNum": 2,
+    "TurnID": 314,
+    "TurnName": {
+      "Hash": -1811588324
+    },
+    "PartnerAbilityGroupID": 30003,
+    "PartnerAbilitySelectHint": {
+      "Hash": -116651883
+    },
+    "TurnType": "Action"
+  },
+  {
+    "ActionIDList": [],
+    "SectionHint": {
+      "Hash": 371857150
+    },
+    "RecommendPower": 17,
+    "ExamID": 303,
+    "PartnerAbilitySelectNum": 0,
+    "TurnID": 315,
+    "TurnName": {
+      "Hash": -245504383
+    },
+    "PartnerAbilityGroupID": 0,
+    "PartnerAbilitySelectHint": {
+      "Hash": 371857150
+    },
+    "TurnType": "Exam"
+  },
+  {
+    "ActionIDList": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "SectionHint": {
+      "Hash": -2028380685
+    },
+    "RecommendPower": 10,
+    "ExamID": 0,
+    "PartnerAbilitySelectNum": 0,
+    "TurnID": 401,
+    "TurnName": {
+      "Hash": -1509060345
+    },
+    "PartnerAbilityGroupID": 0,
+    "PartnerAbilitySelectHint": {
+      "Hash": 371857150
+    },
+    "TurnType": "Action"
+  },
+  {
+    "ActionIDList": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "SectionHint": {
+      "Hash": 371857150
+    },
+    "RecommendPower": 10,
+    "ExamID": 0,
+    "PartnerAbilitySelectNum": 1,
+    "TurnID": 402,
+    "TurnName": {
+      "Hash": 1219823010
+    },
+    "PartnerAbilityGroupID": 40000,
+    "PartnerAbilitySelectHint": {
+      "Hash": 1429229081
+    },
+    "TurnType": "Action"
+  },
+  {
+    "ActionIDList": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "SectionHint": {
+      "Hash": 371857150
+    },
+    "RecommendPower": 10,
+    "ExamID": 0,
+    "PartnerAbilitySelectNum": 1,
+    "TurnID": 403,
+    "TurnName": {
+      "Hash": -346260931
+    },
+    "PartnerAbilityGroupID": 40001,
+    "PartnerAbilitySelectHint": {
+      "Hash": -136854860
+    },
+    "TurnType": "Action"
+  },
+  {
+    "ActionIDList": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "SectionHint": {
+      "Hash": 371857150
+    },
+    "RecommendPower": 10,
+    "ExamID": 0,
+    "PartnerAbilitySelectNum": 1,
+    "TurnID": 404,
+    "TurnName": {
+      "Hash": -1912344872
+    },
+    "PartnerAbilityGroupID": 40001,
+    "PartnerAbilitySelectHint": {
+      "Hash": 266429667
+    },
+    "TurnType": "Action"
+  },
+  {
+    "ActionIDList": [],
+    "SectionHint": {
+      "Hash": 371857150
+    },
+    "RecommendPower": 10,
+    "ExamID": 401,
+    "PartnerAbilitySelectNum": 0,
+    "TurnID": 405,
+    "TurnName": {
+      "Hash": 816538483
+    },
+    "PartnerAbilityGroupID": 0,
+    "PartnerAbilitySelectHint": {
+      "Hash": 371857150
+    },
+    "TurnType": "Exam"
+  },
+  {
+    "ActionIDList": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "SectionHint": {
+      "Hash": -2028380686
+    },
+    "RecommendPower": 16,
+    "ExamID": 0,
+    "PartnerAbilitySelectNum": 1,
+    "TurnID": 406,
+    "TurnName": {
+      "Hash": -749545458
+    },
+    "PartnerAbilityGroupID": 40001,
+    "PartnerAbilitySelectHint": {
+      "Hash": -896369747
+    },
+    "TurnType": "Action"
+  },
+  {
+    "ActionIDList": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "SectionHint": {
+      "Hash": 371857150
+    },
+    "RecommendPower": 16,
+    "ExamID": 0,
+    "PartnerAbilitySelectNum": 2,
+    "TurnID": 407,
+    "TurnName": {
+      "Hash": 1979337897
+    },
+    "PartnerAbilityGroupID": 40002,
+    "PartnerAbilitySelectHint": {
+      "Hash": 1832513608
+    },
+    "TurnType": "Action"
+  },
+  {
+    "ActionIDList": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "SectionHint": {
+      "Hash": 371857150
+    },
+    "RecommendPower": 16,
+    "ExamID": 0,
+    "PartnerAbilitySelectNum": 2,
+    "TurnID": 408,
+    "TurnName": {
+      "Hash": 413253956
+    },
+    "PartnerAbilityGroupID": 40002,
+    "PartnerAbilitySelectHint": {
+      "Hash": -2059169161
+    },
+    "TurnType": "Action"
+  },
+  {
+    "ActionIDList": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "SectionHint": {
+      "Hash": 371857150
+    },
+    "RecommendPower": 16,
+    "ExamID": 0,
+    "PartnerAbilitySelectNum": 2,
+    "TurnID": 409,
+    "TurnName": {
+      "Hash": -1152829985
+    },
+    "PartnerAbilityGroupID": 40002,
+    "PartnerAbilitySelectHint": {
+      "Hash": 669714194
+    },
+    "TurnType": "Action"
+  },
+  {
+    "ActionIDList": [],
+    "SectionHint": {
+      "Hash": 371857150
+    },
+    "RecommendPower": 16,
+    "ExamID": 402,
+    "PartnerAbilitySelectNum": 0,
+    "TurnID": 410,
+    "TurnName": {
+      "Hash": 57023595
+    },
+    "PartnerAbilityGroupID": 0,
+    "PartnerAbilitySelectHint": {
+      "Hash": 371857150
+    },
+    "TurnType": "Exam"
+  },
+  {
+    "ActionIDList": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "SectionHint": {
+      "Hash": 700502670
+    },
+    "RecommendPower": 19,
+    "ExamID": 0,
+    "PartnerAbilitySelectNum": 2,
+    "TurnID": 411,
+    "TurnName": {
+      "Hash": -1509060346
+    },
+    "PartnerAbilityGroupID": 40002,
+    "PartnerAbilitySelectHint": {
+      "Hash": 1025944555
+    },
+    "TurnType": "Action"
+  },
+  {
+    "ActionIDList": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "SectionHint": {
+      "Hash": 371857150
+    },
+    "RecommendPower": 19,
+    "ExamID": 0,
+    "PartnerAbilitySelectNum": 2,
+    "TurnID": 412,
+    "TurnName": {
+      "Hash": 1219823009
+    },
+    "PartnerAbilityGroupID": 40003,
+    "PartnerAbilitySelectHint": {
+      "Hash": 1429229082
+    },
+    "TurnType": "Action"
+  },
+  {
+    "ActionIDList": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "SectionHint": {
+      "Hash": 371857150
+    },
+    "RecommendPower": 19,
+    "ExamID": 0,
+    "PartnerAbilitySelectNum": 2,
+    "TurnID": 413,
+    "TurnName": {
+      "Hash": -346260932
+    },
+    "PartnerAbilityGroupID": 40003,
+    "PartnerAbilitySelectHint": {
+      "Hash": -136854859
+    },
+    "TurnType": "Action"
+  },
+  {
+    "ActionIDList": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "SectionHint": {
+      "Hash": 371857150
+    },
+    "RecommendPower": 19,
+    "ExamID": 0,
+    "PartnerAbilitySelectNum": 2,
+    "TurnID": 414,
+    "TurnName": {
+      "Hash": -1912344873
+    },
+    "PartnerAbilityGroupID": 40003,
+    "PartnerAbilitySelectHint": {
+      "Hash": 266429668
+    },
+    "TurnType": "Action"
+  },
+  {
+    "ActionIDList": [],
+    "SectionHint": {
+      "Hash": 371857150
+    },
+    "RecommendPower": 19,
+    "ExamID": 403,
+    "PartnerAbilitySelectNum": 0,
+    "TurnID": 415,
+    "TurnName": {
+      "Hash": 816538482
+    },
+    "PartnerAbilityGroupID": 0,
+    "PartnerAbilitySelectHint": {
+      "Hash": 371857150
+    },
+    "TurnType": "Exam"
+  }
+]

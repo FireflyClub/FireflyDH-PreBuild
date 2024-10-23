@@ -1,0 +1,6939 @@
+[
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 0,
+    "Param3": 0,
+    "EffectType": "None",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 1,
+    "Param1": 1,
+    "Param2": 0,
+    "EffectID": 1,
+    "Param3": 0,
+    "EffectType": "AttributeChangeByDice",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 1,
+    "Param1": 0,
+    "Param2": 1,
+    "EffectID": 2,
+    "Param3": 0,
+    "EffectType": "AttributeChangeByDice",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 1,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 3,
+    "Param3": 1,
+    "EffectType": "AttributeChangeByDice",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 1,
+    "Param1": -1,
+    "Param2": 0,
+    "EffectID": 4,
+    "Param3": 0,
+    "EffectType": "AttributeChangeByDice",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 1,
+    "Param1": 0,
+    "Param2": -1,
+    "EffectID": 5,
+    "Param3": 0,
+    "EffectType": "AttributeChangeByDice",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 1,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 6,
+    "Param3": -1,
+    "EffectType": "AttributeChangeByDice",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 6,
+    "EffectID": 10,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 102,
+    "Param2": 0,
+    "EffectID": 11,
+    "Param3": 0,
+    "EffectType": "ToChapter",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 103,
+    "Param2": 0,
+    "EffectID": 12,
+    "Param3": 0,
+    "EffectType": "ToChapter",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 13,
+    "Param3": 0,
+    "EffectType": "AddGroundCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 4,
+    "Param2": 0,
+    "EffectID": 14,
+    "Param3": 0,
+    "EffectType": "GainBuff",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 5,
+    "Param2": 0,
+    "EffectID": 15,
+    "Param3": 0,
+    "EffectType": "GainBuff",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 6,
+    "Param2": 0,
+    "EffectID": 16,
+    "Param3": 0,
+    "EffectType": "GainBuff",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 7,
+    "Param2": 0,
+    "EffectID": 17,
+    "Param3": 0,
+    "EffectType": "GainBuff",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 16,
+    "Param2": 0,
+    "EffectID": 18,
+    "Param3": 0,
+    "EffectType": "GainBuff",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 17,
+    "Param2": 0,
+    "EffectID": 19,
+    "Param3": 0,
+    "EffectType": "GainBuff",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 201,
+    "Param2": 0,
+    "EffectID": 101,
+    "Param3": 0,
+    "EffectType": "GainBuff",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 202,
+    "Param2": 0,
+    "EffectID": 102,
+    "Param3": 0,
+    "EffectType": "GainBuff",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 203,
+    "Param2": 0,
+    "EffectID": 103,
+    "Param3": 0,
+    "EffectType": "GainBuff",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 204,
+    "Param2": 0,
+    "EffectID": 104,
+    "Param3": 0,
+    "EffectType": "GainBuff",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 205,
+    "Param2": 0,
+    "EffectID": 105,
+    "Param3": 0,
+    "EffectType": "GainBuff",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 206,
+    "Param2": 0,
+    "EffectID": 106,
+    "Param3": 0,
+    "EffectType": "GainBuff",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 207,
+    "Param2": 0,
+    "EffectID": 107,
+    "Param3": 0,
+    "EffectType": "GainBuff",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 208,
+    "Param2": 0,
+    "EffectID": 108,
+    "Param3": 0,
+    "EffectType": "GainBuff",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 209,
+    "Param2": 0,
+    "EffectID": 109,
+    "Param3": 0,
+    "EffectType": "GainBuff",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 210,
+    "Param2": 0,
+    "EffectID": 110,
+    "Param3": 0,
+    "EffectType": "GainBuff",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 211,
+    "Param2": 0,
+    "EffectID": 111,
+    "Param3": 0,
+    "EffectType": "GainBuff",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 212,
+    "Param2": 0,
+    "EffectID": 112,
+    "Param3": 0,
+    "EffectType": "GainBuff",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 301,
+    "Param2": 0,
+    "EffectID": 201,
+    "Param3": 0,
+    "EffectType": "GainBuff",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 302,
+    "Param2": 0,
+    "EffectID": 202,
+    "Param3": 0,
+    "EffectType": "GainBuff",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 303,
+    "Param2": 0,
+    "EffectID": 203,
+    "Param3": 0,
+    "EffectType": "GainBuff",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 304,
+    "Param2": 0,
+    "EffectID": 204,
+    "Param3": 0,
+    "EffectType": "GainBuff",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 305,
+    "Param2": 0,
+    "EffectID": 205,
+    "Param3": 0,
+    "EffectType": "GainBuff",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 306,
+    "Param2": 0,
+    "EffectID": 206,
+    "Param3": 0,
+    "EffectType": "GainBuff",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 307,
+    "Param2": 0,
+    "EffectID": 207,
+    "Param3": 0,
+    "EffectType": "GainBuff",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 308,
+    "Param2": 0,
+    "EffectID": 208,
+    "Param3": 0,
+    "EffectType": "GainBuff",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 309,
+    "Param2": 0,
+    "EffectID": 209,
+    "Param3": 0,
+    "EffectType": "GainBuff",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 310,
+    "Param2": 0,
+    "EffectID": 210,
+    "Param3": 0,
+    "EffectType": "GainBuff",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 311,
+    "Param2": 0,
+    "EffectID": 211,
+    "Param3": 0,
+    "EffectType": "GainBuff",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 312,
+    "Param2": 0,
+    "EffectID": 212,
+    "Param3": 0,
+    "EffectType": "GainBuff",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 401,
+    "Param2": 0,
+    "EffectID": 301,
+    "Param3": 0,
+    "EffectType": "GainBuff",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 402,
+    "Param2": 0,
+    "EffectID": 302,
+    "Param3": 0,
+    "EffectType": "GainBuff",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 403,
+    "Param2": 0,
+    "EffectID": 303,
+    "Param3": 0,
+    "EffectType": "GainBuff",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 404,
+    "Param2": 0,
+    "EffectID": 304,
+    "Param3": 0,
+    "EffectType": "GainBuff",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 405,
+    "Param2": 0,
+    "EffectID": 305,
+    "Param3": 0,
+    "EffectType": "GainBuff",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 406,
+    "Param2": 0,
+    "EffectID": 306,
+    "Param3": 0,
+    "EffectType": "GainBuff",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 407,
+    "Param2": 0,
+    "EffectID": 307,
+    "Param3": 0,
+    "EffectType": "GainBuff",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 408,
+    "Param2": 0,
+    "EffectID": 308,
+    "Param3": 0,
+    "EffectType": "GainBuff",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 409,
+    "Param2": 0,
+    "EffectID": 309,
+    "Param3": 0,
+    "EffectType": "GainBuff",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 410,
+    "Param2": 0,
+    "EffectID": 310,
+    "Param3": 0,
+    "EffectType": "GainBuff",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 411,
+    "Param2": 0,
+    "EffectID": 311,
+    "Param3": 0,
+    "EffectType": "GainBuff",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 412,
+    "Param2": 0,
+    "EffectID": 312,
+    "Param3": 0,
+    "EffectType": "GainBuff",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": -10,
+    "Param2": 0,
+    "EffectID": 411,
+    "Param3": 0,
+    "EffectType": "AttributeChangePercent",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": -20,
+    "Param2": 0,
+    "EffectID": 412,
+    "Param3": 0,
+    "EffectType": "AttributeChangePercent",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": -30,
+    "Param2": 0,
+    "EffectID": 413,
+    "Param3": 0,
+    "EffectType": "AttributeChangePercent",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": -40,
+    "Param2": 0,
+    "EffectID": 414,
+    "Param3": 0,
+    "EffectType": "AttributeChangePercent",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": -50,
+    "Param2": 0,
+    "EffectID": 415,
+    "Param3": 0,
+    "EffectType": "AttributeChangePercent",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": -60,
+    "Param2": 0,
+    "EffectID": 416,
+    "Param3": 0,
+    "EffectType": "AttributeChangePercent",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": -40,
+    "Param2": 0,
+    "EffectID": 451,
+    "Param3": 0,
+    "EffectType": "AttributeChangePercent",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 611,
+    "Param3": -10,
+    "EffectType": "AttributeChangePercent",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 612,
+    "Param3": -20,
+    "EffectType": "AttributeChangePercent",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 613,
+    "Param3": -30,
+    "EffectType": "AttributeChangePercent",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 614,
+    "Param3": -40,
+    "EffectType": "AttributeChangePercent",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 615,
+    "Param3": -50,
+    "EffectType": "AttributeChangePercent",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 616,
+    "Param3": -60,
+    "EffectType": "AttributeChangePercent",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 651,
+    "Param3": -40,
+    "EffectType": "AttributeChangePercent",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 10,
+    "EffectID": 501,
+    "Param3": 0,
+    "EffectType": "AttributeChangePercent",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 20,
+    "EffectID": 502,
+    "Param3": 0,
+    "EffectType": "AttributeChangePercent",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 30,
+    "EffectID": 503,
+    "Param3": 0,
+    "EffectType": "AttributeChangePercent",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 40,
+    "EffectID": 504,
+    "Param3": 0,
+    "EffectType": "AttributeChangePercent",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 50,
+    "EffectID": 505,
+    "Param3": 0,
+    "EffectType": "AttributeChangePercent",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 60,
+    "EffectID": 506,
+    "Param3": 0,
+    "EffectType": "AttributeChangePercent",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": -10,
+    "EffectID": 511,
+    "Param3": 0,
+    "EffectType": "AttributeChangePercent",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": -20,
+    "EffectID": 512,
+    "Param3": 0,
+    "EffectType": "AttributeChangePercent",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": -30,
+    "EffectID": 513,
+    "Param3": 0,
+    "EffectType": "AttributeChangePercent",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": -40,
+    "EffectID": 514,
+    "Param3": 0,
+    "EffectType": "AttributeChangePercent",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": -50,
+    "EffectID": 515,
+    "Param3": 0,
+    "EffectType": "AttributeChangePercent",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": -60,
+    "EffectID": 516,
+    "Param3": 0,
+    "EffectType": "AttributeChangePercent",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": -100,
+    "Param2": -100,
+    "EffectID": 600,
+    "Param3": -100,
+    "EffectType": "AttributeChangePercent",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": -99,
+    "Param2": -99,
+    "EffectID": 700,
+    "Param3": -99,
+    "EffectType": "AttributeChangePercent",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 5,
+    "Param2": 0,
+    "EffectID": 9001,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 5,
+    "EffectID": 9002,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 9003,
+    "Param3": 5,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 3,
+    "Param2": 0,
+    "EffectID": 9901,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 3,
+    "EffectID": 9902,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 9903,
+    "Param3": 3,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 1,
+    "Param1": 1,
+    "Param2": 0,
+    "EffectID": 9904,
+    "Param3": 0,
+    "EffectType": "AttributeChangeByDice",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 1,
+    "Param1": 0,
+    "Param2": 1,
+    "EffectID": 9905,
+    "Param3": 0,
+    "EffectType": "AttributeChangeByDice",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 1,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 9906,
+    "Param3": 1,
+    "EffectType": "AttributeChangeByDice",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 6,
+    "Param2": 0,
+    "EffectID": 9907,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 6,
+    "EffectID": 9908,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 9909,
+    "Param3": 6,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": -6,
+    "Param2": 0,
+    "EffectID": 9910,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": -6,
+    "EffectID": 9911,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 9912,
+    "Param3": -6,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": -3,
+    "Param2": 0,
+    "EffectID": 9913,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": -3,
+    "EffectID": 9914,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 9915,
+    "Param3": -3,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 2,
+    "Param2": 0,
+    "EffectID": 9916,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 2,
+    "EffectID": 9917,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 9918,
+    "Param3": 2,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 10,
+    "Param2": 0,
+    "EffectID": 9919,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 10,
+    "EffectID": 9920,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 9921,
+    "Param3": 10,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 0,
+    "EffectID": 9922,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 1,
+    "EffectID": 9923,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 9924,
+    "Param3": 1,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": -20,
+    "Param2": 0,
+    "EffectID": 9925,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": -20,
+    "EffectID": 9926,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 9927,
+    "Param3": -20,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": -60,
+    "Param2": -60,
+    "EffectID": 9928,
+    "Param3": -60,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 102,
+    "Param2": 0,
+    "EffectID": 110101,
+    "Param3": 0,
+    "EffectType": "ToChapter",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 103,
+    "Param2": 0,
+    "EffectID": 110201,
+    "Param3": 0,
+    "EffectType": "ToChapter",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 0,
+    "EffectID": 204302,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 0,
+    "EffectID": 205202,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 10,
+    "Param2": 10,
+    "EffectID": 205301,
+    "Param3": 10,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": -80,
+    "EffectID": 205901,
+    "Param3": 0,
+    "EffectType": "AttributeChangePercent",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": -50,
+    "EffectID": 205902,
+    "Param3": 0,
+    "EffectType": "AttributeChangePercent",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 4,
+    "EffectID": 206701,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 1,
+    "EffectID": 206703,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 4,
+    "EffectID": 207001,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 1,
+    "EffectID": 207003,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 202,
+    "Param2": 0,
+    "EffectID": 210101,
+    "Param3": 0,
+    "EffectType": "ToChapter",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 203,
+    "Param2": 0,
+    "EffectID": 210201,
+    "Param3": 0,
+    "EffectType": "ToChapter",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 204,
+    "Param2": 0,
+    "EffectID": 210202,
+    "Param3": 0,
+    "EffectType": "ToChapter",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": -40,
+    "Param2": -40,
+    "EffectID": 210203,
+    "Param3": -40,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 205,
+    "Param2": 0,
+    "EffectID": 210301,
+    "Param3": 0,
+    "EffectType": "ToChapter",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 206,
+    "Param2": 0,
+    "EffectID": 210401,
+    "Param3": 0,
+    "EffectType": "ToChapter",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": -5,
+    "EffectID": 302102,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 302202,
+    "Param3": -5,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": -4,
+    "EffectID": 302701,
+    "Param3": -4,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 10,
+    "Param2": 0,
+    "EffectID": 303202,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 10,
+    "Param2": 0,
+    "EffectID": 303402,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": -5,
+    "EffectID": 303602,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 303702,
+    "Param3": -5,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 30,
+    "EffectID": 304201,
+    "Param3": 30,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 302,
+    "Param2": 0,
+    "EffectID": 310101,
+    "Param3": 0,
+    "EffectType": "ToChapter",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 303,
+    "Param2": 0,
+    "EffectID": 310201,
+    "Param3": 0,
+    "EffectType": "ToChapter",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 304,
+    "Param2": 0,
+    "EffectID": 310202,
+    "Param3": 0,
+    "EffectType": "ToChapter",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 305,
+    "Param2": 0,
+    "EffectID": 310301,
+    "Param3": 0,
+    "EffectType": "ToChapter",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 306,
+    "Param2": 0,
+    "EffectID": 310401,
+    "Param3": 0,
+    "EffectType": "ToChapter",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": -6,
+    "Param2": 0,
+    "EffectID": 320101,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": -12,
+    "Param2": 0,
+    "EffectID": 320301,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": -16,
+    "Param2": 0,
+    "EffectID": 320501,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": -16,
+    "Param2": 0,
+    "EffectID": 320701,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 99,
+    "EffectID": 341001,
+    "Param3": 0,
+    "EffectType": "ShootingGameStageID",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [
+      1,
+      2,
+      3
+    ],
+    "ParamList": [
+      0,
+      2,
+      2,
+      2
+    ],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 0,
+    "EffectID": 341011,
+    "Param3": 0,
+    "EffectType": "AttributeChangeByGameScore",
+    "PlayCardEffectDesc": {
+      "Hash": -667779845
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4102,
+    "EffectID": 410101,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4103,
+    "EffectID": 410102,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 2,
+    "Param2": 2,
+    "EffectID": 410103,
+    "Param3": 2,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 410104,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4104,
+    "EffectID": 410201,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4105,
+    "EffectID": 410202,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 4,
+    "EffectID": 410203,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 410204,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4105,
+    "EffectID": 410301,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4106,
+    "EffectID": 410302,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 410303,
+    "Param3": 4,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 410304,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4107,
+    "EffectID": 410401,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4108,
+    "EffectID": 410402,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 4,
+    "EffectID": 410403,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 410404,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4107,
+    "EffectID": 410501,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4108,
+    "EffectID": 410502,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 2,
+    "EffectID": 410503,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 410504,
+    "Param3": 2,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4107,
+    "EffectID": 410601,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4108,
+    "EffectID": 410602,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 410603,
+    "Param3": 4,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 410604,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4109,
+    "EffectID": 410701,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4110,
+    "EffectID": 410702,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 2,
+    "EffectID": 410703,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 410704,
+    "Param3": 2,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4110,
+    "EffectID": 410801,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4111,
+    "EffectID": 410802,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 410803,
+    "Param3": 4,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 410804,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4112,
+    "EffectID": 410901,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4113,
+    "EffectID": 410902,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 2,
+    "EffectID": 410903,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 410904,
+    "Param3": 2,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4112,
+    "EffectID": 411001,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4113,
+    "EffectID": 411002,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 2,
+    "Param2": 0,
+    "EffectID": 411003,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 2,
+    "EffectID": 411004,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4112,
+    "EffectID": 411101,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4113,
+    "EffectID": 411102,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 4,
+    "Param2": 0,
+    "EffectID": 411103,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 411104,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4114,
+    "EffectID": 411201,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4115,
+    "EffectID": 411202,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 2,
+    "EffectID": 411203,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 411204,
+    "Param3": 2,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4115,
+    "EffectID": 411301,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4116,
+    "EffectID": 411302,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 4,
+    "Param2": 0,
+    "EffectID": 411303,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 411304,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4117,
+    "EffectID": 411401,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4118,
+    "EffectID": 411402,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 4,
+    "Param2": 0,
+    "EffectID": 411403,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 411404,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4117,
+    "EffectID": 411501,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4118,
+    "EffectID": 411502,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 2,
+    "Param2": 0,
+    "EffectID": 411503,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 2,
+    "EffectID": 411504,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4117,
+    "EffectID": 411601,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4118,
+    "EffectID": 411602,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 2,
+    "EffectID": 411603,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 411604,
+    "Param3": 2,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 411701,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 411702,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 4,
+    "Param2": 0,
+    "EffectID": 411703,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 411704,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 411705,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 411801,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 411802,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 4,
+    "EffectID": 411803,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 411804,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 411805,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 50001,
+    "Param2": 0,
+    "EffectID": 415001,
+    "Param3": 0,
+    "EffectType": "MovieGameStageID",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [
+      2000,
+      3000,
+      4000
+    ],
+    "ParamList": [
+      0,
+      1,
+      1,
+      1
+    ],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 1,
+    "EffectID": 415011,
+    "Param3": 1,
+    "EffectType": "AttributeChangeByGameScore",
+    "PlayCardEffectDesc": {
+      "Hash": -192651227
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 412103,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 412104,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 420,
+    "Param2": 0,
+    "EffectID": 412201,
+    "Param3": 0,
+    "EffectType": "ToChapter",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 412202,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 412203,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 412204,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4202,
+    "EffectID": 420101,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4203,
+    "EffectID": 420102,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 2,
+    "Param2": 2,
+    "EffectID": 420103,
+    "Param3": 2,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 420104,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4204,
+    "EffectID": 420201,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4205,
+    "EffectID": 420202,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 2,
+    "Param2": 0,
+    "EffectID": 420203,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 2,
+    "EffectID": 420204,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4205,
+    "EffectID": 420301,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4206,
+    "EffectID": 420302,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 2,
+    "EffectID": 420303,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 420304,
+    "Param3": 2,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4207,
+    "EffectID": 420401,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4208,
+    "EffectID": 420402,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 4,
+    "Param2": 0,
+    "EffectID": 420403,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 420404,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4207,
+    "EffectID": 420501,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4208,
+    "EffectID": 420502,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 4,
+    "EffectID": 420503,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 420504,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4209,
+    "EffectID": 420601,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 2,
+    "Param2": 0,
+    "EffectID": 420602,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 2,
+    "EffectID": 420603,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4208,
+    "EffectID": 420604,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4210,
+    "EffectID": 420701,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4211,
+    "EffectID": 420702,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 2,
+    "EffectID": 420703,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 420704,
+    "Param3": 2,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4211,
+    "EffectID": 420801,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4212,
+    "EffectID": 420802,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 4,
+    "Param2": 0,
+    "EffectID": 420803,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 420804,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4212,
+    "EffectID": 420901,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4213,
+    "EffectID": 420902,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 4,
+    "Param2": 0,
+    "EffectID": 420903,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 420904,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4214,
+    "EffectID": 421001,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4215,
+    "EffectID": 421002,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 421003,
+    "Param3": 4,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 421004,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4214,
+    "EffectID": 421101,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4215,
+    "EffectID": 421102,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 2,
+    "Param2": 0,
+    "EffectID": 421103,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 421104,
+    "Param3": 2,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4214,
+    "EffectID": 421201,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4215,
+    "EffectID": 421202,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 4,
+    "Param2": 0,
+    "EffectID": 421203,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 421204,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4216,
+    "EffectID": 421301,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 4,
+    "EffectID": 421302,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4215,
+    "EffectID": 421303,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 421304,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4217,
+    "EffectID": 421401,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4218,
+    "EffectID": 421402,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 2,
+    "Param2": 0,
+    "EffectID": 421403,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 2,
+    "EffectID": 421404,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4218,
+    "EffectID": 421501,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4219,
+    "EffectID": 421502,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 4,
+    "EffectID": 421503,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 421504,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4220,
+    "EffectID": 421601,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 421602,
+    "Param3": 4,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4219,
+    "EffectID": 421603,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 421604,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4221,
+    "EffectID": 421701,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4222,
+    "EffectID": 421702,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 2,
+    "Param2": 0,
+    "EffectID": 421703,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 2,
+    "EffectID": 421704,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4221,
+    "EffectID": 421801,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4222,
+    "EffectID": 421802,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 2,
+    "EffectID": 421803,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 421804,
+    "Param3": 2,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4221,
+    "EffectID": 421901,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4222,
+    "EffectID": 421902,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 421903,
+    "Param3": 4,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 421904,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4221,
+    "EffectID": 422001,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4222,
+    "EffectID": 422002,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 422003,
+    "Param3": 4,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 422004,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 422101,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 422102,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 2,
+    "EffectID": 422103,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 422104,
+    "Param3": 2,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 422105,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 422201,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 422202,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 2,
+    "Param2": 0,
+    "EffectID": 422203,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 2,
+    "EffectID": 422204,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 422205,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 50002,
+    "Param2": 0,
+    "EffectID": 425001,
+    "Param3": 0,
+    "EffectType": "MovieGameStageID",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [
+      2000,
+      4000,
+      5000
+    ],
+    "ParamList": [
+      0,
+      1,
+      1,
+      1
+    ],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 1,
+    "EffectID": 425011,
+    "Param3": 1,
+    "EffectType": "AttributeChangeByGameScore",
+    "PlayCardEffectDesc": {
+      "Hash": -192654430
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 422503,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 422504,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 430,
+    "Param2": 0,
+    "EffectID": 422601,
+    "Param3": 0,
+    "EffectType": "ToChapter",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 440,
+    "Param2": 0,
+    "EffectID": 422602,
+    "Param3": 0,
+    "EffectType": "ToChapter",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 422603,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 422604,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4302,
+    "EffectID": 430101,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4303,
+    "EffectID": 430102,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 4,
+    "Param2": 4,
+    "EffectID": 430103,
+    "Param3": 4,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 430104,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4304,
+    "EffectID": 430201,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4305,
+    "EffectID": 430202,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 2,
+    "Param2": 0,
+    "EffectID": 430203,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 430204,
+    "Param3": 2,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4305,
+    "EffectID": 430301,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4306,
+    "EffectID": 430302,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 2,
+    "Param2": 0,
+    "EffectID": 430303,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 2,
+    "EffectID": 430304,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4307,
+    "EffectID": 430401,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4308,
+    "EffectID": 430402,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 4,
+    "Param2": 0,
+    "EffectID": 430403,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 430404,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4307,
+    "EffectID": 430501,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4308,
+    "EffectID": 430502,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 2,
+    "Param2": 0,
+    "EffectID": 430503,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 430504,
+    "Param3": 2,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4307,
+    "EffectID": 430601,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4308,
+    "EffectID": 430602,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 2,
+    "Param2": 0,
+    "EffectID": 430603,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 2,
+    "EffectID": 430604,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4309,
+    "EffectID": 430701,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4310,
+    "EffectID": 430702,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 4,
+    "EffectID": 430703,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 430704,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4310,
+    "EffectID": 430801,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4311,
+    "EffectID": 430802,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 2,
+    "EffectID": 430803,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 430804,
+    "Param3": 2,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4312,
+    "EffectID": 430901,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4313,
+    "EffectID": 430902,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 4,
+    "EffectID": 430903,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 430904,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4312,
+    "EffectID": 431001,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4313,
+    "EffectID": 431002,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 2,
+    "EffectID": 431003,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 431004,
+    "Param3": 2,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4312,
+    "EffectID": 431101,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4313,
+    "EffectID": 431102,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 431103,
+    "Param3": 4,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 431104,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4314,
+    "EffectID": 431201,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4315,
+    "EffectID": 431202,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 2,
+    "Param2": 0,
+    "EffectID": 431203,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 2,
+    "EffectID": 431204,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4315,
+    "EffectID": 431301,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4316,
+    "EffectID": 431302,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 2,
+    "EffectID": 431303,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 431304,
+    "Param3": 2,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4317,
+    "EffectID": 431401,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4318,
+    "EffectID": 431402,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 431403,
+    "Param3": 4,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 431404,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4317,
+    "EffectID": 431501,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4318,
+    "EffectID": 431502,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 2,
+    "EffectID": 431503,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 431504,
+    "Param3": 2,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4317,
+    "EffectID": 431601,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4318,
+    "EffectID": 431602,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 2,
+    "Param2": 0,
+    "EffectID": 431603,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 431604,
+    "Param3": 2,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 431701,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 431702,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 431703,
+    "Param3": 4,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 431704,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 431705,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 431801,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 431802,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 2,
+    "Param2": 0,
+    "EffectID": 431803,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 2,
+    "EffectID": 431804,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 431805,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 432103,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 432104,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 450,
+    "Param2": 0,
+    "EffectID": 432201,
+    "Param3": 0,
+    "EffectType": "ToChapter",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 432202,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 432203,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 432204,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4402,
+    "EffectID": 440101,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4403,
+    "EffectID": 440102,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 2,
+    "Param2": 2,
+    "EffectID": 440103,
+    "Param3": 2,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 440104,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4404,
+    "EffectID": 440201,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4405,
+    "EffectID": 440202,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 3,
+    "EffectID": 440203,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 440204,
+    "Param3": 3,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4405,
+    "EffectID": 440301,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4406,
+    "EffectID": 440302,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 440303,
+    "Param3": 6,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 440304,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4407,
+    "EffectID": 440401,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4408,
+    "EffectID": 440402,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 3,
+    "EffectID": 440403,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 440404,
+    "Param3": 3,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4407,
+    "EffectID": 440501,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4408,
+    "EffectID": 440502,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 6,
+    "EffectID": 440503,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 440504,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4407,
+    "EffectID": 440601,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4408,
+    "EffectID": 440602,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 440603,
+    "Param3": 6,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 440604,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4409,
+    "EffectID": 440701,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4410,
+    "EffectID": 440702,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 440703,
+    "Param3": 6,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 440704,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4410,
+    "EffectID": 440801,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4411,
+    "EffectID": 440802,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 6,
+    "Param2": 0,
+    "EffectID": 440803,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 440804,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4412,
+    "EffectID": 440901,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4413,
+    "EffectID": 440902,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 6,
+    "Param2": 0,
+    "EffectID": 440903,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 440904,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4412,
+    "EffectID": 441001,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4413,
+    "EffectID": 441002,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 3,
+    "EffectID": 441003,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 441004,
+    "Param3": 3,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4412,
+    "EffectID": 441101,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4413,
+    "EffectID": 441102,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 441103,
+    "Param3": 6,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 441104,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4414,
+    "EffectID": 441201,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4415,
+    "EffectID": 441202,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 3,
+    "EffectID": 441203,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 441204,
+    "Param3": 3,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4415,
+    "EffectID": 441301,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4416,
+    "EffectID": 441302,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 441303,
+    "Param3": 6,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 441304,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4417,
+    "EffectID": 441401,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4418,
+    "EffectID": 441402,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 6,
+    "Param2": 0,
+    "EffectID": 441403,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 441404,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4417,
+    "EffectID": 441501,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4418,
+    "EffectID": 441502,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 3,
+    "Param2": 0,
+    "EffectID": 441503,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 3,
+    "EffectID": 441504,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4417,
+    "EffectID": 441601,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 4418,
+    "EffectID": 441602,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 3,
+    "EffectID": 441603,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 441604,
+    "Param3": 3,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 441701,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 441702,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 3,
+    "EffectID": 441703,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 441704,
+    "Param3": 3,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 441705,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 441801,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 441802,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 441803,
+    "Param3": 6,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 441804,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 441805,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 442103,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 442104,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 460,
+    "Param2": 0,
+    "EffectID": 442201,
+    "Param3": 0,
+    "EffectType": "ToChapter",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 442202,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 442203,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 442204,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 2,
+    "Param2": 0,
+    "EffectID": 500004,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 2,
+    "EffectID": 500005,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 500006,
+    "Param3": 2,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": -2,
+    "Param2": 0,
+    "EffectID": 500007,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": -2,
+    "EffectID": 500008,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 500009,
+    "Param3": -2,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 515001,
+    "Param3": 0,
+    "EffectType": "LotteryCost",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [
+      42,
+      32,
+      22,
+      12
+    ],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 515011,
+    "Param3": 0,
+    "EffectType": "LotteryIDList",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 525001,
+    "Param3": 0,
+    "EffectType": "LotteryCost",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [
+      42,
+      32,
+      22,
+      12
+    ],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 525011,
+    "Param3": 0,
+    "EffectType": "LotteryIDList",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 535001,
+    "Param3": 0,
+    "EffectType": "LotteryCost",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [
+      42,
+      32,
+      22,
+      12
+    ],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 535011,
+    "Param3": 0,
+    "EffectType": "LotteryIDList",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 545001,
+    "Param3": 0,
+    "EffectType": "LotteryCost",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [
+      42,
+      32,
+      22,
+      12
+    ],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 545011,
+    "Param3": 0,
+    "EffectType": "LotteryIDList",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 520,
+    "Param2": 0,
+    "EffectID": 500016,
+    "Param3": 0,
+    "EffectType": "ToChapter",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 10,
+    "Param2": 0,
+    "EffectID": 500020,
+    "Param3": 0,
+    "EffectType": "AttributeChangePercent",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 10,
+    "EffectID": 500021,
+    "Param3": 0,
+    "EffectType": "AttributeChangePercent",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 500022,
+    "Param3": 10,
+    "EffectType": "AttributeChangePercent",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 530,
+    "Param2": 0,
+    "EffectID": 500023,
+    "Param3": 0,
+    "EffectType": "ToChapter",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 540,
+    "Param2": 0,
+    "EffectID": 500024,
+    "Param3": 0,
+    "EffectType": "ToChapter",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 1,
+    "Param2": 0,
+    "EffectID": 500025,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 1,
+    "EffectID": 500026,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 500027,
+    "Param3": 1,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 5,
+    "Param2": 0,
+    "EffectID": 500028,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 5,
+    "EffectID": 500029,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 500030,
+    "Param3": 5,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": -8,
+    "Param2": 0,
+    "EffectID": 500037,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": -8,
+    "EffectID": 500038,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 500039,
+    "Param3": -8,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 4,
+    "Param2": 0,
+    "EffectID": 500040,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 4,
+    "EffectID": 500041,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 500042,
+    "Param3": 4,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": -3,
+    "Param2": 0,
+    "EffectID": 500043,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": -3,
+    "EffectID": 500044,
+    "Param3": 0,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 500045,
+    "Param3": -3,
+    "EffectType": "AttributeChange",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 550,
+    "Param2": 0,
+    "EffectID": 500046,
+    "Param3": 0,
+    "EffectType": "ToChapter",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 100,
+    "Param2": 0,
+    "EffectID": 500047,
+    "Param3": 0,
+    "EffectType": "AttributeChangePercent",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 100,
+    "EffectID": 500048,
+    "Param3": 0,
+    "EffectType": "AttributeChangePercent",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 0,
+    "Param2": 0,
+    "EffectID": 500049,
+    "Param3": 100,
+    "EffectType": "AttributeChangePercent",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 560,
+    "Param2": 0,
+    "EffectID": 500050,
+    "Param3": 0,
+    "EffectType": "ToChapter",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 5,
+    "Param2": 3207,
+    "EffectID": 700000,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "PlayCardEffectDescParamList": [],
+    "ParamList": [],
+    "DiceParam": 0,
+    "Param1": 5,
+    "Param2": 5424,
+    "EffectID": 700001,
+    "Param3": 0,
+    "EffectType": "AddCardToMust",
+    "PlayCardEffectDesc": {
+      "Hash": 371857150
+    }
+  }
+]

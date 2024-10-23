@@ -1,0 +1,638 @@
+[
+  {
+    "PriceList": [
+      {
+        "LPOHOOJFDBH": 1,
+        "FLDEJOLAAEE": 100
+      },
+      {
+        "LPOHOOJFDBH": 2,
+        "FLDEJOLAAEE": 300
+      },
+      {
+        "LPOHOOJFDBH": 3,
+        "FLDEJOLAAEE": 600
+      },
+      {
+        "LPOHOOJFDBH": 4,
+        "FLDEJOLAAEE": 1200
+      },
+      {
+        "LPOHOOJFDBH": 5,
+        "FLDEJOLAAEE": 1800
+      }
+    ],
+    "ItemBackground": "SpriteOutput/Quest/EvolveBuild/EvolveSkill/EvolveSkillListItemBg.png",
+    "ParamList": [
+      {
+        "Value": 0.5000000005820766
+      }
+    ],
+    "ItemIcon": "SpriteOutput/BuffIcon/ActivityFantasticStoryBuff/ActivityBattleBuff112.png",
+    "ID": 3106801,
+    "ShopDesc": {
+      "Hash": -2130534413
+    },
+    "TotalBuff": {
+      "Hash": 94527476
+    },
+    "BuffTextFormat": {
+      "Hash": -1755639626
+    },
+    "LvMax": 5,
+    "Category": {
+      "Hash": 507724793
+    },
+    "ShopType": "AddMazeBuff",
+    "MazeBuffID": 3106801,
+    "Name": {
+      "Hash": -685011875
+    }
+  },
+  {
+    "PriceList": [
+      {
+        "LPOHOOJFDBH": 1,
+        "FLDEJOLAAEE": 100
+      },
+      {
+        "LPOHOOJFDBH": 2,
+        "FLDEJOLAAEE": 300
+      },
+      {
+        "LPOHOOJFDBH": 3,
+        "FLDEJOLAAEE": 600
+      },
+      {
+        "LPOHOOJFDBH": 4,
+        "FLDEJOLAAEE": 1200
+      },
+      {
+        "LPOHOOJFDBH": 5,
+        "FLDEJOLAAEE": 1800
+      }
+    ],
+    "ItemBackground": "SpriteOutput/Quest/EvolveBuild/EvolveSkill/EvolveSkillListItemBg.png",
+    "ParamList": [
+      {
+        "Value": 0.10000000011641533
+      }
+    ],
+    "ItemIcon": "SpriteOutput/BuffIcon/ActivityStrongChallenge/IconStrongChallengeTalent0703.png",
+    "ID": 3106802,
+    "ShopDesc": {
+      "Hash": -1727249886
+    },
+    "TotalBuff": {
+      "Hash": 94527476
+    },
+    "BuffTextFormat": {
+      "Hash": -1755639626
+    },
+    "LvMax": 5,
+    "Category": {
+      "Hash": 507724793
+    },
+    "ShopType": "AddMazeBuff",
+    "MazeBuffID": 3106802,
+    "Name": {
+      "Hash": 2043871480
+    }
+  },
+  {
+    "PriceList": [
+      {
+        "LPOHOOJFDBH": 1,
+        "FLDEJOLAAEE": 100
+      },
+      {
+        "LPOHOOJFDBH": 2,
+        "FLDEJOLAAEE": 300
+      },
+      {
+        "LPOHOOJFDBH": 3,
+        "FLDEJOLAAEE": 600
+      },
+      {
+        "LPOHOOJFDBH": 4,
+        "FLDEJOLAAEE": 1200
+      },
+      {
+        "LPOHOOJFDBH": 5,
+        "FLDEJOLAAEE": 1800
+      }
+    ],
+    "ItemBackground": "SpriteOutput/Quest/EvolveBuild/EvolveSkill/EvolveSkillListItemBg.png",
+    "ParamList": [
+      {
+        "Value": 0.12000000013969839
+      }
+    ],
+    "ItemIcon": "SpriteOutput/BuffIcon/ActivityFantasticStoryBuff/ActivityBattleBuff111.png",
+    "ID": 3106803,
+    "ShopDesc": {
+      "Hash": 1001633469
+    },
+    "TotalBuff": {
+      "Hash": 94527476
+    },
+    "BuffTextFormat": {
+      "Hash": -1755639626
+    },
+    "LvMax": 5,
+    "Category": {
+      "Hash": 507724793
+    },
+    "ShopType": "AddMazeBuff",
+    "MazeBuffID": 3106803,
+    "Name": {
+      "Hash": 477787539
+    }
+  },
+  {
+    "PriceList": [
+      {
+        "LPOHOOJFDBH": 1,
+        "FLDEJOLAAEE": 100
+      },
+      {
+        "LPOHOOJFDBH": 2,
+        "FLDEJOLAAEE": 300
+      },
+      {
+        "LPOHOOJFDBH": 3,
+        "FLDEJOLAAEE": 600
+      },
+      {
+        "LPOHOOJFDBH": 4,
+        "FLDEJOLAAEE": 1200
+      },
+      {
+        "LPOHOOJFDBH": 5,
+        "FLDEJOLAAEE": 1800
+      }
+    ],
+    "ItemBackground": "SpriteOutput/Quest/EvolveBuild/EvolveSkill/EvolveSkillListItemBg.png",
+    "ParamList": [
+      {
+        "Value": 0.12000000013969839
+      }
+    ],
+    "ItemIcon": "SpriteOutput/BuffIcon/ActivityFantasticStoryBuff/ActivityBattleBuff102.png",
+    "ID": 3106804,
+    "ShopDesc": {
+      "Hash": 1404917996
+    },
+    "TotalBuff": {
+      "Hash": 94527476
+    },
+    "BuffTextFormat": {
+      "Hash": -1755639626
+    },
+    "LvMax": 5,
+    "Category": {
+      "Hash": 507724793
+    },
+    "ShopType": "AddMazeBuff",
+    "MazeBuffID": 3106804,
+    "Name": {
+      "Hash": -1444526762
+    }
+  },
+  {
+    "PriceList": [
+      {
+        "LPOHOOJFDBH": 1,
+        "FLDEJOLAAEE": 200
+      },
+      {
+        "LPOHOOJFDBH": 2,
+        "FLDEJOLAAEE": 800
+      },
+      {
+        "LPOHOOJFDBH": 3,
+        "FLDEJOLAAEE": 2400
+      }
+    ],
+    "ItemBackground": "SpriteOutput/Quest/EvolveBuild/EvolveSkill/EvolveSkillListItemBg.png",
+    "ParamList": [
+      {
+        "Value": 1.0000000002328306
+      }
+    ],
+    "ItemIcon": "SpriteOutput/Quest/AetherDivide/SkillIcon/SkillIconAetherDivide12.png",
+    "ID": 3106805,
+    "ShopDesc": {
+      "Hash": -161165945
+    },
+    "TotalBuff": {
+      "Hash": 94527476
+    },
+    "BuffTextFormat": {
+      "Hash": -1755639625
+    },
+    "LvMax": 3,
+    "Category": {
+      "Hash": 507724793
+    },
+    "ShopType": "AddMazeBuff",
+    "MazeBuffID": 3106805,
+    "Name": {
+      "Hash": 1284356593
+    }
+  },
+  {
+    "PriceList": [
+      {
+        "LPOHOOJFDBH": 1,
+        "FLDEJOLAAEE": 200
+      },
+      {
+        "LPOHOOJFDBH": 2,
+        "FLDEJOLAAEE": 800
+      },
+      {
+        "LPOHOOJFDBH": 3,
+        "FLDEJOLAAEE": 2400
+      }
+    ],
+    "ItemBackground": "SpriteOutput/Quest/EvolveBuild/EvolveSkill/EvolveSkillListItemBg.png",
+    "ParamList": [
+      {
+        "Value": 0.060000000069849194
+      }
+    ],
+    "ItemIcon": "SpriteOutput/Quest/EvolveBuild/EvolveBuildBuffIcon/EvolveBuildBuffIcon1.png",
+    "ID": 3106806,
+    "ShopDesc": {
+      "Hash": 242118582
+    },
+    "TotalBuff": {
+      "Hash": 94527476
+    },
+    "BuffTextFormat": {
+      "Hash": -1755639626
+    },
+    "LvMax": 3,
+    "Category": {
+      "Hash": 507724793
+    },
+    "ShopType": "AddMazeBuff",
+    "MazeBuffID": 3106806,
+    "Name": {
+      "Hash": -281727348
+    }
+  },
+  {
+    "PriceList": [
+      {
+        "LPOHOOJFDBH": 1,
+        "FLDEJOLAAEE": 200
+      },
+      {
+        "LPOHOOJFDBH": 2,
+        "FLDEJOLAAEE": 800
+      },
+      {
+        "LPOHOOJFDBH": 3,
+        "FLDEJOLAAEE": 2400
+      }
+    ],
+    "ItemBackground": "SpriteOutput/Quest/EvolveBuild/EvolveSkill/EvolveSkillListItemBg.png",
+    "ParamList": [
+      {
+        "Value": 10.000000002328306
+      }
+    ],
+    "ItemIcon": "SpriteOutput/Quest/AetherDivide/SkillIcon/SkillIconAetherDivide07.png",
+    "ID": 3106807,
+    "ShopDesc": {
+      "Hash": -1323965359
+    },
+    "TotalBuff": {
+      "Hash": 94527476
+    },
+    "BuffTextFormat": {
+      "Hash": -1755639625
+    },
+    "LvMax": 3,
+    "Category": {
+      "Hash": 507724793
+    },
+    "ShopType": "AddMazeBuff",
+    "MazeBuffID": 3106807,
+    "Name": {
+      "Hash": -1847811289
+    }
+  },
+  {
+    "PriceList": [
+      {
+        "LPOHOOJFDBH": 1,
+        "FLDEJOLAAEE": 200
+      },
+      {
+        "LPOHOOJFDBH": 2,
+        "FLDEJOLAAEE": 800
+      },
+      {
+        "LPOHOOJFDBH": 3,
+        "FLDEJOLAAEE": 2400
+      }
+    ],
+    "ItemBackground": "SpriteOutput/Quest/EvolveBuild/EvolveSkill/EvolveSkillListItemBg.png",
+    "ParamList": [
+      {
+        "Value": 0.15000000017462298
+      }
+    ],
+    "ItemIcon": "SpriteOutput/Quest/AetherDivide/SkillIcon/SkillIconAetherDivide14.png",
+    "ID": 3106808,
+    "ShopDesc": {
+      "Hash": -920680832
+    },
+    "TotalBuff": {
+      "Hash": 94527476
+    },
+    "BuffTextFormat": {
+      "Hash": -1755639626
+    },
+    "LvMax": 3,
+    "Category": {
+      "Hash": 507724793
+    },
+    "ShopType": "AddMazeBuff",
+    "MazeBuffID": 3106808,
+    "Name": {
+      "Hash": 1237302426
+    }
+  },
+  {
+    "PriceList": [
+      {
+        "LPOHOOJFDBH": 1,
+        "FLDEJOLAAEE": 600
+      },
+      {
+        "LPOHOOJFDBH": 2,
+        "FLDEJOLAAEE": 1000
+      },
+      {
+        "LPOHOOJFDBH": 3,
+        "FLDEJOLAAEE": 1500
+      },
+      {
+        "LPOHOOJFDBH": 4,
+        "FLDEJOLAAEE": 2000
+      },
+      {
+        "LPOHOOJFDBH": 5,
+        "FLDEJOLAAEE": 2500
+      }
+    ],
+    "ItemBackground": "SpriteOutput/Quest/EvolveBuild/EvolveSkill/EvolveSkillListItemBg.png",
+    "ParamList": [
+      {
+        "Value": 0.30000000034924595
+      }
+    ],
+    "ItemIcon": "SpriteOutput/Quest/EvolveBuild/EvolveBuildBuffIcon/EvolveBuildBuffIcon2.png",
+    "ID": 3106809,
+    "ShopDesc": {
+      "Hash": 1808202523
+    },
+    "TotalBuff": {
+      "Hash": 94527476
+    },
+    "BuffTextFormat": {
+      "Hash": -1755639626
+    },
+    "LvMax": 5,
+    "Category": {
+      "Hash": 507724793
+    },
+    "ShopType": "AddMazeBuff",
+    "MazeBuffID": 3106809,
+    "Name": {
+      "Hash": -328781515
+    }
+  },
+  {
+    "PriceList": [
+      {
+        "LPOHOOJFDBH": 1,
+        "FLDEJOLAAEE": 400
+      },
+      {
+        "LPOHOOJFDBH": 2,
+        "FLDEJOLAAEE": 800
+      },
+      {
+        "LPOHOOJFDBH": 3,
+        "FLDEJOLAAEE": 1200
+      },
+      {
+        "LPOHOOJFDBH": 4,
+        "FLDEJOLAAEE": 1600
+      },
+      {
+        "LPOHOOJFDBH": 5,
+        "FLDEJOLAAEE": 2000
+      }
+    ],
+    "ItemBackground": "SpriteOutput/Quest/EvolveBuild/EvolveSkill/EvolveSkillListItemBg.png",
+    "ParamList": [
+      {
+        "Value": 0.10000000011641533
+      }
+    ],
+    "ItemIcon": "SpriteOutput/Quest/EvolveBuild/EvolveBuildBuffIcon/EvolveBuildBuffIcon3.png",
+    "ID": 3106810,
+    "ShopDesc": {
+      "Hash": -564450473
+    },
+    "TotalBuff": {
+      "Hash": 94527476
+    },
+    "BuffTextFormat": {
+      "Hash": -1755639626
+    },
+    "LvMax": 5,
+    "Category": {
+      "Hash": 507724793
+    },
+    "ShopType": "AddMazeBuff",
+    "MazeBuffID": 3106810,
+    "Name": {
+      "Hash": 881072065
+    }
+  },
+  {
+    "PriceList": [
+      {
+        "LPOHOOJFDBH": 1,
+        "FLDEJOLAAEE": 300
+      },
+      {
+        "LPOHOOJFDBH": 2,
+        "FLDEJOLAAEE": 900
+      },
+      {
+        "LPOHOOJFDBH": 3,
+        "FLDEJOLAAEE": 1800
+      },
+      {
+        "LPOHOOJFDBH": 4,
+        "FLDEJOLAAEE": 3000
+      },
+      {
+        "LPOHOOJFDBH": 5,
+        "FLDEJOLAAEE": 5000
+      }
+    ],
+    "ItemBackground": "SpriteOutput/Quest/EvolveBuild/EvolveSkill/EvolveSkillListItemBg.png",
+    "ParamList": [
+      {
+        "Value": 1.0000000002328306
+      }
+    ],
+    "ItemIcon": "SpriteOutput/Quest/EvolveBuild/EvolveBuildBuffIcon/EvolveBuildBuffIcon4.png",
+    "ID": 3106811,
+    "ShopDesc": {
+      "Hash": -2130534414
+    },
+    "TotalBuff": {
+      "Hash": 1660611417
+    },
+    "BuffTextFormat": {
+      "Hash": -1755639625
+    },
+    "LvMax": 5,
+    "Category": {
+      "Hash": 507724790
+    },
+    "ShopType": "InitWeaponLevel",
+    "MazeBuffID": 0,
+    "Name": {
+      "Hash": -685011876
+    }
+  },
+  {
+    "PriceList": [
+      {
+        "LPOHOOJFDBH": 1,
+        "FLDEJOLAAEE": 800
+      },
+      {
+        "LPOHOOJFDBH": 2,
+        "FLDEJOLAAEE": 1200
+      },
+      {
+        "LPOHOOJFDBH": 3,
+        "FLDEJOLAAEE": 2000
+      }
+    ],
+    "ItemBackground": "SpriteOutput/Quest/EvolveBuild/EvolveSkill/EvolveSkillListItemBg.png",
+    "ParamList": [
+      {
+        "Value": 2.0000000004656613
+      }
+    ],
+    "ItemIcon": "SpriteOutput/Quest/EvolveBuild/EvolveBuildBuffIcon/EvolveBuildBuffIcon5.png",
+    "ID": 3106812,
+    "ShopDesc": {
+      "Hash": -1727249887
+    },
+    "TotalBuff": {
+      "Hash": -1068271938
+    },
+    "BuffTextFormat": {
+      "Hash": -1755639625
+    },
+    "LvMax": 3,
+    "Category": {
+      "Hash": 507724790
+    },
+    "ShopType": "AddMazeBuff",
+    "MazeBuffID": 3106812,
+    "Name": {
+      "Hash": 2043871479
+    }
+  },
+  {
+    "PriceList": [
+      {
+        "LPOHOOJFDBH": 1,
+        "FLDEJOLAAEE": 800
+      },
+      {
+        "LPOHOOJFDBH": 2,
+        "FLDEJOLAAEE": 1200
+      },
+      {
+        "LPOHOOJFDBH": 3,
+        "FLDEJOLAAEE": 2000
+      }
+    ],
+    "ItemBackground": "SpriteOutput/Quest/EvolveBuild/EvolveSkill/EvolveSkillListItemBg.png",
+    "ParamList": [
+      {
+        "Value": 1.0000000002328306
+      }
+    ],
+    "ItemIcon": "SpriteOutput/Quest/EvolveBuild/EvolveBuildBuffIcon/EvolveBuildBuffIcon6.png",
+    "ID": 3106813,
+    "ShopDesc": {
+      "Hash": 1001633468
+    },
+    "TotalBuff": {
+      "Hash": 497812003
+    },
+    "BuffTextFormat": {
+      "Hash": -1755639625
+    },
+    "LvMax": 3,
+    "Category": {
+      "Hash": 507724790
+    },
+    "ShopType": "AddMazeBuff",
+    "MazeBuffID": 3106813,
+    "Name": {
+      "Hash": 477787538
+    }
+  },
+  {
+    "PriceList": [
+      {
+        "LPOHOOJFDBH": 1,
+        "FLDEJOLAAEE": 6000
+      }
+    ],
+    "ItemBackground": "SpriteOutput/Quest/EvolveBuild/EvolveSkill/EvolveSkillListItemBg.png",
+    "ParamList": [
+      {
+        "Value": 1.0000000002328306
+      }
+    ],
+    "ItemIcon": "SpriteOutput/Quest/EvolveBuild/EvolveBuildBuffIcon/EvolveBuildBuffIcon7.png",
+    "ID": 3106814,
+    "ShopDesc": {
+      "Hash": 1404917995
+    },
+    "TotalBuff": {
+      "Hash": 2063895944
+    },
+    "BuffTextFormat": {
+      "Hash": -1755639625
+    },
+    "LvMax": 1,
+    "Category": {
+      "Hash": 507724790
+    },
+    "ShopType": "AddAccessorySlot",
+    "MazeBuffID": 0,
+    "Name": {
+      "Hash": -1444526763
+    }
+  }
+]

@@ -1,0 +1,6846 @@
+[
+  {
+    "NextSiteIDList": [],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 1,
+    "PosX": 100,
+    "RogueMapID": 1,
+    "IsStart": true
+  },
+  {
+    "NextSiteIDList": [
+      2
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 1,
+    "PosX": 100,
+    "RogueMapID": 2,
+    "IsStart": true
+  },
+  {
+    "NextSiteIDList": [
+      3
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 2,
+    "PosX": 300,
+    "RogueMapID": 2,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 3,
+    "PosX": 500,
+    "RogueMapID": 2,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      2
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 1,
+    "PosX": 100,
+    "RogueMapID": 3,
+    "IsStart": true
+  },
+  {
+    "NextSiteIDList": [
+      3
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 2,
+    "PosX": 300,
+    "RogueMapID": 3,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      4
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 3,
+    "PosX": 500,
+    "RogueMapID": 3,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      5
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 4,
+    "PosX": 700,
+    "RogueMapID": 3,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      6
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 5,
+    "PosX": 900,
+    "RogueMapID": 3,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      7
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 6,
+    "PosX": 1100,
+    "RogueMapID": 3,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 7,
+    "PosX": 1300,
+    "RogueMapID": 3,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      2
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 1,
+    "PosX": 100,
+    "RogueMapID": 101,
+    "IsStart": true
+  },
+  {
+    "NextSiteIDList": [
+      3
+    ],
+    "PosY": -480,
+    "MonsterWarningRatio": 0,
+    "SiteID": 2,
+    "PosX": 250,
+    "RogueMapID": 101,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      4
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 3,
+    "PosX": 400,
+    "RogueMapID": 101,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      5
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 4,
+    "PosX": 400,
+    "RogueMapID": 101,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      6
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 5,
+    "PosX": 550,
+    "RogueMapID": 101,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      7
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 6,
+    "PosX": 700,
+    "RogueMapID": 101,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 7,
+    "PosX": 850,
+    "RogueMapID": 101,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      21,
+      22
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 1,
+    "PosX": 100,
+    "RogueMapID": 200,
+    "IsStart": true
+  },
+  {
+    "NextSiteIDList": [
+      31,
+      32
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 21,
+    "PosX": 250,
+    "RogueMapID": 200,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      31,
+      32
+    ],
+    "PosY": -480,
+    "MonsterWarningRatio": 0,
+    "SiteID": 22,
+    "PosX": 250,
+    "RogueMapID": 200,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      4
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 31,
+    "PosX": 400,
+    "RogueMapID": 200,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      4
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 32,
+    "PosX": 400,
+    "RogueMapID": 200,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      5
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 4,
+    "PosX": 550,
+    "RogueMapID": 200,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      6
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 5,
+    "PosX": 400,
+    "RogueMapID": 200,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      71,
+      72
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 6,
+    "PosX": 400,
+    "RogueMapID": 200,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      8
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 71,
+    "PosX": 550,
+    "RogueMapID": 200,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      8
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 72,
+    "PosX": 400,
+    "RogueMapID": 200,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      9
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 8,
+    "PosX": 400,
+    "RogueMapID": 200,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      10
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 9,
+    "PosX": 550,
+    "RogueMapID": 200,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      111,
+      112
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 10,
+    "PosX": 400,
+    "RogueMapID": 200,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      12
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 111,
+    "PosX": 400,
+    "RogueMapID": 200,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      12
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 112,
+    "PosX": 550,
+    "RogueMapID": 200,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      13
+    ],
+    "PosY": -480,
+    "MonsterWarningRatio": 0,
+    "SiteID": 12,
+    "PosX": 1150,
+    "RogueMapID": 200,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [],
+    "PosY": -240,
+    "MonsterWarningRatio": 0,
+    "SiteID": 13,
+    "PosX": 250,
+    "RogueMapID": 200,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      21,
+      22
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 1,
+    "PosX": 100,
+    "RogueMapID": 201,
+    "IsStart": true
+  },
+  {
+    "NextSiteIDList": [
+      31,
+      32
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 21,
+    "PosX": 250,
+    "RogueMapID": 201,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      31,
+      32
+    ],
+    "PosY": -480,
+    "MonsterWarningRatio": 0,
+    "SiteID": 22,
+    "PosX": 250,
+    "RogueMapID": 201,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      4
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 31,
+    "PosX": 400,
+    "RogueMapID": 201,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      4
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 32,
+    "PosX": 400,
+    "RogueMapID": 201,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      5
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 4,
+    "PosX": 550,
+    "RogueMapID": 201,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      6
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 5,
+    "PosX": 400,
+    "RogueMapID": 201,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      71,
+      72
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 6,
+    "PosX": 400,
+    "RogueMapID": 201,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      8
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 71,
+    "PosX": 550,
+    "RogueMapID": 201,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      8
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 72,
+    "PosX": 400,
+    "RogueMapID": 201,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      9
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 8,
+    "PosX": 400,
+    "RogueMapID": 201,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      10
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 9,
+    "PosX": 550,
+    "RogueMapID": 201,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      111,
+      112
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 10,
+    "PosX": 400,
+    "RogueMapID": 201,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      12
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 111,
+    "PosX": 400,
+    "RogueMapID": 201,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      12
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 112,
+    "PosX": 550,
+    "RogueMapID": 201,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      13
+    ],
+    "PosY": -480,
+    "MonsterWarningRatio": 0,
+    "SiteID": 12,
+    "PosX": 1150,
+    "RogueMapID": 201,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [],
+    "PosY": -240,
+    "MonsterWarningRatio": 0,
+    "SiteID": 13,
+    "PosX": 250,
+    "RogueMapID": 201,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      21,
+      22
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 1,
+    "PosX": 100,
+    "RogueMapID": 300,
+    "IsStart": true
+  },
+  {
+    "NextSiteIDList": [
+      31,
+      32
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 21,
+    "PosX": 250,
+    "RogueMapID": 300,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      31,
+      32
+    ],
+    "PosY": -480,
+    "MonsterWarningRatio": 0,
+    "SiteID": 22,
+    "PosX": 250,
+    "RogueMapID": 300,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      4
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 31,
+    "PosX": 400,
+    "RogueMapID": 300,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      4
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 32,
+    "PosX": 400,
+    "RogueMapID": 300,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      5
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 4,
+    "PosX": 550,
+    "RogueMapID": 300,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      6
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 5,
+    "PosX": 400,
+    "RogueMapID": 300,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      71,
+      72
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 6,
+    "PosX": 400,
+    "RogueMapID": 300,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      8
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 71,
+    "PosX": 550,
+    "RogueMapID": 300,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      8
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 72,
+    "PosX": 400,
+    "RogueMapID": 300,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      9
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 8,
+    "PosX": 400,
+    "RogueMapID": 300,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      10
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 9,
+    "PosX": 550,
+    "RogueMapID": 300,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      111,
+      112
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 10,
+    "PosX": 400,
+    "RogueMapID": 300,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      12
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 111,
+    "PosX": 400,
+    "RogueMapID": 300,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      12
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 112,
+    "PosX": 550,
+    "RogueMapID": 300,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      13
+    ],
+    "PosY": -480,
+    "MonsterWarningRatio": 0,
+    "SiteID": 12,
+    "PosX": 1150,
+    "RogueMapID": 300,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [],
+    "PosY": -240,
+    "MonsterWarningRatio": 0,
+    "SiteID": 13,
+    "PosX": 250,
+    "RogueMapID": 300,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      21,
+      22
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 1,
+    "PosX": 100,
+    "RogueMapID": 301,
+    "IsStart": true
+  },
+  {
+    "NextSiteIDList": [
+      31,
+      32
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 21,
+    "PosX": 250,
+    "RogueMapID": 301,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      31,
+      32
+    ],
+    "PosY": -480,
+    "MonsterWarningRatio": 0,
+    "SiteID": 22,
+    "PosX": 250,
+    "RogueMapID": 301,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      4
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 31,
+    "PosX": 400,
+    "RogueMapID": 301,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      4
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 32,
+    "PosX": 400,
+    "RogueMapID": 301,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      5
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 4,
+    "PosX": 550,
+    "RogueMapID": 301,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      6
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 5,
+    "PosX": 400,
+    "RogueMapID": 301,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      71,
+      72
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 6,
+    "PosX": 400,
+    "RogueMapID": 301,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      8
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 71,
+    "PosX": 550,
+    "RogueMapID": 301,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      8
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 72,
+    "PosX": 400,
+    "RogueMapID": 301,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      9
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 8,
+    "PosX": 400,
+    "RogueMapID": 301,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      10
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 9,
+    "PosX": 550,
+    "RogueMapID": 301,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      111,
+      112
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 10,
+    "PosX": 400,
+    "RogueMapID": 301,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      12
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 111,
+    "PosX": 400,
+    "RogueMapID": 301,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      12
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 112,
+    "PosX": 550,
+    "RogueMapID": 301,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      13
+    ],
+    "PosY": -480,
+    "MonsterWarningRatio": 0,
+    "SiteID": 12,
+    "PosX": 1150,
+    "RogueMapID": 301,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [],
+    "PosY": -240,
+    "MonsterWarningRatio": 0,
+    "SiteID": 13,
+    "PosX": 250,
+    "RogueMapID": 301,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      21,
+      22
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 1,
+    "PosX": 100,
+    "RogueMapID": 302,
+    "IsStart": true
+  },
+  {
+    "NextSiteIDList": [
+      31,
+      32
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 21,
+    "PosX": 250,
+    "RogueMapID": 302,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      31,
+      32
+    ],
+    "PosY": -480,
+    "MonsterWarningRatio": 0,
+    "SiteID": 22,
+    "PosX": 250,
+    "RogueMapID": 302,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      4
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 31,
+    "PosX": 400,
+    "RogueMapID": 302,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      4
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 32,
+    "PosX": 400,
+    "RogueMapID": 302,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      5
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 4,
+    "PosX": 550,
+    "RogueMapID": 302,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      6
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 5,
+    "PosX": 400,
+    "RogueMapID": 302,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      71,
+      72
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 6,
+    "PosX": 400,
+    "RogueMapID": 302,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      8
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 71,
+    "PosX": 550,
+    "RogueMapID": 302,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      8
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 72,
+    "PosX": 400,
+    "RogueMapID": 302,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      9
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 8,
+    "PosX": 400,
+    "RogueMapID": 302,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      10
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 9,
+    "PosX": 550,
+    "RogueMapID": 302,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      111,
+      112
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 10,
+    "PosX": 400,
+    "RogueMapID": 302,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      12
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 111,
+    "PosX": 400,
+    "RogueMapID": 302,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      12
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 112,
+    "PosX": 550,
+    "RogueMapID": 302,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      13
+    ],
+    "PosY": -480,
+    "MonsterWarningRatio": 0,
+    "SiteID": 12,
+    "PosX": 1150,
+    "RogueMapID": 302,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [],
+    "PosY": -240,
+    "MonsterWarningRatio": 0,
+    "SiteID": 13,
+    "PosX": 250,
+    "RogueMapID": 302,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      21,
+      22
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 1,
+    "PosX": 100,
+    "RogueMapID": 303,
+    "IsStart": true
+  },
+  {
+    "NextSiteIDList": [
+      31,
+      32
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 21,
+    "PosX": 250,
+    "RogueMapID": 303,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      31,
+      32
+    ],
+    "PosY": -480,
+    "MonsterWarningRatio": 0,
+    "SiteID": 22,
+    "PosX": 250,
+    "RogueMapID": 303,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      4
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 31,
+    "PosX": 400,
+    "RogueMapID": 303,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      4
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 32,
+    "PosX": 400,
+    "RogueMapID": 303,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      5
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 4,
+    "PosX": 550,
+    "RogueMapID": 303,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      6
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 5,
+    "PosX": 400,
+    "RogueMapID": 303,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      71,
+      72
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 6,
+    "PosX": 400,
+    "RogueMapID": 303,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      8
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 71,
+    "PosX": 550,
+    "RogueMapID": 303,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      8
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 72,
+    "PosX": 400,
+    "RogueMapID": 303,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      9
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 8,
+    "PosX": 400,
+    "RogueMapID": 303,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      10
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 9,
+    "PosX": 550,
+    "RogueMapID": 303,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      111,
+      112
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 10,
+    "PosX": 400,
+    "RogueMapID": 303,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      12
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 111,
+    "PosX": 400,
+    "RogueMapID": 303,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      12
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 112,
+    "PosX": 550,
+    "RogueMapID": 303,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      13
+    ],
+    "PosY": -480,
+    "MonsterWarningRatio": 0,
+    "SiteID": 12,
+    "PosX": 1150,
+    "RogueMapID": 303,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [],
+    "PosY": -240,
+    "MonsterWarningRatio": 0,
+    "SiteID": 13,
+    "PosX": 250,
+    "RogueMapID": 303,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      21,
+      22
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 1,
+    "PosX": 100,
+    "RogueMapID": 304,
+    "IsStart": true
+  },
+  {
+    "NextSiteIDList": [
+      31,
+      32
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 21,
+    "PosX": 250,
+    "RogueMapID": 304,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      31,
+      32
+    ],
+    "PosY": -480,
+    "MonsterWarningRatio": 0,
+    "SiteID": 22,
+    "PosX": 250,
+    "RogueMapID": 304,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      4
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 31,
+    "PosX": 400,
+    "RogueMapID": 304,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      4
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 32,
+    "PosX": 400,
+    "RogueMapID": 304,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      5
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 4,
+    "PosX": 550,
+    "RogueMapID": 304,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      6
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 5,
+    "PosX": 400,
+    "RogueMapID": 304,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      71,
+      72
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 6,
+    "PosX": 400,
+    "RogueMapID": 304,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      8
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 71,
+    "PosX": 550,
+    "RogueMapID": 304,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      8
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 72,
+    "PosX": 400,
+    "RogueMapID": 304,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      9
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 8,
+    "PosX": 400,
+    "RogueMapID": 304,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      10
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 9,
+    "PosX": 550,
+    "RogueMapID": 304,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      111,
+      112
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 10,
+    "PosX": 400,
+    "RogueMapID": 304,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      12
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 111,
+    "PosX": 400,
+    "RogueMapID": 304,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      12
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 112,
+    "PosX": 550,
+    "RogueMapID": 304,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      13
+    ],
+    "PosY": -480,
+    "MonsterWarningRatio": 0,
+    "SiteID": 12,
+    "PosX": 1150,
+    "RogueMapID": 304,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [],
+    "PosY": -240,
+    "MonsterWarningRatio": 0,
+    "SiteID": 13,
+    "PosX": 250,
+    "RogueMapID": 304,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      21,
+      22
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 1,
+    "PosX": 100,
+    "RogueMapID": 305,
+    "IsStart": true
+  },
+  {
+    "NextSiteIDList": [
+      31,
+      32
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 21,
+    "PosX": 250,
+    "RogueMapID": 305,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      31,
+      32
+    ],
+    "PosY": -480,
+    "MonsterWarningRatio": 0,
+    "SiteID": 22,
+    "PosX": 250,
+    "RogueMapID": 305,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      4
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 31,
+    "PosX": 400,
+    "RogueMapID": 305,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      4
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 32,
+    "PosX": 400,
+    "RogueMapID": 305,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      5
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 4,
+    "PosX": 550,
+    "RogueMapID": 305,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      6
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 5,
+    "PosX": 400,
+    "RogueMapID": 305,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      71,
+      72
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 6,
+    "PosX": 400,
+    "RogueMapID": 305,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      8
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 71,
+    "PosX": 550,
+    "RogueMapID": 305,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      8
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 72,
+    "PosX": 400,
+    "RogueMapID": 305,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      9
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 8,
+    "PosX": 400,
+    "RogueMapID": 305,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      10
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 9,
+    "PosX": 550,
+    "RogueMapID": 305,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      111,
+      112
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 10,
+    "PosX": 400,
+    "RogueMapID": 305,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      12
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 111,
+    "PosX": 400,
+    "RogueMapID": 305,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      12
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 112,
+    "PosX": 550,
+    "RogueMapID": 305,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      13
+    ],
+    "PosY": -480,
+    "MonsterWarningRatio": 0,
+    "SiteID": 12,
+    "PosX": 1150,
+    "RogueMapID": 305,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [],
+    "PosY": -240,
+    "MonsterWarningRatio": 0,
+    "SiteID": 13,
+    "PosX": 250,
+    "RogueMapID": 305,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      21,
+      22
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 1,
+    "PosX": 100,
+    "RogueMapID": 401,
+    "IsStart": true
+  },
+  {
+    "NextSiteIDList": [
+      31,
+      32
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 21,
+    "PosX": 250,
+    "RogueMapID": 401,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      31,
+      32
+    ],
+    "PosY": -480,
+    "MonsterWarningRatio": 0,
+    "SiteID": 22,
+    "PosX": 250,
+    "RogueMapID": 401,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      4
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 31,
+    "PosX": 400,
+    "RogueMapID": 401,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      4
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 32,
+    "PosX": 400,
+    "RogueMapID": 401,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      5
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 4,
+    "PosX": 550,
+    "RogueMapID": 401,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      6
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 5,
+    "PosX": 700,
+    "RogueMapID": 401,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      71,
+      72
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 6,
+    "PosX": 850,
+    "RogueMapID": 401,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      8
+    ],
+    "PosY": -480,
+    "MonsterWarningRatio": 0,
+    "SiteID": 71,
+    "PosX": 700,
+    "RogueMapID": 401,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      8
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 72,
+    "PosX": 1000,
+    "RogueMapID": 401,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      9
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 8,
+    "PosX": 1000,
+    "RogueMapID": 401,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      10
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 9,
+    "PosX": 1150,
+    "RogueMapID": 401,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      111,
+      112
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 10,
+    "PosX": 1300,
+    "RogueMapID": 401,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      12
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 111,
+    "PosX": 1450,
+    "RogueMapID": 401,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      12
+    ],
+    "PosY": -480,
+    "MonsterWarningRatio": 0,
+    "SiteID": 112,
+    "PosX": 1150,
+    "RogueMapID": 401,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      13
+    ],
+    "PosY": -240,
+    "MonsterWarningRatio": 0,
+    "SiteID": 12,
+    "PosX": 100,
+    "RogueMapID": 401,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [],
+    "PosY": -240,
+    "MonsterWarningRatio": 0,
+    "SiteID": 13,
+    "PosX": 100,
+    "RogueMapID": 401,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      21,
+      22
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 1,
+    "PosX": 100,
+    "RogueMapID": 402,
+    "IsStart": true
+  },
+  {
+    "NextSiteIDList": [
+      31,
+      32
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 21,
+    "PosX": 250,
+    "RogueMapID": 402,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      31,
+      32
+    ],
+    "PosY": -480,
+    "MonsterWarningRatio": 0,
+    "SiteID": 22,
+    "PosX": 250,
+    "RogueMapID": 402,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      4
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 31,
+    "PosX": 400,
+    "RogueMapID": 402,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      4
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 32,
+    "PosX": 400,
+    "RogueMapID": 402,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      5
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 4,
+    "PosX": 550,
+    "RogueMapID": 402,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      6
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 5,
+    "PosX": 700,
+    "RogueMapID": 402,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      71,
+      72
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 6,
+    "PosX": 850,
+    "RogueMapID": 402,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      8
+    ],
+    "PosY": -480,
+    "MonsterWarningRatio": 0,
+    "SiteID": 71,
+    "PosX": 700,
+    "RogueMapID": 402,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      8
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 72,
+    "PosX": 1000,
+    "RogueMapID": 402,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      9
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 8,
+    "PosX": 1000,
+    "RogueMapID": 402,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      10
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 9,
+    "PosX": 1150,
+    "RogueMapID": 402,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      111,
+      112
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 10,
+    "PosX": 1300,
+    "RogueMapID": 402,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      12
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 111,
+    "PosX": 1450,
+    "RogueMapID": 402,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      12
+    ],
+    "PosY": -480,
+    "MonsterWarningRatio": 0,
+    "SiteID": 112,
+    "PosX": 1150,
+    "RogueMapID": 402,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      13
+    ],
+    "PosY": -240,
+    "MonsterWarningRatio": 0,
+    "SiteID": 12,
+    "PosX": 100,
+    "RogueMapID": 402,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [],
+    "PosY": -240,
+    "MonsterWarningRatio": 0,
+    "SiteID": 13,
+    "PosX": 100,
+    "RogueMapID": 402,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      21,
+      22
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 1,
+    "PosX": 100,
+    "RogueMapID": 403,
+    "IsStart": true
+  },
+  {
+    "NextSiteIDList": [
+      31,
+      32
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 21,
+    "PosX": 250,
+    "RogueMapID": 403,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      31,
+      32
+    ],
+    "PosY": -480,
+    "MonsterWarningRatio": 0,
+    "SiteID": 22,
+    "PosX": 250,
+    "RogueMapID": 403,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      4
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 31,
+    "PosX": 400,
+    "RogueMapID": 403,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      4
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 32,
+    "PosX": 400,
+    "RogueMapID": 403,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      5
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 4,
+    "PosX": 550,
+    "RogueMapID": 403,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      6
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 5,
+    "PosX": 700,
+    "RogueMapID": 403,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      71,
+      72
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 6,
+    "PosX": 850,
+    "RogueMapID": 403,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      8
+    ],
+    "PosY": -480,
+    "MonsterWarningRatio": 0,
+    "SiteID": 71,
+    "PosX": 700,
+    "RogueMapID": 403,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      8
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 72,
+    "PosX": 1000,
+    "RogueMapID": 403,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      9
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 8,
+    "PosX": 1000,
+    "RogueMapID": 403,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      10
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 9,
+    "PosX": 1150,
+    "RogueMapID": 403,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      111,
+      112
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 10,
+    "PosX": 1300,
+    "RogueMapID": 403,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      12
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 111,
+    "PosX": 1450,
+    "RogueMapID": 403,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      12
+    ],
+    "PosY": -480,
+    "MonsterWarningRatio": 0,
+    "SiteID": 112,
+    "PosX": 1150,
+    "RogueMapID": 403,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      13
+    ],
+    "PosY": -240,
+    "MonsterWarningRatio": 0,
+    "SiteID": 12,
+    "PosX": 100,
+    "RogueMapID": 403,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [],
+    "PosY": -240,
+    "MonsterWarningRatio": 0,
+    "SiteID": 13,
+    "PosX": 100,
+    "RogueMapID": 403,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      21,
+      22
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 1,
+    "PosX": 100,
+    "RogueMapID": 404,
+    "IsStart": true
+  },
+  {
+    "NextSiteIDList": [
+      31,
+      32
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 21,
+    "PosX": 250,
+    "RogueMapID": 404,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      31,
+      32
+    ],
+    "PosY": -480,
+    "MonsterWarningRatio": 0,
+    "SiteID": 22,
+    "PosX": 250,
+    "RogueMapID": 404,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      4
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 31,
+    "PosX": 400,
+    "RogueMapID": 404,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      4
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 32,
+    "PosX": 400,
+    "RogueMapID": 404,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      5
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 4,
+    "PosX": 550,
+    "RogueMapID": 404,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      6
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 5,
+    "PosX": 700,
+    "RogueMapID": 404,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      71,
+      72
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 6,
+    "PosX": 850,
+    "RogueMapID": 404,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      8
+    ],
+    "PosY": -480,
+    "MonsterWarningRatio": 0,
+    "SiteID": 71,
+    "PosX": 700,
+    "RogueMapID": 404,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      8
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 72,
+    "PosX": 1000,
+    "RogueMapID": 404,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      9
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 8,
+    "PosX": 1000,
+    "RogueMapID": 404,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      10
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 9,
+    "PosX": 1150,
+    "RogueMapID": 404,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      111,
+      112
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 10,
+    "PosX": 1300,
+    "RogueMapID": 404,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      12
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 111,
+    "PosX": 1450,
+    "RogueMapID": 404,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      12
+    ],
+    "PosY": -480,
+    "MonsterWarningRatio": 0,
+    "SiteID": 112,
+    "PosX": 1150,
+    "RogueMapID": 404,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      13
+    ],
+    "PosY": -240,
+    "MonsterWarningRatio": 0,
+    "SiteID": 12,
+    "PosX": 100,
+    "RogueMapID": 404,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [],
+    "PosY": -240,
+    "MonsterWarningRatio": 0,
+    "SiteID": 13,
+    "PosX": 100,
+    "RogueMapID": 404,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      21,
+      22
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 1,
+    "PosX": 100,
+    "RogueMapID": 405,
+    "IsStart": true
+  },
+  {
+    "NextSiteIDList": [
+      31,
+      32
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 21,
+    "PosX": 250,
+    "RogueMapID": 405,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      31,
+      32
+    ],
+    "PosY": -480,
+    "MonsterWarningRatio": 0,
+    "SiteID": 22,
+    "PosX": 250,
+    "RogueMapID": 405,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      4
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 31,
+    "PosX": 400,
+    "RogueMapID": 405,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      4
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 32,
+    "PosX": 400,
+    "RogueMapID": 405,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      5
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 4,
+    "PosX": 550,
+    "RogueMapID": 405,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      6
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 5,
+    "PosX": 700,
+    "RogueMapID": 405,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      71,
+      72
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 6,
+    "PosX": 850,
+    "RogueMapID": 405,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      8
+    ],
+    "PosY": -480,
+    "MonsterWarningRatio": 0,
+    "SiteID": 71,
+    "PosX": 700,
+    "RogueMapID": 405,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      8
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 72,
+    "PosX": 1000,
+    "RogueMapID": 405,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      9
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 8,
+    "PosX": 1000,
+    "RogueMapID": 405,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      10
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 9,
+    "PosX": 1150,
+    "RogueMapID": 405,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      111,
+      112
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 10,
+    "PosX": 1300,
+    "RogueMapID": 405,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      12
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 111,
+    "PosX": 1450,
+    "RogueMapID": 405,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      12
+    ],
+    "PosY": -480,
+    "MonsterWarningRatio": 0,
+    "SiteID": 112,
+    "PosX": 1150,
+    "RogueMapID": 405,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      13
+    ],
+    "PosY": -240,
+    "MonsterWarningRatio": 0,
+    "SiteID": 12,
+    "PosX": 100,
+    "RogueMapID": 405,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [],
+    "PosY": -240,
+    "MonsterWarningRatio": 0,
+    "SiteID": 13,
+    "PosX": 100,
+    "RogueMapID": 405,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      21,
+      22
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 1,
+    "PosX": 100,
+    "RogueMapID": 501,
+    "IsStart": true
+  },
+  {
+    "NextSiteIDList": [
+      31,
+      32
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 21,
+    "PosX": 250,
+    "RogueMapID": 501,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      31,
+      32
+    ],
+    "PosY": -480,
+    "MonsterWarningRatio": 0,
+    "SiteID": 22,
+    "PosX": 250,
+    "RogueMapID": 501,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      4
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 31,
+    "PosX": 400,
+    "RogueMapID": 501,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      4
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 32,
+    "PosX": 400,
+    "RogueMapID": 501,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      5
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 4,
+    "PosX": 550,
+    "RogueMapID": 501,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      6
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 5,
+    "PosX": 700,
+    "RogueMapID": 501,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      71,
+      72
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 6,
+    "PosX": 850,
+    "RogueMapID": 501,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      8
+    ],
+    "PosY": -480,
+    "MonsterWarningRatio": 0,
+    "SiteID": 71,
+    "PosX": 700,
+    "RogueMapID": 501,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      8
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 72,
+    "PosX": 1000,
+    "RogueMapID": 501,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      9
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 8,
+    "PosX": 1000,
+    "RogueMapID": 501,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      10
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 9,
+    "PosX": 1150,
+    "RogueMapID": 501,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      111,
+      112
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 10,
+    "PosX": 1300,
+    "RogueMapID": 501,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      12
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 111,
+    "PosX": 1450,
+    "RogueMapID": 501,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      12
+    ],
+    "PosY": -480,
+    "MonsterWarningRatio": 0,
+    "SiteID": 112,
+    "PosX": 1150,
+    "RogueMapID": 501,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      13
+    ],
+    "PosY": -240,
+    "MonsterWarningRatio": 0,
+    "SiteID": 12,
+    "PosX": 100,
+    "RogueMapID": 501,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [],
+    "PosY": -240,
+    "MonsterWarningRatio": 0,
+    "SiteID": 13,
+    "PosX": 100,
+    "RogueMapID": 501,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      21,
+      22
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 1,
+    "PosX": 100,
+    "RogueMapID": 502,
+    "IsStart": true
+  },
+  {
+    "NextSiteIDList": [
+      31,
+      32
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 21,
+    "PosX": 250,
+    "RogueMapID": 502,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      31,
+      32
+    ],
+    "PosY": -480,
+    "MonsterWarningRatio": 0,
+    "SiteID": 22,
+    "PosX": 250,
+    "RogueMapID": 502,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      4
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 31,
+    "PosX": 400,
+    "RogueMapID": 502,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      4
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 32,
+    "PosX": 400,
+    "RogueMapID": 502,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      5
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 4,
+    "PosX": 550,
+    "RogueMapID": 502,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      6
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 5,
+    "PosX": 700,
+    "RogueMapID": 502,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      71,
+      72
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 6,
+    "PosX": 850,
+    "RogueMapID": 502,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      8
+    ],
+    "PosY": -480,
+    "MonsterWarningRatio": 0,
+    "SiteID": 71,
+    "PosX": 700,
+    "RogueMapID": 502,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      8
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 72,
+    "PosX": 1000,
+    "RogueMapID": 502,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      9
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 8,
+    "PosX": 1000,
+    "RogueMapID": 502,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      10
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 9,
+    "PosX": 1150,
+    "RogueMapID": 502,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      111,
+      112
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 10,
+    "PosX": 1300,
+    "RogueMapID": 502,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      12
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 111,
+    "PosX": 1450,
+    "RogueMapID": 502,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      12
+    ],
+    "PosY": -480,
+    "MonsterWarningRatio": 0,
+    "SiteID": 112,
+    "PosX": 1150,
+    "RogueMapID": 502,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      13
+    ],
+    "PosY": -240,
+    "MonsterWarningRatio": 0,
+    "SiteID": 12,
+    "PosX": 100,
+    "RogueMapID": 502,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [],
+    "PosY": -240,
+    "MonsterWarningRatio": 0,
+    "SiteID": 13,
+    "PosX": 100,
+    "RogueMapID": 502,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      21,
+      22
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 1,
+    "PosX": 100,
+    "RogueMapID": 503,
+    "IsStart": true
+  },
+  {
+    "NextSiteIDList": [
+      31,
+      32
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 21,
+    "PosX": 250,
+    "RogueMapID": 503,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      31,
+      32
+    ],
+    "PosY": -480,
+    "MonsterWarningRatio": 0,
+    "SiteID": 22,
+    "PosX": 250,
+    "RogueMapID": 503,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      4
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 31,
+    "PosX": 400,
+    "RogueMapID": 503,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      4
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 32,
+    "PosX": 400,
+    "RogueMapID": 503,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      5
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 4,
+    "PosX": 550,
+    "RogueMapID": 503,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      6
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 5,
+    "PosX": 700,
+    "RogueMapID": 503,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      71,
+      72
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 6,
+    "PosX": 850,
+    "RogueMapID": 503,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      8
+    ],
+    "PosY": -480,
+    "MonsterWarningRatio": 0,
+    "SiteID": 71,
+    "PosX": 700,
+    "RogueMapID": 503,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      8
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 72,
+    "PosX": 1000,
+    "RogueMapID": 503,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      9
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 8,
+    "PosX": 1000,
+    "RogueMapID": 503,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      10
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 9,
+    "PosX": 1150,
+    "RogueMapID": 503,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      111,
+      112
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 10,
+    "PosX": 1300,
+    "RogueMapID": 503,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      12
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 111,
+    "PosX": 1450,
+    "RogueMapID": 503,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      12
+    ],
+    "PosY": -480,
+    "MonsterWarningRatio": 0,
+    "SiteID": 112,
+    "PosX": 1150,
+    "RogueMapID": 503,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      13
+    ],
+    "PosY": -240,
+    "MonsterWarningRatio": 0,
+    "SiteID": 12,
+    "PosX": 100,
+    "RogueMapID": 503,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [],
+    "PosY": -240,
+    "MonsterWarningRatio": 0,
+    "SiteID": 13,
+    "PosX": 100,
+    "RogueMapID": 503,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      21,
+      22
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 1,
+    "PosX": 100,
+    "RogueMapID": 504,
+    "IsStart": true
+  },
+  {
+    "NextSiteIDList": [
+      31,
+      32
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 21,
+    "PosX": 250,
+    "RogueMapID": 504,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      31,
+      32
+    ],
+    "PosY": -480,
+    "MonsterWarningRatio": 0,
+    "SiteID": 22,
+    "PosX": 250,
+    "RogueMapID": 504,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      4
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 31,
+    "PosX": 400,
+    "RogueMapID": 504,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      4
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 32,
+    "PosX": 400,
+    "RogueMapID": 504,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      5
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 4,
+    "PosX": 550,
+    "RogueMapID": 504,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      6
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 5,
+    "PosX": 700,
+    "RogueMapID": 504,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      71,
+      72
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 6,
+    "PosX": 850,
+    "RogueMapID": 504,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      8
+    ],
+    "PosY": -480,
+    "MonsterWarningRatio": 0,
+    "SiteID": 71,
+    "PosX": 700,
+    "RogueMapID": 504,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      8
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 72,
+    "PosX": 1000,
+    "RogueMapID": 504,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      9
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 8,
+    "PosX": 1000,
+    "RogueMapID": 504,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      10
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 9,
+    "PosX": 1150,
+    "RogueMapID": 504,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      111,
+      112
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 10,
+    "PosX": 1300,
+    "RogueMapID": 504,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      12
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 111,
+    "PosX": 1450,
+    "RogueMapID": 504,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      12
+    ],
+    "PosY": -480,
+    "MonsterWarningRatio": 0,
+    "SiteID": 112,
+    "PosX": 1150,
+    "RogueMapID": 504,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      13
+    ],
+    "PosY": -240,
+    "MonsterWarningRatio": 0,
+    "SiteID": 12,
+    "PosX": 100,
+    "RogueMapID": 504,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [],
+    "PosY": -240,
+    "MonsterWarningRatio": 0,
+    "SiteID": 13,
+    "PosX": 100,
+    "RogueMapID": 504,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      21,
+      22
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 1,
+    "PosX": 100,
+    "RogueMapID": 601,
+    "IsStart": true
+  },
+  {
+    "NextSiteIDList": [
+      31,
+      32
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 21,
+    "PosX": 250,
+    "RogueMapID": 601,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      31,
+      32
+    ],
+    "PosY": -480,
+    "MonsterWarningRatio": 0,
+    "SiteID": 22,
+    "PosX": 250,
+    "RogueMapID": 601,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      4
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 31,
+    "PosX": 400,
+    "RogueMapID": 601,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      4
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 32,
+    "PosX": 400,
+    "RogueMapID": 601,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      5
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 4,
+    "PosX": 550,
+    "RogueMapID": 601,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      6
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 5,
+    "PosX": 700,
+    "RogueMapID": 601,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      71,
+      72
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 6,
+    "PosX": 850,
+    "RogueMapID": 601,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      8
+    ],
+    "PosY": -480,
+    "MonsterWarningRatio": 0,
+    "SiteID": 71,
+    "PosX": 700,
+    "RogueMapID": 601,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      8
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 72,
+    "PosX": 1000,
+    "RogueMapID": 601,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      9
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 8,
+    "PosX": 1000,
+    "RogueMapID": 601,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      10
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 9,
+    "PosX": 1150,
+    "RogueMapID": 601,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      111,
+      112
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 10,
+    "PosX": 1300,
+    "RogueMapID": 601,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      12
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 111,
+    "PosX": 1450,
+    "RogueMapID": 601,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      12
+    ],
+    "PosY": -480,
+    "MonsterWarningRatio": 0,
+    "SiteID": 112,
+    "PosX": 1150,
+    "RogueMapID": 601,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      13
+    ],
+    "PosY": -240,
+    "MonsterWarningRatio": 0,
+    "SiteID": 12,
+    "PosX": 100,
+    "RogueMapID": 601,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [],
+    "PosY": -240,
+    "MonsterWarningRatio": 0,
+    "SiteID": 13,
+    "PosX": 100,
+    "RogueMapID": 601,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      21,
+      22
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 1,
+    "PosX": 100,
+    "RogueMapID": 602,
+    "IsStart": true
+  },
+  {
+    "NextSiteIDList": [
+      31,
+      32
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 21,
+    "PosX": 250,
+    "RogueMapID": 602,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      31,
+      32
+    ],
+    "PosY": -480,
+    "MonsterWarningRatio": 0,
+    "SiteID": 22,
+    "PosX": 250,
+    "RogueMapID": 602,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      4
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 31,
+    "PosX": 400,
+    "RogueMapID": 602,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      4
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 32,
+    "PosX": 400,
+    "RogueMapID": 602,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      5
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 4,
+    "PosX": 550,
+    "RogueMapID": 602,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      6
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 5,
+    "PosX": 700,
+    "RogueMapID": 602,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      71,
+      72
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 6,
+    "PosX": 850,
+    "RogueMapID": 602,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      8
+    ],
+    "PosY": -480,
+    "MonsterWarningRatio": 0,
+    "SiteID": 71,
+    "PosX": 700,
+    "RogueMapID": 602,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      8
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 72,
+    "PosX": 1000,
+    "RogueMapID": 602,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      9
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 8,
+    "PosX": 1000,
+    "RogueMapID": 602,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      10
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 9,
+    "PosX": 1150,
+    "RogueMapID": 602,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      111,
+      112
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 10,
+    "PosX": 1300,
+    "RogueMapID": 602,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      12
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 111,
+    "PosX": 1450,
+    "RogueMapID": 602,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      12
+    ],
+    "PosY": -480,
+    "MonsterWarningRatio": 0,
+    "SiteID": 112,
+    "PosX": 1150,
+    "RogueMapID": 602,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      13
+    ],
+    "PosY": -240,
+    "MonsterWarningRatio": 0,
+    "SiteID": 12,
+    "PosX": 100,
+    "RogueMapID": 602,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [],
+    "PosY": -240,
+    "MonsterWarningRatio": 0,
+    "SiteID": 13,
+    "PosX": 100,
+    "RogueMapID": 602,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      21,
+      22
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 1,
+    "PosX": 100,
+    "RogueMapID": 603,
+    "IsStart": true
+  },
+  {
+    "NextSiteIDList": [
+      31,
+      32
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 21,
+    "PosX": 250,
+    "RogueMapID": 603,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      31,
+      32
+    ],
+    "PosY": -480,
+    "MonsterWarningRatio": 0,
+    "SiteID": 22,
+    "PosX": 250,
+    "RogueMapID": 603,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      4
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 31,
+    "PosX": 400,
+    "RogueMapID": 603,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      4
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 32,
+    "PosX": 400,
+    "RogueMapID": 603,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      5
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 4,
+    "PosX": 550,
+    "RogueMapID": 603,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      6
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 5,
+    "PosX": 700,
+    "RogueMapID": 603,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      71,
+      72
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 6,
+    "PosX": 850,
+    "RogueMapID": 603,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      8
+    ],
+    "PosY": -480,
+    "MonsterWarningRatio": 0,
+    "SiteID": 71,
+    "PosX": 700,
+    "RogueMapID": 603,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      8
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 72,
+    "PosX": 1000,
+    "RogueMapID": 603,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      9
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 8,
+    "PosX": 1000,
+    "RogueMapID": 603,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      10
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 9,
+    "PosX": 1150,
+    "RogueMapID": 603,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      111,
+      112
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 10,
+    "PosX": 1300,
+    "RogueMapID": 603,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      12
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 111,
+    "PosX": 1450,
+    "RogueMapID": 603,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      12
+    ],
+    "PosY": -480,
+    "MonsterWarningRatio": 0,
+    "SiteID": 112,
+    "PosX": 1150,
+    "RogueMapID": 603,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      13
+    ],
+    "PosY": -240,
+    "MonsterWarningRatio": 0,
+    "SiteID": 12,
+    "PosX": 100,
+    "RogueMapID": 603,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [],
+    "PosY": -240,
+    "MonsterWarningRatio": 0,
+    "SiteID": 13,
+    "PosX": 100,
+    "RogueMapID": 603,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      21,
+      22
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 1,
+    "PosX": 100,
+    "RogueMapID": 604,
+    "IsStart": true
+  },
+  {
+    "NextSiteIDList": [
+      31,
+      32
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 21,
+    "PosX": 250,
+    "RogueMapID": 604,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      31,
+      32
+    ],
+    "PosY": -480,
+    "MonsterWarningRatio": 0,
+    "SiteID": 22,
+    "PosX": 250,
+    "RogueMapID": 604,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      4
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 31,
+    "PosX": 400,
+    "RogueMapID": 604,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      4
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 32,
+    "PosX": 400,
+    "RogueMapID": 604,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      5
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 4,
+    "PosX": 550,
+    "RogueMapID": 604,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      6
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 5,
+    "PosX": 700,
+    "RogueMapID": 604,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      71,
+      72
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 6,
+    "PosX": 850,
+    "RogueMapID": 604,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      8
+    ],
+    "PosY": -480,
+    "MonsterWarningRatio": 0,
+    "SiteID": 71,
+    "PosX": 700,
+    "RogueMapID": 604,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      8
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 72,
+    "PosX": 1000,
+    "RogueMapID": 604,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      9
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 8,
+    "PosX": 1000,
+    "RogueMapID": 604,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      10
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 9,
+    "PosX": 1150,
+    "RogueMapID": 604,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      111,
+      112
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 10,
+    "PosX": 1300,
+    "RogueMapID": 604,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      12
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 111,
+    "PosX": 1450,
+    "RogueMapID": 604,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      12
+    ],
+    "PosY": -480,
+    "MonsterWarningRatio": 0,
+    "SiteID": 112,
+    "PosX": 1150,
+    "RogueMapID": 604,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      13
+    ],
+    "PosY": -240,
+    "MonsterWarningRatio": 0,
+    "SiteID": 12,
+    "PosX": 100,
+    "RogueMapID": 604,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [],
+    "PosY": -240,
+    "MonsterWarningRatio": 0,
+    "SiteID": 13,
+    "PosX": 100,
+    "RogueMapID": 604,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      21,
+      22
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 1,
+    "PosX": 100,
+    "RogueMapID": 701,
+    "IsStart": true
+  },
+  {
+    "NextSiteIDList": [
+      31,
+      32
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 21,
+    "PosX": 250,
+    "RogueMapID": 701,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      31,
+      32
+    ],
+    "PosY": -480,
+    "MonsterWarningRatio": 0,
+    "SiteID": 22,
+    "PosX": 250,
+    "RogueMapID": 701,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      4
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 31,
+    "PosX": 400,
+    "RogueMapID": 701,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      4
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 32,
+    "PosX": 400,
+    "RogueMapID": 701,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      5
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 4,
+    "PosX": 550,
+    "RogueMapID": 701,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      6
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 5,
+    "PosX": 700,
+    "RogueMapID": 701,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      71,
+      72
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 6,
+    "PosX": 850,
+    "RogueMapID": 701,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      8
+    ],
+    "PosY": -480,
+    "MonsterWarningRatio": 0,
+    "SiteID": 71,
+    "PosX": 700,
+    "RogueMapID": 701,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      8
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 72,
+    "PosX": 1000,
+    "RogueMapID": 701,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      9
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 8,
+    "PosX": 1000,
+    "RogueMapID": 701,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      10
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 9,
+    "PosX": 1150,
+    "RogueMapID": 701,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      111,
+      112
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 10,
+    "PosX": 1300,
+    "RogueMapID": 701,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      12
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 111,
+    "PosX": 1450,
+    "RogueMapID": 701,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      12
+    ],
+    "PosY": -480,
+    "MonsterWarningRatio": 0,
+    "SiteID": 112,
+    "PosX": 1150,
+    "RogueMapID": 701,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      13
+    ],
+    "PosY": -240,
+    "MonsterWarningRatio": 0,
+    "SiteID": 12,
+    "PosX": 100,
+    "RogueMapID": 701,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [],
+    "PosY": -240,
+    "MonsterWarningRatio": 0,
+    "SiteID": 13,
+    "PosX": 100,
+    "RogueMapID": 701,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      21,
+      22
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 1,
+    "PosX": 100,
+    "RogueMapID": 702,
+    "IsStart": true
+  },
+  {
+    "NextSiteIDList": [
+      31,
+      32
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 21,
+    "PosX": 250,
+    "RogueMapID": 702,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      31,
+      32
+    ],
+    "PosY": -480,
+    "MonsterWarningRatio": 0,
+    "SiteID": 22,
+    "PosX": 250,
+    "RogueMapID": 702,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      4
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 31,
+    "PosX": 400,
+    "RogueMapID": 702,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      4
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 32,
+    "PosX": 400,
+    "RogueMapID": 702,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      5
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 4,
+    "PosX": 550,
+    "RogueMapID": 702,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      6
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 5,
+    "PosX": 700,
+    "RogueMapID": 702,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      71,
+      72
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 6,
+    "PosX": 850,
+    "RogueMapID": 702,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      8
+    ],
+    "PosY": -480,
+    "MonsterWarningRatio": 0,
+    "SiteID": 71,
+    "PosX": 700,
+    "RogueMapID": 702,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      8
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 72,
+    "PosX": 1000,
+    "RogueMapID": 702,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      9
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 8,
+    "PosX": 1000,
+    "RogueMapID": 702,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      10
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 9,
+    "PosX": 1150,
+    "RogueMapID": 702,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      111,
+      112
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 10,
+    "PosX": 1300,
+    "RogueMapID": 702,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      12
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 111,
+    "PosX": 1450,
+    "RogueMapID": 702,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      12
+    ],
+    "PosY": -480,
+    "MonsterWarningRatio": 0,
+    "SiteID": 112,
+    "PosX": 1150,
+    "RogueMapID": 702,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      13
+    ],
+    "PosY": -240,
+    "MonsterWarningRatio": 0,
+    "SiteID": 12,
+    "PosX": 100,
+    "RogueMapID": 702,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [],
+    "PosY": -240,
+    "MonsterWarningRatio": 0,
+    "SiteID": 13,
+    "PosX": 100,
+    "RogueMapID": 702,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      21,
+      22
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 1,
+    "PosX": 100,
+    "RogueMapID": 703,
+    "IsStart": true
+  },
+  {
+    "NextSiteIDList": [
+      31,
+      32
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 21,
+    "PosX": 250,
+    "RogueMapID": 703,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      31,
+      32
+    ],
+    "PosY": -480,
+    "MonsterWarningRatio": 0,
+    "SiteID": 22,
+    "PosX": 250,
+    "RogueMapID": 703,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      4
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 31,
+    "PosX": 400,
+    "RogueMapID": 703,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      4
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 32,
+    "PosX": 400,
+    "RogueMapID": 703,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      5
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 4,
+    "PosX": 550,
+    "RogueMapID": 703,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      6
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 5,
+    "PosX": 700,
+    "RogueMapID": 703,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      71,
+      72
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 6,
+    "PosX": 850,
+    "RogueMapID": 703,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      8
+    ],
+    "PosY": -480,
+    "MonsterWarningRatio": 0,
+    "SiteID": 71,
+    "PosX": 700,
+    "RogueMapID": 703,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      8
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 72,
+    "PosX": 1000,
+    "RogueMapID": 703,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      9
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 8,
+    "PosX": 1000,
+    "RogueMapID": 703,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      10
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 9,
+    "PosX": 1150,
+    "RogueMapID": 703,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      111,
+      112
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 10,
+    "PosX": 1300,
+    "RogueMapID": 703,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      12
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 111,
+    "PosX": 1450,
+    "RogueMapID": 703,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      12
+    ],
+    "PosY": -480,
+    "MonsterWarningRatio": 0,
+    "SiteID": 112,
+    "PosX": 1150,
+    "RogueMapID": 703,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      13
+    ],
+    "PosY": -240,
+    "MonsterWarningRatio": 0,
+    "SiteID": 12,
+    "PosX": 100,
+    "RogueMapID": 703,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [],
+    "PosY": -240,
+    "MonsterWarningRatio": 0,
+    "SiteID": 13,
+    "PosX": 100,
+    "RogueMapID": 703,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      21,
+      22
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 1,
+    "PosX": 100,
+    "RogueMapID": 704,
+    "IsStart": true
+  },
+  {
+    "NextSiteIDList": [
+      31,
+      32
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 21,
+    "PosX": 250,
+    "RogueMapID": 704,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      31,
+      32
+    ],
+    "PosY": -480,
+    "MonsterWarningRatio": 0,
+    "SiteID": 22,
+    "PosX": 250,
+    "RogueMapID": 704,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      4
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 31,
+    "PosX": 400,
+    "RogueMapID": 704,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      4
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 32,
+    "PosX": 400,
+    "RogueMapID": 704,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      5
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 4,
+    "PosX": 550,
+    "RogueMapID": 704,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      6
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 5,
+    "PosX": 700,
+    "RogueMapID": 704,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      71,
+      72
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 6,
+    "PosX": 850,
+    "RogueMapID": 704,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      8
+    ],
+    "PosY": -480,
+    "MonsterWarningRatio": 0,
+    "SiteID": 71,
+    "PosX": 700,
+    "RogueMapID": 704,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      8
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 72,
+    "PosX": 1000,
+    "RogueMapID": 704,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      9
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 8,
+    "PosX": 1000,
+    "RogueMapID": 704,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      10
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 9,
+    "PosX": 1150,
+    "RogueMapID": 704,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      111,
+      112
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 10,
+    "PosX": 1300,
+    "RogueMapID": 704,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      12
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 111,
+    "PosX": 1450,
+    "RogueMapID": 704,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      12
+    ],
+    "PosY": -480,
+    "MonsterWarningRatio": 0,
+    "SiteID": 112,
+    "PosX": 1150,
+    "RogueMapID": 704,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      13
+    ],
+    "PosY": -240,
+    "MonsterWarningRatio": 0,
+    "SiteID": 12,
+    "PosX": 100,
+    "RogueMapID": 704,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [],
+    "PosY": -240,
+    "MonsterWarningRatio": 0,
+    "SiteID": 13,
+    "PosX": 100,
+    "RogueMapID": 704,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      21,
+      22
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 1,
+    "PosX": 100,
+    "RogueMapID": 801,
+    "IsStart": true
+  },
+  {
+    "NextSiteIDList": [
+      31,
+      32
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 21,
+    "PosX": 250,
+    "RogueMapID": 801,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      31,
+      32
+    ],
+    "PosY": -480,
+    "MonsterWarningRatio": 0,
+    "SiteID": 22,
+    "PosX": 250,
+    "RogueMapID": 801,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      4
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 31,
+    "PosX": 400,
+    "RogueMapID": 801,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      4
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 32,
+    "PosX": 400,
+    "RogueMapID": 801,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      5
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 4,
+    "PosX": 550,
+    "RogueMapID": 801,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      6
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 5,
+    "PosX": 700,
+    "RogueMapID": 801,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      71,
+      72
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 6,
+    "PosX": 850,
+    "RogueMapID": 801,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      8
+    ],
+    "PosY": -480,
+    "MonsterWarningRatio": 0,
+    "SiteID": 71,
+    "PosX": 700,
+    "RogueMapID": 801,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      8
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 72,
+    "PosX": 1000,
+    "RogueMapID": 801,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      9
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 8,
+    "PosX": 1000,
+    "RogueMapID": 801,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      10
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 9,
+    "PosX": 1150,
+    "RogueMapID": 801,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      111,
+      112
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 10,
+    "PosX": 1300,
+    "RogueMapID": 801,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      12
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 111,
+    "PosX": 1450,
+    "RogueMapID": 801,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      12
+    ],
+    "PosY": -480,
+    "MonsterWarningRatio": 0,
+    "SiteID": 112,
+    "PosX": 1150,
+    "RogueMapID": 801,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      13
+    ],
+    "PosY": -240,
+    "MonsterWarningRatio": 0,
+    "SiteID": 12,
+    "PosX": 100,
+    "RogueMapID": 801,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [],
+    "PosY": -240,
+    "MonsterWarningRatio": 0,
+    "SiteID": 13,
+    "PosX": 100,
+    "RogueMapID": 801,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      21,
+      22
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 1,
+    "PosX": 100,
+    "RogueMapID": 802,
+    "IsStart": true
+  },
+  {
+    "NextSiteIDList": [
+      31,
+      32
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 21,
+    "PosX": 250,
+    "RogueMapID": 802,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      31,
+      32
+    ],
+    "PosY": -480,
+    "MonsterWarningRatio": 0,
+    "SiteID": 22,
+    "PosX": 250,
+    "RogueMapID": 802,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      4
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 31,
+    "PosX": 400,
+    "RogueMapID": 802,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      4
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 32,
+    "PosX": 400,
+    "RogueMapID": 802,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      5
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 4,
+    "PosX": 550,
+    "RogueMapID": 802,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      6
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 5,
+    "PosX": 700,
+    "RogueMapID": 802,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      71,
+      72
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 6,
+    "PosX": 850,
+    "RogueMapID": 802,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      8
+    ],
+    "PosY": -480,
+    "MonsterWarningRatio": 0,
+    "SiteID": 71,
+    "PosX": 700,
+    "RogueMapID": 802,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      8
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 72,
+    "PosX": 1000,
+    "RogueMapID": 802,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      9
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 8,
+    "PosX": 1000,
+    "RogueMapID": 802,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      10
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 9,
+    "PosX": 1150,
+    "RogueMapID": 802,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      111,
+      112
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 10,
+    "PosX": 1300,
+    "RogueMapID": 802,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      12
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 111,
+    "PosX": 1450,
+    "RogueMapID": 802,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      12
+    ],
+    "PosY": -480,
+    "MonsterWarningRatio": 0,
+    "SiteID": 112,
+    "PosX": 1150,
+    "RogueMapID": 802,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      13
+    ],
+    "PosY": -240,
+    "MonsterWarningRatio": 0,
+    "SiteID": 12,
+    "PosX": 100,
+    "RogueMapID": 802,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [],
+    "PosY": -240,
+    "MonsterWarningRatio": 0,
+    "SiteID": 13,
+    "PosX": 100,
+    "RogueMapID": 802,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      21,
+      22
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 1,
+    "PosX": 100,
+    "RogueMapID": 803,
+    "IsStart": true
+  },
+  {
+    "NextSiteIDList": [
+      31,
+      32
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 21,
+    "PosX": 250,
+    "RogueMapID": 803,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      31,
+      32
+    ],
+    "PosY": -480,
+    "MonsterWarningRatio": 0,
+    "SiteID": 22,
+    "PosX": 250,
+    "RogueMapID": 803,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      4
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 31,
+    "PosX": 400,
+    "RogueMapID": 803,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      4
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 32,
+    "PosX": 400,
+    "RogueMapID": 803,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      5
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 4,
+    "PosX": 550,
+    "RogueMapID": 803,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      6
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 5,
+    "PosX": 700,
+    "RogueMapID": 803,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      71,
+      72
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 6,
+    "PosX": 850,
+    "RogueMapID": 803,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      8
+    ],
+    "PosY": -480,
+    "MonsterWarningRatio": 0,
+    "SiteID": 71,
+    "PosX": 700,
+    "RogueMapID": 803,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      8
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 72,
+    "PosX": 1000,
+    "RogueMapID": 803,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      9
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 8,
+    "PosX": 1000,
+    "RogueMapID": 803,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      10
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 9,
+    "PosX": 1150,
+    "RogueMapID": 803,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      111,
+      112
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 10,
+    "PosX": 1300,
+    "RogueMapID": 803,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      12
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 111,
+    "PosX": 1450,
+    "RogueMapID": 803,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      12
+    ],
+    "PosY": -480,
+    "MonsterWarningRatio": 0,
+    "SiteID": 112,
+    "PosX": 1150,
+    "RogueMapID": 803,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      13
+    ],
+    "PosY": -240,
+    "MonsterWarningRatio": 0,
+    "SiteID": 12,
+    "PosX": 100,
+    "RogueMapID": 803,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [],
+    "PosY": -240,
+    "MonsterWarningRatio": 0,
+    "SiteID": 13,
+    "PosX": 100,
+    "RogueMapID": 803,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      21,
+      22
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 1,
+    "PosX": 100,
+    "RogueMapID": 804,
+    "IsStart": true
+  },
+  {
+    "NextSiteIDList": [
+      31,
+      32
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 21,
+    "PosX": 250,
+    "RogueMapID": 804,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      31,
+      32
+    ],
+    "PosY": -480,
+    "MonsterWarningRatio": 0,
+    "SiteID": 22,
+    "PosX": 250,
+    "RogueMapID": 804,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      4
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 31,
+    "PosX": 400,
+    "RogueMapID": 804,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      4
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 32,
+    "PosX": 400,
+    "RogueMapID": 804,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      5
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 4,
+    "PosX": 550,
+    "RogueMapID": 804,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      6
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 5,
+    "PosX": 700,
+    "RogueMapID": 804,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      71,
+      72
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 6,
+    "PosX": 850,
+    "RogueMapID": 804,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      8
+    ],
+    "PosY": -480,
+    "MonsterWarningRatio": 0,
+    "SiteID": 71,
+    "PosX": 700,
+    "RogueMapID": 804,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      8
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 72,
+    "PosX": 1000,
+    "RogueMapID": 804,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      9
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 8,
+    "PosX": 1000,
+    "RogueMapID": 804,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      10
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 9,
+    "PosX": 1150,
+    "RogueMapID": 804,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      111,
+      112
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 10,
+    "PosX": 1300,
+    "RogueMapID": 804,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      12
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 111,
+    "PosX": 1450,
+    "RogueMapID": 804,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      12
+    ],
+    "PosY": -480,
+    "MonsterWarningRatio": 0,
+    "SiteID": 112,
+    "PosX": 1150,
+    "RogueMapID": 804,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      13
+    ],
+    "PosY": -240,
+    "MonsterWarningRatio": 0,
+    "SiteID": 12,
+    "PosX": 100,
+    "RogueMapID": 804,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [],
+    "PosY": -240,
+    "MonsterWarningRatio": 0,
+    "SiteID": 13,
+    "PosX": 100,
+    "RogueMapID": 804,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [],
+    "PosY": -240,
+    "MonsterWarningRatio": 0,
+    "SiteID": 1,
+    "PosX": 500,
+    "RogueMapID": 100000,
+    "IsStart": true
+  },
+  {
+    "NextSiteIDList": [
+      2
+    ],
+    "PosY": -240,
+    "MonsterWarningRatio": 0,
+    "SiteID": 1,
+    "PosX": 100,
+    "RogueMapID": 10001,
+    "IsStart": true
+  },
+  {
+    "NextSiteIDList": [
+      3
+    ],
+    "PosY": -240,
+    "MonsterWarningRatio": 0,
+    "SiteID": 2,
+    "PosX": 100,
+    "RogueMapID": 10001,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      4
+    ],
+    "PosY": -240,
+    "MonsterWarningRatio": 0,
+    "SiteID": 3,
+    "PosX": 100,
+    "RogueMapID": 10001,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      5
+    ],
+    "PosY": -240,
+    "MonsterWarningRatio": 0,
+    "SiteID": 4,
+    "PosX": 100,
+    "RogueMapID": 10001,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      6
+    ],
+    "PosY": -240,
+    "MonsterWarningRatio": 0,
+    "SiteID": 5,
+    "PosX": 100,
+    "RogueMapID": 10001,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      7
+    ],
+    "PosY": -240,
+    "MonsterWarningRatio": 0,
+    "SiteID": 6,
+    "PosX": 100,
+    "RogueMapID": 10001,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [],
+    "PosY": -240,
+    "MonsterWarningRatio": 0,
+    "SiteID": 7,
+    "PosX": 100,
+    "RogueMapID": 10001,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      2
+    ],
+    "PosY": -240,
+    "MonsterWarningRatio": 0,
+    "SiteID": 1,
+    "PosX": 100,
+    "RogueMapID": 10002,
+    "IsStart": true
+  },
+  {
+    "NextSiteIDList": [
+      3
+    ],
+    "PosY": -240,
+    "MonsterWarningRatio": 0,
+    "SiteID": 2,
+    "PosX": 100,
+    "RogueMapID": 10002,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      4
+    ],
+    "PosY": -240,
+    "MonsterWarningRatio": 0,
+    "SiteID": 3,
+    "PosX": 100,
+    "RogueMapID": 10002,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      5
+    ],
+    "PosY": -240,
+    "MonsterWarningRatio": 0,
+    "SiteID": 4,
+    "PosX": 100,
+    "RogueMapID": 10002,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      6
+    ],
+    "PosY": -240,
+    "MonsterWarningRatio": 0,
+    "SiteID": 5,
+    "PosX": 100,
+    "RogueMapID": 10002,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      7
+    ],
+    "PosY": -240,
+    "MonsterWarningRatio": 0,
+    "SiteID": 6,
+    "PosX": 100,
+    "RogueMapID": 10002,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [],
+    "PosY": -240,
+    "MonsterWarningRatio": 0,
+    "SiteID": 7,
+    "PosX": 100,
+    "RogueMapID": 10002,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      2
+    ],
+    "PosY": -240,
+    "MonsterWarningRatio": 0,
+    "SiteID": 1,
+    "PosX": 100,
+    "RogueMapID": 10003,
+    "IsStart": true
+  },
+  {
+    "NextSiteIDList": [
+      3
+    ],
+    "PosY": -240,
+    "MonsterWarningRatio": 0,
+    "SiteID": 2,
+    "PosX": 100,
+    "RogueMapID": 10003,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      4
+    ],
+    "PosY": -240,
+    "MonsterWarningRatio": 0,
+    "SiteID": 3,
+    "PosX": 100,
+    "RogueMapID": 10003,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      5
+    ],
+    "PosY": -240,
+    "MonsterWarningRatio": 0,
+    "SiteID": 4,
+    "PosX": 100,
+    "RogueMapID": 10003,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      6
+    ],
+    "PosY": -240,
+    "MonsterWarningRatio": 0,
+    "SiteID": 5,
+    "PosX": 100,
+    "RogueMapID": 10003,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      7
+    ],
+    "PosY": -240,
+    "MonsterWarningRatio": 0,
+    "SiteID": 6,
+    "PosX": 100,
+    "RogueMapID": 10003,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [],
+    "PosY": -240,
+    "MonsterWarningRatio": 0,
+    "SiteID": 7,
+    "PosX": 100,
+    "RogueMapID": 10003,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      2
+    ],
+    "PosY": -240,
+    "MonsterWarningRatio": 0,
+    "SiteID": 1,
+    "PosX": 100,
+    "RogueMapID": 10004,
+    "IsStart": true
+  },
+  {
+    "NextSiteIDList": [
+      3
+    ],
+    "PosY": -240,
+    "MonsterWarningRatio": 0,
+    "SiteID": 2,
+    "PosX": 100,
+    "RogueMapID": 10004,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      4
+    ],
+    "PosY": -240,
+    "MonsterWarningRatio": 0,
+    "SiteID": 3,
+    "PosX": 100,
+    "RogueMapID": 10004,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      5
+    ],
+    "PosY": -240,
+    "MonsterWarningRatio": 0,
+    "SiteID": 4,
+    "PosX": 100,
+    "RogueMapID": 10004,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      6
+    ],
+    "PosY": -240,
+    "MonsterWarningRatio": 0,
+    "SiteID": 5,
+    "PosX": 100,
+    "RogueMapID": 10004,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      7
+    ],
+    "PosY": -240,
+    "MonsterWarningRatio": 0,
+    "SiteID": 6,
+    "PosX": 100,
+    "RogueMapID": 10004,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [],
+    "PosY": -240,
+    "MonsterWarningRatio": 0,
+    "SiteID": 7,
+    "PosX": 100,
+    "RogueMapID": 10004,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      2
+    ],
+    "PosY": -240,
+    "MonsterWarningRatio": 0,
+    "SiteID": 1,
+    "PosX": 100,
+    "RogueMapID": 10005,
+    "IsStart": true
+  },
+  {
+    "NextSiteIDList": [
+      3
+    ],
+    "PosY": -240,
+    "MonsterWarningRatio": 0,
+    "SiteID": 2,
+    "PosX": 100,
+    "RogueMapID": 10005,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      4
+    ],
+    "PosY": -240,
+    "MonsterWarningRatio": 0,
+    "SiteID": 3,
+    "PosX": 100,
+    "RogueMapID": 10005,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      5
+    ],
+    "PosY": -240,
+    "MonsterWarningRatio": 0,
+    "SiteID": 4,
+    "PosX": 100,
+    "RogueMapID": 10005,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      6
+    ],
+    "PosY": -240,
+    "MonsterWarningRatio": 0,
+    "SiteID": 5,
+    "PosX": 100,
+    "RogueMapID": 10005,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      7
+    ],
+    "PosY": -240,
+    "MonsterWarningRatio": 0,
+    "SiteID": 6,
+    "PosX": 100,
+    "RogueMapID": 10005,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [],
+    "PosY": -240,
+    "MonsterWarningRatio": 0,
+    "SiteID": 7,
+    "PosX": 100,
+    "RogueMapID": 10005,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      21,
+      22
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 1,
+    "PosX": 100,
+    "RogueMapID": 901,
+    "IsStart": true
+  },
+  {
+    "NextSiteIDList": [
+      31,
+      32
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 21,
+    "PosX": 250,
+    "RogueMapID": 901,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      31,
+      32
+    ],
+    "PosY": -480,
+    "MonsterWarningRatio": 0,
+    "SiteID": 22,
+    "PosX": 250,
+    "RogueMapID": 901,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      4
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 31,
+    "PosX": 400,
+    "RogueMapID": 901,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      4
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 32,
+    "PosX": 400,
+    "RogueMapID": 901,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      5
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 4,
+    "PosX": 550,
+    "RogueMapID": 901,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      6
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 5,
+    "PosX": 700,
+    "RogueMapID": 901,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      71,
+      72
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 6,
+    "PosX": 850,
+    "RogueMapID": 901,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      8
+    ],
+    "PosY": -480,
+    "MonsterWarningRatio": 0,
+    "SiteID": 71,
+    "PosX": 700,
+    "RogueMapID": 901,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      8
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 72,
+    "PosX": 1000,
+    "RogueMapID": 901,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      9
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 8,
+    "PosX": 1000,
+    "RogueMapID": 901,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      10
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 9,
+    "PosX": 1150,
+    "RogueMapID": 901,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      111,
+      112
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 10,
+    "PosX": 1300,
+    "RogueMapID": 901,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      12
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 111,
+    "PosX": 1450,
+    "RogueMapID": 901,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      12
+    ],
+    "PosY": -480,
+    "MonsterWarningRatio": 0,
+    "SiteID": 112,
+    "PosX": 1150,
+    "RogueMapID": 901,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      13
+    ],
+    "PosY": -240,
+    "MonsterWarningRatio": 0,
+    "SiteID": 12,
+    "PosX": 100,
+    "RogueMapID": 901,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [],
+    "PosY": -240,
+    "MonsterWarningRatio": 0,
+    "SiteID": 13,
+    "PosX": 100,
+    "RogueMapID": 901,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      21,
+      22
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 1,
+    "PosX": 100,
+    "RogueMapID": 902,
+    "IsStart": true
+  },
+  {
+    "NextSiteIDList": [
+      31,
+      32
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 21,
+    "PosX": 250,
+    "RogueMapID": 902,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      31,
+      32
+    ],
+    "PosY": -480,
+    "MonsterWarningRatio": 0,
+    "SiteID": 22,
+    "PosX": 250,
+    "RogueMapID": 902,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      4
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 31,
+    "PosX": 400,
+    "RogueMapID": 902,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      4
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 32,
+    "PosX": 400,
+    "RogueMapID": 902,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      5
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 4,
+    "PosX": 550,
+    "RogueMapID": 902,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      6
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 5,
+    "PosX": 700,
+    "RogueMapID": 902,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      71,
+      72
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 6,
+    "PosX": 850,
+    "RogueMapID": 902,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      8
+    ],
+    "PosY": -480,
+    "MonsterWarningRatio": 0,
+    "SiteID": 71,
+    "PosX": 700,
+    "RogueMapID": 902,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      8
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 72,
+    "PosX": 1000,
+    "RogueMapID": 902,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      9
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 8,
+    "PosX": 1000,
+    "RogueMapID": 902,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      10
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 9,
+    "PosX": 1150,
+    "RogueMapID": 902,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      111,
+      112
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 10,
+    "PosX": 1300,
+    "RogueMapID": 902,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      12
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 111,
+    "PosX": 1450,
+    "RogueMapID": 902,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      12
+    ],
+    "PosY": -480,
+    "MonsterWarningRatio": 0,
+    "SiteID": 112,
+    "PosX": 1150,
+    "RogueMapID": 902,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      13
+    ],
+    "PosY": -240,
+    "MonsterWarningRatio": 0,
+    "SiteID": 12,
+    "PosX": 100,
+    "RogueMapID": 902,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [],
+    "PosY": -240,
+    "MonsterWarningRatio": 0,
+    "SiteID": 13,
+    "PosX": 100,
+    "RogueMapID": 902,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      21,
+      22
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 1,
+    "PosX": 100,
+    "RogueMapID": 903,
+    "IsStart": true
+  },
+  {
+    "NextSiteIDList": [
+      31,
+      32
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 21,
+    "PosX": 250,
+    "RogueMapID": 903,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      31,
+      32
+    ],
+    "PosY": -480,
+    "MonsterWarningRatio": 0,
+    "SiteID": 22,
+    "PosX": 250,
+    "RogueMapID": 903,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      4
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 31,
+    "PosX": 400,
+    "RogueMapID": 903,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      4
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 32,
+    "PosX": 400,
+    "RogueMapID": 903,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      5
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 4,
+    "PosX": 550,
+    "RogueMapID": 903,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      6
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 5,
+    "PosX": 700,
+    "RogueMapID": 903,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      71,
+      72
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 6,
+    "PosX": 850,
+    "RogueMapID": 903,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      8
+    ],
+    "PosY": -480,
+    "MonsterWarningRatio": 0,
+    "SiteID": 71,
+    "PosX": 700,
+    "RogueMapID": 903,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      8
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 72,
+    "PosX": 1000,
+    "RogueMapID": 903,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      9
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 8,
+    "PosX": 1000,
+    "RogueMapID": 903,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      10
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 9,
+    "PosX": 1150,
+    "RogueMapID": 903,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      111,
+      112
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 10,
+    "PosX": 1300,
+    "RogueMapID": 903,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      12
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 111,
+    "PosX": 1450,
+    "RogueMapID": 903,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      12
+    ],
+    "PosY": -480,
+    "MonsterWarningRatio": 0,
+    "SiteID": 112,
+    "PosX": 1150,
+    "RogueMapID": 903,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      13
+    ],
+    "PosY": -240,
+    "MonsterWarningRatio": 0,
+    "SiteID": 12,
+    "PosX": 100,
+    "RogueMapID": 903,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [],
+    "PosY": -240,
+    "MonsterWarningRatio": 0,
+    "SiteID": 13,
+    "PosX": 100,
+    "RogueMapID": 903,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      21,
+      22
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 1,
+    "PosX": 100,
+    "RogueMapID": 904,
+    "IsStart": true
+  },
+  {
+    "NextSiteIDList": [
+      31,
+      32
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 21,
+    "PosX": 250,
+    "RogueMapID": 904,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      31,
+      32
+    ],
+    "PosY": -480,
+    "MonsterWarningRatio": 0,
+    "SiteID": 22,
+    "PosX": 250,
+    "RogueMapID": 904,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      4
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 31,
+    "PosX": 400,
+    "RogueMapID": 904,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      4
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 32,
+    "PosX": 400,
+    "RogueMapID": 904,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      5
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 4,
+    "PosX": 550,
+    "RogueMapID": 904,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      6
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 5,
+    "PosX": 700,
+    "RogueMapID": 904,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      71,
+      72
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 6,
+    "PosX": 850,
+    "RogueMapID": 904,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      8
+    ],
+    "PosY": -480,
+    "MonsterWarningRatio": 0,
+    "SiteID": 71,
+    "PosX": 700,
+    "RogueMapID": 904,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      8
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 72,
+    "PosX": 1000,
+    "RogueMapID": 904,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      9
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 8,
+    "PosX": 1000,
+    "RogueMapID": 904,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      10
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 9,
+    "PosX": 1150,
+    "RogueMapID": 904,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      111,
+      112
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 10,
+    "PosX": 1300,
+    "RogueMapID": 904,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      12
+    ],
+    "PosY": -360,
+    "MonsterWarningRatio": 0,
+    "SiteID": 111,
+    "PosX": 1450,
+    "RogueMapID": 904,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      12
+    ],
+    "PosY": -480,
+    "MonsterWarningRatio": 0,
+    "SiteID": 112,
+    "PosX": 1150,
+    "RogueMapID": 904,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [
+      13
+    ],
+    "PosY": -240,
+    "MonsterWarningRatio": 0,
+    "SiteID": 12,
+    "PosX": 100,
+    "RogueMapID": 904,
+    "IsStart": false
+  },
+  {
+    "NextSiteIDList": [],
+    "PosY": -240,
+    "MonsterWarningRatio": 0,
+    "SiteID": 13,
+    "PosX": 100,
+    "RogueMapID": 904,
+    "IsStart": false
+  }
+]

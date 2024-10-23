@@ -1,0 +1,512 @@
+[
+  {
+    "NpcHandIcon": "SpriteOutput/AvatarRoundIcon/UI_Message_Contacts_AdvertBoard_Surstromming.png",
+    "ID": 1,
+    "Name": {
+      "Hash": 1773965234
+    },
+    "Reply": {
+      "Hash": 67217511
+    }
+  },
+  {
+    "NpcHandIcon": "SpriteOutput/AvatarRoundIcon/UI_Message_Contacts_AdvertBoard.png",
+    "ID": 2,
+    "Name": {
+      "Hash": 1773965237
+    },
+    "Reply": {
+      "Hash": 470502038
+    }
+  },
+  {
+    "NpcHandIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1003.png",
+    "ID": 3,
+    "Name": {
+      "Hash": 1773965236
+    },
+    "Reply": {
+      "Hash": -1095581903
+    }
+  },
+  {
+    "NpcHandIcon": "SpriteOutput/AvatarRoundIcon/Series/202017.png",
+    "ID": 4,
+    "Name": {
+      "Hash": 1773965231
+    },
+    "Reply": {
+      "Hash": -692297376
+    }
+  },
+  {
+    "NpcHandIcon": "SpriteOutput/AvatarRoundIcon/UI_Message_Contacts_Uma.png",
+    "ID": 5,
+    "Name": {
+      "Hash": 1773965230
+    },
+    "Reply": {
+      "Hash": 2036585979
+    }
+  },
+  {
+    "NpcHandIcon": "SpriteOutput/AvatarRoundIcon/UI_Message_Contacts_Pam.png",
+    "ID": 6,
+    "Name": {
+      "Hash": 1773965233
+    },
+    "Reply": {
+      "Hash": -1855096790
+    }
+  },
+  {
+    "NpcHandIcon": "SpriteOutput/TravelBrochure/StickIcons/223258.png",
+    "ID": 10,
+    "Name": {
+      "Hash": 7281506
+    },
+    "Reply": {
+      "Hash": 628954743
+    }
+  },
+  {
+    "NpcHandIcon": "SpriteOutput/AvatarRoundIcon/UI_Message_Contacts_Tina.png",
+    "ID": 11,
+    "Name": {
+      "Hash": 1573365447
+    },
+    "Reply": {
+      "Hash": 628954742
+    }
+  },
+  {
+    "NpcHandIcon": "SpriteOutput/AvatarRoundIcon/UI_Message_Contacts_Montana.png",
+    "ID": 12,
+    "Name": {
+      "Hash": 1170080920
+    },
+    "Reply": {
+      "Hash": 628954741
+    }
+  },
+  {
+    "NpcHandIcon": "SpriteOutput/AvatarRoundIcon/Series/202017.png",
+    "ID": 13,
+    "Name": {
+      "Hash": -1558802435
+    },
+    "Reply": {
+      "Hash": 628954740
+    }
+  },
+  {
+    "NpcHandIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1304.png",
+    "ID": 14,
+    "Name": {
+      "Hash": -1962086962
+    },
+    "Reply": {
+      "Hash": 628954739
+    }
+  },
+  {
+    "NpcHandIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1305.png",
+    "ID": 15,
+    "Name": {
+      "Hash": -396003021
+    },
+    "Reply": {
+      "Hash": 628954738
+    }
+  },
+  {
+    "NpcHandIcon": "SpriteOutput/ItemFigures/140512.png",
+    "ID": 70,
+    "Name": {
+      "Hash": 7281504
+    },
+    "Reply": {
+      "Hash": 1435523797
+    }
+  },
+  {
+    "NpcHandIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1108.png",
+    "ID": 71,
+    "Name": {
+      "Hash": 1573365445
+    },
+    "Reply": {
+      "Hash": 1435523796
+    }
+  },
+  {
+    "NpcHandIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1002.png",
+    "ID": 72,
+    "Name": {
+      "Hash": 1170080918
+    },
+    "Reply": {
+      "Hash": 1435523795
+    }
+  },
+  {
+    "NpcHandIcon": "SpriteOutput/AvatarRoundIcon/UI_Message_Contacts_Chaletka.png",
+    "ID": 73,
+    "Name": {
+      "Hash": -1558802437
+    },
+    "Reply": {
+      "Hash": 1435523794
+    }
+  },
+  {
+    "NpcHandIcon": "SpriteOutput/AvatarRoundIcon/Series/202017.png",
+    "ID": 74,
+    "Name": {
+      "Hash": -1962086964
+    },
+    "Reply": {
+      "Hash": 1435523793
+    }
+  },
+  {
+    "NpcHandIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1006.png",
+    "ID": 75,
+    "Name": {
+      "Hash": -396003023
+    },
+    "Reply": {
+      "Hash": 1435523792
+    }
+  },
+  {
+    "NpcHandIcon": "SpriteOutput/AvatarRoundIcon/UI_Message_Contacts_Montana.png",
+    "ID": 40,
+    "Name": {
+      "Hash": 7281503
+    },
+    "Reply": {
+      "Hash": -130560144
+    }
+  },
+  {
+    "NpcHandIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1108.png",
+    "ID": 41,
+    "Name": {
+      "Hash": 1573365444
+    },
+    "Reply": {
+      "Hash": -130560145
+    }
+  },
+  {
+    "NpcHandIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1112.png",
+    "ID": 42,
+    "Name": {
+      "Hash": 1170080917
+    },
+    "Reply": {
+      "Hash": -130560146
+    }
+  },
+  {
+    "NpcHandIcon": "SpriteOutput/AvatarRoundIcon/UI_Message_Contacts_Dennis.png",
+    "ID": 43,
+    "Name": {
+      "Hash": -1558802438
+    },
+    "Reply": {
+      "Hash": -130560147
+    }
+  },
+  {
+    "NpcHandIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1304.png",
+    "ID": 44,
+    "Name": {
+      "Hash": -1962086965
+    },
+    "Reply": {
+      "Hash": -130560148
+    }
+  },
+  {
+    "NpcHandIcon": "SpriteOutput/AvatarRoundIcon/Series/202017.png",
+    "ID": 45,
+    "Name": {
+      "Hash": -396003024
+    },
+    "Reply": {
+      "Hash": -130560149
+    }
+  },
+  {
+    "NpcHandIcon": "SpriteOutput/TravelBrochure/StickIcons/225021.png",
+    "ID": 20,
+    "Name": {
+      "Hash": 7281509
+    },
+    "Reply": {
+      "Hash": 1032239270
+    }
+  },
+  {
+    "NpcHandIcon": "SpriteOutput/AvatarRoundIcon/UI_Message_Contacts_Sionbhan.png",
+    "ID": 21,
+    "Name": {
+      "Hash": 1573365450
+    },
+    "Reply": {
+      "Hash": 1032239269
+    }
+  },
+  {
+    "NpcHandIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1315.png",
+    "ID": 22,
+    "Name": {
+      "Hash": 1170080923
+    },
+    "Reply": {
+      "Hash": 1032239268
+    }
+  },
+  {
+    "NpcHandIcon": "SpriteOutput/AvatarRoundIcon/UI_Message_Contacts_Dennis.png",
+    "ID": 23,
+    "Name": {
+      "Hash": -1558802432
+    },
+    "Reply": {
+      "Hash": 1032239267
+    }
+  },
+  {
+    "NpcHandIcon": "SpriteOutput/AvatarRoundIcon/Series/202017.png",
+    "ID": 24,
+    "Name": {
+      "Hash": -1962086959
+    },
+    "Reply": {
+      "Hash": 1032239266
+    }
+  },
+  {
+    "NpcHandIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1309.png",
+    "ID": 25,
+    "Name": {
+      "Hash": -396003018
+    },
+    "Reply": {
+      "Hash": 1032239265
+    }
+  },
+  {
+    "NpcHandIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1217.png",
+    "ID": 50,
+    "Name": {
+      "Hash": 7281502
+    },
+    "Reply": {
+      "Hash": -1696644085
+    }
+  },
+  {
+    "NpcHandIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1003.png",
+    "ID": 51,
+    "Name": {
+      "Hash": 1573365443
+    },
+    "Reply": {
+      "Hash": -1696644086
+    }
+  },
+  {
+    "NpcHandIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1201.png",
+    "ID": 52,
+    "Name": {
+      "Hash": 1170080916
+    },
+    "Reply": {
+      "Hash": -1696644087
+    }
+  },
+  {
+    "NpcHandIcon": "SpriteOutput/AvatarRoundIcon/UI_Message_Contacts_Chaletka.png",
+    "ID": 53,
+    "Name": {
+      "Hash": -1558802439
+    },
+    "Reply": {
+      "Hash": -1696644088
+    }
+  },
+  {
+    "NpcHandIcon": "SpriteOutput/AvatarRoundIcon/Series/202017.png",
+    "ID": 54,
+    "Name": {
+      "Hash": -1962086966
+    },
+    "Reply": {
+      "Hash": -1696644089
+    }
+  },
+  {
+    "NpcHandIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1214.png",
+    "ID": 55,
+    "Name": {
+      "Hash": -396003025
+    },
+    "Reply": {
+      "Hash": -1696644090
+    }
+  },
+  {
+    "NpcHandIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1004.png",
+    "ID": 60,
+    "Name": {
+      "Hash": 7281505
+    },
+    "Reply": {
+      "Hash": -1293359558
+    }
+  },
+  {
+    "NpcHandIcon": "SpriteOutput/AvatarRoundIcon/UI_Message_Contacts_Uma.png",
+    "ID": 61,
+    "Name": {
+      "Hash": 1573365446
+    },
+    "Reply": {
+      "Hash": -1293359559
+    }
+  },
+  {
+    "NpcHandIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1210.png",
+    "ID": 62,
+    "Name": {
+      "Hash": 1170080919
+    },
+    "Reply": {
+      "Hash": -1293359560
+    }
+  },
+  {
+    "NpcHandIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1211.png",
+    "ID": 63,
+    "Name": {
+      "Hash": -1558802436
+    },
+    "Reply": {
+      "Hash": -1293359561
+    }
+  },
+  {
+    "NpcHandIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1209.png",
+    "ID": 64,
+    "Name": {
+      "Hash": -1962086963
+    },
+    "Reply": {
+      "Hash": -1293359562
+    }
+  },
+  {
+    "NpcHandIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1204.png",
+    "ID": 65,
+    "Name": {
+      "Hash": -396003022
+    },
+    "Reply": {
+      "Hash": -1293359563
+    }
+  },
+  {
+    "NpcHandIcon": "SpriteOutput/AvatarRoundIcon/UI_Message_Contacts_Pam.png",
+    "ID": 80,
+    "Name": {
+      "Hash": 7281499
+    },
+    "Reply": {
+      "Hash": -1743698252
+    }
+  },
+  {
+    "NpcHandIcon": "SpriteOutput/AvatarRoundIcon/UI_Message_Contacts_Sionbhan.png",
+    "ID": 81,
+    "Name": {
+      "Hash": 1573365440
+    },
+    "Reply": {
+      "Hash": -1743698253
+    }
+  },
+  {
+    "NpcHandIcon": "SpriteOutput/AvatarRoundIcon/UI_Message_Contacts_Chaletka.png",
+    "ID": 82,
+    "Name": {
+      "Hash": 1170080913
+    },
+    "Reply": {
+      "Hash": -1743698254
+    }
+  },
+  {
+    "NpcHandIcon": "SpriteOutput/AvatarRoundIcon/Series/202017.png",
+    "ID": 83,
+    "Name": {
+      "Hash": -1558802442
+    },
+    "Reply": {
+      "Hash": -1743698255
+    }
+  },
+  {
+    "NpcHandIcon": "SpriteOutput/AvatarRoundIcon/UI_Message_Contacts_Montana.png",
+    "ID": 84,
+    "Name": {
+      "Hash": -1962086969
+    },
+    "Reply": {
+      "Hash": -1743698256
+    }
+  },
+  {
+    "NpcHandIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1221.png",
+    "ID": 85,
+    "Name": {
+      "Hash": -396003028
+    },
+    "Reply": {
+      "Hash": -1743698257
+    }
+  },
+  {
+    "NpcHandIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1305.png",
+    "ID": 86,
+    "Name": {
+      "Hash": -799287555
+    },
+    "Reply": {
+      "Hash": -1743698258
+    }
+  },
+  {
+    "NpcHandIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1217.png",
+    "ID": 87,
+    "Name": {
+      "Hash": 766796386
+    },
+    "Reply": {
+      "Hash": -1743698259
+    }
+  },
+  {
+    "NpcHandIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1108.png",
+    "ID": 88,
+    "Name": {
+      "Hash": 363511859
+    },
+    "Reply": {
+      "Hash": -1743698260
+    }
+  }
+]

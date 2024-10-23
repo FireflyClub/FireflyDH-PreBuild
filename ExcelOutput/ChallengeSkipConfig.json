@@ -1,0 +1,14 @@
+[
+  {
+    "MaxSkipLevel": 9,
+    "ChallengeGroupType": "Memory"
+  },
+  {
+    "MaxSkipLevel": 3,
+    "ChallengeGroupType": "Story"
+  },
+  {
+    "MaxSkipLevel": 3,
+    "ChallengeGroupType": "Boss"
+  }
+]

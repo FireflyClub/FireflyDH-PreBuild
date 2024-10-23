@@ -1,0 +1,38 @@
+[
+  {
+    "AudioLanguageKey": "cn",
+    "WwiseLanguageKey": "Chinese(PRC)",
+    "WwiseLanguageState": "LanguageSwitch_CN",
+    "AudioTrackIndex": 0,
+    "ShowString": {
+      "Hash": 875924975
+    }
+  },
+  {
+    "AudioLanguageKey": "en",
+    "WwiseLanguageKey": "English",
+    "WwiseLanguageState": "LanguageSwitch_EN",
+    "AudioTrackIndex": 1,
+    "ShowString": {
+      "Hash": -374251478
+    }
+  },
+  {
+    "AudioLanguageKey": "jp",
+    "WwiseLanguageKey": "Japanese",
+    "WwiseLanguageState": "LanguageSwitch_JP",
+    "AudioTrackIndex": 2,
+    "ShowString": {
+      "Hash": -1391003685
+    }
+  },
+  {
+    "AudioLanguageKey": "kr",
+    "WwiseLanguageKey": "Korean",
+    "WwiseLanguageState": "LanguageSwitch_KR",
+    "AudioTrackIndex": 3,
+    "ShowString": {
+      "Hash": -1597323374
+    }
+  }
+]

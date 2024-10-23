@@ -1,0 +1,310 @@
+[
+  {
+    "TriggerCustomString": "WolfGunPlay_Lv1",
+    "QuestList": [
+      2200401
+    ],
+    "GunLevel": 1,
+    "GunMode": "Normal",
+    "Title": {
+      "Hash": -80926931
+    },
+    "UnlockConditionMode": 0,
+    "TargetScore": 6000,
+    "ShowInUI": true,
+    "Description": {
+      "Hash": -1161169881
+    },
+    "UnlockCondition": 0
+  },
+  {
+    "TriggerCustomString": "WolfGunPlay_Lv2",
+    "QuestList": [
+      2200402
+    ],
+    "GunLevel": 2,
+    "GunMode": "Normal",
+    "Title": {
+      "Hash": 322357596
+    },
+    "UnlockConditionMode": 0,
+    "TargetScore": 14500,
+    "ShowInUI": true,
+    "Description": {
+      "Hash": -1564454408
+    },
+    "UnlockCondition": 1
+  },
+  {
+    "TriggerCustomString": "WolfGunPlay_Lv3",
+    "QuestList": [
+      2200403
+    ],
+    "GunLevel": 3,
+    "GunMode": "Normal",
+    "Title": {
+      "Hash": -1243726345
+    },
+    "UnlockConditionMode": 0,
+    "TargetScore": 8000,
+    "ShowInUI": true,
+    "Description": {
+      "Hash": 1629533
+    },
+    "UnlockCondition": 2
+  },
+  {
+    "TriggerCustomString": "WolfGunPlay_Lv4",
+    "QuestList": [
+      2200404
+    ],
+    "GunLevel": 4,
+    "GunMode": "Normal",
+    "Title": {
+      "Hash": -484211458
+    },
+    "UnlockConditionMode": 0,
+    "TargetScore": 8500,
+    "ShowInUI": true,
+    "Description": {
+      "Hash": -757885354
+    },
+    "UnlockCondition": 3
+  },
+  {
+    "TriggerCustomString": "WolfGunPlay_Lv5",
+    "QuestList": [
+      2200405
+    ],
+    "GunLevel": 5,
+    "GunMode": "Normal",
+    "Title": {
+      "Hash": -2050295399
+    },
+    "UnlockConditionMode": 0,
+    "TargetScore": 10000,
+    "ShowInUI": true,
+    "Description": {
+      "Hash": 808198587
+    },
+    "UnlockCondition": 4
+  },
+  {
+    "TriggerCustomString": "WolfGunPlay_Lv6",
+    "QuestList": [
+      2200406
+    ],
+    "GunLevel": 6,
+    "GunMode": "Normal",
+    "Title": {
+      "Hash": -1647010872
+    },
+    "UnlockConditionMode": 0,
+    "TargetScore": 5500,
+    "ShowInUI": true,
+    "Description": {
+      "Hash": 404914060
+    },
+    "UnlockCondition": 5
+  },
+  {
+    "TriggerCustomString": "WolfGunPlay_Lv7",
+    "QuestList": [
+      2200407
+    ],
+    "GunLevel": 7,
+    "GunMode": "Normal",
+    "Title": {
+      "Hash": 1081872483
+    },
+    "UnlockConditionMode": 0,
+    "TargetScore": 13000,
+    "ShowInUI": true,
+    "Description": {
+      "Hash": 1970998001
+    },
+    "UnlockCondition": 6
+  },
+  {
+    "TriggerCustomString": "WolfGunPlay_Lv8",
+    "QuestList": [
+      2200408
+    ],
+    "GunLevel": 8,
+    "GunMode": "Normal",
+    "Title": {
+      "Hash": 1128926650
+    },
+    "UnlockConditionMode": 0,
+    "TargetScore": 10000,
+    "ShowInUI": true,
+    "Description": {
+      "Hash": 1211483114
+    },
+    "UnlockCondition": 7
+  },
+  {
+    "TriggerCustomString": "WolfGunPlay_Lv9",
+    "QuestList": [
+      2200409
+    ],
+    "GunLevel": 9,
+    "GunMode": "Normal",
+    "Title": {
+      "Hash": -437157291
+    },
+    "UnlockConditionMode": 0,
+    "TargetScore": 20000,
+    "ShowInUI": true,
+    "Description": {
+      "Hash": -1517400241
+    },
+    "UnlockCondition": 8
+  },
+  {
+    "TriggerCustomString": "WolfGunPlay_Lv10",
+    "QuestList": [
+      2200410
+    ],
+    "GunLevel": 10,
+    "GunMode": "Normal",
+    "Title": {
+      "Hash": 2044784701
+    },
+    "UnlockConditionMode": 0,
+    "TargetScore": 13000,
+    "ShowInUI": true,
+    "Description": {
+      "Hash": 915950327
+    },
+    "UnlockCondition": 9
+  },
+  {
+    "TriggerCustomString": "WolfGunPlay_Lv11",
+    "QuestList": [
+      2200411
+    ],
+    "GunLevel": 11,
+    "GunMode": "Normal",
+    "Title": {
+      "Hash": 2044784700
+    },
+    "UnlockConditionMode": 0,
+    "TargetScore": 14000,
+    "ShowInUI": true,
+    "Description": {
+      "Hash": 915950328
+    },
+    "UnlockCondition": 10
+  },
+  {
+    "TriggerCustomString": "WolfGunPlay_Lv12",
+    "QuestList": [
+      2200412
+    ],
+    "GunLevel": 12,
+    "GunMode": "Normal",
+    "Title": {
+      "Hash": 2044784703
+    },
+    "UnlockConditionMode": 0,
+    "TargetScore": 38000,
+    "ShowInUI": true,
+    "Description": {
+      "Hash": 915950329
+    },
+    "UnlockCondition": 11
+  },
+  {
+    "TriggerCustomString": "WolfGunPlay_Lv13",
+    "QuestList": [
+      2200413
+    ],
+    "GunLevel": 13,
+    "GunMode": "Normal",
+    "Title": {
+      "Hash": 2044784702
+    },
+    "UnlockConditionMode": 0,
+    "TargetScore": 14000,
+    "ShowInUI": true,
+    "Description": {
+      "Hash": 915950330
+    },
+    "UnlockCondition": 12
+  },
+  {
+    "TriggerCustomString": "WolfGunPlay_Lv14",
+    "QuestList": [
+      2200414
+    ],
+    "GunLevel": 14,
+    "GunMode": "Normal",
+    "Title": {
+      "Hash": 2044784705
+    },
+    "UnlockConditionMode": 0,
+    "TargetScore": 35000,
+    "ShowInUI": true,
+    "Description": {
+      "Hash": 915950331
+    },
+    "UnlockCondition": 13
+  },
+  {
+    "TriggerCustomString": "WolfGunPlay_Lv15",
+    "QuestList": [
+      2200415
+    ],
+    "GunLevel": 15,
+    "GunMode": "Normal",
+    "Title": {
+      "Hash": 2044784704
+    },
+    "UnlockConditionMode": 0,
+    "TargetScore": 35000,
+    "ShowInUI": true,
+    "Description": {
+      "Hash": 915950332
+    },
+    "UnlockCondition": 14
+  },
+  {
+    "TriggerCustomString": "WolfGunPlay_EndLess",
+    "QuestList": [
+      2200416,
+      2200417,
+      2200418,
+      2200419,
+      2200420
+    ],
+    "GunLevel": 1,
+    "GunMode": "EndLess",
+    "Title": {
+      "Hash": 60235570
+    },
+    "UnlockConditionMode": 0,
+    "TargetScore": 100000,
+    "ShowInUI": true,
+    "Description": {
+      "Hash": 1587916450
+    },
+    "UnlockCondition": 15
+  },
+  {
+    "TriggerCustomString": "WolfGunPlay_LvActivity01",
+    "QuestList": [],
+    "GunLevel": 99,
+    "GunMode": "Normal",
+    "Title": {
+      "Hash": 371857150
+    },
+    "UnlockConditionMode": 0,
+    "TargetScore": 4000,
+    "ShowInUI": false,
+    "Description": {
+      "Hash": 371857150
+    },
+    "UnlockCondition": 0
+  }
+]

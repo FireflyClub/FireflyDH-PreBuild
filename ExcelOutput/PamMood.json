@@ -1,0 +1,51 @@
+[
+  {
+    "EmotionClipPath": "Characters/EmotionClip/Special/Pam_00/Emo_Pam_00_Ani_Performance_Happy.anim",
+    "PerformanceID": 501020121,
+    "MaxMoodPoint": 100,
+    "PamMood": "Happy",
+    "MinMoodPoint": 60
+  },
+  {
+    "EmotionClipPath": "Characters/EmotionClip/Special/Pam_00/Emo_Pam_00_Ani_Performance_Happy.anim",
+    "PerformanceID": 501020126,
+    "MaxMoodPoint": 100,
+    "PamMood": "Like",
+    "MinMoodPoint": 60
+  },
+  {
+    "EmotionClipPath": "Characters/EmotionClip/Special/Pam_00/Emo_Pam_00_Ani_Performance_Happy.anim",
+    "PerformanceID": 501020127,
+    "MaxMoodPoint": 100,
+    "PamMood": "Pleasure",
+    "MinMoodPoint": 60
+  },
+  {
+    "EmotionClipPath": "",
+    "PerformanceID": 501020122,
+    "MaxMoodPoint": 60,
+    "PamMood": "Normal",
+    "MinMoodPoint": 40
+  },
+  {
+    "EmotionClipPath": "Characters/EmotionClip/Special/Pam_00/Emo_Pam_00_Ani_Performance_Sad.anim",
+    "PerformanceID": 501020123,
+    "MaxMoodPoint": 40,
+    "PamMood": "Sad",
+    "MinMoodPoint": 0
+  },
+  {
+    "EmotionClipPath": "Characters/EmotionClip/Special/Pam_00/Emo_Pam_00_Ani_Performance_Confuse.anim",
+    "PerformanceID": 501020124,
+    "MaxMoodPoint": 40,
+    "PamMood": "Confuse",
+    "MinMoodPoint": 0
+  },
+  {
+    "EmotionClipPath": "Characters/EmotionClip/Special/Pam_00/Emo_Pam_00_Ani_Performance_Angry.anim",
+    "PerformanceID": 501020125,
+    "MaxMoodPoint": 40,
+    "PamMood": "Angry",
+    "MinMoodPoint": 0
+  }
+]

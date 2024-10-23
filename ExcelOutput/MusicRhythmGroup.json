@@ -1,0 +1,371 @@
+[
+  {
+    "InputTimeList": [
+      0.08,
+      0.17,
+      0.25
+    ],
+    "GroupCoverImgPath": "SpriteOutput/Quest/MusicRhythm/MRChooseCDCoverStage1_3.png",
+    "BGMpath": "State_Menu_Season_Rhythm_Peppy_Tutorial",
+    "RewardTrackIDList": [
+      12
+    ],
+    "LongInputTimeList": [
+      0.08,
+      0.17,
+      0.25
+    ],
+    "LongInputUpTimeList": [
+      0.08,
+      0.17,
+      0.25
+    ],
+    "Index": 2,
+    "Phase": 1,
+    "EntityGroup": 159,
+    "TakeMissionID": 8026111,
+    "GroupDesc": {
+      "Hash": -1168265537
+    },
+    "ID": 1,
+    "MapInfoID": 2444,
+    "EntranceID": 1030614,
+    "EntityGroupMission": 156,
+    "UnlockSubMissionID": 802611006,
+    "GotoID": 32003,
+    "GroupName": {
+      "Hash": -1774868619
+    },
+    "MapName": {
+      "Hash": -1665260290
+    }
+  },
+  {
+    "InputTimeList": [
+      0.08,
+      0.17,
+      0.25
+    ],
+    "GroupCoverImgPath": "SpriteOutput/Quest/MusicRhythm/MRChooseCDCoverStage1_1.png",
+    "BGMpath": "State_Menu_Season_Rhythm_OrigamiBird_Tutorial",
+    "RewardTrackIDList": [
+      11
+    ],
+    "LongInputTimeList": [
+      0.08,
+      0.17,
+      0.25
+    ],
+    "LongInputUpTimeList": [
+      0.08,
+      0.17,
+      0.25
+    ],
+    "Index": 1,
+    "Phase": 1,
+    "EntityGroup": 19,
+    "TakeMissionID": 8026110,
+    "GroupDesc": {
+      "Hash": 397818404
+    },
+    "ID": 2,
+    "MapInfoID": 2443,
+    "EntranceID": 1030611,
+    "EntityGroupMission": 91,
+    "UnlockSubMissionID": 802610224,
+    "GotoID": 32002,
+    "GroupName": {
+      "Hash": 2116814150
+    },
+    "MapName": {
+      "Hash": 1063623065
+    }
+  },
+  {
+    "InputTimeList": [
+      0.08,
+      0.17,
+      0.25
+    ],
+    "GroupCoverImgPath": "SpriteOutput/Quest/MusicRhythm/MRChooseCDCoverStage1_2.png",
+    "BGMpath": "State_Menu_Season_Rhythm_Rap_Tutorial",
+    "RewardTrackIDList": [
+      13
+    ],
+    "LongInputTimeList": [
+      0.08,
+      0.17,
+      0.25
+    ],
+    "LongInputUpTimeList": [
+      0.08,
+      0.17,
+      0.25
+    ],
+    "Index": 3,
+    "Phase": 1,
+    "EntityGroup": 254,
+    "TakeMissionID": 8026112,
+    "GroupDesc": {
+      "Hash": 1963902345
+    },
+    "ID": 3,
+    "MapInfoID": 2445,
+    "EntranceID": 1030616,
+    "EntityGroupMission": 250,
+    "UnlockSubMissionID": 802611006,
+    "GotoID": 32004,
+    "GroupName": {
+      "Hash": -612069205
+    },
+    "MapName": {
+      "Hash": -502460876
+    }
+  },
+  {
+    "InputTimeList": [
+      0.08,
+      0.17,
+      0.25
+    ],
+    "GroupCoverImgPath": "SpriteOutput/Quest/MusicRhythm/MRChooseCDCoverStage2_3.png",
+    "BGMpath": "State_Menu_Season_Rhythm_Suleda_Tutorial",
+    "RewardTrackIDList": [
+      23
+    ],
+    "LongInputTimeList": [
+      0.08,
+      0.17,
+      0.25
+    ],
+    "LongInputUpTimeList": [
+      0.08,
+      0.17,
+      0.25
+    ],
+    "Index": 3,
+    "Phase": 2,
+    "EntityGroup": 206,
+    "TakeMissionID": 8026113,
+    "GroupDesc": {
+      "Hash": -408750650
+    },
+    "ID": 4,
+    "MapInfoID": 2446,
+    "EntranceID": 1030612,
+    "EntityGroupMission": 207,
+    "UnlockSubMissionID": 802610307,
+    "GotoID": 32005,
+    "GroupName": {
+      "Hash": -1015353732
+    },
+    "MapName": {
+      "Hash": 1870192119
+    }
+  },
+  {
+    "InputTimeList": [
+      0.08,
+      0.17,
+      0.25
+    ],
+    "GroupCoverImgPath": "SpriteOutput/Quest/MusicRhythm/MRChooseCDCoverStage2_1.png",
+    "BGMpath": "State_Menu_Season_Rhythm_Cake_Tutorial",
+    "RewardTrackIDList": [
+      21
+    ],
+    "LongInputTimeList": [
+      0.08,
+      0.17,
+      0.25
+    ],
+    "LongInputUpTimeList": [
+      0.18,
+      0.27,
+      0.35
+    ],
+    "Index": 1,
+    "Phase": 2,
+    "EntityGroup": 191,
+    "TakeMissionID": 8026114,
+    "GroupDesc": {
+      "Hash": 1157333291
+    },
+    "ID": 5,
+    "MapInfoID": 2447,
+    "EntranceID": 1030615,
+    "EntityGroupMission": 190,
+    "UnlockSubMissionID": 802610307,
+    "GotoID": 32006,
+    "GroupName": {
+      "Hash": 550730209
+    },
+    "MapName": {
+      "Hash": 304108178
+    }
+  },
+  {
+    "InputTimeList": [
+      0.08,
+      0.17,
+      0.25
+    ],
+    "GroupCoverImgPath": "SpriteOutput/Quest/MusicRhythm/MRChooseCDCoverStage2_2.png",
+    "BGMpath": "State_Menu_Season_Rhythm_Camera_Tutorial",
+    "RewardTrackIDList": [
+      22
+    ],
+    "LongInputTimeList": [
+      0.08,
+      0.17,
+      0.25
+    ],
+    "LongInputUpTimeList": [
+      0.08,
+      0.17,
+      0.25
+    ],
+    "Index": 2,
+    "Phase": 2,
+    "EntityGroup": 102,
+    "TakeMissionID": 8026115,
+    "GroupDesc": {
+      "Hash": -1571550064
+    },
+    "ID": 6,
+    "MapInfoID": 2448,
+    "EntranceID": 1030617,
+    "EntityGroupMission": 99,
+    "UnlockSubMissionID": 802610307,
+    "GotoID": 32007,
+    "GroupName": {
+      "Hash": 147445682
+    },
+    "MapName": {
+      "Hash": -1261975763
+    }
+  },
+  {
+    "InputTimeList": [
+      0.08,
+      0.17,
+      0.25
+    ],
+    "GroupCoverImgPath": "SpriteOutput/Quest/MusicRhythm/MRChooseCDCoverStage3_3.png",
+    "BGMpath": "State_Menu_Season_Rhythm_TrashCan_Tutorial",
+    "RewardTrackIDList": [
+      31
+    ],
+    "LongInputTimeList": [
+      0.08,
+      0.17,
+      0.25
+    ],
+    "LongInputUpTimeList": [
+      0.08,
+      0.17,
+      0.25
+    ],
+    "Index": 1,
+    "Phase": 3,
+    "EntityGroup": 208,
+    "TakeMissionID": 8026116,
+    "GroupDesc": {
+      "Hash": -5466123
+    },
+    "ID": 7,
+    "MapInfoID": 2457,
+    "EntranceID": 1030613,
+    "EntityGroupMission": 204,
+    "UnlockSubMissionID": 802610403,
+    "GotoID": 32008,
+    "GroupName": {
+      "Hash": 1713529623
+    },
+    "MapName": {
+      "Hash": 1466907592
+    }
+  },
+  {
+    "InputTimeList": [
+      0.08,
+      0.17,
+      0.25
+    ],
+    "GroupCoverImgPath": "SpriteOutput/Quest/MusicRhythm/MRChooseCDCoverStage3_2.png",
+    "BGMpath": "State_Menu_Season_Rhythm_Shoot_Tutorial",
+    "RewardTrackIDList": [
+      32
+    ],
+    "LongInputTimeList": [
+      0.08,
+      0.17,
+      0.25
+    ],
+    "LongInputUpTimeList": [
+      0.08,
+      0.17,
+      0.25
+    ],
+    "Index": 2,
+    "Phase": 3,
+    "EntityGroup": 584,
+    "TakeMissionID": 8026117,
+    "GroupDesc": {
+      "Hash": 1916848178
+    },
+    "ID": 8,
+    "MapInfoID": 2458,
+    "EntranceID": 1030618,
+    "EntityGroupMission": 556,
+    "UnlockSubMissionID": 802610403,
+    "GotoID": 32009,
+    "GroupName": {
+      "Hash": 1310245096
+    },
+    "MapName": {
+      "Hash": 257054011
+    }
+  },
+  {
+    "InputTimeList": [
+      0.08,
+      0.17,
+      0.25
+    ],
+    "GroupCoverImgPath": "SpriteOutput/Quest/MusicRhythm/MRChooseCDCoverStage3_1.png",
+    "BGMpath": "State_Menu_Season_Rhythm_BillBoard_Tutorial",
+    "RewardTrackIDList": [
+      33
+    ],
+    "LongInputTimeList": [
+      0.08,
+      0.17,
+      0.25
+    ],
+    "LongInputUpTimeList": [
+      0.18,
+      0.27,
+      0.35
+    ],
+    "Index": 3,
+    "Phase": 3,
+    "EntityGroup": 585,
+    "TakeMissionID": 8026118,
+    "GroupDesc": {
+      "Hash": -812035177
+    },
+    "ID": 9,
+    "MapInfoID": 2459,
+    "EntranceID": 1030619,
+    "EntityGroupMission": 559,
+    "UnlockSubMissionID": 802610403,
+    "GotoID": 32010,
+    "GroupName": {
+      "Hash": -1418638259
+    },
+    "MapName": {
+      "Hash": -1309029930
+    }
+  }
+]

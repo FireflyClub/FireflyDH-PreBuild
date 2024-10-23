@@ -1,0 +1,62 @@
+[
+  {
+    "QuestKeyPoint": 100,
+    "QuestKeyPointItem": 0,
+    "QuestKeyPointReward": 160301,
+    "ID": 1
+  },
+  {
+    "QuestKeyPoint": 200,
+    "QuestKeyPointItem": 0,
+    "QuestKeyPointReward": 160302,
+    "ID": 2
+  },
+  {
+    "QuestKeyPoint": 400,
+    "QuestKeyPointItem": 0,
+    "QuestKeyPointReward": 160303,
+    "ID": 3
+  },
+  {
+    "QuestKeyPoint": 600,
+    "QuestKeyPointItem": 0,
+    "QuestKeyPointReward": 160304,
+    "ID": 4
+  },
+  {
+    "QuestKeyPoint": 800,
+    "QuestKeyPointItem": 300020,
+    "QuestKeyPointReward": 0,
+    "ID": 5
+  },
+  {
+    "QuestKeyPoint": 50,
+    "QuestKeyPointItem": 0,
+    "QuestKeyPointReward": 160301,
+    "ID": 11
+  },
+  {
+    "QuestKeyPoint": 100,
+    "QuestKeyPointItem": 0,
+    "QuestKeyPointReward": 160302,
+    "ID": 12
+  },
+  {
+    "QuestKeyPoint": 200,
+    "QuestKeyPointItem": 0,
+    "QuestKeyPointReward": 160303,
+    "ID": 13
+  },
+  {
+    "QuestKeyPoint": 300,
+    "QuestKeyPointItem": 0,
+    "QuestKeyPointReward": 160304,
+    "ID": 14
+  },
+  {
+    "QuestKeyPoint": 400,
+    "QuestKeyPointItem": 300020,
+    "QuestKeyPointReward": 0,
+    "ID": 15
+  }
+]

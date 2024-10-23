@@ -1,0 +1,3033 @@
+[
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 11203
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 11207
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 20001
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 20002
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 30001
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 30002
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 30003
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 30004
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 30005
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 30011
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 30016
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 30017
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 30101
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 30102
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 30103
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 30104
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 30105
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 30106
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 30107
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 30108
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 30109
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 30110
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 30111
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 30112
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 40001
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 40002
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 40003
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 40004
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 40005
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 40006
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 40007
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [
+      4100101,
+      4100102
+    ],
+    "Config": "Config/ConfigCharacter/BattleEvent/Avatar_RogueBattleevent120_Config.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": true,
+    "BattleEventID": 41001
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [
+      4100201,
+      4100202
+    ],
+    "Config": "Config/ConfigCharacter/BattleEvent/Avatar_RogueBattleevent122_Config.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": true,
+    "BattleEventID": 41002
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [
+      4100301,
+      4100302
+    ],
+    "Config": "Config/ConfigCharacter/BattleEvent/Avatar_RogueBattleevent123_Config.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": true,
+    "BattleEventID": 41003
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [
+      4100401,
+      4100402
+    ],
+    "Config": "Config/ConfigCharacter/BattleEvent/Avatar_RogueBattleevent124_Config.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": true,
+    "BattleEventID": 41004
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [
+      4100501,
+      4100502
+    ],
+    "Config": "Config/ConfigCharacter/BattleEvent/Avatar_RogueBattleevent125_Config.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": true,
+    "BattleEventID": 41005
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [
+      4100601,
+      4100602
+    ],
+    "Config": "Config/ConfigCharacter/BattleEvent/Avatar_RogueBattleevent121_Config.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": true,
+    "BattleEventID": 41006
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [
+      4100701,
+      4100702
+    ],
+    "Config": "Config/ConfigCharacter/BattleEvent/Avatar_RogueBattleevent126_Config.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": true,
+    "BattleEventID": 41007
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 48001
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 49001
+  },
+  {
+    "BasePoint": "AnchorColossus",
+    "Prefab": "Characters/CharacterPrefabs/Avatar/Colossus_00/Avatar_W1_Colossus_00.prefab",
+    "SkillIDList": [
+      6000101,
+      6000102
+    ],
+    "Config": "Config/ConfigCharacter/Avatar/Avatar_Colossus_00_Config.json",
+    "LevelAreaPrefab": "Level/BattleArea/Test_BattleArea_3_3_3.prefab",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 60001
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [
+      908003,
+      908004
+    ],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": true,
+    "BattleEventID": 60002
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [
+      909003,
+      909004
+    ],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": true,
+    "BattleEventID": 60003
+  },
+  {
+    "BasePoint": "AnchorColossus",
+    "Prefab": "Characters/CharacterPrefabs/Avatar/Colossus_00/Avatar_W1_Colossus_00.prefab",
+    "SkillIDList": [
+      6000401,
+      6000402
+    ],
+    "Config": "Config/ConfigCharacter/Avatar/Avatar_Colossus_00_Config.json",
+    "LevelAreaPrefab": "Level/BattleArea/Test_BattleArea_3_3_3.prefab",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 60004
+  },
+  {
+    "BasePoint": "BattleEventAnchor_1",
+    "Prefab": "Level/Maze/Puzzle/Challenge/ChallengeBattleEvent.prefab",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 90001
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 90002
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 90003
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 90004
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 90005
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 95001
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 95002
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 95003
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 95004
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 95005
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 96001
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "Characters/CharacterPrefabs/Avatar/Silwolf_00/Avatar_Silwolf_00.prefab",
+    "SkillIDList": [
+      9600301,
+      9600302,
+      9600303,
+      9600304,
+      9600305
+    ],
+    "Config": "Config/ConfigCharacter/WhiteBox/Avatar/W_Silwolf_BattleEvent_Config.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 96003
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "Characters/CharacterPrefabs/Avatar/Bronya_00/Avatar_Bronya_00.prefab",
+    "SkillIDList": [
+      9600401,
+      9600402,
+      9600403,
+      9600404,
+      9600405
+    ],
+    "Config": "Config/ConfigCharacter/WhiteBox/Avatar/W_Activity_SummonMonster_BE_Config.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 96004
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 98001
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 90006
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 90007
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [
+      9600501,
+      9600305
+    ],
+    "Config": "Config/ConfigCharacter/WhiteBox/Avatar/Vanish_BattleEvent_Config.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 96005
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [
+      9600604,
+      9600605
+    ],
+    "Config": "Config/ConfigCharacter/WhiteBox/BattleEvent/W_AccelerateButton_Config.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 96006
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [
+      9600704,
+      9600705
+    ],
+    "Config": "Config/ConfigCharacter/WhiteBox/BattleEvent/W_DelayMonsterButton_Config.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 96007
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 90009
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [
+      9601004,
+      9601005
+    ],
+    "Config": "Config/ConfigCharacter/WhiteBox/BattleEvent/W_AccelerateButtonByWeakBreak_Config.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 96010
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [
+      9601104,
+      9601105,
+      9601106,
+      9601107
+    ],
+    "Config": "Config/ConfigCharacter/WhiteBox/BattleEvent/W_CreateStageBEButton_Config.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 96011
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [
+      9601201,
+      9601205
+    ],
+    "Config": "Config/ConfigCharacter/WhiteBox/BattleEvent/W_AutoMemberExchange_Config.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 96012
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [
+      9601304,
+      9601305,
+      9601306,
+      9601307
+    ],
+    "Config": "Config/ConfigCharacter/WhiteBox/BattleEvent/W_RollBackStateBEButton_Config.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 96013
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [
+      9601404,
+      9601405
+    ],
+    "Config": "Config/ConfigCharacter/WhiteBox/BattleEvent/W_TimeLockButton_Config.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 96014
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 96015
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "Characters/CharacterPrefabs/Avatar/PlayerGirl_00/Avatar_PlayerGirl_00.prefab",
+    "SkillIDList": [
+      9601601,
+      9601602,
+      9601603,
+      9601604,
+      9601605
+    ],
+    "Config": "Config/ConfigCharacter/WhiteBox/Avatar/W_Activity_Summon3Monster_BE_Config.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 96016
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 96017
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 96018
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [
+      9601904,
+      9601905,
+      9601906,
+      9601907
+    ],
+    "Config": "Config/ConfigCharacter/WhiteBox/BattleEvent/W_InBattleItemBE01_Config.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 96019
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [
+      9602004,
+      9602005,
+      9602006,
+      9602007
+    ],
+    "Config": "Config/ConfigCharacter/WhiteBox/BattleEvent/W_InBattleItemBE02_Config.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 96020
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [
+      9602104,
+      9602105
+    ],
+    "Config": "Config/ConfigCharacter/WhiteBox/BattleEvent/W_InBattleItemBE03_Config.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 96021
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 96022
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 98002
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 30018
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 30019
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 30020
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 30021
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 30022
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 30023
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 30024
+  },
+  {
+    "BasePoint": "Cube1",
+    "Prefab": "Characters/CharacterPrefabs/Monster/W1_Colossus_00/Monster_W1_Colossus_00.prefab",
+    "SkillIDList": [
+      6000501
+    ],
+    "Config": "Config/ConfigCharacter/Monster/Monster_BattleEvent_W1_Colossus_00_Config.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 60005
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [
+      9602404,
+      9602405
+    ],
+    "Config": "Config/ConfigCharacter/BattleEvent/Activity_TreasureActivity_ExecuteItem.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 96024
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [
+      9602504,
+      9602505
+    ],
+    "Config": "Config/ConfigCharacter/BattleEvent/Activity_TreasureActivity_SingleBuffItem.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 96025
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [
+      9602604,
+      9602605
+    ],
+    "Config": "Config/ConfigCharacter/WhiteBox/BattleEvent/W_TreasureActivity_WeakDamageEnhanceItem.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 96026
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [
+      9602704,
+      9602705
+    ],
+    "Config": "Config/ConfigCharacter/WhiteBox/BattleEvent/W_TreasureActivity_WeakBombItem.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 96027
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [
+      9602804,
+      9602805
+    ],
+    "Config": "Config/ConfigCharacter/BattleEvent/Activity_TreasureActivity_RecoverSPItem.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 96028
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "Characters/CharacterPrefabs/Avatar/Activity/AetherDivide/AetherDivide_W2_Beast01_02/Avatar_AetherDivide_W2_Beast01_02.prefab",
+    "SkillIDList": [],
+    "Config": "Config/ConfigCharacter/Avatar/Avatar_AetherDivide_W2_Beast01_02_Config.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": true,
+    "BattleEventID": 16007
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 16010
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "Characters/CharacterPrefabs/Avatar/Activity/AetherDivide/AetherDivide_W2_Mecha02_00/Avatar_AetherDivide_W2_Mecha02_00.prefab",
+    "SkillIDList": [],
+    "Config": "Config/ConfigCharacter/Avatar/Avatar_AetherDivide_W2_Mecha03_00_BE_Config.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": true,
+    "BattleEventID": 16011
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [
+      4100801,
+      4100802
+    ],
+    "Config": "Config/ConfigCharacter/BattleEvent/Avatar_RogueBattleevent127_Config.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": true,
+    "BattleEventID": 41008
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "Characters/CharacterPrefabs/Avatar/DanHengIL_00/Avatar_DanHengIL_00.prefab",
+    "SkillIDList": [
+      6000601,
+      6000602
+    ],
+    "Config": "Config/ConfigCharacter/BattleEvent/Avatar_MissionBattleEvent60006_Config.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 60006
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [
+      9603104,
+      9603105
+    ],
+    "Config": "Config/ConfigCharacter/WhiteBox/BattleEvent/W_TreasureActivity_SingleDamageItem.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 96031
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [
+      9603204,
+      9603205
+    ],
+    "Config": "Config/ConfigCharacter/BattleEvent/Activity_TreasureActivity_BPSkillBoostItem.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 96032
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [
+      9603304,
+      9603305
+    ],
+    "Config": "Config/ConfigCharacter/BattleEvent/Activity_TreasureActivity_AddWeakPointItem.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 96033
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [
+      9603404,
+      9603405
+    ],
+    "Config": "Config/ConfigCharacter/WhiteBox/BattleEvent/W_TreasureActivity_NormalSkillBoostItem.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 96034
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [
+      9603504,
+      9603505
+    ],
+    "Config": "Config/ConfigCharacter/WhiteBox/BattleEvent/W_TreasureActivity_DamageTakenAddItem.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 96035
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 96036
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 30031
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 30032
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 30033
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 30034
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 30035
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 60007
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 30036
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [
+      9602905
+    ],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 96029
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "Characters/CharacterPrefabs/Avatar/Topaz_00/Avatar_Topaz_00_BE.prefab",
+    "SkillIDList": [
+      1121604
+    ],
+    "Config": "Config/ConfigCharacter/Avatar/Avatar_Topaz_00_BE_Config.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": true,
+    "BattleEventID": 11216
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 30113
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 30114
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 30115
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 42001
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [
+      9603801
+    ],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": true,
+    "BattleEventID": 96038
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 48002
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "Config/ConfigCharacter/BattleEvent/Avatar_RogueDLCBattleevent42002_Config.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 42002
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "Config/ConfigCharacter/BattleEvent/Avatar_RogueDLCBattleevent42003_Config.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 42003
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [
+      6100101
+    ],
+    "Config": "Config/ConfigCharacter/BattleEvent/Avatar_HeliobusActionAbilityForceBreak_Config.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 61001
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [
+      6100201
+    ],
+    "Config": "Config/ConfigCharacter/BattleEvent/Avatar_HeliobusActionAbilityBPRecover_Config.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 61002
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [
+      6100301
+    ],
+    "Config": "Config/ConfigCharacter/BattleEvent/Avatar_HeliobusActionAbilitySPRecover_Config.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 61003
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [
+      6100401
+    ],
+    "Config": "Config/ConfigCharacter/BattleEvent/Avatar_HeliobusActionAbilityBoomerang_Config.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 61004
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [
+      6100501
+    ],
+    "Config": "Config/ConfigCharacter/BattleEvent/Avatar_HeliobusActionAbilityDelayAction_Config.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 61005
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [
+      6100601
+    ],
+    "Config": "Config/ConfigCharacter/BattleEvent/Avatar_HeliobusActionAbilitySetBoom_Config.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 61006
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [
+      6100701
+    ],
+    "Config": "Config/ConfigCharacter/BattleEvent/Avatar_HeliobusActionAbilityDamageReflect_Config.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 61007
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [
+      6100801
+    ],
+    "Config": "Config/ConfigCharacter/BattleEvent/Avatar_HeliobusActionAbilityFormChange_Config.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 61008
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 96039
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "Characters/CharacterPrefabs/Avatar/Huohuo_00/Avatar_Huohuo_00_NoTail.prefab",
+    "SkillIDList": [
+      6000801
+    ],
+    "Config": "Config/ConfigCharacter/BattleEvent/Avatar_MissionBattleEvent60008_Config.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 60008
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 30116
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 30117
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 48003
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 30119
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 30120
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 30121
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [
+      6100901
+    ],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 61009
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [
+      6100901
+    ],
+    "Config": "Config/ConfigCharacter/BattleEvent/Avatar_BattleEvent61010_Config.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 61010
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [
+      4100901,
+      4100902
+    ],
+    "Config": "Config/ConfigCharacter/BattleEvent/Avatar_RogueBattleevent128_Config.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": true,
+    "BattleEventID": 41009
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 40008
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 62001
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 62002
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 31002
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 30118
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": true,
+    "BattleEventID": 42004
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [
+      9602905
+    ],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 96061
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [
+      6000801
+    ],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 60011
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 20005
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 31003
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "UI/Battle/TimeLine/TimeLineMiniIcon_1309.prefab",
+    "IsSPReserved": false,
+    "BattleEventID": 11309
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "UI/Battle/TimeLine/Avatar/TimeLineMiniIcon_1310.prefab",
+    "IsSPReserved": false,
+    "BattleEventID": 11310
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [
+      4300101
+    ],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": true,
+    "BattleEventID": 43001
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [
+      4300201
+    ],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": true,
+    "BattleEventID": 43002
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [
+      4300301
+    ],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": true,
+    "BattleEventID": 43003
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [
+      4300401
+    ],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": true,
+    "BattleEventID": 43004
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 49002
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 20006
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 30123
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 19133
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 30124
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 30125
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [
+      6100901
+    ],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 61011
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 19132
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [
+      6100901
+    ],
+    "Config": "Config/ConfigCharacter/BattleEvent/Common_NoActionDelay_Config.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 61012
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [
+      6001001,
+      6001002
+    ],
+    "Config": "Config/ConfigCharacter/BattleEvent/Avatar_MissionBattleEvent60010_Config.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": true,
+    "BattleEventID": 60010
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 62003
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [
+      9602905
+    ],
+    "Config": "Config/ConfigCharacter/BattleEvent/Common_NoActionDelay_Config.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 96082
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "Characters/CharacterPrefabs/Avatar/Activity/AetherDivide/AetherDivide_W2_Beast01_01/Avatar_AetherDivide_W2_Beast01_01.prefab",
+    "SkillIDList": [
+      9608301,
+      9608302,
+      9608303
+    ],
+    "Config": "Config/ConfigCharacter/WhiteBox/BattleEvent/W_BattleEvent_SummonUnit1_Config.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": true,
+    "BattleEventID": 96083
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 62004
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 62005
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 31001
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 30126
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [
+      6100901
+    ],
+    "Config": "Config/ConfigCharacter/BattleEvent/Common_NoActionDelay_Config.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 61013
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 62101
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 62102
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 62103
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 62104
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 62105
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 62106
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 62107
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": true,
+    "BattleEventID": 44001
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 30127
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 30128
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": true,
+    "BattleEventID": 44002
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "Characters/CharacterPrefabs/Avatar/PlayerBoy_20/Avatar_PlayerBoy_20.prefab",
+    "SkillIDList": [
+      6001201,
+      6001202
+    ],
+    "Config": "Config/ConfigCharacter/BattleEvent/Avatar_MissionBattleEvent60012_Config.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 60012
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 96085
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 20008
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 20009
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "Config/ConfigCharacter/BattleEvent/Common_NoActionDelay_Config.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 62111
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 96107
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [
+      6100901
+    ],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 61014
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 96113
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "Characters/CharacterPrefabs/Avatar/Lingsha_00/Avatar_Lingsha_00.prefab",
+    "SkillIDList": [
+      1122204
+    ],
+    "Config": "Config/ConfigCharacter/Avatar/Avatar_Lingsha_00_BE_Config.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 11222
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 30129
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 48004
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 96114
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "Characters/CharacterPrefabs/Avatar/PlayerBoy_20/Avatar_PlayerBoy_20.prefab",
+    "SkillIDList": [
+      6001301,
+      6001302
+    ],
+    "Config": "Config/ConfigCharacter/BattleEvent/Avatar_MissionBattleEvent60013_Config.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 60013
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "Characters/CharacterPrefabs/Avatar/Yunli_00/Avatar_Yunli_00.prefab",
+    "SkillIDList": [
+      6001401
+    ],
+    "Config": "Config/ConfigCharacter/BattleEvent/Avatar_MissionBattleEvent60014_Config.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": true,
+    "BattleEventID": 60014
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [
+      4110101,
+      4110102
+    ],
+    "Config": "Config/ConfigCharacter/BattleEvent/Avatar_RogueBattleevent_Shield_S1_Config.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": true,
+    "BattleEventID": 41101
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [
+      4110201,
+      4110202
+    ],
+    "Config": "Config/ConfigCharacter/BattleEvent/Avatar_RogueBattleevent_Sandworm_S1_Config.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": true,
+    "BattleEventID": 41102
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [
+      4110301,
+      4110302
+    ],
+    "Config": "Config/ConfigCharacter/BattleEvent/Avatar_RogueBattleevent_Abundance_S1_Config.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": true,
+    "BattleEventID": 41103
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [
+      4110401,
+      4110402
+    ],
+    "Config": "Config/ConfigCharacter/BattleEvent/Avatar_RogueBattleevent_Hunting_S1_Config.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": true,
+    "BattleEventID": 41104
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [
+      4110501,
+      4110502
+    ],
+    "Config": "Config/ConfigCharacter/BattleEvent/Avatar_RogueBattleevent_Ruin_S1_Config.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": true,
+    "BattleEventID": 41105
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [
+      4110601,
+      4110602
+    ],
+    "Config": "Config/ConfigCharacter/BattleEvent/Avatar_RogueBattleevent_Remembrance_S1_Config.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": true,
+    "BattleEventID": 41106
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [
+      4110701,
+      4110702
+    ],
+    "Config": "Config/ConfigCharacter/BattleEvent/Avatar_RogueBattleevent_Elation_S1_Config.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": true,
+    "BattleEventID": 41107
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [
+      4110801,
+      4110802
+    ],
+    "Config": "Config/ConfigCharacter/BattleEvent/Avatar_RogueBattleevent_Breeding_S1_Config.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": true,
+    "BattleEventID": 41108
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [
+      4110901,
+      4110902
+    ],
+    "Config": "Config/ConfigCharacter/BattleEvent/Avatar_RogueBattleevent_Erudition_S1_Config.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": true,
+    "BattleEventID": 41109
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 96071
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 30130
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 48005
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 20011
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [
+      4100101,
+      4100102
+    ],
+    "Config": "Config/ConfigCharacter/BattleEvent/Avatar_RogueBattleevent120_Config.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": true,
+    "BattleEventID": 96121
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 96122
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [
+      4100101,
+      4100102
+    ],
+    "Config": "Config/ConfigCharacter/BattleEvent/Avatar_RogueBattleevent120_Config.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": true,
+    "BattleEventID": 96123
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 96124
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [
+      6100901
+    ],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 61015
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [
+      6100901
+    ],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 61016
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 48006
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 20012
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [
+      6100901
+    ],
+    "Config": "Config/ConfigCharacter/BattleEvent/Avatar_BattleEvent61010_Config.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 61017
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "Characters/CharacterPrefabs/Avatar/Topaz_00/Avatar_Topaz_00.prefab",
+    "SkillIDList": [],
+    "Config": "Config/ConfigCharacter/BattleEvent/Avatar_MissionBattleEvent419001_Config.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 60015
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "Characters/CharacterPrefabs/Monster/W1_CocoliaP1_00/Monster_W1_CocoliaP1_00.prefab",
+    "SkillIDList": [],
+    "Config": "Config/ConfigCharacter/BattleEvent/Avatar_MissionBattleEvent419001_Config.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 60016
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 96135
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 30131
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": true,
+    "BattleEventID": 44003
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [
+      4500101
+    ],
+    "Config": "Config/ConfigCharacter/BattleEvent/Avatar_FightFest_Main_Skill01_Config.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 45001
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [
+      4500601
+    ],
+    "Config": "Config/ConfigCharacter/BattleEvent/Avatar_FightFest_Main_Skill06_Config.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 45006
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": true,
+    "BattleEventID": 44004
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [
+      4500201
+    ],
+    "Config": "Config/ConfigCharacter/BattleEvent/Avatar_FightFest_Main_Skill02_Config.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 45002
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "Characters/CharacterPrefabs/Avatar/Activity/ActivitySummon/Avatar_ActivitySummon_W3_Junk_00.prefab",
+    "SkillIDList": [
+      9611101,
+      9611103,
+      9611108
+    ],
+    "Config": "Config/ConfigCharacter/Activity/ActivitySummon/ActivitySummon_Junk_BattleEvent_02_Config.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": true,
+    "BattleEventID": 96101
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "Characters/CharacterPrefabs/Avatar/Activity/ActivitySummon/Avatar_ActivitySummon_W3_Junk_00.prefab",
+    "SkillIDList": [
+      9609701,
+      9609703
+    ],
+    "Config": "Config/ConfigCharacter/Activity/ActivitySummon/ActivitySummon_Junk_BattleEvent_01_Config.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": true,
+    "BattleEventID": 96103
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "Characters/CharacterPrefabs/Avatar/Activity/ActivitySummon/Avatar_ActivitySummon_W3_Junk_00.prefab",
+    "SkillIDList": [
+      9610901,
+      9610903
+    ],
+    "Config": "Config/ConfigCharacter/Activity/ActivitySummon/ActivitySummon_Junk_BattleEvent_03_Config.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": true,
+    "BattleEventID": 96105
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "Characters/CharacterPrefabs/Avatar/Activity/ActivitySummon/Avatar_ActivitySummon_W3_Junk_00.prefab",
+    "SkillIDList": [
+      9611001,
+      9611003
+    ],
+    "Config": "Config/ConfigCharacter/Activity/ActivitySummon/ActivitySummon_Junk_BattleEvent_04_Config.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": true,
+    "BattleEventID": 96128
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 96134
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "Characters/CharacterPrefabs/Avatar/Activity/ActivitySummon/Avatar_ActivitySummon_W3_Junk_00.prefab",
+    "SkillIDList": [
+      9611201,
+      9611203,
+      9611208
+    ],
+    "Config": "Config/ConfigCharacter/Activity/ActivitySummon/ActivitySummon_Junk_BattleEvent_05_Config.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": true,
+    "BattleEventID": 96119
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "Config/ConfigCharacter/BattleEvent/Avatar_RogueMagic_AutoStaff_Thunder.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "UI/Battle/TimeLine/TimeLineMiniIcon_RogueMagic.prefab",
+    "IsSPReserved": false,
+    "BattleEventID": 46101
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "Config/ConfigCharacter/BattleEvent/Avatar_RogueMagic_PassiveScepter_Fire.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "UI/Battle/TimeLine/TimeLineMiniIcon_RogueMagic.prefab",
+    "IsSPReserved": false,
+    "BattleEventID": 46201
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 48007
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "Config/ConfigCharacter/BattleEvent/Avatar_RogueMagic_AutoStaff_Imaginary.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "UI/Battle/TimeLine/TimeLineMiniIcon_RogueMagic.prefab",
+    "IsSPReserved": false,
+    "BattleEventID": 46102
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "Config/ConfigCharacter/BattleEvent/Avatar_RogueMagic_AutoStaff_Quantum.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "UI/Battle/TimeLine/TimeLineMiniIcon_RogueMagic.prefab",
+    "IsSPReserved": false,
+    "BattleEventID": 46103
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "Config/ConfigCharacter/BattleEvent/Avatar_RogueMagic_AutoStaff_Physical.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "UI/Battle/TimeLine/TimeLineMiniIcon_RogueMagic.prefab",
+    "IsSPReserved": false,
+    "BattleEventID": 46104
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "Config/ConfigCharacter/BattleEvent/Avatar_RogueMagic_AutoStaff_Physical.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "UI/Battle/TimeLine/TimeLineMiniIcon_RogueMagic.prefab",
+    "IsSPReserved": false,
+    "BattleEventID": 46105
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "Config/ConfigCharacter/BattleEvent/Avatar_RogueMagic_AutoStaff_Fire.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "UI/Battle/TimeLine/TimeLineMiniIcon_RogueMagic.prefab",
+    "IsSPReserved": false,
+    "BattleEventID": 46106
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "Config/ConfigCharacter/BattleEvent/Avatar_RogueMagic_AutoStaff_Thunder.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "UI/Battle/TimeLine/TimeLineMiniIcon_RogueMagic.prefab",
+    "IsSPReserved": false,
+    "BattleEventID": 46107
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "Config/ConfigCharacter/BattleEvent/Avatar_RogueMagic_AutoStaff_Imaginary.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "UI/Battle/TimeLine/TimeLineMiniIcon_RogueMagic.prefab",
+    "IsSPReserved": false,
+    "BattleEventID": 46108
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "Config/ConfigCharacter/BattleEvent/Avatar_RogueMagic_AutoStaff_Fire.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "UI/Battle/TimeLine/TimeLineMiniIcon_RogueMagic.prefab",
+    "IsSPReserved": false,
+    "BattleEventID": 46109
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "Config/ConfigCharacter/BattleEvent/Avatar_RogueMagic_AutoStaff_Ice.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "UI/Battle/TimeLine/TimeLineMiniIcon_RogueMagic.prefab",
+    "IsSPReserved": false,
+    "BattleEventID": 46110
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "Config/ConfigCharacter/BattleEvent/Avatar_RogueMagic_AutoStaff_Quantum.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "UI/Battle/TimeLine/TimeLineMiniIcon_RogueMagic.prefab",
+    "IsSPReserved": false,
+    "BattleEventID": 46111
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "Config/ConfigCharacter/BattleEvent/Avatar_RogueMagic_AutoStaff_Quantum.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "UI/Battle/TimeLine/TimeLineMiniIcon_RogueMagic.prefab",
+    "IsSPReserved": false,
+    "BattleEventID": 46112
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 44005
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 48008
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [
+      4500501
+    ],
+    "Config": "Config/ConfigCharacter/BattleEvent/Avatar_FightFest_Main_Skill05_Config.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 45005
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [
+      4500301
+    ],
+    "Config": "Config/ConfigCharacter/BattleEvent/Avatar_FightFest_Main_Skill03_Config.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 45003
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 96140
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "Config/ConfigCharacter/BattleEvent/Avatar_RogueMagic_PassiveScepter_Ice.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "UI/Battle/TimeLine/TimeLineMiniIcon_RogueMagic.prefab",
+    "IsSPReserved": false,
+    "BattleEventID": 46202
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "Config/ConfigCharacter/BattleEvent/Avatar_RogueMagic_PassiveScepter_Ice.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "UI/Battle/TimeLine/TimeLineMiniIcon_RogueMagic.prefab",
+    "IsSPReserved": false,
+    "BattleEventID": 46203
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "Config/ConfigCharacter/BattleEvent/Avatar_RogueMagic_PassiveScepter_Wind.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "UI/Battle/TimeLine/TimeLineMiniIcon_RogueMagic.prefab",
+    "IsSPReserved": false,
+    "BattleEventID": 46204
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "Config/ConfigCharacter/BattleEvent/Avatar_RogueMagic_PassiveScepter_Physical.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "UI/Battle/TimeLine/TimeLineMiniIcon_RogueMagic.prefab",
+    "IsSPReserved": false,
+    "BattleEventID": 46205
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "Config/ConfigCharacter/BattleEvent/Avatar_RogueMagic_PassiveScepter_Imaginary.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "UI/Battle/TimeLine/TimeLineMiniIcon_RogueMagic.prefab",
+    "IsSPReserved": false,
+    "BattleEventID": 46206
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "Config/ConfigCharacter/BattleEvent/Avatar_RogueMagic_PassiveScepter_Quantum.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "UI/Battle/TimeLine/TimeLineMiniIcon_RogueMagic.prefab",
+    "IsSPReserved": false,
+    "BattleEventID": 46207
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "Config/ConfigCharacter/BattleEvent/Avatar_RogueMagic_PassiveScepter_Fire.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "UI/Battle/TimeLine/TimeLineMiniIcon_RogueMagic.prefab",
+    "IsSPReserved": false,
+    "BattleEventID": 46208
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "Config/ConfigCharacter/BattleEvent/Avatar_RogueMagic_PassiveScepter_Fire.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "UI/Battle/TimeLine/TimeLineMiniIcon_RogueMagic.prefab",
+    "IsSPReserved": false,
+    "BattleEventID": 46209
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "Config/ConfigCharacter/BattleEvent/Avatar_RogueMagic_PassiveScepter_Ice.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "UI/Battle/TimeLine/TimeLineMiniIcon_RogueMagic.prefab",
+    "IsSPReserved": false,
+    "BattleEventID": 46210
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "Config/ConfigCharacter/BattleEvent/Avatar_RogueMagic_PassiveScepter_Ice.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "UI/Battle/TimeLine/TimeLineMiniIcon_RogueMagic.prefab",
+    "IsSPReserved": false,
+    "BattleEventID": 46211
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "Config/ConfigCharacter/BattleEvent/Avatar_RogueMagic_PassiveScepter_Quantum.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "UI/Battle/TimeLine/TimeLineMiniIcon_RogueMagic.prefab",
+    "IsSPReserved": false,
+    "BattleEventID": 46212
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "Config/ConfigCharacter/BattleEvent/Avatar_RogueMagic_PassiveScepter_Wind.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "UI/Battle/TimeLine/TimeLineMiniIcon_RogueMagic.prefab",
+    "IsSPReserved": false,
+    "BattleEventID": 46213
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [
+      4500401
+    ],
+    "Config": "Config/ConfigCharacter/BattleEvent/Avatar_FightFest_Main_Skill04_Config.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 45004
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 20007
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 30132
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "Characters/CharacterPrefabs/Avatar/Boothill_00/Avatar_Boothill_00.prefab",
+    "SkillIDList": [],
+    "Config": "Config/ConfigCharacter/BattleEvent/Avatar_MissionBattleEvent419001_Config.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 60017
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": true,
+    "BattleEventID": 44006
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 48009
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 96144
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "Config/ConfigCharacter/BattleEvent/Avatar_MissionBattleEvent60018_Config.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 60018
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "Characters/CharacterPrefabs/Avatar/PlayerBoy_20/Avatar_PlayerBoy_20.prefab",
+    "SkillIDList": [
+      6001901,
+      6001902
+    ],
+    "Config": "Config/ConfigCharacter/BattleEvent/Avatar_MissionBattleEvent60019_Config.json",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 60019
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 20010
+  },
+  {
+    "BasePoint": "",
+    "Prefab": "",
+    "SkillIDList": [],
+    "Config": "",
+    "LevelAreaPrefab": "",
+    "BEActionBarPrefab": "",
+    "IsSPReserved": false,
+    "BattleEventID": 30133
+  }
+]

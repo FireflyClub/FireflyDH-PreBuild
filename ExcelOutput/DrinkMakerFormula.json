@@ -1,0 +1,647 @@
+[
+  {
+    "IngredientList": [
+      1,
+      3,
+      5
+    ],
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkFigure/DrinkMaker_MenuPic_01.png",
+    "SmallIconPath": "SpriteOutput/Quest/DrinkMaker/ItemIconLite/DrinkMaker_MenuPic_01.png",
+    "DecoID": 3,
+    "UnlockParam": 1,
+    "FormulaDesc": {
+      "Hash": -1740620142
+    },
+    "FormulaName": {
+      "Hash": 1839634136
+    },
+    "UnlockType": "PlayerLevel",
+    "IceID": 2,
+    "IsChallengeMode": false,
+    "IsMission": false,
+    "CupID": 32,
+    "MixRate": 2,
+    "FormulaID": 1
+  },
+  {
+    "IngredientList": [
+      2,
+      2,
+      3
+    ],
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkFigure/DrinkMaker_MenuPic_02.png",
+    "SmallIconPath": "SpriteOutput/Quest/DrinkMaker/ItemIconLite/DrinkMaker_MenuPic_02.png",
+    "DecoID": 5,
+    "UnlockParam": 1,
+    "FormulaDesc": {
+      "Hash": -1740620139
+    },
+    "FormulaName": {
+      "Hash": 1839634135
+    },
+    "UnlockType": "PlayerLevel",
+    "IceID": 0,
+    "IsChallengeMode": false,
+    "IsMission": false,
+    "CupID": 31,
+    "MixRate": 0,
+    "FormulaID": 2
+  },
+  {
+    "IngredientList": [
+      5,
+      5,
+      4,
+      4
+    ],
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkFigure/DrinkMaker_MenuPic_03.png",
+    "SmallIconPath": "SpriteOutput/Quest/DrinkMaker/ItemIconLite/DrinkMaker_MenuPic_03.png",
+    "DecoID": 9,
+    "UnlockParam": 1,
+    "FormulaDesc": {
+      "Hash": -1740620140
+    },
+    "FormulaName": {
+      "Hash": 1839634134
+    },
+    "UnlockType": "PlayerLevel",
+    "IceID": 2,
+    "IsChallengeMode": false,
+    "IsMission": false,
+    "CupID": 42,
+    "MixRate": 3,
+    "FormulaID": 3
+  },
+  {
+    "IngredientList": [
+      6,
+      6,
+      6,
+      3,
+      3
+    ],
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkFigure/DrinkMaker_MenuPic_04.png",
+    "SmallIconPath": "SpriteOutput/Quest/DrinkMaker/ItemIconLite/DrinkMaker_MenuPic_04.png",
+    "DecoID": 6,
+    "UnlockParam": 1,
+    "FormulaDesc": {
+      "Hash": -1740620137
+    },
+    "FormulaName": {
+      "Hash": 1839634141
+    },
+    "UnlockType": "PlayerLevel",
+    "IceID": 1,
+    "IsChallengeMode": false,
+    "IsMission": false,
+    "CupID": 51,
+    "MixRate": 0,
+    "FormulaID": 4
+  },
+  {
+    "IngredientList": [
+      3,
+      8,
+      10
+    ],
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkFigure/DrinkMaker_MenuPic_05.png",
+    "SmallIconPath": "SpriteOutput/Quest/DrinkMaker/ItemIconLite/DrinkMaker_MenuPic_05.png",
+    "DecoID": 4,
+    "UnlockParam": 802110208,
+    "FormulaDesc": {
+      "Hash": -1740620138
+    },
+    "FormulaName": {
+      "Hash": 1839634140
+    },
+    "UnlockType": "FinishSubMission",
+    "IceID": 1,
+    "IsChallengeMode": false,
+    "IsMission": false,
+    "CupID": 32,
+    "MixRate": 0,
+    "FormulaID": 5
+  },
+  {
+    "IngredientList": [
+      9,
+      5,
+      5,
+      3
+    ],
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkFigure/DrinkMaker_MenuPic_06.png",
+    "SmallIconPath": "SpriteOutput/Quest/DrinkMaker/ItemIconLite/DrinkMaker_MenuPic_06.png",
+    "DecoID": 2,
+    "UnlockParam": 802110208,
+    "FormulaDesc": {
+      "Hash": -1740620135
+    },
+    "FormulaName": {
+      "Hash": 1839634139
+    },
+    "UnlockType": "FinishSubMission",
+    "IceID": 2,
+    "IsChallengeMode": false,
+    "IsMission": false,
+    "CupID": 42,
+    "MixRate": 0,
+    "FormulaID": 6
+  },
+  {
+    "IngredientList": [
+      6,
+      7,
+      7,
+      8
+    ],
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkFigure/DrinkMaker_MenuPic_07.png",
+    "SmallIconPath": "SpriteOutput/Quest/DrinkMaker/ItemIconLite/DrinkMaker_MenuPic_07.png",
+    "DecoID": 8,
+    "UnlockParam": 802110208,
+    "FormulaDesc": {
+      "Hash": -1740620136
+    },
+    "FormulaName": {
+      "Hash": 1839634138
+    },
+    "UnlockType": "FinishSubMission",
+    "IceID": 0,
+    "IsChallengeMode": false,
+    "IsMission": false,
+    "CupID": 41,
+    "MixRate": 0,
+    "FormulaID": 7
+  },
+  {
+    "IngredientList": [
+      4,
+      4,
+      9,
+      1,
+      10
+    ],
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkFigure/DrinkMaker_MenuPic_08.png",
+    "SmallIconPath": "SpriteOutput/Quest/DrinkMaker/ItemIconLite/DrinkMaker_MenuPic_08.png",
+    "DecoID": 7,
+    "UnlockParam": 802110208,
+    "FormulaDesc": {
+      "Hash": -1740620133
+    },
+    "FormulaName": {
+      "Hash": 1839634145
+    },
+    "UnlockType": "FinishSubMission",
+    "IceID": 2,
+    "IsChallengeMode": false,
+    "IsMission": false,
+    "CupID": 52,
+    "MixRate": 4,
+    "FormulaID": 8
+  },
+  {
+    "IngredientList": [
+      11,
+      1,
+      1
+    ],
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkFigure/DrinkMaker_MenuPic_09.png",
+    "SmallIconPath": "SpriteOutput/Quest/DrinkMaker/ItemIconLite/DrinkMaker_MenuPic_09.png",
+    "DecoID": 1,
+    "UnlockParam": 802110404,
+    "FormulaDesc": {
+      "Hash": -1740620134
+    },
+    "FormulaName": {
+      "Hash": 1839634144
+    },
+    "UnlockType": "FinishSubMission",
+    "IceID": 2,
+    "IsChallengeMode": false,
+    "IsMission": false,
+    "CupID": 31,
+    "MixRate": 3,
+    "FormulaID": 9
+  },
+  {
+    "IngredientList": [
+      5,
+      5,
+      7,
+      12
+    ],
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkFigure/DrinkMaker_MenuPic_10.png",
+    "SmallIconPath": "SpriteOutput/Quest/DrinkMaker/ItemIconLite/DrinkMaker_MenuPic_10.png",
+    "DecoID": 9,
+    "UnlockParam": 802110404,
+    "FormulaDesc": {
+      "Hash": 1555549474
+    },
+    "FormulaName": {
+      "Hash": -1980202360
+    },
+    "UnlockType": "FinishSubMission",
+    "IceID": 1,
+    "IsChallengeMode": false,
+    "IsMission": false,
+    "CupID": 41,
+    "MixRate": 3,
+    "FormulaID": 10
+  },
+  {
+    "IngredientList": [
+      9,
+      5,
+      3,
+      12
+    ],
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkFigure/DrinkMaker_MenuPic_11.png",
+    "SmallIconPath": "SpriteOutput/Quest/DrinkMaker/ItemIconLite/DrinkMaker_MenuPic_11.png",
+    "DecoID": 8,
+    "UnlockParam": 802110404,
+    "FormulaDesc": {
+      "Hash": -1173333881
+    },
+    "FormulaName": {
+      "Hash": -414118419
+    },
+    "UnlockType": "FinishSubMission",
+    "IceID": 2,
+    "IsChallengeMode": false,
+    "IsMission": false,
+    "CupID": 42,
+    "MixRate": 0,
+    "FormulaID": 11
+  },
+  {
+    "IngredientList": [
+      11,
+      11,
+      11,
+      13,
+      13
+    ],
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkFigure/DrinkMaker_MenuPic_12.png",
+    "SmallIconPath": "SpriteOutput/Quest/DrinkMaker/ItemIconLite/DrinkMaker_MenuPic_12.png",
+    "DecoID": 0,
+    "UnlockParam": 802110404,
+    "FormulaDesc": {
+      "Hash": -1576618408
+    },
+    "FormulaName": {
+      "Hash": -817402946
+    },
+    "UnlockType": "FinishSubMission",
+    "IceID": 2,
+    "IsChallengeMode": false,
+    "IsMission": false,
+    "CupID": 52,
+    "MixRate": 0,
+    "FormulaID": 12
+  },
+  {
+    "IngredientList": [
+      5,
+      3,
+      1
+    ],
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkFigure/DrinkMaker_ChallengePic_01.png",
+    "SmallIconPath": "SpriteOutput/Quest/DrinkMaker/ItemIconLite/DrinkMaker_ChallengePic_01.png",
+    "DecoID": 3,
+    "UnlockParam": 1,
+    "FormulaDesc": {
+      "Hash": 1976616755
+    },
+    "FormulaName": {
+      "Hash": -1558997799
+    },
+    "UnlockType": "PlayerLevel",
+    "IceID": 2,
+    "IsChallengeMode": true,
+    "IsMission": false,
+    "CupID": 32,
+    "MixRate": 0,
+    "FormulaID": 101
+  },
+  {
+    "IngredientList": [
+      6,
+      7,
+      3,
+      3
+    ],
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkFigure/DrinkMaker_ChallengePic_02.png",
+    "SmallIconPath": "SpriteOutput/Quest/DrinkMaker/ItemIconLite/DrinkMaker_ChallengePic_02.png",
+    "DecoID": 5,
+    "UnlockParam": 1,
+    "FormulaDesc": {
+      "Hash": 1976616756
+    },
+    "FormulaName": {
+      "Hash": -1558997802
+    },
+    "UnlockType": "PlayerLevel",
+    "IceID": 1,
+    "IsChallengeMode": true,
+    "IsMission": false,
+    "CupID": 41,
+    "MixRate": 2,
+    "FormulaID": 102
+  },
+  {
+    "IngredientList": [
+      9,
+      9,
+      2,
+      1,
+      5
+    ],
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkFigure/DrinkMaker_ChallengePic_03.png",
+    "SmallIconPath": "SpriteOutput/Quest/DrinkMaker/ItemIconLite/DrinkMaker_ChallengePic_03.png",
+    "DecoID": 9,
+    "UnlockParam": 1,
+    "FormulaDesc": {
+      "Hash": 1976616757
+    },
+    "FormulaName": {
+      "Hash": -1558997801
+    },
+    "UnlockType": "PlayerLevel",
+    "IceID": 0,
+    "IsChallengeMode": true,
+    "IsMission": false,
+    "CupID": 52,
+    "MixRate": 0,
+    "FormulaID": 103
+  },
+  {
+    "IngredientList": [
+      1,
+      5,
+      10
+    ],
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkFigure/DrinkMaker_ChallengePic_04.png",
+    "SmallIconPath": "SpriteOutput/Quest/DrinkMaker/ItemIconLite/DrinkMaker_ChallengePic_04.png",
+    "DecoID": 4,
+    "UnlockParam": 1,
+    "FormulaDesc": {
+      "Hash": 1976616758
+    },
+    "FormulaName": {
+      "Hash": -1558997796
+    },
+    "UnlockType": "PlayerLevel",
+    "IceID": 2,
+    "IsChallengeMode": true,
+    "IsMission": false,
+    "CupID": 32,
+    "MixRate": 2,
+    "FormulaID": 104
+  },
+  {
+    "IngredientList": [
+      3,
+      3,
+      5,
+      1
+    ],
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkFigure/DrinkMaker_ChallengePic_05.png",
+    "SmallIconPath": "SpriteOutput/Quest/DrinkMaker/ItemIconLite/DrinkMaker_ChallengePic_05.png",
+    "DecoID": 1,
+    "UnlockParam": 1,
+    "FormulaDesc": {
+      "Hash": 1976616759
+    },
+    "FormulaName": {
+      "Hash": -1558997795
+    },
+    "UnlockType": "PlayerLevel",
+    "IceID": 2,
+    "IsChallengeMode": true,
+    "IsMission": false,
+    "CupID": 42,
+    "MixRate": 3,
+    "FormulaID": 105
+  },
+  {
+    "IngredientList": [
+      5,
+      2,
+      5
+    ],
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkFigure/DrinkMaker_ChallengePic_06.png",
+    "SmallIconPath": "SpriteOutput/Quest/DrinkMaker/ItemIconLite/DrinkMaker_ChallengePic_06.png",
+    "DecoID": 8,
+    "UnlockParam": 1,
+    "FormulaDesc": {
+      "Hash": 1976616760
+    },
+    "FormulaName": {
+      "Hash": -1558997798
+    },
+    "UnlockType": "PlayerLevel",
+    "IceID": 1,
+    "IsChallengeMode": true,
+    "IsMission": false,
+    "CupID": 31,
+    "MixRate": 2,
+    "FormulaID": 106
+  },
+  {
+    "IngredientList": [
+      1,
+      3,
+      3,
+      5
+    ],
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkFigure/DrinkMaker_ChallengePic_07.png",
+    "SmallIconPath": "SpriteOutput/Quest/DrinkMaker/ItemIconLite/DrinkMaker_ChallengePic_07.png",
+    "DecoID": 3,
+    "UnlockParam": 1,
+    "FormulaDesc": {
+      "Hash": 1976616761
+    },
+    "FormulaName": {
+      "Hash": -1558997797
+    },
+    "UnlockType": "PlayerLevel",
+    "IceID": 2,
+    "IsChallengeMode": true,
+    "IsMission": false,
+    "CupID": 42,
+    "MixRate": 2,
+    "FormulaID": 107
+  },
+  {
+    "IngredientList": [
+      11,
+      9,
+      6,
+      12
+    ],
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkFigure/DrinkMaker_ChallengePic_08.png",
+    "SmallIconPath": "SpriteOutput/Quest/DrinkMaker/ItemIconLite/DrinkMaker_ChallengePic_08.png",
+    "DecoID": 7,
+    "UnlockParam": 1,
+    "FormulaDesc": {
+      "Hash": 1976616762
+    },
+    "FormulaName": {
+      "Hash": -1558997792
+    },
+    "UnlockType": "PlayerLevel",
+    "IceID": 1,
+    "IsChallengeMode": true,
+    "IsMission": false,
+    "CupID": 42,
+    "MixRate": 2,
+    "FormulaID": 108
+  },
+  {
+    "IngredientList": [
+      7,
+      3,
+      3,
+      2
+    ],
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkFigure/DrinkMaker_ChallengePic_09.png",
+    "SmallIconPath": "SpriteOutput/Quest/DrinkMaker/ItemIconLite/DrinkMaker_ChallengePic_09.png",
+    "DecoID": 6,
+    "UnlockParam": 1,
+    "FormulaDesc": {
+      "Hash": 1976616763
+    },
+    "FormulaName": {
+      "Hash": -1558997791
+    },
+    "UnlockType": "PlayerLevel",
+    "IceID": 2,
+    "IsChallengeMode": true,
+    "IsMission": false,
+    "CupID": 42,
+    "MixRate": 2,
+    "FormulaID": 109
+  },
+  {
+    "IngredientList": [
+      6,
+      6,
+      7
+    ],
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkFigure/DrinkMaker_ChallengePic_10.png",
+    "SmallIconPath": "SpriteOutput/Quest/DrinkMaker/ItemIconLite/DrinkMaker_ChallengePic_10.png",
+    "DecoID": 2,
+    "UnlockParam": 1,
+    "FormulaDesc": {
+      "Hash": -752266601
+    },
+    "FormulaName": {
+      "Hash": 7086141
+    },
+    "UnlockType": "PlayerLevel",
+    "IceID": 2,
+    "IsChallengeMode": true,
+    "IsMission": false,
+    "CupID": 32,
+    "MixRate": 3,
+    "FormulaID": 110
+  },
+  {
+    "IngredientList": [
+      4,
+      6,
+      5,
+      5
+    ],
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkFigure/DrinkMaker_ChallengePic_11.png",
+    "SmallIconPath": "SpriteOutput/Quest/DrinkMaker/ItemIconLite/DrinkMaker_ChallengePic_11.png",
+    "DecoID": 3,
+    "UnlockParam": 1,
+    "FormulaDesc": {
+      "Hash": -752266600
+    },
+    "FormulaName": {
+      "Hash": 7086142
+    },
+    "UnlockType": "PlayerLevel",
+    "IceID": 2,
+    "IsChallengeMode": true,
+    "IsMission": false,
+    "CupID": 42,
+    "MixRate": 2,
+    "FormulaID": 111
+  },
+  {
+    "IngredientList": [
+      4,
+      2,
+      2,
+      2,
+      10
+    ],
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkFigure/DrinkMaker_ChallengePic_12.png",
+    "SmallIconPath": "SpriteOutput/Quest/DrinkMaker/ItemIconLite/DrinkMaker_ChallengePic_12.png",
+    "DecoID": 7,
+    "UnlockParam": 1,
+    "FormulaDesc": {
+      "Hash": -752266599
+    },
+    "FormulaName": {
+      "Hash": 7086139
+    },
+    "UnlockType": "PlayerLevel",
+    "IceID": 2,
+    "IsChallengeMode": true,
+    "IsMission": false,
+    "CupID": 52,
+    "MixRate": 2,
+    "FormulaID": 112
+  },
+  {
+    "IngredientList": [
+      20,
+      20,
+      11
+    ],
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkFigure/DrinkMaker_MenuPic_13.png",
+    "SmallIconPath": "SpriteOutput/Quest/DrinkMaker/ItemIconLite/DrinkMaker_MenuPic_13.png",
+    "DecoID": 1,
+    "UnlockParam": 1,
+    "FormulaDesc": {
+      "Hash": 1976616788
+    },
+    "FormulaName": {
+      "Hash": -1558997898
+    },
+    "UnlockType": "PlayerLevel",
+    "IceID": 2,
+    "IsChallengeMode": false,
+    "IsMission": true,
+    "CupID": 31,
+    "MixRate": 3,
+    "FormulaID": 201
+  },
+  {
+    "IngredientList": [
+      6,
+      6,
+      21
+    ],
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkFigure/DrinkMaker_MenuPic_14.png",
+    "SmallIconPath": "SpriteOutput/Quest/DrinkMaker/ItemIconLite/DrinkMaker_MenuPic_14.png",
+    "DecoID": 3,
+    "UnlockParam": 1,
+    "FormulaDesc": {
+      "Hash": 1976616787
+    },
+    "FormulaName": {
+      "Hash": -1558997895
+    },
+    "UnlockType": "PlayerLevel",
+    "IceID": 1,
+    "IsChallengeMode": false,
+    "IsMission": true,
+    "CupID": 32,
+    "MixRate": 0,
+    "FormulaID": 202
+  }
+]

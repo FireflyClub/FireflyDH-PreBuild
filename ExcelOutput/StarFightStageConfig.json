@@ -1,0 +1,178 @@
+[
+  {
+    "QuestList": [
+      6026100
+    ],
+    "GroupID": 1,
+    "EventID": 417001,
+    "BattleAreaID": 2033101,
+    "DifficultyLevel": "Easy",
+    "UnlockQuest": 0
+  },
+  {
+    "QuestList": [
+      6026101,
+      6026102,
+      6026103
+    ],
+    "GroupID": 1,
+    "EventID": 417101,
+    "BattleAreaID": 2033101,
+    "DifficultyLevel": "Hard",
+    "UnlockQuest": 6026100
+  },
+  {
+    "QuestList": [
+      6026124
+    ],
+    "GroupID": 2,
+    "EventID": 417008,
+    "BattleAreaID": 2033202,
+    "DifficultyLevel": "Easy",
+    "UnlockQuest": 0
+  },
+  {
+    "QuestList": [
+      6026125,
+      6026126,
+      6026127
+    ],
+    "GroupID": 2,
+    "EventID": 417108,
+    "BattleAreaID": 2033202,
+    "DifficultyLevel": "Hard",
+    "UnlockQuest": 6026124
+  },
+  {
+    "QuestList": [
+      6026108
+    ],
+    "GroupID": 3,
+    "EventID": 417003,
+    "BattleAreaID": 2013101,
+    "DifficultyLevel": "Easy",
+    "UnlockQuest": 0
+  },
+  {
+    "QuestList": [
+      6026109,
+      6026110,
+      6026111
+    ],
+    "GroupID": 3,
+    "EventID": 417103,
+    "BattleAreaID": 2013101,
+    "DifficultyLevel": "Hard",
+    "UnlockQuest": 6026108
+  },
+  {
+    "QuestList": [
+      6026116
+    ],
+    "GroupID": 4,
+    "EventID": 417006,
+    "BattleAreaID": 2031201,
+    "DifficultyLevel": "Easy",
+    "UnlockQuest": 0
+  },
+  {
+    "QuestList": [
+      6026117,
+      6026118,
+      6026119
+    ],
+    "GroupID": 4,
+    "EventID": 417106,
+    "BattleAreaID": 2031201,
+    "DifficultyLevel": "Hard",
+    "UnlockQuest": 6026116
+  },
+  {
+    "QuestList": [
+      6026112
+    ],
+    "GroupID": 5,
+    "EventID": 417004,
+    "BattleAreaID": 2013602,
+    "DifficultyLevel": "Easy",
+    "UnlockQuest": 0
+  },
+  {
+    "QuestList": [
+      6026113,
+      6026114,
+      6026115
+    ],
+    "GroupID": 5,
+    "EventID": 417104,
+    "BattleAreaID": 2013602,
+    "DifficultyLevel": "Hard",
+    "UnlockQuest": 6026112
+  },
+  {
+    "QuestList": [
+      6026120
+    ],
+    "GroupID": 6,
+    "EventID": 417007,
+    "BattleAreaID": 2031101,
+    "DifficultyLevel": "Easy",
+    "UnlockQuest": 0
+  },
+  {
+    "QuestList": [
+      6026121,
+      6026122,
+      6026123
+    ],
+    "GroupID": 6,
+    "EventID": 417107,
+    "BattleAreaID": 2031101,
+    "DifficultyLevel": "Hard",
+    "UnlockQuest": 6026120
+  },
+  {
+    "QuestList": [
+      6026104
+    ],
+    "GroupID": 7,
+    "EventID": 417002,
+    "BattleAreaID": 2022201,
+    "DifficultyLevel": "Easy",
+    "UnlockQuest": 0
+  },
+  {
+    "QuestList": [
+      6026105,
+      6026106,
+      6026107
+    ],
+    "GroupID": 7,
+    "EventID": 417102,
+    "BattleAreaID": 2022201,
+    "DifficultyLevel": "Hard",
+    "UnlockQuest": 6026104
+  },
+  {
+    "QuestList": [
+      6026128
+    ],
+    "GroupID": 8,
+    "EventID": 417009,
+    "BattleAreaID": 2032101,
+    "DifficultyLevel": "Easy",
+    "UnlockQuest": 0
+  },
+  {
+    "QuestList": [
+      6026129,
+      6026130,
+      6026131
+    ],
+    "GroupID": 8,
+    "EventID": 417109,
+    "BattleAreaID": 2032101,
+    "DifficultyLevel": "Hard",
+    "UnlockQuest": 6026128
+  }
+]

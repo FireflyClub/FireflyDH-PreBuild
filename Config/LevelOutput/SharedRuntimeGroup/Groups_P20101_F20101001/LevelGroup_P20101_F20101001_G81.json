@@ -1,0 +1,20 @@
+{
+  "GroupName": "New Group",
+  "Category": "Mission",
+  "AreaAnchorName": "LevelArea_P20101_F20101001_G81",
+  "SaveType": "Reset",
+  "ConflictIDList": [],
+  "StreamingTemplateType": "Standard",
+  "HoyoGroupLowestLoadPlatformQuality": "VeryLow",
+  "AnchorList": [],
+  "MonsterList": [],
+  "PropList": [],
+  "DistrictList": [],
+  "WaypointList": [],
+  "PathwayList": [],
+  "BattleAreaList": [],
+  "NPCList": [],
+  "CrowdList": [],
+  "PedestrianList": [],
+  "SmartObjectList": []
+}

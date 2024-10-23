@@ -1,0 +1,121 @@
+[
+  {
+    "IconPath": "SpriteOutput/Quest/Monopoly/MonopolyIcon/MonopolyGachaIcon1.png",
+    "IconOutlinePath": "SpriteOutput/Quest/Monopoly/MonopolyIcon/MonopolyGachaIcon1.png",
+    "RuleIconPath": "SpriteOutput/Quest/Monopoly/MonopolyIcon/MonopolyGachaIcon1.png",
+    "ResourceNum": 0,
+    "ResourceID": 1
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/Monopoly/MonopolyIcon/MonopolyGachaIcon2.png",
+    "IconOutlinePath": "SpriteOutput/Quest/Monopoly/MonopolyIcon/MonopolyGachaIcon2.png",
+    "RuleIconPath": "SpriteOutput/Quest/Monopoly/MonopolyIcon/MonopolyGachaIcon2.png",
+    "ResourceNum": 0,
+    "ResourceID": 2
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/Monopoly/MonopolyIcon/MonopolyGachaIcon3.png",
+    "IconOutlinePath": "SpriteOutput/Quest/Monopoly/MonopolyIcon/MonopolyGachaIcon3.png",
+    "RuleIconPath": "SpriteOutput/Quest/Monopoly/MonopolyIcon/MonopolyGachaIcon3.png",
+    "ResourceNum": 0,
+    "ResourceID": 3
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/Monopoly/MonopolyIcon/MonopolyCookieIcon1.png",
+    "IconOutlinePath": "SpriteOutput/Quest/Monopoly/MonopolyIcon/MonopolyCookieRuleIcon1Outline.png",
+    "RuleIconPath": "SpriteOutput/Quest/Monopoly/MonopolyIcon/MonopolyCookieRuleIcon1.png",
+    "ResourceNum": 0,
+    "ResourceID": 4
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/Monopoly/MonopolyIcon/MonopolyCookieIcon2.png",
+    "IconOutlinePath": "SpriteOutput/Quest/Monopoly/MonopolyIcon/MonopolyCookieRuleIcon2Outline.png",
+    "RuleIconPath": "SpriteOutput/Quest/Monopoly/MonopolyIcon/MonopolyCookieRuleIcon2.png",
+    "ResourceNum": 0,
+    "ResourceID": 5
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/Monopoly/MonopolyIcon/MonopolyCookieIcon3.png",
+    "IconOutlinePath": "SpriteOutput/Quest/Monopoly/MonopolyIcon/MonopolyCookieRuleIcon3Outline.png",
+    "RuleIconPath": "SpriteOutput/Quest/Monopoly/MonopolyIcon/MonopolyCookieRuleIcon3.png",
+    "ResourceNum": 0,
+    "ResourceID": 6
+  },
+  {
+    "IconPath": "",
+    "IconOutlinePath": "",
+    "RuleIconPath": "",
+    "ResourceNum": 1,
+    "ResourceID": 101
+  },
+  {
+    "IconPath": "",
+    "IconOutlinePath": "",
+    "RuleIconPath": "",
+    "ResourceNum": 2,
+    "ResourceID": 102
+  },
+  {
+    "IconPath": "",
+    "IconOutlinePath": "",
+    "RuleIconPath": "",
+    "ResourceNum": 3,
+    "ResourceID": 103
+  },
+  {
+    "IconPath": "",
+    "IconOutlinePath": "",
+    "RuleIconPath": "",
+    "ResourceNum": 4,
+    "ResourceID": 104
+  },
+  {
+    "IconPath": "",
+    "IconOutlinePath": "",
+    "RuleIconPath": "",
+    "ResourceNum": 5,
+    "ResourceID": 105
+  },
+  {
+    "IconPath": "",
+    "IconOutlinePath": "",
+    "RuleIconPath": "",
+    "ResourceNum": 6,
+    "ResourceID": 106
+  },
+  {
+    "IconPath": "",
+    "IconOutlinePath": "",
+    "RuleIconPath": "",
+    "ResourceNum": 7,
+    "ResourceID": 107
+  },
+  {
+    "IconPath": "",
+    "IconOutlinePath": "",
+    "RuleIconPath": "",
+    "ResourceNum": 8,
+    "ResourceID": 108
+  },
+  {
+    "IconPath": "",
+    "IconOutlinePath": "",
+    "RuleIconPath": "",
+    "ResourceNum": 9,
+    "ResourceID": 109
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/Monopoly/MonopolyIcon/MonopolyGachaIcon4.png",
+    "IconOutlinePath": "",
+    "RuleIconPath": "",
+    "ResourceNum": 0,
+    "ResourceID": 99
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/Monopoly/MonopolyIcon/MonopolyCookieIconBomb.png",
+    "IconOutlinePath": "SpriteOutput/Quest/Monopoly/MonopolyIcon/MonopolyCookieRuleIconBombOutline.png",
+    "RuleIconPath": "SpriteOutput/Quest/Monopoly/MonopolyIcon/MonopolyCookieRuleIconBomb.png",
+    "ResourceNum": 0,
+    "ResourceID": 98
+  }
+]

@@ -1,0 +1,522 @@
+[
+  {
+    "SkillMaterialLarge": 110143,
+    "BossMaterial": 110501,
+    "SkillMaterialMedium": 110142,
+    "AvatarID": 1001,
+    "SkillMaterialSmall": 110141,
+    "PromotionMaterial": 110403
+  },
+  {
+    "SkillMaterialLarge": 110123,
+    "BossMaterial": 110501,
+    "SkillMaterialMedium": 110122,
+    "AvatarID": 1002,
+    "SkillMaterialSmall": 110121,
+    "PromotionMaterial": 110405
+  },
+  {
+    "SkillMaterialLarge": 110133,
+    "BossMaterial": 110501,
+    "SkillMaterialMedium": 110132,
+    "AvatarID": 1003,
+    "SkillMaterialSmall": 110131,
+    "PromotionMaterial": 110402
+  },
+  {
+    "SkillMaterialLarge": 110153,
+    "BossMaterial": 110501,
+    "SkillMaterialMedium": 110152,
+    "AvatarID": 1004,
+    "SkillMaterialSmall": 110151,
+    "PromotionMaterial": 110407
+  },
+  {
+    "SkillMaterialLarge": 110153,
+    "BossMaterial": 110503,
+    "SkillMaterialMedium": 110152,
+    "AvatarID": 1005,
+    "SkillMaterialSmall": 110151,
+    "PromotionMaterial": 110414
+  },
+  {
+    "SkillMaterialLarge": 110153,
+    "BossMaterial": 110501,
+    "SkillMaterialMedium": 110152,
+    "AvatarID": 1006,
+    "SkillMaterialSmall": 110151,
+    "PromotionMaterial": 110406
+  },
+  {
+    "SkillMaterialLarge": 110113,
+    "BossMaterial": 110501,
+    "SkillMaterialMedium": 110112,
+    "AvatarID": 1008,
+    "SkillMaterialSmall": 110111,
+    "PromotionMaterial": 110404
+  },
+  {
+    "SkillMaterialLarge": 110163,
+    "BossMaterial": 110501,
+    "SkillMaterialMedium": 110162,
+    "AvatarID": 1009,
+    "SkillMaterialSmall": 110161,
+    "PromotionMaterial": 110402
+  },
+  {
+    "SkillMaterialLarge": 110133,
+    "BossMaterial": 110501,
+    "SkillMaterialMedium": 110132,
+    "AvatarID": 1013,
+    "SkillMaterialSmall": 110131,
+    "PromotionMaterial": 110403
+  },
+  {
+    "SkillMaterialLarge": 110163,
+    "BossMaterial": 110502,
+    "SkillMaterialMedium": 110162,
+    "AvatarID": 1101,
+    "SkillMaterialSmall": 110161,
+    "PromotionMaterial": 110405
+  },
+  {
+    "SkillMaterialLarge": 110123,
+    "BossMaterial": 110502,
+    "SkillMaterialMedium": 110122,
+    "AvatarID": 1102,
+    "SkillMaterialSmall": 110121,
+    "PromotionMaterial": 110406
+  },
+  {
+    "SkillMaterialLarge": 110133,
+    "BossMaterial": 110502,
+    "SkillMaterialMedium": 110132,
+    "AvatarID": 1103,
+    "SkillMaterialSmall": 110131,
+    "PromotionMaterial": 110404
+  },
+  {
+    "SkillMaterialLarge": 110143,
+    "BossMaterial": 110502,
+    "SkillMaterialMedium": 110142,
+    "AvatarID": 1104,
+    "SkillMaterialSmall": 110141,
+    "PromotionMaterial": 110403
+  },
+  {
+    "SkillMaterialLarge": 110173,
+    "BossMaterial": 110502,
+    "SkillMaterialMedium": 110172,
+    "AvatarID": 1105,
+    "SkillMaterialSmall": 110171,
+    "PromotionMaterial": 110401
+  },
+  {
+    "SkillMaterialLarge": 110153,
+    "BossMaterial": 110502,
+    "SkillMaterialMedium": 110152,
+    "AvatarID": 1106,
+    "SkillMaterialSmall": 110151,
+    "PromotionMaterial": 110403
+  },
+  {
+    "SkillMaterialLarge": 110113,
+    "BossMaterial": 110502,
+    "SkillMaterialMedium": 110112,
+    "AvatarID": 1107,
+    "SkillMaterialSmall": 110111,
+    "PromotionMaterial": 110401
+  },
+  {
+    "SkillMaterialLarge": 110153,
+    "BossMaterial": 110502,
+    "SkillMaterialMedium": 110152,
+    "AvatarID": 1108,
+    "SkillMaterialSmall": 110151,
+    "PromotionMaterial": 110405
+  },
+  {
+    "SkillMaterialLarge": 110113,
+    "BossMaterial": 110502,
+    "SkillMaterialMedium": 110112,
+    "AvatarID": 1109,
+    "SkillMaterialSmall": 110111,
+    "PromotionMaterial": 110402
+  },
+  {
+    "SkillMaterialLarge": 110173,
+    "BossMaterial": 110503,
+    "SkillMaterialMedium": 110172,
+    "AvatarID": 1110,
+    "SkillMaterialSmall": 110171,
+    "PromotionMaterial": 110416
+  },
+  {
+    "SkillMaterialLarge": 110153,
+    "BossMaterial": 110503,
+    "SkillMaterialMedium": 110152,
+    "AvatarID": 1111,
+    "SkillMaterialSmall": 110151,
+    "PromotionMaterial": 110401
+  },
+  {
+    "SkillMaterialLarge": 110123,
+    "BossMaterial": 110503,
+    "SkillMaterialMedium": 110122,
+    "AvatarID": 1112,
+    "SkillMaterialSmall": 110121,
+    "PromotionMaterial": 110412
+  },
+  {
+    "SkillMaterialLarge": 110133,
+    "BossMaterial": 110502,
+    "SkillMaterialMedium": 110132,
+    "AvatarID": 1201,
+    "SkillMaterialSmall": 110131,
+    "PromotionMaterial": 110406
+  },
+  {
+    "SkillMaterialLarge": 110163,
+    "BossMaterial": 110501,
+    "SkillMaterialMedium": 110162,
+    "AvatarID": 1202,
+    "SkillMaterialSmall": 110161,
+    "PromotionMaterial": 110404
+  },
+  {
+    "SkillMaterialLarge": 110173,
+    "BossMaterial": 110502,
+    "SkillMaterialMedium": 110172,
+    "AvatarID": 1203,
+    "SkillMaterialSmall": 110171,
+    "PromotionMaterial": 110407
+  },
+  {
+    "SkillMaterialLarge": 110133,
+    "BossMaterial": 110501,
+    "SkillMaterialMedium": 110132,
+    "AvatarID": 1204,
+    "SkillMaterialSmall": 110131,
+    "PromotionMaterial": 110414
+  },
+  {
+    "SkillMaterialLarge": 110113,
+    "BossMaterial": 110503,
+    "SkillMaterialMedium": 110112,
+    "AvatarID": 1205,
+    "SkillMaterialSmall": 110111,
+    "PromotionMaterial": 110415
+  },
+  {
+    "SkillMaterialLarge": 110123,
+    "BossMaterial": 110502,
+    "SkillMaterialMedium": 110122,
+    "AvatarID": 1206,
+    "SkillMaterialSmall": 110121,
+    "PromotionMaterial": 110401
+  },
+  {
+    "SkillMaterialLarge": 110163,
+    "BossMaterial": 110501,
+    "SkillMaterialMedium": 110162,
+    "AvatarID": 1207,
+    "SkillMaterialSmall": 110161,
+    "PromotionMaterial": 110407
+  },
+  {
+    "SkillMaterialLarge": 110143,
+    "BossMaterial": 110503,
+    "SkillMaterialMedium": 110142,
+    "AvatarID": 1208,
+    "SkillMaterialSmall": 110141,
+    "PromotionMaterial": 110416
+  },
+  {
+    "SkillMaterialLarge": 110123,
+    "BossMaterial": 110502,
+    "SkillMaterialMedium": 110122,
+    "AvatarID": 1209,
+    "SkillMaterialSmall": 110121,
+    "PromotionMaterial": 110413
+  },
+  {
+    "SkillMaterialLarge": 110153,
+    "BossMaterial": 110503,
+    "SkillMaterialMedium": 110152,
+    "AvatarID": 1210,
+    "SkillMaterialSmall": 110151,
+    "PromotionMaterial": 110412
+  },
+  {
+    "SkillMaterialLarge": 110173,
+    "BossMaterial": 110502,
+    "SkillMaterialMedium": 110172,
+    "AvatarID": 1211,
+    "SkillMaterialSmall": 110171,
+    "PromotionMaterial": 110404
+  },
+  {
+    "SkillMaterialLarge": 110113,
+    "BossMaterial": 110503,
+    "SkillMaterialMedium": 110112,
+    "AvatarID": 1212,
+    "SkillMaterialSmall": 110111,
+    "PromotionMaterial": 110413
+  },
+  {
+    "SkillMaterialLarge": 110113,
+    "BossMaterial": 110503,
+    "SkillMaterialMedium": 110112,
+    "AvatarID": 1213,
+    "SkillMaterialSmall": 110111,
+    "PromotionMaterial": 110417
+  },
+  {
+    "SkillMaterialLarge": 110113,
+    "BossMaterial": 110504,
+    "SkillMaterialMedium": 110112,
+    "AvatarID": 1214,
+    "SkillMaterialSmall": 110111,
+    "PromotionMaterial": 110416
+  },
+  {
+    "SkillMaterialLarge": 110163,
+    "BossMaterial": 110503,
+    "SkillMaterialMedium": 110162,
+    "AvatarID": 1215,
+    "SkillMaterialSmall": 110161,
+    "PromotionMaterial": 110411
+  },
+  {
+    "SkillMaterialLarge": 110173,
+    "BossMaterial": 110503,
+    "SkillMaterialMedium": 110172,
+    "AvatarID": 1217,
+    "SkillMaterialSmall": 110171,
+    "PromotionMaterial": 110415
+  },
+  {
+    "SkillMaterialLarge": 110223,
+    "BossMaterial": 110503,
+    "SkillMaterialMedium": 110222,
+    "AvatarID": 1218,
+    "SkillMaterialSmall": 110221,
+    "PromotionMaterial": 110422
+  },
+  {
+    "SkillMaterialLarge": 110193,
+    "BossMaterial": 110503,
+    "SkillMaterialMedium": 110192,
+    "AvatarID": 1220,
+    "SkillMaterialSmall": 110191,
+    "PromotionMaterial": 110425
+  },
+  {
+    "SkillMaterialLarge": 110183,
+    "BossMaterial": 110503,
+    "SkillMaterialMedium": 110182,
+    "AvatarID": 1221,
+    "SkillMaterialSmall": 110181,
+    "PromotionMaterial": 110421
+  },
+  {
+    "SkillMaterialLarge": 110243,
+    "BossMaterial": 110506,
+    "SkillMaterialMedium": 110242,
+    "AvatarID": 1222,
+    "SkillMaterialSmall": 110241,
+    "PromotionMaterial": 110422
+  },
+  {
+    "SkillMaterialLarge": 110193,
+    "BossMaterial": 110506,
+    "SkillMaterialMedium": 110192,
+    "AvatarID": 1223,
+    "SkillMaterialSmall": 110191,
+    "PromotionMaterial": 110424
+  },
+  {
+    "SkillMaterialLarge": 110193,
+    "BossMaterial": 110501,
+    "SkillMaterialMedium": 110192,
+    "AvatarID": 1224,
+    "SkillMaterialSmall": 110191,
+    "PromotionMaterial": 110403
+  },
+  {
+    "SkillMaterialLarge": 110223,
+    "BossMaterial": 110503,
+    "SkillMaterialMedium": 110222,
+    "AvatarID": 1225,
+    "SkillMaterialSmall": 110221,
+    "PromotionMaterial": 110412
+  },
+  {
+    "SkillMaterialLarge": 110243,
+    "BossMaterial": 110504,
+    "SkillMaterialMedium": 110242,
+    "AvatarID": 1301,
+    "SkillMaterialSmall": 110241,
+    "PromotionMaterial": 110422
+  },
+  {
+    "SkillMaterialLarge": 110133,
+    "BossMaterial": 110503,
+    "SkillMaterialMedium": 110132,
+    "AvatarID": 1302,
+    "SkillMaterialSmall": 110131,
+    "PromotionMaterial": 110411
+  },
+  {
+    "SkillMaterialLarge": 110163,
+    "BossMaterial": 110504,
+    "SkillMaterialMedium": 110162,
+    "AvatarID": 1303,
+    "SkillMaterialSmall": 110161,
+    "PromotionMaterial": 110413
+  },
+  {
+    "SkillMaterialLarge": 110213,
+    "BossMaterial": 110504,
+    "SkillMaterialMedium": 110212,
+    "AvatarID": 1304,
+    "SkillMaterialSmall": 110211,
+    "PromotionMaterial": 110417
+  },
+  {
+    "SkillMaterialLarge": 110123,
+    "BossMaterial": 110504,
+    "SkillMaterialMedium": 110122,
+    "AvatarID": 1305,
+    "SkillMaterialSmall": 110121,
+    "PromotionMaterial": 110417
+  },
+  {
+    "SkillMaterialLarge": 110233,
+    "BossMaterial": 110504,
+    "SkillMaterialMedium": 110232,
+    "AvatarID": 1306,
+    "SkillMaterialSmall": 110231,
+    "PromotionMaterial": 110426
+  },
+  {
+    "SkillMaterialLarge": 110223,
+    "BossMaterial": 110504,
+    "SkillMaterialMedium": 110222,
+    "AvatarID": 1307,
+    "SkillMaterialSmall": 110221,
+    "PromotionMaterial": 110415
+  },
+  {
+    "SkillMaterialLarge": 110223,
+    "BossMaterial": 110504,
+    "SkillMaterialMedium": 110222,
+    "AvatarID": 1308,
+    "SkillMaterialSmall": 110221,
+    "PromotionMaterial": 110414
+  },
+  {
+    "SkillMaterialLarge": 110233,
+    "BossMaterial": 110504,
+    "SkillMaterialMedium": 110232,
+    "AvatarID": 1309,
+    "SkillMaterialSmall": 110231,
+    "PromotionMaterial": 110421
+  },
+  {
+    "SkillMaterialLarge": 110183,
+    "BossMaterial": 110505,
+    "SkillMaterialMedium": 110182,
+    "AvatarID": 1310,
+    "SkillMaterialSmall": 110181,
+    "PromotionMaterial": 110422
+  },
+  {
+    "SkillMaterialLarge": 110183,
+    "BossMaterial": 110504,
+    "SkillMaterialMedium": 110182,
+    "AvatarID": 1312,
+    "SkillMaterialSmall": 110181,
+    "PromotionMaterial": 110423
+  },
+  {
+    "SkillMaterialLarge": 110233,
+    "BossMaterial": 110505,
+    "SkillMaterialMedium": 110232,
+    "AvatarID": 1313,
+    "SkillMaterialSmall": 110231,
+    "PromotionMaterial": 110427
+  },
+  {
+    "SkillMaterialLarge": 110203,
+    "BossMaterial": 110505,
+    "SkillMaterialMedium": 110202,
+    "AvatarID": 1314,
+    "SkillMaterialSmall": 110201,
+    "PromotionMaterial": 110426
+  },
+  {
+    "SkillMaterialLarge": 110193,
+    "BossMaterial": 110505,
+    "SkillMaterialMedium": 110192,
+    "AvatarID": 1315,
+    "SkillMaterialSmall": 110191,
+    "PromotionMaterial": 110421
+  },
+  {
+    "SkillMaterialLarge": 110203,
+    "BossMaterial": 110505,
+    "SkillMaterialMedium": 110202,
+    "AvatarID": 1317,
+    "SkillMaterialSmall": 110201,
+    "PromotionMaterial": 110427
+  },
+  {
+    "SkillMaterialLarge": 110113,
+    "BossMaterial": 110501,
+    "SkillMaterialMedium": 110112,
+    "AvatarID": 8001,
+    "SkillMaterialSmall": 110111,
+    "PromotionMaterial": 110400
+  },
+  {
+    "SkillMaterialLarge": 110113,
+    "BossMaterial": 110501,
+    "SkillMaterialMedium": 110112,
+    "AvatarID": 8002,
+    "SkillMaterialSmall": 110111,
+    "PromotionMaterial": 110400
+  },
+  {
+    "SkillMaterialLarge": 110143,
+    "BossMaterial": 110501,
+    "SkillMaterialMedium": 110142,
+    "AvatarID": 8003,
+    "SkillMaterialSmall": 110141,
+    "PromotionMaterial": 110400
+  },
+  {
+    "SkillMaterialLarge": 110143,
+    "BossMaterial": 110501,
+    "SkillMaterialMedium": 110142,
+    "AvatarID": 8004,
+    "SkillMaterialSmall": 110141,
+    "PromotionMaterial": 110400
+  },
+  {
+    "SkillMaterialLarge": 110233,
+    "BossMaterial": 110504,
+    "SkillMaterialMedium": 110232,
+    "AvatarID": 8005,
+    "SkillMaterialSmall": 110231,
+    "PromotionMaterial": 110400
+  },
+  {
+    "SkillMaterialLarge": 110233,
+    "BossMaterial": 110504,
+    "SkillMaterialMedium": 110232,
+    "AvatarID": 8006,
+    "SkillMaterialSmall": 110231,
+    "PromotionMaterial": 110400
+  }
+]

@@ -1,0 +1,301 @@
+[
+  {
+    "AvailableBattleID": [
+      1,
+      4
+    ],
+    "BuffID": 1,
+    "ActivityModuleID": 4000208,
+    "BuffSlot": 1,
+    "ClientShowAvailableTips": true,
+    "UnlockChapterID": 1,
+    "MazebuffID": 3102107
+  },
+  {
+    "AvailableBattleID": [
+      1,
+      4
+    ],
+    "BuffID": 2,
+    "ActivityModuleID": 4000208,
+    "BuffSlot": 1,
+    "ClientShowAvailableTips": true,
+    "UnlockChapterID": 1,
+    "MazebuffID": 3102108
+  },
+  {
+    "AvailableBattleID": [
+      2,
+      5
+    ],
+    "BuffID": 3,
+    "ActivityModuleID": 4000208,
+    "BuffSlot": 1,
+    "ClientShowAvailableTips": true,
+    "UnlockChapterID": 2,
+    "MazebuffID": 3102101
+  },
+  {
+    "AvailableBattleID": [
+      2,
+      5
+    ],
+    "BuffID": 4,
+    "ActivityModuleID": 4000208,
+    "BuffSlot": 1,
+    "ClientShowAvailableTips": true,
+    "UnlockChapterID": 2,
+    "MazebuffID": 3102102
+  },
+  {
+    "AvailableBattleID": [
+      3,
+      6
+    ],
+    "BuffID": 6,
+    "ActivityModuleID": 4000208,
+    "BuffSlot": 1,
+    "ClientShowAvailableTips": true,
+    "UnlockChapterID": 3,
+    "MazebuffID": 3102105
+  },
+  {
+    "AvailableBattleID": [
+      3,
+      6
+    ],
+    "BuffID": 7,
+    "ActivityModuleID": 4000208,
+    "BuffSlot": 1,
+    "ClientShowAvailableTips": true,
+    "UnlockChapterID": 3,
+    "MazebuffID": 3102106
+  },
+  {
+    "AvailableBattleID": [
+      1,
+      4
+    ],
+    "BuffID": 8,
+    "ActivityModuleID": 4000208,
+    "BuffSlot": 2,
+    "ClientShowAvailableTips": true,
+    "UnlockChapterID": 1,
+    "MazebuffID": 3102208
+  },
+  {
+    "AvailableBattleID": [
+      1,
+      4
+    ],
+    "BuffID": 9,
+    "ActivityModuleID": 4000208,
+    "BuffSlot": 2,
+    "ClientShowAvailableTips": true,
+    "UnlockChapterID": 1,
+    "MazebuffID": 3102209
+  },
+  {
+    "AvailableBattleID": [
+      2,
+      5
+    ],
+    "BuffID": 10,
+    "ActivityModuleID": 4000208,
+    "BuffSlot": 2,
+    "ClientShowAvailableTips": true,
+    "UnlockChapterID": 2,
+    "MazebuffID": 3102201
+  },
+  {
+    "AvailableBattleID": [
+      2,
+      5
+    ],
+    "BuffID": 11,
+    "ActivityModuleID": 4000208,
+    "BuffSlot": 2,
+    "ClientShowAvailableTips": true,
+    "UnlockChapterID": 2,
+    "MazebuffID": 3102202
+  },
+  {
+    "AvailableBattleID": [
+      2,
+      5
+    ],
+    "BuffID": 12,
+    "ActivityModuleID": 4000208,
+    "BuffSlot": 2,
+    "ClientShowAvailableTips": true,
+    "UnlockChapterID": 2,
+    "MazebuffID": 3102203
+  },
+  {
+    "AvailableBattleID": [
+      3,
+      6
+    ],
+    "BuffID": 13,
+    "ActivityModuleID": 4000208,
+    "BuffSlot": 2,
+    "ClientShowAvailableTips": true,
+    "UnlockChapterID": 3,
+    "MazebuffID": 3102205
+  },
+  {
+    "AvailableBattleID": [
+      3,
+      6
+    ],
+    "BuffID": 14,
+    "ActivityModuleID": 4000208,
+    "BuffSlot": 2,
+    "ClientShowAvailableTips": true,
+    "UnlockChapterID": 3,
+    "MazebuffID": 3102206
+  },
+  {
+    "AvailableBattleID": [
+      3,
+      6
+    ],
+    "BuffID": 15,
+    "ActivityModuleID": 4000208,
+    "BuffSlot": 2,
+    "ClientShowAvailableTips": true,
+    "UnlockChapterID": 3,
+    "MazebuffID": 3102207
+  },
+  {
+    "AvailableBattleID": [
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "BuffID": 16,
+    "ActivityModuleID": 4000208,
+    "BuffSlot": 3,
+    "ClientShowAvailableTips": false,
+    "UnlockChapterID": 2,
+    "MazebuffID": 3102301
+  },
+  {
+    "AvailableBattleID": [
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "BuffID": 17,
+    "ActivityModuleID": 4000208,
+    "BuffSlot": 3,
+    "ClientShowAvailableTips": false,
+    "UnlockChapterID": 2,
+    "MazebuffID": 3102302
+  },
+  {
+    "AvailableBattleID": [
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "BuffID": 18,
+    "ActivityModuleID": 4000208,
+    "BuffSlot": 3,
+    "ClientShowAvailableTips": false,
+    "UnlockChapterID": 2,
+    "MazebuffID": 3102303
+  },
+  {
+    "AvailableBattleID": [
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "BuffID": 19,
+    "ActivityModuleID": 4000208,
+    "BuffSlot": 3,
+    "ClientShowAvailableTips": false,
+    "UnlockChapterID": 3,
+    "MazebuffID": 3102304
+  },
+  {
+    "AvailableBattleID": [
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "BuffID": 20,
+    "ActivityModuleID": 4000208,
+    "BuffSlot": 3,
+    "ClientShowAvailableTips": false,
+    "UnlockChapterID": 3,
+    "MazebuffID": 3102305
+  },
+  {
+    "AvailableBattleID": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "BuffID": 21,
+    "ActivityModuleID": 4000208,
+    "BuffSlot": 4,
+    "ClientShowAvailableTips": false,
+    "UnlockChapterID": 3,
+    "MazebuffID": 3102401
+  },
+  {
+    "AvailableBattleID": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "BuffID": 22,
+    "ActivityModuleID": 4000208,
+    "BuffSlot": 4,
+    "ClientShowAvailableTips": false,
+    "UnlockChapterID": 3,
+    "MazebuffID": 3102402
+  },
+  {
+    "AvailableBattleID": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "BuffID": 23,
+    "ActivityModuleID": 4000208,
+    "BuffSlot": 4,
+    "ClientShowAvailableTips": false,
+    "UnlockChapterID": 3,
+    "MazebuffID": 3102403
+  },
+  {
+    "AvailableBattleID": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "BuffID": 24,
+    "ActivityModuleID": 4000208,
+    "BuffSlot": 4,
+    "ClientShowAvailableTips": false,
+    "UnlockChapterID": 3,
+    "MazebuffID": 3102404
+  }
+]

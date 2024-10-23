@@ -1,0 +1,136 @@
+[
+  {
+    "DisplayID": [],
+    "Layer": 1,
+    "MainStoryName": {
+      "Hash": -668221880
+    },
+    "StoryID": 910,
+    "UnlockConditionDisplay": 0,
+    "RogueNPCID": 131,
+    "QuestID": 6014121,
+    "TriggerCondition": {
+      "Hash": 371857150
+    },
+    "StoryGroup": 1
+  },
+  {
+    "DisplayID": [
+      401
+    ],
+    "Layer": 1,
+    "MainStoryName": {
+      "Hash": 2060661475
+    },
+    "StoryID": 911,
+    "UnlockConditionDisplay": 501,
+    "RogueNPCID": 132,
+    "QuestID": 6014122,
+    "TriggerCondition": {
+      "Hash": -1091733309
+    },
+    "StoryGroup": 2
+  },
+  {
+    "DisplayID": [
+      401
+    ],
+    "Layer": 1,
+    "MainStoryName": {
+      "Hash": -1831021294
+    },
+    "StoryID": 912,
+    "UnlockConditionDisplay": 501,
+    "RogueNPCID": 133,
+    "QuestID": 6014123,
+    "TriggerCondition": {
+      "Hash": -1091733306
+    },
+    "StoryGroup": 3
+  },
+  {
+    "DisplayID": [
+      402
+    ],
+    "Layer": 2,
+    "MainStoryName": {
+      "Hash": 897862061
+    },
+    "StoryID": 913,
+    "UnlockConditionDisplay": 502,
+    "RogueNPCID": 134,
+    "QuestID": 6014124,
+    "TriggerCondition": {
+      "Hash": -1091733307
+    },
+    "StoryGroup": 2
+  },
+  {
+    "DisplayID": [
+      402
+    ],
+    "Layer": 2,
+    "MainStoryName": {
+      "Hash": 1301146588
+    },
+    "StoryID": 914,
+    "UnlockConditionDisplay": 502,
+    "RogueNPCID": 135,
+    "QuestID": 6014125,
+    "TriggerCondition": {
+      "Hash": -1091733312
+    },
+    "StoryGroup": 3
+  },
+  {
+    "DisplayID": [
+      403
+    ],
+    "Layer": 3,
+    "MainStoryName": {
+      "Hash": -264937353
+    },
+    "StoryID": 915,
+    "UnlockConditionDisplay": 503,
+    "RogueNPCID": 136,
+    "QuestID": 6014126,
+    "TriggerCondition": {
+      "Hash": -1091733313
+    },
+    "StoryGroup": 2
+  },
+  {
+    "DisplayID": [
+      403
+    ],
+    "Layer": 3,
+    "MainStoryName": {
+      "Hash": 138347174
+    },
+    "StoryID": 916,
+    "UnlockConditionDisplay": 503,
+    "RogueNPCID": 137,
+    "QuestID": 6014127,
+    "TriggerCondition": {
+      "Hash": -1091733310
+    },
+    "StoryGroup": 3
+  },
+  {
+    "DisplayID": [
+      404
+    ],
+    "Layer": 3,
+    "MainStoryName": {
+      "Hash": -1427736767
+    },
+    "StoryID": 917,
+    "UnlockConditionDisplay": 504,
+    "RogueNPCID": 138,
+    "QuestID": 6014128,
+    "TriggerCondition": {
+      "Hash": -1091733311
+    },
+    "StoryGroup": 4
+  }
+]

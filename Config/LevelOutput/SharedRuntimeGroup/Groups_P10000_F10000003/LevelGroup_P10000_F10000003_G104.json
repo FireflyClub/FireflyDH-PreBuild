@@ -1,0 +1,73 @@
+{
+  "GroupName": "PamAI",
+  "AreaAnchorName": "LevelArea_P10000_F10000003_G104",
+  "SaveType": "Reset",
+  "SavedValueCondition": {
+    "Conditions": [],
+    "Operation": "And"
+  },
+  "LoadOnInitial": true,
+  "ValueSource": {},
+  "ConflictIDList": [],
+  "IsHoyoGroup": true,
+  "HoYoGroupType": "Container",
+  "StreamingTemplateType": "Standard",
+  "HoyoGroupLowestLoadPlatformQuality": "VeryLow",
+  "ConflictWhiteList": [],
+  "AnchorList": [
+    {
+      "Name": "Ground01",
+      "RotY": 264.78,
+      "ID": 1,
+      "PosX": -8.221,
+      "PosY": -14,
+      "PosZ": 18.464
+    },
+    {
+      "Usage": "Actor",
+      "Name": "Window01",
+      "RotY": 65.68,
+      "ID": 2,
+      "PosX": 9.22,
+      "PosY": -14.9979,
+      "PosZ": -20.58
+    },
+    {
+      "Name": "Ground02",
+      "RotY": 205.56,
+      "ID": 3,
+      "PosX": -1.721159,
+      "PosY": -14.99998,
+      "PosZ": -12.257
+    },
+    {
+      "Name": "Ground03",
+      "ID": 4,
+      "PosX": -5.382,
+      "PosY": -14.99972,
+      "PosZ": -4.666
+    },
+    {
+      "Name": "Plant01",
+      "RotY": 75,
+      "ID": 5,
+      "PosX": 9.375,
+      "PosY": -14.79784,
+      "PosZ": 15.713
+    }
+  ],
+  "MonsterList": [],
+  "PropList": [],
+  "DistrictList": [],
+  "WaypointList": [],
+  "PathwayList": [],
+  "BattleAreaList": [],
+  "NPCList": [],
+  "CrowdList": [],
+  "PedestrianList": [],
+  "PedestrianV2List": [],
+  "AudienceList": [],
+  "SmartObjectList": [],
+  "CurveList": [],
+  "LittleGameList": []
+}

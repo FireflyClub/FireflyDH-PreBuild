@@ -1,0 +1,112 @@
+[
+  {
+    "ValidPropertyList": [
+      "HPDelta"
+    ],
+    "BaseTypeIconPath": "SpriteOutput/UI/Avatar/Relic/IconRelicHead.png",
+    "Type": "HEAD",
+    "BaseTypeText": {
+      "Hash": 1826268247
+    }
+  },
+  {
+    "ValidPropertyList": [
+      "AttackDelta"
+    ],
+    "BaseTypeIconPath": "SpriteOutput/UI/Avatar/Relic/IconRelicHands.png",
+    "Type": "HAND",
+    "BaseTypeText": {
+      "Hash": -2144127003
+    }
+  },
+  {
+    "ValidPropertyList": [
+      "HPAddedRatio",
+      "AttackAddedRatio",
+      "DefenceAddedRatio",
+      "CriticalChanceBase",
+      "CriticalDamageBase",
+      "HealRatioBase",
+      "StatusProbabilityBase"
+    ],
+    "BaseTypeIconPath": "SpriteOutput/UI/Avatar/Relic/IconRelicBody.png",
+    "Type": "BODY",
+    "BaseTypeText": {
+      "Hash": 1799740313
+    }
+  },
+  {
+    "ValidPropertyList": [
+      "HPAddedRatio",
+      "AttackAddedRatio",
+      "DefenceAddedRatio",
+      "SpeedDelta"
+    ],
+    "BaseTypeIconPath": "SpriteOutput/UI/Avatar/Relic/IconRelicFoot.png",
+    "Type": "FOOT",
+    "BaseTypeText": {
+      "Hash": 1154536283
+    }
+  },
+  {
+    "ValidPropertyList": [
+      "HPAddedRatio",
+      "AttackAddedRatio",
+      "DefenceAddedRatio",
+      "PhysicalAddedRatio",
+      "FireAddedRatio",
+      "IceAddedRatio",
+      "ThunderAddedRatio",
+      "WindAddedRatio",
+      "QuantumAddedRatio",
+      "ImaginaryAddedRatio"
+    ],
+    "BaseTypeIconPath": "SpriteOutput/UI/Avatar/Relic/IconRelicNeck.png",
+    "Type": "NECK",
+    "BaseTypeText": {
+      "Hash": 1873322474
+    }
+  },
+  {
+    "ValidPropertyList": [
+      "BreakDamageAddedRatioBase",
+      "SPRatioBase",
+      "HPAddedRatio",
+      "AttackAddedRatio",
+      "DefenceAddedRatio"
+    ],
+    "BaseTypeIconPath": "SpriteOutput/UI/Avatar/Relic/IconRelicGoods.png",
+    "Type": "OBJECT",
+    "BaseTypeText": {
+      "Hash": 74129613
+    }
+  },
+  {
+    "ValidPropertyList": [
+      "HPDelta",
+      "AttackDelta",
+      "HPAddedRatio",
+      "AttackAddedRatio",
+      "DefenceAddedRatio",
+      "CriticalChanceBase",
+      "CriticalDamageBase",
+      "HealRatioBase",
+      "StatusProbabilityBase",
+      "SpeedDelta",
+      "PhysicalAddedRatio",
+      "FireAddedRatio",
+      "IceAddedRatio",
+      "ThunderAddedRatio",
+      "WindAddedRatio",
+      "QuantumAddedRatio",
+      "ImaginaryAddedRatio",
+      "BreakDamageAddedRatioBase",
+      "SPRatioBase"
+    ],
+    "BaseTypeIconPath": "SpriteOutput/TabIcon/Common/AllIcon.png",
+    "Type": "Unknow",
+    "BaseTypeText": {
+      "Hash": 371857150
+    }
+  }
+]

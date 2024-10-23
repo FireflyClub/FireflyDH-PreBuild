@@ -1,0 +1,107 @@
+[
+  {
+    "ResBarKey": "HandBookGuide",
+    "IconPath": "SpriteOutput/ItemIcon/2.png",
+    "UnlockID": 9913,
+    "IntroDataID": 34,
+    "Name": {
+      "Hash": 909735796
+    },
+    "Priority": 20,
+    "ID": 1001,
+    "Desc": {
+      "Hash": -1259313170
+    },
+    "GuideType": "FarmCocoon"
+  },
+  {
+    "ResBarKey": "HandBookGuide",
+    "IconPath": "SpriteOutput/ItemIcon/110111.png",
+    "UnlockID": 9914,
+    "IntroDataID": 35,
+    "Name": {
+      "Hash": -656348145
+    },
+    "Priority": 30,
+    "ID": 1002,
+    "Desc": {
+      "Hash": 1469570185
+    },
+    "GuideType": "FarmCocoon3"
+  },
+  {
+    "ResBarKey": "HandBookGuide",
+    "IconPath": "SpriteOutput/ItemIcon/110002.png",
+    "UnlockID": 9915,
+    "IntroDataID": 36,
+    "Name": {
+      "Hash": 2072535210
+    },
+    "Priority": 40,
+    "ID": 1003,
+    "Desc": {
+      "Hash": -96513756
+    },
+    "GuideType": "FarmElement"
+  },
+  {
+    "ResBarKey": "HandBookGuide",
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_110_1.png",
+    "UnlockID": 9916,
+    "IntroDataID": 37,
+    "Name": {
+      "Hash": 506451269
+    },
+    "Priority": 50,
+    "ID": 1004,
+    "Desc": {
+      "Hash": -2018828057
+    },
+    "GuideType": "FarmRelic"
+  },
+  {
+    "ResBarKey": "HandBookGuide",
+    "IconPath": "SpriteOutput/ItemIcon/110501.png",
+    "UnlockID": 9917,
+    "IntroDataID": 38,
+    "Name": {
+      "Hash": -1059632672
+    },
+    "Priority": 60,
+    "ID": 1005,
+    "Desc": {
+      "Hash": 710055298
+    },
+    "GuideType": "FarmCocoon2"
+  },
+  {
+    "ResBarKey": "HandBookRogueGuide",
+    "IconPath": "SpriteOutput/ItemIcon/110501.png",
+    "UnlockID": 0,
+    "IntroDataID": 43,
+    "Name": {
+      "Hash": 1669250683
+    },
+    "Priority": 10,
+    "ID": 1006,
+    "Desc": {
+      "Hash": -856028643
+    },
+    "GuideType": "Rogue"
+  },
+  {
+    "ResBarKey": "HandBookRogueGuide",
+    "IconPath": "SpriteOutput/ItemIcon/110501.png",
+    "UnlockID": 50016,
+    "IntroDataID": 92,
+    "Name": {
+      "Hash": -1462917199
+    },
+    "Priority": 11,
+    "ID": 1008,
+    "Desc": {
+      "Hash": 663001131
+    },
+    "GuideType": "RogueTourn"
+  }
+]

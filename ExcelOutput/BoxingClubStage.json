@@ -1,0 +1,1513 @@
+[
+  {
+    "BuffOptionalList": [],
+    "BubbleTalkEnemy": {
+      "Hash": -1830366103
+    },
+    "BuffID": 3100001,
+    "BubbleTalkPlayer": {
+      "Hash": -146379644
+    },
+    "EventID": 304001,
+    "MonsterWaveIndex": 0,
+    "Name": {
+      "Hash": -1526880154
+    }
+  },
+  {
+    "BuffOptionalList": [],
+    "BubbleTalkEnemy": {
+      "Hash": 2061316666
+    },
+    "BuffID": 3100042,
+    "BubbleTalkPlayer": {
+      "Hash": -146379645
+    },
+    "EventID": 304002,
+    "MonsterWaveIndex": 1,
+    "Name": {
+      "Hash": -1526880153
+    }
+  },
+  {
+    "BuffOptionalList": [],
+    "BubbleTalkEnemy": {
+      "Hash": -667566689
+    },
+    "BuffID": 3100003,
+    "BubbleTalkPlayer": {
+      "Hash": -146379646
+    },
+    "EventID": 304003,
+    "MonsterWaveIndex": 0,
+    "Name": {
+      "Hash": -1526880152
+    }
+  },
+  {
+    "BuffOptionalList": [],
+    "BubbleTalkEnemy": {
+      "Hash": -1427081576
+    },
+    "BuffID": 3100041,
+    "BubbleTalkPlayer": {
+      "Hash": -146379647
+    },
+    "EventID": 304004,
+    "MonsterWaveIndex": 1,
+    "Name": {
+      "Hash": -1526880159
+    }
+  },
+  {
+    "BuffOptionalList": [],
+    "BubbleTalkEnemy": {
+      "Hash": 139002365
+    },
+    "BuffID": 3100009,
+    "BubbleTalkPlayer": {
+      "Hash": -146379648
+    },
+    "EventID": 304005,
+    "MonsterWaveIndex": 1,
+    "Name": {
+      "Hash": -1526880158
+    }
+  },
+  {
+    "BuffOptionalList": [],
+    "BubbleTalkEnemy": {
+      "Hash": -264282162
+    },
+    "BuffID": 3100010,
+    "BubbleTalkPlayer": {
+      "Hash": -146379649
+    },
+    "EventID": 304006,
+    "MonsterWaveIndex": 1,
+    "Name": {
+      "Hash": -1526880157
+    }
+  },
+  {
+    "BuffOptionalList": [],
+    "BubbleTalkEnemy": {
+      "Hash": 1301801779
+    },
+    "BuffID": 3100011,
+    "BubbleTalkPlayer": {
+      "Hash": -146379650
+    },
+    "EventID": 304007,
+    "MonsterWaveIndex": 1,
+    "Name": {
+      "Hash": -1526880156
+    }
+  },
+  {
+    "BuffOptionalList": [],
+    "BubbleTalkEnemy": {
+      "Hash": 542286892
+    },
+    "BuffID": 3100012,
+    "BubbleTalkPlayer": {
+      "Hash": -146379651
+    },
+    "EventID": 304008,
+    "MonsterWaveIndex": 1,
+    "Name": {
+      "Hash": -1526880163
+    }
+  },
+  {
+    "BuffOptionalList": [],
+    "BubbleTalkEnemy": {
+      "Hash": 2108370833
+    },
+    "BuffID": 3100040,
+    "BubbleTalkPlayer": {
+      "Hash": -146379652
+    },
+    "EventID": 304009,
+    "MonsterWaveIndex": 1,
+    "Name": {
+      "Hash": -1526880162
+    }
+  },
+  {
+    "BuffOptionalList": [],
+    "BubbleTalkEnemy": {
+      "Hash": 898517253
+    },
+    "BuffID": 0,
+    "BubbleTalkPlayer": {
+      "Hash": 1419704298
+    },
+    "EventID": 304010,
+    "MonsterWaveIndex": 0,
+    "Name": {
+      "Hash": 1202003200
+    }
+  },
+  {
+    "BuffOptionalList": [],
+    "BubbleTalkEnemy": {
+      "Hash": -1830366102
+    },
+    "BuffID": 3100040,
+    "BubbleTalkPlayer": {
+      "Hash": 1419704297
+    },
+    "EventID": 304011,
+    "MonsterWaveIndex": 1,
+    "Name": {
+      "Hash": 1202003201
+    }
+  },
+  {
+    "BuffOptionalList": [],
+    "BubbleTalkEnemy": {
+      "Hash": 2061316667
+    },
+    "BuffID": 3100016,
+    "BubbleTalkPlayer": {
+      "Hash": 1419704296
+    },
+    "EventID": 304012,
+    "MonsterWaveIndex": 1,
+    "Name": {
+      "Hash": 1202003202
+    }
+  },
+  {
+    "BuffOptionalList": [],
+    "BubbleTalkEnemy": {
+      "Hash": -667566688
+    },
+    "BuffID": 3100020,
+    "BubbleTalkPlayer": {
+      "Hash": 1419704295
+    },
+    "EventID": 304013,
+    "MonsterWaveIndex": 1,
+    "Name": {
+      "Hash": 1202003203
+    }
+  },
+  {
+    "BuffOptionalList": [],
+    "BubbleTalkEnemy": {
+      "Hash": -1427081575
+    },
+    "BuffID": 3100011,
+    "BubbleTalkPlayer": {
+      "Hash": 1419704294
+    },
+    "EventID": 304014,
+    "MonsterWaveIndex": 0,
+    "Name": {
+      "Hash": 1202003196
+    }
+  },
+  {
+    "BuffOptionalList": [],
+    "BubbleTalkEnemy": {
+      "Hash": 139002366
+    },
+    "BuffID": 3100022,
+    "BubbleTalkPlayer": {
+      "Hash": 1419704293
+    },
+    "EventID": 304015,
+    "MonsterWaveIndex": 1,
+    "Name": {
+      "Hash": 1202003197
+    }
+  },
+  {
+    "BuffOptionalList": [],
+    "BubbleTalkEnemy": {
+      "Hash": -1830366105
+    },
+    "BuffID": 3100044,
+    "BubbleTalkPlayer": {
+      "Hash": 1016419770
+    },
+    "EventID": 304021,
+    "MonsterWaveIndex": 0,
+    "Name": {
+      "Hash": 1605287728
+    }
+  },
+  {
+    "BuffOptionalList": [],
+    "BubbleTalkEnemy": {
+      "Hash": 2061316664
+    },
+    "BuffID": 3100002,
+    "BubbleTalkPlayer": {
+      "Hash": 1016419769
+    },
+    "EventID": 304022,
+    "MonsterWaveIndex": 1,
+    "Name": {
+      "Hash": 1605287729
+    }
+  },
+  {
+    "BuffOptionalList": [],
+    "BubbleTalkEnemy": {
+      "Hash": -667566691
+    },
+    "BuffID": 3100045,
+    "BubbleTalkPlayer": {
+      "Hash": 1016419768
+    },
+    "EventID": 304023,
+    "MonsterWaveIndex": 1,
+    "Name": {
+      "Hash": 1605287730
+    }
+  },
+  {
+    "BuffOptionalList": [],
+    "BubbleTalkEnemy": {
+      "Hash": -1427081578
+    },
+    "BuffID": 3100016,
+    "BubbleTalkPlayer": {
+      "Hash": 1016419767
+    },
+    "EventID": 304024,
+    "MonsterWaveIndex": 0,
+    "Name": {
+      "Hash": 1605287723
+    }
+  },
+  {
+    "BuffOptionalList": [],
+    "BubbleTalkEnemy": {
+      "Hash": 139002363
+    },
+    "BuffID": 3100009,
+    "BubbleTalkPlayer": {
+      "Hash": 1016419766
+    },
+    "EventID": 304025,
+    "MonsterWaveIndex": 1,
+    "Name": {
+      "Hash": 1605287724
+    }
+  },
+  {
+    "BuffOptionalList": [],
+    "BubbleTalkEnemy": {
+      "Hash": -264282164
+    },
+    "BuffID": 3100010,
+    "BubbleTalkPlayer": {
+      "Hash": 1016419765
+    },
+    "EventID": 304026,
+    "MonsterWaveIndex": 1,
+    "Name": {
+      "Hash": 1605287725
+    }
+  },
+  {
+    "BuffOptionalList": [],
+    "BubbleTalkEnemy": {
+      "Hash": 1301801777
+    },
+    "BuffID": 3100011,
+    "BubbleTalkPlayer": {
+      "Hash": 1016419764
+    },
+    "EventID": 304027,
+    "MonsterWaveIndex": 1,
+    "Name": {
+      "Hash": 1605287726
+    }
+  },
+  {
+    "BuffOptionalList": [],
+    "BubbleTalkEnemy": {
+      "Hash": 542286890
+    },
+    "BuffID": 3100012,
+    "BubbleTalkPlayer": {
+      "Hash": 1016419763
+    },
+    "EventID": 304028,
+    "MonsterWaveIndex": 1,
+    "Name": {
+      "Hash": 1605287719
+    }
+  },
+  {
+    "BuffOptionalList": [],
+    "BubbleTalkEnemy": {
+      "Hash": 2108370831
+    },
+    "BuffID": 3100014,
+    "BubbleTalkPlayer": {
+      "Hash": 1016419762
+    },
+    "EventID": 304029,
+    "MonsterWaveIndex": 2,
+    "Name": {
+      "Hash": 1605287720
+    }
+  },
+  {
+    "BuffOptionalList": [],
+    "BubbleTalkEnemy": {
+      "Hash": 898517251
+    },
+    "BuffID": 0,
+    "BubbleTalkPlayer": {
+      "Hash": -1712463584
+    },
+    "EventID": 304030,
+    "MonsterWaveIndex": 0,
+    "Name": {
+      "Hash": 39203786
+    }
+  },
+  {
+    "BuffOptionalList": [],
+    "BubbleTalkEnemy": {
+      "Hash": -1830366104
+    },
+    "BuffID": 3100046,
+    "BubbleTalkPlayer": {
+      "Hash": -1712463585
+    },
+    "EventID": 304031,
+    "MonsterWaveIndex": 1,
+    "Name": {
+      "Hash": 39203787
+    }
+  },
+  {
+    "BuffOptionalList": [],
+    "BubbleTalkEnemy": {
+      "Hash": 2061316665
+    },
+    "BuffID": 3100046,
+    "BubbleTalkPlayer": {
+      "Hash": -1712463586
+    },
+    "EventID": 304032,
+    "MonsterWaveIndex": 2,
+    "Name": {
+      "Hash": 39203788
+    }
+  },
+  {
+    "BuffOptionalList": [],
+    "BubbleTalkEnemy": {
+      "Hash": -667566690
+    },
+    "BuffID": 3100018,
+    "BubbleTalkPlayer": {
+      "Hash": -1712463587
+    },
+    "EventID": 304033,
+    "MonsterWaveIndex": 1,
+    "Name": {
+      "Hash": 39203789
+    }
+  },
+  {
+    "BuffOptionalList": [],
+    "BubbleTalkEnemy": {
+      "Hash": -1427081577
+    },
+    "BuffID": 3100045,
+    "BubbleTalkPlayer": {
+      "Hash": -1712463588
+    },
+    "EventID": 304034,
+    "MonsterWaveIndex": 1,
+    "Name": {
+      "Hash": 39203782
+    }
+  },
+  {
+    "BuffOptionalList": [],
+    "BubbleTalkEnemy": {
+      "Hash": 139002364
+    },
+    "BuffID": 3100017,
+    "BubbleTalkPlayer": {
+      "Hash": -1712463589
+    },
+    "EventID": 304035,
+    "MonsterWaveIndex": 0,
+    "Name": {
+      "Hash": 39203783
+    }
+  },
+  {
+    "BuffOptionalList": [],
+    "BubbleTalkEnemy": {
+      "Hash": -264282163
+    },
+    "BuffID": 3100016,
+    "BubbleTalkPlayer": {
+      "Hash": -1712463590
+    },
+    "EventID": 304036,
+    "MonsterWaveIndex": 1,
+    "Name": {
+      "Hash": 39203784
+    }
+  },
+  {
+    "BuffOptionalList": [],
+    "BubbleTalkEnemy": {
+      "Hash": 1301801778
+    },
+    "BuffID": 3100021,
+    "BubbleTalkPlayer": {
+      "Hash": -1712463591
+    },
+    "EventID": 304037,
+    "MonsterWaveIndex": 1,
+    "Name": {
+      "Hash": 39203785
+    }
+  },
+  {
+    "BuffOptionalList": [],
+    "BubbleTalkEnemy": {
+      "Hash": -1830366099
+    },
+    "BuffID": 3100007,
+    "BubbleTalkPlayer": {
+      "Hash": -2115748112
+    },
+    "EventID": 304041,
+    "MonsterWaveIndex": 0,
+    "Name": {
+      "Hash": 798718674
+    }
+  },
+  {
+    "BuffOptionalList": [],
+    "BubbleTalkEnemy": {
+      "Hash": 2061316670
+    },
+    "BuffID": 3100002,
+    "BubbleTalkPlayer": {
+      "Hash": -2115748113
+    },
+    "EventID": 304042,
+    "MonsterWaveIndex": 1,
+    "Name": {
+      "Hash": 798718675
+    }
+  },
+  {
+    "BuffOptionalList": [],
+    "BubbleTalkEnemy": {
+      "Hash": -667566685
+    },
+    "BuffID": 3100003,
+    "BubbleTalkPlayer": {
+      "Hash": -2115748114
+    },
+    "EventID": 304043,
+    "MonsterWaveIndex": 0,
+    "Name": {
+      "Hash": 798718676
+    }
+  },
+  {
+    "BuffOptionalList": [],
+    "BubbleTalkEnemy": {
+      "Hash": -1427081572
+    },
+    "BuffID": 3100049,
+    "BubbleTalkPlayer": {
+      "Hash": -2115748115
+    },
+    "EventID": 304044,
+    "MonsterWaveIndex": 0,
+    "Name": {
+      "Hash": 798718669
+    }
+  },
+  {
+    "BuffOptionalList": [],
+    "BubbleTalkEnemy": {
+      "Hash": 139002369
+    },
+    "BuffID": 3100015,
+    "BubbleTalkPlayer": {
+      "Hash": -2115748116
+    },
+    "EventID": 304045,
+    "MonsterWaveIndex": 0,
+    "Name": {
+      "Hash": 798718670
+    }
+  },
+  {
+    "BuffOptionalList": [],
+    "BubbleTalkEnemy": {
+      "Hash": -264282158
+    },
+    "BuffID": 3100010,
+    "BubbleTalkPlayer": {
+      "Hash": -2115748117
+    },
+    "EventID": 304046,
+    "MonsterWaveIndex": 1,
+    "Name": {
+      "Hash": 798718671
+    }
+  },
+  {
+    "BuffOptionalList": [],
+    "BubbleTalkEnemy": {
+      "Hash": 1301801783
+    },
+    "BuffID": 3100011,
+    "BubbleTalkPlayer": {
+      "Hash": -2115748118
+    },
+    "EventID": 304047,
+    "MonsterWaveIndex": 1,
+    "Name": {
+      "Hash": 798718672
+    }
+  },
+  {
+    "BuffOptionalList": [],
+    "BubbleTalkEnemy": {
+      "Hash": 542286896
+    },
+    "BuffID": 3100026,
+    "BubbleTalkPlayer": {
+      "Hash": -2115748119
+    },
+    "EventID": 304048,
+    "MonsterWaveIndex": 1,
+    "Name": {
+      "Hash": 798718665
+    }
+  },
+  {
+    "BuffOptionalList": [],
+    "BubbleTalkEnemy": {
+      "Hash": 2108370837
+    },
+    "BuffID": 3100014,
+    "BubbleTalkPlayer": {
+      "Hash": -2115748120
+    },
+    "EventID": 304049,
+    "MonsterWaveIndex": 2,
+    "Name": {
+      "Hash": 798718666
+    }
+  },
+  {
+    "BuffOptionalList": [],
+    "BubbleTalkEnemy": {
+      "Hash": 898517257
+    },
+    "BuffID": 0,
+    "BubbleTalkPlayer": {
+      "Hash": -549664170
+    },
+    "EventID": 304050,
+    "MonsterWaveIndex": 0,
+    "Name": {
+      "Hash": -767365268
+    }
+  },
+  {
+    "BuffOptionalList": [],
+    "BubbleTalkEnemy": {
+      "Hash": -1830366098
+    },
+    "BuffID": 3100048,
+    "BubbleTalkPlayer": {
+      "Hash": -549664171
+    },
+    "EventID": 304051,
+    "MonsterWaveIndex": 1,
+    "Name": {
+      "Hash": -767365267
+    }
+  },
+  {
+    "BuffOptionalList": [],
+    "BubbleTalkEnemy": {
+      "Hash": 2061316671
+    },
+    "BuffID": 3100050,
+    "BubbleTalkPlayer": {
+      "Hash": -549664172
+    },
+    "EventID": 304052,
+    "MonsterWaveIndex": 1,
+    "Name": {
+      "Hash": -767365266
+    }
+  },
+  {
+    "BuffOptionalList": [],
+    "BubbleTalkEnemy": {
+      "Hash": -667566684
+    },
+    "BuffID": 3100017,
+    "BubbleTalkPlayer": {
+      "Hash": -549664173
+    },
+    "EventID": 304053,
+    "MonsterWaveIndex": 0,
+    "Name": {
+      "Hash": -767365265
+    }
+  },
+  {
+    "BuffOptionalList": [],
+    "BubbleTalkEnemy": {
+      "Hash": -1427081571
+    },
+    "BuffID": 3100028,
+    "BubbleTalkPlayer": {
+      "Hash": -549664174
+    },
+    "EventID": 304054,
+    "MonsterWaveIndex": 0,
+    "Name": {
+      "Hash": -767365272
+    }
+  },
+  {
+    "BuffOptionalList": [],
+    "BubbleTalkEnemy": {
+      "Hash": 139002370
+    },
+    "BuffID": 3100021,
+    "BubbleTalkPlayer": {
+      "Hash": -549664175
+    },
+    "EventID": 304055,
+    "MonsterWaveIndex": 1,
+    "Name": {
+      "Hash": -767365271
+    }
+  },
+  {
+    "BuffOptionalList": [],
+    "BubbleTalkEnemy": {
+      "Hash": -264282157
+    },
+    "BuffID": 3100005,
+    "BubbleTalkPlayer": {
+      "Hash": -549664176
+    },
+    "EventID": 304056,
+    "MonsterWaveIndex": 0,
+    "Name": {
+      "Hash": -767365270
+    }
+  },
+  {
+    "BuffOptionalList": [],
+    "BubbleTalkEnemy": {
+      "Hash": 1301801784
+    },
+    "BuffID": 3100022,
+    "BubbleTalkPlayer": {
+      "Hash": -549664177
+    },
+    "EventID": 304057,
+    "MonsterWaveIndex": 2,
+    "Name": {
+      "Hash": -767365269
+    }
+  },
+  {
+    "BuffOptionalList": [],
+    "BubbleTalkEnemy": {
+      "Hash": 542286897
+    },
+    "BuffID": 3100027,
+    "BubbleTalkPlayer": {
+      "Hash": -549664178
+    },
+    "EventID": 304058,
+    "MonsterWaveIndex": 1,
+    "Name": {
+      "Hash": -767365276
+    }
+  },
+  {
+    "BuffOptionalList": [],
+    "BubbleTalkEnemy": {
+      "Hash": -1830366101
+    },
+    "BuffID": 3100034,
+    "BubbleTalkPlayer": {
+      "Hash": -952948698
+    },
+    "EventID": 304061,
+    "MonsterWaveIndex": 0,
+    "Name": {
+      "Hash": -364080740
+    }
+  },
+  {
+    "BuffOptionalList": [],
+    "BubbleTalkEnemy": {
+      "Hash": 2061316668
+    },
+    "BuffID": 3100035,
+    "BubbleTalkPlayer": {
+      "Hash": -952948699
+    },
+    "EventID": 304062,
+    "MonsterWaveIndex": 1,
+    "Name": {
+      "Hash": -364080739
+    }
+  },
+  {
+    "BuffOptionalList": [],
+    "BubbleTalkEnemy": {
+      "Hash": -667566687
+    },
+    "BuffID": 3100027,
+    "BubbleTalkPlayer": {
+      "Hash": -952948700
+    },
+    "EventID": 304063,
+    "MonsterWaveIndex": 1,
+    "Name": {
+      "Hash": -364080738
+    }
+  },
+  {
+    "BuffOptionalList": [],
+    "BubbleTalkEnemy": {
+      "Hash": -1427081574
+    },
+    "BuffID": 3100036,
+    "BubbleTalkPlayer": {
+      "Hash": -952948701
+    },
+    "EventID": 304064,
+    "MonsterWaveIndex": 2,
+    "Name": {
+      "Hash": -364080745
+    }
+  },
+  {
+    "BuffOptionalList": [],
+    "BubbleTalkEnemy": {
+      "Hash": 139002367
+    },
+    "BuffID": 3100035,
+    "BubbleTalkPlayer": {
+      "Hash": -952948702
+    },
+    "EventID": 304065,
+    "MonsterWaveIndex": 1,
+    "Name": {
+      "Hash": -364080744
+    }
+  },
+  {
+    "BuffOptionalList": [],
+    "BubbleTalkEnemy": {
+      "Hash": -264282160
+    },
+    "BuffID": 3100028,
+    "BubbleTalkPlayer": {
+      "Hash": -952948703
+    },
+    "EventID": 304066,
+    "MonsterWaveIndex": 1,
+    "Name": {
+      "Hash": -364080743
+    }
+  },
+  {
+    "BuffOptionalList": [],
+    "BubbleTalkEnemy": {
+      "Hash": 1301801781
+    },
+    "BuffID": 3100028,
+    "BubbleTalkPlayer": {
+      "Hash": -952948704
+    },
+    "EventID": 304067,
+    "MonsterWaveIndex": 1,
+    "Name": {
+      "Hash": -364080742
+    }
+  },
+  {
+    "BuffOptionalList": [],
+    "BubbleTalkEnemy": {
+      "Hash": 542286894
+    },
+    "BuffID": 3100031,
+    "BubbleTalkPlayer": {
+      "Hash": -952948705
+    },
+    "EventID": 304068,
+    "MonsterWaveIndex": 0,
+    "Name": {
+      "Hash": -364080749
+    }
+  },
+  {
+    "BuffOptionalList": [],
+    "BubbleTalkEnemy": {
+      "Hash": 2108370835
+    },
+    "BuffID": 3100025,
+    "BubbleTalkPlayer": {
+      "Hash": -952948706
+    },
+    "EventID": 304069,
+    "MonsterWaveIndex": 1,
+    "Name": {
+      "Hash": -364080748
+    }
+  },
+  {
+    "BuffOptionalList": [],
+    "BubbleTalkEnemy": {
+      "Hash": 898517255
+    },
+    "BuffID": 3100027,
+    "BubbleTalkPlayer": {
+      "Hash": 613135244
+    },
+    "EventID": 304070,
+    "MonsterWaveIndex": 0,
+    "Name": {
+      "Hash": -1930164682
+    }
+  },
+  {
+    "BuffOptionalList": [],
+    "BubbleTalkEnemy": {
+      "Hash": -1830366100
+    },
+    "BuffID": 3100032,
+    "BubbleTalkPlayer": {
+      "Hash": 613135243
+    },
+    "EventID": 304071,
+    "MonsterWaveIndex": 1,
+    "Name": {
+      "Hash": -1930164681
+    }
+  },
+  {
+    "BuffOptionalList": [],
+    "BubbleTalkEnemy": {
+      "Hash": 2061316669
+    },
+    "BuffID": 0,
+    "BubbleTalkPlayer": {
+      "Hash": 613135242
+    },
+    "EventID": 304072,
+    "MonsterWaveIndex": 1,
+    "Name": {
+      "Hash": -1930164680
+    }
+  },
+  {
+    "BuffOptionalList": [],
+    "BubbleTalkEnemy": {
+      "Hash": -667566686
+    },
+    "BuffID": 3100029,
+    "BubbleTalkPlayer": {
+      "Hash": 613135241
+    },
+    "EventID": 304073,
+    "MonsterWaveIndex": 1,
+    "Name": {
+      "Hash": -1930164679
+    }
+  },
+  {
+    "BuffOptionalList": [],
+    "BubbleTalkEnemy": {
+      "Hash": -1830366111
+    },
+    "BuffID": 3100038,
+    "BubbleTalkPlayer": {
+      "Hash": 209850716
+    },
+    "EventID": 304081,
+    "MonsterWaveIndex": 0,
+    "Name": {
+      "Hash": -1883110514
+    }
+  },
+  {
+    "BuffOptionalList": [],
+    "BubbleTalkEnemy": {
+      "Hash": 2061316658
+    },
+    "BuffID": 3100026,
+    "BubbleTalkPlayer": {
+      "Hash": 209850715
+    },
+    "EventID": 304082,
+    "MonsterWaveIndex": 1,
+    "Name": {
+      "Hash": -1883110513
+    }
+  },
+  {
+    "BuffOptionalList": [],
+    "BubbleTalkEnemy": {
+      "Hash": -667566697
+    },
+    "BuffID": 3100029,
+    "BubbleTalkPlayer": {
+      "Hash": 209850714
+    },
+    "EventID": 304083,
+    "MonsterWaveIndex": 1,
+    "Name": {
+      "Hash": -1883110512
+    }
+  },
+  {
+    "BuffOptionalList": [],
+    "BubbleTalkEnemy": {
+      "Hash": -1427081584
+    },
+    "BuffID": 3100040,
+    "BubbleTalkPlayer": {
+      "Hash": 209850713
+    },
+    "EventID": 304084,
+    "MonsterWaveIndex": 1,
+    "Name": {
+      "Hash": -1883110519
+    }
+  },
+  {
+    "BuffOptionalList": [],
+    "BubbleTalkEnemy": {
+      "Hash": 139002357
+    },
+    "BuffID": 3100039,
+    "BubbleTalkPlayer": {
+      "Hash": 209850712
+    },
+    "EventID": 304085,
+    "MonsterWaveIndex": 1,
+    "Name": {
+      "Hash": -1883110518
+    }
+  },
+  {
+    "BuffOptionalList": [],
+    "BubbleTalkEnemy": {
+      "Hash": -264282170
+    },
+    "BuffID": 3100028,
+    "BubbleTalkPlayer": {
+      "Hash": 209850711
+    },
+    "EventID": 304086,
+    "MonsterWaveIndex": 0,
+    "Name": {
+      "Hash": -1883110517
+    }
+  },
+  {
+    "BuffOptionalList": [],
+    "BubbleTalkEnemy": {
+      "Hash": 1301801771
+    },
+    "BuffID": 3100028,
+    "BubbleTalkPlayer": {
+      "Hash": 209850710
+    },
+    "EventID": 304087,
+    "MonsterWaveIndex": 2,
+    "Name": {
+      "Hash": -1883110516
+    }
+  },
+  {
+    "BuffOptionalList": [],
+    "BubbleTalkEnemy": {
+      "Hash": 542286884
+    },
+    "BuffID": 3100031,
+    "BubbleTalkPlayer": {
+      "Hash": 209850709
+    },
+    "EventID": 304088,
+    "MonsterWaveIndex": 1,
+    "Name": {
+      "Hash": -1883110523
+    }
+  },
+  {
+    "BuffOptionalList": [],
+    "BubbleTalkEnemy": {
+      "Hash": 2108370825
+    },
+    "BuffID": 3100025,
+    "BubbleTalkPlayer": {
+      "Hash": 209850708
+    },
+    "EventID": 304089,
+    "MonsterWaveIndex": 1,
+    "Name": {
+      "Hash": -1883110522
+    }
+  },
+  {
+    "BuffOptionalList": [],
+    "BubbleTalkEnemy": {
+      "Hash": 898517245
+    },
+    "BuffID": 3100027,
+    "BubbleTalkPlayer": {
+      "Hash": 1775934658
+    },
+    "EventID": 304090,
+    "MonsterWaveIndex": 1,
+    "Name": {
+      "Hash": 845772840
+    }
+  },
+  {
+    "BuffOptionalList": [],
+    "BubbleTalkEnemy": {
+      "Hash": -1830366110
+    },
+    "BuffID": 3100027,
+    "BubbleTalkPlayer": {
+      "Hash": 1775934657
+    },
+    "EventID": 304091,
+    "MonsterWaveIndex": 1,
+    "Name": {
+      "Hash": 845772841
+    }
+  },
+  {
+    "BuffOptionalList": [],
+    "BubbleTalkEnemy": {
+      "Hash": 2061316659
+    },
+    "BuffID": 3100032,
+    "BubbleTalkPlayer": {
+      "Hash": 1775934656
+    },
+    "EventID": 304092,
+    "MonsterWaveIndex": 1,
+    "Name": {
+      "Hash": 845772842
+    }
+  },
+  {
+    "BuffOptionalList": [],
+    "BubbleTalkEnemy": {
+      "Hash": -667566696
+    },
+    "BuffID": 0,
+    "BubbleTalkPlayer": {
+      "Hash": 1775934655
+    },
+    "EventID": 304093,
+    "MonsterWaveIndex": 0,
+    "Name": {
+      "Hash": 845772843
+    }
+  },
+  {
+    "BuffOptionalList": [
+      0
+    ],
+    "BubbleTalkEnemy": {
+      "Hash": -607477559
+    },
+    "BuffID": 0,
+    "BubbleTalkPlayer": {
+      "Hash": -1349071580
+    },
+    "EventID": 412111,
+    "MonsterWaveIndex": 1,
+    "Name": {
+      "Hash": 1453669446
+    }
+  },
+  {
+    "BuffOptionalList": [
+      3101082,
+      3101083
+    ],
+    "BubbleTalkEnemy": {
+      "Hash": -1010762086
+    },
+    "BuffID": 0,
+    "BubbleTalkPlayer": {
+      "Hash": -1349071581
+    },
+    "EventID": 412112,
+    "MonsterWaveIndex": 0,
+    "Name": {
+      "Hash": 1453669447
+    }
+  },
+  {
+    "BuffOptionalList": [
+      3101084,
+      3101085
+    ],
+    "BubbleTalkEnemy": {
+      "Hash": 555321855
+    },
+    "BuffID": 0,
+    "BubbleTalkPlayer": {
+      "Hash": -1349071582
+    },
+    "EventID": 412113,
+    "MonsterWaveIndex": 1,
+    "Name": {
+      "Hash": 1453669448
+    }
+  },
+  {
+    "BuffOptionalList": [
+      0
+    ],
+    "BubbleTalkEnemy": {
+      "Hash": -1030965062
+    },
+    "BuffID": 0,
+    "BubbleTalkPlayer": {
+      "Hash": -1349071613
+    },
+    "EventID": 412211,
+    "MonsterWaveIndex": 1,
+    "Name": {
+      "Hash": 1453669479
+    }
+  },
+  {
+    "BuffOptionalList": [
+      3101072,
+      3101073
+    ],
+    "BubbleTalkEnemy": {
+      "Hash": -627680535
+    },
+    "BuffID": 0,
+    "BubbleTalkPlayer": {
+      "Hash": -1349071612
+    },
+    "EventID": 412212,
+    "MonsterWaveIndex": 1,
+    "Name": {
+      "Hash": 1453669478
+    }
+  },
+  {
+    "BuffOptionalList": [
+      3101074,
+      3101075
+    ],
+    "BubbleTalkEnemy": {
+      "Hash": 2101202820
+    },
+    "BuffID": 0,
+    "BubbleTalkPlayer": {
+      "Hash": -1349071611
+    },
+    "EventID": 412213,
+    "MonsterWaveIndex": 1,
+    "Name": {
+      "Hash": 1453669477
+    }
+  },
+  {
+    "BuffOptionalList": [
+      0
+    ],
+    "BubbleTalkEnemy": {
+      "Hash": -889802561
+    },
+    "BuffID": 0,
+    "BubbleTalkPlayer": {
+      "Hash": -1349071646
+    },
+    "EventID": 412311,
+    "MonsterWaveIndex": 1,
+    "Name": {
+      "Hash": 1453669512
+    }
+  },
+  {
+    "BuffOptionalList": [
+      3101093,
+      3101092
+    ],
+    "BubbleTalkEnemy": {
+      "Hash": 676281380
+    },
+    "BuffID": 0,
+    "BubbleTalkPlayer": {
+      "Hash": -1349071643
+    },
+    "EventID": 412312,
+    "MonsterWaveIndex": 0,
+    "Name": {
+      "Hash": 1453669509
+    }
+  },
+  {
+    "BuffOptionalList": [
+      3101094,
+      3101095
+    ],
+    "BubbleTalkEnemy": {
+      "Hash": -2052601975
+    },
+    "BuffID": 0,
+    "BubbleTalkPlayer": {
+      "Hash": -1349071644
+    },
+    "EventID": 412313,
+    "MonsterWaveIndex": 1,
+    "Name": {
+      "Hash": 1453669510
+    }
+  },
+  {
+    "BuffOptionalList": [
+      0
+    ],
+    "BubbleTalkEnemy": {
+      "Hash": -183990056
+    },
+    "BuffID": 0,
+    "BubbleTalkPlayer": {
+      "Hash": -1349071679
+    },
+    "EventID": 412411,
+    "MonsterWaveIndex": 0,
+    "Name": {
+      "Hash": 1453669281
+    }
+  },
+  {
+    "BuffOptionalList": [
+      3101062,
+      3101063
+    ],
+    "BubbleTalkEnemy": {
+      "Hash": -1750073997
+    },
+    "BuffID": 0,
+    "BubbleTalkPlayer": {
+      "Hash": -1349071682
+    },
+    "EventID": 412412,
+    "MonsterWaveIndex": 0,
+    "Name": {
+      "Hash": 1453669284
+    }
+  },
+  {
+    "BuffOptionalList": [
+      3101065,
+      3101064
+    ],
+    "BubbleTalkEnemy": {
+      "Hash": 978809358
+    },
+    "BuffID": 0,
+    "BubbleTalkPlayer": {
+      "Hash": -1349071681
+    },
+    "EventID": 412413,
+    "MonsterWaveIndex": 0,
+    "Name": {
+      "Hash": 1453669283
+    }
+  },
+  {
+    "BuffOptionalList": [
+      0
+    ],
+    "BubbleTalkEnemy": {
+      "Hash": -42827555
+    },
+    "BuffID": 0,
+    "BubbleTalkPlayer": {
+      "Hash": -1349071712
+    },
+    "EventID": 412511,
+    "MonsterWaveIndex": 0,
+    "Name": {
+      "Hash": 1453669314
+    }
+  },
+  {
+    "BuffOptionalList": [
+      3101052,
+      3101053
+    ],
+    "BubbleTalkEnemy": {
+      "Hash": -446112082
+    },
+    "BuffID": 0,
+    "BubbleTalkPlayer": {
+      "Hash": -1349071713
+    },
+    "EventID": 412512,
+    "MonsterWaveIndex": 2,
+    "Name": {
+      "Hash": 1453669315
+    }
+  },
+  {
+    "BuffOptionalList": [
+      3101054,
+      3101055
+    ],
+    "BubbleTalkEnemy": {
+      "Hash": 1119971859
+    },
+    "BuffID": 0,
+    "BubbleTalkPlayer": {
+      "Hash": -1349071714
+    },
+    "EventID": 412513,
+    "MonsterWaveIndex": 1,
+    "Name": {
+      "Hash": 1453669316
+    }
+  },
+  {
+    "BuffOptionalList": [
+      0
+    ],
+    "BubbleTalkEnemy": {
+      "Hash": -466315058
+    },
+    "BuffID": 0,
+    "BubbleTalkPlayer": {
+      "Hash": -1349071745
+    },
+    "EventID": 412611,
+    "MonsterWaveIndex": 1,
+    "Name": {
+      "Hash": 1453669347
+    }
+  },
+  {
+    "BuffOptionalList": [
+      3101104,
+      3101105
+    ],
+    "BubbleTalkEnemy": {
+      "Hash": -63030531
+    },
+    "BuffID": 0,
+    "BubbleTalkPlayer": {
+      "Hash": -1349071744
+    },
+    "EventID": 412612,
+    "MonsterWaveIndex": 1,
+    "Name": {
+      "Hash": 1453669346
+    }
+  },
+  {
+    "BuffOptionalList": [
+      3101102,
+      3101103
+    ],
+    "BubbleTalkEnemy": {
+      "Hash": -1629114472
+    },
+    "BuffID": 0,
+    "BubbleTalkPlayer": {
+      "Hash": -1349071743
+    },
+    "EventID": 412613,
+    "MonsterWaveIndex": 0,
+    "Name": {
+      "Hash": 1453669345
+    }
+  },
+  {
+    "BuffOptionalList": [
+      0
+    ],
+    "BubbleTalkEnemy": {
+      "Hash": -325152557
+    },
+    "BuffID": 0,
+    "BubbleTalkPlayer": {
+      "Hash": -1349071778
+    },
+    "EventID": 412711,
+    "MonsterWaveIndex": 0,
+    "Name": {
+      "Hash": 1453669380
+    }
+  },
+  {
+    "BuffOptionalList": [
+      3101112,
+      3101113
+    ],
+    "BubbleTalkEnemy": {
+      "Hash": 1240931384
+    },
+    "BuffID": 0,
+    "BubbleTalkPlayer": {
+      "Hash": -1349071775
+    },
+    "EventID": 412712,
+    "MonsterWaveIndex": 0,
+    "Name": {
+      "Hash": 1453669377
+    }
+  },
+  {
+    "BuffOptionalList": [
+      3101114,
+      3101115
+    ],
+    "BubbleTalkEnemy": {
+      "Hash": -1487951971
+    },
+    "BuffID": 0,
+    "BubbleTalkPlayer": {
+      "Hash": -1349071776
+    },
+    "EventID": 412713,
+    "MonsterWaveIndex": 0,
+    "Name": {
+      "Hash": 1453669378
+    }
+  }
+]

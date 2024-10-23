@@ -1,0 +1,212 @@
+[
+  {
+    "Comment": "测试-汗滴",
+    "IconPath": "SpriteOutput/UI/Quest/Graffit/GraffitTags1.png",
+    "TextureMapPath": "Stages/OriginalResPos/InteractiveProp/Common/Common_GameplayProp_StageDecal_01/Texture/Common_GameplayProp_StageDecal_Silwolf_03.png",
+    "BgPath": "SpriteOutput/UI/Quest/Graffit/GraffitPhotoTag1.png",
+    "FigurePath": "SpriteOutput/UI/Quest/Graffit/GraffitTags1.png",
+    "Desc": {
+      "Hash": -1117793074
+    },
+    "DecalID": 2,
+    "UnlockMission": 2000701,
+    "Name": {
+      "Hash": 601214104
+    }
+  },
+  {
+    "Comment": "测试-气泡问号",
+    "IconPath": "SpriteOutput/UI/Quest/Graffit/GraffitTags2.png",
+    "TextureMapPath": "Stages/OriginalResPos/InteractiveProp/Common/Common_GameplayProp_StageDecal_01/Texture/Common_GameplayProp_StageDecal_Silwolf_02.png",
+    "BgPath": "SpriteOutput/UI/Quest/Graffit/GraffitPhotoTag2.png",
+    "FigurePath": "SpriteOutput/UI/Quest/Graffit/GraffitTags2.png",
+    "Desc": {
+      "Hash": 448290867
+    },
+    "DecalID": 3,
+    "UnlockMission": 2000701,
+    "Name": {
+      "Hash": -2127669251
+    }
+  },
+  {
+    "Comment": "测试-气泡点点点",
+    "IconPath": "SpriteOutput/UI/Quest/Graffit/GraffitTags3.png",
+    "TextureMapPath": "Stages/OriginalResPos/InteractiveProp/Common/Common_GameplayProp_StageDecal_01/Texture/Common_GameplayProp_StageDecal_Silwolf_01.png",
+    "BgPath": "SpriteOutput/UI/Quest/Graffit/GraffitPhotoTag3.png",
+    "FigurePath": "SpriteOutput/UI/Quest/Graffit/GraffitTags3.png",
+    "Desc": {
+      "Hash": -1924362128
+    },
+    "DecalID": 4,
+    "UnlockMission": 2000701,
+    "Name": {
+      "Hash": 1764013518
+    }
+  },
+  {
+    "Comment": "测试-爆炸",
+    "IconPath": "SpriteOutput/UI/Quest/Graffit/GraffitTags4.png",
+    "TextureMapPath": "Stages/OriginalResPos/InteractiveProp/Common/Common_GameplayProp_StageDecal_01/Texture/Common_GameplayProp_StageDecal_Silwolf_05.png",
+    "BgPath": "SpriteOutput/UI/Quest/Graffit/GraffitPhotoTag4.png",
+    "FigurePath": "SpriteOutput/UI/Quest/Graffit/GraffitTags4.png",
+    "Desc": {
+      "Hash": -358278187
+    },
+    "DecalID": 5,
+    "UnlockMission": 2000707,
+    "Name": {
+      "Hash": -964869837
+    }
+  },
+  {
+    "Comment": "测试-Q版银狼",
+    "IconPath": "SpriteOutput/UI/Quest/Graffit/GraffitTags5.png",
+    "TextureMapPath": "Stages/OriginalResPos/InteractiveProp/Common/Common_GameplayProp_StageDecal_01/Texture/Common_GameplayProp_StageDecal_Silwolf_08.png",
+    "BgPath": "SpriteOutput/UI/Quest/Graffit/GraffitPhotoTag5.png",
+    "FigurePath": "SpriteOutput/UI/Quest/Graffit/GraffitTags5.png",
+    "Desc": {
+      "Hash": 1207805754
+    },
+    "DecalID": 6,
+    "UnlockMission": 2000707,
+    "Name": {
+      "Hash": -1368154364
+    }
+  },
+  {
+    "Comment": "测试-等级1",
+    "IconPath": "SpriteOutput/UI/Quest/Graffit/GraffitTags6.png",
+    "TextureMapPath": "Stages/OriginalResPos/InteractiveProp/Common/Common_GameplayProp_StageDecal_01/Texture/Common_GameplayProp_StageDecal_Silwolf_06.png",
+    "BgPath": "SpriteOutput/UI/Quest/Graffit/GraffitPhotoTag6.png",
+    "FigurePath": "SpriteOutput/UI/Quest/Graffit/GraffitTags6.png",
+    "Desc": {
+      "Hash": -1521077601
+    },
+    "DecalID": 7,
+    "UnlockMission": 2000707,
+    "Name": {
+      "Hash": 197929577
+    }
+  },
+  {
+    "Comment": "测试-等级999",
+    "IconPath": "SpriteOutput/UI/Quest/Graffit/GraffitTags7.png",
+    "TextureMapPath": "Stages/OriginalResPos/InteractiveProp/Common/Common_GameplayProp_StageDecal_01/Texture/Common_GameplayProp_StageDecal_Silwolf_07.png",
+    "BgPath": "SpriteOutput/UI/Quest/Graffit/GraffitPhotoTag7.png",
+    "FigurePath": "SpriteOutput/UI/Quest/Graffit/GraffitTags7.png",
+    "Desc": {
+      "Hash": 401236700
+    },
+    "DecalID": 8,
+    "UnlockMission": 2000706,
+    "Name": {
+      "Hash": -205354950
+    }
+  },
+  {
+    "Comment": "测试-冠军",
+    "IconPath": "SpriteOutput/UI/Quest/Graffit/GraffitTags8.png",
+    "TextureMapPath": "Stages/OriginalResPos/InteractiveProp/Common/Common_GameplayProp_StageDecal_01/Texture/Common_GameplayProp_StageDecal_Silwolf_04.png",
+    "BgPath": "SpriteOutput/UI/Quest/Graffit/GraffitPhotoTag8.png",
+    "FigurePath": "SpriteOutput/UI/Quest/Graffit/GraffitTags8.png",
+    "Desc": {
+      "Hash": 1967320641
+    },
+    "DecalID": 9,
+    "UnlockMission": 2000706,
+    "Name": {
+      "Hash": 1360728991
+    }
+  },
+  {
+    "Comment": "折纸大学贴花01",
+    "IconPath": "",
+    "TextureMapPath": "Stages/OriginalResPos/InteractiveProp/Common/Common_GameplayProp_StageDecal_01/Texture/Common_GameplayProp_StageDecal_OrigamiUniv_01.png",
+    "BgPath": "",
+    "FigurePath": "",
+    "Desc": {
+      "Hash": 371857150
+    },
+    "DecalID": 10,
+    "UnlockMission": 0,
+    "Name": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "Comment": "折纸大学贴花02",
+    "IconPath": "",
+    "TextureMapPath": "Stages/OriginalResPos/InteractiveProp/Common/Common_GameplayProp_StageDecal_01/Texture/Common_GameplayProp_StageDecal_OrigamiUniv_02.png",
+    "BgPath": "",
+    "FigurePath": "",
+    "Desc": {
+      "Hash": 371857150
+    },
+    "DecalID": 11,
+    "UnlockMission": 0,
+    "Name": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "Comment": "折纸大学贴花03",
+    "IconPath": "",
+    "TextureMapPath": "Stages/OriginalResPos/InteractiveProp/Common/Common_GameplayProp_StageDecal_01/Texture/Common_GameplayProp_StageDecal_OrigamiUniv_03.png",
+    "BgPath": "",
+    "FigurePath": "",
+    "Desc": {
+      "Hash": 371857150
+    },
+    "DecalID": 12,
+    "UnlockMission": 0,
+    "Name": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "Comment": "折纸大学贴花04",
+    "IconPath": "",
+    "TextureMapPath": "Stages/OriginalResPos/InteractiveProp/Common/Common_GameplayProp_StageDecal_01/Texture/Common_GameplayProp_StageDecal_OrigamiUniv_04.png",
+    "BgPath": "",
+    "FigurePath": "",
+    "Desc": {
+      "Hash": 371857150
+    },
+    "DecalID": 13,
+    "UnlockMission": 0,
+    "Name": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "Comment": "折纸大学贴花05",
+    "IconPath": "",
+    "TextureMapPath": "Stages/OriginalResPos/InteractiveProp/Common/Common_GameplayProp_StageDecal_01/Texture/Common_GameplayProp_StageDecal_OrigamiUniv_05.png",
+    "BgPath": "",
+    "FigurePath": "",
+    "Desc": {
+      "Hash": 371857150
+    },
+    "DecalID": 14,
+    "UnlockMission": 0,
+    "Name": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "Comment": "折纸大学贴花06",
+    "IconPath": "",
+    "TextureMapPath": "Stages/OriginalResPos/InteractiveProp/Common/Common_GameplayProp_StageDecal_01/Texture/Common_GameplayProp_StageDecal_OrigamiUniv_06.png",
+    "BgPath": "",
+    "FigurePath": "",
+    "Desc": {
+      "Hash": 371857150
+    },
+    "DecalID": 15,
+    "UnlockMission": 0,
+    "Name": {
+      "Hash": 371857150
+    }
+  }
+]

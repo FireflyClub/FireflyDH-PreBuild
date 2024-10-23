@@ -1,0 +1,224 @@
+[
+  {
+    "GroupEntrancePrefabPath": "UI/MiniGame/Widget/BtnMiniGameSpace/BtnMiniGameSpace1.prefab",
+    "RaidCollectionList": [
+      10104,
+      10101
+    ],
+    "RaidCollectionGroupName": {
+      "Hash": 163535794
+    },
+    "RaidCollectionGroupID": 101,
+    "UnlockGroupID": 0,
+    "RaidCollectionGroupNextEnable": true
+  },
+  {
+    "GroupEntrancePrefabPath": "UI/MiniGame/Widget/BtnMiniGameSpace/BtnMiniGameSpace4.prefab",
+    "RaidCollectionList": [
+      10204,
+      10201
+    ],
+    "RaidCollectionGroupName": {
+      "Hash": 163535793
+    },
+    "RaidCollectionGroupID": 102,
+    "UnlockGroupID": 101,
+    "RaidCollectionGroupNextEnable": true
+  },
+  {
+    "GroupEntrancePrefabPath": "UI/MiniGame/Widget/BtnMiniGameSpace/BtnMiniGameSpace3.prefab",
+    "RaidCollectionList": [
+      10304,
+      10301
+    ],
+    "RaidCollectionGroupName": {
+      "Hash": 163535792
+    },
+    "RaidCollectionGroupID": 103,
+    "UnlockGroupID": 102,
+    "RaidCollectionGroupNextEnable": true
+  },
+  {
+    "GroupEntrancePrefabPath": "UI/MiniGame/Widget/BtnMiniGameSpace/BtnMiniGameSpace2.prefab",
+    "RaidCollectionList": [
+      10404,
+      10401
+    ],
+    "RaidCollectionGroupName": {
+      "Hash": 163535791
+    },
+    "RaidCollectionGroupID": 104,
+    "UnlockGroupID": 103,
+    "RaidCollectionGroupNextEnable": true
+  },
+  {
+    "GroupEntrancePrefabPath": "UI/MiniGame/Widget/BtnMiniGameSpace/BtnMiniGameSpace5.prefab",
+    "RaidCollectionList": [
+      10102,
+      10103,
+      10501,
+      10502,
+      10503
+    ],
+    "RaidCollectionGroupName": {
+      "Hash": 163535790
+    },
+    "RaidCollectionGroupID": 105,
+    "UnlockGroupID": 101,
+    "RaidCollectionGroupNextEnable": true
+  },
+  {
+    "GroupEntrancePrefabPath": "UI/MiniGame/Widget/BtnMiniGameSpace/BtnMiniGameSpace8.prefab",
+    "RaidCollectionList": [
+      10202,
+      10203,
+      10601,
+      10602,
+      10603
+    ],
+    "RaidCollectionGroupName": {
+      "Hash": 163535789
+    },
+    "RaidCollectionGroupID": 106,
+    "UnlockGroupID": 102,
+    "RaidCollectionGroupNextEnable": true
+  },
+  {
+    "GroupEntrancePrefabPath": "UI/MiniGame/Widget/BtnMiniGameSpace/BtnMiniGameSpace7.prefab",
+    "RaidCollectionList": [
+      10302,
+      10303
+    ],
+    "RaidCollectionGroupName": {
+      "Hash": 163535788
+    },
+    "RaidCollectionGroupID": 107,
+    "UnlockGroupID": 103,
+    "RaidCollectionGroupNextEnable": true
+  },
+  {
+    "GroupEntrancePrefabPath": "UI/MiniGame/Widget/BtnMiniGameSpace/BtnMiniGameSpace6.prefab",
+    "RaidCollectionList": [
+      10402,
+      10403
+    ],
+    "RaidCollectionGroupName": {
+      "Hash": 163535803
+    },
+    "RaidCollectionGroupID": 108,
+    "UnlockGroupID": 104,
+    "RaidCollectionGroupNextEnable": true
+  },
+  {
+    "GroupEntrancePrefabPath": "UI/Quest/SecondWorldRaidCollection/Widget/SecondWorldRaidCollectionSpace/BtnSecondWorldRaidCollection1.prefab",
+    "RaidCollectionList": [
+      20101,
+      20102,
+      20103
+    ],
+    "RaidCollectionGroupName": {
+      "Hash": 163535761
+    },
+    "RaidCollectionGroupID": 201,
+    "UnlockGroupID": 0,
+    "RaidCollectionGroupNextEnable": true
+  },
+  {
+    "GroupEntrancePrefabPath": "UI/Quest/SecondWorldRaidCollection/Widget/SecondWorldRaidCollectionSpace/BtnSecondWorldRaidCollection3.prefab",
+    "RaidCollectionList": [
+      20701,
+      20702,
+      20703
+    ],
+    "RaidCollectionGroupName": {
+      "Hash": 163535762
+    },
+    "RaidCollectionGroupID": 202,
+    "UnlockGroupID": 201,
+    "RaidCollectionGroupNextEnable": true
+  },
+  {
+    "GroupEntrancePrefabPath": "UI/Quest/SecondWorldRaidCollection/Widget/SecondWorldRaidCollectionSpace/BtnSecondWorldRaidCollection2.prefab",
+    "RaidCollectionList": [
+      20301,
+      20302,
+      20303
+    ],
+    "RaidCollectionGroupName": {
+      "Hash": 163535763
+    },
+    "RaidCollectionGroupID": 203,
+    "UnlockGroupID": 202,
+    "RaidCollectionGroupNextEnable": true
+  },
+  {
+    "GroupEntrancePrefabPath": "UI/Quest/SecondWorldRaidCollection/Widget/SecondWorldRaidCollectionSpace/BtnSecondWorldRaidCollection4.prefab",
+    "RaidCollectionList": [
+      20501,
+      20502,
+      20503
+    ],
+    "RaidCollectionGroupName": {
+      "Hash": 163535756
+    },
+    "RaidCollectionGroupID": 204,
+    "UnlockGroupID": 203,
+    "RaidCollectionGroupNextEnable": true
+  },
+  {
+    "GroupEntrancePrefabPath": "UI/Quest/SecondWorldRaidCollection/Widget/SecondWorldRaidCollectionSpace/BtnSecondWorldRaidCollection5.prefab",
+    "RaidCollectionList": [
+      20201,
+      20202,
+      20203
+    ],
+    "RaidCollectionGroupName": {
+      "Hash": 163535757
+    },
+    "RaidCollectionGroupID": 205,
+    "UnlockGroupID": 201,
+    "RaidCollectionGroupNextEnable": true
+  },
+  {
+    "GroupEntrancePrefabPath": "UI/Quest/SecondWorldRaidCollection/Widget/SecondWorldRaidCollectionSpace/BtnSecondWorldRaidCollection7.prefab",
+    "RaidCollectionList": [
+      20801,
+      20802,
+      20803
+    ],
+    "RaidCollectionGroupName": {
+      "Hash": 163535758
+    },
+    "RaidCollectionGroupID": 206,
+    "UnlockGroupID": 202,
+    "RaidCollectionGroupNextEnable": true
+  },
+  {
+    "GroupEntrancePrefabPath": "UI/Quest/SecondWorldRaidCollection/Widget/SecondWorldRaidCollectionSpace/BtnSecondWorldRaidCollection6.prefab",
+    "RaidCollectionList": [
+      20401,
+      20402,
+      20403
+    ],
+    "RaidCollectionGroupName": {
+      "Hash": 163535759
+    },
+    "RaidCollectionGroupID": 207,
+    "UnlockGroupID": 203,
+    "RaidCollectionGroupNextEnable": true
+  },
+  {
+    "GroupEntrancePrefabPath": "UI/Quest/SecondWorldRaidCollection/Widget/SecondWorldRaidCollectionSpace/BtnSecondWorldRaidCollection8.prefab",
+    "RaidCollectionList": [
+      20601,
+      20602,
+      20603
+    ],
+    "RaidCollectionGroupName": {
+      "Hash": 163535768
+    },
+    "RaidCollectionGroupID": 208,
+    "UnlockGroupID": 204,
+    "RaidCollectionGroupNextEnable": true
+  }
+]

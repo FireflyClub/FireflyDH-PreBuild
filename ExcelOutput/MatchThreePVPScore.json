@@ -1,0 +1,128 @@
+[
+  {
+    "FinishType": "Rank",
+    "Title2": {
+      "Hash": -675644634
+    },
+    "Rarity": "Gold",
+    "ScoreID": 1,
+    "FixedScore": 1000,
+    "Param2": 0,
+    "Desc": {
+      "Hash": 1621024463
+    },
+    "Title": {
+      "Hash": -1632104888
+    },
+    "Param1": 1,
+    "Type": "Rank"
+  },
+  {
+    "FinishType": "Rank",
+    "Title2": {
+      "Hash": -675644633
+    },
+    "Rarity": "Silver",
+    "ScoreID": 2,
+    "FixedScore": 800,
+    "Param2": 0,
+    "Desc": {
+      "Hash": 1621024466
+    },
+    "Title": {
+      "Hash": -2035389415
+    },
+    "Param1": 2,
+    "Type": "Rank"
+  },
+  {
+    "FinishType": "Rank",
+    "Title2": {
+      "Hash": -675644632
+    },
+    "Rarity": "Bronze",
+    "ScoreID": 3,
+    "FixedScore": 600,
+    "Param2": 0,
+    "Desc": {
+      "Hash": 1621024465
+    },
+    "Title": {
+      "Hash": -469305474
+    },
+    "Param1": 3,
+    "Type": "Rank"
+  },
+  {
+    "FinishType": "Score",
+    "Title2": {
+      "Hash": -675644631
+    },
+    "Rarity": "Normal",
+    "ScoreID": 4,
+    "FixedScore": 0,
+    "Param2": 600,
+    "Desc": {
+      "Hash": 1621024468
+    },
+    "Title": {
+      "Hash": -872590001
+    },
+    "Param1": 1,
+    "Type": "Basic"
+  },
+  {
+    "FinishType": "Energy",
+    "Title2": {
+      "Hash": -675644630
+    },
+    "Rarity": "Normal",
+    "ScoreID": 5,
+    "FixedScore": 0,
+    "Param2": 600,
+    "Desc": {
+      "Hash": 1621024467
+    },
+    "Title": {
+      "Hash": 693493940
+    },
+    "Param1": 5,
+    "Type": "Basic"
+  },
+  {
+    "FinishType": "BombAll",
+    "Title2": {
+      "Hash": -675644629
+    },
+    "Rarity": "Normal",
+    "ScoreID": 6,
+    "FixedScore": 0,
+    "Param2": 300,
+    "Desc": {
+      "Hash": 1621024470
+    },
+    "Title": {
+      "Hash": 290209413
+    },
+    "Param1": 10,
+    "Type": "Basic"
+  },
+  {
+    "FinishType": "DamageAll",
+    "Title2": {
+      "Hash": -675644628
+    },
+    "Rarity": "Normal",
+    "ScoreID": 7,
+    "FixedScore": 0,
+    "Param2": 300,
+    "Desc": {
+      "Hash": 1621024469
+    },
+    "Title": {
+      "Hash": 1856293354
+    },
+    "Param1": 1,
+    "Type": "Basic"
+  }
+]

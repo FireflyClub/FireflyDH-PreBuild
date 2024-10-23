@@ -1,0 +1,29 @@
+[
+  {
+    "ExtraInfoParam": "#dbc291",
+    "ExtraInfoType": [
+      1,
+      3
+    ],
+    "Condition": "PamLevelReward",
+    "ID": 1
+  },
+  {
+    "ExtraInfoParam": "#dbc291",
+    "ExtraInfoType": [
+      1,
+      2
+    ],
+    "Condition": "TrackMission",
+    "ID": 2
+  },
+  {
+    "ExtraInfoParam": "#dbc291",
+    "ExtraInfoType": [
+      1,
+      4
+    ],
+    "Condition": "ActivityReward",
+    "ID": 3
+  }
+]

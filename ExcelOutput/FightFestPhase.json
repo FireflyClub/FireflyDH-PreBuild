@@ -1,0 +1,324 @@
+[
+  {
+    "Board3DTexture": "UI/UI3D/FightFest/_dependencies/Texture/UI3D_FightFestBoardPicImg_01.png",
+    "IconPath2": "",
+    "PhaseTutorialParams": [
+      802511102
+    ],
+    "MiniIconPath1": "SpriteOutput/Quest/FightFest/Avatar/HeadIconFigure/FightFestHeadIconFigure01.png",
+    "LukaAnimTrigger": "StandBy",
+    "IconPath1": "SpriteOutput/Quest/FightFest/Avatar/Challenge/FightFestAvatarChallenge01.png",
+    "TargetTips": {
+      "Hash": -969152113
+    },
+    "PhaseType": "ScoreRace",
+    "SortWeight": 1,
+    "PhaseTitle": {
+      "Hash": -2105505601
+    },
+    "PhaseID": 201,
+    "UnlockSubMissionID": 802510113,
+    "BoardTitle": {
+      "Hash": 1248950054
+    }
+  },
+  {
+    "Board3DTexture": "UI/UI3D/FightFest/_dependencies/Texture/UI3D_FightFestBoardPicImg_01.png",
+    "IconPath2": "SpriteOutput/Quest/FightFest/Avatar/StageBoard/BtnFighFestMainStageBoard1.png",
+    "PhaseTutorialParams": [
+      802511103
+    ],
+    "MiniIconPath1": "SpriteOutput/Quest/FightFest/Avatar/HeadIconFigure/FightFestHeadIconFigure01.png",
+    "LukaAnimTrigger": "StandBy",
+    "IconPath1": "SpriteOutput/Quest/FightFest/Avatar/Challenge/FightFestAvatarChallenge01.png",
+    "TargetTips": {
+      "Hash": -969152274
+    },
+    "PhaseType": "MainRace",
+    "SortWeight": 2,
+    "PhaseTitle": {
+      "Hash": -2105505630
+    },
+    "PhaseID": 101,
+    "UnlockSubMissionID": 802511102,
+    "BoardTitle": {
+      "Hash": 1248950021
+    }
+  },
+  {
+    "Board3DTexture": "UI/UI3D/FightFest/_dependencies/Texture/UI3D_FightFestBoardPicImg_01.png",
+    "IconPath2": "",
+    "PhaseTutorialParams": [
+      802511201,
+      802511204,
+      802511206,
+      802511205,
+      802511223,
+      802511207,
+      802511208,
+      802511209,
+      802511216,
+      802511217,
+      802511210,
+      802511211,
+      802511213,
+      802511221,
+      802511222
+    ],
+    "MiniIconPath1": "SpriteOutput/Quest/FightFest/Avatar/HeadIconFigure/FightFestHeadIconFigure01.png",
+    "LukaAnimTrigger": "StandBy",
+    "IconPath1": "SpriteOutput/Quest/FightFest/Avatar/Challenge/FightFestAvatarChallenge01.png",
+    "TargetTips": {
+      "Hash": -969152208
+    },
+    "PhaseType": "Rest",
+    "SortWeight": 3,
+    "PhaseTitle": {
+      "Hash": -2105505696
+    },
+    "PhaseID": 301,
+    "UnlockSubMissionID": 802511201,
+    "BoardTitle": {
+      "Hash": 1248950087
+    }
+  },
+  {
+    "Board3DTexture": "UI/UI3D/FightFest/_dependencies/Texture/UI3D_FightFestBoardPicImg_02.png",
+    "IconPath2": "",
+    "PhaseTutorialParams": [
+      802510203
+    ],
+    "MiniIconPath1": "SpriteOutput/Quest/FightFest/Avatar/HeadIconFigure/FightFestHeadIconFigure02.png",
+    "LukaAnimTrigger": "StandBy",
+    "IconPath1": "SpriteOutput/Quest/FightFest/Avatar/Challenge/FightFestAvatarChallenge02.png",
+    "TargetTips": {
+      "Hash": -969152114
+    },
+    "PhaseType": "ScoreRace",
+    "SortWeight": 4,
+    "PhaseTitle": {
+      "Hash": -2105505598
+    },
+    "PhaseID": 202,
+    "UnlockSubMissionID": 802511213,
+    "BoardTitle": {
+      "Hash": 1248950053
+    }
+  },
+  {
+    "Board3DTexture": "UI/UI3D/FightFest/_dependencies/Texture/UI3D_FightFestBoardPicImg_02.png",
+    "IconPath2": "SpriteOutput/Quest/FightFest/Avatar/StageBoard/BtnFighFestMainStageBoard2.png",
+    "PhaseTutorialParams": [
+      802510204
+    ],
+    "MiniIconPath1": "SpriteOutput/Quest/FightFest/Avatar/HeadIconFigure/FightFestHeadIconFigure02.png",
+    "LukaAnimTrigger": "StandBy",
+    "IconPath1": "SpriteOutput/Quest/FightFest/Avatar/Challenge/FightFestAvatarChallenge02.png",
+    "TargetTips": {
+      "Hash": -969152273
+    },
+    "PhaseType": "MainRace",
+    "SortWeight": 5,
+    "PhaseTitle": {
+      "Hash": -2105505633
+    },
+    "PhaseID": 102,
+    "UnlockSubMissionID": 802510203,
+    "BoardTitle": {
+      "Hash": 1248950022
+    }
+  },
+  {
+    "Board3DTexture": "UI/UI3D/FightFest/_dependencies/Texture/UI3D_FightFestBoardPicImg_03.png",
+    "IconPath2": "",
+    "PhaseTutorialParams": [
+      802511309,
+      802511311,
+      802511301,
+      802511303,
+      802511304,
+      802511306,
+      802511307
+    ],
+    "MiniIconPath1": "SpriteOutput/Quest/FightFest/Avatar/HeadIconFigure/FightFestHeadIconFigure02.png",
+    "LukaAnimTrigger": "Injured",
+    "IconPath1": "SpriteOutput/Quest/FightFest/Avatar/Challenge/FightFestAvatarChallenge02.png",
+    "TargetTips": {
+      "Hash": -969152311
+    },
+    "PhaseType": "KnockedOut",
+    "SortWeight": 6,
+    "PhaseTitle": {
+      "Hash": -2105505403
+    },
+    "PhaseID": 401,
+    "UnlockSubMissionID": 802510206,
+    "BoardTitle": {
+      "Hash": 1248949856
+    }
+  },
+  {
+    "Board3DTexture": "UI/UI3D/FightFest/_dependencies/Texture/UI3D_FightFestBoardPicImg_04.png",
+    "IconPath2": "SpriteOutput/Quest/FightFest/Avatar/StageBoard/BtnFighFestMainStageBoard3.png",
+    "PhaseTutorialParams": [
+      802510302
+    ],
+    "MiniIconPath1": "SpriteOutput/Quest/FightFest/Avatar/HeadIconFigure/FightFestHeadIconFigure03.png",
+    "LukaAnimTrigger": "StandBy",
+    "IconPath1": "SpriteOutput/Quest/FightFest/Avatar/Challenge/FightFestAvatarChallenge03.png",
+    "TargetTips": {
+      "Hash": -969152272
+    },
+    "PhaseType": "MainRace",
+    "SortWeight": 7,
+    "PhaseTitle": {
+      "Hash": -2105505632
+    },
+    "PhaseID": 103,
+    "UnlockSubMissionID": 802510301,
+    "BoardTitle": {
+      "Hash": 1248950023
+    }
+  },
+  {
+    "Board3DTexture": "UI/UI3D/FightFest/_dependencies/Texture/UI3D_FightFestBoardPicImg_04.png",
+    "IconPath2": "",
+    "PhaseTutorialParams": [
+      802511401,
+      802511402,
+      802511404
+    ],
+    "MiniIconPath1": "SpriteOutput/Quest/FightFest/Avatar/HeadIconFigure/FightFestHeadIconFigure03.png",
+    "LukaAnimTrigger": "StandBy",
+    "IconPath1": "SpriteOutput/Quest/FightFest/Avatar/Challenge/FightFestAvatarChallenge03.png",
+    "TargetTips": {
+      "Hash": -969152211
+    },
+    "PhaseType": "Rest",
+    "SortWeight": 8,
+    "PhaseTitle": {
+      "Hash": -2105505695
+    },
+    "PhaseID": 302,
+    "UnlockSubMissionID": 802510310,
+    "BoardTitle": {
+      "Hash": 1248950084
+    }
+  },
+  {
+    "Board3DTexture": "UI/UI3D/FightFest/_dependencies/Texture/UI3D_FightFestBoardPicImg_05.png",
+    "IconPath2": "",
+    "PhaseTutorialParams": [
+      802510403
+    ],
+    "MiniIconPath1": "SpriteOutput/Quest/FightFest/Avatar/HeadIconFigure/FightFestHeadIconFigure04-0.png",
+    "LukaAnimTrigger": "StandBy",
+    "IconPath1": "SpriteOutput/Quest/FightFest/Avatar/Challenge/FightFestAvatarChallenge04-0.png",
+    "TargetTips": {
+      "Hash": -969152115
+    },
+    "PhaseType": "ScoreRace",
+    "SortWeight": 9,
+    "PhaseTitle": {
+      "Hash": -2105505599
+    },
+    "PhaseID": 203,
+    "UnlockSubMissionID": 802511404,
+    "BoardTitle": {
+      "Hash": 1248950052
+    }
+  },
+  {
+    "Board3DTexture": "UI/UI3D/FightFest/_dependencies/Texture/UI3D_FightFestBoardPicImg_05.png",
+    "IconPath2": "SpriteOutput/Quest/FightFest/Avatar/StageBoard/BtnFighFestMainStageBoard4.png",
+    "PhaseTutorialParams": [
+      802510406
+    ],
+    "MiniIconPath1": "SpriteOutput/Quest/FightFest/Avatar/HeadIconFigure/FightFestHeadIconFigure04-0.png",
+    "LukaAnimTrigger": "StandBy",
+    "IconPath1": "SpriteOutput/Quest/FightFest/Avatar/Challenge/FightFestAvatarChallenge04-0.png",
+    "TargetTips": {
+      "Hash": -969152279
+    },
+    "PhaseType": "MainRace",
+    "SortWeight": 10,
+    "PhaseTitle": {
+      "Hash": -2105505627
+    },
+    "PhaseID": 104,
+    "UnlockSubMissionID": 802510403,
+    "BoardTitle": {
+      "Hash": 1248950016
+    }
+  },
+  {
+    "Board3DTexture": "UI/UI3D/FightFest/_dependencies/Texture/UI3D_FightFestBoardPicImg_05.png",
+    "IconPath2": "",
+    "PhaseTutorialParams": [
+      802510503,
+      802510501,
+      802510502,
+      802510507
+    ],
+    "MiniIconPath1": "SpriteOutput/Quest/FightFest/Avatar/HeadIconFigure/FightFestHeadIconFigure04.png",
+    "LukaAnimTrigger": "StandBy",
+    "IconPath1": "SpriteOutput/Quest/FightFest/Avatar/Challenge/FightFestAvatarChallenge04.png",
+    "TargetTips": {
+      "Hash": -969152210
+    },
+    "PhaseType": "Rest",
+    "SortWeight": 11,
+    "PhaseTitle": {
+      "Hash": -2105505694
+    },
+    "PhaseID": 303,
+    "UnlockSubMissionID": 802510409,
+    "BoardTitle": {
+      "Hash": 1248950085
+    }
+  },
+  {
+    "Board3DTexture": "UI/UI3D/FightFest/_dependencies/Texture/UI3D_FightFestBoardPicImg_06.png",
+    "IconPath2": "SpriteOutput/Quest/FightFest/Avatar/StageBoard/BtnFighFestMainStageBoard5.png",
+    "PhaseTutorialParams": [
+      802510508
+    ],
+    "MiniIconPath1": "SpriteOutput/Quest/FightFest/Avatar/HeadIconFigure/FightFestHeadIconFigure05.png",
+    "LukaAnimTrigger": "StandBy",
+    "IconPath1": "SpriteOutput/Quest/FightFest/Avatar/Challenge/FightFestAvatarChallenge05.png",
+    "TargetTips": {
+      "Hash": -969152278
+    },
+    "PhaseType": "MainRace",
+    "SortWeight": 12,
+    "PhaseTitle": {
+      "Hash": -2105505626
+    },
+    "PhaseID": 105,
+    "UnlockSubMissionID": 802510507,
+    "BoardTitle": {
+      "Hash": 1248950017
+    }
+  },
+  {
+    "Board3DTexture": "UI/UI3D/FightFest/_dependencies/Texture/UI3D_FightFestBoardPicImg_07.png",
+    "IconPath2": "",
+    "PhaseTutorialParams": [],
+    "MiniIconPath1": "SpriteOutput/Quest/FightFest/Avatar/HeadIconFigure/FightFestHeadIconFigure00.png",
+    "LukaAnimTrigger": "",
+    "IconPath1": "SpriteOutput/Quest/FightFest/Avatar/Challenge/FightFestAvatarChallenge05.png",
+    "TargetTips": {
+      "Hash": 371857150
+    },
+    "PhaseType": "Finished",
+    "SortWeight": 13,
+    "PhaseTitle": {
+      "Hash": -2105505498
+    },
+    "PhaseID": 501,
+    "UnlockSubMissionID": 802510509,
+    "BoardTitle": {
+      "Hash": 1248949889
+    }
+  }
+]

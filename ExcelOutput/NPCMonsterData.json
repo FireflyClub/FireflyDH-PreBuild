@@ -1,0 +1,4682 @@
+[
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_1002020.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W1_Soldier01_03_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W1_Soldier01_03_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Chase.json",
+    "NPCName": {
+      "Hash": 1262937818
+    },
+    "PrototypeID": 1002020,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "MinionLv2",
+    "MappingInfoID": 3008,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 1002020
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_1002030.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W1_Soldier04_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W1_Soldier04_00_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Chase.json",
+    "NPCName": {
+      "Hash": 1262937819
+    },
+    "PrototypeID": 1002030,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "MinionLv2",
+    "MappingInfoID": 3009,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 1002030
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_1002040.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W1_Soldier01_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W1_Soldier01_00_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Chase.json",
+    "NPCName": {
+      "Hash": 1262937820
+    },
+    "PrototypeID": 1002040,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "MinionLv2",
+    "MappingInfoID": 3009,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 1002040
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_1002040.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W1_Soldier02_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W1_Soldier02_00_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Chase.json",
+    "NPCName": {
+      "Hash": 1262937821
+    },
+    "PrototypeID": 1002050,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "MinionLv2",
+    "MappingInfoID": 3009,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 1002050
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_1003010.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W1_Soldier03_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W1_Soldier03_00_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Chase.json",
+    "NPCName": {
+      "Hash": 1262937784
+    },
+    "PrototypeID": 1003010,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "Elite",
+    "MappingInfoID": 3009,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 1003010
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_1003010.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W1_Soldier03_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W1_Soldier03_00_Config_A.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Dummy.json",
+    "NPCName": {
+      "Hash": 503422897
+    },
+    "PrototypeID": 1003010,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "Elite",
+    "MappingInfoID": 3009,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 1003015
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_1003010.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W1_Soldier03_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W1_Soldier03_00_Config_B.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Dummy.json",
+    "NPCName": {
+      "Hash": 2069506838
+    },
+    "PrototypeID": 1003010,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "Elite",
+    "MappingInfoID": 3009,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 1003016
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_1004010.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W1_CocoliaP1_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W1_CocoliaP1_00_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Dummy.json",
+    "NPCName": {
+      "Hash": 1262938015
+    },
+    "PrototypeID": 1004010,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "LittleBoss",
+    "MappingInfoID": 0,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 1004010
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_1004010.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W1_CocoliaP1_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W1_CocoliaP1_00_Config_A.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Dummy.json",
+    "NPCName": {
+      "Hash": -1465945340
+    },
+    "PrototypeID": 1004010,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "LittleBoss",
+    "MappingInfoID": 0,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 1004011
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_1004010.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W1_CocoliaP1_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W1_CocoliaP1_00_Config_IF.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Dummy.json",
+    "NPCName": {
+      "Hash": 100138601
+    },
+    "PrototypeID": 1004010,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "LittleBoss",
+    "MappingInfoID": 0,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 1004012
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_1004020.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W1_Gepard_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W1_Gepard_00_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Dummy.json",
+    "NPCName": {
+      "Hash": 1262938012
+    },
+    "PrototypeID": 1004020,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "LittleBoss",
+    "MappingInfoID": 0,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 1004020
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_1004020.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W1_Gepard_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W1_Gepard_00_Config_A.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Dummy.json",
+    "NPCName": {
+      "Hash": -1465945343
+    },
+    "PrototypeID": 1004020,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "LittleBoss",
+    "MappingInfoID": 0,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 1004021
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_1004030.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W1_Bronya_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W1_Bronya_00_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Dummy.json",
+    "NPCName": {
+      "Hash": 1262938013
+    },
+    "PrototypeID": 1004030,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "LittleBoss",
+    "MappingInfoID": 0,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 1004030
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_1012020.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W1_Mecha01_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W1_Mecha01_00_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Chase.json",
+    "NPCName": {
+      "Hash": 1181867583
+    },
+    "PrototypeID": 1012020,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "MinionLv2",
+    "MappingInfoID": 3003,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 1012020
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_1012030.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W1_Mecha01_01_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W1_Mecha01_01_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Chase.json",
+    "NPCName": {
+      "Hash": 1181867584
+    },
+    "PrototypeID": 1012030,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "MinionLv2",
+    "MappingInfoID": 3003,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 1012030
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_1013010.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W1_Mecha03_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W1_Mecha03_00_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Chase.json",
+    "NPCName": {
+      "Hash": 1181867549
+    },
+    "PrototypeID": 1013010,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "Elite",
+    "MappingInfoID": 3003,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 1013010
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_1013010.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W1_Mecha03_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W1_Mecha03_00_Config_A.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Dummy.json",
+    "NPCName": {
+      "Hash": -384216392
+    },
+    "PrototypeID": 1013010,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "Elite",
+    "MappingInfoID": 3003,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 1013011
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_1013010.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W1_Mecha03_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W1_Mecha03_00_Config_B.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Dummy.json",
+    "NPCName": {
+      "Hash": 19068135
+    },
+    "PrototypeID": 1013010,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "Elite",
+    "MappingInfoID": 3003,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 1013012
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_1013020.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W1_Mecha04_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W1_Mecha04_00_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Chase.json",
+    "NPCName": {
+      "Hash": 1181867552
+    },
+    "PrototypeID": 1013020,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "Elite",
+    "MappingInfoID": 3003,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 1013020
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_1013020.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W1_Mecha04_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/FarmElement_W1_Mecha04_00_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Chase.json",
+    "NPCName": {
+      "Hash": -384216389
+    },
+    "PrototypeID": 1013020,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "Elite",
+    "MappingInfoID": 3003,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 1013021
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_1013020.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W1_Mecha04_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W1_Mecha04_00_Config_A.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Dummy.json",
+    "NPCName": {
+      "Hash": 19068138
+    },
+    "PrototypeID": 1013020,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "Elite",
+    "MappingInfoID": 3003,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 1013022
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_1014010.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W1_Svarog_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W1_Svarog_00_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Dummy.json",
+    "NPCName": {
+      "Hash": 1181867780
+    },
+    "PrototypeID": 1014010,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "LittleBoss",
+    "MappingInfoID": 0,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 1014010
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_1014010.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W1_Svarog_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W1_Svarog_00_Config_A.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Dummy.json",
+    "NPCName": {
+      "Hash": -384216161
+    },
+    "PrototypeID": 1014010,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "LittleBoss",
+    "MappingInfoID": 0,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 1014011
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_1022010.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W1_Soldier01_02_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W1_Soldier01_02_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Chase.json",
+    "NPCName": {
+      "Hash": 1989728291
+    },
+    "PrototypeID": 1022010,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "MinionLv2",
+    "MappingInfoID": 3006,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 1022010
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_1022020.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W1_Soldier01_01_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W1_Soldier01_01_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Chase.json",
+    "NPCName": {
+      "Hash": 1989728292
+    },
+    "PrototypeID": 1022020,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "MinionLv2",
+    "MappingInfoID": 3007,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 1022020
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_1023010.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W1_Mecha04_01_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W1_Mecha04_01_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Chase.json",
+    "NPCName": {
+      "Hash": 1989728258
+    },
+    "PrototypeID": 1023010,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "Elite",
+    "MappingInfoID": 3003,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 1023010
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_1023010.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W1_Mecha04_01_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W1_Mecha04_01_Config_A.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Dummy.json",
+    "NPCName": {
+      "Hash": -739155097
+    },
+    "PrototypeID": 1023010,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "Elite",
+    "MappingInfoID": 3003,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 1023011
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_1023010.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W1_Mecha04_01_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/FarmElement_W1_Mecha04_01_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Chase.json",
+    "NPCName": {
+      "Hash": -1142439624
+    },
+    "PrototypeID": 1023010,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "Elite",
+    "MappingInfoID": 3003,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 1023012
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_1023020.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W1_Mecha03_01_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W1_Mecha03_01_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Chase.json",
+    "NPCName": {
+      "Hash": 1989728261
+    },
+    "PrototypeID": 1023020,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "Elite",
+    "MappingInfoID": 3003,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 1023020
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_1023020.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W1_Mecha03_01_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/FarmElement_W1_Mecha03_01_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Chase.json",
+    "NPCName": {
+      "Hash": -739155094
+    },
+    "PrototypeID": 1023020,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "Elite",
+    "MappingInfoID": 3003,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 1023021
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_1023020.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W1_Mecha03_01_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W1_Mecha03_01_Config_A.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Dummy.json",
+    "NPCName": {
+      "Hash": -1142439621
+    },
+    "PrototypeID": 1023020,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "Elite",
+    "MappingInfoID": 3003,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 1023022
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_2002010.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W2_Knight01_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W2_Knight01_00_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Chase.json",
+    "NPCName": {
+      "Hash": 1811943720
+    },
+    "PrototypeID": 2002010,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "MinionLv2",
+    "MappingInfoID": 0,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 2002010
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_2002030.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W2_Valkyrie01_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W2_Valkyrie01_00_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Chase.json",
+    "NPCName": {
+      "Hash": 1811943722
+    },
+    "PrototypeID": 2002030,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "MinionLv2",
+    "MappingInfoID": 0,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 2002030
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_2004010.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W2_Kafka_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W2_Kafka_00_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Dummy.json",
+    "NPCName": {
+      "Hash": 1811943918
+    },
+    "PrototypeID": 2004010,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "LittleBoss",
+    "MappingInfoID": 0,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 2004010
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_2004010.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W2_Kafka_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W2_Kafka_00_Config_A.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Dummy.json",
+    "NPCName": {
+      "Hash": 245859977
+    },
+    "PrototypeID": 2004010,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "LittleBoss",
+    "MappingInfoID": 0,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 2004011
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_2004010.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W2_Kafka_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W2_Kafka_00_Config_IF.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Dummy.json",
+    "NPCName": {
+      "Hash": -1320223964
+    },
+    "PrototypeID": 2004010,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "LittleBoss",
+    "MappingInfoID": 0,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 2004012
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_2004020.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W2_Yanqing_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W2_Yanqing_00_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Dummy.json",
+    "NPCName": {
+      "Hash": 1811943915
+    },
+    "PrototypeID": 2004020,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "LittleBoss",
+    "MappingInfoID": 0,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 2004020
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_2004020.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W2_Yanqing_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W2_Yanqing_00_Config_A.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Dummy.json",
+    "NPCName": {
+      "Hash": 245859974
+    },
+    "PrototypeID": 2004020,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "LittleBoss",
+    "MappingInfoID": 0,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 2004021
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_2011010.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W2_Mecha01_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W2_Mecha01_00_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Steer.json",
+    "NPCName": {
+      "Hash": 1004083044
+    },
+    "PrototypeID": 2011010,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "MinionLv2",
+    "MappingInfoID": 3005,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 2011010
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_2011020.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W2_Mecha01_01_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W2_Mecha01_01_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Steer.json",
+    "NPCName": {
+      "Hash": 1004083043
+    },
+    "PrototypeID": 2011020,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "MinionLv2",
+    "MappingInfoID": 3005,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 2011020
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_2012010.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W2_Mecha02_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W2_Mecha02_00_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Steer.json",
+    "NPCName": {
+      "Hash": 1004083011
+    },
+    "PrototypeID": 2012010,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "MinionLv2",
+    "MappingInfoID": 3005,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 2012010
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_2012010.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W2_Mecha02_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W2_Mecha02_00_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Steer.json",
+    "NPCName": {
+      "Hash": -1724800344
+    },
+    "PrototypeID": 2012010,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "MinionLv2",
+    "MappingInfoID": 3005,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 2012011
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_2013010.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W2_Mecha03_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W2_Mecha03_00_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Chase.json",
+    "NPCName": {
+      "Hash": 1004082978
+    },
+    "PrototypeID": 2013010,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "Elite",
+    "MappingInfoID": 3005,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 2013010
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_2013010.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W2_Mecha03_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/FarmElement_W2_Mecha03_00_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Chase.json",
+    "NPCName": {
+      "Hash": -1724800377
+    },
+    "PrototypeID": 2013010,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "Elite",
+    "MappingInfoID": 3005,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 2013011
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_2013010.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W2_Mecha03_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W2_Mecha03_00_Config_RLElite.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Dummy.json",
+    "NPCName": {
+      "Hash": -2128084904
+    },
+    "PrototypeID": 2013010,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "Elite",
+    "MappingInfoID": 3005,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 2013012
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_2013020.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W2_Valkyrie02_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W2_Valkyrie02_00_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Chase.json",
+    "NPCName": {
+      "Hash": 1004082981
+    },
+    "PrototypeID": 2013020,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "Elite",
+    "MappingInfoID": 3005,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 2013020
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_2013020.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W2_Valkyrie02_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/FarmElement_W2_Valkyrie02_00_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Chase.json",
+    "NPCName": {
+      "Hash": -1724800374
+    },
+    "PrototypeID": 2013020,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "Elite",
+    "MappingInfoID": 3005,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 2013021
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_2013020.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W2_Valkyrie02_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W2_Valkyrie02_00_Config_RLElite.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Dummy.json",
+    "NPCName": {
+      "Hash": -2128084901
+    },
+    "PrototypeID": 2013020,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "Elite",
+    "MappingInfoID": 3005,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 2013022
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_2022010.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W2_Abomi01_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W2_Abomi01_00_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Chase.json",
+    "NPCName": {
+      "Hash": 1085153246
+    },
+    "PrototypeID": 2022010,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "MinionLv2",
+    "MappingInfoID": 3004,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 2022010
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_2022010.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W2_Abomi01_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/SneakMonster_W2_Abomi01_00_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Chase.json",
+    "NPCName": {
+      "Hash": -480930695
+    },
+    "PrototypeID": 2022010,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "MinionLv2",
+    "MappingInfoID": 3004,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 2022011
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_8012020.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W2_Abomi02_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W2_Abomi02_00_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Steer.json",
+    "NPCName": {
+      "Hash": 1085153247
+    },
+    "PrototypeID": 2022020,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "MinionLv2",
+    "MappingInfoID": 3004,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 2022020
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_8012020.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W2_Abomi02_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/SneakMonster_W2_Abomi02_00_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Steer.json",
+    "NPCName": {
+      "Hash": -480930694
+    },
+    "PrototypeID": 2022020,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "MinionLv2",
+    "MappingInfoID": 3004,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 2022021
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_2022040.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W2_Beast01_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W2_Beast01_00_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Steer.json",
+    "NPCName": {
+      "Hash": 1085153249
+    },
+    "PrototypeID": 2022040,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "MinionLv2",
+    "MappingInfoID": 3004,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 2022040
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_2022050.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W2_Beast01_01_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W2_Beast01_01_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Steer.json",
+    "NPCName": {
+      "Hash": 1085153250
+    },
+    "PrototypeID": 2022050,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "MinionLv2",
+    "MappingInfoID": 3004,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 2022050
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_2022050.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W2_Beast01_01_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/FantasticStory_W2_Beast01_01_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Steer.json",
+    "NPCName": {
+      "Hash": -241623887
+    },
+    "PrototypeID": 2022050,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "MinionLv2",
+    "MappingInfoID": 3004,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 20220501
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_2023020.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W2_Beast02_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W2_Beast02_00_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Chase.json",
+    "NPCName": {
+      "Hash": 1085153216
+    },
+    "PrototypeID": 2023020,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "Elite",
+    "MappingInfoID": 3004,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 2023020
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_2023020.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W2_Beast02_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/FarmElement_W2_Beast02_00_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Chase.json",
+    "NPCName": {
+      "Hash": -480930725
+    },
+    "PrototypeID": 2023020,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "Elite",
+    "MappingInfoID": 3004,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 2023021
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_2023020.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W2_Beast02_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W2_Beast02_00_Config_RLElite.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Dummy.json",
+    "NPCName": {
+      "Hash": -77646198
+    },
+    "PrototypeID": 2023020,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "Elite",
+    "MappingInfoID": 3004,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 2023022
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_8012020.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W2_Abomi03_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W2_Abomi03_00_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Chase.json",
+    "NPCName": {
+      "Hash": 1085153251
+    },
+    "PrototypeID": 2022060,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "MinionLv2",
+    "MappingInfoID": 3004,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 2022060
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_8012020.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W2_Abomi03_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/SneakMonster_W2_Abomi03_00_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Chase.json",
+    "NPCName": {
+      "Hash": -480930690
+    },
+    "PrototypeID": 2022060,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "MinionLv2",
+    "MappingInfoID": 3004,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 2022061
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_2022110.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W2_Valkyrie01_01_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W2_Valkyrie01_01_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Chase.json",
+    "NPCName": {
+      "Hash": -501133671
+    },
+    "PrototypeID": 2022110,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "MinionLv2",
+    "MappingInfoID": 0,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 2022110
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_2023010.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W2_Abomi04_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W2_Abomi04_00_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Chase.json",
+    "NPCName": {
+      "Hash": 1085153213
+    },
+    "PrototypeID": 2023010,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "Elite",
+    "MappingInfoID": 3004,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 2023010
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_2023010.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W2_Abomi04_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/FarmElement_W2_Abomi04_00_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Chase.json",
+    "NPCName": {
+      "Hash": -480930728
+    },
+    "PrototypeID": 2023010,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "Elite",
+    "MappingInfoID": 3004,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 2023011
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_2023010.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W2_Abomi04_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W2_Abomi04_00_Config_RLElite.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Dummy.json",
+    "NPCName": {
+      "Hash": -77646201
+    },
+    "PrototypeID": 2023010,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "Elite",
+    "MappingInfoID": 3004,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 2023012
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_2024010.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W2_Xuanlu_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W2_Xuanlu_00_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Dummy.json",
+    "NPCName": {
+      "Hash": 1085153444
+    },
+    "PrototypeID": 2024010,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "LittleBoss",
+    "MappingInfoID": 3004,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 2024010
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_2024010.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W2_Xuanlu_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W2_Xuanlu_00_Config_A.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Dummy.json",
+    "NPCName": {
+      "Hash": -480930497
+    },
+    "PrototypeID": 2024010,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "LittleBoss",
+    "MappingInfoID": 3004,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 2024011
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_2024020.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W2_Fuyan_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W2_Fuyan_00_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Dummy.json",
+    "NPCName": {
+      "Hash": 1085153441
+    },
+    "PrototypeID": 2024020,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "LittleBoss",
+    "MappingInfoID": 3004,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 2024020
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_2024020.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W2_Fuyan_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W2_Fuyan_00_Config_RLBoss.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Dummy.json",
+    "NPCName": {
+      "Hash": -480930500
+    },
+    "PrototypeID": 2024020,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "LittleBoss",
+    "MappingInfoID": 3004,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 2024021
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_2002030.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W2_Lycan_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W2_Lycan_00_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Chase.json",
+    "NPCName": {
+      "Hash": 277292537
+    },
+    "PrototypeID": 2032010,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "MinionLv2",
+    "MappingInfoID": 3010,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 2032010
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_2002030.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W2_Lycan_01_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W2_Lycan_01_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Chase.json",
+    "NPCName": {
+      "Hash": 277292538
+    },
+    "PrototypeID": 2032020,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "MinionLv2",
+    "MappingInfoID": 3010,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 2032020
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_2033010.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W2_LycanMecha_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W2_LycanMecha_00_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Chase.json",
+    "NPCName": {
+      "Hash": 277292504
+    },
+    "PrototypeID": 2033010,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "Elite",
+    "MappingInfoID": 3010,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 2033010
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_2033010.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W2_LycanMecha_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/FarmElement_W2_LycanMecha_00_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Chase.json",
+    "NPCName": {
+      "Hash": 1843376445
+    },
+    "PrototypeID": 2033010,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "Elite",
+    "MappingInfoID": 3010,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 2033011
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_2034010.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W2_LycanKing_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W2_LycanKing_00_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Dummy.json",
+    "NPCName": {
+      "Hash": 277292735
+    },
+    "PrototypeID": 2034010,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "LittleBoss",
+    "MappingInfoID": 3010,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 2034010
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_2034010.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W2_LycanKing_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W2_LycanKing_00_RLBoss_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Dummy.json",
+    "NPCName": {
+      "Hash": 1843376676
+    },
+    "PrototypeID": 2034010,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "LittleBoss",
+    "MappingInfoID": 3010,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 2034011
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_2011010.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W2_Mecha01_02_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W2_Mecha01_02_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Steer.json",
+    "NPCName": {
+      "Hash": -522780284
+    },
+    "PrototypeID": 3001010,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "MinionLv2",
+    "MappingInfoID": 3010,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 3001010
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_3001020.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_XP_Minion01_04_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_XP_Minion01_04_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Steer.json",
+    "NPCName": {
+      "Hash": -522780285
+    },
+    "PrototypeID": 3001020,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "Minion",
+    "MappingInfoID": 3010,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 3001020
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_3001020.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/WolfBoy_XP_Minion01_04_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/WolfBoy_XP_Minion01_04_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Steer.json",
+    "NPCName": {
+      "Hash": 1043303656
+    },
+    "PrototypeID": 3001020,
+    "IsMapContent": false,
+    "IsMazeLink": false,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "Minion",
+    "MappingInfoID": 3010,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 3001021
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_3002010.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W3_TV_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W3_TV_00_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Chase.json",
+    "NPCName": {
+      "Hash": -522780317
+    },
+    "PrototypeID": 3002010,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "MinionLv2",
+    "MappingInfoID": 3010,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 3002010
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_1002030.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/WolfBoy_W3_TV_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/WolfBoy_W3_TV_00_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Chase.json",
+    "NPCName": {
+      "Hash": 1043303624
+    },
+    "PrototypeID": 3002010,
+    "IsMapContent": false,
+    "IsMazeLink": false,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "MinionLv2",
+    "MappingInfoID": 3010,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 3002011
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_3002011.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W3_TV_02_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W3_TV_02_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Chase.json",
+    "NPCName": {
+      "Hash": 640019097
+    },
+    "PrototypeID": 3002010,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "MinionLv2",
+    "MappingInfoID": 3010,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 3002012
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_3002020.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W1_Mecha01_02_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W1_Mecha01_02_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Chase.json",
+    "NPCName": {
+      "Hash": -522780316
+    },
+    "PrototypeID": 3002020,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "MinionLv2",
+    "MappingInfoID": 3010,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 3002020
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_3002021.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W1_Mecha01_03_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W1_Mecha01_03_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Chase.json",
+    "NPCName": {
+      "Hash": 1043303625
+    },
+    "PrototypeID": 3002020,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "MinionLv2",
+    "MappingInfoID": 3010,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 3002021
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_3002030.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W2_Beast01_03_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W2_Beast01_03_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Steer.json",
+    "NPCName": {
+      "Hash": -522780315
+    },
+    "PrototypeID": 3002030,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "MinionLv2",
+    "MappingInfoID": 3010,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 3002030
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_2002010.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W3_Clock_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W3_Clock_00_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Chase.json",
+    "NPCName": {
+      "Hash": -522780314
+    },
+    "PrototypeID": 3002040,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "MinionLv2",
+    "MappingInfoID": 3010,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 3002040
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_2002010.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/WolfBoy_W3_Clock_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/WolfBoy_W3_Clock_00_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Chase.json",
+    "NPCName": {
+      "Hash": 1043303627
+    },
+    "PrototypeID": 3002040,
+    "IsMapContent": false,
+    "IsMazeLink": false,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "MinionLv2",
+    "MappingInfoID": 3010,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 3002041
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_3002041.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W3_Clock_02_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W3_Clock_02_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Chase.json",
+    "NPCName": {
+      "Hash": 640019100
+    },
+    "PrototypeID": 3002040,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "MinionLv2",
+    "MappingInfoID": 3010,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 3002042
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_1002020.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W3_Junk_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W3_Junk_00_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/NPCMonster_W3_Junk/ST_NPCMonster_W3_Junk_Master.json",
+    "NPCName": {
+      "Hash": -522780313
+    },
+    "PrototypeID": 3002050,
+    "IsMapContent": false,
+    "IsMazeLink": false,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "MinionLv2",
+    "MappingInfoID": 3010,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 0,
+    "ID": 3002050
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_2002010.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W3_Dinosaur_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W3_Dinosaur_00_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Chase.json",
+    "NPCName": {
+      "Hash": -522780350
+    },
+    "PrototypeID": 3003010,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "Elite",
+    "MappingInfoID": 3010,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 3003010
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_2023010.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W3_Dinosaur_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/FarmElement_W3_Dinosaur_00_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Chase.json",
+    "NPCName": {
+      "Hash": 1043303591
+    },
+    "PrototypeID": 3003010,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "Elite",
+    "MappingInfoID": 3010,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 3003011
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_2002010.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W3_Dinosaur_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W3_Dinosaur_00_Config_RLElite.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Dummy.json",
+    "NPCName": {
+      "Hash": 640019064
+    },
+    "PrototypeID": 3003010,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "Elite",
+    "MappingInfoID": 3010,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 3003012
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_2002010.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/WolfBoy_W3_Dinosaur_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/WolfBoy_W3_Dinosaur_00_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Dummy.json",
+    "NPCName": {
+      "Hash": -2088864291
+    },
+    "PrototypeID": 3003010,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "Elite",
+    "MappingInfoID": 3010,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 3003013
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_3004020.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W3_Dinosaur_02_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W3_Dinosaur_02_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Dummy.json",
+    "NPCName": {
+      "Hash": 1446588118
+    },
+    "PrototypeID": 3003010,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "Elite",
+    "MappingInfoID": 3010,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 3003014
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_2002010.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W3_Dinosaur_02_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W3_Dinosaur_02_Config_IF.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Dummy.json",
+    "NPCName": {
+      "Hash": 371857150
+    },
+    "PrototypeID": 3003010,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "Elite",
+    "MappingInfoID": 3010,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 3003015
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_2002010.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W3_Dinosaur_01_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W3_Dinosaur_01_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Chase.json",
+    "NPCName": {
+      "Hash": -603850585
+    },
+    "PrototypeID": 3013010,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "Elite",
+    "MappingInfoID": 3010,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 3013010
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_2002010.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W3_Dinosaur_01_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/FarmElement_W3_Dinosaur_01_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Chase.json",
+    "NPCName": {
+      "Hash": 2125032770
+    },
+    "PrototypeID": 3013010,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "Elite",
+    "MappingInfoID": 3010,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 3013011
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_2002010.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W3_Dinosaur_01_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W3_Dinosaur_01_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Chase.json",
+    "NPCName": {
+      "Hash": 558948829
+    },
+    "PrototypeID": 3013010,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "Elite",
+    "MappingInfoID": 3010,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 3013012
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_3003020.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W2_Beast02_01_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W2_Beast02_01_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Chase.json",
+    "NPCName": {
+      "Hash": -522780347
+    },
+    "PrototypeID": 3003020,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "Elite",
+    "MappingInfoID": 3010,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 3003020
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_3003020.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W2_Beast02_01_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/FarmElement_W2_Beast02_01_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Chase.json",
+    "NPCName": {
+      "Hash": 1043303594
+    },
+    "PrototypeID": 3003020,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "Elite",
+    "MappingInfoID": 3010,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 3003021
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_3003020.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W2_Beast02_01_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W2_Beast02_01_Config_RLElite.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Dummy.json",
+    "NPCName": {
+      "Hash": 640019067
+    },
+    "PrototypeID": 3003020,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "Elite",
+    "MappingInfoID": 3010,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 3003022
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_8011010.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_AML_Minion01_02_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_AML_Minion01_02_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Steer.json",
+    "NPCName": {
+      "Hash": -603850519
+    },
+    "PrototypeID": 3011010,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "Minion",
+    "MappingInfoID": 3011,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 3011010
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_1002030.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W3_TV_01_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W3_TV_01_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Chase.json",
+    "NPCName": {
+      "Hash": -603850552
+    },
+    "PrototypeID": 3012010,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "MinionLv2",
+    "MappingInfoID": 3011,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 3012010
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_2002010.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W3_Clock_01_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W3_Clock_01_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Chase.json",
+    "NPCName": {
+      "Hash": -603850551
+    },
+    "PrototypeID": 3012020,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "MinionLv2",
+    "MappingInfoID": 3011,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 3012020
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_2002010.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W3_Ghost_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W3_Ghost_00_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Chase.json",
+    "NPCName": {
+      "Hash": -603850549
+    },
+    "PrototypeID": 3012040,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "MinionLv2",
+    "MappingInfoID": 3011,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 3012040
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_3024010.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W2_Argenti_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W2_Argenti_00_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Dummy.json",
+    "NPCName": {
+      "Hash": -1249570593
+    },
+    "PrototypeID": 3024010,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "LittleBoss",
+    "MappingInfoID": 0,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 3024010
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_3024010.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W2_Argenti_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W2_Argenti_00_Config_A.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Dummy.json",
+    "NPCName": {
+      "Hash": 316513348
+    },
+    "PrototypeID": 3024010,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "LittleBoss",
+    "MappingInfoID": 0,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 3024011
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_3024010.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W2_Argenti_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W2_Argenti_00_Config_A.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Dummy.json",
+    "NPCName": {
+      "Hash": 1882597289
+    },
+    "PrototypeID": 3024010,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "LittleBoss",
+    "MappingInfoID": 0,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 3024012
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_3025010.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W3_Sunday_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W3_Sunday_00_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Dummy.json",
+    "NPCName": {
+      "Hash": -1249570626
+    },
+    "PrototypeID": 3025010,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "BigBoss",
+    "MappingInfoID": 0,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 3025010
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_3014020.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W3_Death_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W3_Death_00_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Dummy.json",
+    "NPCName": {
+      "Hash": -603850357
+    },
+    "PrototypeID": 3014020,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "LittleBoss",
+    "MappingInfoID": 3004,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 3014020
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_3014020.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W3_Death_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W3_Death_00_Config_RLBoss.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Dummy.json",
+    "NPCName": {
+      "Hash": 2125032998
+    },
+    "PrototypeID": 3014020,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "LittleBoss",
+    "MappingInfoID": 3004,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 3014021
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_3024020.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W3_Sam_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W3_Sam_00_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Dummy.json",
+    "NPCName": {
+      "Hash": -1249570596
+    },
+    "PrototypeID": 3024020,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "LittleBoss",
+    "MappingInfoID": 0,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 3024020
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_3024020.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W3_Sam_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W3_Sam_00_RLBoss_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Dummy.json",
+    "NPCName": {
+      "Hash": 316513345
+    },
+    "PrototypeID": 3024020,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "LittleBoss",
+    "MappingInfoID": 0,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 3024021
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_3003030.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W3_Figure_02_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W3_Figure_02_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Chase.json",
+    "NPCName": {
+      "Hash": -522780348
+    },
+    "PrototypeID": 3003030,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "Elite",
+    "MappingInfoID": 3005,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 3003030
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_3003030.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W3_Figure_02_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W3_Figure_02_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Chase.json",
+    "NPCName": {
+      "Hash": 1043303593
+    },
+    "PrototypeID": 3003030,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "Elite",
+    "MappingInfoID": 3005,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 3003031
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_3003030.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W3_Figure_02_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W3_Figure_02_Config_RLElite.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Dummy.json",
+    "NPCName": {
+      "Hash": 640019066
+    },
+    "PrototypeID": 3003030,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "Elite",
+    "MappingInfoID": 3005,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 3003032
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_3003040.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W3_Figure_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W3_Figure_00_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Chase.json",
+    "NPCName": {
+      "Hash": -522780345
+    },
+    "PrototypeID": 3003040,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "Elite",
+    "MappingInfoID": 3005,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 3003040
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_3004010.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W3_Figure_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W3_FigureBoss_00_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Dummy.json",
+    "NPCName": {
+      "Hash": 1043303596
+    },
+    "PrototypeID": 3003040,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "Elite",
+    "MappingInfoID": 3005,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 3003041
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_3003040.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W3_Figure_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W3_Figure_00_Config_RLElite.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Dummy.json",
+    "NPCName": {
+      "Hash": 640019069
+    },
+    "PrototypeID": 3003040,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "Elite",
+    "MappingInfoID": 3005,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 3003042
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_3003040.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W3_Figure_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/FarmElement_W3_Figure_00_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Chase.json",
+    "NPCName": {
+      "Hash": -2088864286
+    },
+    "PrototypeID": 3003040,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "Elite",
+    "MappingInfoID": 3005,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 3003043
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_3003050.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W3_Figure_01_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W3_Figure_01_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Chase.json",
+    "NPCName": {
+      "Hash": -522780346
+    },
+    "PrototypeID": 3003050,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "Elite",
+    "MappingInfoID": 3005,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 3003050
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_3003050.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W3_Figure_01_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W3_Figure_01_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Chase.json",
+    "NPCName": {
+      "Hash": 1043303595
+    },
+    "PrototypeID": 3003050,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "Elite",
+    "MappingInfoID": 3005,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 3003051
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_3003050.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W3_Figure_01_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W3_Figure_01_Config_RLElite.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Dummy.json",
+    "NPCName": {
+      "Hash": 640019068
+    },
+    "PrototypeID": 3003050,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "Elite",
+    "MappingInfoID": 3005,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 3003052
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_3003050.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W3_Figure_01_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/FarmElement_W3_Figure_01_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Chase.json",
+    "NPCName": {
+      "Hash": 1446588122
+    },
+    "PrototypeID": 3003050,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "Elite",
+    "MappingInfoID": 3005,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 3003054
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_3004010.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W3_Figure_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W3_FigureBoss_00_Config_RLBOSS.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Dummy.json",
+    "NPCName": {
+      "Hash": -2088864287
+    },
+    "PrototypeID": 3003050,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "Elite",
+    "MappingInfoID": 3005,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 3003053
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_3004010.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W3_Figure_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W3_FigureBoss_00_Config_RLBOSS.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Dummy.json",
+    "NPCName": {
+      "Hash": 1043303822
+    },
+    "PrototypeID": 3003050,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "Elite",
+    "MappingInfoID": 3005,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 3004011
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_8002040.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_Monkey_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_Monkey_00_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/NPCMonster_Monkey_00/ST_NPCMonster_Monkey_00_Master.json",
+    "NPCName": {
+      "Hash": -1249570790
+    },
+    "PrototypeID": 3022020,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "MinionLv2",
+    "MappingInfoID": 0,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 3022020
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_8002040.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_Monkey_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_Monkey00_01_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/NPCMonster_Monkey_00/ST_NPCMonster_Monkey_00_Master.json",
+    "NPCName": {
+      "Hash": 316513151
+    },
+    "PrototypeID": 3022020,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "MinionLv2",
+    "MappingInfoID": 0,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 3022021
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_8002040.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_Monkey_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_Monkey00_02_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/NPCMonster_Monkey_00/ST_NPCMonster_Monkey_00_Master.json",
+    "NPCName": {
+      "Hash": 1882597092
+    },
+    "PrototypeID": 3022020,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "MinionLv2",
+    "MappingInfoID": 0,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 3022022
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_8002040.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_Monkey_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_Monkey00_03_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/NPCMonster_Monkey_00/ST_NPCMonster_Monkey_00_Master.json",
+    "NPCName": {
+      "Hash": -846286263
+    },
+    "PrototypeID": 3022020,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "MinionLv2",
+    "MappingInfoID": 0,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 3022023
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_8002040.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_Monkey_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_Monkey_00_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Dummy.json",
+    "NPCName": {
+      "Hash": 719797678
+    },
+    "PrototypeID": 3022020,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "MinionLv2",
+    "MappingInfoID": 0,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 3022024
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_8002040.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_Monkey_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_Monkey00_01_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Dummy.json",
+    "NPCName": {
+      "Hash": -2009085677
+    },
+    "PrototypeID": 3022020,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "MinionLv2",
+    "MappingInfoID": 0,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 3022025
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_8002040.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_Monkey_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_Monkey00_02_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Dummy.json",
+    "NPCName": {
+      "Hash": -443001736
+    },
+    "PrototypeID": 3022020,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "MinionLv2",
+    "MappingInfoID": 0,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 3022026
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_8002040.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_Monkey_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_Monkey00_03_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Dummy.json",
+    "NPCName": {
+      "Hash": 1123082205
+    },
+    "PrototypeID": 3022020,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "MinionLv2",
+    "MappingInfoID": 0,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 3022027
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_8001010.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_XP_Minion01_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_XP_Minion01_00_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Steer.json",
+    "NPCName": {
+      "Hash": -2144367465
+    },
+    "PrototypeID": 8001010,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "Minion",
+    "MappingInfoID": 3001,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 8001010
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_8001020.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_XP_Minion01_01_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_XP_Minion01_01_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Steer.json",
+    "NPCName": {
+      "Hash": -2144367466
+    },
+    "PrototypeID": 8001020,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "Minion",
+    "MappingInfoID": 3001,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 8001020
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_8001030.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_XP_Minion03_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_XP_Minion03_00_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Steer.json",
+    "NPCName": {
+      "Hash": -2144367467
+    },
+    "PrototypeID": 8001030,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "Minion",
+    "MappingInfoID": 3001,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 8001030
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_8001040.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_XP_Minion01_03_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_XP_Minion01_03_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Steer.json",
+    "NPCName": {
+      "Hash": -2144367460
+    },
+    "PrototypeID": 8001040,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "Minion",
+    "MappingInfoID": 3001,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 8001040
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_8001050.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_XP_Minion01_02_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_XP_Minion01_02_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Steer.json",
+    "NPCName": {
+      "Hash": -2144367461
+    },
+    "PrototypeID": 8001050,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "Minion",
+    "MappingInfoID": 3001,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 8001050
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_8002010.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_XP_Minion02_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_XP_Minion02_00_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Steer.json",
+    "NPCName": {
+      "Hash": -2144367498
+    },
+    "PrototypeID": 8002010,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "Minion",
+    "MappingInfoID": 3001,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 8002010
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_8002040.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_XP_Minion04_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_XP_Minion04_00_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/NPCMonster_XP_Minion04/ST_NPCMonster_XP_Minion04_Master.json",
+    "NPCName": {
+      "Hash": -2144367495
+    },
+    "PrototypeID": 8002040,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "MinionLv2",
+    "MappingInfoID": 0,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 8002040
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_8002050.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_XP_Minion04_01_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_XP_Minion04_01_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/NPCMonster_XP_Minion04/ST_NPCMonster_XP_Minion04_Master.json",
+    "NPCName": {
+      "Hash": -2144367494
+    },
+    "PrototypeID": 8002050,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "MinionLv2",
+    "MappingInfoID": 0,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 8002050
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_8002050.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_XP_Minion04_01_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_XP_Minion04_01_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/NPCMonster_XP_Minion04/ST_NPCMonster_XP_Minion04_RLRoom_Main.json",
+    "NPCName": {
+      "Hash": 1794369442
+    },
+    "PrototypeID": 8002050,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "MinionLv2",
+    "MappingInfoID": 0,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 8002058
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_8002050.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_XP_Minion04_01_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_XP_Minion04_08_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/NPCMonster_XP_Minion04/ST_NPCMonster_XP_Minion04_RLRoom_Main.json",
+    "NPCName": {
+      "Hash": 228285501
+    },
+    "PrototypeID": 8002050,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "MinionLv2",
+    "MappingInfoID": 0,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 8002059
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_8002050.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_XP_Minion04_01_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_XP_Minion04_02_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/NPCMonster_XP_Minion04/ST_NPCMonster_XP_Minion04_Master.json",
+    "NPCName": {
+      "Hash": -2144367493
+    },
+    "PrototypeID": 8002050,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "MinionLv2",
+    "MappingInfoID": 0,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 8002060
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_8002050.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_XP_Minion04_01_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_XP_Minion04_03_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/NPCMonster_XP_Minion04/ST_NPCMonster_XP_Minion04_Master.json",
+    "NPCName": {
+      "Hash": -2144367492
+    },
+    "PrototypeID": 8002050,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "MinionLv2",
+    "MappingInfoID": 0,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 8002070
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_8002050.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_XP_Minion04_01_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_XP_Minion04_04_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/NPCMonster_XP_Minion04/ST_NPCMonster_XP_Minion04_Master.json",
+    "NPCName": {
+      "Hash": -2144367491
+    },
+    "PrototypeID": 8002050,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "MinionLv2",
+    "MappingInfoID": 0,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 8002080
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_8003010.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_XP_Elite01_01_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_XP_Elite01_01_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Steer.json",
+    "NPCName": {
+      "Hash": -2144367531
+    },
+    "PrototypeID": 8003010,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "Elite",
+    "MappingInfoID": 0,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 8003010
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_8003010.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_XP_Elite01_01_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_XP_Elite01_01_Config_A.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Dummy.json",
+    "NPCName": {
+      "Hash": 584515824
+    },
+    "PrototypeID": 8003010,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "Elite",
+    "MappingInfoID": 0,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 8003011
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_8003010.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_XP_Elite01_01_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/FarmElement_XP_Elite01_01_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Steer.json",
+    "NPCName": {
+      "Hash": 987800351
+    },
+    "PrototypeID": 8003010,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "Elite",
+    "MappingInfoID": 0,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 8003012
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_8003020.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_XP_Elite01_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_XP_Elite01_00_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Steer.json",
+    "NPCName": {
+      "Hash": -2144367528
+    },
+    "PrototypeID": 8003020,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "Elite",
+    "MappingInfoID": 0,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 8003020
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_8003020.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_XP_Elite01_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/FarmElement_XP_Elite01_00_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Steer.json",
+    "NPCName": {
+      "Hash": 584515827
+    },
+    "PrototypeID": 8003020,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "Elite",
+    "MappingInfoID": 0,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 8003021
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_8003020.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_XP_Elite01_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_XP_Elite01_00_Config_A.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Dummy.json",
+    "NPCName": {
+      "Hash": 987800354
+    },
+    "PrototypeID": 8003020,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "Elite",
+    "MappingInfoID": 0,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 8003022
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_8003030.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_XP_Elite02_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_XP_Elite02_00_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Steer.json",
+    "NPCName": {
+      "Hash": -2144367529
+    },
+    "PrototypeID": 8003030,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "Elite",
+    "MappingInfoID": 0,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 8003030
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_8003030.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_XP_Elite02_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/FarmElement_XP_Elite02_00_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Steer.json",
+    "NPCName": {
+      "Hash": 584515826
+    },
+    "PrototypeID": 8003030,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "Elite",
+    "MappingInfoID": 0,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 8003031
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_8003030.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_XP_Elite02_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_XP_Elite02_00_Config_A.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Dummy.json",
+    "NPCName": {
+      "Hash": 987800353
+    },
+    "PrototypeID": 8003030,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "Elite",
+    "MappingInfoID": 0,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 8003032
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_8003040.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_XP_Elite02_01_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_XP_Elite02_01_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Steer.json",
+    "NPCName": {
+      "Hash": -2144367526
+    },
+    "PrototypeID": 8003040,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "Elite",
+    "MappingInfoID": 0,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 8003040
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_8003040.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_XP_Elite02_01_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/FarmElement_XP_Elite02_01_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Steer.json",
+    "NPCName": {
+      "Hash": 584515829
+    },
+    "PrototypeID": 8003040,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "Elite",
+    "MappingInfoID": 0,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 8003041
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_8003040.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_XP_Elite02_01_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_XP_Elite02_01_Config_A.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Dummy.json",
+    "NPCName": {
+      "Hash": 987800356
+    },
+    "PrototypeID": 8003040,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "Elite",
+    "MappingInfoID": 0,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 8003042
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_8003050.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_AML_Elite01_01_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_AML_Elite01_01_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Chase.json",
+    "NPCName": {
+      "Hash": -2144367527
+    },
+    "PrototypeID": 8003050,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "Elite",
+    "MappingInfoID": 0,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 8003050
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_8003050.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_AML_Elite01_01_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/FarmElement_AML_Elite01_01_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Chase.json",
+    "NPCName": {
+      "Hash": 584515828
+    },
+    "PrototypeID": 8003050,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "Elite",
+    "MappingInfoID": 0,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 8003051
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_8003050.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_AML_Elite01_01_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_AML_Elite01_01_Config_A.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Dummy.json",
+    "NPCName": {
+      "Hash": 987800355
+    },
+    "PrototypeID": 8003050,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "Elite",
+    "MappingInfoID": 0,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 8003052
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_8015010.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_AML_Boss_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_AML_Boss_00_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Dummy.json",
+    "NPCName": {
+      "Hash": 1342739254
+    },
+    "PrototypeID": 8015010,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "BigBoss",
+    "MappingInfoID": 0,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 8015010
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_8015010.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_AML_Boss_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_AML_Boss_00_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Dummy.json",
+    "NPCName": {
+      "Hash": 179939840
+    },
+    "PrototypeID": 8015010,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "BigBoss",
+    "MappingInfoID": 0,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 8015012
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_8015020.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W2_Huanlong_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W2_Huanlong_00_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Dummy.json",
+    "NPCName": {
+      "Hash": 1342739253
+    },
+    "PrototypeID": 8015020,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "BigBoss",
+    "MappingInfoID": 0,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 8015020
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_8015020.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W2_Huanlong_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W2_Huanlong_00_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Dummy.json",
+    "NPCName": {
+      "Hash": 179939839
+    },
+    "PrototypeID": 8015020,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "BigBoss",
+    "MappingInfoID": 0,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 8015022
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_1002040.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_SW_Minion01_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_SW_Minion01_00_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Steer.json",
+    "NPCName": {
+      "Hash": -1417577024
+    },
+    "PrototypeID": 8022010,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "MinionLv2",
+    "MappingInfoID": 0,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 8022010
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_1002040.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_SW_Boss_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_SW_Boss_00_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Dummy.json",
+    "NPCName": {
+      "Hash": -1417576826
+    },
+    "PrototypeID": 8024010,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "LittleBoss",
+    "MappingInfoID": 0,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 8024010
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_1002040.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_SW_Boss_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_SW_Boss_00_Normal_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Dummy.json",
+    "NPCName": {
+      "Hash": 1311306529
+    },
+    "PrototypeID": 8024010,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "LittleBoss",
+    "MappingInfoID": 0,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 8024011
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_1002040.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W1_Soldier02_01_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W1_Soldier02_01_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Chase.json",
+    "NPCName": {
+      "Hash": 2069529563
+    },
+    "PrototypeID": 8032010,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "MinionLv2",
+    "MappingInfoID": 0,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 8032010
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_1002040.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W1_Soldier01_04_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W1_Soldier01_04_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Chase.json",
+    "NPCName": {
+      "Hash": 2069529564
+    },
+    "PrototypeID": 8032020,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "MinionLv2",
+    "MappingInfoID": 0,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 8032020
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_1013010.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W1_Mecha03_02_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W1_Mecha03_02_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Chase.json",
+    "NPCName": {
+      "Hash": 2069529530
+    },
+    "PrototypeID": 8033010,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "Elite",
+    "MappingInfoID": 0,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 8033010
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_1013010.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W1_Mecha03_02_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W1_Mecha03_02_Config_RLElite.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Dummy.json",
+    "NPCName": {
+      "Hash": -659353825
+    },
+    "PrototypeID": 8033010,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "Elite",
+    "MappingInfoID": 0,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 8033011
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_1013010.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W1_Mecha03_02_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/FarmElement_W1_Mecha03_02_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Chase.json",
+    "NPCName": {
+      "Hash": -1062638352
+    },
+    "PrototypeID": 8033010,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "Elite",
+    "MappingInfoID": 0,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 8033012
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_8034010.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W3_Aventurine_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W3_Aventurine_00_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Dummy.json",
+    "NPCName": {
+      "Hash": 2069529761
+    },
+    "PrototypeID": 8034010,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "LittleBoss",
+    "MappingInfoID": 0,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 8034010
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_8034010.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W3_Aventurine_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W3_Aventurine_00_Config_RLBOSS.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Dummy.json",
+    "NPCName": {
+      "Hash": -659353594
+    },
+    "PrototypeID": 8034010,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "LittleBoss",
+    "MappingInfoID": 0,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 8034011
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_8034010.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W3_Aventurine_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_W3_Aventurine_00_Config_IF.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Dummy.json",
+    "NPCName": {
+      "Hash": 371857150
+    },
+    "PrototypeID": 8034010,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "LittleBoss",
+    "MappingInfoID": 0,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 8034012
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_8013010.png",
+    "ConfigEntityPath": "",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/WhiteBox/NPCMonster/WNPCMonster_W3_Yeager_00_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Steer.json",
+    "NPCName": {
+      "Hash": 371857150
+    },
+    "PrototypeID": 8035010,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "Elite",
+    "MappingInfoID": 3002,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 8035010
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_8003030.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_XP_Elite02_02_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_XP_Elite02_02_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Steer.json",
+    "NPCName": {
+      "Hash": 1085153215
+    },
+    "PrototypeID": 2023030,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "Elite",
+    "MappingInfoID": 0,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 2023030
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_8003030.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_XP_Elite02_02_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/FarmElement_XP_Elite02_02_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Steer.json",
+    "NPCName": {
+      "Hash": -480930726
+    },
+    "PrototypeID": 2023030,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "Elite",
+    "MappingInfoID": 0,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 2023031
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_8003030.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_XP_Elite02_02_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_XP_Elite02_02_Config_RLElite.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Dummy.json",
+    "NPCName": {
+      "Hash": -77646199
+    },
+    "PrototypeID": 2023030,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "Elite",
+    "MappingInfoID": 0,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 2023032
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_8011010.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_AML_Minion01_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_AML_Minion01_00_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Steer.json",
+    "NPCName": {
+      "Hash": 1342739122
+    },
+    "PrototypeID": 8011010,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "Minion",
+    "MappingInfoID": 3002,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 8011010
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_8011020.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_AML_Minion01_01_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_AML_Minion01_01_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Steer.json",
+    "NPCName": {
+      "Hash": 1342739121
+    },
+    "PrototypeID": 8011020,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "Minion",
+    "MappingInfoID": 3002,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 8011020
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_8012010.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_AML_Minion02_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_AML_Minion02_00_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Chase.json",
+    "NPCName": {
+      "Hash": 1342739089
+    },
+    "PrototypeID": 8012010,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "MinionLv2",
+    "MappingInfoID": 3002,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 8012010
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_8012020.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_AML_Minion03_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_AML_Minion03_00_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Steer.json",
+    "NPCName": {
+      "Hash": 1342739090
+    },
+    "PrototypeID": 8012020,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "MinionLv2",
+    "MappingInfoID": 3002,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 8012020
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_8012030.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_AML_Minion04_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_AML_Minion04_00_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Chase.json",
+    "NPCName": {
+      "Hash": 1342739091
+    },
+    "PrototypeID": 8012030,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "Minion",
+    "MappingInfoID": 3002,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 8012030
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_8013010.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_AML_Elite01_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_AML_Elite01_00_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Chase.json",
+    "NPCName": {
+      "Hash": 1342739056
+    },
+    "PrototypeID": 8013010,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "Elite",
+    "MappingInfoID": 3002,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 8013010
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_8013010.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_AML_Elite01_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/FarmElement_AML_Elite01_00_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Chase.json",
+    "NPCName": {
+      "Hash": 179939642
+    },
+    "PrototypeID": 8013010,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "Elite",
+    "MappingInfoID": 3002,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 8013012
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_8013010.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_AML_Elite01_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_AML_Elite01_00_Config_A.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Dummy.json",
+    "NPCName": {
+      "Hash": 1746023583
+    },
+    "PrototypeID": 8013010,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "Elite",
+    "MappingInfoID": 3002,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 8013013
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_8013010.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_AML_Elite01_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/NPCMonster_AML_Elite01_00_Config_B.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Dummy.json",
+    "NPCName": {
+      "Hash": -982859772
+    },
+    "PrototypeID": 8013010,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "Elite",
+    "MappingInfoID": 3002,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 8013014
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_1002040.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W1_Soldier02_01_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/AetherDivide_W1_Soldier02_01_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Chase.json",
+    "NPCName": {
+      "Hash": -607109998
+    },
+    "PrototypeID": 7032010,
+    "IsMapContent": false,
+    "IsMazeLink": false,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "MinionLv2",
+    "MappingInfoID": 0,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 7032010
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_1002040.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W1_Soldier02_01_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/FakePlayer/FakePlayer_AetherDivide_W1_Mecha01_00_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Dummy.json",
+    "NPCName": {
+      "Hash": 119680542
+    },
+    "PrototypeID": 7010010,
+    "IsMapContent": false,
+    "IsMazeLink": false,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "MinionLv2",
+    "MappingInfoID": 0,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 7010010
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_1013010.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_W1_Mecha03_02_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/NPCMonster/AetherDivide_W1_Mecha03_02_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Chase.json",
+    "NPCName": {
+      "Hash": -607110031
+    },
+    "PrototypeID": 7033010,
+    "IsMapContent": false,
+    "IsMazeLink": false,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "Elite",
+    "MappingInfoID": 0,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 7033010
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_1002040.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_AML_Minion01_01_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/FakePlayer/FakePlayer_RaidCommon_WolfBro_00_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Dummy.json",
+    "NPCName": {
+      "Hash": 371857150
+    },
+    "PrototypeID": 7010011,
+    "IsMapContent": false,
+    "IsMazeLink": false,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "MinionLv2",
+    "MappingInfoID": 0,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 7010011
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_8002010.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_XP_Minion02_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/WhiteBox/NPCMonster/W_ChangeSmall_XP_Minion02_00_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Steer.json",
+    "NPCName": {
+      "Hash": 200750711
+    },
+    "PrototypeID": 7002010,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "Minion",
+    "MappingInfoID": 3002,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 7002010
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_8003030.png",
+    "ConfigEntityPath": "Config/ConfigEntity/NPCMonster/NPCMonster_XP_Elite02_00_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/WhiteBox/NPCMonster/W_ChangeSmall_XP_Elite02_00_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Steer.json",
+    "NPCName": {
+      "Hash": 200750680
+    },
+    "PrototypeID": 7003030,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "Elite",
+    "MappingInfoID": 0,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 7003030
+  },
+  {
+    "NPCIconPath": "SpriteOutput/MosterIcon/Monster_1002020.png",
+    "ConfigEntityPath": "Config/ConfigCharacter/WhiteBox/NPCMonster/WNPCMonster_W3_TrashBin_Entity.json",
+    "BoardShowList": [
+      2
+    ],
+    "JsonPath": "Config/ConfigCharacter/WhiteBox/NPCMonster/WNPCMonster_W3_TrashBin_Config.json",
+    "DefaultAIPath": "Config/ConfigAI/Adventure/NPCMonster/ST_NPCMonster_Master_Chase.json",
+    "NPCName": {
+      "Hash": 371857150
+    },
+    "PrototypeID": 9002300,
+    "IsMapContent": false,
+    "IsMazeLink": true,
+    "SubType": "Monster",
+    "CharacterType": "NPCMonster",
+    "Rank": "MinionLv2",
+    "MappingInfoID": 3008,
+    "NPCTitle": {
+      "Hash": 371857150
+    },
+    "MiniMapIconType": 5,
+    "ID": 9002303
+  }
+]

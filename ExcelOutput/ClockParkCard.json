@@ -1,0 +1,7784 @@
+[
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem13.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      100101
+    ],
+    "Priority": 1,
+    "CardID": 1001,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 994897417
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem7.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      100201
+    ],
+    "Priority": 1002,
+    "CardID": 1002,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 994897418
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem2.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      100301,
+      100302
+    ],
+    "Priority": 2,
+    "CardID": 1003,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 994897419
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem3.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      100401,
+      100402
+    ],
+    "Priority": 1003,
+    "CardID": 1004,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 994897412
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem5.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      100501,
+      100502
+    ],
+    "Priority": 1006,
+    "CardID": 1005,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 994897413
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem10.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      100601,
+      100602
+    ],
+    "Priority": 1005,
+    "CardID": 1006,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 994897414
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem4.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      100701,
+      100702
+    ],
+    "Priority": 1008,
+    "CardID": 1007,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 994897415
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem2.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      100801,
+      100802
+    ],
+    "Priority": 1007,
+    "CardID": 1008,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 994897424
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem7.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      111501
+    ],
+    "Priority": 1,
+    "CardID": 1115,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -1733985847
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem2.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      100901,
+      100902
+    ],
+    "Priority": 2,
+    "CardID": 1009,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 994897425
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem5.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      101001,
+      101002
+    ],
+    "Priority": 1,
+    "CardID": 1010,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -1733985939
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem1.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      101101
+    ],
+    "Priority": 2,
+    "CardID": 1011,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -1733985938
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem2.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      101201,
+      101202
+    ],
+    "Priority": 1013,
+    "CardID": 1012,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -1733985937
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem9.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      101301,
+      101302
+    ],
+    "Priority": 1,
+    "CardID": 1013,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -1733985936
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem4.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      101401,
+      101402
+    ],
+    "Priority": 2,
+    "CardID": 1014,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -1733985943
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem3.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      101501,
+      101502
+    ],
+    "Priority": 1,
+    "CardID": 1015,
+    "CardTipsParam": 4,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -1733985942
+    },
+    "CardType": "Decision",
+    "CardDiceNum": 1,
+    "CardTips": "GreaterThan",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem10.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      121301
+    ],
+    "Priority": 3,
+    "CardID": 1213,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -1733985874
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem7.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      101601,
+      101602
+    ],
+    "Priority": 1017,
+    "CardID": 1016,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -1733985941
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem10.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      101701,
+      101702
+    ],
+    "Priority": 1016,
+    "CardID": 1017,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -1733985940
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem10.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      101801,
+      101802
+    ],
+    "Priority": 2,
+    "CardID": 1018,
+    "CardTipsParam": 4,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -1733985931
+    },
+    "CardType": "Decision",
+    "CardDiceNum": 1,
+    "CardTips": "GreaterThan",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem4.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      101901,
+      101902
+    ],
+    "Priority": 1,
+    "CardID": 1019,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -1733985930
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem3.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      121501
+    ],
+    "Priority": 2,
+    "CardID": 1215,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -1733985876
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem7.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      102001,
+      102002
+    ],
+    "Priority": 1,
+    "CardID": 1020,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -167901998
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem5.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      102101,
+      102102
+    ],
+    "Priority": 1020,
+    "CardID": 1021,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -167901997
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem3.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      110101
+    ],
+    "Priority": 1,
+    "CardID": 1101,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 994897512
+    },
+    "CardType": "ToChapter",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem6.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      110201
+    ],
+    "Priority": 1,
+    "CardID": 1102,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 994897515
+    },
+    "CardType": "ToChapter",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem2.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      200101
+    ],
+    "Priority": 2,
+    "CardID": 2001,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -26739496
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem3.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      200201,
+      200202
+    ],
+    "Priority": 2002,
+    "CardID": 2002,
+    "CardTipsParam": 4,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -26739495
+    },
+    "CardType": "Decision",
+    "CardDiceNum": 1,
+    "CardTips": "GreaterThan",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem11.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      200301,
+      200302
+    ],
+    "Priority": 1,
+    "CardID": 2003,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -26739494
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem13.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      200401,
+      200402
+    ],
+    "Priority": 2004,
+    "CardID": 2004,
+    "CardTipsParam": 4,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -26739501
+    },
+    "CardType": "Decision",
+    "CardDiceNum": 1,
+    "CardTips": "GreaterThan",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem7.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      200501,
+      200502
+    ],
+    "Priority": 2005,
+    "CardID": 2005,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -26739500
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem2.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      200601,
+      200602,
+      200603
+    ],
+    "Priority": 2,
+    "CardID": 2006,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -26739499
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem16.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      200701,
+      200702,
+      200703
+    ],
+    "Priority": 1,
+    "CardID": 2007,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -26739498
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem11.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      200801,
+      200802
+    ],
+    "Priority": 2,
+    "CardID": 2008,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -26739489
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem11.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      200902
+    ],
+    "Priority": 2009,
+    "CardID": 2009,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -26739488
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem11.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      201001,
+      201002
+    ],
+    "Priority": 1,
+    "CardID": 2010,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -1592823438
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem14.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      201101,
+      201102
+    ],
+    "Priority": 3,
+    "CardID": 2011,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -1592823437
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem13.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      201201,
+      201202
+    ],
+    "Priority": 2,
+    "CardID": 2012,
+    "CardTipsParam": 4,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -1592823436
+    },
+    "CardType": "Decision",
+    "CardDiceNum": 1,
+    "CardTips": "GreaterThan",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem1.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      201301,
+      201302
+    ],
+    "Priority": 2013,
+    "CardID": 2013,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -1592823435
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem16.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      201401,
+      201402
+    ],
+    "Priority": 2014,
+    "CardID": 2014,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -1592823442
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem14.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      201501,
+      201502
+    ],
+    "Priority": 1,
+    "CardID": 2015,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -1592823441
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem2.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      201601
+    ],
+    "Priority": 2,
+    "CardID": 2016,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -1592823440
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem10.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      201701,
+      201702
+    ],
+    "Priority": 2017,
+    "CardID": 2017,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -1592823439
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem2.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      201801,
+      201802
+    ],
+    "Priority": 2,
+    "CardID": 2018,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -1592823430
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem3.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      201901,
+      201902
+    ],
+    "Priority": 1,
+    "CardID": 2019,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -1592823429
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem1.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      202001,
+      202002
+    ],
+    "Priority": 1,
+    "CardID": 2020,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1136059917
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem10.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      202101,
+      202102
+    ],
+    "Priority": 2021,
+    "CardID": 2021,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1136059918
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem14.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      202201,
+      202202
+    ],
+    "Priority": 2022,
+    "CardID": 2022,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1136059919
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem11.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      202301,
+      202302
+    ],
+    "Priority": 2023,
+    "CardID": 2023,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1136059920
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem14.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      202401,
+      202402
+    ],
+    "Priority": 2,
+    "CardID": 2024,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1136059913
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [
+      1
+    ],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem16.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      202501,
+      202502
+    ],
+    "Priority": 1,
+    "CardID": 2025,
+    "CardTipsParam": 4,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1136059914
+    },
+    "CardType": "Decision",
+    "CardDiceNum": 1,
+    "CardTips": "GreaterThan",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [
+      1
+    ],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem4.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      202601,
+      202602
+    ],
+    "Priority": 3,
+    "CardID": 2026,
+    "CardTipsParam": 4,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1136059915
+    },
+    "CardType": "Decision",
+    "CardDiceNum": 1,
+    "CardTips": "GreaterThan",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem10.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      202701,
+      202702
+    ],
+    "Priority": 2027,
+    "CardID": 2027,
+    "CardTipsParam": 4,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1136059916
+    },
+    "CardType": "Decision",
+    "CardDiceNum": 1,
+    "CardTips": "GreaterThan",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem16.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      202801,
+      202802,
+      202803
+    ],
+    "Priority": 2,
+    "CardID": 2028,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1136059925
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem10.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      202901,
+      202902
+    ],
+    "Priority": 2029,
+    "CardID": 2029,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1136059926
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem5.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      203001,
+      203002
+    ],
+    "Priority": 1,
+    "CardID": 2030,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -430024024
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem16.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      203101
+    ],
+    "Priority": 2,
+    "CardID": 2031,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -430024023
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem14.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      203201,
+      203202
+    ],
+    "Priority": 1,
+    "CardID": 2032,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -430024022
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem1.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      203301,
+      203302
+    ],
+    "Priority": 2033,
+    "CardID": 2033,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -430024021
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem11.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      203401,
+      203402
+    ],
+    "Priority": 2,
+    "CardID": 2034,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -430024028
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem16.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      203501,
+      203502
+    ],
+    "Priority": 1,
+    "CardID": 2035,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -430024027
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem2.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      203601,
+      203602
+    ],
+    "Priority": 2036,
+    "CardID": 2036,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -430024026
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem1.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      203701,
+      203702
+    ],
+    "Priority": 2037,
+    "CardID": 2037,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -430024025
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem4.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      203801,
+      203802
+    ],
+    "Priority": 2038,
+    "CardID": 2038,
+    "CardTipsParam": 4,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -430024016
+    },
+    "CardType": "Decision",
+    "CardDiceNum": 1,
+    "CardTips": "GreaterThan",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem7.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      203901,
+      203902
+    ],
+    "Priority": 2039,
+    "CardID": 2039,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -430024015
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem2.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      204001,
+      204002
+    ],
+    "Priority": 2040,
+    "CardID": 2040,
+    "CardTipsParam": 4,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -1996107965
+    },
+    "CardType": "Decision",
+    "CardDiceNum": 1,
+    "CardTips": "GreaterThan",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem1.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      204101,
+      204102
+    ],
+    "Priority": 2041,
+    "CardID": 2041,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -1996107964
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem7.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      204201,
+      204202
+    ],
+    "Priority": 2042,
+    "CardID": 2042,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -1996107963
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem10.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      204301,
+      204302
+    ],
+    "Priority": 2043,
+    "CardID": 2043,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -1996107962
+    },
+    "CardType": "Decision",
+    "CardDiceNum": 1,
+    "CardTips": "Negative",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem13.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      204401,
+      204402
+    ],
+    "Priority": 2044,
+    "CardID": 2044,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -1996107969
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem4.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      204501,
+      204502
+    ],
+    "Priority": 2,
+    "CardID": 2045,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -1996107968
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem4.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      204601,
+      204602
+    ],
+    "Priority": 1,
+    "CardID": 2046,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -1996107967
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem13.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      204701,
+      204702
+    ],
+    "Priority": 2,
+    "CardID": 2047,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -1996107966
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem10.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      204801,
+      204802
+    ],
+    "Priority": 2048,
+    "CardID": 2048,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -1996107957
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [
+      1
+    ],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem16.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      204901,
+      204902
+    ],
+    "Priority": 1,
+    "CardID": 2049,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -1996107956
+    },
+    "CardType": "Decision",
+    "CardDiceNum": 1,
+    "CardTips": "Negative",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem4.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      205001,
+      205002
+    ],
+    "Priority": 3,
+    "CardID": 2050,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 732775390
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem7.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      205101,
+      205102
+    ],
+    "Priority": 2,
+    "CardID": 2051,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 732775391
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [
+      1
+    ],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem6.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      205201,
+      205202
+    ],
+    "Priority": 1,
+    "CardID": 2052,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 732775392
+    },
+    "CardType": "Decision",
+    "CardDiceNum": 1,
+    "CardTips": "Negative",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem14.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      205301
+    ],
+    "Priority": 2,
+    "CardID": 2053,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 732775393
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem14.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      205401,
+      205402
+    ],
+    "Priority": 2054,
+    "CardID": 2054,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 732775386
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem10.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      205501,
+      205502
+    ],
+    "Priority": 1,
+    "CardID": 2055,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 732775387
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem14.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      205601
+    ],
+    "Priority": 2,
+    "CardID": 2056,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 732775388
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem14.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      205701,
+      205702
+    ],
+    "Priority": 2057,
+    "CardID": 2057,
+    "CardTipsParam": 4,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 732775389
+    },
+    "CardType": "Decision",
+    "CardDiceNum": 1,
+    "CardTips": "GreaterThan",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem4.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      205801,
+      205802
+    ],
+    "Priority": 1,
+    "CardID": 2058,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 732775398
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem16.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      205901,
+      205902,
+      205903
+    ],
+    "Priority": 2,
+    "CardID": 2059,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 732775399
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem7.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      206001,
+      206002
+    ],
+    "Priority": 2060,
+    "CardID": 2060,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -833308551
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem4.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      206101,
+      206102
+    ],
+    "Priority": 2061,
+    "CardID": 2061,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -833308550
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem14.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      206201,
+      206202
+    ],
+    "Priority": 1,
+    "CardID": 2062,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -833308549
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem14.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      206301,
+      206302
+    ],
+    "Priority": 2063,
+    "CardID": 2063,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -833308548
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem3.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      206401,
+      206402
+    ],
+    "Priority": 2064,
+    "CardID": 2064,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -833308555
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [
+      1
+    ],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem10.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      206501,
+      206502
+    ],
+    "Priority": 2065,
+    "CardID": 2065,
+    "CardTipsParam": 4,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -833308554
+    },
+    "CardType": "Decision",
+    "CardDiceNum": 1,
+    "CardTips": "GreaterThan",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem4.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      206601,
+      206602
+    ],
+    "Priority": 2066,
+    "CardID": 2066,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -833308553
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem2.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      206701,
+      206702
+    ],
+    "Priority": 2067,
+    "CardID": 2067,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -833308552
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [
+      1
+    ],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem14.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      206801,
+      206802
+    ],
+    "Priority": 2,
+    "CardID": 2068,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -833308543
+    },
+    "CardType": "Decision",
+    "CardDiceNum": 1,
+    "CardTips": "Negative",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem16.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      206901,
+      206902
+    ],
+    "Priority": 1,
+    "CardID": 2069,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -833308542
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem14.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      207001,
+      207002
+    ],
+    "Priority": 3,
+    "CardID": 2070,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1895574804
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem14.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      207101,
+      207102
+    ],
+    "Priority": 2,
+    "CardID": 2071,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1895574805
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [
+      1
+    ],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem14.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      207201,
+      207202
+    ],
+    "Priority": 1,
+    "CardID": 2072,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1895574806
+    },
+    "CardType": "Decision",
+    "CardDiceNum": 1,
+    "CardTips": "Negative",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem3.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      210101
+    ],
+    "Priority": 1,
+    "CardID": 2101,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -26739401
+    },
+    "CardType": "ToChapter",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem10.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      210201,
+      210202
+    ],
+    "Priority": 1,
+    "CardID": 2102,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -26739398
+    },
+    "CardType": "ToChapter",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem16.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      210301
+    ],
+    "Priority": 1,
+    "CardID": 2103,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -26739399
+    },
+    "CardType": "ToChapter",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem14.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      210401
+    ],
+    "Priority": 1,
+    "CardID": 2104,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -26739404
+    },
+    "CardType": "ToChapter",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem2.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      300101
+    ],
+    "Priority": 1,
+    "CardID": 3001,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1277222419
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [
+      2
+    ],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem13.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      300201,
+      300202
+    ],
+    "Priority": 2,
+    "CardID": 3002,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1277222420
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 2,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem10.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      300301,
+      300302
+    ],
+    "Priority": 3003,
+    "CardID": 3003,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1277222421
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [
+      2
+    ],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem2.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      300401,
+      300402
+    ],
+    "Priority": 3004,
+    "CardID": 3004,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1277222414
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 2,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem9.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      300501,
+      300502
+    ],
+    "Priority": 1,
+    "CardID": 3005,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1277222415
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem2.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      300601,
+      300602
+    ],
+    "Priority": 3006,
+    "CardID": 3006,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1277222416
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [
+      2
+    ],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem16.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      300701,
+      300702
+    ],
+    "Priority": 3,
+    "CardID": 3007,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1277222417
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 2,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem2.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      300801,
+      300802
+    ],
+    "Priority": 3008,
+    "CardID": 3008,
+    "CardTipsParam": 4,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1277222426
+    },
+    "CardType": "Decision",
+    "CardDiceNum": 1,
+    "CardTips": "GreaterThan",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem16.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      300901,
+      300902
+    ],
+    "Priority": 1,
+    "CardID": 3009,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1277222427
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem2.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      301002
+    ],
+    "Priority": 3010,
+    "CardID": 3010,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -1451660937
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem9.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      301101,
+      301102
+    ],
+    "Priority": 3011,
+    "CardID": 3011,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -1451660936
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem7.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      301201,
+      301202
+    ],
+    "Priority": 2,
+    "CardID": 3012,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -1451660935
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem2.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      301301,
+      301302
+    ],
+    "Priority": 1,
+    "CardID": 3013,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -1451660934
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem4.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      301401
+    ],
+    "Priority": 2,
+    "CardID": 3014,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -1451660941
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [
+      2
+    ],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem14.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      301501,
+      301502
+    ],
+    "Priority": 2,
+    "CardID": 3015,
+    "CardTipsParam": 8,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -1451660940
+    },
+    "CardType": "Decision",
+    "CardDiceNum": 2,
+    "CardTips": "GreaterThan",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem14.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      301601,
+      301602
+    ],
+    "Priority": 1,
+    "CardID": 3016,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -1451660939
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem3.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      301701,
+      301702
+    ],
+    "Priority": 3017,
+    "CardID": 3017,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -1451660938
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem2.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      301801,
+      301802
+    ],
+    "Priority": 3018,
+    "CardID": 3018,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -1451660929
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem10.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      301901,
+      301902
+    ],
+    "Priority": 3019,
+    "CardID": 3019,
+    "CardTipsParam": 4,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -1451660928
+    },
+    "CardType": "Decision",
+    "CardDiceNum": 1,
+    "CardTips": "GreaterThan",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem8.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      302001,
+      302002
+    ],
+    "Priority": 3020,
+    "CardID": 3020,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -1854945464
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [
+      2
+    ],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem10.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      302101,
+      302102
+    ],
+    "Priority": 2,
+    "CardID": 3021,
+    "CardTipsParam": 8,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -1854945463
+    },
+    "CardType": "Decision",
+    "CardDiceNum": 2,
+    "CardTips": "GreaterThan",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem16.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      302201,
+      302202
+    ],
+    "Priority": 1,
+    "CardID": 3022,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -1854945462
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [
+      2
+    ],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem16.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      302301,
+      302302
+    ],
+    "Priority": 3,
+    "CardID": 3023,
+    "CardTipsParam": 8,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -1854945461
+    },
+    "CardType": "Decision",
+    "CardDiceNum": 2,
+    "CardTips": "GreaterThan",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem14.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      302401,
+      302402
+    ],
+    "Priority": 2,
+    "CardID": 3024,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -1854945468
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem16.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      302501,
+      302502
+    ],
+    "Priority": 3025,
+    "CardID": 3025,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -1854945467
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem16.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      302601,
+      302602
+    ],
+    "Priority": 1,
+    "CardID": 3026,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -1854945466
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem15.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      302701
+    ],
+    "Priority": 2,
+    "CardID": 3027,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -1854945465
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem10.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      302801,
+      302802
+    ],
+    "Priority": 3028,
+    "CardID": 3028,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -1854945456
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem15.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      302901,
+      302902
+    ],
+    "Priority": 3029,
+    "CardID": 3029,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -1854945455
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [
+      2
+    ],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem15.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      303001,
+      303002
+    ],
+    "Priority": 2,
+    "CardID": 3030,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -288861523
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 2,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem15.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      303101,
+      303102
+    ],
+    "Priority": 1,
+    "CardID": 3031,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -288861522
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem4.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      303201,
+      303202
+    ],
+    "Priority": 3,
+    "CardID": 3032,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -288861521
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [
+      2
+    ],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem13.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      303301,
+      303302
+    ],
+    "Priority": 2,
+    "CardID": 3033,
+    "CardTipsParam": 8,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -288861520
+    },
+    "CardType": "Decision",
+    "CardDiceNum": 2,
+    "CardTips": "GreaterThan",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem9.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      303401,
+      303402
+    ],
+    "Priority": 1,
+    "CardID": 3034,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -288861527
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem7.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      303501,
+      303502
+    ],
+    "Priority": 3035,
+    "CardID": 3035,
+    "CardTipsParam": 4,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -288861526
+    },
+    "CardType": "Decision",
+    "CardDiceNum": 1,
+    "CardTips": "GreaterThan",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem2.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      303601,
+      303602
+    ],
+    "Priority": 3036,
+    "CardID": 3036,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -288861525
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem3.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      303701,
+      303702
+    ],
+    "Priority": 3037,
+    "CardID": 3037,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -288861524
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [
+      2
+    ],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem2.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      303801,
+      303802
+    ],
+    "Priority": 2,
+    "CardID": 3038,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -288861515
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 2,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem7.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      303901,
+      303902
+    ],
+    "Priority": 1,
+    "CardID": 3039,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -288861514
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem12.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      304001,
+      304002
+    ],
+    "Priority": 3,
+    "CardID": 3040,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -692146050
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem12.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      304101,
+      304102
+    ],
+    "Priority": 2,
+    "CardID": 3041,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -692146049
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem14.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      304201,
+      304202
+    ],
+    "Priority": 3042,
+    "CardID": 3042,
+    "CardTipsParam": 8,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -692146048
+    },
+    "CardType": "Decision",
+    "CardDiceNum": 2,
+    "CardTips": "GreaterThan",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem14.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      304301,
+      304302
+    ],
+    "Priority": 3043,
+    "CardID": 3043,
+    "CardTipsParam": 8,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -692146047
+    },
+    "CardType": "Decision",
+    "CardDiceNum": 2,
+    "CardTips": "GreaterThan",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem14.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      304401,
+      304402
+    ],
+    "Priority": 3044,
+    "CardID": 3044,
+    "CardTipsParam": 8,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -692146054
+    },
+    "CardType": "Decision",
+    "CardDiceNum": 2,
+    "CardTips": "GreaterThan",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem10.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      304501,
+      304502
+    ],
+    "Priority": 3045,
+    "CardID": 3045,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -692146053
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem15.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      304601,
+      304602
+    ],
+    "Priority": 3046,
+    "CardID": 3046,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -692146052
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 2,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem14.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      304701,
+      304702
+    ],
+    "Priority": 3047,
+    "CardID": 3047,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -692146051
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem5.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      304801,
+      304802
+    ],
+    "Priority": 3048,
+    "CardID": 3048,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -692146042
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem3.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      304901,
+      304902
+    ],
+    "Priority": 3049,
+    "CardID": 3049,
+    "CardTipsParam": 4,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -692146041
+    },
+    "CardType": "Decision",
+    "CardDiceNum": 1,
+    "CardTips": "GreaterThan",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [
+      2
+    ],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem2.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      305001,
+      305002
+    ],
+    "Priority": 3050,
+    "CardID": 3050,
+    "CardTipsParam": 8,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 873937891
+    },
+    "CardType": "Decision",
+    "CardDiceNum": 2,
+    "CardTips": "GreaterThan",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem3.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      305101,
+      305102
+    ],
+    "Priority": 3051,
+    "CardID": 3051,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 873937892
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem5.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      305201,
+      305202
+    ],
+    "Priority": 3052,
+    "CardID": 3052,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 873937893
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 2,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem11.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      305301,
+      305302
+    ],
+    "Priority": 3053,
+    "CardID": 3053,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 873937894
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 2,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [
+      2
+    ],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem14.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      305401,
+      305402
+    ],
+    "Priority": 3054,
+    "CardID": 3054,
+    "CardTipsParam": 8,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 873937887
+    },
+    "CardType": "Decision",
+    "CardDiceNum": 2,
+    "CardTips": "GreaterThan",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem14.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      305501,
+      305502
+    ],
+    "Priority": 3055,
+    "CardID": 3055,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 873937888
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem14.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      305601,
+      305602
+    ],
+    "Priority": 3056,
+    "CardID": 3056,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 873937889
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem16.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      310101
+    ],
+    "Priority": 1,
+    "CardID": 3101,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1277222514
+    },
+    "CardType": "ToChapter",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem14.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      310201,
+      310202
+    ],
+    "Priority": 1,
+    "CardID": 3102,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1277222517
+    },
+    "CardType": "ToChapter",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem1.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      310301
+    ],
+    "Priority": 1,
+    "CardID": 3103,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1277222516
+    },
+    "CardType": "ToChapter",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem4.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      310401
+    ],
+    "Priority": 1,
+    "CardID": 3104,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1277222511
+    },
+    "CardType": "ToChapter",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [
+      2
+    ],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem10.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      320101,
+      320102
+    ],
+    "Priority": 2,
+    "CardID": 3201,
+    "CardTipsParam": 8,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1277222485
+    },
+    "CardType": "Decision",
+    "CardDiceNum": 2,
+    "CardTips": "GreaterThan",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [
+      2
+    ],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem10.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      320201,
+      320202
+    ],
+    "Priority": 2,
+    "CardID": 3202,
+    "CardTipsParam": 8,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1277222482
+    },
+    "CardType": "Decision",
+    "CardDiceNum": 2,
+    "CardTips": "GreaterThan",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [
+      2
+    ],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem14.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      320301,
+      320302
+    ],
+    "Priority": 1,
+    "CardID": 3203,
+    "CardTipsParam": 8,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1277222483
+    },
+    "CardType": "Decision",
+    "CardDiceNum": 2,
+    "CardTips": "GreaterThan",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem2.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      320401,
+      320402
+    ],
+    "Priority": 3631,
+    "CardID": 3204,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1277222480
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [
+      2
+    ],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem1.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      320501,
+      320502
+    ],
+    "Priority": 1,
+    "CardID": 3205,
+    "CardTipsParam": 8,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1277222481
+    },
+    "CardType": "Decision",
+    "CardDiceNum": 2,
+    "CardTips": "GreaterThan",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem13.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      320601,
+      320602
+    ],
+    "Priority": 3611,
+    "CardID": 3206,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1277222478
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [
+      2
+    ],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem2.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      320701,
+      320702,
+      320703,
+      320704,
+      320705,
+      320706
+    ],
+    "Priority": 3731,
+    "CardID": 3207,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1277222479
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem2.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      320801,
+      320802
+    ],
+    "Priority": 3611,
+    "CardID": 3208,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1277222492
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem16.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      341001
+    ],
+    "Priority": 1,
+    "CardID": 3405,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1277222291
+    },
+    "CardType": "Gameplay",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [
+      2
+    ],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem4.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      350701,
+      350702
+    ],
+    "Priority": 1,
+    "CardID": 3501,
+    "CardTipsParam": 8,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1277222382
+    },
+    "CardType": "Decision",
+    "CardDiceNum": 2,
+    "CardTips": "GreaterThan",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem8.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      410101
+    ],
+    "Priority": 1,
+    "CardID": 4101,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -873714407
+    },
+    "CardType": "Chain",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem12.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      410201
+    ],
+    "Priority": 2,
+    "CardID": 4102,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -873714404
+    },
+    "CardType": "Chain",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem7.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      410301
+    ],
+    "Priority": 2,
+    "CardID": 4103,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -873714405
+    },
+    "CardType": "Chain",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem10.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      410401
+    ],
+    "Priority": 3,
+    "CardID": 4104,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -873714410
+    },
+    "CardType": "Chain",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem12.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      410501
+    ],
+    "Priority": 3,
+    "CardID": 4105,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -873714411
+    },
+    "CardType": "Chain",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem7.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      410601
+    ],
+    "Priority": 3,
+    "CardID": 4106,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -873714408
+    },
+    "CardType": "Chain",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem12.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      410701
+    ],
+    "Priority": 4,
+    "CardID": 4107,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -873714409
+    },
+    "CardType": "Chain",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem5.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      410801
+    ],
+    "Priority": 4,
+    "CardID": 4108,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -873714398
+    },
+    "CardType": "Chain",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem10.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      410901
+    ],
+    "Priority": 5,
+    "CardID": 4109,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -873714399
+    },
+    "CardType": "Chain",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem12.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      411001
+    ],
+    "Priority": 5,
+    "CardID": 4110,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1855168949
+    },
+    "CardType": "Chain",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem10.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      411101
+    ],
+    "Priority": 5,
+    "CardID": 4111,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1855168948
+    },
+    "CardType": "Chain",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem3.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      411201
+    ],
+    "Priority": 6,
+    "CardID": 4112,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1855168951
+    },
+    "CardType": "Chain",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem10.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      411301
+    ],
+    "Priority": 6,
+    "CardID": 4113,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1855168950
+    },
+    "CardType": "Chain",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem4.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      411401
+    ],
+    "Priority": 7,
+    "CardID": 4114,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1855168945
+    },
+    "CardType": "Chain",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem7.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      411501
+    ],
+    "Priority": 7,
+    "CardID": 4115,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1855168944
+    },
+    "CardType": "Chain",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem1.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      411601
+    ],
+    "Priority": 7,
+    "CardID": 4116,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1855168947
+    },
+    "CardType": "Chain",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem7.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      411701
+    ],
+    "Priority": 8,
+    "CardID": 4117,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1855168946
+    },
+    "CardType": "Chain",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem12.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      411801
+    ],
+    "Priority": 8,
+    "CardID": 4118,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1855168957
+    },
+    "CardType": "Chain",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem3.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      415001
+    ],
+    "Priority": 9,
+    "CardID": 4121,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -2036513821
+    },
+    "CardType": "Gameplay",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem3.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      412201
+    ],
+    "Priority": 10,
+    "CardID": 4122,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -2036513818
+    },
+    "CardType": "ToChapter",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem12.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      420101
+    ],
+    "Priority": 1,
+    "CardID": 4201,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -873714436
+    },
+    "CardType": "Chain",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem5.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      420201
+    ],
+    "Priority": 2,
+    "CardID": 4202,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -873714439
+    },
+    "CardType": "Chain",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem10.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      420301
+    ],
+    "Priority": 2,
+    "CardID": 4203,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -873714438
+    },
+    "CardType": "Chain",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem3.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      420401
+    ],
+    "Priority": 3,
+    "CardID": 4204,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -873714441
+    },
+    "CardType": "Chain",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem1.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      420501
+    ],
+    "Priority": 3,
+    "CardID": 4205,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -873714440
+    },
+    "CardType": "Chain",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem2.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      420601
+    ],
+    "Priority": 3,
+    "CardID": 4206,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -873714443
+    },
+    "CardType": "Chain",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem2.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      420701
+    ],
+    "Priority": 4,
+    "CardID": 4207,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -873714442
+    },
+    "CardType": "Chain",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem3.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      420801
+    ],
+    "Priority": 4,
+    "CardID": 4208,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -873714429
+    },
+    "CardType": "Chain",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem13.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      420901
+    ],
+    "Priority": 4,
+    "CardID": 4209,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -873714428
+    },
+    "CardType": "Chain",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem4.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      421001
+    ],
+    "Priority": 5,
+    "CardID": 4210,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1855168918
+    },
+    "CardType": "Chain",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem6.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      421101
+    ],
+    "Priority": 5,
+    "CardID": 4211,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1855168919
+    },
+    "CardType": "Chain",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem8.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      421201
+    ],
+    "Priority": 5,
+    "CardID": 4212,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1855168916
+    },
+    "CardType": "Chain",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem2.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      421301
+    ],
+    "Priority": 5,
+    "CardID": 4213,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1855168917
+    },
+    "CardType": "Chain",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem10.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      421401
+    ],
+    "Priority": 6,
+    "CardID": 4214,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1855168914
+    },
+    "CardType": "Chain",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem3.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      421501
+    ],
+    "Priority": 6,
+    "CardID": 4215,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1855168915
+    },
+    "CardType": "Chain",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem11.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      421601
+    ],
+    "Priority": 6,
+    "CardID": 4216,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1855168912
+    },
+    "CardType": "Chain",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem3.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      421701
+    ],
+    "Priority": 7,
+    "CardID": 4217,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1855168913
+    },
+    "CardType": "Chain",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem1.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      421801
+    ],
+    "Priority": 7,
+    "CardID": 4218,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1855168926
+    },
+    "CardType": "Chain",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem4.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      421901
+    ],
+    "Priority": 7,
+    "CardID": 4219,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1855168927
+    },
+    "CardType": "Chain",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem1.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      422001
+    ],
+    "Priority": 7,
+    "CardID": 4220,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -2036513851
+    },
+    "CardType": "Chain",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem12.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      422101
+    ],
+    "Priority": 8,
+    "CardID": 4221,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -2036513850
+    },
+    "CardType": "Chain",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem2.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      422201
+    ],
+    "Priority": 8,
+    "CardID": 4222,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -2036513853
+    },
+    "CardType": "Chain",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem3.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      425001
+    ],
+    "Priority": 9,
+    "CardID": 4225,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -2036513854
+    },
+    "CardType": "Gameplay",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem2.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      422601,
+      422602
+    ],
+    "Priority": 10,
+    "CardID": 4226,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -2036513857
+    },
+    "CardType": "ToChapter",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem12.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      430101
+    ],
+    "Priority": 1,
+    "CardID": 4301,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -873714341
+    },
+    "CardType": "Chain",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem3.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      430201
+    ],
+    "Priority": 2,
+    "CardID": 4302,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -873714342
+    },
+    "CardType": "Chain",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem13.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      430301
+    ],
+    "Priority": 2,
+    "CardID": 4303,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -873714343
+    },
+    "CardType": "Chain",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem1.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      430401
+    ],
+    "Priority": 3,
+    "CardID": 4304,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -873714344
+    },
+    "CardType": "Chain",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem13.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      430501
+    ],
+    "Priority": 3,
+    "CardID": 4305,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -873714345
+    },
+    "CardType": "Chain",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem12.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      430601
+    ],
+    "Priority": 3,
+    "CardID": 4306,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -873714346
+    },
+    "CardType": "Chain",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem3.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      430701
+    ],
+    "Priority": 4,
+    "CardID": 4307,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -873714347
+    },
+    "CardType": "Chain",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem10.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      430801
+    ],
+    "Priority": 4,
+    "CardID": 4308,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -873714332
+    },
+    "CardType": "Chain",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem3.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      430901
+    ],
+    "Priority": 5,
+    "CardID": 4309,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -873714333
+    },
+    "CardType": "Chain",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem12.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      431001
+    ],
+    "Priority": 5,
+    "CardID": 4310,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1855169015
+    },
+    "CardType": "Chain",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem1.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      431101
+    ],
+    "Priority": 5,
+    "CardID": 4311,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1855169014
+    },
+    "CardType": "Chain",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem12.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      431201
+    ],
+    "Priority": 6,
+    "CardID": 4312,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1855169013
+    },
+    "CardType": "Chain",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem4.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      431301
+    ],
+    "Priority": 6,
+    "CardID": 4313,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1855169012
+    },
+    "CardType": "Chain",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem13.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      431401
+    ],
+    "Priority": 7,
+    "CardID": 4314,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1855169011
+    },
+    "CardType": "Chain",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem4.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      431501
+    ],
+    "Priority": 7,
+    "CardID": 4315,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1855169010
+    },
+    "CardType": "Chain",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem10.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      431601
+    ],
+    "Priority": 7,
+    "CardID": 4316,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1855169009
+    },
+    "CardType": "Chain",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem12.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      431701
+    ],
+    "Priority": 8,
+    "CardID": 4317,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1855169008
+    },
+    "CardType": "Chain",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem12.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      431801
+    ],
+    "Priority": 8,
+    "CardID": 4318,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1855169023
+    },
+    "CardType": "Chain",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem2.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      432201
+    ],
+    "Priority": 10,
+    "CardID": 4322,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -2036513756
+    },
+    "CardType": "ToChapter",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem1.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      440101
+    ],
+    "Priority": 1,
+    "CardID": 4401,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -873714634
+    },
+    "CardType": "Chain",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem3.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      440201
+    ],
+    "Priority": 2,
+    "CardID": 4402,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -873714633
+    },
+    "CardType": "Chain",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem3.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      440301
+    ],
+    "Priority": 2,
+    "CardID": 4403,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -873714632
+    },
+    "CardType": "Chain",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem1.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      440401
+    ],
+    "Priority": 3,
+    "CardID": 4404,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -873714631
+    },
+    "CardType": "Chain",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem14.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      440501
+    ],
+    "Priority": 3,
+    "CardID": 4405,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -873714630
+    },
+    "CardType": "Chain",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem12.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      440601
+    ],
+    "Priority": 3,
+    "CardID": 4406,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -873714629
+    },
+    "CardType": "Chain",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem2.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      440701
+    ],
+    "Priority": 4,
+    "CardID": 4407,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -873714628
+    },
+    "CardType": "Chain",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem3.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      440801
+    ],
+    "Priority": 4,
+    "CardID": 4408,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -873714627
+    },
+    "CardType": "Chain",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem5.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      440901
+    ],
+    "Priority": 5,
+    "CardID": 4409,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -873714626
+    },
+    "CardType": "Chain",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem1.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      441001
+    ],
+    "Priority": 5,
+    "CardID": 4410,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1855168720
+    },
+    "CardType": "Chain",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem12.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      441101
+    ],
+    "Priority": 5,
+    "CardID": 4411,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1855168721
+    },
+    "CardType": "Chain",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem12.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      441201
+    ],
+    "Priority": 6,
+    "CardID": 4412,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1855168722
+    },
+    "CardType": "Chain",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem3.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      441301
+    ],
+    "Priority": 6,
+    "CardID": 4413,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1855168723
+    },
+    "CardType": "Chain",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem3.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      441401
+    ],
+    "Priority": 7,
+    "CardID": 4414,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1855168724
+    },
+    "CardType": "Chain",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem2.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      441501
+    ],
+    "Priority": 7,
+    "CardID": 4415,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1855168725
+    },
+    "CardType": "Chain",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem12.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      441601
+    ],
+    "Priority": 7,
+    "CardID": 4416,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1855168726
+    },
+    "CardType": "Chain",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem2.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      441701
+    ],
+    "Priority": 8,
+    "CardID": 4417,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1855168727
+    },
+    "CardType": "Chain",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem12.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      441801
+    ],
+    "Priority": 8,
+    "CardID": 4418,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1855168728
+    },
+    "CardType": "Chain",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem12.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      442201
+    ],
+    "Priority": 10,
+    "CardID": 4422,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -2036514047
+    },
+    "CardType": "ToChapter",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [
+      1
+    ],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem5.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      510101,
+      510102,
+      510103,
+      510104,
+      510105,
+      510106
+    ],
+    "Priority": 2,
+    "CardID": 5101,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 430247508
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [
+      1
+    ],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem3.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      510201,
+      510202,
+      510203,
+      510204,
+      510205,
+      510206
+    ],
+    "Priority": 1,
+    "CardID": 5102,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 430247511
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem15.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      510301,
+      510302
+    ],
+    "Priority": 1,
+    "CardID": 5103,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 430247510
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [
+      2
+    ],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem1.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      510401,
+      510402,
+      510403,
+      510404,
+      510405,
+      510406,
+      510407,
+      510408,
+      510409,
+      510410,
+      510411,
+      510412
+    ],
+    "Priority": 1,
+    "CardID": 5104,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 430247505
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 2,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [
+      2
+    ],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem10.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      510501,
+      510502
+    ],
+    "Priority": 2,
+    "CardID": 5105,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 430247504
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 2,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem12.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      510601
+    ],
+    "Priority": 2,
+    "CardID": 5106,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 430247507
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [
+      1
+    ],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem15.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      510701,
+      510702,
+      510703,
+      510704,
+      510705,
+      510706
+    ],
+    "Priority": 5107,
+    "CardID": 5107,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 430247506
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem14.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      510801,
+      510802,
+      510803,
+      510804,
+      510805,
+      510806
+    ],
+    "Priority": 5108,
+    "CardID": 5108,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 430247517
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem9.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      510901
+    ],
+    "Priority": 5109,
+    "CardID": 5109,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 430247516
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [
+      2
+    ],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem8.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      511001,
+      511002,
+      511003,
+      511004,
+      511005,
+      511006,
+      511007,
+      511008,
+      511009,
+      511010,
+      511011,
+      511012
+    ],
+    "Priority": 3,
+    "CardID": 5110,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1996331450
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 2,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem4.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      511101,
+      511102
+    ],
+    "Priority": 2,
+    "CardID": 5111,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1996331449
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem2.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      511201
+    ],
+    "Priority": 5,
+    "CardID": 5112,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1996331452
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem10.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      511301,
+      511302
+    ],
+    "Priority": 6,
+    "CardID": 5113,
+    "CardTipsParam": 4,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1996331451
+    },
+    "CardType": "Decision",
+    "CardDiceNum": 1,
+    "CardTips": "GreaterThan",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem4.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      511401
+    ],
+    "Priority": 6,
+    "CardID": 5114,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1996331446
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem5.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      511501,
+      511502
+    ],
+    "Priority": 7,
+    "CardID": 5115,
+    "CardTipsParam": 4,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1996331445
+    },
+    "CardType": "Decision",
+    "CardDiceNum": 1,
+    "CardTips": "GreaterThan",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem8.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      511601
+    ],
+    "Priority": 7,
+    "CardID": 5116,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1996331448
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem12.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      511701,
+      511702
+    ],
+    "Priority": 1,
+    "CardID": 5117,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1996331447
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem1.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      515001
+    ],
+    "Priority": 1,
+    "CardID": 5150,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -329267378
+    },
+    "CardType": "Gameplay",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem5.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      511901
+    ],
+    "Priority": 1,
+    "CardID": 5119,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1996331457
+    },
+    "CardType": "ToChapter",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [
+      1
+    ],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem2.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      520101,
+      520102,
+      520103,
+      520104,
+      520105,
+      520106
+    ],
+    "Priority": 2,
+    "CardID": 5201,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 430247479
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem1.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      520201,
+      520202
+    ],
+    "Priority": 5202,
+    "CardID": 5202,
+    "CardTipsParam": 4,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 430247476
+    },
+    "CardType": "Decision",
+    "CardDiceNum": 1,
+    "CardTips": "GreaterThan",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem15.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      520301,
+      520302
+    ],
+    "Priority": 1,
+    "CardID": 5203,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 430247477
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem1.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      520401,
+      520402
+    ],
+    "Priority": 5204,
+    "CardID": 5204,
+    "CardTipsParam": 4,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 430247474
+    },
+    "CardType": "Decision",
+    "CardDiceNum": 1,
+    "CardTips": "GreaterThan",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem3.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      520501,
+      520502,
+      520503,
+      520504,
+      520505,
+      520506
+    ],
+    "Priority": 5205,
+    "CardID": 5205,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 430247475
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem4.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      520601,
+      520602
+    ],
+    "Priority": 5206,
+    "CardID": 5206,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 430247472
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [
+      2
+    ],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem12.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      520701,
+      520702
+    ],
+    "Priority": 1,
+    "CardID": 5207,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 430247473
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 2,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [
+      1
+    ],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem10.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      520801,
+      520802,
+      520803,
+      520804,
+      520805,
+      520806
+    ],
+    "Priority": 2,
+    "CardID": 5208,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 430247486
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [
+      2
+    ],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem9.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      520901,
+      520902,
+      520903,
+      520904,
+      520905,
+      520906,
+      520907,
+      520908,
+      520909,
+      520910,
+      520911,
+      520912
+    ],
+    "Priority": 2,
+    "CardID": 5209,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 430247487
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 2,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem14.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      521001
+    ],
+    "Priority": 1,
+    "CardID": 5210,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1996331419
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem12.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      521101,
+      521102,
+      521103,
+      521104,
+      521105,
+      521106
+    ],
+    "Priority": 14,
+    "CardID": 5211,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1996331420
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem1.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      521201,
+      521202
+    ],
+    "Priority": 14,
+    "CardID": 5212,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1996331417
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem2.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      521301,
+      521302
+    ],
+    "Priority": 14,
+    "CardID": 5213,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1996331418
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem12.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      521401,
+      521402
+    ],
+    "Priority": 3,
+    "CardID": 5214,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1996331415
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem13.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      521501
+    ],
+    "Priority": 2,
+    "CardID": 5215,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1996331416
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [
+      2
+    ],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem3.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      521601,
+      521602,
+      521603,
+      521604,
+      521605,
+      521606,
+      521607,
+      521608,
+      521609,
+      521610,
+      521611,
+      521612
+    ],
+    "Priority": 1,
+    "CardID": 5216,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1996331413
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 2,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem6.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      521701,
+      521702
+    ],
+    "Priority": 16,
+    "CardID": 5217,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1996331414
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem12.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      521801,
+      521802
+    ],
+    "Priority": 16,
+    "CardID": 5218,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1996331427
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem16.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      521901,
+      521902
+    ],
+    "Priority": 16,
+    "CardID": 5219,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1996331428
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem4.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      525001
+    ],
+    "Priority": 1,
+    "CardID": 5250,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -329267409
+    },
+    "CardType": "Gameplay",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem12.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      522101,
+      522102
+    ],
+    "Priority": 1,
+    "CardID": 5221,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -732551935
+    },
+    "CardType": "ToChapter",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [
+      2
+    ],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem7.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      530101
+    ],
+    "Priority": 2,
+    "CardID": 5301,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 430247574
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 2,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [
+      1
+    ],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem16.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      530201,
+      530202,
+      530203,
+      530204,
+      530205,
+      530206
+    ],
+    "Priority": 1,
+    "CardID": 5302,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 430247573
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem9.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      530301,
+      530302
+    ],
+    "Priority": 2,
+    "CardID": 5303,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 430247572
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [
+      2
+    ],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem11.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      530401,
+      530402,
+      530403,
+      530404,
+      530405,
+      530406,
+      530407,
+      530408,
+      530409,
+      530410,
+      530411,
+      530412
+    ],
+    "Priority": 1,
+    "CardID": 5304,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 430247571
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 2,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem7.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      530501,
+      530502
+    ],
+    "Priority": 3,
+    "CardID": 5305,
+    "CardTipsParam": 4,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 430247570
+    },
+    "CardType": "Decision",
+    "CardDiceNum": 1,
+    "CardTips": "GreaterThan",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem2.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      530601,
+      530602
+    ],
+    "Priority": 2,
+    "CardID": 5306,
+    "CardTipsParam": 4,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 430247569
+    },
+    "CardType": "Decision",
+    "CardDiceNum": 1,
+    "CardTips": "GreaterThan",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [
+      2
+    ],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem5.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      530701,
+      530702,
+      530703,
+      530704,
+      530705,
+      530706,
+      530707,
+      530708,
+      530709,
+      530710,
+      530711,
+      530712
+    ],
+    "Priority": 1,
+    "CardID": 5307,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 430247568
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 2,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem7.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      530801,
+      530802
+    ],
+    "Priority": 5308,
+    "CardID": 5308,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 430247583
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem1.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      530901,
+      530902
+    ],
+    "Priority": 5309,
+    "CardID": 5309,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 430247582
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem10.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      531001,
+      531002
+    ],
+    "Priority": 5310,
+    "CardID": 5310,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1996331516
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [
+      2
+    ],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem3.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      531101,
+      531102,
+      531103,
+      531104,
+      531105,
+      531106,
+      531107,
+      531108,
+      531109,
+      531110,
+      531111,
+      531112
+    ],
+    "Priority": 5311,
+    "CardID": 5311,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1996331515
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 2,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem9.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      531201,
+      531202
+    ],
+    "Priority": 5312,
+    "CardID": 5312,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1996331514
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem2.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      531301,
+      531302
+    ],
+    "Priority": 5313,
+    "CardID": 5313,
+    "CardTipsParam": 4,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1996331513
+    },
+    "CardType": "Decision",
+    "CardDiceNum": 1,
+    "CardTips": "GreaterThan",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [
+      1
+    ],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem15.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      531401,
+      531402,
+      531403,
+      531404,
+      531405,
+      531406
+    ],
+    "Priority": 2,
+    "CardID": 5314,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1996331512
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem2.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      531501
+    ],
+    "Priority": 24,
+    "CardID": 5315,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1996331511
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem12.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      531601
+    ],
+    "Priority": 1,
+    "CardID": 5316,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1996331510
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem5.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      531701,
+      531702
+    ],
+    "Priority": 25,
+    "CardID": 5317,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1996331509
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem12.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      531801,
+      531802
+    ],
+    "Priority": 25,
+    "CardID": 5318,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1996331524
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem7.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      531901
+    ],
+    "Priority": 25,
+    "CardID": 5319,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1996331523
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem12.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      532001,
+      532002
+    ],
+    "Priority": 3,
+    "CardID": 5320,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -732551839
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [
+      2
+    ],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem7.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      532101,
+      532102,
+      532103,
+      532104,
+      532105,
+      532106,
+      532107,
+      532108,
+      532109,
+      532110,
+      532111,
+      532112
+    ],
+    "Priority": 2,
+    "CardID": 5321,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -732551840
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 2,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem13.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      532201
+    ],
+    "Priority": 1,
+    "CardID": 5322,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -732551841
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem10.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      532301,
+      532302
+    ],
+    "Priority": 27,
+    "CardID": 5323,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -732551842
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem5.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      532401,
+      532402
+    ],
+    "Priority": 27,
+    "CardID": 5324,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -732551843
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem12.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      532501
+    ],
+    "Priority": 27,
+    "CardID": 5325,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -732551844
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem8.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      535001
+    ],
+    "Priority": 1,
+    "CardID": 5350,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -329267312
+    },
+    "CardType": "Gameplay",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem4.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      532701
+    ],
+    "Priority": 1,
+    "CardID": 5327,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -732551846
+    },
+    "CardType": "ToChapter",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem1.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      540101,
+      540102,
+      540103,
+      540104,
+      540105,
+      540106
+    ],
+    "Priority": 2,
+    "CardID": 5401,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 430247281
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem10.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      540201,
+      540202
+    ],
+    "Priority": 2,
+    "CardID": 5402,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 430247282
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem10.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      540301,
+      540302,
+      540303,
+      540304,
+      540305,
+      540306
+    ],
+    "Priority": 1,
+    "CardID": 5403,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 430247283
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem10.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      540401,
+      540402
+    ],
+    "Priority": 1,
+    "CardID": 5404,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 430247284
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem10.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      540501,
+      540502,
+      540503,
+      540504,
+      540505,
+      540506
+    ],
+    "Priority": 3,
+    "CardID": 5405,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 430247285
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem10.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      540601,
+      540602,
+      540603,
+      540604,
+      540605,
+      540606
+    ],
+    "Priority": 2,
+    "CardID": 5406,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 430247286
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem10.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      540701,
+      540702
+    ],
+    "Priority": 1,
+    "CardID": 5407,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 430247287
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem10.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      540801,
+      540802
+    ],
+    "Priority": 2,
+    "CardID": 5408,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 430247288
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem10.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      540901,
+      540902,
+      540903,
+      540904,
+      540905,
+      540906
+    ],
+    "Priority": 1,
+    "CardID": 5409,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 430247289
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem10.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      541001,
+      541002,
+      541003,
+      541004,
+      541005,
+      541006
+    ],
+    "Priority": 5410,
+    "CardID": 5410,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1996331221
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem10.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      541101,
+      541102
+    ],
+    "Priority": 5411,
+    "CardID": 5411,
+    "CardTipsParam": 6,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1996331222
+    },
+    "CardType": "Decision",
+    "CardDiceNum": 1,
+    "CardTips": "EqualTo",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem10.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      541201,
+      541202,
+      541203,
+      541204,
+      541205,
+      541206
+    ],
+    "Priority": 5412,
+    "CardID": 5412,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1996331223
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem10.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      541301,
+      541302,
+      541303,
+      541304,
+      541305,
+      541306
+    ],
+    "Priority": 5413,
+    "CardID": 5413,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1996331224
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem10.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      541401,
+      541402
+    ],
+    "Priority": 35,
+    "CardID": 5414,
+    "CardTipsParam": 3,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1996331225
+    },
+    "CardType": "GainBuff",
+    "CardDiceNum": 1,
+    "CardTips": "GreaterThan",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem10.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      541501,
+      541502
+    ],
+    "Priority": 35,
+    "CardID": 5415,
+    "CardTipsParam": 3,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1996331226
+    },
+    "CardType": "GainBuff",
+    "CardDiceNum": 1,
+    "CardTips": "GreaterThan",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem10.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      541601,
+      541602
+    ],
+    "Priority": 35,
+    "CardID": 5416,
+    "CardTipsParam": 3,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1996331227
+    },
+    "CardType": "GainBuff",
+    "CardDiceNum": 1,
+    "CardTips": "GreaterThan",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem10.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      541701,
+      541702
+    ],
+    "Priority": 36,
+    "CardID": 5417,
+    "CardTipsParam": 3,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1996331228
+    },
+    "CardType": "GainBuff",
+    "CardDiceNum": 1,
+    "CardTips": "GreaterThan",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem10.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      541801,
+      541802
+    ],
+    "Priority": 36,
+    "CardID": 5418,
+    "CardTipsParam": 3,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1996331229
+    },
+    "CardType": "GainBuff",
+    "CardDiceNum": 1,
+    "CardTips": "GreaterThan",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem10.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      541901,
+      541902
+    ],
+    "Priority": 36,
+    "CardID": 5419,
+    "CardTipsParam": 3,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": 1996331230
+    },
+    "CardType": "GainBuff",
+    "CardDiceNum": 1,
+    "CardTips": "GreaterThan",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem10.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      542001,
+      542002
+    ],
+    "Priority": 37,
+    "CardID": 5420,
+    "CardTipsParam": 4,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -732552134
+    },
+    "CardType": "GainBuff",
+    "CardDiceNum": 1,
+    "CardTips": "GreaterThan",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem10.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      542101,
+      542102
+    ],
+    "Priority": 37,
+    "CardID": 5421,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -732552133
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem10.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      542201,
+      542202
+    ],
+    "Priority": 37,
+    "CardID": 5422,
+    "CardTipsParam": 4,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -732552132
+    },
+    "CardType": "GainBuff",
+    "CardDiceNum": 1,
+    "CardTips": "GreaterThan",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem10.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      542301,
+      542302,
+      542303,
+      542304,
+      542305,
+      542306
+    ],
+    "Priority": 3,
+    "CardID": 5423,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -732552131
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem10.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      542401,
+      542402
+    ],
+    "Priority": 2,
+    "CardID": 5424,
+    "CardTipsParam": 6,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -732552130
+    },
+    "CardType": "Decision",
+    "CardDiceNum": 1,
+    "CardTips": "EqualTo",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem10.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg3.png",
+    "CardActionList": [
+      542501,
+      542502,
+      542503,
+      542504,
+      542505,
+      542506
+    ],
+    "Priority": 1,
+    "CardID": 5425,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -732552129
+    },
+    "CardType": "AttributeChange",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem5.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg1.png",
+    "CardActionList": [
+      545001
+    ],
+    "Priority": 1,
+    "CardID": 5450,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -329267607
+    },
+    "CardType": "Gameplay",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "CardConflictTagList": [],
+    "ForeImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardCenterItem12.png",
+    "ImgPath": "SpriteOutput/Quest/ClockPark/GamePlayPage/ClockParkCardBg2.png",
+    "CardActionList": [
+      542701
+    ],
+    "Priority": 1,
+    "CardID": 5427,
+    "CardTipsParam": 0,
+    "CardOriginalParam": 0,
+    "CardDesc": {
+      "Hash": -732552127
+    },
+    "CardType": "ToChapter",
+    "CardDiceNum": 1,
+    "CardTips": "None",
+    "CardTag": {
+      "Hash": 371857150
+    }
+  }
+]

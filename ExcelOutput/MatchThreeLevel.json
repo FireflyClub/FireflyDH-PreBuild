@@ -1,0 +1,828 @@
+[
+  {
+    "EnvironmentID": [],
+    "VSTalkList": [],
+    "LevelImage": "",
+    "LevelName": {
+      "Hash": 371857150
+    },
+    "GoMissionCondition": 0,
+    "MissionDescription": {
+      "Hash": 371857150
+    },
+    "LoseDesc": {
+      "Hash": 371857150
+    },
+    "PlayerID": 900,
+    "VictoryDesc": {
+      "Hash": -1435412560
+    },
+    "RewardID": 0,
+    "HPmax": 10,
+    "LevelDescription": {
+      "Hash": 371857150
+    },
+    "OpponentBirdID": 310,
+    "TurnStep": 5,
+    "LevelID": 1000,
+    "OpponentID": 100,
+    "PlayerBirdID": 311,
+    "LevelMission": 0,
+    "Mode": 0,
+    "UnlockID": 0
+  },
+  {
+    "EnvironmentID": [],
+    "VSTalkList": [],
+    "LevelImage": "",
+    "LevelName": {
+      "Hash": 371857150
+    },
+    "GoMissionCondition": 0,
+    "MissionDescription": {
+      "Hash": 371857150
+    },
+    "LoseDesc": {
+      "Hash": 371857150
+    },
+    "PlayerID": 0,
+    "VictoryDesc": {
+      "Hash": -1435412591
+    },
+    "RewardID": 0,
+    "HPmax": 100,
+    "LevelDescription": {
+      "Hash": 371857150
+    },
+    "OpponentBirdID": 310,
+    "TurnStep": 5,
+    "LevelID": 1010,
+    "OpponentID": 101,
+    "PlayerBirdID": 300,
+    "LevelMission": 0,
+    "Mode": 0,
+    "UnlockID": 802310101
+  },
+  {
+    "EnvironmentID": [
+      201
+    ],
+    "VSTalkList": [
+      101,
+      102,
+      104
+    ],
+    "LevelImage": "SpriteOutput/UI/Quest/MatchThree/MTChallengeTaskIcon1.png",
+    "LevelName": {
+      "Hash": -976708714
+    },
+    "GoMissionCondition": 802310202,
+    "MissionDescription": {
+      "Hash": 331703991
+    },
+    "LoseDesc": {
+      "Hash": 1404158101
+    },
+    "PlayerID": 0,
+    "VictoryDesc": {
+      "Hash": 1212400560
+    },
+    "RewardID": 230001,
+    "HPmax": 100,
+    "LevelDescription": {
+      "Hash": -1171028299
+    },
+    "OpponentBirdID": 301,
+    "TurnStep": 10,
+    "LevelID": 1100,
+    "OpponentID": 111,
+    "PlayerBirdID": 300,
+    "LevelMission": 802310203,
+    "Mode": 1,
+    "UnlockID": 802310102
+  },
+  {
+    "EnvironmentID": [
+      201,
+      202,
+      203,
+      204,
+      205
+    ],
+    "VSTalkList": [
+      104,
+      101,
+      102
+    ],
+    "LevelImage": "SpriteOutput/UI/Quest/MatchThree/MTChallengeTaskIcon1.png",
+    "LevelName": {
+      "Hash": -1379993241
+    },
+    "GoMissionCondition": 0,
+    "MissionDescription": {
+      "Hash": 371857150
+    },
+    "LoseDesc": {
+      "Hash": 1404158104
+    },
+    "PlayerID": 0,
+    "VictoryDesc": {
+      "Hash": 1615685087
+    },
+    "RewardID": 230011,
+    "HPmax": 100,
+    "LevelDescription": {
+      "Hash": -1171028300
+    },
+    "OpponentBirdID": 301,
+    "TurnStep": 10,
+    "LevelID": 1100,
+    "OpponentID": 112,
+    "PlayerBirdID": 300,
+    "LevelMission": 0,
+    "Mode": 2,
+    "UnlockID": 802310506
+  },
+  {
+    "EnvironmentID": [
+      202,
+      201
+    ],
+    "VSTalkList": [
+      201,
+      202,
+      204
+    ],
+    "LevelImage": "SpriteOutput/UI/Quest/MatchThree/MTChallengeTaskIcon2.png",
+    "LevelName": {
+      "Hash": 267160935
+    },
+    "GoMissionCondition": 802310303,
+    "MissionDescription": {
+      "Hash": 331709368
+    },
+    "LoseDesc": {
+      "Hash": 1404161304
+    },
+    "PlayerID": 0,
+    "VictoryDesc": {
+      "Hash": 857461855
+    },
+    "RewardID": 230002,
+    "HPmax": 100,
+    "LevelDescription": {
+      "Hash": -1171029452
+    },
+    "OpponentBirdID": 302,
+    "TurnStep": 10,
+    "LevelID": 1200,
+    "OpponentID": 121,
+    "PlayerBirdID": 301,
+    "LevelMission": 802310304,
+    "Mode": 1,
+    "UnlockID": 802310206
+  },
+  {
+    "EnvironmentID": [
+      201,
+      202,
+      203,
+      204,
+      205
+    ],
+    "VSTalkList": [
+      204,
+      201,
+      202
+    ],
+    "LevelImage": "SpriteOutput/UI/Quest/MatchThree/MTChallengeTaskIcon2.png",
+    "LevelName": {
+      "Hash": 670445462
+    },
+    "GoMissionCondition": 0,
+    "MissionDescription": {
+      "Hash": 371857150
+    },
+    "LoseDesc": {
+      "Hash": 1404161301
+    },
+    "PlayerID": 0,
+    "VictoryDesc": {
+      "Hash": 454177328
+    },
+    "RewardID": 230012,
+    "HPmax": 100,
+    "LevelDescription": {
+      "Hash": -1171029451
+    },
+    "OpponentBirdID": 302,
+    "TurnStep": 10,
+    "LevelID": 1200,
+    "OpponentID": 122,
+    "PlayerBirdID": 301,
+    "LevelMission": 0,
+    "Mode": 2,
+    "UnlockID": 802310506
+  },
+  {
+    "EnvironmentID": [
+      203,
+      201,
+      202
+    ],
+    "VSTalkList": [
+      301,
+      302,
+      304
+    ],
+    "LevelImage": "SpriteOutput/UI/Quest/MatchThree/MTChallengeTaskIcon3.png",
+    "LevelName": {
+      "Hash": -1703499188
+    },
+    "GoMissionCondition": 802310408,
+    "MissionDescription": {
+      "Hash": 331706169
+    },
+    "LoseDesc": {
+      "Hash": 1404160279
+    },
+    "PlayerID": 0,
+    "VictoryDesc": {
+      "Hash": 1939191034
+    },
+    "RewardID": 230003,
+    "HPmax": 100,
+    "LevelDescription": {
+      "Hash": -1171030477
+    },
+    "OpponentBirdID": 303,
+    "TurnStep": 10,
+    "LevelID": 1300,
+    "OpponentID": 131,
+    "PlayerBirdID": 302,
+    "LevelMission": 802310403,
+    "Mode": 1,
+    "UnlockID": 802310305
+  },
+  {
+    "EnvironmentID": [
+      201,
+      202,
+      203,
+      204,
+      205
+    ],
+    "VSTalkList": [
+      304,
+      301,
+      302
+    ],
+    "LevelImage": "SpriteOutput/UI/Quest/MatchThree/MTChallengeTaskIcon3.png",
+    "LevelName": {
+      "Hash": -137415247
+    },
+    "GoMissionCondition": 0,
+    "MissionDescription": {
+      "Hash": 371857150
+    },
+    "LoseDesc": {
+      "Hash": 1404160278
+    },
+    "PlayerID": 0,
+    "VictoryDesc": {
+      "Hash": 373107093
+    },
+    "RewardID": 230013,
+    "HPmax": 100,
+    "LevelDescription": {
+      "Hash": -1171030474
+    },
+    "OpponentBirdID": 303,
+    "TurnStep": 10,
+    "LevelID": 1300,
+    "OpponentID": 132,
+    "PlayerBirdID": 302,
+    "LevelMission": 0,
+    "Mode": 2,
+    "UnlockID": 802310506
+  },
+  {
+    "EnvironmentID": [
+      204,
+      201,
+      202,
+      203
+    ],
+    "VSTalkList": [
+      401,
+      402,
+      404
+    ],
+    "LevelImage": "SpriteOutput/UI/Quest/MatchThree/MTChallengeTaskIcon4.png",
+    "LevelName": {
+      "Hash": -459629539
+    },
+    "GoMissionCondition": 802310511,
+    "MissionDescription": {
+      "Hash": 331702834
+    },
+    "LoseDesc": {
+      "Hash": 1404163482
+    },
+    "PlayerID": 0,
+    "VictoryDesc": {
+      "Hash": -1322909567
+    },
+    "RewardID": 230004,
+    "HPmax": 100,
+    "LevelDescription": {
+      "Hash": -1171022918
+    },
+    "OpponentBirdID": 304,
+    "TurnStep": 10,
+    "LevelID": 1400,
+    "OpponentID": 141,
+    "PlayerBirdID": 303,
+    "LevelMission": 802310503,
+    "Mode": 1,
+    "UnlockID": 802310406
+  },
+  {
+    "EnvironmentID": [
+      201,
+      202,
+      203,
+      204,
+      205
+    ],
+    "VSTalkList": [
+      404,
+      401,
+      402
+    ],
+    "LevelImage": "SpriteOutput/UI/Quest/MatchThree/MTChallengeTaskIcon4.png",
+    "LevelName": {
+      "Hash": -2025713480
+    },
+    "GoMissionCondition": 0,
+    "MissionDescription": {
+      "Hash": 371857150
+    },
+    "LoseDesc": {
+      "Hash": 1404163483
+    },
+    "PlayerID": 0,
+    "VictoryDesc": {
+      "Hash": 243174374
+    },
+    "RewardID": 230014,
+    "HPmax": 100,
+    "LevelDescription": {
+      "Hash": -1171022921
+    },
+    "OpponentBirdID": 304,
+    "TurnStep": 10,
+    "LevelID": 1400,
+    "OpponentID": 142,
+    "PlayerBirdID": 303,
+    "LevelMission": 0,
+    "Mode": 2,
+    "UnlockID": 802310506
+  },
+  {
+    "EnvironmentID": [
+      205,
+      201,
+      202,
+      203,
+      204
+    ],
+    "VSTalkList": [
+      501,
+      502,
+      504
+    ],
+    "LevelImage": "SpriteOutput/UI/Quest/MatchThree/MTChallengeTaskIcon5.png",
+    "LevelName": {
+      "Hash": 1864677634
+    },
+    "GoMissionCondition": 0,
+    "MissionDescription": {
+      "Hash": 371857150
+    },
+    "LoseDesc": {
+      "Hash": 1404162457
+    },
+    "PlayerID": 0,
+    "VictoryDesc": {
+      "Hash": -241180388
+    },
+    "RewardID": 230005,
+    "HPmax": 100,
+    "LevelDescription": {
+      "Hash": -1171023943
+    },
+    "OpponentBirdID": 305,
+    "TurnStep": 10,
+    "LevelID": 1500,
+    "OpponentID": 151,
+    "PlayerBirdID": 304,
+    "LevelMission": 802310505,
+    "Mode": 1,
+    "UnlockID": 802310504
+  },
+  {
+    "EnvironmentID": [
+      201,
+      202,
+      203,
+      204,
+      205
+    ],
+    "VSTalkList": [
+      504,
+      501,
+      502
+    ],
+    "LevelImage": "SpriteOutput/UI/Quest/MatchThree/MTChallengeTaskIcon5.png",
+    "LevelName": {
+      "Hash": 1461393107
+    },
+    "GoMissionCondition": 0,
+    "MissionDescription": {
+      "Hash": 371857150
+    },
+    "LoseDesc": {
+      "Hash": 1404162460
+    },
+    "PlayerID": 0,
+    "VictoryDesc": {
+      "Hash": 162104139
+    },
+    "RewardID": 230015,
+    "HPmax": 100,
+    "LevelDescription": {
+      "Hash": -1171023944
+    },
+    "OpponentBirdID": 305,
+    "TurnStep": 10,
+    "LevelID": 1500,
+    "OpponentID": 152,
+    "PlayerBirdID": 304,
+    "LevelMission": 0,
+    "Mode": 2,
+    "UnlockID": 802310506
+  },
+  {
+    "EnvironmentID": [],
+    "VSTalkList": [],
+    "LevelImage": "",
+    "LevelName": {
+      "Hash": 371857150
+    },
+    "GoMissionCondition": 0,
+    "MissionDescription": {
+      "Hash": 371857150
+    },
+    "LoseDesc": {
+      "Hash": 371857150
+    },
+    "PlayerID": 0,
+    "VictoryDesc": {
+      "Hash": 371857150
+    },
+    "RewardID": 0,
+    "HPmax": 10,
+    "LevelDescription": {
+      "Hash": 371857150
+    },
+    "OpponentBirdID": 310,
+    "TurnStep": 10,
+    "LevelID": 1999,
+    "OpponentID": 999,
+    "PlayerBirdID": 311,
+    "LevelMission": 0,
+    "Mode": 0,
+    "UnlockID": 0
+  },
+  {
+    "EnvironmentID": [],
+    "VSTalkList": [],
+    "LevelImage": "",
+    "LevelName": {
+      "Hash": 371857150
+    },
+    "GoMissionCondition": 0,
+    "MissionDescription": {
+      "Hash": 371857150
+    },
+    "LoseDesc": {
+      "Hash": 371857150
+    },
+    "PlayerID": 0,
+    "VictoryDesc": {
+      "Hash": 371857150
+    },
+    "RewardID": 0,
+    "HPmax": 200,
+    "LevelDescription": {
+      "Hash": 371857150
+    },
+    "OpponentBirdID": 310,
+    "TurnStep": 10,
+    "LevelID": 1998,
+    "OpponentID": 998,
+    "PlayerBirdID": 304,
+    "LevelMission": 0,
+    "Mode": 0,
+    "UnlockID": 0
+  },
+  {
+    "EnvironmentID": [],
+    "VSTalkList": [],
+    "LevelImage": "",
+    "LevelName": {
+      "Hash": 371857150
+    },
+    "GoMissionCondition": 0,
+    "MissionDescription": {
+      "Hash": 371857150
+    },
+    "LoseDesc": {
+      "Hash": 371857150
+    },
+    "PlayerID": 0,
+    "VictoryDesc": {
+      "Hash": 371857150
+    },
+    "RewardID": 0,
+    "HPmax": 200,
+    "LevelDescription": {
+      "Hash": 371857150
+    },
+    "OpponentBirdID": 310,
+    "TurnStep": 10,
+    "LevelID": 1997,
+    "OpponentID": 997,
+    "PlayerBirdID": 304,
+    "LevelMission": 0,
+    "Mode": 0,
+    "UnlockID": 0
+  },
+  {
+    "EnvironmentID": [],
+    "VSTalkList": [],
+    "LevelImage": "",
+    "LevelName": {
+      "Hash": 371857150
+    },
+    "GoMissionCondition": 0,
+    "MissionDescription": {
+      "Hash": 371857150
+    },
+    "LoseDesc": {
+      "Hash": 371857150
+    },
+    "PlayerID": 0,
+    "VictoryDesc": {
+      "Hash": 371857150
+    },
+    "RewardID": 0,
+    "HPmax": 200,
+    "LevelDescription": {
+      "Hash": 371857150
+    },
+    "OpponentBirdID": 310,
+    "TurnStep": 10,
+    "LevelID": 1996,
+    "OpponentID": 996,
+    "PlayerBirdID": 303,
+    "LevelMission": 0,
+    "Mode": 0,
+    "UnlockID": 0
+  },
+  {
+    "EnvironmentID": [],
+    "VSTalkList": [],
+    "LevelImage": "",
+    "LevelName": {
+      "Hash": 371857150
+    },
+    "GoMissionCondition": 0,
+    "MissionDescription": {
+      "Hash": 371857150
+    },
+    "LoseDesc": {
+      "Hash": 371857150
+    },
+    "PlayerID": 0,
+    "VictoryDesc": {
+      "Hash": 371857150
+    },
+    "RewardID": 0,
+    "HPmax": 200,
+    "LevelDescription": {
+      "Hash": 371857150
+    },
+    "OpponentBirdID": 310,
+    "TurnStep": 10,
+    "LevelID": 1995,
+    "OpponentID": 995,
+    "PlayerBirdID": 303,
+    "LevelMission": 0,
+    "Mode": 0,
+    "UnlockID": 0
+  },
+  {
+    "EnvironmentID": [],
+    "VSTalkList": [],
+    "LevelImage": "",
+    "LevelName": {
+      "Hash": 371857150
+    },
+    "GoMissionCondition": 0,
+    "MissionDescription": {
+      "Hash": 371857150
+    },
+    "LoseDesc": {
+      "Hash": 371857150
+    },
+    "PlayerID": 0,
+    "VictoryDesc": {
+      "Hash": 371857150
+    },
+    "RewardID": 0,
+    "HPmax": 200,
+    "LevelDescription": {
+      "Hash": 371857150
+    },
+    "OpponentBirdID": 310,
+    "TurnStep": 10,
+    "LevelID": 1994,
+    "OpponentID": 994,
+    "PlayerBirdID": 302,
+    "LevelMission": 0,
+    "Mode": 0,
+    "UnlockID": 0
+  },
+  {
+    "EnvironmentID": [],
+    "VSTalkList": [],
+    "LevelImage": "",
+    "LevelName": {
+      "Hash": 371857150
+    },
+    "GoMissionCondition": 0,
+    "MissionDescription": {
+      "Hash": 371857150
+    },
+    "LoseDesc": {
+      "Hash": 371857150
+    },
+    "PlayerID": 0,
+    "VictoryDesc": {
+      "Hash": 371857150
+    },
+    "RewardID": 0,
+    "HPmax": 200,
+    "LevelDescription": {
+      "Hash": 371857150
+    },
+    "OpponentBirdID": 310,
+    "TurnStep": 10,
+    "LevelID": 1993,
+    "OpponentID": 993,
+    "PlayerBirdID": 302,
+    "LevelMission": 0,
+    "Mode": 0,
+    "UnlockID": 0
+  },
+  {
+    "EnvironmentID": [],
+    "VSTalkList": [],
+    "LevelImage": "",
+    "LevelName": {
+      "Hash": 371857150
+    },
+    "GoMissionCondition": 0,
+    "MissionDescription": {
+      "Hash": 371857150
+    },
+    "LoseDesc": {
+      "Hash": 371857150
+    },
+    "PlayerID": 0,
+    "VictoryDesc": {
+      "Hash": 371857150
+    },
+    "RewardID": 0,
+    "HPmax": 200,
+    "LevelDescription": {
+      "Hash": 371857150
+    },
+    "OpponentBirdID": 310,
+    "TurnStep": 10,
+    "LevelID": 1992,
+    "OpponentID": 992,
+    "PlayerBirdID": 301,
+    "LevelMission": 0,
+    "Mode": 0,
+    "UnlockID": 0
+  },
+  {
+    "EnvironmentID": [],
+    "VSTalkList": [],
+    "LevelImage": "",
+    "LevelName": {
+      "Hash": 371857150
+    },
+    "GoMissionCondition": 0,
+    "MissionDescription": {
+      "Hash": 371857150
+    },
+    "LoseDesc": {
+      "Hash": 371857150
+    },
+    "PlayerID": 0,
+    "VictoryDesc": {
+      "Hash": 371857150
+    },
+    "RewardID": 0,
+    "HPmax": 200,
+    "LevelDescription": {
+      "Hash": 371857150
+    },
+    "OpponentBirdID": 310,
+    "TurnStep": 3,
+    "LevelID": 1991,
+    "OpponentID": 991,
+    "PlayerBirdID": 301,
+    "LevelMission": 0,
+    "Mode": 0,
+    "UnlockID": 0
+  },
+  {
+    "EnvironmentID": [],
+    "VSTalkList": [],
+    "LevelImage": "",
+    "LevelName": {
+      "Hash": 371857150
+    },
+    "GoMissionCondition": 0,
+    "MissionDescription": {
+      "Hash": 371857150
+    },
+    "LoseDesc": {
+      "Hash": 371857150
+    },
+    "PlayerID": 0,
+    "VictoryDesc": {
+      "Hash": 371857150
+    },
+    "RewardID": 0,
+    "HPmax": 200,
+    "LevelDescription": {
+      "Hash": 371857150
+    },
+    "OpponentBirdID": 310,
+    "TurnStep": 10,
+    "LevelID": 1990,
+    "OpponentID": 990,
+    "PlayerBirdID": 300,
+    "LevelMission": 0,
+    "Mode": 0,
+    "UnlockID": 0
+  },
+  {
+    "EnvironmentID": [],
+    "VSTalkList": [],
+    "LevelImage": "",
+    "LevelName": {
+      "Hash": 371857150
+    },
+    "GoMissionCondition": 0,
+    "MissionDescription": {
+      "Hash": 371857150
+    },
+    "LoseDesc": {
+      "Hash": 371857150
+    },
+    "PlayerID": 0,
+    "VictoryDesc": {
+      "Hash": 371857150
+    },
+    "RewardID": 0,
+    "HPmax": 200,
+    "LevelDescription": {
+      "Hash": 371857150
+    },
+    "OpponentBirdID": 310,
+    "TurnStep": 3,
+    "LevelID": 1989,
+    "OpponentID": 989,
+    "PlayerBirdID": 300,
+    "LevelMission": 0,
+    "Mode": 0,
+    "UnlockID": 0
+  }
+]

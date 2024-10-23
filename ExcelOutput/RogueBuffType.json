@@ -1,0 +1,244 @@
+[
+  {
+    "RugueBuffTypeRewardQuestList": [],
+    "RogueBuffTypeIcon": "SpriteOutput/TabIcon/Common/AllIcon.png",
+    "RogueBuffDisplayGod": 0,
+    "RogueBuffTypeTitle": {
+      "Hash": 766147749
+    },
+    "HintDesc": {
+      "Hash": 371857150
+    },
+    "RogueBuffTypeSubTitle": {
+      "Hash": -1314107015
+    },
+    "RogueBuffTypeTextmapID": {
+      "Hash": -1094549511
+    },
+    "RogueBuffType": 100
+  },
+  {
+    "RugueBuffTypeRewardQuestList": [
+      3000101,
+      3000102,
+      3000103,
+      3000104,
+      3000130,
+      3000148
+    ],
+    "RogueBuffTypeIcon": "SpriteOutput/ProfessionIconMiddle/IconProfessionKnightMiddle.png",
+    "RogueBuffDisplayGod": 0,
+    "RogueBuffTypeTitle": {
+      "Hash": 766147747
+    },
+    "HintDesc": {
+      "Hash": 371857150
+    },
+    "RogueBuffTypeSubTitle": {
+      "Hash": 1818060867
+    },
+    "RogueBuffTypeTextmapID": {
+      "Hash": -1094549513
+    },
+    "RogueBuffType": 120
+  },
+  {
+    "RugueBuffTypeRewardQuestList": [
+      3000105,
+      3000106,
+      3000107,
+      3000108,
+      3000131,
+      3000149
+    ],
+    "RogueBuffTypeIcon": "SpriteOutput/ProfessionIconMiddle/IconProfessionMemoryMiddle.png",
+    "RogueBuffDisplayGod": 0,
+    "RogueBuffTypeTitle": {
+      "Hash": -1962735608
+    },
+    "HintDesc": {
+      "Hash": 371857150
+    },
+    "RogueBuffTypeSubTitle": {
+      "Hash": 1818060868
+    },
+    "RogueBuffTypeTextmapID": {
+      "Hash": 471534428
+    },
+    "RogueBuffType": 121
+  },
+  {
+    "RugueBuffTypeRewardQuestList": [
+      3000121,
+      3000122,
+      3000123,
+      3000124,
+      3000135,
+      3000153
+    ],
+    "RogueBuffTypeIcon": "SpriteOutput/ProfessionIconMiddle/IconProfessionWarlockMiddle.png",
+    "RogueBuffDisplayGod": 0,
+    "RogueBuffTypeTitle": {
+      "Hash": 1928947161
+    },
+    "HintDesc": {
+      "Hash": -1993026018
+    },
+    "RogueBuffTypeSubTitle": {
+      "Hash": 1818060869
+    },
+    "RogueBuffTypeTextmapID": {
+      "Hash": 68249901
+    },
+    "RogueBuffType": 122
+  },
+  {
+    "RugueBuffTypeRewardQuestList": [
+      3000125,
+      3000126,
+      3000127,
+      3000128,
+      3000136,
+      3000154
+    ],
+    "RogueBuffTypeIcon": "SpriteOutput/ProfessionIconMiddle/IconProfessionPirestMiddle.png",
+    "RogueBuffDisplayGod": 0,
+    "RogueBuffTypeTitle": {
+      "Hash": -799936194
+    },
+    "HintDesc": {
+      "Hash": -426942077
+    },
+    "RogueBuffTypeSubTitle": {
+      "Hash": 1818060870
+    },
+    "RogueBuffTypeTextmapID": {
+      "Hash": 1634333842
+    },
+    "RogueBuffType": 123
+  },
+  {
+    "RugueBuffTypeRewardQuestList": [
+      3000113,
+      3000114,
+      3000115,
+      3000116,
+      3000133,
+      3000151
+    ],
+    "RogueBuffTypeIcon": "SpriteOutput/ProfessionIconMiddle/IconProfessionRogueMiddle.png",
+    "RogueBuffDisplayGod": 0,
+    "RogueBuffTypeTitle": {
+      "Hash": -1203220721
+    },
+    "HintDesc": {
+      "Hash": -1186456964
+    },
+    "RogueBuffTypeSubTitle": {
+      "Hash": 1818060863
+    },
+    "RogueBuffTypeTextmapID": {
+      "Hash": 1231049315
+    },
+    "RogueBuffType": 124
+  },
+  {
+    "RugueBuffTypeRewardQuestList": [
+      3000117,
+      3000118,
+      3000119,
+      3000120,
+      3000134,
+      3000152
+    ],
+    "RogueBuffTypeIcon": "SpriteOutput/ProfessionIconMiddle/IconProfessionWarriorMiddle.png",
+    "RogueBuffDisplayGod": 0,
+    "RogueBuffTypeTitle": {
+      "Hash": 362863220
+    },
+    "HintDesc": {
+      "Hash": 379626977
+    },
+    "RogueBuffTypeSubTitle": {
+      "Hash": 1818060864
+    },
+    "RogueBuffTypeTextmapID": {
+      "Hash": -1497834040
+    },
+    "RogueBuffType": 125
+  },
+  {
+    "RugueBuffTypeRewardQuestList": [
+      3000109,
+      3000110,
+      3000111,
+      3000112,
+      3000132,
+      3000150
+    ],
+    "RogueBuffTypeIcon": "SpriteOutput/ProfessionIconMiddle/IconProfessionJoyMiddle.png",
+    "RogueBuffDisplayGod": 0,
+    "RogueBuffTypeTitle": {
+      "Hash": -40421307
+    },
+    "HintDesc": {
+      "Hash": 371857150
+    },
+    "RogueBuffTypeSubTitle": {
+      "Hash": 1818060865
+    },
+    "RogueBuffTypeTextmapID": {
+      "Hash": -1901118567
+    },
+    "RogueBuffType": 126
+  },
+  {
+    "RugueBuffTypeRewardQuestList": [
+      3000137,
+      3000138,
+      3000139,
+      3000140,
+      3000141,
+      3000155
+    ],
+    "RogueBuffTypeIcon": "SpriteOutput/ProfessionIconMiddle/IconProfessionPropagationMiddle.png",
+    "RogueBuffDisplayGod": 0,
+    "RogueBuffTypeTitle": {
+      "Hash": 1525662634
+    },
+    "HintDesc": {
+      "Hash": 1542426391
+    },
+    "RogueBuffTypeSubTitle": {
+      "Hash": 1818060866
+    },
+    "RogueBuffTypeTextmapID": {
+      "Hash": -335034626
+    },
+    "RogueBuffType": 127
+  },
+  {
+    "RugueBuffTypeRewardQuestList": [
+      3000143,
+      3000144,
+      3000145,
+      3000146,
+      3000147
+    ],
+    "RogueBuffTypeIcon": "SpriteOutput/ProfessionIconMiddle/IconProfessionMageMiddle.png",
+    "RogueBuffDisplayGod": 0,
+    "RogueBuffTypeTitle": {
+      "Hash": 1122378107
+    },
+    "HintDesc": {
+      "Hash": 1495372224
+    },
+    "RogueBuffTypeSubTitle": {
+      "Hash": 1818060875
+    },
+    "RogueBuffTypeTextmapID": {
+      "Hash": -738319153
+    },
+    "RogueBuffType": 128
+  }
+]

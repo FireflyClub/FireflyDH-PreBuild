@@ -1,0 +1,177 @@
+[
+  {
+    "BGMStageState": "MusicRhythm_OrigamiUniversity_Stage_Jrock",
+    "BGMMenuState": "State_Menu_Season_MusicPruduction_Jrock",
+    "SoundEffectIDList": [
+      11,
+      12,
+      13,
+      14
+    ],
+    "GridNumList": [
+      2,
+      3,
+      3,
+      4,
+      4,
+      2,
+      2,
+      4,
+      2,
+      2,
+      2,
+      3
+    ],
+    "TrackIDList": [
+      11,
+      12,
+      13
+    ],
+    "MixingWaveMatPath": "UI/Materials/Quest/MusicRhythm/UI_MusicMixing_BarChart_01.mat",
+    "PresetIDList": [
+      1,
+      2
+    ],
+    "PresetStartGrid": 1,
+    "SoundEffectUnlockSubMission": 802610423,
+    "UnlockType": 3,
+    "ID": 1,
+    "GridNum": 10,
+    "GridTransitionTime": 412,
+    "PresetEndGrid": 12,
+    "SongName": {
+      "Hash": -1559036071
+    },
+    "LimitSubMission": 0,
+    "UnlockTypeParam": 802610216
+  },
+  {
+    "BGMStageState": "MusicRhythm_OrigamiUniversity_Stage_Disco",
+    "BGMMenuState": "State_Menu_Season_MusicPruduction_Disco",
+    "SoundEffectIDList": [
+      21,
+      22,
+      23,
+      24
+    ],
+    "GridNumList": [
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      5
+    ],
+    "TrackIDList": [
+      21,
+      22,
+      23
+    ],
+    "MixingWaveMatPath": "UI/Materials/Quest/MusicRhythm/UI_MusicMixing_BarChart_02.mat",
+    "PresetIDList": [
+      4,
+      5
+    ],
+    "PresetStartGrid": 1,
+    "SoundEffectUnlockSubMission": 802610423,
+    "UnlockType": 3,
+    "ID": 2,
+    "GridNum": 10,
+    "GridTransitionTime": 134,
+    "PresetEndGrid": 9,
+    "SongName": {
+      "Hash": 7047870
+    },
+    "LimitSubMission": 0,
+    "UnlockTypeParam": 802610315
+  },
+  {
+    "BGMStageState": "MusicRhythm_OrigamiUniversity_Stage_DeepHouse",
+    "BGMMenuState": "State_Menu_Season_MusicPruduction_DeepHouse",
+    "SoundEffectIDList": [
+      31,
+      32,
+      33,
+      34
+    ],
+    "GridNumList": [
+      4,
+      4,
+      4,
+      4,
+      4,
+      2,
+      4,
+      5
+    ],
+    "TrackIDList": [
+      31,
+      32,
+      33
+    ],
+    "MixingWaveMatPath": "UI/Materials/Quest/MusicRhythm/UI_MusicMixing_BarChart_04.mat",
+    "PresetIDList": [
+      7,
+      8
+    ],
+    "PresetStartGrid": 4,
+    "SoundEffectUnlockSubMission": 802610423,
+    "UnlockType": 3,
+    "ID": 3,
+    "GridNum": 8,
+    "GridTransitionTime": 121,
+    "PresetEndGrid": 8,
+    "SongName": {
+      "Hash": 1573131811
+    },
+    "LimitSubMission": 0,
+    "UnlockTypeParam": 802610414
+  },
+  {
+    "BGMStageState": "MusicRhythm_OrigamiUniversity_Stage_HipHop",
+    "BGMMenuState": "State_Menu_Season_MusicPruduction_HipHop",
+    "SoundEffectIDList": [
+      41,
+      42,
+      43,
+      44
+    ],
+    "GridNumList": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      3
+    ],
+    "TrackIDList": [
+      41,
+      42,
+      43
+    ],
+    "MixingWaveMatPath": "UI/Materials/Quest/MusicRhythm/UI_MusicMixing_BarChart_03.mat",
+    "PresetIDList": [
+      9,
+      10
+    ],
+    "PresetStartGrid": 1,
+    "SoundEffectUnlockSubMission": 802610423,
+    "UnlockType": 2,
+    "ID": 4,
+    "GridNum": 6,
+    "GridTransitionTime": 129,
+    "PresetEndGrid": 10,
+    "SongName": {
+      "Hash": -799521184
+    },
+    "LimitSubMission": 0,
+    "UnlockTypeParam": 1
+  }
+]

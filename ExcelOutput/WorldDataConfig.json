@@ -1,0 +1,147 @@
+[
+  {
+    "ChronicleWorldSubBgPath": "",
+    "MapSpaceTypeList": [
+      "Unknow"
+    ],
+    "ChronicleWorldPredictPath": "",
+    "SmallWorldIconPath": "",
+    "ChapterIconBigPath": "SpriteOutput/Mission/ChapterIconBig/ChapterIconBigPrologue.png",
+    "DynamicOptionalBlock": "100",
+    "ChronicleWorldProcessingPath": "",
+    "ChronicleWorldBgPath": "",
+    "WorldName": {
+      "Hash": 1240267000
+    },
+    "WorldLanguageName": {
+      "Hash": -2089063610
+    },
+    "IsShow": false,
+    "IsRealWorld": false,
+    "ID": 100,
+    "TrainSpaceType": "Unknow",
+    "CameraWidth": 30,
+    "CameraHeight": 33
+  },
+  {
+    "ChronicleWorldSubBgPath": "SpriteOutput/Chronicle/ChroniclePage02BgWorld00.png",
+    "MapSpaceTypeList": [
+      "Unknow"
+    ],
+    "ChronicleWorldPredictPath": "SpriteOutput/Chronicle/ImgChronicle_EmptyWorld00.png",
+    "SmallWorldIconPath": "SpriteOutput/TabIcon/World/World00Icon.png",
+    "ChapterIconBigPath": "SpriteOutput/Mission/ChapterIconBig/ChapterIconBigPrologue.png",
+    "DynamicOptionalBlock": "101",
+    "ChronicleWorldProcessingPath": "SpriteOutput/Chronicle/ImgChronicle_ProgressWorld00.png",
+    "ChronicleWorldBgPath": "SpriteOutput/Chronicle/ChroniclePageBgWorld00.png",
+    "WorldName": {
+      "Hash": 1240267001
+    },
+    "WorldLanguageName": {
+      "Hash": -2089063609
+    },
+    "IsShow": true,
+    "IsRealWorld": true,
+    "ID": 101,
+    "TrainSpaceType": "Unknow",
+    "CameraWidth": 58,
+    "CameraHeight": 33
+  },
+  {
+    "ChronicleWorldSubBgPath": "SpriteOutput/Chronicle/ChroniclePage02BgWorld01.png",
+    "MapSpaceTypeList": [
+      "Unknow"
+    ],
+    "ChronicleWorldPredictPath": "SpriteOutput/Chronicle/ImgChronicle_EmptyWorld01.png",
+    "SmallWorldIconPath": "SpriteOutput/TabIcon/World/World01Icon.png",
+    "ChapterIconBigPath": "SpriteOutput/Mission/ChapterIconBig/ChapterIconBigFirstworld.png",
+    "DynamicOptionalBlock": "201",
+    "ChronicleWorldProcessingPath": "SpriteOutput/Chronicle/ImgChronicle_ProgressWorld01.png",
+    "ChronicleWorldBgPath": "SpriteOutput/Chronicle/ChroniclePageBgWorld01.png",
+    "WorldName": {
+      "Hash": 1240266902
+    },
+    "WorldLanguageName": {
+      "Hash": -2089063576
+    },
+    "IsShow": true,
+    "IsRealWorld": true,
+    "ID": 201,
+    "TrainSpaceType": "Unknow",
+    "CameraWidth": 58,
+    "CameraHeight": 33
+  },
+  {
+    "ChronicleWorldSubBgPath": "SpriteOutput/Chronicle/ChroniclePage02BgWorld02.png",
+    "MapSpaceTypeList": [
+      "Unknow"
+    ],
+    "ChronicleWorldPredictPath": "SpriteOutput/Chronicle/ImgChronicle_EmptyWorld02.png",
+    "SmallWorldIconPath": "SpriteOutput/TabIcon/World/World02Icon.png",
+    "ChapterIconBigPath": "SpriteOutput/Mission/ChapterIconBig/ChapterIconBigSecondworld.png",
+    "DynamicOptionalBlock": "301",
+    "ChronicleWorldProcessingPath": "SpriteOutput/Chronicle/ImgChronicle_ProgressWorld02.png",
+    "ChronicleWorldBgPath": "SpriteOutput/Chronicle/ChroniclePageBgWorld02.png",
+    "WorldName": {
+      "Hash": 1240266935
+    },
+    "WorldLanguageName": {
+      "Hash": -2089063543
+    },
+    "IsShow": true,
+    "IsRealWorld": true,
+    "ID": 301,
+    "TrainSpaceType": "Unknow",
+    "CameraWidth": 66,
+    "CameraHeight": 33
+  },
+  {
+    "ChronicleWorldSubBgPath": "SpriteOutput/Chronicle/ChroniclePage02BgWorld03.png",
+    "MapSpaceTypeList": [
+      "Reality",
+      "Dream"
+    ],
+    "ChronicleWorldPredictPath": "SpriteOutput/Chronicle/ImgChronicle_EmptyWorld03.png",
+    "SmallWorldIconPath": "SpriteOutput/TabIcon/World/World03Icon.png",
+    "ChapterIconBigPath": "SpriteOutput/Mission/ChapterIconBig/ChapterIconBigThirdWorld.png",
+    "DynamicOptionalBlock": "401",
+    "ChronicleWorldProcessingPath": "SpriteOutput/Chronicle/ImgChronicle_ProgressWorld03.png",
+    "ChronicleWorldBgPath": "SpriteOutput/Chronicle/ChroniclePageBgWorld03.png",
+    "WorldName": {
+      "Hash": 1240266836
+    },
+    "WorldLanguageName": {
+      "Hash": -2089063774
+    },
+    "IsShow": true,
+    "IsRealWorld": true,
+    "ID": 401,
+    "TrainSpaceType": "Reality",
+    "CameraWidth": 75,
+    "CameraHeight": 33
+  },
+  {
+    "ChronicleWorldSubBgPath": "",
+    "MapSpaceTypeList": [
+      "Unknow"
+    ],
+    "ChronicleWorldPredictPath": "",
+    "SmallWorldIconPath": "",
+    "ChapterIconBigPath": "",
+    "DynamicOptionalBlock": "100",
+    "ChronicleWorldProcessingPath": "",
+    "ChronicleWorldBgPath": "",
+    "WorldName": {
+      "Hash": 371857150
+    },
+    "WorldLanguageName": {
+      "Hash": 371857150
+    },
+    "IsShow": false,
+    "IsRealWorld": false,
+    "ID": 999,
+    "TrainSpaceType": "Unknow",
+    "CameraWidth": 75,
+    "CameraHeight": 33
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "MapGuideIconPath": "",
+    "SheetID": 1,
+    "ID": 1001,
+    "MapGuideName": {
+      "Hash": -1969734618
+    },
+    "WorldID": 1,
+    "SheetType": 1
+  },
+  {
+    "MapGuideIconPath": "",
+    "SheetID": 2,
+    "ID": 1099,
+    "MapGuideName": {
+      "Hash": -47420309
+    },
+    "WorldID": 1,
+    "SheetType": 2
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "GroupName": "Mission",
+  "AreaAnchorName": "LevelArea_P40101_F40101002_G15",
+  "SaveType": "Permanent",
+  "LoadSide": "Server",
+  "LoadOnInitial": true,
+  "ConflictIDList": [],
+  "StreamingTemplateType": "Standard",
+  "HoyoGroupLowestLoadPlatformQuality": "VeryLow",
+  "AnchorList": [],
+  "MonsterList": [],
+  "PropList": [],
+  "DistrictList": [],
+  "WaypointList": [],
+  "PathwayList": [],
+  "BattleAreaList": [],
+  "NPCList": [],
+  "CrowdList": [],
+  "PedestrianList": []
+}

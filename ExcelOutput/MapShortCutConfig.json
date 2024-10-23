@@ -1,0 +1,269 @@
+[
+  {
+    "Params": [],
+    "IconPath": "SpriteOutput/MapPics/Collect/IconCollect101.png",
+    "EntranceID": 1000001,
+    "ID": 1001,
+    "MappingInfoID": 2463,
+    "Name": {
+      "Hash": -701024599
+    },
+    "UnlockID": 9909,
+    "Type": "WORLD_LEVEL_REWARD"
+  },
+  {
+    "Params": [],
+    "IconPath": "SpriteOutput/MapPics/Collect/IconCollect100.png",
+    "EntranceID": 1000001,
+    "ID": 1002,
+    "MappingInfoID": 2206,
+    "Name": {
+      "Hash": -701024600
+    },
+    "UnlockID": 9911,
+    "Type": "CHALLENGE_TIP"
+  },
+  {
+    "Params": [],
+    "IconPath": "SpriteOutput/MapPics/Collect/IconCollect102.png",
+    "EntranceID": 1000101,
+    "ID": 1003,
+    "MappingInfoID": 2219,
+    "Name": {
+      "Hash": -701024601
+    },
+    "UnlockID": 9910,
+    "Type": "ROGUE_LEVEL_UNLOCK"
+  },
+  {
+    "Params": [],
+    "IconPath": "SpriteOutput/MapPics/Collect/IconCollect102.png",
+    "EntranceID": 1000101,
+    "ID": 1004,
+    "MappingInfoID": 2219,
+    "Name": {
+      "Hash": -701024602
+    },
+    "UnlockID": 9910,
+    "Type": "ROGUE_SCORE_REWARD_REFRESH"
+  },
+  {
+    "Params": [],
+    "IconPath": "SpriteOutput/MapPics/Collect/IconCollect102.png",
+    "EntranceID": 1000101,
+    "ID": 1005,
+    "MappingInfoID": 2219,
+    "Name": {
+      "Hash": -701024603
+    },
+    "UnlockID": 9910,
+    "Type": "ROGUE_SCORE_REWARD_TO_GET"
+  },
+  {
+    "Params": [
+      401
+    ],
+    "IconPath": "SpriteOutput/MapPics/Collect/IconCollect103.png",
+    "EntranceID": 1000101,
+    "ID": 1006,
+    "MappingInfoID": 2236,
+    "Name": {
+      "Hash": -701024604
+    },
+    "UnlockID": 9931,
+    "Type": "SHOP_SCORE_REWARD"
+  },
+  {
+    "Params": [
+      402
+    ],
+    "IconPath": "SpriteOutput/MapPics/Collect/IconCollect103.png",
+    "EntranceID": 1010201,
+    "ID": 1007,
+    "MappingInfoID": 2223,
+    "Name": {
+      "Hash": -701024605
+    },
+    "UnlockID": 9932,
+    "Type": "SHOP_SCORE_REWARD"
+  },
+  {
+    "Params": [
+      403
+    ],
+    "IconPath": "SpriteOutput/MapPics/Collect/IconCollect103.png",
+    "EntranceID": 1020101,
+    "ID": 1008,
+    "MappingInfoID": 2235,
+    "Name": {
+      "Hash": -701024590
+    },
+    "UnlockID": 9933,
+    "Type": "SHOP_SCORE_REWARD"
+  },
+  {
+    "Params": [],
+    "IconPath": "SpriteOutput/MapPics/Collect/IconCollect102.png",
+    "EntranceID": 1000101,
+    "ID": 1009,
+    "MappingInfoID": 2219,
+    "Name": {
+      "Hash": -701024591
+    },
+    "UnlockID": 50006,
+    "Type": "ROGUE_HAND_BOOK_REWARD_TO_GET"
+  },
+  {
+    "Params": [],
+    "IconPath": "SpriteOutput/MapPics/Collect/IconCollect100.png",
+    "EntranceID": 1000001,
+    "ID": 1010,
+    "MappingInfoID": 2206,
+    "Name": {
+      "Hash": 2027858757
+    },
+    "UnlockID": 9911,
+    "Type": "CHALLENGE_NEW_GROUP_UNLOCK"
+  },
+  {
+    "Params": [
+      501
+    ],
+    "IconPath": "SpriteOutput/MapPics/Collect/IconCollect103.png",
+    "EntranceID": 1000101,
+    "ID": 1011,
+    "MappingInfoID": 2219,
+    "Name": {
+      "Hash": 2027858756
+    },
+    "UnlockID": 9910,
+    "Type": "NEW_SHOP_GOOD_ADDED"
+  },
+  {
+    "Params": [],
+    "IconPath": "SpriteOutput/MapPics/Collect/IconCollect100.png",
+    "EntranceID": 1000001,
+    "ID": 1012,
+    "MappingInfoID": 2206,
+    "Name": {
+      "Hash": 2027858755
+    },
+    "UnlockID": 9911,
+    "Type": "CHALLENGE_MEMORY_NEW_SCHEDULE_GROUP_UNLOCK"
+  },
+  {
+    "Params": [],
+    "IconPath": "SpriteOutput/MapPics/Collect/IconCollect104.png",
+    "EntranceID": 1020201,
+    "ID": 1013,
+    "MappingInfoID": 2101,
+    "Name": {
+      "Hash": 2027858754
+    },
+    "UnlockID": 9936,
+    "Type": "CHALLENGE_STORY_NEW_SCHEDULE_GROUP_UNLOCK"
+  },
+  {
+    "Params": [],
+    "IconPath": "SpriteOutput/MapPics/Collect/IconCollect104.png",
+    "EntranceID": 1020201,
+    "ID": 1014,
+    "MappingInfoID": 2101,
+    "Name": {
+      "Hash": 2027858753
+    },
+    "UnlockID": 9936,
+    "Type": "CHALLENGE_STORY_TIP"
+  },
+  {
+    "Params": [
+      203
+    ],
+    "IconPath": "SpriteOutput/MapPics/Collect/IconCollect103.png",
+    "EntranceID": 1000001,
+    "ID": 1015,
+    "MappingInfoID": 2206,
+    "Name": {
+      "Hash": 2027858752
+    },
+    "UnlockID": 9911,
+    "Type": "NEW_SHOP_GOOD_ADDED"
+  },
+  {
+    "Params": [],
+    "IconPath": "SpriteOutput/MapPics/Collect/IconCollect106.png",
+    "EntranceID": 1030402,
+    "ID": 1016,
+    "MappingInfoID": 2103,
+    "Name": {
+      "Hash": 2027858751
+    },
+    "UnlockID": 9941,
+    "Type": "ChallengeBossNew"
+  },
+  {
+    "Params": [],
+    "IconPath": "SpriteOutput/MapPics/Collect/IconCollect106.png",
+    "EntranceID": 1030402,
+    "ID": 1017,
+    "MappingInfoID": 2103,
+    "Name": {
+      "Hash": 2027858750
+    },
+    "UnlockID": 9941,
+    "Type": "ChallengeBossReward"
+  },
+  {
+    "Params": [
+      1
+    ],
+    "IconPath": "SpriteOutput/MapPics/Collect/IconCollect105.png",
+    "EntranceID": 1030101,
+    "ID": 2381,
+    "MappingInfoID": 2381,
+    "Name": {
+      "Hash": -35618207
+    },
+    "UnlockID": 9937,
+    "Type": "OFFERING_REWARD"
+  },
+  {
+    "Params": [
+      4040306,
+      4040302
+    ],
+    "IconPath": "SpriteOutput/MapPics/Collect/IconCollect105.png",
+    "EntranceID": 1030101,
+    "ID": 2382,
+    "MappingInfoID": 2381,
+    "Name": {
+      "Hash": -35618206
+    },
+    "UnlockID": 9937,
+    "Type": "MAINMISSION_TODO"
+  },
+  {
+    "Params": [],
+    "IconPath": "SpriteOutput/MapPics/Collect/IconCollect108.png",
+    "EntranceID": 1000001,
+    "ID": 1018,
+    "MappingInfoID": 2367,
+    "Name": {
+      "Hash": 2027858765
+    },
+    "UnlockID": 10007,
+    "Type": "TrainVisitorReward"
+  },
+  {
+    "Params": [],
+    "IconPath": "SpriteOutput/MapPics/Collect/IconCollect107.png",
+    "EntranceID": 1000003,
+    "ID": 1019,
+    "MappingInfoID": 2455,
+    "Name": {
+      "Hash": 2027858764
+    },
+    "UnlockID": 9909,
+    "Type": "PAM_SKIN_NEW"
+  }
+]

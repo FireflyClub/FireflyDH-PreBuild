@@ -1,0 +1,104 @@
+[
+  {
+    "UnlockPassengerList": [],
+    "PassengerUnlockActPath": "",
+    "TeamIDList": [
+      1
+    ],
+    "ProgressTitle": {
+      "Hash": 2065062191
+    },
+    "ProgressID": 1,
+    "StatRatio": 100,
+    "InitialStatExp": 10,
+    "UnlcokRequireArea": 0,
+    "CoinRatio": 100
+  },
+  {
+    "UnlockPassengerList": [
+      1006
+    ],
+    "PassengerUnlockActPath": "Config/Level/TrainParty/TrainPartyPerformance/TPPerformance_PassengerUnlockAct_1006.json",
+    "TeamIDList": [
+      2
+    ],
+    "ProgressTitle": {
+      "Hash": -1826620578
+    },
+    "ProgressID": 2,
+    "StatRatio": 100,
+    "InitialStatExp": 50,
+    "UnlcokRequireArea": 12,
+    "CoinRatio": 200
+  },
+  {
+    "UnlockPassengerList": [
+      1007
+    ],
+    "PassengerUnlockActPath": "Config/Level/TrainParty/TrainPartyPerformance/TPPerformance_PassengerUnlockAct_1007.json",
+    "TeamIDList": [
+      3
+    ],
+    "ProgressTitle": {
+      "Hash": 902262777
+    },
+    "ProgressID": 3,
+    "StatRatio": 100,
+    "InitialStatExp": 200,
+    "UnlcokRequireArea": 0,
+    "CoinRatio": 500
+  },
+  {
+    "UnlockPassengerList": [
+      1008
+    ],
+    "PassengerUnlockActPath": "Config/Level/TrainParty/TrainPartyPerformance/TPPerformance_PassengerUnlockAct_1008.json",
+    "TeamIDList": [
+      4
+    ],
+    "ProgressTitle": {
+      "Hash": 1661777664
+    },
+    "ProgressID": 4,
+    "StatRatio": 100,
+    "InitialStatExp": 200,
+    "UnlcokRequireArea": 0,
+    "CoinRatio": 800
+  },
+  {
+    "UnlockPassengerList": [
+      1009
+    ],
+    "PassengerUnlockActPath": "Config/Level/TrainParty/TrainPartyPerformance/TPPerformance_PassengerUnlockAct_1009.json",
+    "TeamIDList": [
+      5
+    ],
+    "ProgressTitle": {
+      "Hash": 95693723
+    },
+    "ProgressID": 5,
+    "StatRatio": 500,
+    "InitialStatExp": 300,
+    "UnlcokRequireArea": 0,
+    "CoinRatio": 1200
+  },
+  {
+    "UnlockPassengerList": [],
+    "PassengerUnlockActPath": "",
+    "TeamIDList": [
+      6,
+      2,
+      3,
+      4,
+      5
+    ],
+    "ProgressTitle": {
+      "Hash": 498978250
+    },
+    "ProgressID": 6,
+    "StatRatio": 500,
+    "InitialStatExp": 300,
+    "UnlcokRequireArea": 0,
+    "CoinRatio": 1200
+  }
+]

@@ -1,0 +1,1202 @@
+[
+  {
+    "Level": 1,
+    "ExpType": 1,
+    "Exp": 40
+  },
+  {
+    "Level": 2,
+    "ExpType": 1,
+    "Exp": 60
+  },
+  {
+    "Level": 3,
+    "ExpType": 1,
+    "Exp": 100
+  },
+  {
+    "Level": 4,
+    "ExpType": 1,
+    "Exp": 160
+  },
+  {
+    "Level": 5,
+    "ExpType": 1,
+    "Exp": 220
+  },
+  {
+    "Level": 6,
+    "ExpType": 1,
+    "Exp": 300
+  },
+  {
+    "Level": 7,
+    "ExpType": 1,
+    "Exp": 380
+  },
+  {
+    "Level": 8,
+    "ExpType": 1,
+    "Exp": 480
+  },
+  {
+    "Level": 9,
+    "ExpType": 1,
+    "Exp": 580
+  },
+  {
+    "Level": 10,
+    "ExpType": 1,
+    "Exp": 700
+  },
+  {
+    "Level": 11,
+    "ExpType": 1,
+    "Exp": 820
+  },
+  {
+    "Level": 12,
+    "ExpType": 1,
+    "Exp": 950
+  },
+  {
+    "Level": 13,
+    "ExpType": 1,
+    "Exp": 1090
+  },
+  {
+    "Level": 14,
+    "ExpType": 1,
+    "Exp": 1240
+  },
+  {
+    "Level": 15,
+    "ExpType": 1,
+    "Exp": 1390
+  },
+  {
+    "Level": 16,
+    "ExpType": 1,
+    "Exp": 1560
+  },
+  {
+    "Level": 17,
+    "ExpType": 1,
+    "Exp": 1730
+  },
+  {
+    "Level": 18,
+    "ExpType": 1,
+    "Exp": 1910
+  },
+  {
+    "Level": 19,
+    "ExpType": 1,
+    "Exp": 2090
+  },
+  {
+    "Level": 20,
+    "ExpType": 1,
+    "Exp": 2170
+  },
+  {
+    "Level": 21,
+    "ExpType": 1,
+    "Exp": 2260
+  },
+  {
+    "Level": 22,
+    "ExpType": 1,
+    "Exp": 2350
+  },
+  {
+    "Level": 23,
+    "ExpType": 1,
+    "Exp": 2430
+  },
+  {
+    "Level": 24,
+    "ExpType": 1,
+    "Exp": 2520
+  },
+  {
+    "Level": 25,
+    "ExpType": 1,
+    "Exp": 2620
+  },
+  {
+    "Level": 26,
+    "ExpType": 1,
+    "Exp": 2710
+  },
+  {
+    "Level": 27,
+    "ExpType": 1,
+    "Exp": 2800
+  },
+  {
+    "Level": 28,
+    "ExpType": 1,
+    "Exp": 2900
+  },
+  {
+    "Level": 29,
+    "ExpType": 1,
+    "Exp": 2990
+  },
+  {
+    "Level": 30,
+    "ExpType": 1,
+    "Exp": 3100
+  },
+  {
+    "Level": 31,
+    "ExpType": 1,
+    "Exp": 3200
+  },
+  {
+    "Level": 32,
+    "ExpType": 1,
+    "Exp": 3300
+  },
+  {
+    "Level": 33,
+    "ExpType": 1,
+    "Exp": 3400
+  },
+  {
+    "Level": 34,
+    "ExpType": 1,
+    "Exp": 3510
+  },
+  {
+    "Level": 35,
+    "ExpType": 1,
+    "Exp": 3620
+  },
+  {
+    "Level": 36,
+    "ExpType": 1,
+    "Exp": 3730
+  },
+  {
+    "Level": 37,
+    "ExpType": 1,
+    "Exp": 3830
+  },
+  {
+    "Level": 38,
+    "ExpType": 1,
+    "Exp": 3950
+  },
+  {
+    "Level": 39,
+    "ExpType": 1,
+    "Exp": 4060
+  },
+  {
+    "Level": 40,
+    "ExpType": 1,
+    "Exp": 4170
+  },
+  {
+    "Level": 41,
+    "ExpType": 1,
+    "Exp": 4580
+  },
+  {
+    "Level": 42,
+    "ExpType": 1,
+    "Exp": 4840
+  },
+  {
+    "Level": 43,
+    "ExpType": 1,
+    "Exp": 5110
+  },
+  {
+    "Level": 44,
+    "ExpType": 1,
+    "Exp": 5380
+  },
+  {
+    "Level": 45,
+    "ExpType": 1,
+    "Exp": 5660
+  },
+  {
+    "Level": 46,
+    "ExpType": 1,
+    "Exp": 5950
+  },
+  {
+    "Level": 47,
+    "ExpType": 1,
+    "Exp": 6230
+  },
+  {
+    "Level": 48,
+    "ExpType": 1,
+    "Exp": 6530
+  },
+  {
+    "Level": 49,
+    "ExpType": 1,
+    "Exp": 6830
+  },
+  {
+    "Level": 50,
+    "ExpType": 1,
+    "Exp": 7140
+  },
+  {
+    "Level": 51,
+    "ExpType": 1,
+    "Exp": 7450
+  },
+  {
+    "Level": 52,
+    "ExpType": 1,
+    "Exp": 7760
+  },
+  {
+    "Level": 53,
+    "ExpType": 1,
+    "Exp": 8090
+  },
+  {
+    "Level": 54,
+    "ExpType": 1,
+    "Exp": 8410
+  },
+  {
+    "Level": 55,
+    "ExpType": 1,
+    "Exp": 8750
+  },
+  {
+    "Level": 56,
+    "ExpType": 1,
+    "Exp": 9080
+  },
+  {
+    "Level": 57,
+    "ExpType": 1,
+    "Exp": 9430
+  },
+  {
+    "Level": 58,
+    "ExpType": 1,
+    "Exp": 9770
+  },
+  {
+    "Level": 59,
+    "ExpType": 1,
+    "Exp": 10130
+  },
+  {
+    "Level": 60,
+    "ExpType": 1,
+    "Exp": 10480
+  },
+  {
+    "Level": 61,
+    "ExpType": 1,
+    "Exp": 10970
+  },
+  {
+    "Level": 62,
+    "ExpType": 1,
+    "Exp": 11560
+  },
+  {
+    "Level": 63,
+    "ExpType": 1,
+    "Exp": 12160
+  },
+  {
+    "Level": 64,
+    "ExpType": 1,
+    "Exp": 12760
+  },
+  {
+    "Level": 65,
+    "ExpType": 1,
+    "Exp": 13370
+  },
+  {
+    "Level": 66,
+    "ExpType": 1,
+    "Exp": 13990
+  },
+  {
+    "Level": 67,
+    "ExpType": 1,
+    "Exp": 14620
+  },
+  {
+    "Level": 68,
+    "ExpType": 1,
+    "Exp": 15260
+  },
+  {
+    "Level": 69,
+    "ExpType": 1,
+    "Exp": 15910
+  },
+  {
+    "Level": 70,
+    "ExpType": 1,
+    "Exp": 16570
+  },
+  {
+    "Level": 71,
+    "ExpType": 1,
+    "Exp": 18490
+  },
+  {
+    "Level": 72,
+    "ExpType": 1,
+    "Exp": 20230
+  },
+  {
+    "Level": 73,
+    "ExpType": 1,
+    "Exp": 22000
+  },
+  {
+    "Level": 74,
+    "ExpType": 1,
+    "Exp": 23790
+  },
+  {
+    "Level": 75,
+    "ExpType": 1,
+    "Exp": 25610
+  },
+  {
+    "Level": 76,
+    "ExpType": 1,
+    "Exp": 27450
+  },
+  {
+    "Level": 77,
+    "ExpType": 1,
+    "Exp": 29320
+  },
+  {
+    "Level": 78,
+    "ExpType": 1,
+    "Exp": 31220
+  },
+  {
+    "Level": 79,
+    "ExpType": 1,
+    "Exp": 33140
+  },
+  {
+    "Level": 80,
+    "ExpType": 1,
+    "Exp": 0
+  },
+  {
+    "Level": 1,
+    "ExpType": 2,
+    "Exp": 50
+  },
+  {
+    "Level": 2,
+    "ExpType": 2,
+    "Exp": 80
+  },
+  {
+    "Level": 3,
+    "ExpType": 2,
+    "Exp": 140
+  },
+  {
+    "Level": 4,
+    "ExpType": 2,
+    "Exp": 210
+  },
+  {
+    "Level": 5,
+    "ExpType": 2,
+    "Exp": 300
+  },
+  {
+    "Level": 6,
+    "ExpType": 2,
+    "Exp": 400
+  },
+  {
+    "Level": 7,
+    "ExpType": 2,
+    "Exp": 510
+  },
+  {
+    "Level": 8,
+    "ExpType": 2,
+    "Exp": 640
+  },
+  {
+    "Level": 9,
+    "ExpType": 2,
+    "Exp": 780
+  },
+  {
+    "Level": 10,
+    "ExpType": 2,
+    "Exp": 930
+  },
+  {
+    "Level": 11,
+    "ExpType": 2,
+    "Exp": 1090
+  },
+  {
+    "Level": 12,
+    "ExpType": 2,
+    "Exp": 1260
+  },
+  {
+    "Level": 13,
+    "ExpType": 2,
+    "Exp": 1460
+  },
+  {
+    "Level": 14,
+    "ExpType": 2,
+    "Exp": 1650
+  },
+  {
+    "Level": 15,
+    "ExpType": 2,
+    "Exp": 1860
+  },
+  {
+    "Level": 16,
+    "ExpType": 2,
+    "Exp": 2080
+  },
+  {
+    "Level": 17,
+    "ExpType": 2,
+    "Exp": 2300
+  },
+  {
+    "Level": 18,
+    "ExpType": 2,
+    "Exp": 2540
+  },
+  {
+    "Level": 19,
+    "ExpType": 2,
+    "Exp": 2790
+  },
+  {
+    "Level": 20,
+    "ExpType": 2,
+    "Exp": 2900
+  },
+  {
+    "Level": 21,
+    "ExpType": 2,
+    "Exp": 3010
+  },
+  {
+    "Level": 22,
+    "ExpType": 2,
+    "Exp": 3130
+  },
+  {
+    "Level": 23,
+    "ExpType": 2,
+    "Exp": 3240
+  },
+  {
+    "Level": 24,
+    "ExpType": 2,
+    "Exp": 3360
+  },
+  {
+    "Level": 25,
+    "ExpType": 2,
+    "Exp": 3490
+  },
+  {
+    "Level": 26,
+    "ExpType": 2,
+    "Exp": 3610
+  },
+  {
+    "Level": 27,
+    "ExpType": 2,
+    "Exp": 3740
+  },
+  {
+    "Level": 28,
+    "ExpType": 2,
+    "Exp": 3860
+  },
+  {
+    "Level": 29,
+    "ExpType": 2,
+    "Exp": 3990
+  },
+  {
+    "Level": 30,
+    "ExpType": 2,
+    "Exp": 4130
+  },
+  {
+    "Level": 31,
+    "ExpType": 2,
+    "Exp": 4260
+  },
+  {
+    "Level": 32,
+    "ExpType": 2,
+    "Exp": 4400
+  },
+  {
+    "Level": 33,
+    "ExpType": 2,
+    "Exp": 4540
+  },
+  {
+    "Level": 34,
+    "ExpType": 2,
+    "Exp": 4680
+  },
+  {
+    "Level": 35,
+    "ExpType": 2,
+    "Exp": 4820
+  },
+  {
+    "Level": 36,
+    "ExpType": 2,
+    "Exp": 4970
+  },
+  {
+    "Level": 37,
+    "ExpType": 2,
+    "Exp": 5110
+  },
+  {
+    "Level": 38,
+    "ExpType": 2,
+    "Exp": 5260
+  },
+  {
+    "Level": 39,
+    "ExpType": 2,
+    "Exp": 5410
+  },
+  {
+    "Level": 40,
+    "ExpType": 2,
+    "Exp": 5560
+  },
+  {
+    "Level": 41,
+    "ExpType": 2,
+    "Exp": 6100
+  },
+  {
+    "Level": 42,
+    "ExpType": 2,
+    "Exp": 6450
+  },
+  {
+    "Level": 43,
+    "ExpType": 2,
+    "Exp": 6810
+  },
+  {
+    "Level": 44,
+    "ExpType": 2,
+    "Exp": 7180
+  },
+  {
+    "Level": 45,
+    "ExpType": 2,
+    "Exp": 7550
+  },
+  {
+    "Level": 46,
+    "ExpType": 2,
+    "Exp": 7930
+  },
+  {
+    "Level": 47,
+    "ExpType": 2,
+    "Exp": 8310
+  },
+  {
+    "Level": 48,
+    "ExpType": 2,
+    "Exp": 8710
+  },
+  {
+    "Level": 49,
+    "ExpType": 2,
+    "Exp": 9110
+  },
+  {
+    "Level": 50,
+    "ExpType": 2,
+    "Exp": 9520
+  },
+  {
+    "Level": 51,
+    "ExpType": 2,
+    "Exp": 9940
+  },
+  {
+    "Level": 52,
+    "ExpType": 2,
+    "Exp": 10350
+  },
+  {
+    "Level": 53,
+    "ExpType": 2,
+    "Exp": 10780
+  },
+  {
+    "Level": 54,
+    "ExpType": 2,
+    "Exp": 11220
+  },
+  {
+    "Level": 55,
+    "ExpType": 2,
+    "Exp": 11660
+  },
+  {
+    "Level": 56,
+    "ExpType": 2,
+    "Exp": 12110
+  },
+  {
+    "Level": 57,
+    "ExpType": 2,
+    "Exp": 12570
+  },
+  {
+    "Level": 58,
+    "ExpType": 2,
+    "Exp": 13030
+  },
+  {
+    "Level": 59,
+    "ExpType": 2,
+    "Exp": 13500
+  },
+  {
+    "Level": 60,
+    "ExpType": 2,
+    "Exp": 13980
+  },
+  {
+    "Level": 61,
+    "ExpType": 2,
+    "Exp": 14630
+  },
+  {
+    "Level": 62,
+    "ExpType": 2,
+    "Exp": 15420
+  },
+  {
+    "Level": 63,
+    "ExpType": 2,
+    "Exp": 16210
+  },
+  {
+    "Level": 64,
+    "ExpType": 2,
+    "Exp": 17010
+  },
+  {
+    "Level": 65,
+    "ExpType": 2,
+    "Exp": 17830
+  },
+  {
+    "Level": 66,
+    "ExpType": 2,
+    "Exp": 18660
+  },
+  {
+    "Level": 67,
+    "ExpType": 2,
+    "Exp": 19500
+  },
+  {
+    "Level": 68,
+    "ExpType": 2,
+    "Exp": 20350
+  },
+  {
+    "Level": 69,
+    "ExpType": 2,
+    "Exp": 21220
+  },
+  {
+    "Level": 70,
+    "ExpType": 2,
+    "Exp": 22100
+  },
+  {
+    "Level": 71,
+    "ExpType": 2,
+    "Exp": 24650
+  },
+  {
+    "Level": 72,
+    "ExpType": 2,
+    "Exp": 26970
+  },
+  {
+    "Level": 73,
+    "ExpType": 2,
+    "Exp": 29330
+  },
+  {
+    "Level": 74,
+    "ExpType": 2,
+    "Exp": 31720
+  },
+  {
+    "Level": 75,
+    "ExpType": 2,
+    "Exp": 34140
+  },
+  {
+    "Level": 76,
+    "ExpType": 2,
+    "Exp": 36600
+  },
+  {
+    "Level": 77,
+    "ExpType": 2,
+    "Exp": 39100
+  },
+  {
+    "Level": 78,
+    "ExpType": 2,
+    "Exp": 41620
+  },
+  {
+    "Level": 79,
+    "ExpType": 2,
+    "Exp": 44180
+  },
+  {
+    "Level": 80,
+    "ExpType": 2,
+    "Exp": 0
+  },
+  {
+    "Level": 1,
+    "ExpType": 3,
+    "Exp": 60
+  },
+  {
+    "Level": 2,
+    "ExpType": 3,
+    "Exp": 100
+  },
+  {
+    "Level": 3,
+    "ExpType": 3,
+    "Exp": 170
+  },
+  {
+    "Level": 4,
+    "ExpType": 3,
+    "Exp": 260
+  },
+  {
+    "Level": 5,
+    "ExpType": 3,
+    "Exp": 370
+  },
+  {
+    "Level": 6,
+    "ExpType": 3,
+    "Exp": 500
+  },
+  {
+    "Level": 7,
+    "ExpType": 3,
+    "Exp": 640
+  },
+  {
+    "Level": 8,
+    "ExpType": 3,
+    "Exp": 800
+  },
+  {
+    "Level": 9,
+    "ExpType": 3,
+    "Exp": 970
+  },
+  {
+    "Level": 10,
+    "ExpType": 3,
+    "Exp": 1160
+  },
+  {
+    "Level": 11,
+    "ExpType": 3,
+    "Exp": 1360
+  },
+  {
+    "Level": 12,
+    "ExpType": 3,
+    "Exp": 1580
+  },
+  {
+    "Level": 13,
+    "ExpType": 3,
+    "Exp": 1820
+  },
+  {
+    "Level": 14,
+    "ExpType": 3,
+    "Exp": 2060
+  },
+  {
+    "Level": 15,
+    "ExpType": 3,
+    "Exp": 2320
+  },
+  {
+    "Level": 16,
+    "ExpType": 3,
+    "Exp": 2600
+  },
+  {
+    "Level": 17,
+    "ExpType": 3,
+    "Exp": 2880
+  },
+  {
+    "Level": 18,
+    "ExpType": 3,
+    "Exp": 3180
+  },
+  {
+    "Level": 19,
+    "ExpType": 3,
+    "Exp": 3490
+  },
+  {
+    "Level": 20,
+    "ExpType": 3,
+    "Exp": 3620
+  },
+  {
+    "Level": 21,
+    "ExpType": 3,
+    "Exp": 3760
+  },
+  {
+    "Level": 22,
+    "ExpType": 3,
+    "Exp": 3910
+  },
+  {
+    "Level": 23,
+    "ExpType": 3,
+    "Exp": 4050
+  },
+  {
+    "Level": 24,
+    "ExpType": 3,
+    "Exp": 4200
+  },
+  {
+    "Level": 25,
+    "ExpType": 3,
+    "Exp": 4360
+  },
+  {
+    "Level": 26,
+    "ExpType": 3,
+    "Exp": 4510
+  },
+  {
+    "Level": 27,
+    "ExpType": 3,
+    "Exp": 4670
+  },
+  {
+    "Level": 28,
+    "ExpType": 3,
+    "Exp": 4830
+  },
+  {
+    "Level": 29,
+    "ExpType": 3,
+    "Exp": 4990
+  },
+  {
+    "Level": 30,
+    "ExpType": 3,
+    "Exp": 5160
+  },
+  {
+    "Level": 31,
+    "ExpType": 3,
+    "Exp": 5330
+  },
+  {
+    "Level": 32,
+    "ExpType": 3,
+    "Exp": 5500
+  },
+  {
+    "Level": 33,
+    "ExpType": 3,
+    "Exp": 5670
+  },
+  {
+    "Level": 34,
+    "ExpType": 3,
+    "Exp": 5850
+  },
+  {
+    "Level": 35,
+    "ExpType": 3,
+    "Exp": 6030
+  },
+  {
+    "Level": 36,
+    "ExpType": 3,
+    "Exp": 6210
+  },
+  {
+    "Level": 37,
+    "ExpType": 3,
+    "Exp": 6390
+  },
+  {
+    "Level": 38,
+    "ExpType": 3,
+    "Exp": 6580
+  },
+  {
+    "Level": 39,
+    "ExpType": 3,
+    "Exp": 6760
+  },
+  {
+    "Level": 40,
+    "ExpType": 3,
+    "Exp": 6950
+  },
+  {
+    "Level": 41,
+    "ExpType": 3,
+    "Exp": 7630
+  },
+  {
+    "Level": 42,
+    "ExpType": 3,
+    "Exp": 8060
+  },
+  {
+    "Level": 43,
+    "ExpType": 3,
+    "Exp": 8510
+  },
+  {
+    "Level": 44,
+    "ExpType": 3,
+    "Exp": 8970
+  },
+  {
+    "Level": 45,
+    "ExpType": 3,
+    "Exp": 9440
+  },
+  {
+    "Level": 46,
+    "ExpType": 3,
+    "Exp": 9910
+  },
+  {
+    "Level": 47,
+    "ExpType": 3,
+    "Exp": 10390
+  },
+  {
+    "Level": 48,
+    "ExpType": 3,
+    "Exp": 10890
+  },
+  {
+    "Level": 49,
+    "ExpType": 3,
+    "Exp": 11390
+  },
+  {
+    "Level": 50,
+    "ExpType": 3,
+    "Exp": 11900
+  },
+  {
+    "Level": 51,
+    "ExpType": 3,
+    "Exp": 12420
+  },
+  {
+    "Level": 52,
+    "ExpType": 3,
+    "Exp": 12940
+  },
+  {
+    "Level": 53,
+    "ExpType": 3,
+    "Exp": 13480
+  },
+  {
+    "Level": 54,
+    "ExpType": 3,
+    "Exp": 14020
+  },
+  {
+    "Level": 55,
+    "ExpType": 3,
+    "Exp": 14580
+  },
+  {
+    "Level": 56,
+    "ExpType": 3,
+    "Exp": 15140
+  },
+  {
+    "Level": 57,
+    "ExpType": 3,
+    "Exp": 15710
+  },
+  {
+    "Level": 58,
+    "ExpType": 3,
+    "Exp": 16290
+  },
+  {
+    "Level": 59,
+    "ExpType": 3,
+    "Exp": 16880
+  },
+  {
+    "Level": 60,
+    "ExpType": 3,
+    "Exp": 17470
+  },
+  {
+    "Level": 61,
+    "ExpType": 3,
+    "Exp": 18290
+  },
+  {
+    "Level": 62,
+    "ExpType": 3,
+    "Exp": 19270
+  },
+  {
+    "Level": 63,
+    "ExpType": 3,
+    "Exp": 20260
+  },
+  {
+    "Level": 64,
+    "ExpType": 3,
+    "Exp": 21260
+  },
+  {
+    "Level": 65,
+    "ExpType": 3,
+    "Exp": 22290
+  },
+  {
+    "Level": 66,
+    "ExpType": 3,
+    "Exp": 23320
+  },
+  {
+    "Level": 67,
+    "ExpType": 3,
+    "Exp": 24370
+  },
+  {
+    "Level": 68,
+    "ExpType": 3,
+    "Exp": 25440
+  },
+  {
+    "Level": 69,
+    "ExpType": 3,
+    "Exp": 26520
+  },
+  {
+    "Level": 70,
+    "ExpType": 3,
+    "Exp": 27620
+  },
+  {
+    "Level": 71,
+    "ExpType": 3,
+    "Exp": 30810
+  },
+  {
+    "Level": 72,
+    "ExpType": 3,
+    "Exp": 33710
+  },
+  {
+    "Level": 73,
+    "ExpType": 3,
+    "Exp": 36660
+  },
+  {
+    "Level": 74,
+    "ExpType": 3,
+    "Exp": 39650
+  },
+  {
+    "Level": 75,
+    "ExpType": 3,
+    "Exp": 42680
+  },
+  {
+    "Level": 76,
+    "ExpType": 3,
+    "Exp": 45750
+  },
+  {
+    "Level": 77,
+    "ExpType": 3,
+    "Exp": 48870
+  },
+  {
+    "Level": 78,
+    "ExpType": 3,
+    "Exp": 52030
+  },
+  {
+    "Level": 79,
+    "ExpType": 3,
+    "Exp": 55230
+  },
+  {
+    "Level": 80,
+    "ExpType": 3,
+    "Exp": 0
+  }
+]

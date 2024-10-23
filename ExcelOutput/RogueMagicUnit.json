@@ -1,0 +1,8570 @@
+[
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 686010,
+    "MagicUnitSimpleDesc": {
+      "Hash": 768073622
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 0
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": -1943353220
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Active",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 4001,
+    "IsPassiveUnit": false,
+    "IsActiveUnit": true
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 686010,
+    "MagicUnitSimpleDesc": {
+      "Hash": 768073625
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 0
+    },
+    "MagicUnitLevel": 2,
+    "MagicUnitDesc": {
+      "Hash": -1943353221
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Active",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 4001,
+    "IsPassiveUnit": false,
+    "IsActiveUnit": true
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 686010,
+    "MagicUnitSimpleDesc": {
+      "Hash": 768073624
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 0
+    },
+    "MagicUnitLevel": 3,
+    "MagicUnitDesc": {
+      "Hash": -1943353222
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Active",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 4001,
+    "IsPassiveUnit": false,
+    "IsActiveUnit": true
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 686020,
+    "MagicUnitSimpleDesc": {
+      "Hash": 768073721
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 0
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": -1943353381
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Active",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 4002,
+    "IsPassiveUnit": false,
+    "IsActiveUnit": true
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 686020,
+    "MagicUnitSimpleDesc": {
+      "Hash": 768073718
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 0
+    },
+    "MagicUnitLevel": 2,
+    "MagicUnitDesc": {
+      "Hash": -1943353380
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Active",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 4002,
+    "IsPassiveUnit": false,
+    "IsActiveUnit": true
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 686020,
+    "MagicUnitSimpleDesc": {
+      "Hash": 768073719
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 0
+    },
+    "MagicUnitLevel": 3,
+    "MagicUnitDesc": {
+      "Hash": -1943353379
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Active",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 4002,
+    "IsPassiveUnit": false,
+    "IsActiveUnit": true
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 686030,
+    "MagicUnitSimpleDesc": {
+      "Hash": 768073688
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 0
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": -1943353286
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Active",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 4003,
+    "IsPassiveUnit": false,
+    "IsActiveUnit": true
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 686030,
+    "MagicUnitSimpleDesc": {
+      "Hash": 768073687
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 0
+    },
+    "MagicUnitLevel": 2,
+    "MagicUnitDesc": {
+      "Hash": -1943353283
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Active",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 4003,
+    "IsPassiveUnit": false,
+    "IsActiveUnit": true
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 686030,
+    "MagicUnitSimpleDesc": {
+      "Hash": 768073686
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 0
+    },
+    "MagicUnitLevel": 3,
+    "MagicUnitDesc": {
+      "Hash": -1943353284
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Active",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 4003,
+    "IsPassiveUnit": false,
+    "IsActiveUnit": true
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 686040,
+    "MagicUnitSimpleDesc": {
+      "Hash": 768073787
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 0
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": -1943353183
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Active",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 4004,
+    "IsPassiveUnit": false,
+    "IsActiveUnit": true
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 686040,
+    "MagicUnitSimpleDesc": {
+      "Hash": 768073788
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 0
+    },
+    "MagicUnitLevel": 2,
+    "MagicUnitDesc": {
+      "Hash": -1943353186
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Active",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 4004,
+    "IsPassiveUnit": false,
+    "IsActiveUnit": true
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 686040,
+    "MagicUnitSimpleDesc": {
+      "Hash": 768073789
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 0
+    },
+    "MagicUnitLevel": 3,
+    "MagicUnitDesc": {
+      "Hash": -1943353185
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Active",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 4004,
+    "IsPassiveUnit": false,
+    "IsActiveUnit": true
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 686050,
+    "MagicUnitSimpleDesc": {
+      "Hash": 768073754
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 0
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": -1943353088
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Active",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 4005,
+    "IsPassiveUnit": false,
+    "IsActiveUnit": true
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 686050,
+    "MagicUnitSimpleDesc": {
+      "Hash": 768073757
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 0
+    },
+    "MagicUnitLevel": 2,
+    "MagicUnitDesc": {
+      "Hash": -1943353089
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Active",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 4005,
+    "IsPassiveUnit": false,
+    "IsActiveUnit": true
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 686050,
+    "MagicUnitSimpleDesc": {
+      "Hash": 768073756
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 0
+    },
+    "MagicUnitLevel": 3,
+    "MagicUnitDesc": {
+      "Hash": -1943353090
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Active",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 4005,
+    "IsPassiveUnit": false,
+    "IsActiveUnit": true
+  },
+  {
+    "ExtraEffectID": [
+      61000047
+    ],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 686060,
+    "MagicUnitSimpleDesc": {
+      "Hash": 768073853
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 0
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": -1943353249
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Active",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 4006,
+    "IsPassiveUnit": false,
+    "IsActiveUnit": true
+  },
+  {
+    "ExtraEffectID": [
+      61000047
+    ],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 686060,
+    "MagicUnitSimpleDesc": {
+      "Hash": 768073850
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 0
+    },
+    "MagicUnitLevel": 2,
+    "MagicUnitDesc": {
+      "Hash": -1943353248
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Active",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 4006,
+    "IsPassiveUnit": false,
+    "IsActiveUnit": true
+  },
+  {
+    "ExtraEffectID": [
+      61000047
+    ],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 686060,
+    "MagicUnitSimpleDesc": {
+      "Hash": 768073851
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 0
+    },
+    "MagicUnitLevel": 3,
+    "MagicUnitDesc": {
+      "Hash": -1943353247
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Active",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 4006,
+    "IsPassiveUnit": false,
+    "IsActiveUnit": true
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 686210,
+    "MagicUnitSimpleDesc": {
+      "Hash": 485748620
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 0
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": 2069289074
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Active",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 4021,
+    "IsPassiveUnit": false,
+    "IsActiveUnit": true
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 686210,
+    "MagicUnitSimpleDesc": {
+      "Hash": 485748623
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 0
+    },
+    "MagicUnitLevel": 2,
+    "MagicUnitDesc": {
+      "Hash": 2069289073
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Active",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 4021,
+    "IsPassiveUnit": false,
+    "IsActiveUnit": true
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 686210,
+    "MagicUnitSimpleDesc": {
+      "Hash": 485748622
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 0
+    },
+    "MagicUnitLevel": 3,
+    "MagicUnitDesc": {
+      "Hash": 2069289072
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Active",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 4021,
+    "IsPassiveUnit": false,
+    "IsActiveUnit": true
+  },
+  {
+    "ExtraEffectID": [
+      61000048
+    ],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 686220,
+    "MagicUnitSimpleDesc": {
+      "Hash": 485748719
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 0
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": 2069288913
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Active",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 4022,
+    "IsPassiveUnit": false,
+    "IsActiveUnit": true
+  },
+  {
+    "ExtraEffectID": [
+      61000048
+    ],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 686220,
+    "MagicUnitSimpleDesc": {
+      "Hash": 485748716
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 0
+    },
+    "MagicUnitLevel": 2,
+    "MagicUnitDesc": {
+      "Hash": 2069288914
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Active",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 4022,
+    "IsPassiveUnit": false,
+    "IsActiveUnit": true
+  },
+  {
+    "ExtraEffectID": [
+      61000048
+    ],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 686220,
+    "MagicUnitSimpleDesc": {
+      "Hash": 485748717
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 0
+    },
+    "MagicUnitLevel": 3,
+    "MagicUnitDesc": {
+      "Hash": 2069288915
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Active",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 4022,
+    "IsPassiveUnit": false,
+    "IsActiveUnit": true
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 686230,
+    "MagicUnitSimpleDesc": {
+      "Hash": 485748686
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 0
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": 2069289008
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Active",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 4023,
+    "IsPassiveUnit": false,
+    "IsActiveUnit": true
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 686230,
+    "MagicUnitSimpleDesc": {
+      "Hash": 485748685
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 0
+    },
+    "MagicUnitLevel": 2,
+    "MagicUnitDesc": {
+      "Hash": 2069289011
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Active",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 4023,
+    "IsPassiveUnit": false,
+    "IsActiveUnit": true
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 686230,
+    "MagicUnitSimpleDesc": {
+      "Hash": 485748684
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 0
+    },
+    "MagicUnitLevel": 3,
+    "MagicUnitDesc": {
+      "Hash": 2069289010
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Active",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 4023,
+    "IsPassiveUnit": false,
+    "IsActiveUnit": true
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 686240,
+    "MagicUnitSimpleDesc": {
+      "Hash": 485748785
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 0
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": 2069289111
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Active",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 4024,
+    "IsPassiveUnit": false,
+    "IsActiveUnit": true
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 686240,
+    "MagicUnitSimpleDesc": {
+      "Hash": 485748786
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 0
+    },
+    "MagicUnitLevel": 2,
+    "MagicUnitDesc": {
+      "Hash": 2069289108
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Active",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 4024,
+    "IsPassiveUnit": false,
+    "IsActiveUnit": true
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 686240,
+    "MagicUnitSimpleDesc": {
+      "Hash": 485748787
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 0
+    },
+    "MagicUnitLevel": 3,
+    "MagicUnitDesc": {
+      "Hash": 2069289109
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Active",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 4024,
+    "IsPassiveUnit": false,
+    "IsActiveUnit": true
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 686250,
+    "MagicUnitSimpleDesc": {
+      "Hash": 485748752
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 0
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": 2069289206
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Active",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 4025,
+    "IsPassiveUnit": false,
+    "IsActiveUnit": true
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 686250,
+    "MagicUnitSimpleDesc": {
+      "Hash": 485748755
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 0
+    },
+    "MagicUnitLevel": 2,
+    "MagicUnitDesc": {
+      "Hash": 2069289205
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Active",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 4025,
+    "IsPassiveUnit": false,
+    "IsActiveUnit": true
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 686250,
+    "MagicUnitSimpleDesc": {
+      "Hash": 485748754
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 0
+    },
+    "MagicUnitLevel": 3,
+    "MagicUnitDesc": {
+      "Hash": 2069289204
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Active",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 4025,
+    "IsPassiveUnit": false,
+    "IsActiveUnit": true
+  },
+  {
+    "ExtraEffectID": [
+      61000047
+    ],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 686260,
+    "MagicUnitSimpleDesc": {
+      "Hash": 485748851
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 0
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": 2069289045
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Active",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 4026,
+    "IsPassiveUnit": false,
+    "IsActiveUnit": true
+  },
+  {
+    "ExtraEffectID": [
+      61000047
+    ],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 686260,
+    "MagicUnitSimpleDesc": {
+      "Hash": 485748848
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 0
+    },
+    "MagicUnitLevel": 2,
+    "MagicUnitDesc": {
+      "Hash": 2069289046
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Active",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 4026,
+    "IsPassiveUnit": false,
+    "IsActiveUnit": true
+  },
+  {
+    "ExtraEffectID": [
+      61000047
+    ],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 686260,
+    "MagicUnitSimpleDesc": {
+      "Hash": 485748849
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 0
+    },
+    "MagicUnitLevel": 3,
+    "MagicUnitDesc": {
+      "Hash": 2069289047
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Active",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 4026,
+    "IsPassiveUnit": false,
+    "IsActiveUnit": true
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 686410,
+    "MagicUnitSimpleDesc": {
+      "Hash": 1688953986
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 0
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": 1430733712
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Active",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 4041,
+    "IsPassiveUnit": false,
+    "IsActiveUnit": true
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 686410,
+    "MagicUnitSimpleDesc": {
+      "Hash": 1688953989
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 0
+    },
+    "MagicUnitLevel": 2,
+    "MagicUnitDesc": {
+      "Hash": 1430733711
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Active",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 4041,
+    "IsPassiveUnit": false,
+    "IsActiveUnit": true
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 686410,
+    "MagicUnitSimpleDesc": {
+      "Hash": 1688953988
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 0
+    },
+    "MagicUnitLevel": 3,
+    "MagicUnitDesc": {
+      "Hash": 1430733710
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Active",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 4041,
+    "IsPassiveUnit": false,
+    "IsActiveUnit": true
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 686420,
+    "MagicUnitSimpleDesc": {
+      "Hash": 1688954085
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 0
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": 1430733551
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Active",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 4042,
+    "IsPassiveUnit": false,
+    "IsActiveUnit": true
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 686420,
+    "MagicUnitSimpleDesc": {
+      "Hash": 1688954082
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 0
+    },
+    "MagicUnitLevel": 2,
+    "MagicUnitDesc": {
+      "Hash": 1430733552
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Active",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 4042,
+    "IsPassiveUnit": false,
+    "IsActiveUnit": true
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 686420,
+    "MagicUnitSimpleDesc": {
+      "Hash": 1688954083
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 0
+    },
+    "MagicUnitLevel": 3,
+    "MagicUnitDesc": {
+      "Hash": 1430733553
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Active",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 4042,
+    "IsPassiveUnit": false,
+    "IsActiveUnit": true
+  },
+  {
+    "ExtraEffectID": [
+      61000047
+    ],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 686430,
+    "MagicUnitSimpleDesc": {
+      "Hash": 1688954052
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 0
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": 1430733646
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Active",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 4043,
+    "IsPassiveUnit": false,
+    "IsActiveUnit": true
+  },
+  {
+    "ExtraEffectID": [
+      61000047
+    ],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 686430,
+    "MagicUnitSimpleDesc": {
+      "Hash": 1688954051
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 0
+    },
+    "MagicUnitLevel": 2,
+    "MagicUnitDesc": {
+      "Hash": 1430733649
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Active",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 4043,
+    "IsPassiveUnit": false,
+    "IsActiveUnit": true
+  },
+  {
+    "ExtraEffectID": [
+      61000047
+    ],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 686430,
+    "MagicUnitSimpleDesc": {
+      "Hash": 1688954050
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 0
+    },
+    "MagicUnitLevel": 3,
+    "MagicUnitDesc": {
+      "Hash": 1430733648
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Active",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 4043,
+    "IsPassiveUnit": false,
+    "IsActiveUnit": true
+  },
+  {
+    "ExtraEffectID": [
+      61000047
+    ],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 686440,
+    "MagicUnitSimpleDesc": {
+      "Hash": 1688954151
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 0
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": 1430733749
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Active",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 4044,
+    "IsPassiveUnit": false,
+    "IsActiveUnit": true
+  },
+  {
+    "ExtraEffectID": [
+      61000047
+    ],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 686440,
+    "MagicUnitSimpleDesc": {
+      "Hash": 1688954152
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 0
+    },
+    "MagicUnitLevel": 2,
+    "MagicUnitDesc": {
+      "Hash": 1430733746
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Active",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 4044,
+    "IsPassiveUnit": false,
+    "IsActiveUnit": true
+  },
+  {
+    "ExtraEffectID": [
+      61000047
+    ],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 686440,
+    "MagicUnitSimpleDesc": {
+      "Hash": 1688954153
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 0
+    },
+    "MagicUnitLevel": 3,
+    "MagicUnitDesc": {
+      "Hash": 1430733747
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Active",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 4044,
+    "IsPassiveUnit": false,
+    "IsActiveUnit": true
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 686450,
+    "MagicUnitSimpleDesc": {
+      "Hash": 1688954118
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 0
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": 1430733844
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Active",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 4045,
+    "IsPassiveUnit": false,
+    "IsActiveUnit": true
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 686450,
+    "MagicUnitSimpleDesc": {
+      "Hash": 1688954121
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 0
+    },
+    "MagicUnitLevel": 2,
+    "MagicUnitDesc": {
+      "Hash": 1430733843
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Active",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 4045,
+    "IsPassiveUnit": false,
+    "IsActiveUnit": true
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 686450,
+    "MagicUnitSimpleDesc": {
+      "Hash": 1688954120
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 0
+    },
+    "MagicUnitLevel": 3,
+    "MagicUnitDesc": {
+      "Hash": 1430733842
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Active",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 4045,
+    "IsPassiveUnit": false,
+    "IsActiveUnit": true
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 686460,
+    "MagicUnitSimpleDesc": {
+      "Hash": 1688954217
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 0
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": 1430733683
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Active",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 4046,
+    "IsPassiveUnit": false,
+    "IsActiveUnit": true
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 686460,
+    "MagicUnitSimpleDesc": {
+      "Hash": 1688954214
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 0
+    },
+    "MagicUnitLevel": 2,
+    "MagicUnitDesc": {
+      "Hash": 1430733684
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Active",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 4046,
+    "IsPassiveUnit": false,
+    "IsActiveUnit": true
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 686460,
+    "MagicUnitSimpleDesc": {
+      "Hash": 1688954215
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 0
+    },
+    "MagicUnitLevel": 3,
+    "MagicUnitDesc": {
+      "Hash": 1430733685
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Active",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 4046,
+    "IsPassiveUnit": false,
+    "IsActiveUnit": true
+  },
+  {
+    "ExtraEffectID": [
+      61000047
+    ],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 686610,
+    "MagicUnitSimpleDesc": {
+      "Hash": 1406628984
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 0
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": 1148408710
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Active",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 4061,
+    "IsPassiveUnit": false,
+    "IsActiveUnit": true
+  },
+  {
+    "ExtraEffectID": [
+      61000047
+    ],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 686610,
+    "MagicUnitSimpleDesc": {
+      "Hash": 1406628987
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 0
+    },
+    "MagicUnitLevel": 2,
+    "MagicUnitDesc": {
+      "Hash": 1148408709
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Active",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 4061,
+    "IsPassiveUnit": false,
+    "IsActiveUnit": true
+  },
+  {
+    "ExtraEffectID": [
+      61000047
+    ],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 686610,
+    "MagicUnitSimpleDesc": {
+      "Hash": 1406628986
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 0
+    },
+    "MagicUnitLevel": 3,
+    "MagicUnitDesc": {
+      "Hash": 1148408708
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Active",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 4061,
+    "IsPassiveUnit": false,
+    "IsActiveUnit": true
+  },
+  {
+    "ExtraEffectID": [
+      61000047
+    ],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 686620,
+    "MagicUnitSimpleDesc": {
+      "Hash": 1406629083
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 0
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": 1148408549
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Active",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 4062,
+    "IsPassiveUnit": false,
+    "IsActiveUnit": true
+  },
+  {
+    "ExtraEffectID": [
+      61000047
+    ],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 686620,
+    "MagicUnitSimpleDesc": {
+      "Hash": 1406629080
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 0
+    },
+    "MagicUnitLevel": 2,
+    "MagicUnitDesc": {
+      "Hash": 1148408550
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Active",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 4062,
+    "IsPassiveUnit": false,
+    "IsActiveUnit": true
+  },
+  {
+    "ExtraEffectID": [
+      61000047
+    ],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 686620,
+    "MagicUnitSimpleDesc": {
+      "Hash": 1406629081
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 0
+    },
+    "MagicUnitLevel": 3,
+    "MagicUnitDesc": {
+      "Hash": 1148408551
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Active",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 4062,
+    "IsPassiveUnit": false,
+    "IsActiveUnit": true
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 686630,
+    "MagicUnitSimpleDesc": {
+      "Hash": 1406629050
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 0
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": 1148408644
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Active",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 4063,
+    "IsPassiveUnit": false,
+    "IsActiveUnit": true
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 686630,
+    "MagicUnitSimpleDesc": {
+      "Hash": 1406629049
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 0
+    },
+    "MagicUnitLevel": 2,
+    "MagicUnitDesc": {
+      "Hash": 1148408647
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Active",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 4063,
+    "IsPassiveUnit": false,
+    "IsActiveUnit": true
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 686630,
+    "MagicUnitSimpleDesc": {
+      "Hash": 1406629048
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 0
+    },
+    "MagicUnitLevel": 3,
+    "MagicUnitDesc": {
+      "Hash": 1148408646
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Active",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 4063,
+    "IsPassiveUnit": false,
+    "IsActiveUnit": true
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 686640,
+    "MagicUnitSimpleDesc": {
+      "Hash": 1406629149
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 0
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": 1148408747
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Active",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 4064,
+    "IsPassiveUnit": false,
+    "IsActiveUnit": true
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 686640,
+    "MagicUnitSimpleDesc": {
+      "Hash": 1406629150
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 0
+    },
+    "MagicUnitLevel": 2,
+    "MagicUnitDesc": {
+      "Hash": 1148408744
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Active",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 4064,
+    "IsPassiveUnit": false,
+    "IsActiveUnit": true
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 686640,
+    "MagicUnitSimpleDesc": {
+      "Hash": 1406629151
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 0
+    },
+    "MagicUnitLevel": 3,
+    "MagicUnitDesc": {
+      "Hash": 1148408745
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Active",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 4064,
+    "IsPassiveUnit": false,
+    "IsActiveUnit": true
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 686650,
+    "MagicUnitSimpleDesc": {
+      "Hash": 1406629116
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 0
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": 1148408842
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Active",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 4065,
+    "IsPassiveUnit": false,
+    "IsActiveUnit": true
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 686650,
+    "MagicUnitSimpleDesc": {
+      "Hash": 1406629119
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 0
+    },
+    "MagicUnitLevel": 2,
+    "MagicUnitDesc": {
+      "Hash": 1148408841
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Active",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 4065,
+    "IsPassiveUnit": false,
+    "IsActiveUnit": true
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 686650,
+    "MagicUnitSimpleDesc": {
+      "Hash": 1406629118
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 0
+    },
+    "MagicUnitLevel": 3,
+    "MagicUnitDesc": {
+      "Hash": 1148408840
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Active",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 4065,
+    "IsPassiveUnit": false,
+    "IsActiveUnit": true
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 686660,
+    "MagicUnitSimpleDesc": {
+      "Hash": 1406629215
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 0
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": 1148408681
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Active",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 4066,
+    "IsPassiveUnit": false,
+    "IsActiveUnit": true
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 686660,
+    "MagicUnitSimpleDesc": {
+      "Hash": 1406629212
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 0
+    },
+    "MagicUnitLevel": 2,
+    "MagicUnitDesc": {
+      "Hash": 1148408682
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Active",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 4066,
+    "IsPassiveUnit": false,
+    "IsActiveUnit": true
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 686660,
+    "MagicUnitSimpleDesc": {
+      "Hash": 1406629213
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 0
+    },
+    "MagicUnitLevel": 3,
+    "MagicUnitDesc": {
+      "Hash": 1148408683
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Active",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 4066,
+    "IsPassiveUnit": false,
+    "IsActiveUnit": true
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "Stack"
+    ],
+    "AttachRangeTypeList": [
+      "Eject",
+      "AOE",
+      "Spread"
+    ],
+    "UnlockID": 5013003,
+    "MagicUnitMazeBuffID": 688010,
+    "MagicUnitSimpleDesc": {
+      "Hash": -1202586501
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 60.00000001396984
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": 380953953
+    },
+    "StyleType": "Dot",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5001,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "Stack"
+    ],
+    "AttachRangeTypeList": [
+      "Eject",
+      "AOE",
+      "Spread"
+    ],
+    "UnlockID": 5013003,
+    "MagicUnitMazeBuffID": 688010,
+    "MagicUnitSimpleDesc": {
+      "Hash": -1202586498
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 150.0000000349246
+    },
+    "MagicUnitLevel": 2,
+    "MagicUnitDesc": {
+      "Hash": 380953952
+    },
+    "StyleType": "Dot",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5001,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "Stack"
+    ],
+    "AttachRangeTypeList": [
+      "Eject",
+      "AOE",
+      "Spread"
+    ],
+    "UnlockID": 5013003,
+    "MagicUnitMazeBuffID": 688010,
+    "MagicUnitSimpleDesc": {
+      "Hash": -1202586499
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 300.0000000698492
+    },
+    "MagicUnitLevel": 3,
+    "MagicUnitDesc": {
+      "Hash": 380953951
+    },
+    "StyleType": "Dot",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5001,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "Eject",
+      "AOE",
+      "Spread"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 688020,
+    "MagicUnitSimpleDesc": {
+      "Hash": -1202586402
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 60.00000001396984
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": 380953792
+    },
+    "StyleType": "Dot",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5002,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "Eject",
+      "AOE",
+      "Spread"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 688020,
+    "MagicUnitSimpleDesc": {
+      "Hash": -1202586405
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 150.0000000349246
+    },
+    "MagicUnitLevel": 2,
+    "MagicUnitDesc": {
+      "Hash": 380953793
+    },
+    "StyleType": "Dot",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5002,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "Eject",
+      "AOE",
+      "Spread"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 688020,
+    "MagicUnitSimpleDesc": {
+      "Hash": -1202586404
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 300.0000000698492
+    },
+    "MagicUnitLevel": 3,
+    "MagicUnitDesc": {
+      "Hash": 380953794
+    },
+    "StyleType": "Dot",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5002,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "Turn"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 688030,
+    "MagicUnitSimpleDesc": {
+      "Hash": -1202586435
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 60.00000001396984
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": 380953887
+    },
+    "StyleType": "Dot",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5003,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "Turn"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 688030,
+    "MagicUnitSimpleDesc": {
+      "Hash": -1202586436
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 150.0000000349246
+    },
+    "MagicUnitLevel": 2,
+    "MagicUnitDesc": {
+      "Hash": 380953890
+    },
+    "StyleType": "Dot",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5003,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "Turn"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 688030,
+    "MagicUnitSimpleDesc": {
+      "Hash": -1202586437
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 300.0000000698492
+    },
+    "MagicUnitLevel": 3,
+    "MagicUnitDesc": {
+      "Hash": 380953889
+    },
+    "StyleType": "Dot",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5003,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "Field"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013004,
+    "MagicUnitMazeBuffID": 688040,
+    "MagicUnitSimpleDesc": {
+      "Hash": -1202586336
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 60.00000001396984
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": 380953990
+    },
+    "StyleType": "Dot",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5004,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "Field"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013004,
+    "MagicUnitMazeBuffID": 688040,
+    "MagicUnitSimpleDesc": {
+      "Hash": -1202586335
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 150.0000000349246
+    },
+    "MagicUnitLevel": 2,
+    "MagicUnitDesc": {
+      "Hash": 380953987
+    },
+    "StyleType": "Dot",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5004,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "Field"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013004,
+    "MagicUnitMazeBuffID": 688040,
+    "MagicUnitSimpleDesc": {
+      "Hash": -1202586334
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 300.0000000698492
+    },
+    "MagicUnitLevel": 3,
+    "MagicUnitDesc": {
+      "Hash": 380953988
+    },
+    "StyleType": "Dot",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5004,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "Field"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013004,
+    "MagicUnitMazeBuffID": 688050,
+    "MagicUnitSimpleDesc": {
+      "Hash": -1202586369
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 60.00000001396984
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": 380954085
+    },
+    "StyleType": "Dot",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5005,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "Field"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013004,
+    "MagicUnitMazeBuffID": 688050,
+    "MagicUnitSimpleDesc": {
+      "Hash": -1202586366
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 150.0000000349246
+    },
+    "MagicUnitLevel": 2,
+    "MagicUnitDesc": {
+      "Hash": 380954084
+    },
+    "StyleType": "Dot",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5005,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "Field"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013004,
+    "MagicUnitMazeBuffID": 688050,
+    "MagicUnitSimpleDesc": {
+      "Hash": -1202586367
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 300.0000000698492
+    },
+    "MagicUnitLevel": 3,
+    "MagicUnitDesc": {
+      "Hash": 380954083
+    },
+    "StyleType": "Dot",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5005,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "Concentrate"
+    ],
+    "UnlockID": 5013003,
+    "MagicUnitMazeBuffID": 688060,
+    "MagicUnitSimpleDesc": {
+      "Hash": -1202586270
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 60.00000001396984
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": 380953924
+    },
+    "StyleType": "Follow",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5006,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "Concentrate"
+    ],
+    "UnlockID": 5013003,
+    "MagicUnitMazeBuffID": 688060,
+    "MagicUnitSimpleDesc": {
+      "Hash": -1202586273
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 150.0000000349246
+    },
+    "MagicUnitLevel": 2,
+    "MagicUnitDesc": {
+      "Hash": 380953925
+    },
+    "StyleType": "Follow",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5006,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "Concentrate"
+    ],
+    "UnlockID": 5013003,
+    "MagicUnitMazeBuffID": 688060,
+    "MagicUnitSimpleDesc": {
+      "Hash": -1202586272
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 300.0000000698492
+    },
+    "MagicUnitLevel": 3,
+    "MagicUnitDesc": {
+      "Hash": 380953926
+    },
+    "StyleType": "Follow",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5006,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "Concentrate"
+    ],
+    "UnlockID": 5013001,
+    "MagicUnitMazeBuffID": 688070,
+    "MagicUnitSimpleDesc": {
+      "Hash": -1202586303
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 60.00000001396984
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": 380954019
+    },
+    "StyleType": "Follow",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5007,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "Concentrate"
+    ],
+    "UnlockID": 5013001,
+    "MagicUnitMazeBuffID": 688070,
+    "MagicUnitSimpleDesc": {
+      "Hash": -1202586304
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 150.0000000349246
+    },
+    "MagicUnitLevel": 2,
+    "MagicUnitDesc": {
+      "Hash": 380954022
+    },
+    "StyleType": "Follow",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5007,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "Concentrate"
+    ],
+    "UnlockID": 5013001,
+    "MagicUnitMazeBuffID": 688070,
+    "MagicUnitSimpleDesc": {
+      "Hash": -1202586305
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 300.0000000698492
+    },
+    "MagicUnitLevel": 3,
+    "MagicUnitDesc": {
+      "Hash": 380954021
+    },
+    "StyleType": "Follow",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5007,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "Stack",
+      "Turn"
+    ],
+    "AttachRangeTypeList": [
+      "Eject",
+      "AOE",
+      "Spread"
+    ],
+    "UnlockID": 5013003,
+    "MagicUnitMazeBuffID": 688080,
+    "MagicUnitSimpleDesc": {
+      "Hash": -1202586204
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 60.00000001396984
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": 380954122
+    },
+    "StyleType": "Follow",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5008,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "Stack",
+      "Turn"
+    ],
+    "AttachRangeTypeList": [
+      "Eject",
+      "AOE",
+      "Spread"
+    ],
+    "UnlockID": 5013003,
+    "MagicUnitMazeBuffID": 688080,
+    "MagicUnitSimpleDesc": {
+      "Hash": -1202586203
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 150.0000000349246
+    },
+    "MagicUnitLevel": 2,
+    "MagicUnitDesc": {
+      "Hash": 380954119
+    },
+    "StyleType": "Follow",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5008,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "Stack",
+      "Turn"
+    ],
+    "AttachRangeTypeList": [
+      "Eject",
+      "AOE",
+      "Spread"
+    ],
+    "UnlockID": 5013003,
+    "MagicUnitMazeBuffID": 688080,
+    "MagicUnitSimpleDesc": {
+      "Hash": -1202586202
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 300.0000000698492
+    },
+    "MagicUnitLevel": 3,
+    "MagicUnitDesc": {
+      "Hash": 380954120
+    },
+    "StyleType": "Follow",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5008,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "Field"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013004,
+    "MagicUnitMazeBuffID": 688090,
+    "MagicUnitSimpleDesc": {
+      "Hash": -1202586237
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 60.00000001396984
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": 380954217
+    },
+    "StyleType": "Follow",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5009,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "Field"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013004,
+    "MagicUnitMazeBuffID": 688090,
+    "MagicUnitSimpleDesc": {
+      "Hash": -1202586234
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 150.0000000349246
+    },
+    "MagicUnitLevel": 2,
+    "MagicUnitDesc": {
+      "Hash": 380954216
+    },
+    "StyleType": "Follow",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5009,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "Field"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013004,
+    "MagicUnitMazeBuffID": 688090,
+    "MagicUnitSimpleDesc": {
+      "Hash": -1202586235
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 300.0000000698492
+    },
+    "MagicUnitLevel": 3,
+    "MagicUnitDesc": {
+      "Hash": 380954215
+    },
+    "StyleType": "Follow",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5009,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "Field"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013001,
+    "MagicUnitMazeBuffID": 688100,
+    "MagicUnitSimpleDesc": {
+      "Hash": 101375447
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 60.00000001396984
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": 1684915773
+    },
+    "StyleType": "Follow",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5010,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "Field"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013001,
+    "MagicUnitMazeBuffID": 688100,
+    "MagicUnitSimpleDesc": {
+      "Hash": 101375448
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 150.0000000349246
+    },
+    "MagicUnitLevel": 2,
+    "MagicUnitDesc": {
+      "Hash": 1684915770
+    },
+    "StyleType": "Follow",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5010,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "Field"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013001,
+    "MagicUnitMazeBuffID": 688100,
+    "MagicUnitSimpleDesc": {
+      "Hash": 101375449
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 300.0000000698492
+    },
+    "MagicUnitLevel": 3,
+    "MagicUnitDesc": {
+      "Hash": 1684915771
+    },
+    "StyleType": "Follow",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5010,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "Eject",
+      "AOE",
+      "Spread"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 688110,
+    "MagicUnitSimpleDesc": {
+      "Hash": 101375414
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 60.00000001396984
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": 1684915868
+    },
+    "StyleType": "Dot",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5011,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "Eject",
+      "AOE",
+      "Spread"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 688110,
+    "MagicUnitSimpleDesc": {
+      "Hash": 101375417
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 150.0000000349246
+    },
+    "MagicUnitLevel": 2,
+    "MagicUnitDesc": {
+      "Hash": 1684915867
+    },
+    "StyleType": "Dot",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5011,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "Eject",
+      "AOE",
+      "Spread"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 688110,
+    "MagicUnitSimpleDesc": {
+      "Hash": 101375416
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 300.0000000698492
+    },
+    "MagicUnitLevel": 3,
+    "MagicUnitDesc": {
+      "Hash": 1684915866
+    },
+    "StyleType": "Dot",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5011,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "Turn"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013012,
+    "MagicUnitMazeBuffID": 688120,
+    "MagicUnitSimpleDesc": {
+      "Hash": 101375513
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 60.00000001396984
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": 1684915707
+    },
+    "StyleType": "Dot",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5012,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "Turn"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013012,
+    "MagicUnitMazeBuffID": 688120,
+    "MagicUnitSimpleDesc": {
+      "Hash": 101375510
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 150.0000000349246
+    },
+    "MagicUnitLevel": 2,
+    "MagicUnitDesc": {
+      "Hash": 1684915708
+    },
+    "StyleType": "Dot",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5012,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "Turn"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013012,
+    "MagicUnitMazeBuffID": 688120,
+    "MagicUnitSimpleDesc": {
+      "Hash": 101375511
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 300.0000000698492
+    },
+    "MagicUnitLevel": 3,
+    "MagicUnitDesc": {
+      "Hash": 1684915709
+    },
+    "StyleType": "Dot",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5012,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013002,
+    "MagicUnitMazeBuffID": 688130,
+    "MagicUnitSimpleDesc": {
+      "Hash": 101375480
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 60.00000001396984
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": 1684915802
+    },
+    "StyleType": "Break",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5013,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013002,
+    "MagicUnitMazeBuffID": 688130,
+    "MagicUnitSimpleDesc": {
+      "Hash": 101375479
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 150.0000000349246
+    },
+    "MagicUnitLevel": 2,
+    "MagicUnitDesc": {
+      "Hash": 1684915805
+    },
+    "StyleType": "Break",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5013,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013002,
+    "MagicUnitMazeBuffID": 688130,
+    "MagicUnitSimpleDesc": {
+      "Hash": 101375478
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 300.0000000698492
+    },
+    "MagicUnitLevel": 3,
+    "MagicUnitDesc": {
+      "Hash": 1684915804
+    },
+    "StyleType": "Break",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5013,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "Concentrate",
+      "Spread"
+    ],
+    "UnlockID": 5013002,
+    "MagicUnitMazeBuffID": 688140,
+    "MagicUnitSimpleDesc": {
+      "Hash": 101375579
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 60.00000001396984
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": 1684915905
+    },
+    "StyleType": "Break",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5014,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "Concentrate",
+      "Spread"
+    ],
+    "UnlockID": 5013002,
+    "MagicUnitMazeBuffID": 688140,
+    "MagicUnitSimpleDesc": {
+      "Hash": 101375580
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 150.0000000349246
+    },
+    "MagicUnitLevel": 2,
+    "MagicUnitDesc": {
+      "Hash": 1684915902
+    },
+    "StyleType": "Break",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5014,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "Concentrate",
+      "Spread"
+    ],
+    "UnlockID": 5013002,
+    "MagicUnitMazeBuffID": 688140,
+    "MagicUnitSimpleDesc": {
+      "Hash": 101375581
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 300.0000000698492
+    },
+    "MagicUnitLevel": 3,
+    "MagicUnitDesc": {
+      "Hash": 1684915903
+    },
+    "StyleType": "Break",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5014,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013002,
+    "MagicUnitMazeBuffID": 688150,
+    "MagicUnitSimpleDesc": {
+      "Hash": 101375546
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 60.00000001396984
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": 1684916000
+    },
+    "StyleType": "Break",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5015,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013002,
+    "MagicUnitMazeBuffID": 688150,
+    "MagicUnitSimpleDesc": {
+      "Hash": 101375549
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 150.0000000349246
+    },
+    "MagicUnitLevel": 2,
+    "MagicUnitDesc": {
+      "Hash": 1684915999
+    },
+    "StyleType": "Break",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5015,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013002,
+    "MagicUnitMazeBuffID": 688150,
+    "MagicUnitSimpleDesc": {
+      "Hash": 101375548
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 300.0000000698492
+    },
+    "MagicUnitLevel": 3,
+    "MagicUnitDesc": {
+      "Hash": 1684915998
+    },
+    "StyleType": "Break",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5015,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [
+      10000015
+    ],
+    "EffectTypeList": [
+      "Stack",
+      "Turn"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013004,
+    "MagicUnitMazeBuffID": 688160,
+    "MagicUnitSimpleDesc": {
+      "Hash": 101375645
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 60.00000001396984
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": 1684915839
+    },
+    "StyleType": "Break",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5016,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [
+      10000015
+    ],
+    "EffectTypeList": [
+      "Stack",
+      "Turn"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013004,
+    "MagicUnitMazeBuffID": 688160,
+    "MagicUnitSimpleDesc": {
+      "Hash": 101375642
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 150.0000000349246
+    },
+    "MagicUnitLevel": 2,
+    "MagicUnitDesc": {
+      "Hash": 1684915840
+    },
+    "StyleType": "Break",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5016,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [
+      10000015
+    ],
+    "EffectTypeList": [
+      "Stack",
+      "Turn"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013004,
+    "MagicUnitMazeBuffID": 688160,
+    "MagicUnitSimpleDesc": {
+      "Hash": 101375643
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 300.0000000698492
+    },
+    "MagicUnitLevel": 3,
+    "MagicUnitDesc": {
+      "Hash": 1684915841
+    },
+    "StyleType": "Break",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5016,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "Stack",
+      "Turn"
+    ],
+    "AttachRangeTypeList": [
+      "Eject",
+      "AOE",
+      "Spread"
+    ],
+    "UnlockID": 5013001,
+    "MagicUnitMazeBuffID": 688170,
+    "MagicUnitSimpleDesc": {
+      "Hash": 101375612
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 60.00000001396984
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": 1684915934
+    },
+    "StyleType": "Follow",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5017,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "Stack",
+      "Turn"
+    ],
+    "AttachRangeTypeList": [
+      "Eject",
+      "AOE",
+      "Spread"
+    ],
+    "UnlockID": 5013001,
+    "MagicUnitMazeBuffID": 688170,
+    "MagicUnitSimpleDesc": {
+      "Hash": 101375611
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 150.0000000349246
+    },
+    "MagicUnitLevel": 2,
+    "MagicUnitDesc": {
+      "Hash": 1684915937
+    },
+    "StyleType": "Follow",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5017,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "Stack",
+      "Turn"
+    ],
+    "AttachRangeTypeList": [
+      "Eject",
+      "AOE",
+      "Spread"
+    ],
+    "UnlockID": 5013001,
+    "MagicUnitMazeBuffID": 688170,
+    "MagicUnitSimpleDesc": {
+      "Hash": 101375610
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 300.0000000698492
+    },
+    "MagicUnitLevel": 3,
+    "MagicUnitDesc": {
+      "Hash": 1684915936
+    },
+    "StyleType": "Follow",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5017,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "Field",
+      "Stack"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013012,
+    "MagicUnitMazeBuffID": 688180,
+    "MagicUnitSimpleDesc": {
+      "Hash": 101375711
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 60.00000001396984
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": 1684916037
+    },
+    "StyleType": "Follow",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5018,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "Field",
+      "Stack"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013012,
+    "MagicUnitMazeBuffID": 688180,
+    "MagicUnitSimpleDesc": {
+      "Hash": 101375712
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 150.0000000349246
+    },
+    "MagicUnitLevel": 2,
+    "MagicUnitDesc": {
+      "Hash": 1684916034
+    },
+    "StyleType": "Follow",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5018,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "Field",
+      "Stack"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013012,
+    "MagicUnitMazeBuffID": 688180,
+    "MagicUnitSimpleDesc": {
+      "Hash": 101375713
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 300.0000000698492
+    },
+    "MagicUnitLevel": 3,
+    "MagicUnitDesc": {
+      "Hash": 1684916035
+    },
+    "StyleType": "Follow",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5018,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "Field"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013012,
+    "MagicUnitMazeBuffID": 688190,
+    "MagicUnitSimpleDesc": {
+      "Hash": 101375678
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 60.00000001396984
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": 1684916132
+    },
+    "StyleType": "Break",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5019,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "Field"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013012,
+    "MagicUnitMazeBuffID": 688190,
+    "MagicUnitSimpleDesc": {
+      "Hash": 101375681
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 150.0000000349246
+    },
+    "MagicUnitLevel": 2,
+    "MagicUnitDesc": {
+      "Hash": 1684916131
+    },
+    "StyleType": "Break",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5019,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "Field"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013012,
+    "MagicUnitMazeBuffID": 688190,
+    "MagicUnitSimpleDesc": {
+      "Hash": 101375680
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 300.0000000698492
+    },
+    "MagicUnitLevel": 3,
+    "MagicUnitDesc": {
+      "Hash": 1684916130
+    },
+    "StyleType": "Break",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5019,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [
+      10000015
+    ],
+    "EffectTypeList": [
+      "Field"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013002,
+    "MagicUnitMazeBuffID": 688200,
+    "MagicUnitSimpleDesc": {
+      "Hash": -1484911470
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 60.00000001396984
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": 98628856
+    },
+    "StyleType": "Break",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5020,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [
+      10000015
+    ],
+    "EffectTypeList": [
+      "Field"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013002,
+    "MagicUnitMazeBuffID": 688200,
+    "MagicUnitSimpleDesc": {
+      "Hash": -1484911469
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 150.0000000349246
+    },
+    "MagicUnitLevel": 2,
+    "MagicUnitDesc": {
+      "Hash": 98628853
+    },
+    "StyleType": "Break",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5020,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [
+      10000015
+    ],
+    "EffectTypeList": [
+      "Field"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013002,
+    "MagicUnitMazeBuffID": 688200,
+    "MagicUnitSimpleDesc": {
+      "Hash": -1484911468
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 300.0000000698492
+    },
+    "MagicUnitLevel": 3,
+    "MagicUnitDesc": {
+      "Hash": 98628854
+    },
+    "StyleType": "Break",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5020,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "Field"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013003,
+    "MagicUnitMazeBuffID": 688210,
+    "MagicUnitSimpleDesc": {
+      "Hash": -1484911503
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 60.00000001396984
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": 98628951
+    },
+    "StyleType": "Break",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5021,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "Field"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013003,
+    "MagicUnitMazeBuffID": 688210,
+    "MagicUnitSimpleDesc": {
+      "Hash": -1484911500
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 150.0000000349246
+    },
+    "MagicUnitLevel": 2,
+    "MagicUnitDesc": {
+      "Hash": 98628950
+    },
+    "StyleType": "Break",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5021,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "Field"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013003,
+    "MagicUnitMazeBuffID": 688210,
+    "MagicUnitSimpleDesc": {
+      "Hash": -1484911501
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 300.0000000698492
+    },
+    "MagicUnitLevel": 3,
+    "MagicUnitDesc": {
+      "Hash": 98628949
+    },
+    "StyleType": "Break",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5021,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "Eject",
+      "AOE",
+      "Spread"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 688220,
+    "MagicUnitSimpleDesc": {
+      "Hash": -1484911404
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 60.00000001396984
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": 98628790
+    },
+    "StyleType": "Ultimate",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5022,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "Eject",
+      "AOE",
+      "Spread"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 688220,
+    "MagicUnitSimpleDesc": {
+      "Hash": -1484911407
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 150.0000000349246
+    },
+    "MagicUnitLevel": 2,
+    "MagicUnitDesc": {
+      "Hash": 98628791
+    },
+    "StyleType": "Ultimate",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5022,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "Eject",
+      "AOE",
+      "Spread"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 688220,
+    "MagicUnitSimpleDesc": {
+      "Hash": -1484911406
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 300.0000000698492
+    },
+    "MagicUnitLevel": 3,
+    "MagicUnitDesc": {
+      "Hash": 98628792
+    },
+    "StyleType": "Ultimate",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5022,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 688230,
+    "MagicUnitSimpleDesc": {
+      "Hash": -1484911437
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 60.00000001396984
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": 98628885
+    },
+    "StyleType": "Ultimate",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5023,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 688230,
+    "MagicUnitSimpleDesc": {
+      "Hash": -1484911438
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 150.0000000349246
+    },
+    "MagicUnitLevel": 2,
+    "MagicUnitDesc": {
+      "Hash": 98628888
+    },
+    "StyleType": "Ultimate",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5023,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 688230,
+    "MagicUnitSimpleDesc": {
+      "Hash": -1484911439
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 300.0000000698492
+    },
+    "MagicUnitLevel": 3,
+    "MagicUnitDesc": {
+      "Hash": 98628887
+    },
+    "StyleType": "Ultimate",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5023,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [
+      61000044
+    ],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "Eject",
+      "AOE",
+      "Spread"
+    ],
+    "UnlockID": 5013012,
+    "MagicUnitMazeBuffID": 688240,
+    "MagicUnitSimpleDesc": {
+      "Hash": -1484911338
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 60.00000001396984
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": 98628988
+    },
+    "StyleType": "Ultimate",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5024,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [
+      61000044
+    ],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "Eject",
+      "AOE",
+      "Spread"
+    ],
+    "UnlockID": 5013012,
+    "MagicUnitMazeBuffID": 688240,
+    "MagicUnitSimpleDesc": {
+      "Hash": -1484911337
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 150.0000000349246
+    },
+    "MagicUnitLevel": 2,
+    "MagicUnitDesc": {
+      "Hash": 98628985
+    },
+    "StyleType": "Ultimate",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5024,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [
+      61000044
+    ],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "Eject",
+      "AOE",
+      "Spread"
+    ],
+    "UnlockID": 5013012,
+    "MagicUnitMazeBuffID": 688240,
+    "MagicUnitSimpleDesc": {
+      "Hash": -1484911336
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 300.0000000698492
+    },
+    "MagicUnitLevel": 3,
+    "MagicUnitDesc": {
+      "Hash": 98628986
+    },
+    "StyleType": "Ultimate",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5024,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [
+      61000047
+    ],
+    "EffectTypeList": [
+      "Turn"
+    ],
+    "AttachRangeTypeList": [
+      "Eject",
+      "AOE",
+      "Spread"
+    ],
+    "UnlockID": 5013001,
+    "MagicUnitMazeBuffID": 688250,
+    "MagicUnitSimpleDesc": {
+      "Hash": -1484911371
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 60.00000001396984
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": 98629083
+    },
+    "StyleType": "Ultimate",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5025,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [
+      61000047
+    ],
+    "EffectTypeList": [
+      "Turn"
+    ],
+    "AttachRangeTypeList": [
+      "Eject",
+      "AOE",
+      "Spread"
+    ],
+    "UnlockID": 5013001,
+    "MagicUnitMazeBuffID": 688250,
+    "MagicUnitSimpleDesc": {
+      "Hash": -1484911368
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 150.0000000349246
+    },
+    "MagicUnitLevel": 2,
+    "MagicUnitDesc": {
+      "Hash": 98629082
+    },
+    "StyleType": "Ultimate",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5025,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [
+      61000047
+    ],
+    "EffectTypeList": [
+      "Turn"
+    ],
+    "AttachRangeTypeList": [
+      "Eject",
+      "AOE",
+      "Spread"
+    ],
+    "UnlockID": 5013001,
+    "MagicUnitMazeBuffID": 688250,
+    "MagicUnitSimpleDesc": {
+      "Hash": -1484911369
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 300.0000000698492
+    },
+    "MagicUnitLevel": 3,
+    "MagicUnitDesc": {
+      "Hash": 98629081
+    },
+    "StyleType": "Ultimate",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5025,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [
+      61000047
+    ],
+    "EffectTypeList": [
+      "Field"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013004,
+    "MagicUnitMazeBuffID": 688260,
+    "MagicUnitSimpleDesc": {
+      "Hash": -1484911272
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 60.00000001396984
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": 98628922
+    },
+    "StyleType": "Ultimate",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5026,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [
+      61000047
+    ],
+    "EffectTypeList": [
+      "Field"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013004,
+    "MagicUnitMazeBuffID": 688260,
+    "MagicUnitSimpleDesc": {
+      "Hash": -1484911275
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 150.0000000349246
+    },
+    "MagicUnitLevel": 2,
+    "MagicUnitDesc": {
+      "Hash": 98628923
+    },
+    "StyleType": "Ultimate",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5026,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [
+      61000047
+    ],
+    "EffectTypeList": [
+      "Field"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013004,
+    "MagicUnitMazeBuffID": 688260,
+    "MagicUnitSimpleDesc": {
+      "Hash": -1484911274
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 300.0000000698492
+    },
+    "MagicUnitLevel": 3,
+    "MagicUnitDesc": {
+      "Hash": 98628924
+    },
+    "StyleType": "Ultimate",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5026,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [
+      61000047
+    ],
+    "EffectTypeList": [
+      "Field",
+      "Stack"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013001,
+    "MagicUnitMazeBuffID": 688270,
+    "MagicUnitSimpleDesc": {
+      "Hash": -1484911305
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 60.00000001396984
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": 98629017
+    },
+    "StyleType": "Ultimate",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5027,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [
+      61000047
+    ],
+    "EffectTypeList": [
+      "Field",
+      "Stack"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013001,
+    "MagicUnitMazeBuffID": 688270,
+    "MagicUnitSimpleDesc": {
+      "Hash": -1484911306
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 150.0000000349246
+    },
+    "MagicUnitLevel": 2,
+    "MagicUnitDesc": {
+      "Hash": 98629020
+    },
+    "StyleType": "Ultimate",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5027,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [
+      61000047
+    ],
+    "EffectTypeList": [
+      "Field",
+      "Stack"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013001,
+    "MagicUnitMazeBuffID": 688270,
+    "MagicUnitSimpleDesc": {
+      "Hash": -1484911307
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 300.0000000698492
+    },
+    "MagicUnitLevel": 3,
+    "MagicUnitDesc": {
+      "Hash": 98629019
+    },
+    "StyleType": "Ultimate",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5027,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "Stack",
+      "Turn"
+    ],
+    "AttachRangeTypeList": [
+      "Eject",
+      "AOE",
+      "Spread"
+    ],
+    "UnlockID": 5013003,
+    "MagicUnitMazeBuffID": 688280,
+    "MagicUnitSimpleDesc": {
+      "Hash": -1484911206
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 60.00000001396984
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": 98629120
+    },
+    "StyleType": "Ultimate",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5028,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "Stack",
+      "Turn"
+    ],
+    "AttachRangeTypeList": [
+      "Eject",
+      "AOE",
+      "Spread"
+    ],
+    "UnlockID": 5013003,
+    "MagicUnitMazeBuffID": 688280,
+    "MagicUnitSimpleDesc": {
+      "Hash": -1484911205
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 150.0000000349246
+    },
+    "MagicUnitLevel": 2,
+    "MagicUnitDesc": {
+      "Hash": 98629117
+    },
+    "StyleType": "Ultimate",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5028,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "Stack",
+      "Turn"
+    ],
+    "AttachRangeTypeList": [
+      "Eject",
+      "AOE",
+      "Spread"
+    ],
+    "UnlockID": 5013003,
+    "MagicUnitMazeBuffID": 688280,
+    "MagicUnitSimpleDesc": {
+      "Hash": -1484911204
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 300.0000000698492
+    },
+    "MagicUnitLevel": 3,
+    "MagicUnitDesc": {
+      "Hash": 98629118
+    },
+    "StyleType": "Ultimate",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5028,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [
+      61000044
+    ],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013003,
+    "MagicUnitMazeBuffID": 688290,
+    "MagicUnitSimpleDesc": {
+      "Hash": -1484911239
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 60.00000001396984
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": 98629215
+    },
+    "StyleType": "Common",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5029,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [
+      61000044
+    ],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013003,
+    "MagicUnitMazeBuffID": 688290,
+    "MagicUnitSimpleDesc": {
+      "Hash": -1484911236
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 150.0000000349246
+    },
+    "MagicUnitLevel": 2,
+    "MagicUnitDesc": {
+      "Hash": 98629214
+    },
+    "StyleType": "Common",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5029,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [
+      61000044
+    ],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013003,
+    "MagicUnitMazeBuffID": 688290,
+    "MagicUnitSimpleDesc": {
+      "Hash": -1484911237
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 300.0000000698492
+    },
+    "MagicUnitLevel": 3,
+    "MagicUnitDesc": {
+      "Hash": 98629213
+    },
+    "StyleType": "Common",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5029,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "Turn"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013004,
+    "MagicUnitMazeBuffID": 688300,
+    "MagicUnitSimpleDesc": {
+      "Hash": -180949555
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 60.00000001396984
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": 1402590771
+    },
+    "StyleType": "Common",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5030,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "Turn"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013004,
+    "MagicUnitMazeBuffID": 688300,
+    "MagicUnitSimpleDesc": {
+      "Hash": -180949554
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 150.0000000349246
+    },
+    "MagicUnitLevel": 2,
+    "MagicUnitDesc": {
+      "Hash": 1402590768
+    },
+    "StyleType": "Common",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5030,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "Turn"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013004,
+    "MagicUnitMazeBuffID": 688300,
+    "MagicUnitSimpleDesc": {
+      "Hash": -180949553
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 300.0000000698492
+    },
+    "MagicUnitLevel": 3,
+    "MagicUnitDesc": {
+      "Hash": 1402590769
+    },
+    "StyleType": "Common",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5030,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013011,
+    "MagicUnitMazeBuffID": 688310,
+    "MagicUnitSimpleDesc": {
+      "Hash": -180949588
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 60.00000001396984
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": 1402590866
+    },
+    "StyleType": "Common",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5031,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013011,
+    "MagicUnitMazeBuffID": 688310,
+    "MagicUnitSimpleDesc": {
+      "Hash": -180949585
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 150.0000000349246
+    },
+    "MagicUnitLevel": 2,
+    "MagicUnitDesc": {
+      "Hash": 1402590865
+    },
+    "StyleType": "Common",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5031,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013011,
+    "MagicUnitMazeBuffID": 688310,
+    "MagicUnitSimpleDesc": {
+      "Hash": -180949586
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 300.0000000698492
+    },
+    "MagicUnitLevel": 3,
+    "MagicUnitDesc": {
+      "Hash": 1402590864
+    },
+    "StyleType": "Common",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5031,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "Field"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013011,
+    "MagicUnitMazeBuffID": 688320,
+    "MagicUnitSimpleDesc": {
+      "Hash": -180949489
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 60.00000001396984
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": 1402590705
+    },
+    "StyleType": "Common",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5032,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "Field"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013011,
+    "MagicUnitMazeBuffID": 688320,
+    "MagicUnitSimpleDesc": {
+      "Hash": -180949492
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 150.0000000349246
+    },
+    "MagicUnitLevel": 2,
+    "MagicUnitDesc": {
+      "Hash": 1402590706
+    },
+    "StyleType": "Common",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5032,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "Field"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013011,
+    "MagicUnitMazeBuffID": 688320,
+    "MagicUnitSimpleDesc": {
+      "Hash": -180949491
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 300.0000000698492
+    },
+    "MagicUnitLevel": 3,
+    "MagicUnitDesc": {
+      "Hash": 1402590707
+    },
+    "StyleType": "Common",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5032,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "Field"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013011,
+    "MagicUnitMazeBuffID": 688330,
+    "MagicUnitSimpleDesc": {
+      "Hash": -180949522
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 60.00000001396984
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": 1402590800
+    },
+    "StyleType": "Common",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5033,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "Field"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013011,
+    "MagicUnitMazeBuffID": 688330,
+    "MagicUnitSimpleDesc": {
+      "Hash": -180949523
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 150.0000000349246
+    },
+    "MagicUnitLevel": 2,
+    "MagicUnitDesc": {
+      "Hash": 1402590803
+    },
+    "StyleType": "Common",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5033,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "Field"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013011,
+    "MagicUnitMazeBuffID": 688330,
+    "MagicUnitSimpleDesc": {
+      "Hash": -180949524
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 300.0000000698492
+    },
+    "MagicUnitLevel": 3,
+    "MagicUnitDesc": {
+      "Hash": 1402590802
+    },
+    "StyleType": "Common",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5033,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "Eject",
+      "AOE",
+      "Spread"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 688340,
+    "MagicUnitSimpleDesc": {
+      "Hash": -180949423
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 60.00000001396984
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": 1402590903
+    },
+    "StyleType": "Common",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5034,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "Eject",
+      "AOE",
+      "Spread"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 688340,
+    "MagicUnitSimpleDesc": {
+      "Hash": -180949422
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 150.0000000349246
+    },
+    "MagicUnitLevel": 2,
+    "MagicUnitDesc": {
+      "Hash": 1402590900
+    },
+    "StyleType": "Common",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5034,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "Eject",
+      "AOE",
+      "Spread"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 688340,
+    "MagicUnitSimpleDesc": {
+      "Hash": -180949421
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 300.0000000698492
+    },
+    "MagicUnitLevel": 3,
+    "MagicUnitDesc": {
+      "Hash": 1402590901
+    },
+    "StyleType": "Common",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5034,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "Stack",
+      "Turn"
+    ],
+    "AttachRangeTypeList": [
+      "Eject",
+      "AOE",
+      "Spread"
+    ],
+    "UnlockID": 5013011,
+    "MagicUnitMazeBuffID": 688350,
+    "MagicUnitSimpleDesc": {
+      "Hash": -180949456
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 60.00000001396984
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": 1402590998
+    },
+    "StyleType": "Common",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5035,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "Stack",
+      "Turn"
+    ],
+    "AttachRangeTypeList": [
+      "Eject",
+      "AOE",
+      "Spread"
+    ],
+    "UnlockID": 5013011,
+    "MagicUnitMazeBuffID": 688350,
+    "MagicUnitSimpleDesc": {
+      "Hash": -180949453
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 150.0000000349246
+    },
+    "MagicUnitLevel": 2,
+    "MagicUnitDesc": {
+      "Hash": 1402590997
+    },
+    "StyleType": "Common",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5035,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "Stack",
+      "Turn"
+    ],
+    "AttachRangeTypeList": [
+      "Eject",
+      "AOE",
+      "Spread"
+    ],
+    "UnlockID": 5013011,
+    "MagicUnitMazeBuffID": 688350,
+    "MagicUnitSimpleDesc": {
+      "Hash": -180949454
+    },
+    "FuncType": "None",
+    "UnitBasicPower": {
+      "Value": 300.0000000698492
+    },
+    "MagicUnitLevel": 3,
+    "MagicUnitDesc": {
+      "Hash": 1402590996
+    },
+    "StyleType": "Common",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Attach",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 5035,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "Stack"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 685010,
+    "MagicUnitSimpleDesc": {
+      "Hash": -474504372
+    },
+    "FuncType": "Common",
+    "UnitBasicPower": {
+      "Value": 0.20000000023283065
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": 1109036082
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Passive",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 6001,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "Stack"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 685010,
+    "MagicUnitSimpleDesc": {
+      "Hash": -474504369
+    },
+    "FuncType": "Common",
+    "UnitBasicPower": {
+      "Value": 0.4000000004656613
+    },
+    "MagicUnitLevel": 2,
+    "MagicUnitDesc": {
+      "Hash": 1109036081
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Passive",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 6001,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "Stack"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 685010,
+    "MagicUnitSimpleDesc": {
+      "Hash": -474504370
+    },
+    "FuncType": "Common",
+    "UnitBasicPower": {
+      "Value": 0.6000000006984919
+    },
+    "MagicUnitLevel": 3,
+    "MagicUnitDesc": {
+      "Hash": 1109036080
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Passive",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 6001,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013001,
+    "MagicUnitMazeBuffID": 685020,
+    "MagicUnitSimpleDesc": {
+      "Hash": -474504273
+    },
+    "FuncType": "ActionDelay",
+    "UnitBasicPower": {
+      "Value": 0.20000000023283065
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": 1109035921
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Passive",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 6002,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013001,
+    "MagicUnitMazeBuffID": 685020,
+    "MagicUnitSimpleDesc": {
+      "Hash": -474504276
+    },
+    "FuncType": "ActionDelay",
+    "UnitBasicPower": {
+      "Value": 0.4000000004656613
+    },
+    "MagicUnitLevel": 2,
+    "MagicUnitDesc": {
+      "Hash": 1109035922
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Passive",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 6002,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013001,
+    "MagicUnitMazeBuffID": 685020,
+    "MagicUnitSimpleDesc": {
+      "Hash": -474504275
+    },
+    "FuncType": "ActionDelay",
+    "UnitBasicPower": {
+      "Value": 0.6000000006984919
+    },
+    "MagicUnitLevel": 3,
+    "MagicUnitDesc": {
+      "Hash": 1109035923
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Passive",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 6002,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013002,
+    "MagicUnitMazeBuffID": 685030,
+    "MagicUnitSimpleDesc": {
+      "Hash": -474504306
+    },
+    "FuncType": "SP",
+    "UnitBasicPower": {
+      "Value": 0.20000000023283065
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": 1109036016
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Passive",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 6003,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013002,
+    "MagicUnitMazeBuffID": 685030,
+    "MagicUnitSimpleDesc": {
+      "Hash": -474504307
+    },
+    "FuncType": "SP",
+    "UnitBasicPower": {
+      "Value": 0.4000000004656613
+    },
+    "MagicUnitLevel": 2,
+    "MagicUnitDesc": {
+      "Hash": 1109036019
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Passive",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 6003,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013002,
+    "MagicUnitMazeBuffID": 685030,
+    "MagicUnitSimpleDesc": {
+      "Hash": -474504308
+    },
+    "FuncType": "SP",
+    "UnitBasicPower": {
+      "Value": 0.6000000006984919
+    },
+    "MagicUnitLevel": 3,
+    "MagicUnitDesc": {
+      "Hash": 1109036018
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Passive",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 6003,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [
+      61000048
+    ],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013001,
+    "MagicUnitMazeBuffID": 685040,
+    "MagicUnitSimpleDesc": {
+      "Hash": -474504207
+    },
+    "FuncType": "Common",
+    "UnitBasicPower": {
+      "Value": 0.20000000023283065
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": 1109036119
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Passive",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 6004,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [
+      61000048
+    ],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013001,
+    "MagicUnitMazeBuffID": 685040,
+    "MagicUnitSimpleDesc": {
+      "Hash": -474504206
+    },
+    "FuncType": "Common",
+    "UnitBasicPower": {
+      "Value": 0.4000000004656613
+    },
+    "MagicUnitLevel": 2,
+    "MagicUnitDesc": {
+      "Hash": 1109036116
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Passive",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 6004,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [
+      61000048
+    ],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013001,
+    "MagicUnitMazeBuffID": 685040,
+    "MagicUnitSimpleDesc": {
+      "Hash": -474504205
+    },
+    "FuncType": "Common",
+    "UnitBasicPower": {
+      "Value": 0.6000000006984919
+    },
+    "MagicUnitLevel": 3,
+    "MagicUnitDesc": {
+      "Hash": 1109036117
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Passive",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 6004,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 685050,
+    "MagicUnitSimpleDesc": {
+      "Hash": -474504240
+    },
+    "FuncType": "Common",
+    "UnitBasicPower": {
+      "Value": 0.20000000023283065
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": 1109036214
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Passive",
+    "SpecialType": "None",
+    "LimitRange": "Eject",
+    "MagicUnitID": 6005,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 685050,
+    "MagicUnitSimpleDesc": {
+      "Hash": -474504237
+    },
+    "FuncType": "Common",
+    "UnitBasicPower": {
+      "Value": 0.4000000004656613
+    },
+    "MagicUnitLevel": 2,
+    "MagicUnitDesc": {
+      "Hash": 1109036213
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Passive",
+    "SpecialType": "None",
+    "LimitRange": "Eject",
+    "MagicUnitID": 6005,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 685050,
+    "MagicUnitSimpleDesc": {
+      "Hash": -474504238
+    },
+    "FuncType": "Common",
+    "UnitBasicPower": {
+      "Value": 0.6000000006984919
+    },
+    "MagicUnitLevel": 3,
+    "MagicUnitDesc": {
+      "Hash": 1109036212
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Passive",
+    "SpecialType": "None",
+    "LimitRange": "Eject",
+    "MagicUnitID": 6005,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [
+      61000046,
+      61000048
+    ],
+    "EffectTypeList": [
+      "Field"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013004,
+    "MagicUnitMazeBuffID": 685060,
+    "MagicUnitSimpleDesc": {
+      "Hash": -474504141
+    },
+    "FuncType": "Common",
+    "UnitBasicPower": {
+      "Value": 0.20000000023283065
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": 1109036053
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Passive",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 6006,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [
+      61000046,
+      61000048
+    ],
+    "EffectTypeList": [
+      "Field"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013004,
+    "MagicUnitMazeBuffID": 685060,
+    "MagicUnitSimpleDesc": {
+      "Hash": -474504144
+    },
+    "FuncType": "Common",
+    "UnitBasicPower": {
+      "Value": 0.4000000004656613
+    },
+    "MagicUnitLevel": 2,
+    "MagicUnitDesc": {
+      "Hash": 1109036054
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Passive",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 6006,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [
+      61000046,
+      61000048
+    ],
+    "EffectTypeList": [
+      "Field"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013004,
+    "MagicUnitMazeBuffID": 685060,
+    "MagicUnitSimpleDesc": {
+      "Hash": -474504143
+    },
+    "FuncType": "Common",
+    "UnitBasicPower": {
+      "Value": 0.6000000006984919
+    },
+    "MagicUnitLevel": 3,
+    "MagicUnitDesc": {
+      "Hash": 1109036055
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Passive",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 6006,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [
+      61000048
+    ],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 685070,
+    "MagicUnitSimpleDesc": {
+      "Hash": -474504174
+    },
+    "FuncType": "Common",
+    "UnitBasicPower": {
+      "Value": 0.20000000023283065
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": 1109036148
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Passive",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 6007,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [
+      61000048
+    ],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 685070,
+    "MagicUnitSimpleDesc": {
+      "Hash": -474504175
+    },
+    "FuncType": "Common",
+    "UnitBasicPower": {
+      "Value": 0.4000000004656613
+    },
+    "MagicUnitLevel": 2,
+    "MagicUnitDesc": {
+      "Hash": 1109036151
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Passive",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 6007,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [
+      61000048
+    ],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 685070,
+    "MagicUnitSimpleDesc": {
+      "Hash": -474504176
+    },
+    "FuncType": "Common",
+    "UnitBasicPower": {
+      "Value": 0.6000000006984919
+    },
+    "MagicUnitLevel": 3,
+    "MagicUnitDesc": {
+      "Hash": 1109036150
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Passive",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 6007,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "Turn"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 685080,
+    "MagicUnitSimpleDesc": {
+      "Hash": -474504075
+    },
+    "FuncType": "Common",
+    "UnitBasicPower": {
+      "Value": 0.20000000023283065
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": 1109036251
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Passive",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 6008,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "Turn"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 685080,
+    "MagicUnitSimpleDesc": {
+      "Hash": -474504074
+    },
+    "FuncType": "Common",
+    "UnitBasicPower": {
+      "Value": 0.4000000004656613
+    },
+    "MagicUnitLevel": 2,
+    "MagicUnitDesc": {
+      "Hash": 1109036248
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Passive",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 6008,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [
+      61000048
+    ],
+    "EffectTypeList": [
+      "Turn"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 685080,
+    "MagicUnitSimpleDesc": {
+      "Hash": -474504073
+    },
+    "FuncType": "Common",
+    "UnitBasicPower": {
+      "Value": 0.6000000006984919
+    },
+    "MagicUnitLevel": 3,
+    "MagicUnitDesc": {
+      "Hash": 1109036249
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Passive",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 6008,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [
+      61000048
+    ],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 685090,
+    "MagicUnitSimpleDesc": {
+      "Hash": -474504108
+    },
+    "FuncType": "Common",
+    "UnitBasicPower": {
+      "Value": 0.20000000023283065
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": 1109036346
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Passive",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 6009,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [
+      61000048
+    ],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 685090,
+    "MagicUnitSimpleDesc": {
+      "Hash": -474504105
+    },
+    "FuncType": "Common",
+    "UnitBasicPower": {
+      "Value": 0.4000000004656613
+    },
+    "MagicUnitLevel": 2,
+    "MagicUnitDesc": {
+      "Hash": 1109036345
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Passive",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 6009,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [
+      61000048
+    ],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 685090,
+    "MagicUnitSimpleDesc": {
+      "Hash": -474504106
+    },
+    "FuncType": "Common",
+    "UnitBasicPower": {
+      "Value": 0.6000000006984919
+    },
+    "MagicUnitLevel": 3,
+    "MagicUnitDesc": {
+      "Hash": 1109036344
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Passive",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 6009,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [
+      61000048
+    ],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 685100,
+    "MagicUnitSimpleDesc": {
+      "Hash": -373747790
+    },
+    "FuncType": "Common",
+    "UnitBasicPower": {
+      "Value": 0.20000000023283065
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": 1209792536
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Passive",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 6010,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [
+      61000048
+    ],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 685100,
+    "MagicUnitSimpleDesc": {
+      "Hash": -373747789
+    },
+    "FuncType": "Common",
+    "UnitBasicPower": {
+      "Value": 0.4000000004656613
+    },
+    "MagicUnitLevel": 2,
+    "MagicUnitDesc": {
+      "Hash": 1209792533
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Passive",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 6010,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [
+      61000048
+    ],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 685100,
+    "MagicUnitSimpleDesc": {
+      "Hash": -373747788
+    },
+    "FuncType": "Common",
+    "UnitBasicPower": {
+      "Value": 0.6000000006984919
+    },
+    "MagicUnitLevel": 3,
+    "MagicUnitDesc": {
+      "Hash": 1209792534
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Passive",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 6010,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [
+      61000048
+    ],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013003,
+    "MagicUnitMazeBuffID": 685110,
+    "MagicUnitSimpleDesc": {
+      "Hash": -373747823
+    },
+    "FuncType": "SP",
+    "UnitBasicPower": {
+      "Value": 0.20000000023283065
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": 1209792631
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Passive",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 6011,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [
+      61000048
+    ],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013003,
+    "MagicUnitMazeBuffID": 685110,
+    "MagicUnitSimpleDesc": {
+      "Hash": -373747820
+    },
+    "FuncType": "SP",
+    "UnitBasicPower": {
+      "Value": 0.4000000004656613
+    },
+    "MagicUnitLevel": 2,
+    "MagicUnitDesc": {
+      "Hash": 1209792630
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Passive",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 6011,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [
+      61000048
+    ],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013003,
+    "MagicUnitMazeBuffID": 685110,
+    "MagicUnitSimpleDesc": {
+      "Hash": -373747821
+    },
+    "FuncType": "SP",
+    "UnitBasicPower": {
+      "Value": 0.6000000006984919
+    },
+    "MagicUnitLevel": 3,
+    "MagicUnitDesc": {
+      "Hash": 1209792629
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Passive",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 6011,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013001,
+    "MagicUnitMazeBuffID": 685120,
+    "MagicUnitSimpleDesc": {
+      "Hash": -373747724
+    },
+    "FuncType": "ActionDelay",
+    "UnitBasicPower": {
+      "Value": 0.20000000023283065
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": 1209792470
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Passive",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 6012,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013001,
+    "MagicUnitMazeBuffID": 685120,
+    "MagicUnitSimpleDesc": {
+      "Hash": -373747727
+    },
+    "FuncType": "ActionDelay",
+    "UnitBasicPower": {
+      "Value": 0.4000000004656613
+    },
+    "MagicUnitLevel": 2,
+    "MagicUnitDesc": {
+      "Hash": 1209792471
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Passive",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 6012,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013001,
+    "MagicUnitMazeBuffID": 685120,
+    "MagicUnitSimpleDesc": {
+      "Hash": -373747726
+    },
+    "FuncType": "ActionDelay",
+    "UnitBasicPower": {
+      "Value": 0.6000000006984919
+    },
+    "MagicUnitLevel": 3,
+    "MagicUnitDesc": {
+      "Hash": 1209792472
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Passive",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 6012,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013013,
+    "MagicUnitMazeBuffID": 685130,
+    "MagicUnitSimpleDesc": {
+      "Hash": -373747757
+    },
+    "FuncType": "Common",
+    "UnitBasicPower": {
+      "Value": 0
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": 1209792565
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Passive",
+    "SpecialType": "Manage",
+    "LimitRange": "None",
+    "MagicUnitID": 6013,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013013,
+    "MagicUnitMazeBuffID": 685130,
+    "MagicUnitSimpleDesc": {
+      "Hash": -373747758
+    },
+    "FuncType": "Common",
+    "UnitBasicPower": {
+      "Value": 0
+    },
+    "MagicUnitLevel": 2,
+    "MagicUnitDesc": {
+      "Hash": 1209792568
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Passive",
+    "SpecialType": "Manage",
+    "LimitRange": "None",
+    "MagicUnitID": 6013,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013013,
+    "MagicUnitMazeBuffID": 685130,
+    "MagicUnitSimpleDesc": {
+      "Hash": -373747759
+    },
+    "FuncType": "Common",
+    "UnitBasicPower": {
+      "Value": 0
+    },
+    "MagicUnitLevel": 3,
+    "MagicUnitDesc": {
+      "Hash": 1209792567
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Passive",
+    "SpecialType": "Manage",
+    "LimitRange": "None",
+    "MagicUnitID": 6013,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013013,
+    "MagicUnitMazeBuffID": 685140,
+    "MagicUnitSimpleDesc": {
+      "Hash": -373747658
+    },
+    "FuncType": "Common",
+    "UnitBasicPower": {
+      "Value": 0
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": 1209792668
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Passive",
+    "SpecialType": "Manage",
+    "LimitRange": "None",
+    "MagicUnitID": 6014,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013013,
+    "MagicUnitMazeBuffID": 685140,
+    "MagicUnitSimpleDesc": {
+      "Hash": -373747657
+    },
+    "FuncType": "Common",
+    "UnitBasicPower": {
+      "Value": 0
+    },
+    "MagicUnitLevel": 2,
+    "MagicUnitDesc": {
+      "Hash": 1209792665
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Passive",
+    "SpecialType": "Manage",
+    "LimitRange": "None",
+    "MagicUnitID": 6014,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013013,
+    "MagicUnitMazeBuffID": 685140,
+    "MagicUnitSimpleDesc": {
+      "Hash": -373747656
+    },
+    "FuncType": "Common",
+    "UnitBasicPower": {
+      "Value": 0
+    },
+    "MagicUnitLevel": 3,
+    "MagicUnitDesc": {
+      "Hash": 1209792666
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Passive",
+    "SpecialType": "Manage",
+    "LimitRange": "None",
+    "MagicUnitID": 6014,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013013,
+    "MagicUnitMazeBuffID": 685150,
+    "MagicUnitSimpleDesc": {
+      "Hash": -373747691
+    },
+    "FuncType": "Common",
+    "UnitBasicPower": {
+      "Value": 0
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": 1209792763
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Passive",
+    "SpecialType": "Manage",
+    "LimitRange": "None",
+    "MagicUnitID": 6015,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013013,
+    "MagicUnitMazeBuffID": 685150,
+    "MagicUnitSimpleDesc": {
+      "Hash": -373747688
+    },
+    "FuncType": "Common",
+    "UnitBasicPower": {
+      "Value": 0
+    },
+    "MagicUnitLevel": 2,
+    "MagicUnitDesc": {
+      "Hash": 1209792762
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Passive",
+    "SpecialType": "Manage",
+    "LimitRange": "None",
+    "MagicUnitID": 6015,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013013,
+    "MagicUnitMazeBuffID": 685150,
+    "MagicUnitSimpleDesc": {
+      "Hash": -373747689
+    },
+    "FuncType": "Common",
+    "UnitBasicPower": {
+      "Value": 0
+    },
+    "MagicUnitLevel": 3,
+    "MagicUnitDesc": {
+      "Hash": 1209792761
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Passive",
+    "SpecialType": "Manage",
+    "LimitRange": "None",
+    "MagicUnitID": 6015,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 685160,
+    "MagicUnitSimpleDesc": {
+      "Hash": -373747592
+    },
+    "FuncType": "SP",
+    "UnitBasicPower": {
+      "Value": 0.20000000023283065
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": 1209792602
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Passive",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 6016,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 685160,
+    "MagicUnitSimpleDesc": {
+      "Hash": -373747595
+    },
+    "FuncType": "SP",
+    "UnitBasicPower": {
+      "Value": 0.4000000004656613
+    },
+    "MagicUnitLevel": 2,
+    "MagicUnitDesc": {
+      "Hash": 1209792603
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Passive",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 6016,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 685160,
+    "MagicUnitSimpleDesc": {
+      "Hash": -373747594
+    },
+    "FuncType": "SP",
+    "UnitBasicPower": {
+      "Value": 0.6000000006984919
+    },
+    "MagicUnitLevel": 3,
+    "MagicUnitDesc": {
+      "Hash": 1209792604
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Passive",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 6016,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [
+      61000048
+    ],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013003,
+    "MagicUnitMazeBuffID": 685170,
+    "MagicUnitSimpleDesc": {
+      "Hash": -373747625
+    },
+    "FuncType": "ActionDelay",
+    "UnitBasicPower": {
+      "Value": 0.20000000023283065
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": 1209792697
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Passive",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 6017,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [
+      61000048
+    ],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013003,
+    "MagicUnitMazeBuffID": 685170,
+    "MagicUnitSimpleDesc": {
+      "Hash": -373747626
+    },
+    "FuncType": "ActionDelay",
+    "UnitBasicPower": {
+      "Value": 0.4000000004656613
+    },
+    "MagicUnitLevel": 2,
+    "MagicUnitDesc": {
+      "Hash": 1209792700
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Passive",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 6017,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [
+      61000048
+    ],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013003,
+    "MagicUnitMazeBuffID": 685170,
+    "MagicUnitSimpleDesc": {
+      "Hash": -373747627
+    },
+    "FuncType": "ActionDelay",
+    "UnitBasicPower": {
+      "Value": 0.6000000006984919
+    },
+    "MagicUnitLevel": 3,
+    "MagicUnitDesc": {
+      "Hash": 1209792699
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Passive",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 6017,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [
+      61000048
+    ],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013002,
+    "MagicUnitMazeBuffID": 685180,
+    "MagicUnitSimpleDesc": {
+      "Hash": -373747526
+    },
+    "FuncType": "ActionDelay",
+    "UnitBasicPower": {
+      "Value": 0.20000000023283065
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": 1209792800
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Passive",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 6018,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [
+      61000048
+    ],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013002,
+    "MagicUnitMazeBuffID": 685180,
+    "MagicUnitSimpleDesc": {
+      "Hash": -373747525
+    },
+    "FuncType": "ActionDelay",
+    "UnitBasicPower": {
+      "Value": 0.4000000004656613
+    },
+    "MagicUnitLevel": 2,
+    "MagicUnitDesc": {
+      "Hash": 1209792797
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Passive",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 6018,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [
+      61000048
+    ],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013002,
+    "MagicUnitMazeBuffID": 685180,
+    "MagicUnitSimpleDesc": {
+      "Hash": -373747524
+    },
+    "FuncType": "ActionDelay",
+    "UnitBasicPower": {
+      "Value": 0.6000000006984919
+    },
+    "MagicUnitLevel": 3,
+    "MagicUnitDesc": {
+      "Hash": 1209792798
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Passive",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 6018,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 685190,
+    "MagicUnitSimpleDesc": {
+      "Hash": -373747559
+    },
+    "FuncType": "SP",
+    "UnitBasicPower": {
+      "Value": 0.20000000023283065
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": 1209792895
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Passive",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 6019,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 685190,
+    "MagicUnitSimpleDesc": {
+      "Hash": -373747556
+    },
+    "FuncType": "SP",
+    "UnitBasicPower": {
+      "Value": 0.4000000004656613
+    },
+    "MagicUnitLevel": 2,
+    "MagicUnitDesc": {
+      "Hash": 1209792894
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Passive",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 6019,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 0,
+    "MagicUnitMazeBuffID": 685190,
+    "MagicUnitSimpleDesc": {
+      "Hash": -373747557
+    },
+    "FuncType": "SP",
+    "UnitBasicPower": {
+      "Value": 0.6000000006984919
+    },
+    "MagicUnitLevel": 3,
+    "MagicUnitDesc": {
+      "Hash": 1209792893
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Passive",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 6019,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013005,
+    "MagicUnitMazeBuffID": 685200,
+    "MagicUnitSimpleDesc": {
+      "Hash": -1677709705
+    },
+    "FuncType": "Common",
+    "UnitBasicPower": {
+      "Value": 0.20000000023283065
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": -94169379
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Passive",
+    "SpecialType": "None",
+    "LimitRange": "AOE",
+    "MagicUnitID": 6020,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013005,
+    "MagicUnitMazeBuffID": 685200,
+    "MagicUnitSimpleDesc": {
+      "Hash": -1677709704
+    },
+    "FuncType": "Common",
+    "UnitBasicPower": {
+      "Value": 0.4000000004656613
+    },
+    "MagicUnitLevel": 2,
+    "MagicUnitDesc": {
+      "Hash": -94169382
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Passive",
+    "SpecialType": "None",
+    "LimitRange": "AOE",
+    "MagicUnitID": 6020,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013005,
+    "MagicUnitMazeBuffID": 685200,
+    "MagicUnitSimpleDesc": {
+      "Hash": -1677709703
+    },
+    "FuncType": "Common",
+    "UnitBasicPower": {
+      "Value": 0.6000000006984919
+    },
+    "MagicUnitLevel": 3,
+    "MagicUnitDesc": {
+      "Hash": -94169381
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Passive",
+    "SpecialType": "None",
+    "LimitRange": "AOE",
+    "MagicUnitID": 6020,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013005,
+    "MagicUnitMazeBuffID": 685210,
+    "MagicUnitSimpleDesc": {
+      "Hash": -1677709738
+    },
+    "FuncType": "Common",
+    "UnitBasicPower": {
+      "Value": 0.20000000023283065
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": -94169284
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Passive",
+    "SpecialType": "None",
+    "LimitRange": "Spread",
+    "MagicUnitID": 6021,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013005,
+    "MagicUnitMazeBuffID": 685210,
+    "MagicUnitSimpleDesc": {
+      "Hash": -1677709735
+    },
+    "FuncType": "Common",
+    "UnitBasicPower": {
+      "Value": 0.4000000004656613
+    },
+    "MagicUnitLevel": 2,
+    "MagicUnitDesc": {
+      "Hash": -94169285
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Passive",
+    "SpecialType": "None",
+    "LimitRange": "Spread",
+    "MagicUnitID": 6021,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013005,
+    "MagicUnitMazeBuffID": 685210,
+    "MagicUnitSimpleDesc": {
+      "Hash": -1677709736
+    },
+    "FuncType": "Common",
+    "UnitBasicPower": {
+      "Value": 0.6000000006984919
+    },
+    "MagicUnitLevel": 3,
+    "MagicUnitDesc": {
+      "Hash": -94169286
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Passive",
+    "SpecialType": "None",
+    "LimitRange": "Spread",
+    "MagicUnitID": 6021,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [
+      61000048
+    ],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013003,
+    "MagicUnitMazeBuffID": 685220,
+    "MagicUnitSimpleDesc": {
+      "Hash": -1677709639
+    },
+    "FuncType": "Common",
+    "UnitBasicPower": {
+      "Value": 0.20000000023283065
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": -94169445
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Passive",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 6022,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [
+      61000048
+    ],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013003,
+    "MagicUnitMazeBuffID": 685220,
+    "MagicUnitSimpleDesc": {
+      "Hash": -1677709642
+    },
+    "FuncType": "Common",
+    "UnitBasicPower": {
+      "Value": 0.4000000004656613
+    },
+    "MagicUnitLevel": 2,
+    "MagicUnitDesc": {
+      "Hash": -94169444
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Passive",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 6022,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [
+      61000048
+    ],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013003,
+    "MagicUnitMazeBuffID": 685220,
+    "MagicUnitSimpleDesc": {
+      "Hash": -1677709641
+    },
+    "FuncType": "Common",
+    "UnitBasicPower": {
+      "Value": 0.6000000006984919
+    },
+    "MagicUnitLevel": 3,
+    "MagicUnitDesc": {
+      "Hash": -94169443
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Passive",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 6022,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013005,
+    "MagicUnitMazeBuffID": 685230,
+    "MagicUnitSimpleDesc": {
+      "Hash": -1677709672
+    },
+    "FuncType": "Common",
+    "UnitBasicPower": {
+      "Value": 0.20000000023283065
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": -94169350
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Passive",
+    "SpecialType": "None",
+    "LimitRange": "Concentrate",
+    "MagicUnitID": 6023,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013005,
+    "MagicUnitMazeBuffID": 685230,
+    "MagicUnitSimpleDesc": {
+      "Hash": -1677709673
+    },
+    "FuncType": "Common",
+    "UnitBasicPower": {
+      "Value": 0.4000000004656613
+    },
+    "MagicUnitLevel": 2,
+    "MagicUnitDesc": {
+      "Hash": -94169347
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Passive",
+    "SpecialType": "None",
+    "LimitRange": "Concentrate",
+    "MagicUnitID": 6023,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013005,
+    "MagicUnitMazeBuffID": 685230,
+    "MagicUnitSimpleDesc": {
+      "Hash": -1677709674
+    },
+    "FuncType": "Common",
+    "UnitBasicPower": {
+      "Value": 0.6000000006984919
+    },
+    "MagicUnitLevel": 3,
+    "MagicUnitDesc": {
+      "Hash": -94169348
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Passive",
+    "SpecialType": "None",
+    "LimitRange": "Concentrate",
+    "MagicUnitID": 6023,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [
+      61000048
+    ],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013014,
+    "MagicUnitMazeBuffID": 685240,
+    "MagicUnitSimpleDesc": {
+      "Hash": -1677709573
+    },
+    "FuncType": "Common",
+    "UnitBasicPower": {
+      "Value": -0.20000000023283065
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": -94169247
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Passive",
+    "SpecialType": "Manage",
+    "LimitRange": "None",
+    "MagicUnitID": 6024,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [
+      61000048
+    ],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013014,
+    "MagicUnitMazeBuffID": 685240,
+    "MagicUnitSimpleDesc": {
+      "Hash": -1677709572
+    },
+    "FuncType": "Common",
+    "UnitBasicPower": {
+      "Value": -0.4000000004656613
+    },
+    "MagicUnitLevel": 2,
+    "MagicUnitDesc": {
+      "Hash": -94169250
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Passive",
+    "SpecialType": "Manage",
+    "LimitRange": "None",
+    "MagicUnitID": 6024,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [
+      61000048
+    ],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013014,
+    "MagicUnitMazeBuffID": 685240,
+    "MagicUnitSimpleDesc": {
+      "Hash": -1677709571
+    },
+    "FuncType": "Common",
+    "UnitBasicPower": {
+      "Value": -0.6000000006984919
+    },
+    "MagicUnitLevel": 3,
+    "MagicUnitDesc": {
+      "Hash": -94169249
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Passive",
+    "SpecialType": "Manage",
+    "LimitRange": "None",
+    "MagicUnitID": 6024,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013014,
+    "MagicUnitMazeBuffID": 685250,
+    "MagicUnitSimpleDesc": {
+      "Hash": -1677709606
+    },
+    "FuncType": "Common",
+    "UnitBasicPower": {
+      "Value": -0.20000000023283065
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": -94169152
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Passive",
+    "SpecialType": "Manage",
+    "LimitRange": "None",
+    "MagicUnitID": 6025,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013014,
+    "MagicUnitMazeBuffID": 685250,
+    "MagicUnitSimpleDesc": {
+      "Hash": -1677709603
+    },
+    "FuncType": "Common",
+    "UnitBasicPower": {
+      "Value": -0.4000000004656613
+    },
+    "MagicUnitLevel": 2,
+    "MagicUnitDesc": {
+      "Hash": -94169153
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Passive",
+    "SpecialType": "Manage",
+    "LimitRange": "None",
+    "MagicUnitID": 6025,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013014,
+    "MagicUnitMazeBuffID": 685250,
+    "MagicUnitSimpleDesc": {
+      "Hash": -1677709604
+    },
+    "FuncType": "Common",
+    "UnitBasicPower": {
+      "Value": -0.6000000006984919
+    },
+    "MagicUnitLevel": 3,
+    "MagicUnitDesc": {
+      "Hash": -94169154
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Common",
+    "MagicUnitType": "Passive",
+    "SpecialType": "Manage",
+    "LimitRange": "None",
+    "MagicUnitID": 6025,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013002,
+    "MagicUnitMazeBuffID": 685510,
+    "MagicUnitSimpleDesc": {
+      "Hash": 547132541
+    },
+    "FuncType": "Common",
+    "UnitBasicPower": {
+      "Value": 1.0000000002328306
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": 288912267
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Ultra",
+    "MagicUnitType": "Passive",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 6051,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013002,
+    "MagicUnitMazeBuffID": 685520,
+    "MagicUnitSimpleDesc": {
+      "Hash": 547132640
+    },
+    "FuncType": "Common",
+    "UnitBasicPower": {
+      "Value": 1.0000000002328306
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": 288912106
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Ultra",
+    "MagicUnitType": "Passive",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 6052,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013003,
+    "MagicUnitMazeBuffID": 685530,
+    "MagicUnitSimpleDesc": {
+      "Hash": 547132607
+    },
+    "FuncType": "ActionDelay",
+    "UnitBasicPower": {
+      "Value": 1.0000000002328306
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": 288912201
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Ultra",
+    "MagicUnitType": "Passive",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 6053,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [
+      61000048
+    ],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013003,
+    "MagicUnitMazeBuffID": 685540,
+    "MagicUnitSimpleDesc": {
+      "Hash": 547132706
+    },
+    "FuncType": "SP",
+    "UnitBasicPower": {
+      "Value": 1.0000000002328306
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": 288912304
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Ultra",
+    "MagicUnitType": "Passive",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 6054,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013002,
+    "MagicUnitMazeBuffID": 685550,
+    "MagicUnitSimpleDesc": {
+      "Hash": 547132673
+    },
+    "FuncType": "ActionDelay",
+    "UnitBasicPower": {
+      "Value": 1.0000000002328306
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": 288912399
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Ultra",
+    "MagicUnitType": "Passive",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 6055,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013002,
+    "MagicUnitMazeBuffID": 685560,
+    "MagicUnitSimpleDesc": {
+      "Hash": 547132772
+    },
+    "FuncType": "SP",
+    "UnitBasicPower": {
+      "Value": 1.0000000002328306
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": 288912238
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Ultra",
+    "MagicUnitType": "Passive",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 6056,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [
+      61000048
+    ],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013002,
+    "MagicUnitMazeBuffID": 685570,
+    "MagicUnitSimpleDesc": {
+      "Hash": 547132739
+    },
+    "FuncType": "ActionDelay",
+    "UnitBasicPower": {
+      "Value": 1.0000000002328306
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": 288912333
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Ultra",
+    "MagicUnitType": "Passive",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 6057,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [
+      61000048
+    ],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013002,
+    "MagicUnitMazeBuffID": 685580,
+    "MagicUnitSimpleDesc": {
+      "Hash": 547132838
+    },
+    "FuncType": "SP",
+    "UnitBasicPower": {
+      "Value": 1.0000000002328306
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": 288912436
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Ultra",
+    "MagicUnitType": "Passive",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 6058,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [
+      61000048
+    ],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013005,
+    "MagicUnitMazeBuffID": 685590,
+    "MagicUnitSimpleDesc": {
+      "Hash": 547132805
+    },
+    "FuncType": "ActionDelay",
+    "UnitBasicPower": {
+      "Value": 1.0000000002328306
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": 288912531
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Ultra",
+    "MagicUnitType": "Passive",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 6059,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [
+      61000048
+    ],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013005,
+    "MagicUnitMazeBuffID": 685600,
+    "MagicUnitSimpleDesc": {
+      "Hash": -756829341
+    },
+    "FuncType": "SP",
+    "UnitBasicPower": {
+      "Value": 1.0000000002328306
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": -1015049743
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Ultra",
+    "MagicUnitType": "Passive",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 6060,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013005,
+    "MagicUnitMazeBuffID": 685610,
+    "MagicUnitSimpleDesc": {
+      "Hash": -756829374
+    },
+    "FuncType": "ActionDelay",
+    "UnitBasicPower": {
+      "Value": 1.0000000002328306
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": -1015049648
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Ultra",
+    "MagicUnitType": "Passive",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 6061,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013005,
+    "MagicUnitMazeBuffID": 685620,
+    "MagicUnitSimpleDesc": {
+      "Hash": -756829275
+    },
+    "FuncType": "SP",
+    "UnitBasicPower": {
+      "Value": 1.0000000002328306
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": -1015049809
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Ultra",
+    "MagicUnitType": "Passive",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 6062,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013014,
+    "MagicUnitMazeBuffID": 685630,
+    "MagicUnitSimpleDesc": {
+      "Hash": -756829308
+    },
+    "FuncType": "ActionDelay",
+    "UnitBasicPower": {
+      "Value": 1.0000000002328306
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": -1015049714
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Ultra",
+    "MagicUnitType": "Passive",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 6063,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013014,
+    "MagicUnitMazeBuffID": 685640,
+    "MagicUnitSimpleDesc": {
+      "Hash": -756829209
+    },
+    "FuncType": "SP",
+    "UnitBasicPower": {
+      "Value": 1.0000000002328306
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": -1015049611
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Ultra",
+    "MagicUnitType": "Passive",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 6064,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [
+      61000048
+    ],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013003,
+    "MagicUnitMazeBuffID": 685650,
+    "MagicUnitSimpleDesc": {
+      "Hash": -756829242
+    },
+    "FuncType": "Common",
+    "UnitBasicPower": {
+      "Value": 1.0000000002328306
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": -1015049516
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Ultra",
+    "MagicUnitType": "Passive",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 6065,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013004,
+    "MagicUnitMazeBuffID": 685660,
+    "MagicUnitSimpleDesc": {
+      "Hash": -756829143
+    },
+    "FuncType": "Common",
+    "UnitBasicPower": {
+      "Value": 1.0000000002328306
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": -1015049677
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Ultra",
+    "MagicUnitType": "Passive",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 6066,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013004,
+    "MagicUnitMazeBuffID": 685670,
+    "MagicUnitSimpleDesc": {
+      "Hash": -756829176
+    },
+    "FuncType": "Common",
+    "UnitBasicPower": {
+      "Value": 1.0000000002328306
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": -1015049582
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Ultra",
+    "MagicUnitType": "Passive",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 6067,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013004,
+    "MagicUnitMazeBuffID": 685680,
+    "MagicUnitSimpleDesc": {
+      "Hash": -756829077
+    },
+    "FuncType": "Common",
+    "UnitBasicPower": {
+      "Value": 1.0000000002328306
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": -1015049479
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Ultra",
+    "MagicUnitType": "Passive",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 6068,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013004,
+    "MagicUnitMazeBuffID": 685690,
+    "MagicUnitSimpleDesc": {
+      "Hash": -756829110
+    },
+    "FuncType": "Common",
+    "UnitBasicPower": {
+      "Value": 1.0000000002328306
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": -1015049384
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Ultra",
+    "MagicUnitType": "Passive",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 6069,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [
+      61000048
+    ],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013015,
+    "MagicUnitMazeBuffID": 685700,
+    "MagicUnitSimpleDesc": {
+      "Hash": 829457576
+    },
+    "FuncType": "Common",
+    "UnitBasicPower": {
+      "Value": 1.0000000002328306
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": 571237174
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Ultra",
+    "MagicUnitType": "Passive",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 6070,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [
+      61000046,
+      61000048
+    ],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013016,
+    "MagicUnitMazeBuffID": 685710,
+    "MagicUnitSimpleDesc": {
+      "Hash": 829457543
+    },
+    "FuncType": "Common",
+    "UnitBasicPower": {
+      "Value": 1.0000000002328306
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": 571237269
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Ultra",
+    "MagicUnitType": "Passive",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 6071,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [
+      61000048
+    ],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013005,
+    "MagicUnitMazeBuffID": 685720,
+    "MagicUnitSimpleDesc": {
+      "Hash": 829457642
+    },
+    "FuncType": "Common",
+    "UnitBasicPower": {
+      "Value": 1.0000000002328306
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": 571237108
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Ultra",
+    "MagicUnitType": "Passive",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 6072,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013016,
+    "MagicUnitMazeBuffID": 685730,
+    "MagicUnitSimpleDesc": {
+      "Hash": 829457609
+    },
+    "FuncType": "Common",
+    "UnitBasicPower": {
+      "Value": 0.8000000009313226
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": 571237203
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Ultra",
+    "MagicUnitType": "Passive",
+    "SpecialType": "None",
+    "LimitRange": "None",
+    "MagicUnitID": 6073,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013015,
+    "MagicUnitMazeBuffID": 685740,
+    "MagicUnitSimpleDesc": {
+      "Hash": 829457708
+    },
+    "FuncType": "Common",
+    "UnitBasicPower": {
+      "Value": 0
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": 571237306
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Ultra",
+    "MagicUnitType": "Passive",
+    "SpecialType": "Manage",
+    "LimitRange": "None",
+    "MagicUnitID": 6074,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  },
+  {
+    "ExtraEffectID": [],
+    "EffectTypeList": [
+      "None"
+    ],
+    "AttachRangeTypeList": [
+      "None"
+    ],
+    "UnlockID": 5013015,
+    "MagicUnitMazeBuffID": 685750,
+    "MagicUnitSimpleDesc": {
+      "Hash": 829457675
+    },
+    "FuncType": "Common",
+    "UnitBasicPower": {
+      "Value": 0
+    },
+    "MagicUnitLevel": 1,
+    "MagicUnitDesc": {
+      "Hash": 571237401
+    },
+    "StyleType": "None",
+    "MagicUnitCategory": "Ultra",
+    "MagicUnitType": "Passive",
+    "SpecialType": "Manage",
+    "LimitRange": "None",
+    "MagicUnitID": 6075,
+    "IsPassiveUnit": true,
+    "IsActiveUnit": false
+  }
+]

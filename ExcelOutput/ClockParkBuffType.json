@@ -1,0 +1,100 @@
+[
+  {
+    "IconPath": "SpriteOutput/IconDamageType/IconDamageTypeFire.png",
+    "BuffRelease": false,
+    "BuffJoint": true,
+    "BuffDisplay": true,
+    "BuffType": "FirstAttributeContinue"
+  },
+  {
+    "IconPath": "SpriteOutput/IconDamageType/IconDamageTypeIce.png",
+    "BuffRelease": false,
+    "BuffJoint": true,
+    "BuffDisplay": true,
+    "BuffType": "SecondAttributeContinue"
+  },
+  {
+    "IconPath": "SpriteOutput/IconDamageType/IconDamageTypeImaginary.png",
+    "BuffRelease": false,
+    "BuffJoint": true,
+    "BuffDisplay": true,
+    "BuffType": "ThirdAttributeContinue"
+  },
+  {
+    "IconPath": "",
+    "BuffRelease": false,
+    "BuffJoint": false,
+    "BuffDisplay": false,
+    "BuffType": "FirstAttributeStart"
+  },
+  {
+    "IconPath": "",
+    "BuffRelease": false,
+    "BuffJoint": false,
+    "BuffDisplay": false,
+    "BuffType": "SecondAttributeStart"
+  },
+  {
+    "IconPath": "",
+    "BuffRelease": false,
+    "BuffJoint": false,
+    "BuffDisplay": false,
+    "BuffType": "ThirdAttributeStart"
+  },
+  {
+    "IconPath": "SpriteOutput/IconDamageType/IconDamageTypePhysical.png",
+    "BuffRelease": false,
+    "BuffJoint": false,
+    "BuffDisplay": true,
+    "BuffType": "Revive"
+  },
+  {
+    "IconPath": "",
+    "BuffRelease": false,
+    "BuffJoint": false,
+    "BuffDisplay": false,
+    "BuffType": "Bank"
+  },
+  {
+    "IconPath": "",
+    "BuffRelease": true,
+    "BuffJoint": false,
+    "BuffDisplay": false,
+    "BuffType": "ReRoll"
+  },
+  {
+    "IconPath": "",
+    "BuffRelease": true,
+    "BuffJoint": false,
+    "BuffDisplay": false,
+    "BuffType": "DivideEqual"
+  },
+  {
+    "IconPath": "SpriteOutput/IconDamageType/IconDamageTypeWind.png",
+    "BuffRelease": false,
+    "BuffJoint": false,
+    "BuffDisplay": true,
+    "BuffType": "FirstAttributeGainRate"
+  },
+  {
+    "IconPath": "SpriteOutput/IconDamageType/IconDamageTypeWind.png",
+    "BuffRelease": false,
+    "BuffJoint": false,
+    "BuffDisplay": true,
+    "BuffType": "SecondAttributeGainRate"
+  },
+  {
+    "IconPath": "SpriteOutput/IconDamageType/IconDamageTypeWind.png",
+    "BuffRelease": false,
+    "BuffJoint": false,
+    "BuffDisplay": true,
+    "BuffType": "ThirdAttributeGainRate"
+  },
+  {
+    "IconPath": "SpriteOutput/IconDamageType/IconDamageTypeQuestion.png",
+    "BuffRelease": false,
+    "BuffJoint": false,
+    "BuffDisplay": true,
+    "BuffType": "CheckPointRelax"
+  }
+]

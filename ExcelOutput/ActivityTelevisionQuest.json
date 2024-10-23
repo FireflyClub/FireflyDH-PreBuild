@@ -1,0 +1,89 @@
+[
+  {
+    "QuestIDList": [
+      6000702,
+      6000708,
+      6000709,
+      6000710
+    ],
+    "TabName": {
+      "Hash": -1318146903
+    },
+    "QuestGroupID": 2,
+    "OriginalTabName": {
+      "Hash": 1735272984
+    }
+  },
+  {
+    "QuestIDList": [
+      6000704,
+      6000714,
+      6000715,
+      6000716
+    ],
+    "TabName": {
+      "Hash": -1318146897
+    },
+    "QuestGroupID": 4,
+    "OriginalTabName": {
+      "Hash": 1735272978
+    }
+  },
+  {
+    "QuestIDList": [
+      6000703,
+      6000711,
+      6000712,
+      6000713
+    ],
+    "TabName": {
+      "Hash": -1318146902
+    },
+    "QuestGroupID": 3,
+    "OriginalTabName": {
+      "Hash": 1735272985
+    }
+  },
+  {
+    "QuestIDList": [
+      6000701,
+      6000705,
+      6000706,
+      6000707
+    ],
+    "TabName": {
+      "Hash": -1318146900
+    },
+    "QuestGroupID": 1,
+    "OriginalTabName": {
+      "Hash": 1735272983
+    }
+  },
+  {
+    "QuestIDList": [
+      6000717,
+      6000718,
+      6000719,
+      6000720
+    ],
+    "TabName": {
+      "Hash": -1318146896
+    },
+    "QuestGroupID": 5,
+    "OriginalTabName": {
+      "Hash": 1735272979
+    }
+  },
+  {
+    "QuestIDList": [
+      6000721
+    ],
+    "TabName": {
+      "Hash": -1318146899
+    },
+    "QuestGroupID": 6,
+    "OriginalTabName": {
+      "Hash": 1735272980
+    }
+  }
+]

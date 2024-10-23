@@ -1,0 +1,1010 @@
+[
+  {
+    "AvatarBaseType": "Warrior",
+    "Left": 11,
+    "Right": 3,
+    "Up": 17,
+    "PointID": 1,
+    "Down": 6
+  },
+  {
+    "AvatarBaseType": "Warrior",
+    "Left": 3,
+    "Right": 14,
+    "Up": 18,
+    "PointID": 2,
+    "Down": 7
+  },
+  {
+    "AvatarBaseType": "Warrior",
+    "Left": 1,
+    "Right": 2,
+    "Up": 4,
+    "PointID": 3,
+    "Down": 5
+  },
+  {
+    "AvatarBaseType": "Warrior",
+    "Left": 12,
+    "Right": 15,
+    "Up": 8,
+    "PointID": 4,
+    "Down": 3
+  },
+  {
+    "AvatarBaseType": "Warrior",
+    "Left": 6,
+    "Right": 7,
+    "Up": 3,
+    "PointID": 5,
+    "Down": 9
+  },
+  {
+    "AvatarBaseType": "Warrior",
+    "Left": 10,
+    "Right": 5,
+    "Up": 1,
+    "PointID": 6,
+    "Down": 0
+  },
+  {
+    "AvatarBaseType": "Warrior",
+    "Left": 5,
+    "Right": 13,
+    "Up": 2,
+    "PointID": 7,
+    "Down": 0
+  },
+  {
+    "AvatarBaseType": "Warrior",
+    "Left": 17,
+    "Right": 18,
+    "Up": 16,
+    "PointID": 8,
+    "Down": 4
+  },
+  {
+    "AvatarBaseType": "Warrior",
+    "Left": 6,
+    "Right": 7,
+    "Up": 5,
+    "PointID": 9,
+    "Down": 0
+  },
+  {
+    "AvatarBaseType": "Warrior",
+    "Left": 11,
+    "Right": 6,
+    "Up": 11,
+    "PointID": 10,
+    "Down": 6
+  },
+  {
+    "AvatarBaseType": "Warrior",
+    "Left": 0,
+    "Right": 1,
+    "Up": 12,
+    "PointID": 11,
+    "Down": 10
+  },
+  {
+    "AvatarBaseType": "Warrior",
+    "Left": 11,
+    "Right": 4,
+    "Up": 17,
+    "PointID": 12,
+    "Down": 11
+  },
+  {
+    "AvatarBaseType": "Warrior",
+    "Left": 7,
+    "Right": 14,
+    "Up": 14,
+    "PointID": 13,
+    "Down": 7
+  },
+  {
+    "AvatarBaseType": "Warrior",
+    "Left": 2,
+    "Right": 0,
+    "Up": 15,
+    "PointID": 14,
+    "Down": 13
+  },
+  {
+    "AvatarBaseType": "Warrior",
+    "Left": 4,
+    "Right": 14,
+    "Up": 18,
+    "PointID": 15,
+    "Down": 14
+  },
+  {
+    "AvatarBaseType": "Warrior",
+    "Left": 17,
+    "Right": 18,
+    "Up": 0,
+    "PointID": 16,
+    "Down": 8
+  },
+  {
+    "AvatarBaseType": "Warrior",
+    "Left": 12,
+    "Right": 16,
+    "Up": 0,
+    "PointID": 17,
+    "Down": 1
+  },
+  {
+    "AvatarBaseType": "Warrior",
+    "Left": 16,
+    "Right": 15,
+    "Up": 0,
+    "PointID": 18,
+    "Down": 2
+  },
+  {
+    "AvatarBaseType": "Rogue",
+    "Left": 12,
+    "Right": 3,
+    "Up": 17,
+    "PointID": 1,
+    "Down": 6
+  },
+  {
+    "AvatarBaseType": "Rogue",
+    "Left": 3,
+    "Right": 15,
+    "Up": 18,
+    "PointID": 2,
+    "Down": 7
+  },
+  {
+    "AvatarBaseType": "Rogue",
+    "Left": 1,
+    "Right": 2,
+    "Up": 4,
+    "PointID": 3,
+    "Down": 5
+  },
+  {
+    "AvatarBaseType": "Rogue",
+    "Left": 12,
+    "Right": 15,
+    "Up": 8,
+    "PointID": 4,
+    "Down": 3
+  },
+  {
+    "AvatarBaseType": "Rogue",
+    "Left": 6,
+    "Right": 7,
+    "Up": 3,
+    "PointID": 5,
+    "Down": 9
+  },
+  {
+    "AvatarBaseType": "Rogue",
+    "Left": 10,
+    "Right": 5,
+    "Up": 1,
+    "PointID": 6,
+    "Down": 0
+  },
+  {
+    "AvatarBaseType": "Rogue",
+    "Left": 5,
+    "Right": 13,
+    "Up": 2,
+    "PointID": 7,
+    "Down": 0
+  },
+  {
+    "AvatarBaseType": "Rogue",
+    "Left": 12,
+    "Right": 15,
+    "Up": 16,
+    "PointID": 8,
+    "Down": 4
+  },
+  {
+    "AvatarBaseType": "Rogue",
+    "Left": 6,
+    "Right": 7,
+    "Up": 5,
+    "PointID": 9,
+    "Down": 0
+  },
+  {
+    "AvatarBaseType": "Rogue",
+    "Left": 11,
+    "Right": 6,
+    "Up": 12,
+    "PointID": 10,
+    "Down": 6
+  },
+  {
+    "AvatarBaseType": "Rogue",
+    "Left": 0,
+    "Right": 10,
+    "Up": 12,
+    "PointID": 11,
+    "Down": 10
+  },
+  {
+    "AvatarBaseType": "Rogue",
+    "Left": 11,
+    "Right": 1,
+    "Up": 17,
+    "PointID": 12,
+    "Down": 10
+  },
+  {
+    "AvatarBaseType": "Rogue",
+    "Left": 7,
+    "Right": 14,
+    "Up": 15,
+    "PointID": 13,
+    "Down": 7
+  },
+  {
+    "AvatarBaseType": "Rogue",
+    "Left": 13,
+    "Right": 0,
+    "Up": 15,
+    "PointID": 14,
+    "Down": 13
+  },
+  {
+    "AvatarBaseType": "Rogue",
+    "Left": 2,
+    "Right": 0,
+    "Up": 18,
+    "PointID": 15,
+    "Down": 13
+  },
+  {
+    "AvatarBaseType": "Rogue",
+    "Left": 17,
+    "Right": 18,
+    "Up": 0,
+    "PointID": 16,
+    "Down": 8
+  },
+  {
+    "AvatarBaseType": "Rogue",
+    "Left": 12,
+    "Right": 16,
+    "Up": 0,
+    "PointID": 17,
+    "Down": 1
+  },
+  {
+    "AvatarBaseType": "Rogue",
+    "Left": 16,
+    "Right": 15,
+    "Up": 0,
+    "PointID": 18,
+    "Down": 2
+  },
+  {
+    "AvatarBaseType": "Mage",
+    "Left": 6,
+    "Right": 3,
+    "Up": 16,
+    "PointID": 1,
+    "Down": 9
+  },
+  {
+    "AvatarBaseType": "Mage",
+    "Left": 3,
+    "Right": 7,
+    "Up": 17,
+    "PointID": 2,
+    "Down": 18
+  },
+  {
+    "AvatarBaseType": "Mage",
+    "Left": 1,
+    "Right": 2,
+    "Up": 4,
+    "PointID": 3,
+    "Down": 5
+  },
+  {
+    "AvatarBaseType": "Mage",
+    "Left": 12,
+    "Right": 15,
+    "Up": 8,
+    "PointID": 4,
+    "Down": 3
+  },
+  {
+    "AvatarBaseType": "Mage",
+    "Left": 9,
+    "Right": 18,
+    "Up": 3,
+    "PointID": 5,
+    "Down": 0
+  },
+  {
+    "AvatarBaseType": "Mage",
+    "Left": 10,
+    "Right": 1,
+    "Up": 0,
+    "PointID": 6,
+    "Down": 0
+  },
+  {
+    "AvatarBaseType": "Mage",
+    "Left": 2,
+    "Right": 13,
+    "Up": 0,
+    "PointID": 7,
+    "Down": 0
+  },
+  {
+    "AvatarBaseType": "Mage",
+    "Left": 16,
+    "Right": 17,
+    "Up": 0,
+    "PointID": 8,
+    "Down": 4
+  },
+  {
+    "AvatarBaseType": "Mage",
+    "Left": 11,
+    "Right": 5,
+    "Up": 1,
+    "PointID": 9,
+    "Down": 0
+  },
+  {
+    "AvatarBaseType": "Mage",
+    "Left": 0,
+    "Right": 6,
+    "Up": 12,
+    "PointID": 10,
+    "Down": 11
+  },
+  {
+    "AvatarBaseType": "Mage",
+    "Left": 0,
+    "Right": 9,
+    "Up": 10,
+    "PointID": 11,
+    "Down": 9
+  },
+  {
+    "AvatarBaseType": "Mage",
+    "Left": 0,
+    "Right": 4,
+    "Up": 16,
+    "PointID": 12,
+    "Down": 10
+  },
+  {
+    "AvatarBaseType": "Mage",
+    "Left": 7,
+    "Right": 0,
+    "Up": 15,
+    "PointID": 13,
+    "Down": 14
+  },
+  {
+    "AvatarBaseType": "Mage",
+    "Left": 18,
+    "Right": 0,
+    "Up": 13,
+    "PointID": 14,
+    "Down": 18
+  },
+  {
+    "AvatarBaseType": "Mage",
+    "Left": 4,
+    "Right": 0,
+    "Up": 17,
+    "PointID": 15,
+    "Down": 13
+  },
+  {
+    "AvatarBaseType": "Mage",
+    "Left": 12,
+    "Right": 8,
+    "Up": 0,
+    "PointID": 16,
+    "Down": 1
+  },
+  {
+    "AvatarBaseType": "Mage",
+    "Left": 8,
+    "Right": 15,
+    "Up": 0,
+    "PointID": 17,
+    "Down": 2
+  },
+  {
+    "AvatarBaseType": "Mage",
+    "Left": 5,
+    "Right": 14,
+    "Up": 2,
+    "PointID": 18,
+    "Down": 0
+  },
+  {
+    "AvatarBaseType": "Shaman",
+    "Left": 6,
+    "Right": 4,
+    "Up": 17,
+    "PointID": 1,
+    "Down": 12
+  },
+  {
+    "AvatarBaseType": "Shaman",
+    "Left": 4,
+    "Right": 7,
+    "Up": 18,
+    "PointID": 2,
+    "Down": 14
+  },
+  {
+    "AvatarBaseType": "Shaman",
+    "Left": 1,
+    "Right": 14,
+    "Up": 4,
+    "PointID": 3,
+    "Down": 5
+  },
+  {
+    "AvatarBaseType": "Shaman",
+    "Left": 1,
+    "Right": 2,
+    "Up": 8,
+    "PointID": 4,
+    "Down": 3
+  },
+  {
+    "AvatarBaseType": "Shaman",
+    "Left": 12,
+    "Right": 14,
+    "Up": 3,
+    "PointID": 5,
+    "Down": 9
+  },
+  {
+    "AvatarBaseType": "Shaman",
+    "Left": 10,
+    "Right": 1,
+    "Up": 10,
+    "PointID": 6,
+    "Down": 0
+  },
+  {
+    "AvatarBaseType": "Shaman",
+    "Left": 2,
+    "Right": 0,
+    "Up": 0,
+    "PointID": 7,
+    "Down": 13
+  },
+  {
+    "AvatarBaseType": "Shaman",
+    "Left": 11,
+    "Right": 0,
+    "Up": 16,
+    "PointID": 8,
+    "Down": 4
+  },
+  {
+    "AvatarBaseType": "Shaman",
+    "Left": 12,
+    "Right": 15,
+    "Up": 5,
+    "PointID": 9,
+    "Down": 0
+  },
+  {
+    "AvatarBaseType": "Shaman",
+    "Left": 0,
+    "Right": 11,
+    "Up": 0,
+    "PointID": 10,
+    "Down": 6
+  },
+  {
+    "AvatarBaseType": "Shaman",
+    "Left": 10,
+    "Right": 8,
+    "Up": 17,
+    "PointID": 11,
+    "Down": 6
+  },
+  {
+    "AvatarBaseType": "Shaman",
+    "Left": 6,
+    "Right": 9,
+    "Up": 1,
+    "PointID": 12,
+    "Down": 0
+  },
+  {
+    "AvatarBaseType": "Shaman",
+    "Left": 14,
+    "Right": 0,
+    "Up": 7,
+    "PointID": 13,
+    "Down": 15
+  },
+  {
+    "AvatarBaseType": "Shaman",
+    "Left": 3,
+    "Right": 13,
+    "Up": 2,
+    "PointID": 14,
+    "Down": 15
+  },
+  {
+    "AvatarBaseType": "Shaman",
+    "Left": 9,
+    "Right": 0,
+    "Up": 14,
+    "PointID": 15,
+    "Down": 0
+  },
+  {
+    "AvatarBaseType": "Shaman",
+    "Left": 17,
+    "Right": 18,
+    "Up": 0,
+    "PointID": 16,
+    "Down": 8
+  },
+  {
+    "AvatarBaseType": "Shaman",
+    "Left": 11,
+    "Right": 16,
+    "Up": 0,
+    "PointID": 17,
+    "Down": 1
+  },
+  {
+    "AvatarBaseType": "Shaman",
+    "Left": 16,
+    "Right": 0,
+    "Up": 0,
+    "PointID": 18,
+    "Down": 2
+  },
+  {
+    "AvatarBaseType": "Warlock",
+    "Left": 6,
+    "Right": 3,
+    "Up": 16,
+    "PointID": 1,
+    "Down": 12
+  },
+  {
+    "AvatarBaseType": "Warlock",
+    "Left": 3,
+    "Right": 7,
+    "Up": 17,
+    "PointID": 2,
+    "Down": 15
+  },
+  {
+    "AvatarBaseType": "Warlock",
+    "Left": 1,
+    "Right": 2,
+    "Up": 4,
+    "PointID": 3,
+    "Down": 5
+  },
+  {
+    "AvatarBaseType": "Warlock",
+    "Left": 16,
+    "Right": 0,
+    "Up": 8,
+    "PointID": 4,
+    "Down": 3
+  },
+  {
+    "AvatarBaseType": "Warlock",
+    "Left": 11,
+    "Right": 14,
+    "Up": 3,
+    "PointID": 5,
+    "Down": 9
+  },
+  {
+    "AvatarBaseType": "Warlock",
+    "Left": 10,
+    "Right": 1,
+    "Up": 0,
+    "PointID": 6,
+    "Down": 11
+  },
+  {
+    "AvatarBaseType": "Warlock",
+    "Left": 2,
+    "Right": 13,
+    "Up": 0,
+    "PointID": 7,
+    "Down": 14
+  },
+  {
+    "AvatarBaseType": "Warlock",
+    "Left": 16,
+    "Right": 17,
+    "Up": 0,
+    "PointID": 8,
+    "Down": 4
+  },
+  {
+    "AvatarBaseType": "Warlock",
+    "Left": 12,
+    "Right": 15,
+    "Up": 5,
+    "PointID": 9,
+    "Down": 18
+  },
+  {
+    "AvatarBaseType": "Warlock",
+    "Left": 0,
+    "Right": 6,
+    "Up": 0,
+    "PointID": 10,
+    "Down": 11
+  },
+  {
+    "AvatarBaseType": "Warlock",
+    "Left": 10,
+    "Right": 12,
+    "Up": 6,
+    "PointID": 11,
+    "Down": 12
+  },
+  {
+    "AvatarBaseType": "Warlock",
+    "Left": 11,
+    "Right": 18,
+    "Up": 1,
+    "PointID": 12,
+    "Down": 0
+  },
+  {
+    "AvatarBaseType": "Warlock",
+    "Left": 7,
+    "Right": 0,
+    "Up": 0,
+    "PointID": 13,
+    "Down": 14
+  },
+  {
+    "AvatarBaseType": "Warlock",
+    "Left": 15,
+    "Right": 13,
+    "Up": 7,
+    "PointID": 14,
+    "Down": 15
+  },
+  {
+    "AvatarBaseType": "Warlock",
+    "Left": 18,
+    "Right": 14,
+    "Up": 2,
+    "PointID": 15,
+    "Down": 0
+  },
+  {
+    "AvatarBaseType": "Warlock",
+    "Left": 6,
+    "Right": 8,
+    "Up": 0,
+    "PointID": 16,
+    "Down": 1
+  },
+  {
+    "AvatarBaseType": "Warlock",
+    "Left": 8,
+    "Right": 0,
+    "Up": 0,
+    "PointID": 17,
+    "Down": 2
+  },
+  {
+    "AvatarBaseType": "Warlock",
+    "Left": 12,
+    "Right": 15,
+    "Up": 9,
+    "PointID": 18,
+    "Down": 0
+  },
+  {
+    "AvatarBaseType": "Knight",
+    "Left": 12,
+    "Right": 3,
+    "Up": 17,
+    "PointID": 1,
+    "Down": 6
+  },
+  {
+    "AvatarBaseType": "Knight",
+    "Left": 3,
+    "Right": 15,
+    "Up": 18,
+    "PointID": 2,
+    "Down": 7
+  },
+  {
+    "AvatarBaseType": "Knight",
+    "Left": 1,
+    "Right": 2,
+    "Up": 4,
+    "PointID": 3,
+    "Down": 5
+  },
+  {
+    "AvatarBaseType": "Knight",
+    "Left": 12,
+    "Right": 15,
+    "Up": 8,
+    "PointID": 4,
+    "Down": 3
+  },
+  {
+    "AvatarBaseType": "Knight",
+    "Left": 10,
+    "Right": 13,
+    "Up": 3,
+    "PointID": 5,
+    "Down": 9
+  },
+  {
+    "AvatarBaseType": "Knight",
+    "Left": 10,
+    "Right": 9,
+    "Up": 1,
+    "PointID": 6,
+    "Down": 0
+  },
+  {
+    "AvatarBaseType": "Knight",
+    "Left": 9,
+    "Right": 13,
+    "Up": 2,
+    "PointID": 7,
+    "Down": 0
+  },
+  {
+    "AvatarBaseType": "Knight",
+    "Left": 17,
+    "Right": 18,
+    "Up": 16,
+    "PointID": 8,
+    "Down": 4
+  },
+  {
+    "AvatarBaseType": "Knight",
+    "Left": 6,
+    "Right": 7,
+    "Up": 5,
+    "PointID": 9,
+    "Down": 0
+  },
+  {
+    "AvatarBaseType": "Knight",
+    "Left": 11,
+    "Right": 6,
+    "Up": 12,
+    "PointID": 10,
+    "Down": 6
+  },
+  {
+    "AvatarBaseType": "Knight",
+    "Left": 0,
+    "Right": 10,
+    "Up": 12,
+    "PointID": 11,
+    "Down": 10
+  },
+  {
+    "AvatarBaseType": "Knight",
+    "Left": 11,
+    "Right": 4,
+    "Up": 17,
+    "PointID": 12,
+    "Down": 10
+  },
+  {
+    "AvatarBaseType": "Knight",
+    "Left": 7,
+    "Right": 14,
+    "Up": 15,
+    "PointID": 13,
+    "Down": 7
+  },
+  {
+    "AvatarBaseType": "Knight",
+    "Left": 13,
+    "Right": 0,
+    "Up": 15,
+    "PointID": 14,
+    "Down": 13
+  },
+  {
+    "AvatarBaseType": "Knight",
+    "Left": 4,
+    "Right": 0,
+    "Up": 18,
+    "PointID": 15,
+    "Down": 13
+  },
+  {
+    "AvatarBaseType": "Knight",
+    "Left": 17,
+    "Right": 18,
+    "Up": 0,
+    "PointID": 16,
+    "Down": 8
+  },
+  {
+    "AvatarBaseType": "Knight",
+    "Left": 12,
+    "Right": 16,
+    "Up": 0,
+    "PointID": 17,
+    "Down": 1
+  },
+  {
+    "AvatarBaseType": "Knight",
+    "Left": 16,
+    "Right": 0,
+    "Up": 0,
+    "PointID": 18,
+    "Down": 2
+  },
+  {
+    "AvatarBaseType": "Priest",
+    "Left": 14,
+    "Right": 3,
+    "Up": 17,
+    "PointID": 1,
+    "Down": 7
+  },
+  {
+    "AvatarBaseType": "Priest",
+    "Left": 3,
+    "Right": 11,
+    "Up": 16,
+    "PointID": 2,
+    "Down": 6
+  },
+  {
+    "AvatarBaseType": "Priest",
+    "Left": 1,
+    "Right": 2,
+    "Up": 4,
+    "PointID": 3,
+    "Down": 5
+  },
+  {
+    "AvatarBaseType": "Priest",
+    "Left": 15,
+    "Right": 12,
+    "Up": 8,
+    "PointID": 4,
+    "Down": 3
+  },
+  {
+    "AvatarBaseType": "Priest",
+    "Left": 7,
+    "Right": 6,
+    "Up": 3,
+    "PointID": 5,
+    "Down": 18
+  },
+  {
+    "AvatarBaseType": "Priest",
+    "Left": 5,
+    "Right": 10,
+    "Up": 2,
+    "PointID": 6,
+    "Down": 9
+  },
+  {
+    "AvatarBaseType": "Priest",
+    "Left": 13,
+    "Right": 5,
+    "Up": 1,
+    "PointID": 7,
+    "Down": 18
+  },
+  {
+    "AvatarBaseType": "Priest",
+    "Left": 17,
+    "Right": 16,
+    "Up": 0,
+    "PointID": 8,
+    "Down": 4
+  },
+  {
+    "AvatarBaseType": "Priest",
+    "Left": 18,
+    "Right": 6,
+    "Up": 5,
+    "PointID": 9,
+    "Down": 0
+  },
+  {
+    "AvatarBaseType": "Priest",
+    "Left": 6,
+    "Right": 11,
+    "Up": 11,
+    "PointID": 10,
+    "Down": 6
+  },
+  {
+    "AvatarBaseType": "Priest",
+    "Left": 12,
+    "Right": 0,
+    "Up": 12,
+    "PointID": 11,
+    "Down": 10
+  },
+  {
+    "AvatarBaseType": "Priest",
+    "Left": 4,
+    "Right": 11,
+    "Up": 16,
+    "PointID": 12,
+    "Down": 0
+  },
+  {
+    "AvatarBaseType": "Priest",
+    "Left": 14,
+    "Right": 7,
+    "Up": 14,
+    "PointID": 13,
+    "Down": 7
+  },
+  {
+    "AvatarBaseType": "Priest",
+    "Left": 0,
+    "Right": 15,
+    "Up": 15,
+    "PointID": 14,
+    "Down": 13
+  },
+  {
+    "AvatarBaseType": "Priest",
+    "Left": 14,
+    "Right": 4,
+    "Up": 17,
+    "PointID": 15,
+    "Down": 0
+  },
+  {
+    "AvatarBaseType": "Priest",
+    "Left": 8,
+    "Right": 0,
+    "Up": 0,
+    "PointID": 16,
+    "Down": 2
+  },
+  {
+    "AvatarBaseType": "Priest",
+    "Left": 15,
+    "Right": 8,
+    "Up": 0,
+    "PointID": 17,
+    "Down": 1
+  },
+  {
+    "AvatarBaseType": "Priest",
+    "Left": 7,
+    "Right": 9,
+    "Up": 5,
+    "PointID": 18,
+    "Down": 0
+  }
+]

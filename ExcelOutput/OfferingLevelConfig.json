@@ -1,0 +1,842 @@
+[
+  {
+    "Type": "Normal",
+    "UnlockID": 0,
+    "TypeID": 1,
+    "RewardID": 119001,
+    "Level": 1,
+    "ItemCost": 300
+  },
+  {
+    "Type": "Normal",
+    "UnlockID": 0,
+    "TypeID": 1,
+    "RewardID": 119002,
+    "Level": 2,
+    "ItemCost": 400
+  },
+  {
+    "Type": "Normal",
+    "UnlockID": 0,
+    "TypeID": 1,
+    "RewardID": 119003,
+    "Level": 3,
+    "ItemCost": 500
+  },
+  {
+    "Type": "Normal",
+    "UnlockID": 0,
+    "TypeID": 1,
+    "RewardID": 119004,
+    "Level": 4,
+    "ItemCost": 600
+  },
+  {
+    "Type": "Normal",
+    "UnlockID": 0,
+    "TypeID": 1,
+    "RewardID": 119005,
+    "Level": 5,
+    "ItemCost": 600
+  },
+  {
+    "Type": "Normal",
+    "UnlockID": 0,
+    "TypeID": 1,
+    "RewardID": 119006,
+    "Level": 6,
+    "ItemCost": 600
+  },
+  {
+    "Type": "Normal",
+    "UnlockID": 0,
+    "TypeID": 1,
+    "RewardID": 119007,
+    "Level": 7,
+    "ItemCost": 600
+  },
+  {
+    "Type": "Normal",
+    "UnlockID": 0,
+    "TypeID": 1,
+    "RewardID": 119008,
+    "Level": 8,
+    "ItemCost": 600
+  },
+  {
+    "Type": "Normal",
+    "UnlockID": 0,
+    "TypeID": 1,
+    "RewardID": 119009,
+    "Level": 9,
+    "ItemCost": 600
+  },
+  {
+    "Type": "Normal",
+    "UnlockID": 0,
+    "TypeID": 1,
+    "RewardID": 119010,
+    "Level": 10,
+    "ItemCost": 600
+  },
+  {
+    "Type": "Normal",
+    "UnlockID": 9938,
+    "TypeID": 1,
+    "RewardID": 119011,
+    "Level": 11,
+    "ItemCost": 600
+  },
+  {
+    "Type": "Normal",
+    "UnlockID": 0,
+    "TypeID": 1,
+    "RewardID": 119012,
+    "Level": 12,
+    "ItemCost": 600
+  },
+  {
+    "Type": "Normal",
+    "UnlockID": 0,
+    "TypeID": 1,
+    "RewardID": 119013,
+    "Level": 13,
+    "ItemCost": 600
+  },
+  {
+    "Type": "Normal",
+    "UnlockID": 0,
+    "TypeID": 1,
+    "RewardID": 119014,
+    "Level": 14,
+    "ItemCost": 600
+  },
+  {
+    "Type": "Normal",
+    "UnlockID": 0,
+    "TypeID": 1,
+    "RewardID": 119015,
+    "Level": 15,
+    "ItemCost": 600
+  },
+  {
+    "Type": "Normal",
+    "UnlockID": 0,
+    "TypeID": 1,
+    "RewardID": 119016,
+    "Level": 16,
+    "ItemCost": 600
+  },
+  {
+    "Type": "Normal",
+    "UnlockID": 0,
+    "TypeID": 1,
+    "RewardID": 119017,
+    "Level": 17,
+    "ItemCost": 600
+  },
+  {
+    "Type": "Normal",
+    "UnlockID": 0,
+    "TypeID": 1,
+    "RewardID": 119018,
+    "Level": 18,
+    "ItemCost": 600
+  },
+  {
+    "Type": "Normal",
+    "UnlockID": 0,
+    "TypeID": 1,
+    "RewardID": 119019,
+    "Level": 19,
+    "ItemCost": 600
+  },
+  {
+    "Type": "Normal",
+    "UnlockID": 0,
+    "TypeID": 1,
+    "RewardID": 119020,
+    "Level": 20,
+    "ItemCost": 600
+  },
+  {
+    "Type": "Normal",
+    "UnlockID": 9939,
+    "TypeID": 1,
+    "RewardID": 119021,
+    "Level": 21,
+    "ItemCost": 600
+  },
+  {
+    "Type": "Normal",
+    "UnlockID": 0,
+    "TypeID": 1,
+    "RewardID": 119022,
+    "Level": 22,
+    "ItemCost": 600
+  },
+  {
+    "Type": "Normal",
+    "UnlockID": 0,
+    "TypeID": 1,
+    "RewardID": 119023,
+    "Level": 23,
+    "ItemCost": 600
+  },
+  {
+    "Type": "Normal",
+    "UnlockID": 0,
+    "TypeID": 1,
+    "RewardID": 119024,
+    "Level": 24,
+    "ItemCost": 600
+  },
+  {
+    "Type": "Normal",
+    "UnlockID": 0,
+    "TypeID": 1,
+    "RewardID": 119025,
+    "Level": 25,
+    "ItemCost": 600
+  },
+  {
+    "Type": "Normal",
+    "UnlockID": 0,
+    "TypeID": 1,
+    "RewardID": 119026,
+    "Level": 26,
+    "ItemCost": 600
+  },
+  {
+    "Type": "Normal",
+    "UnlockID": 0,
+    "TypeID": 1,
+    "RewardID": 119027,
+    "Level": 27,
+    "ItemCost": 600
+  },
+  {
+    "Type": "Normal",
+    "UnlockID": 0,
+    "TypeID": 1,
+    "RewardID": 119028,
+    "Level": 28,
+    "ItemCost": 600
+  },
+  {
+    "Type": "Normal",
+    "UnlockID": 0,
+    "TypeID": 1,
+    "RewardID": 119029,
+    "Level": 29,
+    "ItemCost": 600
+  },
+  {
+    "Type": "Normal",
+    "UnlockID": 0,
+    "TypeID": 1,
+    "RewardID": 119030,
+    "Level": 30,
+    "ItemCost": 600
+  },
+  {
+    "Type": "Normal",
+    "UnlockID": 0,
+    "TypeID": 1,
+    "RewardID": 119031,
+    "Level": 31,
+    "ItemCost": 600
+  },
+  {
+    "Type": "Normal",
+    "UnlockID": 0,
+    "TypeID": 1,
+    "RewardID": 119032,
+    "Level": 32,
+    "ItemCost": 600
+  },
+  {
+    "Type": "Normal",
+    "UnlockID": 0,
+    "TypeID": 1,
+    "RewardID": 119033,
+    "Level": 33,
+    "ItemCost": 600
+  },
+  {
+    "Type": "Normal",
+    "UnlockID": 0,
+    "TypeID": 1,
+    "RewardID": 119034,
+    "Level": 34,
+    "ItemCost": 600
+  },
+  {
+    "Type": "Normal",
+    "UnlockID": 0,
+    "TypeID": 1,
+    "RewardID": 119035,
+    "Level": 35,
+    "ItemCost": 600
+  },
+  {
+    "Type": "Normal",
+    "UnlockID": 9940,
+    "TypeID": 1,
+    "RewardID": 119036,
+    "Level": 36,
+    "ItemCost": 600
+  },
+  {
+    "Type": "Normal",
+    "UnlockID": 0,
+    "TypeID": 1,
+    "RewardID": 119037,
+    "Level": 37,
+    "ItemCost": 600
+  },
+  {
+    "Type": "Normal",
+    "UnlockID": 0,
+    "TypeID": 1,
+    "RewardID": 119038,
+    "Level": 38,
+    "ItemCost": 600
+  },
+  {
+    "Type": "Normal",
+    "UnlockID": 0,
+    "TypeID": 1,
+    "RewardID": 119039,
+    "Level": 39,
+    "ItemCost": 600
+  },
+  {
+    "Type": "Normal",
+    "UnlockID": 0,
+    "TypeID": 1,
+    "RewardID": 119040,
+    "Level": 40,
+    "ItemCost": 600
+  },
+  {
+    "Type": "Normal",
+    "UnlockID": 0,
+    "TypeID": 1,
+    "RewardID": 119041,
+    "Level": 41,
+    "ItemCost": 600
+  },
+  {
+    "Type": "Normal",
+    "UnlockID": 0,
+    "TypeID": 1,
+    "RewardID": 119042,
+    "Level": 42,
+    "ItemCost": 600
+  },
+  {
+    "Type": "Normal",
+    "UnlockID": 0,
+    "TypeID": 1,
+    "RewardID": 119043,
+    "Level": 43,
+    "ItemCost": 600
+  },
+  {
+    "Type": "Normal",
+    "UnlockID": 0,
+    "TypeID": 1,
+    "RewardID": 119044,
+    "Level": 44,
+    "ItemCost": 600
+  },
+  {
+    "Type": "Normal",
+    "UnlockID": 0,
+    "TypeID": 1,
+    "RewardID": 119045,
+    "Level": 45,
+    "ItemCost": 600
+  },
+  {
+    "Type": "Normal",
+    "UnlockID": 0,
+    "TypeID": 1,
+    "RewardID": 119046,
+    "Level": 46,
+    "ItemCost": 600
+  },
+  {
+    "Type": "Normal",
+    "UnlockID": 0,
+    "TypeID": 1,
+    "RewardID": 119047,
+    "Level": 47,
+    "ItemCost": 600
+  },
+  {
+    "Type": "Normal",
+    "UnlockID": 0,
+    "TypeID": 1,
+    "RewardID": 119048,
+    "Level": 48,
+    "ItemCost": 600
+  },
+  {
+    "Type": "Normal",
+    "UnlockID": 0,
+    "TypeID": 1,
+    "RewardID": 119049,
+    "Level": 49,
+    "ItemCost": 600
+  },
+  {
+    "Type": "Normal",
+    "UnlockID": 0,
+    "TypeID": 1,
+    "RewardID": 119050,
+    "Level": 50,
+    "ItemCost": 600
+  },
+  {
+    "Type": "LongTail",
+    "UnlockID": 0,
+    "TypeID": 1,
+    "RewardID": 119099,
+    "Level": 51,
+    "ItemCost": 200
+  },
+  {
+    "Type": "Normal",
+    "UnlockID": 0,
+    "TypeID": 2,
+    "RewardID": 210001,
+    "Level": 1,
+    "ItemCost": 20
+  },
+  {
+    "Type": "Normal",
+    "UnlockID": 0,
+    "TypeID": 2,
+    "RewardID": 210002,
+    "Level": 2,
+    "ItemCost": 30
+  },
+  {
+    "Type": "Normal",
+    "UnlockID": 0,
+    "TypeID": 2,
+    "RewardID": 210003,
+    "Level": 3,
+    "ItemCost": 30
+  },
+  {
+    "Type": "Normal",
+    "UnlockID": 0,
+    "TypeID": 2,
+    "RewardID": 210004,
+    "Level": 4,
+    "ItemCost": 30
+  },
+  {
+    "Type": "Normal",
+    "UnlockID": 0,
+    "TypeID": 2,
+    "RewardID": 210005,
+    "Level": 5,
+    "ItemCost": 30
+  },
+  {
+    "Type": "Normal",
+    "UnlockID": 0,
+    "TypeID": 2,
+    "RewardID": 210006,
+    "Level": 6,
+    "ItemCost": 30
+  },
+  {
+    "Type": "Normal",
+    "UnlockID": 0,
+    "TypeID": 2,
+    "RewardID": 210007,
+    "Level": 7,
+    "ItemCost": 30
+  },
+  {
+    "Type": "Normal",
+    "UnlockID": 0,
+    "TypeID": 2,
+    "RewardID": 210008,
+    "Level": 8,
+    "ItemCost": 30
+  },
+  {
+    "Type": "Normal",
+    "UnlockID": 0,
+    "TypeID": 2,
+    "RewardID": 210009,
+    "Level": 9,
+    "ItemCost": 30
+  },
+  {
+    "Type": "Normal",
+    "UnlockID": 0,
+    "TypeID": 2,
+    "RewardID": 210010,
+    "Level": 10,
+    "ItemCost": 40
+  },
+  {
+    "Type": "Normal",
+    "UnlockID": 0,
+    "TypeID": 3,
+    "RewardID": 3116401,
+    "Level": 1,
+    "ItemCost": 800
+  },
+  {
+    "Type": "Normal",
+    "UnlockID": 0,
+    "TypeID": 3,
+    "RewardID": 3116402,
+    "Level": 2,
+    "ItemCost": 800
+  },
+  {
+    "Type": "Normal",
+    "UnlockID": 0,
+    "TypeID": 3,
+    "RewardID": 3116403,
+    "Level": 3,
+    "ItemCost": 800
+  },
+  {
+    "Type": "Normal",
+    "UnlockID": 0,
+    "TypeID": 3,
+    "RewardID": 3116404,
+    "Level": 4,
+    "ItemCost": 800
+  },
+  {
+    "Type": "Normal",
+    "UnlockID": 0,
+    "TypeID": 3,
+    "RewardID": 3116405,
+    "Level": 5,
+    "ItemCost": 800
+  },
+  {
+    "Type": "Normal",
+    "UnlockID": 0,
+    "TypeID": 3,
+    "RewardID": 3116406,
+    "Level": 6,
+    "ItemCost": 800
+  },
+  {
+    "Type": "Normal",
+    "UnlockID": 0,
+    "TypeID": 3,
+    "RewardID": 3116407,
+    "Level": 7,
+    "ItemCost": 800
+  },
+  {
+    "Type": "LongTail",
+    "UnlockID": 0,
+    "TypeID": 3,
+    "RewardID": 3116408,
+    "Level": 8,
+    "ItemCost": 200
+  },
+  {
+    "Type": "Normal",
+    "UnlockID": 0,
+    "TypeID": 4,
+    "RewardID": 255001,
+    "Level": 1,
+    "ItemCost": 5
+  },
+  {
+    "Type": "Normal",
+    "UnlockID": 0,
+    "TypeID": 4,
+    "RewardID": 255002,
+    "Level": 2,
+    "ItemCost": 5
+  },
+  {
+    "Type": "Normal",
+    "UnlockID": 0,
+    "TypeID": 4,
+    "RewardID": 255003,
+    "Level": 3,
+    "ItemCost": 5
+  },
+  {
+    "Type": "Normal",
+    "UnlockID": 0,
+    "TypeID": 4,
+    "RewardID": 255004,
+    "Level": 4,
+    "ItemCost": 5
+  },
+  {
+    "Type": "Normal",
+    "UnlockID": 0,
+    "TypeID": 4,
+    "RewardID": 255005,
+    "Level": 5,
+    "ItemCost": 5
+  },
+  {
+    "Type": "Normal",
+    "UnlockID": 0,
+    "TypeID": 4,
+    "RewardID": 255006,
+    "Level": 6,
+    "ItemCost": 5
+  },
+  {
+    "Type": "Normal",
+    "UnlockID": 0,
+    "TypeID": 4,
+    "RewardID": 255007,
+    "Level": 7,
+    "ItemCost": 5
+  },
+  {
+    "Type": "Normal",
+    "UnlockID": 0,
+    "TypeID": 4,
+    "RewardID": 255008,
+    "Level": 8,
+    "ItemCost": 5
+  },
+  {
+    "Type": "Normal",
+    "UnlockID": 0,
+    "TypeID": 4,
+    "RewardID": 255009,
+    "Level": 9,
+    "ItemCost": 5
+  },
+  {
+    "Type": "Normal",
+    "UnlockID": 0,
+    "TypeID": 4,
+    "RewardID": 255010,
+    "Level": 10,
+    "ItemCost": 5
+  },
+  {
+    "Type": "Normal",
+    "UnlockID": 0,
+    "TypeID": 4,
+    "RewardID": 255011,
+    "Level": 11,
+    "ItemCost": 5
+  },
+  {
+    "Type": "Normal",
+    "UnlockID": 0,
+    "TypeID": 4,
+    "RewardID": 255012,
+    "Level": 12,
+    "ItemCost": 5
+  },
+  {
+    "Type": "Normal",
+    "UnlockID": 0,
+    "TypeID": 4,
+    "RewardID": 255013,
+    "Level": 13,
+    "ItemCost": 5
+  },
+  {
+    "Type": "Normal",
+    "UnlockID": 0,
+    "TypeID": 4,
+    "RewardID": 255014,
+    "Level": 14,
+    "ItemCost": 5
+  },
+  {
+    "Type": "Normal",
+    "UnlockID": 0,
+    "TypeID": 4,
+    "RewardID": 255015,
+    "Level": 15,
+    "ItemCost": 5
+  },
+  {
+    "Type": "Normal",
+    "UnlockID": 0,
+    "TypeID": 4,
+    "RewardID": 255016,
+    "Level": 16,
+    "ItemCost": 5
+  },
+  {
+    "Type": "Normal",
+    "UnlockID": 0,
+    "TypeID": 4,
+    "RewardID": 255017,
+    "Level": 17,
+    "ItemCost": 5
+  },
+  {
+    "Type": "Normal",
+    "UnlockID": 0,
+    "TypeID": 4,
+    "RewardID": 255018,
+    "Level": 18,
+    "ItemCost": 5
+  },
+  {
+    "Type": "Normal",
+    "UnlockID": 0,
+    "TypeID": 4,
+    "RewardID": 255019,
+    "Level": 19,
+    "ItemCost": 5
+  },
+  {
+    "Type": "Normal",
+    "UnlockID": 0,
+    "TypeID": 4,
+    "RewardID": 255020,
+    "Level": 20,
+    "ItemCost": 5
+  },
+  {
+    "Type": "Normal",
+    "UnlockID": 0,
+    "TypeID": 5,
+    "RewardID": 260001,
+    "Level": 1,
+    "ItemCost": 3
+  },
+  {
+    "Type": "Normal",
+    "UnlockID": 0,
+    "TypeID": 5,
+    "RewardID": 260002,
+    "Level": 2,
+    "ItemCost": 3
+  },
+  {
+    "Type": "Normal",
+    "UnlockID": 0,
+    "TypeID": 5,
+    "RewardID": 260003,
+    "Level": 3,
+    "ItemCost": 3
+  },
+  {
+    "Type": "Normal",
+    "UnlockID": 0,
+    "TypeID": 5,
+    "RewardID": 260004,
+    "Level": 4,
+    "ItemCost": 3
+  },
+  {
+    "Type": "Normal",
+    "UnlockID": 0,
+    "TypeID": 5,
+    "RewardID": 260005,
+    "Level": 5,
+    "ItemCost": 3
+  },
+  {
+    "Type": "Normal",
+    "UnlockID": 0,
+    "TypeID": 5,
+    "RewardID": 260006,
+    "Level": 6,
+    "ItemCost": 3
+  },
+  {
+    "Type": "Normal",
+    "UnlockID": 0,
+    "TypeID": 5,
+    "RewardID": 260007,
+    "Level": 7,
+    "ItemCost": 3
+  },
+  {
+    "Type": "Normal",
+    "UnlockID": 0,
+    "TypeID": 5,
+    "RewardID": 260008,
+    "Level": 8,
+    "ItemCost": 3
+  },
+  {
+    "Type": "Normal",
+    "UnlockID": 0,
+    "TypeID": 5,
+    "RewardID": 260009,
+    "Level": 9,
+    "ItemCost": 3
+  },
+  {
+    "Type": "Normal",
+    "UnlockID": 0,
+    "TypeID": 5,
+    "RewardID": 260010,
+    "Level": 10,
+    "ItemCost": 3
+  },
+  {
+    "Type": "Normal",
+    "UnlockID": 0,
+    "TypeID": 5,
+    "RewardID": 260011,
+    "Level": 11,
+    "ItemCost": 3
+  },
+  {
+    "Type": "Normal",
+    "UnlockID": 0,
+    "TypeID": 5,
+    "RewardID": 260012,
+    "Level": 12,
+    "ItemCost": 3
+  },
+  {
+    "Type": "Normal",
+    "UnlockID": 0,
+    "TypeID": 5,
+    "RewardID": 260013,
+    "Level": 13,
+    "ItemCost": 3
+  },
+  {
+    "Type": "Normal",
+    "UnlockID": 0,
+    "TypeID": 5,
+    "RewardID": 260014,
+    "Level": 14,
+    "ItemCost": 3
+  },
+  {
+    "Type": "Normal",
+    "UnlockID": 0,
+    "TypeID": 5,
+    "RewardID": 260015,
+    "Level": 15,
+    "ItemCost": 3
+  },
+  {
+    "Type": "Normal",
+    "UnlockID": 0,
+    "TypeID": 5,
+    "RewardID": 260016,
+    "Level": 16,
+    "ItemCost": 3
+  }
+]

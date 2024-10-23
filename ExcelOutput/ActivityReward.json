@@ -1,0 +1,68 @@
+[
+  {
+    "RewardIconPath": "",
+    "ActivityRewardID": 10012001,
+    "Reward": 100,
+    "Count": 8000
+  },
+  {
+    "RewardIconPath": "",
+    "ActivityRewardID": 10012002,
+    "Reward": 100,
+    "Count": 16000
+  },
+  {
+    "RewardIconPath": "",
+    "ActivityRewardID": 10012003,
+    "Reward": 100,
+    "Count": 24000
+  },
+  {
+    "RewardIconPath": "",
+    "ActivityRewardID": 10012004,
+    "Reward": 100,
+    "Count": 32000
+  },
+  {
+    "RewardIconPath": "",
+    "ActivityRewardID": 10012005,
+    "Reward": 100,
+    "Count": 40000
+  },
+  {
+    "RewardIconPath": "",
+    "ActivityRewardID": 10012006,
+    "Reward": 100,
+    "Count": 48000
+  },
+  {
+    "RewardIconPath": "",
+    "ActivityRewardID": 10012007,
+    "Reward": 100,
+    "Count": 56000
+  },
+  {
+    "RewardIconPath": "",
+    "ActivityRewardID": 10012008,
+    "Reward": 100,
+    "Count": 64000
+  },
+  {
+    "RewardIconPath": "",
+    "ActivityRewardID": 10012009,
+    "Reward": 100,
+    "Count": 72000
+  },
+  {
+    "RewardIconPath": "",
+    "ActivityRewardID": 10012010,
+    "Reward": 100,
+    "Count": 80000
+  },
+  {
+    "RewardIconPath": "",
+    "ActivityRewardID": 10012011,
+    "Reward": 100,
+    "Count": 88000
+  }
+]

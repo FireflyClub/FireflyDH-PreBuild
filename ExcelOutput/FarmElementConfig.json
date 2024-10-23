@@ -1,0 +1,2648 @@
+[
+  {
+    "ParamList": [],
+    "DamageType": [
+      "Physical",
+      "Wind",
+      "Imaginary"
+    ],
+    "DropList": [],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1101,
+    "AutoObtainDamageType": false,
+    "MappingInfoID": 1101,
+    "WorldLevel": 0,
+    "StageID": 1012010
+  },
+  {
+    "ParamList": [],
+    "DamageType": [
+      "Physical",
+      "Wind",
+      "Imaginary"
+    ],
+    "DropList": [],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1101,
+    "AutoObtainDamageType": false,
+    "MappingInfoID": 1101,
+    "WorldLevel": 1,
+    "StageID": 1012011
+  },
+  {
+    "ParamList": [],
+    "DamageType": [
+      "Physical",
+      "Wind",
+      "Imaginary"
+    ],
+    "DropList": [
+      1000909,
+      1000407,
+      1004211
+    ],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1101,
+    "AutoObtainDamageType": false,
+    "MappingInfoID": 1101,
+    "WorldLevel": 2,
+    "StageID": 1012012
+  },
+  {
+    "ParamList": [],
+    "DamageType": [
+      "Physical",
+      "Wind",
+      "Imaginary"
+    ],
+    "DropList": [
+      1000909,
+      1000412,
+      1004212
+    ],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1101,
+    "AutoObtainDamageType": false,
+    "MappingInfoID": 1101,
+    "WorldLevel": 3,
+    "StageID": 1012013
+  },
+  {
+    "ParamList": [],
+    "DamageType": [
+      "Physical",
+      "Wind",
+      "Imaginary"
+    ],
+    "DropList": [
+      1000909,
+      1000418,
+      1004213
+    ],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1101,
+    "AutoObtainDamageType": false,
+    "MappingInfoID": 1101,
+    "WorldLevel": 4,
+    "StageID": 1012014
+  },
+  {
+    "ParamList": [],
+    "DamageType": [
+      "Physical",
+      "Wind",
+      "Imaginary"
+    ],
+    "DropList": [
+      1000909,
+      1000423,
+      1004214
+    ],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1101,
+    "AutoObtainDamageType": false,
+    "MappingInfoID": 1101,
+    "WorldLevel": 5,
+    "StageID": 1012015
+  },
+  {
+    "ParamList": [],
+    "DamageType": [
+      "Physical",
+      "Wind",
+      "Imaginary"
+    ],
+    "DropList": [],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1101,
+    "AutoObtainDamageType": false,
+    "MappingInfoID": 1101,
+    "WorldLevel": 6,
+    "StageID": 1012016
+  },
+  {
+    "ParamList": [],
+    "DamageType": [
+      "Fire",
+      "Ice",
+      "Imaginary"
+    ],
+    "DropList": [],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1102,
+    "AutoObtainDamageType": false,
+    "MappingInfoID": 1102,
+    "WorldLevel": 0,
+    "StageID": 1012020
+  },
+  {
+    "ParamList": [],
+    "DamageType": [
+      "Fire",
+      "Ice",
+      "Imaginary"
+    ],
+    "DropList": [],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1102,
+    "AutoObtainDamageType": false,
+    "MappingInfoID": 1102,
+    "WorldLevel": 1,
+    "StageID": 1012021
+  },
+  {
+    "ParamList": [],
+    "DamageType": [
+      "Fire",
+      "Ice",
+      "Imaginary"
+    ],
+    "DropList": [
+      1000909,
+      1000407,
+      1004201
+    ],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1102,
+    "AutoObtainDamageType": false,
+    "MappingInfoID": 1102,
+    "WorldLevel": 2,
+    "StageID": 1012022
+  },
+  {
+    "ParamList": [],
+    "DamageType": [
+      "Fire",
+      "Ice",
+      "Imaginary"
+    ],
+    "DropList": [
+      1000909,
+      1000412,
+      1004202
+    ],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1102,
+    "AutoObtainDamageType": false,
+    "MappingInfoID": 1102,
+    "WorldLevel": 3,
+    "StageID": 1012023
+  },
+  {
+    "ParamList": [],
+    "DamageType": [
+      "Fire",
+      "Ice",
+      "Imaginary"
+    ],
+    "DropList": [
+      1000909,
+      1000418,
+      1004203
+    ],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1102,
+    "AutoObtainDamageType": false,
+    "MappingInfoID": 1102,
+    "WorldLevel": 4,
+    "StageID": 1012024
+  },
+  {
+    "ParamList": [],
+    "DamageType": [
+      "Fire",
+      "Ice",
+      "Imaginary"
+    ],
+    "DropList": [
+      1000909,
+      1000423,
+      1004204
+    ],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1102,
+    "AutoObtainDamageType": false,
+    "MappingInfoID": 1102,
+    "WorldLevel": 5,
+    "StageID": 1012025
+  },
+  {
+    "ParamList": [],
+    "DamageType": [
+      "Fire",
+      "Ice",
+      "Imaginary"
+    ],
+    "DropList": [],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1102,
+    "AutoObtainDamageType": false,
+    "MappingInfoID": 1102,
+    "WorldLevel": 6,
+    "StageID": 1012026
+  },
+  {
+    "ParamList": [],
+    "DamageType": [
+      "Physical",
+      "Wind",
+      "Quantum"
+    ],
+    "DropList": [],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1103,
+    "AutoObtainDamageType": false,
+    "MappingInfoID": 1103,
+    "WorldLevel": 0,
+    "StageID": 1012030
+  },
+  {
+    "ParamList": [],
+    "DamageType": [
+      "Physical",
+      "Wind",
+      "Quantum"
+    ],
+    "DropList": [],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1103,
+    "AutoObtainDamageType": false,
+    "MappingInfoID": 1103,
+    "WorldLevel": 1,
+    "StageID": 1012031
+  },
+  {
+    "ParamList": [],
+    "DamageType": [
+      "Physical",
+      "Wind",
+      "Quantum"
+    ],
+    "DropList": [
+      1000909,
+      1000407,
+      1004191
+    ],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1103,
+    "AutoObtainDamageType": false,
+    "MappingInfoID": 1103,
+    "WorldLevel": 2,
+    "StageID": 1012032
+  },
+  {
+    "ParamList": [],
+    "DamageType": [
+      "Physical",
+      "Wind",
+      "Quantum"
+    ],
+    "DropList": [
+      1000909,
+      1000412,
+      1004192
+    ],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1103,
+    "AutoObtainDamageType": false,
+    "MappingInfoID": 1103,
+    "WorldLevel": 3,
+    "StageID": 1012033
+  },
+  {
+    "ParamList": [],
+    "DamageType": [
+      "Physical",
+      "Wind",
+      "Quantum"
+    ],
+    "DropList": [
+      1000909,
+      1000418,
+      1004193
+    ],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1103,
+    "AutoObtainDamageType": false,
+    "MappingInfoID": 1103,
+    "WorldLevel": 4,
+    "StageID": 1012034
+  },
+  {
+    "ParamList": [],
+    "DamageType": [
+      "Physical",
+      "Wind",
+      "Quantum"
+    ],
+    "DropList": [
+      1000909,
+      1000423,
+      1004194
+    ],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1103,
+    "AutoObtainDamageType": false,
+    "MappingInfoID": 1103,
+    "WorldLevel": 5,
+    "StageID": 1012035
+  },
+  {
+    "ParamList": [],
+    "DamageType": [
+      "Physical",
+      "Wind",
+      "Quantum"
+    ],
+    "DropList": [],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1103,
+    "AutoObtainDamageType": false,
+    "MappingInfoID": 1103,
+    "WorldLevel": 6,
+    "StageID": 1012036
+  },
+  {
+    "ParamList": [],
+    "DamageType": [
+      "Physical",
+      "Ice",
+      "Quantum"
+    ],
+    "DropList": [],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1104,
+    "AutoObtainDamageType": false,
+    "MappingInfoID": 1104,
+    "WorldLevel": 0,
+    "StageID": 1012040
+  },
+  {
+    "ParamList": [],
+    "DamageType": [
+      "Physical",
+      "Ice",
+      "Quantum"
+    ],
+    "DropList": [],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1104,
+    "AutoObtainDamageType": false,
+    "MappingInfoID": 1104,
+    "WorldLevel": 1,
+    "StageID": 1012041
+  },
+  {
+    "ParamList": [],
+    "DamageType": [
+      "Physical",
+      "Ice",
+      "Quantum"
+    ],
+    "DropList": [
+      1000909,
+      1000407,
+      1004171
+    ],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1104,
+    "AutoObtainDamageType": false,
+    "MappingInfoID": 1104,
+    "WorldLevel": 2,
+    "StageID": 1012042
+  },
+  {
+    "ParamList": [],
+    "DamageType": [
+      "Physical",
+      "Ice",
+      "Quantum"
+    ],
+    "DropList": [
+      1000909,
+      1000412,
+      1004172
+    ],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1104,
+    "AutoObtainDamageType": false,
+    "MappingInfoID": 1104,
+    "WorldLevel": 3,
+    "StageID": 1012043
+  },
+  {
+    "ParamList": [],
+    "DamageType": [
+      "Physical",
+      "Ice",
+      "Quantum"
+    ],
+    "DropList": [
+      1000909,
+      1000418,
+      1004173
+    ],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1104,
+    "AutoObtainDamageType": false,
+    "MappingInfoID": 1104,
+    "WorldLevel": 4,
+    "StageID": 1012044
+  },
+  {
+    "ParamList": [],
+    "DamageType": [
+      "Physical",
+      "Ice",
+      "Quantum"
+    ],
+    "DropList": [
+      1000909,
+      1000423,
+      1004174
+    ],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1104,
+    "AutoObtainDamageType": false,
+    "MappingInfoID": 1104,
+    "WorldLevel": 5,
+    "StageID": 1012045
+  },
+  {
+    "ParamList": [],
+    "DamageType": [
+      "Physical",
+      "Ice",
+      "Quantum"
+    ],
+    "DropList": [],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1104,
+    "AutoObtainDamageType": false,
+    "MappingInfoID": 1104,
+    "WorldLevel": 6,
+    "StageID": 1012046
+  },
+  {
+    "ParamList": [],
+    "DamageType": [
+      "Ice",
+      "Thunder",
+      "Imaginary"
+    ],
+    "DropList": [],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1105,
+    "AutoObtainDamageType": false,
+    "MappingInfoID": 1105,
+    "WorldLevel": 0,
+    "StageID": 1012050
+  },
+  {
+    "ParamList": [],
+    "DamageType": [
+      "Ice",
+      "Thunder",
+      "Imaginary"
+    ],
+    "DropList": [],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1105,
+    "AutoObtainDamageType": false,
+    "MappingInfoID": 1105,
+    "WorldLevel": 1,
+    "StageID": 1012051
+  },
+  {
+    "ParamList": [],
+    "DamageType": [
+      "Ice",
+      "Thunder",
+      "Imaginary"
+    ],
+    "DropList": [
+      1000909,
+      1000407,
+      1004161
+    ],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1105,
+    "AutoObtainDamageType": false,
+    "MappingInfoID": 1105,
+    "WorldLevel": 2,
+    "StageID": 1012052
+  },
+  {
+    "ParamList": [],
+    "DamageType": [
+      "Ice",
+      "Thunder",
+      "Imaginary"
+    ],
+    "DropList": [
+      1000909,
+      1000412,
+      1004162
+    ],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1105,
+    "AutoObtainDamageType": false,
+    "MappingInfoID": 1105,
+    "WorldLevel": 3,
+    "StageID": 1012053
+  },
+  {
+    "ParamList": [],
+    "DamageType": [
+      "Ice",
+      "Thunder",
+      "Imaginary"
+    ],
+    "DropList": [
+      1000909,
+      1000418,
+      1004163
+    ],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1105,
+    "AutoObtainDamageType": false,
+    "MappingInfoID": 1105,
+    "WorldLevel": 4,
+    "StageID": 1012054
+  },
+  {
+    "ParamList": [],
+    "DamageType": [
+      "Ice",
+      "Thunder",
+      "Imaginary"
+    ],
+    "DropList": [
+      1000909,
+      1000423,
+      1004164
+    ],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1105,
+    "AutoObtainDamageType": false,
+    "MappingInfoID": 1105,
+    "WorldLevel": 5,
+    "StageID": 1012055
+  },
+  {
+    "ParamList": [],
+    "DamageType": [
+      "Ice",
+      "Thunder",
+      "Imaginary"
+    ],
+    "DropList": [],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1105,
+    "AutoObtainDamageType": false,
+    "MappingInfoID": 1105,
+    "WorldLevel": 6,
+    "StageID": 1012056
+  },
+  {
+    "ParamList": [],
+    "DamageType": [
+      "Fire",
+      "Thunder",
+      "Quantum"
+    ],
+    "DropList": [],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1106,
+    "AutoObtainDamageType": false,
+    "MappingInfoID": 1106,
+    "WorldLevel": 0,
+    "StageID": 1012060
+  },
+  {
+    "ParamList": [],
+    "DamageType": [
+      "Fire",
+      "Thunder",
+      "Quantum"
+    ],
+    "DropList": [],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1106,
+    "AutoObtainDamageType": false,
+    "MappingInfoID": 1106,
+    "WorldLevel": 1,
+    "StageID": 1012061
+  },
+  {
+    "ParamList": [],
+    "DamageType": [
+      "Fire",
+      "Thunder",
+      "Quantum"
+    ],
+    "DropList": [
+      1000909,
+      1000407,
+      1004181
+    ],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1106,
+    "AutoObtainDamageType": false,
+    "MappingInfoID": 1106,
+    "WorldLevel": 2,
+    "StageID": 1012062
+  },
+  {
+    "ParamList": [],
+    "DamageType": [
+      "Fire",
+      "Thunder",
+      "Quantum"
+    ],
+    "DropList": [
+      1000909,
+      1000412,
+      1004182
+    ],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1106,
+    "AutoObtainDamageType": false,
+    "MappingInfoID": 1106,
+    "WorldLevel": 3,
+    "StageID": 1012063
+  },
+  {
+    "ParamList": [],
+    "DamageType": [
+      "Fire",
+      "Thunder",
+      "Quantum"
+    ],
+    "DropList": [
+      1000909,
+      1000418,
+      1004183
+    ],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1106,
+    "AutoObtainDamageType": false,
+    "MappingInfoID": 1106,
+    "WorldLevel": 4,
+    "StageID": 1012064
+  },
+  {
+    "ParamList": [],
+    "DamageType": [
+      "Fire",
+      "Thunder",
+      "Quantum"
+    ],
+    "DropList": [
+      1000909,
+      1000423,
+      1004184
+    ],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1106,
+    "AutoObtainDamageType": false,
+    "MappingInfoID": 1106,
+    "WorldLevel": 5,
+    "StageID": 1012065
+  },
+  {
+    "ParamList": [],
+    "DamageType": [
+      "Fire",
+      "Thunder",
+      "Quantum"
+    ],
+    "DropList": [],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1106,
+    "AutoObtainDamageType": false,
+    "MappingInfoID": 1106,
+    "WorldLevel": 6,
+    "StageID": 1012066
+  },
+  {
+    "ParamList": [],
+    "DamageType": [
+      "Fire",
+      "Thunder",
+      "Wind"
+    ],
+    "DropList": [],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1107,
+    "AutoObtainDamageType": false,
+    "MappingInfoID": 1107,
+    "WorldLevel": 0,
+    "StageID": 1012070
+  },
+  {
+    "ParamList": [],
+    "DamageType": [
+      "Fire",
+      "Thunder",
+      "Wind"
+    ],
+    "DropList": [],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1107,
+    "AutoObtainDamageType": false,
+    "MappingInfoID": 1107,
+    "WorldLevel": 1,
+    "StageID": 1012071
+  },
+  {
+    "ParamList": [],
+    "DamageType": [
+      "Fire",
+      "Thunder",
+      "Wind"
+    ],
+    "DropList": [
+      1000909,
+      1000407,
+      1004221
+    ],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1107,
+    "AutoObtainDamageType": false,
+    "MappingInfoID": 1107,
+    "WorldLevel": 2,
+    "StageID": 1012072
+  },
+  {
+    "ParamList": [],
+    "DamageType": [
+      "Fire",
+      "Thunder",
+      "Wind"
+    ],
+    "DropList": [
+      1000909,
+      1000412,
+      1004222
+    ],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1107,
+    "AutoObtainDamageType": false,
+    "MappingInfoID": 1107,
+    "WorldLevel": 3,
+    "StageID": 1012073
+  },
+  {
+    "ParamList": [],
+    "DamageType": [
+      "Fire",
+      "Thunder",
+      "Wind"
+    ],
+    "DropList": [
+      1000909,
+      1000418,
+      1004223
+    ],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1107,
+    "AutoObtainDamageType": false,
+    "MappingInfoID": 1107,
+    "WorldLevel": 4,
+    "StageID": 1012074
+  },
+  {
+    "ParamList": [],
+    "DamageType": [
+      "Fire",
+      "Thunder",
+      "Wind"
+    ],
+    "DropList": [
+      1000909,
+      1000423,
+      1004224
+    ],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1107,
+    "AutoObtainDamageType": false,
+    "MappingInfoID": 1107,
+    "WorldLevel": 5,
+    "StageID": 1012075
+  },
+  {
+    "ParamList": [],
+    "DamageType": [
+      "Fire",
+      "Thunder",
+      "Wind"
+    ],
+    "DropList": [],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1107,
+    "AutoObtainDamageType": false,
+    "MappingInfoID": 1107,
+    "WorldLevel": 6,
+    "StageID": 1012076
+  },
+  {
+    "ParamList": [],
+    "DamageType": [
+      "Fire",
+      "Wind",
+      "Quantum"
+    ],
+    "DropList": [],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1108,
+    "AutoObtainDamageType": false,
+    "MappingInfoID": 1108,
+    "WorldLevel": 0,
+    "StageID": 1012080
+  },
+  {
+    "ParamList": [],
+    "DamageType": [
+      "Fire",
+      "Wind",
+      "Quantum"
+    ],
+    "DropList": [],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1108,
+    "AutoObtainDamageType": false,
+    "MappingInfoID": 1108,
+    "WorldLevel": 1,
+    "StageID": 1012081
+  },
+  {
+    "ParamList": [],
+    "DamageType": [
+      "Fire",
+      "Wind",
+      "Quantum"
+    ],
+    "DropList": [
+      1000909,
+      1000407,
+      1004381
+    ],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1108,
+    "AutoObtainDamageType": false,
+    "MappingInfoID": 1108,
+    "WorldLevel": 2,
+    "StageID": 1012082
+  },
+  {
+    "ParamList": [],
+    "DamageType": [
+      "Fire",
+      "Wind",
+      "Quantum"
+    ],
+    "DropList": [
+      1000909,
+      1000412,
+      1004382
+    ],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1108,
+    "AutoObtainDamageType": false,
+    "MappingInfoID": 1108,
+    "WorldLevel": 3,
+    "StageID": 1012083
+  },
+  {
+    "ParamList": [],
+    "DamageType": [
+      "Fire",
+      "Wind",
+      "Quantum"
+    ],
+    "DropList": [
+      1000909,
+      1000418,
+      1004383
+    ],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1108,
+    "AutoObtainDamageType": false,
+    "MappingInfoID": 1108,
+    "WorldLevel": 4,
+    "StageID": 1012084
+  },
+  {
+    "ParamList": [],
+    "DamageType": [
+      "Fire",
+      "Wind",
+      "Quantum"
+    ],
+    "DropList": [
+      1000909,
+      1000423,
+      1004384
+    ],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1108,
+    "AutoObtainDamageType": false,
+    "MappingInfoID": 1108,
+    "WorldLevel": 5,
+    "StageID": 1012085
+  },
+  {
+    "ParamList": [],
+    "DamageType": [
+      "Fire",
+      "Wind",
+      "Quantum"
+    ],
+    "DropList": [],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1108,
+    "AutoObtainDamageType": false,
+    "MappingInfoID": 1108,
+    "WorldLevel": 6,
+    "StageID": 1012086
+  },
+  {
+    "ParamList": [],
+    "DamageType": [
+      "Ice",
+      "Wind",
+      "Imaginary"
+    ],
+    "DropList": [],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1109,
+    "AutoObtainDamageType": false,
+    "MappingInfoID": 1109,
+    "WorldLevel": 0,
+    "StageID": 1012090
+  },
+  {
+    "ParamList": [],
+    "DamageType": [
+      "Ice",
+      "Wind",
+      "Imaginary"
+    ],
+    "DropList": [],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1109,
+    "AutoObtainDamageType": false,
+    "MappingInfoID": 1109,
+    "WorldLevel": 1,
+    "StageID": 1012091
+  },
+  {
+    "ParamList": [],
+    "DamageType": [
+      "Ice",
+      "Wind",
+      "Imaginary"
+    ],
+    "DropList": [
+      1000909,
+      1000407,
+      1004391
+    ],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1109,
+    "AutoObtainDamageType": false,
+    "MappingInfoID": 1109,
+    "WorldLevel": 2,
+    "StageID": 1012092
+  },
+  {
+    "ParamList": [],
+    "DamageType": [
+      "Ice",
+      "Wind",
+      "Imaginary"
+    ],
+    "DropList": [
+      1000909,
+      1000412,
+      1004392
+    ],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1109,
+    "AutoObtainDamageType": false,
+    "MappingInfoID": 1109,
+    "WorldLevel": 3,
+    "StageID": 1012093
+  },
+  {
+    "ParamList": [],
+    "DamageType": [
+      "Ice",
+      "Wind",
+      "Imaginary"
+    ],
+    "DropList": [
+      1000909,
+      1000418,
+      1004393
+    ],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1109,
+    "AutoObtainDamageType": false,
+    "MappingInfoID": 1109,
+    "WorldLevel": 4,
+    "StageID": 1012094
+  },
+  {
+    "ParamList": [],
+    "DamageType": [
+      "Ice",
+      "Wind",
+      "Imaginary"
+    ],
+    "DropList": [
+      1000909,
+      1000423,
+      1004394
+    ],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1109,
+    "AutoObtainDamageType": false,
+    "MappingInfoID": 1109,
+    "WorldLevel": 5,
+    "StageID": 1012095
+  },
+  {
+    "ParamList": [],
+    "DamageType": [
+      "Ice",
+      "Wind",
+      "Imaginary"
+    ],
+    "DropList": [],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1109,
+    "AutoObtainDamageType": false,
+    "MappingInfoID": 1109,
+    "WorldLevel": 6,
+    "StageID": 1012096
+  },
+  {
+    "ParamList": [],
+    "DamageType": [],
+    "DropList": [],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1110,
+    "AutoObtainDamageType": true,
+    "MappingInfoID": 1110,
+    "WorldLevel": 0,
+    "StageID": 1012100
+  },
+  {
+    "ParamList": [],
+    "DamageType": [],
+    "DropList": [],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1110,
+    "AutoObtainDamageType": true,
+    "MappingInfoID": 1110,
+    "WorldLevel": 1,
+    "StageID": 1012101
+  },
+  {
+    "ParamList": [],
+    "DamageType": [],
+    "DropList": [
+      1000909,
+      1000407,
+      1016021
+    ],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1110,
+    "AutoObtainDamageType": true,
+    "MappingInfoID": 1110,
+    "WorldLevel": 2,
+    "StageID": 1012102
+  },
+  {
+    "ParamList": [],
+    "DamageType": [],
+    "DropList": [
+      1000909,
+      1000412,
+      1016022
+    ],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1110,
+    "AutoObtainDamageType": true,
+    "MappingInfoID": 1110,
+    "WorldLevel": 3,
+    "StageID": 1012103
+  },
+  {
+    "ParamList": [],
+    "DamageType": [],
+    "DropList": [
+      1000909,
+      1000418,
+      1016023
+    ],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1110,
+    "AutoObtainDamageType": true,
+    "MappingInfoID": 1110,
+    "WorldLevel": 4,
+    "StageID": 1012104
+  },
+  {
+    "ParamList": [],
+    "DamageType": [],
+    "DropList": [
+      1000909,
+      1000423,
+      1016024
+    ],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1110,
+    "AutoObtainDamageType": true,
+    "MappingInfoID": 1110,
+    "WorldLevel": 5,
+    "StageID": 1012105
+  },
+  {
+    "ParamList": [],
+    "DamageType": [],
+    "DropList": [],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1110,
+    "AutoObtainDamageType": true,
+    "MappingInfoID": 1110,
+    "WorldLevel": 6,
+    "StageID": 1012106
+  },
+  {
+    "ParamList": [],
+    "DamageType": [],
+    "DropList": [],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1111,
+    "AutoObtainDamageType": true,
+    "MappingInfoID": 1111,
+    "WorldLevel": 0,
+    "StageID": 1012110
+  },
+  {
+    "ParamList": [],
+    "DamageType": [],
+    "DropList": [],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1111,
+    "AutoObtainDamageType": true,
+    "MappingInfoID": 1111,
+    "WorldLevel": 1,
+    "StageID": 1012111
+  },
+  {
+    "ParamList": [],
+    "DamageType": [],
+    "DropList": [
+      1000909,
+      1000407,
+      1016011
+    ],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1111,
+    "AutoObtainDamageType": true,
+    "MappingInfoID": 1111,
+    "WorldLevel": 2,
+    "StageID": 1012112
+  },
+  {
+    "ParamList": [],
+    "DamageType": [],
+    "DropList": [
+      1000909,
+      1000412,
+      1016012
+    ],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1111,
+    "AutoObtainDamageType": true,
+    "MappingInfoID": 1111,
+    "WorldLevel": 3,
+    "StageID": 1012113
+  },
+  {
+    "ParamList": [],
+    "DamageType": [],
+    "DropList": [
+      1000909,
+      1000418,
+      1016013
+    ],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1111,
+    "AutoObtainDamageType": true,
+    "MappingInfoID": 1111,
+    "WorldLevel": 4,
+    "StageID": 1012114
+  },
+  {
+    "ParamList": [],
+    "DamageType": [],
+    "DropList": [
+      1000909,
+      1000423,
+      1016014
+    ],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1111,
+    "AutoObtainDamageType": true,
+    "MappingInfoID": 1111,
+    "WorldLevel": 5,
+    "StageID": 1012115
+  },
+  {
+    "ParamList": [],
+    "DamageType": [],
+    "DropList": [],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1111,
+    "AutoObtainDamageType": true,
+    "MappingInfoID": 1111,
+    "WorldLevel": 6,
+    "StageID": 1012116
+  },
+  {
+    "ParamList": [],
+    "DamageType": [],
+    "DropList": [],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1112,
+    "AutoObtainDamageType": true,
+    "MappingInfoID": 1112,
+    "WorldLevel": 0,
+    "StageID": 1012120
+  },
+  {
+    "ParamList": [],
+    "DamageType": [],
+    "DropList": [],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1112,
+    "AutoObtainDamageType": true,
+    "MappingInfoID": 1112,
+    "WorldLevel": 1,
+    "StageID": 1012121
+  },
+  {
+    "ParamList": [],
+    "DamageType": [],
+    "DropList": [
+      1000909,
+      1000407,
+      1016031
+    ],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1112,
+    "AutoObtainDamageType": true,
+    "MappingInfoID": 1112,
+    "WorldLevel": 2,
+    "StageID": 1012122
+  },
+  {
+    "ParamList": [],
+    "DamageType": [],
+    "DropList": [
+      1000909,
+      1000412,
+      1016032
+    ],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1112,
+    "AutoObtainDamageType": true,
+    "MappingInfoID": 1112,
+    "WorldLevel": 3,
+    "StageID": 1012123
+  },
+  {
+    "ParamList": [],
+    "DamageType": [],
+    "DropList": [
+      1000909,
+      1000418,
+      1016033
+    ],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1112,
+    "AutoObtainDamageType": true,
+    "MappingInfoID": 1112,
+    "WorldLevel": 4,
+    "StageID": 1012124
+  },
+  {
+    "ParamList": [],
+    "DamageType": [],
+    "DropList": [
+      1000909,
+      1000423,
+      1016034
+    ],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1112,
+    "AutoObtainDamageType": true,
+    "MappingInfoID": 1112,
+    "WorldLevel": 5,
+    "StageID": 1012125
+  },
+  {
+    "ParamList": [],
+    "DamageType": [],
+    "DropList": [],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1112,
+    "AutoObtainDamageType": true,
+    "MappingInfoID": 1112,
+    "WorldLevel": 6,
+    "StageID": 1012126
+  },
+  {
+    "ParamList": [],
+    "DamageType": [],
+    "DropList": [],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1113,
+    "AutoObtainDamageType": true,
+    "MappingInfoID": 1113,
+    "WorldLevel": 0,
+    "StageID": 1012130
+  },
+  {
+    "ParamList": [],
+    "DamageType": [],
+    "DropList": [],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1113,
+    "AutoObtainDamageType": true,
+    "MappingInfoID": 1113,
+    "WorldLevel": 1,
+    "StageID": 1012131
+  },
+  {
+    "ParamList": [],
+    "DamageType": [],
+    "DropList": [
+      1000909,
+      1000407,
+      1016001
+    ],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1113,
+    "AutoObtainDamageType": true,
+    "MappingInfoID": 1113,
+    "WorldLevel": 2,
+    "StageID": 1012132
+  },
+  {
+    "ParamList": [],
+    "DamageType": [],
+    "DropList": [
+      1000909,
+      1000412,
+      1016002
+    ],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1113,
+    "AutoObtainDamageType": true,
+    "MappingInfoID": 1113,
+    "WorldLevel": 3,
+    "StageID": 1012133
+  },
+  {
+    "ParamList": [],
+    "DamageType": [],
+    "DropList": [
+      1000909,
+      1000418,
+      1016003
+    ],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1113,
+    "AutoObtainDamageType": true,
+    "MappingInfoID": 1113,
+    "WorldLevel": 4,
+    "StageID": 1012134
+  },
+  {
+    "ParamList": [],
+    "DamageType": [],
+    "DropList": [
+      1000909,
+      1000423,
+      1016004
+    ],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1113,
+    "AutoObtainDamageType": true,
+    "MappingInfoID": 1113,
+    "WorldLevel": 5,
+    "StageID": 1012135
+  },
+  {
+    "ParamList": [],
+    "DamageType": [],
+    "DropList": [],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1113,
+    "AutoObtainDamageType": true,
+    "MappingInfoID": 1113,
+    "WorldLevel": 6,
+    "StageID": 1012136
+  },
+  {
+    "ParamList": [],
+    "DamageType": [],
+    "DropList": [],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1114,
+    "AutoObtainDamageType": true,
+    "MappingInfoID": 1114,
+    "WorldLevel": 0,
+    "StageID": 1012140
+  },
+  {
+    "ParamList": [],
+    "DamageType": [],
+    "DropList": [],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1114,
+    "AutoObtainDamageType": true,
+    "MappingInfoID": 1114,
+    "WorldLevel": 1,
+    "StageID": 1012141
+  },
+  {
+    "ParamList": [],
+    "DamageType": [],
+    "DropList": [
+      1000909,
+      1000407,
+      1016041
+    ],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1114,
+    "AutoObtainDamageType": true,
+    "MappingInfoID": 1114,
+    "WorldLevel": 2,
+    "StageID": 1012142
+  },
+  {
+    "ParamList": [],
+    "DamageType": [],
+    "DropList": [
+      1000909,
+      1000412,
+      1016042
+    ],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1114,
+    "AutoObtainDamageType": true,
+    "MappingInfoID": 1114,
+    "WorldLevel": 3,
+    "StageID": 1012143
+  },
+  {
+    "ParamList": [],
+    "DamageType": [],
+    "DropList": [
+      1000909,
+      1000418,
+      1016043
+    ],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1114,
+    "AutoObtainDamageType": true,
+    "MappingInfoID": 1114,
+    "WorldLevel": 4,
+    "StageID": 1012144
+  },
+  {
+    "ParamList": [],
+    "DamageType": [],
+    "DropList": [
+      1000909,
+      1000423,
+      1016044
+    ],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1114,
+    "AutoObtainDamageType": true,
+    "MappingInfoID": 1114,
+    "WorldLevel": 5,
+    "StageID": 1012145
+  },
+  {
+    "ParamList": [],
+    "DamageType": [],
+    "DropList": [],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1114,
+    "AutoObtainDamageType": true,
+    "MappingInfoID": 1114,
+    "WorldLevel": 6,
+    "StageID": 1012146
+  },
+  {
+    "ParamList": [],
+    "DamageType": [],
+    "DropList": [],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1115,
+    "AutoObtainDamageType": true,
+    "MappingInfoID": 1115,
+    "WorldLevel": 0,
+    "StageID": 1012150
+  },
+  {
+    "ParamList": [],
+    "DamageType": [],
+    "DropList": [],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1115,
+    "AutoObtainDamageType": true,
+    "MappingInfoID": 1115,
+    "WorldLevel": 1,
+    "StageID": 1012151
+  },
+  {
+    "ParamList": [],
+    "DamageType": [],
+    "DropList": [
+      1000909,
+      1000407,
+      1016051
+    ],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1115,
+    "AutoObtainDamageType": true,
+    "MappingInfoID": 1115,
+    "WorldLevel": 2,
+    "StageID": 1012152
+  },
+  {
+    "ParamList": [],
+    "DamageType": [],
+    "DropList": [
+      1000909,
+      1000412,
+      1016052
+    ],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1115,
+    "AutoObtainDamageType": true,
+    "MappingInfoID": 1115,
+    "WorldLevel": 3,
+    "StageID": 1012153
+  },
+  {
+    "ParamList": [],
+    "DamageType": [],
+    "DropList": [
+      1000909,
+      1000418,
+      1016053
+    ],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1115,
+    "AutoObtainDamageType": true,
+    "MappingInfoID": 1115,
+    "WorldLevel": 4,
+    "StageID": 1012154
+  },
+  {
+    "ParamList": [],
+    "DamageType": [],
+    "DropList": [
+      1000909,
+      1000423,
+      1016054
+    ],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1115,
+    "AutoObtainDamageType": true,
+    "MappingInfoID": 1115,
+    "WorldLevel": 5,
+    "StageID": 1012155
+  },
+  {
+    "ParamList": [],
+    "DamageType": [],
+    "DropList": [],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1115,
+    "AutoObtainDamageType": true,
+    "MappingInfoID": 1115,
+    "WorldLevel": 6,
+    "StageID": 1012156
+  },
+  {
+    "ParamList": [],
+    "DamageType": [],
+    "DropList": [],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1116,
+    "AutoObtainDamageType": true,
+    "MappingInfoID": 1116,
+    "WorldLevel": 0,
+    "StageID": 1012160
+  },
+  {
+    "ParamList": [],
+    "DamageType": [],
+    "DropList": [],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1116,
+    "AutoObtainDamageType": true,
+    "MappingInfoID": 1116,
+    "WorldLevel": 1,
+    "StageID": 1012161
+  },
+  {
+    "ParamList": [],
+    "DamageType": [],
+    "DropList": [
+      1000909,
+      1000407,
+      1016061
+    ],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1116,
+    "AutoObtainDamageType": true,
+    "MappingInfoID": 1116,
+    "WorldLevel": 2,
+    "StageID": 1012162
+  },
+  {
+    "ParamList": [],
+    "DamageType": [],
+    "DropList": [
+      1000909,
+      1000412,
+      1016062
+    ],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1116,
+    "AutoObtainDamageType": true,
+    "MappingInfoID": 1116,
+    "WorldLevel": 3,
+    "StageID": 1012163
+  },
+  {
+    "ParamList": [],
+    "DamageType": [],
+    "DropList": [
+      1000909,
+      1000418,
+      1016063
+    ],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1116,
+    "AutoObtainDamageType": true,
+    "MappingInfoID": 1116,
+    "WorldLevel": 4,
+    "StageID": 1012164
+  },
+  {
+    "ParamList": [],
+    "DamageType": [],
+    "DropList": [
+      1000909,
+      1000423,
+      1016064
+    ],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1116,
+    "AutoObtainDamageType": true,
+    "MappingInfoID": 1116,
+    "WorldLevel": 5,
+    "StageID": 1012165
+  },
+  {
+    "ParamList": [],
+    "DamageType": [],
+    "DropList": [],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1116,
+    "AutoObtainDamageType": true,
+    "MappingInfoID": 1116,
+    "WorldLevel": 6,
+    "StageID": 1012166
+  },
+  {
+    "ParamList": [],
+    "DamageType": [],
+    "DropList": [],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1117,
+    "AutoObtainDamageType": true,
+    "MappingInfoID": 1117,
+    "WorldLevel": 0,
+    "StageID": 1012170
+  },
+  {
+    "ParamList": [],
+    "DamageType": [],
+    "DropList": [],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1117,
+    "AutoObtainDamageType": true,
+    "MappingInfoID": 1117,
+    "WorldLevel": 1,
+    "StageID": 1012171
+  },
+  {
+    "ParamList": [],
+    "DamageType": [],
+    "DropList": [
+      1000909,
+      1000407,
+      1016071
+    ],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1117,
+    "AutoObtainDamageType": true,
+    "MappingInfoID": 1117,
+    "WorldLevel": 2,
+    "StageID": 1012172
+  },
+  {
+    "ParamList": [],
+    "DamageType": [],
+    "DropList": [
+      1000909,
+      1000412,
+      1016072
+    ],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1117,
+    "AutoObtainDamageType": true,
+    "MappingInfoID": 1117,
+    "WorldLevel": 3,
+    "StageID": 1012173
+  },
+  {
+    "ParamList": [],
+    "DamageType": [],
+    "DropList": [
+      1000909,
+      1000418,
+      1016073
+    ],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1117,
+    "AutoObtainDamageType": true,
+    "MappingInfoID": 1117,
+    "WorldLevel": 4,
+    "StageID": 1012174
+  },
+  {
+    "ParamList": [],
+    "DamageType": [],
+    "DropList": [
+      1000909,
+      1000423,
+      1016074
+    ],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1117,
+    "AutoObtainDamageType": true,
+    "MappingInfoID": 1117,
+    "WorldLevel": 5,
+    "StageID": 1012175
+  },
+  {
+    "ParamList": [],
+    "DamageType": [],
+    "DropList": [],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1117,
+    "AutoObtainDamageType": true,
+    "MappingInfoID": 1117,
+    "WorldLevel": 6,
+    "StageID": 1012176
+  },
+  {
+    "ParamList": [],
+    "DamageType": [],
+    "DropList": [],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1118,
+    "AutoObtainDamageType": true,
+    "MappingInfoID": 1118,
+    "WorldLevel": 0,
+    "StageID": 1012180
+  },
+  {
+    "ParamList": [],
+    "DamageType": [],
+    "DropList": [],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1118,
+    "AutoObtainDamageType": true,
+    "MappingInfoID": 1118,
+    "WorldLevel": 1,
+    "StageID": 1012181
+  },
+  {
+    "ParamList": [],
+    "DamageType": [],
+    "DropList": [
+      1000909,
+      1000407,
+      1016081
+    ],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1118,
+    "AutoObtainDamageType": true,
+    "MappingInfoID": 1118,
+    "WorldLevel": 2,
+    "StageID": 1012182
+  },
+  {
+    "ParamList": [],
+    "DamageType": [],
+    "DropList": [
+      1000909,
+      1000412,
+      1016082
+    ],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1118,
+    "AutoObtainDamageType": true,
+    "MappingInfoID": 1118,
+    "WorldLevel": 3,
+    "StageID": 1012183
+  },
+  {
+    "ParamList": [],
+    "DamageType": [],
+    "DropList": [
+      1000909,
+      1000418,
+      1016083
+    ],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1118,
+    "AutoObtainDamageType": true,
+    "MappingInfoID": 1118,
+    "WorldLevel": 4,
+    "StageID": 1012184
+  },
+  {
+    "ParamList": [],
+    "DamageType": [],
+    "DropList": [
+      1000909,
+      1000423,
+      1016084
+    ],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1118,
+    "AutoObtainDamageType": true,
+    "MappingInfoID": 1118,
+    "WorldLevel": 5,
+    "StageID": 1012185
+  },
+  {
+    "ParamList": [],
+    "DamageType": [],
+    "DropList": [],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1118,
+    "AutoObtainDamageType": true,
+    "MappingInfoID": 1118,
+    "WorldLevel": 6,
+    "StageID": 1012186
+  },
+  {
+    "ParamList": [],
+    "DamageType": [],
+    "DropList": [],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1119,
+    "AutoObtainDamageType": true,
+    "MappingInfoID": 1119,
+    "WorldLevel": 0,
+    "StageID": 1012190
+  },
+  {
+    "ParamList": [],
+    "DamageType": [],
+    "DropList": [],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1119,
+    "AutoObtainDamageType": true,
+    "MappingInfoID": 1119,
+    "WorldLevel": 1,
+    "StageID": 1012191
+  },
+  {
+    "ParamList": [],
+    "DamageType": [],
+    "DropList": [
+      1000909,
+      1000407,
+      1016111
+    ],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1119,
+    "AutoObtainDamageType": true,
+    "MappingInfoID": 1119,
+    "WorldLevel": 2,
+    "StageID": 1012192
+  },
+  {
+    "ParamList": [],
+    "DamageType": [],
+    "DropList": [
+      1000909,
+      1000412,
+      1016112
+    ],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1119,
+    "AutoObtainDamageType": true,
+    "MappingInfoID": 1119,
+    "WorldLevel": 3,
+    "StageID": 1012193
+  },
+  {
+    "ParamList": [],
+    "DamageType": [],
+    "DropList": [
+      1000909,
+      1000418,
+      1016113
+    ],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1119,
+    "AutoObtainDamageType": true,
+    "MappingInfoID": 1119,
+    "WorldLevel": 4,
+    "StageID": 1012194
+  },
+  {
+    "ParamList": [],
+    "DamageType": [],
+    "DropList": [
+      1000909,
+      1000423,
+      1016114
+    ],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1119,
+    "AutoObtainDamageType": true,
+    "MappingInfoID": 1119,
+    "WorldLevel": 5,
+    "StageID": 1012195
+  },
+  {
+    "ParamList": [],
+    "DamageType": [],
+    "DropList": [],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1119,
+    "AutoObtainDamageType": true,
+    "MappingInfoID": 1119,
+    "WorldLevel": 6,
+    "StageID": 1012196
+  },
+  {
+    "ParamList": [],
+    "DamageType": [],
+    "DropList": [],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1120,
+    "AutoObtainDamageType": true,
+    "MappingInfoID": 1120,
+    "WorldLevel": 0,
+    "StageID": 1012200
+  },
+  {
+    "ParamList": [],
+    "DamageType": [],
+    "DropList": [],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1120,
+    "AutoObtainDamageType": true,
+    "MappingInfoID": 1120,
+    "WorldLevel": 1,
+    "StageID": 1012201
+  },
+  {
+    "ParamList": [],
+    "DamageType": [],
+    "DropList": [
+      1000909,
+      1000407,
+      1016091
+    ],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1120,
+    "AutoObtainDamageType": true,
+    "MappingInfoID": 1120,
+    "WorldLevel": 2,
+    "StageID": 1012202
+  },
+  {
+    "ParamList": [],
+    "DamageType": [],
+    "DropList": [
+      1000909,
+      1000412,
+      1016092
+    ],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1120,
+    "AutoObtainDamageType": true,
+    "MappingInfoID": 1120,
+    "WorldLevel": 3,
+    "StageID": 1012203
+  },
+  {
+    "ParamList": [],
+    "DamageType": [],
+    "DropList": [
+      1000909,
+      1000418,
+      1016093
+    ],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1120,
+    "AutoObtainDamageType": true,
+    "MappingInfoID": 1120,
+    "WorldLevel": 4,
+    "StageID": 1012204
+  },
+  {
+    "ParamList": [],
+    "DamageType": [],
+    "DropList": [
+      1000909,
+      1000423,
+      1016094
+    ],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1120,
+    "AutoObtainDamageType": true,
+    "MappingInfoID": 1120,
+    "WorldLevel": 5,
+    "StageID": 1012205
+  },
+  {
+    "ParamList": [],
+    "DamageType": [],
+    "DropList": [],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1120,
+    "AutoObtainDamageType": true,
+    "MappingInfoID": 1120,
+    "WorldLevel": 6,
+    "StageID": 1012206
+  },
+  {
+    "ParamList": [],
+    "DamageType": [],
+    "DropList": [],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1121,
+    "AutoObtainDamageType": true,
+    "MappingInfoID": 1121,
+    "WorldLevel": 0,
+    "StageID": 1012210
+  },
+  {
+    "ParamList": [],
+    "DamageType": [],
+    "DropList": [],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1121,
+    "AutoObtainDamageType": true,
+    "MappingInfoID": 1121,
+    "WorldLevel": 1,
+    "StageID": 1012211
+  },
+  {
+    "ParamList": [],
+    "DamageType": [],
+    "DropList": [
+      1000909,
+      1000407,
+      1016101
+    ],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1121,
+    "AutoObtainDamageType": true,
+    "MappingInfoID": 1121,
+    "WorldLevel": 2,
+    "StageID": 1012212
+  },
+  {
+    "ParamList": [],
+    "DamageType": [],
+    "DropList": [
+      1000909,
+      1000412,
+      1016102
+    ],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1121,
+    "AutoObtainDamageType": true,
+    "MappingInfoID": 1121,
+    "WorldLevel": 3,
+    "StageID": 1012213
+  },
+  {
+    "ParamList": [],
+    "DamageType": [],
+    "DropList": [
+      1000909,
+      1000418,
+      1016103
+    ],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1121,
+    "AutoObtainDamageType": true,
+    "MappingInfoID": 1121,
+    "WorldLevel": 4,
+    "StageID": 1012214
+  },
+  {
+    "ParamList": [],
+    "DamageType": [],
+    "DropList": [
+      1000909,
+      1000423,
+      1016104
+    ],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1121,
+    "AutoObtainDamageType": true,
+    "MappingInfoID": 1121,
+    "WorldLevel": 5,
+    "StageID": 1012215
+  },
+  {
+    "ParamList": [],
+    "DamageType": [],
+    "DropList": [],
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "StaminaCost": 30,
+    "ID": 1121,
+    "AutoObtainDamageType": true,
+    "MappingInfoID": 1121,
+    "WorldLevel": 6,
+    "StageID": 1012216
+  }
+]

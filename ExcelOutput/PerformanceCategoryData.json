@@ -1,0 +1,66 @@
+[
+  {
+    "IconPath": "",
+    "CategoryID": 1,
+    "isSubCategory": false,
+    "Category": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/TabIcon/World/World00Icon.png",
+    "CategoryID": 1000,
+    "isSubCategory": false,
+    "Category": {
+      "Hash": 1961498409
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/TabIcon/World/World01Icon.png",
+    "CategoryID": 2000,
+    "isSubCategory": false,
+    "Category": {
+      "Hash": -464856968
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/TabIcon/World/World02Icon.png",
+    "CategoryID": 3000,
+    "isSubCategory": false,
+    "Category": {
+      "Hash": -2051143885
+    }
+  },
+  {
+    "IconPath": "",
+    "CategoryID": 1001,
+    "isSubCategory": true,
+    "Category": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "IconPath": "",
+    "CategoryID": 2001,
+    "isSubCategory": true,
+    "Category": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/TabIcon/World/World02Icon.png",
+    "CategoryID": 4000,
+    "isSubCategory": false,
+    "Category": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "IconPath": "",
+    "CategoryID": 5000,
+    "isSubCategory": false,
+    "Category": {
+      "Hash": 371857150
+    }
+  }
+]

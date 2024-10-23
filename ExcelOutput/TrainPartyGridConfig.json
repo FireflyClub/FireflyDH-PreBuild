@@ -1,0 +1,182 @@
+[
+  {
+    "GridIconPath": "SpriteOutput/Quest/TrainParty/GameplayGridIcon/BtnGameplayGridIcon0.png",
+    "ParamList": [],
+    "GridType": "Normal",
+    "GridID": 1001
+  },
+  {
+    "GridIconPath": "SpriteOutput/Quest/TrainParty/GameplayGridIcon/BtnGameplayGridIcon1.png",
+    "ParamList": [],
+    "GridType": "Postive",
+    "GridID": 2001
+  },
+  {
+    "GridIconPath": "SpriteOutput/Quest/TrainParty/GameplayGridIcon/BtnGameplayGridIcon1.png",
+    "ParamList": [],
+    "GridType": "Postive",
+    "GridID": 2101
+  },
+  {
+    "GridIconPath": "SpriteOutput/Quest/TrainParty/GameplayGridIcon/BtnGameplayGridIcon2.png",
+    "ParamList": [],
+    "GridType": "Negative",
+    "GridID": 3001
+  },
+  {
+    "GridIconPath": "SpriteOutput/Quest/TrainParty/GameplayGridIcon/BtnGameplayGridIcon3_2.png",
+    "ParamList": [
+      200
+    ],
+    "GridType": "Incentive",
+    "GridID": 4001
+  },
+  {
+    "GridIconPath": "SpriteOutput/Quest/TrainParty/GameplayGridIcon/BtnGameplayGridIcon3_3.png",
+    "ParamList": [
+      300
+    ],
+    "GridType": "Incentive",
+    "GridID": 4002
+  },
+  {
+    "GridIconPath": "SpriteOutput/Quest/TrainParty/GameplayGridIcon/BtnGameplayGridIcon3_4.png",
+    "ParamList": [
+      400
+    ],
+    "GridType": "Incentive",
+    "GridID": 4003
+  },
+  {
+    "GridIconPath": "SpriteOutput/Quest/TrainParty/GameplayGridIcon/BtnGameplayGridIcon3_5.png",
+    "ParamList": [
+      500
+    ],
+    "GridType": "Incentive",
+    "GridID": 4004
+  },
+  {
+    "GridIconPath": "SpriteOutput/Quest/TrainParty/GameplayGridIcon/BtnGameplayGridIcon3_6.png",
+    "ParamList": [
+      600
+    ],
+    "GridType": "Incentive",
+    "GridID": 4005
+  },
+  {
+    "GridIconPath": "SpriteOutput/Quest/TrainParty/GameplayGridIcon/BtnGameplayGridIcon3_7.png",
+    "ParamList": [
+      700
+    ],
+    "GridType": "Incentive",
+    "GridID": 4006
+  },
+  {
+    "GridIconPath": "SpriteOutput/Quest/TrainParty/GameplayGridIcon/BtnGameplayGridIcon3_8.png",
+    "ParamList": [
+      800
+    ],
+    "GridType": "Incentive",
+    "GridID": 4007
+  },
+  {
+    "GridIconPath": "SpriteOutput/Quest/TrainParty/GameplayGridIcon/BtnGameplayGridIcon3_3.png",
+    "ParamList": [
+      300
+    ],
+    "GridType": "Incentive",
+    "GridID": 5001
+  },
+  {
+    "GridIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/8001.png",
+    "ParamList": [
+      1001
+    ],
+    "GridType": "Passenger",
+    "GridID": 6001
+  },
+  {
+    "GridIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1001.png",
+    "ParamList": [
+      1002
+    ],
+    "GridType": "Passenger",
+    "GridID": 6002
+  },
+  {
+    "GridIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1002.png",
+    "ParamList": [
+      1003
+    ],
+    "GridType": "Passenger",
+    "GridID": 6003
+  },
+  {
+    "GridIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1003.png",
+    "ParamList": [
+      1004
+    ],
+    "GridType": "Passenger",
+    "GridID": 6004
+  },
+  {
+    "GridIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1004.png",
+    "ParamList": [
+      1005
+    ],
+    "GridType": "Passenger",
+    "GridID": 6005
+  },
+  {
+    "GridIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/8001.png",
+    "ParamList": [
+      1001
+    ],
+    "GridType": "Passenger",
+    "GridID": 6101
+  },
+  {
+    "GridIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1001.png",
+    "ParamList": [
+      1002
+    ],
+    "GridType": "Passenger",
+    "GridID": 6102
+  },
+  {
+    "GridIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1002.png",
+    "ParamList": [
+      1003
+    ],
+    "GridType": "Passenger",
+    "GridID": 6103
+  },
+  {
+    "GridIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1003.png",
+    "ParamList": [
+      1004
+    ],
+    "GridType": "Passenger",
+    "GridID": 6104
+  },
+  {
+    "GridIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1004.png",
+    "ParamList": [
+      1005
+    ],
+    "GridType": "Passenger",
+    "GridID": 6105
+  },
+  {
+    "GridIconPath": "SpriteOutput/Quest/TrainParty/GameplayGridIcon/BtnGameplayGridIcon5.png",
+    "ParamList": [],
+    "GridType": "Card",
+    "GridID": 7001
+  },
+  {
+    "GridIconPath": "SpriteOutput/Quest/TrainParty/GameplayGridIcon/BtnGameplayGridIcon6.png",
+    "ParamList": [],
+    "GridType": "Meeting",
+    "GridID": 8001
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "RaidFigurePath": "SpriteOutput/UI/Quest/Graffit/GraffitActivityTag1.png",
+    "ExploreFigurePath": "SpriteOutput/UI/Quest/Graffit/GraffitActivityMap1.png",
+    "Conditions": [
+      {
+        "Param": "2000701",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "IconPath": "SpriteOutput/TabIcon/Activity/AccordIcon.png",
+    "Name": {
+      "Hash": 1930314643
+    },
+    "ActivityModuleID": 5000102,
+    "GroupID": 1
+  },
+  {
+    "RaidFigurePath": "SpriteOutput/UI/Quest/Graffit/GraffitActivityTag2.png",
+    "ExploreFigurePath": "SpriteOutput/UI/Quest/Graffit/GraffitActivityMap2.png",
+    "Conditions": [
+      {
+        "Param": "2000704",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "IconPath": "SpriteOutput/TabIcon/Activity/AccordIcon.png",
+    "Name": {
+      "Hash": 1930314640
+    },
+    "ActivityModuleID": 5000103,
+    "GroupID": 2
+  },
+  {
+    "RaidFigurePath": "SpriteOutput/UI/Quest/Graffit/GraffitActivityTag3.png",
+    "ExploreFigurePath": "SpriteOutput/UI/Quest/Graffit/GraffitActivityMap3.png",
+    "Conditions": [
+      {
+        "Param": "2000704",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "IconPath": "SpriteOutput/TabIcon/Activity/AccordIcon.png",
+    "Name": {
+      "Hash": 1930314641
+    },
+    "ActivityModuleID": 5000104,
+    "GroupID": 3
+  }
+]

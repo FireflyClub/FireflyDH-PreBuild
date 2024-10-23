@@ -1,0 +1,847 @@
+[
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 10101
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 10102
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 10103
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 10201
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 10202
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 10203
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 10204
+  },
+  {
+    "DiceSpecialDisplay": true,
+    "RoundType": "BranchSelect",
+    "RoundID": 10107
+  },
+  {
+    "DiceSpecialDisplay": true,
+    "RoundType": "BranchSelect",
+    "RoundID": 10207
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 20101
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 20102
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 20103
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 20104
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 20201
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 20202
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 20203
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 20204
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 20301
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 20302
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 20303
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 20304
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 20305
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 20401
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 20402
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 20403
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 20404
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 20405
+  },
+  {
+    "DiceSpecialDisplay": true,
+    "RoundType": "BranchSelect",
+    "RoundID": 20150
+  },
+  {
+    "DiceSpecialDisplay": true,
+    "RoundType": "BranchSelect",
+    "RoundID": 20250
+  },
+  {
+    "DiceSpecialDisplay": true,
+    "RoundType": "BranchSelect",
+    "RoundID": 20350
+  },
+  {
+    "DiceSpecialDisplay": true,
+    "RoundType": "BranchSelect",
+    "RoundID": 20450
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 30101
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 30102
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 30103
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 30104
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 30201
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 30202
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 30203
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 30204
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 30301
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 30302
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 30303
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 30304
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 30305
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 30401
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 30402
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 30403
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 30404
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 30405
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "HanuShooting",
+    "RoundID": 30208
+  },
+  {
+    "DiceSpecialDisplay": true,
+    "RoundType": "BranchSelect",
+    "RoundID": 30150
+  },
+  {
+    "DiceSpecialDisplay": true,
+    "RoundType": "BranchSelect",
+    "RoundID": 30250
+  },
+  {
+    "DiceSpecialDisplay": true,
+    "RoundType": "BranchSelect",
+    "RoundID": 30350
+  },
+  {
+    "DiceSpecialDisplay": true,
+    "RoundType": "BranchSelect",
+    "RoundID": 30450
+  },
+  {
+    "DiceSpecialDisplay": true,
+    "RoundType": "Normal",
+    "RoundID": 41001
+  },
+  {
+    "DiceSpecialDisplay": true,
+    "RoundType": "Normal",
+    "RoundID": 41002
+  },
+  {
+    "DiceSpecialDisplay": true,
+    "RoundType": "Normal",
+    "RoundID": 41003
+  },
+  {
+    "DiceSpecialDisplay": true,
+    "RoundType": "Normal",
+    "RoundID": 41004
+  },
+  {
+    "DiceSpecialDisplay": true,
+    "RoundType": "Normal",
+    "RoundID": 41005
+  },
+  {
+    "DiceSpecialDisplay": true,
+    "RoundType": "Normal",
+    "RoundID": 41006
+  },
+  {
+    "DiceSpecialDisplay": true,
+    "RoundType": "Normal",
+    "RoundID": 41007
+  },
+  {
+    "DiceSpecialDisplay": true,
+    "RoundType": "Normal",
+    "RoundID": 41008
+  },
+  {
+    "DiceSpecialDisplay": true,
+    "RoundType": "MovieGame",
+    "RoundID": 41009
+  },
+  {
+    "DiceSpecialDisplay": true,
+    "RoundType": "BranchSelect",
+    "RoundID": 41010
+  },
+  {
+    "DiceSpecialDisplay": true,
+    "RoundType": "Normal",
+    "RoundID": 42001
+  },
+  {
+    "DiceSpecialDisplay": true,
+    "RoundType": "Normal",
+    "RoundID": 42002
+  },
+  {
+    "DiceSpecialDisplay": true,
+    "RoundType": "Normal",
+    "RoundID": 42003
+  },
+  {
+    "DiceSpecialDisplay": true,
+    "RoundType": "Normal",
+    "RoundID": 42004
+  },
+  {
+    "DiceSpecialDisplay": true,
+    "RoundType": "Normal",
+    "RoundID": 42005
+  },
+  {
+    "DiceSpecialDisplay": true,
+    "RoundType": "Normal",
+    "RoundID": 42006
+  },
+  {
+    "DiceSpecialDisplay": true,
+    "RoundType": "Normal",
+    "RoundID": 42007
+  },
+  {
+    "DiceSpecialDisplay": true,
+    "RoundType": "Normal",
+    "RoundID": 42008
+  },
+  {
+    "DiceSpecialDisplay": true,
+    "RoundType": "MovieGame",
+    "RoundID": 42009
+  },
+  {
+    "DiceSpecialDisplay": true,
+    "RoundType": "BranchSelect",
+    "RoundID": 42010
+  },
+  {
+    "DiceSpecialDisplay": true,
+    "RoundType": "Normal",
+    "RoundID": 43001
+  },
+  {
+    "DiceSpecialDisplay": true,
+    "RoundType": "Normal",
+    "RoundID": 43002
+  },
+  {
+    "DiceSpecialDisplay": true,
+    "RoundType": "Normal",
+    "RoundID": 43003
+  },
+  {
+    "DiceSpecialDisplay": true,
+    "RoundType": "Normal",
+    "RoundID": 43004
+  },
+  {
+    "DiceSpecialDisplay": true,
+    "RoundType": "Normal",
+    "RoundID": 43005
+  },
+  {
+    "DiceSpecialDisplay": true,
+    "RoundType": "Normal",
+    "RoundID": 43006
+  },
+  {
+    "DiceSpecialDisplay": true,
+    "RoundType": "Normal",
+    "RoundID": 43007
+  },
+  {
+    "DiceSpecialDisplay": true,
+    "RoundType": "Normal",
+    "RoundID": 43008
+  },
+  {
+    "DiceSpecialDisplay": true,
+    "RoundType": "BranchSelect",
+    "RoundID": 43010
+  },
+  {
+    "DiceSpecialDisplay": true,
+    "RoundType": "Normal",
+    "RoundID": 44001
+  },
+  {
+    "DiceSpecialDisplay": true,
+    "RoundType": "Normal",
+    "RoundID": 44002
+  },
+  {
+    "DiceSpecialDisplay": true,
+    "RoundType": "Normal",
+    "RoundID": 44003
+  },
+  {
+    "DiceSpecialDisplay": true,
+    "RoundType": "Normal",
+    "RoundID": 44004
+  },
+  {
+    "DiceSpecialDisplay": true,
+    "RoundType": "Normal",
+    "RoundID": 44005
+  },
+  {
+    "DiceSpecialDisplay": true,
+    "RoundType": "Normal",
+    "RoundID": 44006
+  },
+  {
+    "DiceSpecialDisplay": true,
+    "RoundType": "Normal",
+    "RoundID": 44007
+  },
+  {
+    "DiceSpecialDisplay": true,
+    "RoundType": "Normal",
+    "RoundID": 44008
+  },
+  {
+    "DiceSpecialDisplay": true,
+    "RoundType": "BranchSelect",
+    "RoundID": 44010
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 51001
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 51002
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 51003
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 51004
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "SlotMachine",
+    "RoundID": 51008
+  },
+  {
+    "DiceSpecialDisplay": true,
+    "RoundType": "BranchSelect",
+    "RoundID": 51009
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 52001
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 52002
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 52003
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 52004
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "SlotMachine",
+    "RoundID": 52008
+  },
+  {
+    "DiceSpecialDisplay": true,
+    "RoundType": "BranchSelect",
+    "RoundID": 52009
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 53001
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 53002
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 53003
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 53004
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 53005
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "SlotMachine",
+    "RoundID": 53010
+  },
+  {
+    "DiceSpecialDisplay": true,
+    "RoundType": "BranchSelect",
+    "RoundID": 53011
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 54001
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 54002
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 54003
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 54004
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 54005
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "SlotMachine",
+    "RoundID": 54010
+  },
+  {
+    "DiceSpecialDisplay": true,
+    "RoundType": "BranchSelect",
+    "RoundID": 54011
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 70101
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 70102
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 70103
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 70104
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 70105
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 70106
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 70107
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 70108
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 70109
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 70110
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 70111
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 70112
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 70113
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 70114
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 70115
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 70116
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 70117
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 70118
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 70119
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 70120
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 70121
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 70122
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 70123
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 70124
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 70125
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 70126
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 70127
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 70128
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 70129
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 70130
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 70131
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 70132
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 70133
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 70134
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 70135
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 70136
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 70137
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 70138
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 70139
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 70140
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 70141
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 70142
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 70143
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 70144
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 70145
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 70146
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 70147
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 70148
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 70149
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 70150
+  },
+  {
+    "DiceSpecialDisplay": false,
+    "RoundType": "Normal",
+    "RoundID": 70151
+  }
+]

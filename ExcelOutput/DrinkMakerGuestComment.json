@@ -1,0 +1,2012 @@
+[
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon3.png",
+    "TriggerTypeParamList": [],
+    "SatisfyTriggerType": "None",
+    "CommentID": 11,
+    "Type": "Unsatisfactory",
+    "GuestID": 1,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": 704853331
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon6.png",
+    "TriggerTypeParamList": [],
+    "SatisfyTriggerType": "None",
+    "CommentID": 12,
+    "Type": "Unsatisfactory",
+    "GuestID": 1,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": 1108137858
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon1.png",
+    "TriggerTypeParamList": [],
+    "SatisfyTriggerType": "None",
+    "CommentID": 13,
+    "Type": "Unsatisfactory",
+    "GuestID": 1,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": -457946083
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon3.png",
+    "TriggerTypeParamList": [],
+    "SatisfyTriggerType": "None",
+    "CommentID": 21,
+    "Type": "Unsatisfactory",
+    "GuestID": 2,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": 704853328
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon6.png",
+    "TriggerTypeParamList": [],
+    "SatisfyTriggerType": "None",
+    "CommentID": 22,
+    "Type": "Unsatisfactory",
+    "GuestID": 2,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": 1108137855
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon1.png",
+    "TriggerTypeParamList": [],
+    "SatisfyTriggerType": "None",
+    "CommentID": 23,
+    "Type": "Unsatisfactory",
+    "GuestID": 2,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": -457946086
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon3.png",
+    "TriggerTypeParamList": [],
+    "SatisfyTriggerType": "None",
+    "CommentID": 31,
+    "Type": "Unsatisfactory",
+    "GuestID": 3,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": 704853329
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon6.png",
+    "TriggerTypeParamList": [],
+    "SatisfyTriggerType": "None",
+    "CommentID": 32,
+    "Type": "Unsatisfactory",
+    "GuestID": 3,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": 1108137856
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon1.png",
+    "TriggerTypeParamList": [],
+    "SatisfyTriggerType": "None",
+    "CommentID": 33,
+    "Type": "Unsatisfactory",
+    "GuestID": 3,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": -457946085
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon3.png",
+    "TriggerTypeParamList": [],
+    "SatisfyTriggerType": "None",
+    "CommentID": 41,
+    "Type": "Unsatisfactory",
+    "GuestID": 4,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": 704853334
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon6.png",
+    "TriggerTypeParamList": [],
+    "SatisfyTriggerType": "None",
+    "CommentID": 42,
+    "Type": "Unsatisfactory",
+    "GuestID": 4,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": 1108137861
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon1.png",
+    "TriggerTypeParamList": [],
+    "SatisfyTriggerType": "None",
+    "CommentID": 43,
+    "Type": "Unsatisfactory",
+    "GuestID": 4,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": -457946080
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon3.png",
+    "TriggerTypeParamList": [],
+    "SatisfyTriggerType": "None",
+    "CommentID": 51,
+    "Type": "Unsatisfactory",
+    "GuestID": 5,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": 704853335
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon6.png",
+    "TriggerTypeParamList": [],
+    "SatisfyTriggerType": "None",
+    "CommentID": 52,
+    "Type": "Unsatisfactory",
+    "GuestID": 5,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": 1108137862
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon1.png",
+    "TriggerTypeParamList": [],
+    "SatisfyTriggerType": "None",
+    "CommentID": 53,
+    "Type": "Unsatisfactory",
+    "GuestID": 5,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": -457946079
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon3.png",
+    "TriggerTypeParamList": [],
+    "SatisfyTriggerType": "None",
+    "CommentID": 61,
+    "Type": "Unsatisfactory",
+    "GuestID": 6,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": 704853332
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon6.png",
+    "TriggerTypeParamList": [],
+    "SatisfyTriggerType": "None",
+    "CommentID": 62,
+    "Type": "Unsatisfactory",
+    "GuestID": 6,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": 1108137859
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon1.png",
+    "TriggerTypeParamList": [],
+    "SatisfyTriggerType": "None",
+    "CommentID": 63,
+    "Type": "Unsatisfactory",
+    "GuestID": 6,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": -457946082
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon6.png",
+    "TriggerTypeParamList": [
+      1
+    ],
+    "SatisfyTriggerType": "ByIngredientTypeCnt",
+    "CommentID": 101,
+    "Type": "Satisfactory",
+    "GuestID": 1,
+    "Weight": 99,
+    "CommentContent": {
+      "Hash": -933700281
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "TriggerTypeParamList": [
+      3
+    ],
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 104,
+    "Type": "Satisfactory",
+    "GuestID": 1,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": -933700276
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "TriggerTypeParamList": [
+      4
+    ],
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 105,
+    "Type": "Satisfactory",
+    "GuestID": 1,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": -933700277
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "TriggerTypeParamList": [
+      5
+    ],
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 106,
+    "Type": "Satisfactory",
+    "GuestID": 1,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": -933700278
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "TriggerTypeParamList": [
+      6
+    ],
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 107,
+    "Type": "Satisfactory",
+    "GuestID": 1,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": -933700279
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "TriggerTypeParamList": [
+      7
+    ],
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 108,
+    "Type": "Satisfactory",
+    "GuestID": 1,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": -933700272
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "TriggerTypeParamList": [
+      8
+    ],
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 109,
+    "Type": "Satisfactory",
+    "GuestID": 1,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": -933700273
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "TriggerTypeParamList": [
+      21
+    ],
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 110,
+    "Type": "Satisfactory",
+    "GuestID": 1,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": 1795183075
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "TriggerTypeParamList": [
+      22
+    ],
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 111,
+    "Type": "Satisfactory",
+    "GuestID": 1,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": 1795183074
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "TriggerTypeParamList": [
+      24
+    ],
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 112,
+    "Type": "Satisfactory",
+    "GuestID": 1,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": 1795183073
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "TriggerTypeParamList": [
+      25
+    ],
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 113,
+    "Type": "Satisfactory",
+    "GuestID": 1,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": 1795183072
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "TriggerTypeParamList": [
+      2102
+    ],
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 114,
+    "Type": "Satisfactory",
+    "GuestID": 1,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": 1795183079
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "TriggerTypeParamList": [
+      101
+    ],
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 115,
+    "Type": "Satisfactory",
+    "GuestID": 1,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": 1795183078
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "TriggerTypeParamList": [
+      102
+    ],
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 116,
+    "Type": "Satisfactory",
+    "GuestID": 1,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": 1795183077
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "TriggerTypeParamList": [
+      -20,
+      10
+    ],
+    "SatisfyTriggerType": "ByHueInterval",
+    "CommentID": 117,
+    "Type": "Satisfactory",
+    "GuestID": 1,
+    "Weight": 99,
+    "CommentContent": {
+      "Hash": 1795183076
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "TriggerTypeParamList": [
+      30,
+      60
+    ],
+    "SatisfyTriggerType": "ByHueInterval",
+    "CommentID": 118,
+    "Type": "Satisfactory",
+    "GuestID": 1,
+    "Weight": 99,
+    "CommentContent": {
+      "Hash": 1795183083
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "TriggerTypeParamList": [
+      100,
+      150
+    ],
+    "SatisfyTriggerType": "ByHueInterval",
+    "CommentID": 119,
+    "Type": "Satisfactory",
+    "GuestID": 1,
+    "Weight": 99,
+    "CommentContent": {
+      "Hash": 1795183082
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "TriggerTypeParamList": [
+      180,
+      260
+    ],
+    "SatisfyTriggerType": "ByHueInterval",
+    "CommentID": 120,
+    "Type": "Satisfactory",
+    "GuestID": 1,
+    "Weight": 99,
+    "CommentContent": {
+      "Hash": -2096499694
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "TriggerTypeParamList": [
+      265,
+      280
+    ],
+    "SatisfyTriggerType": "ByHueInterval",
+    "CommentID": 121,
+    "Type": "Satisfactory",
+    "GuestID": 1,
+    "Weight": 99,
+    "CommentContent": {
+      "Hash": -2096499695
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon6.png",
+    "TriggerTypeParamList": [
+      1
+    ],
+    "SatisfyTriggerType": "ByIngredientTypeCnt",
+    "CommentID": 201,
+    "Type": "Satisfactory",
+    "GuestID": 2,
+    "Weight": 99,
+    "CommentContent": {
+      "Hash": -933700442
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "TriggerTypeParamList": [
+      1
+    ],
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 202,
+    "Type": "Satisfactory",
+    "GuestID": 2,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": -933700441
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "TriggerTypeParamList": [
+      2
+    ],
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 203,
+    "Type": "Satisfactory",
+    "GuestID": 2,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": -933700440
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "TriggerTypeParamList": [
+      5
+    ],
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 206,
+    "Type": "Satisfactory",
+    "GuestID": 2,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": -933700437
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "TriggerTypeParamList": [
+      6
+    ],
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 207,
+    "Type": "Satisfactory",
+    "GuestID": 2,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": -933700436
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "TriggerTypeParamList": [
+      7
+    ],
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 208,
+    "Type": "Satisfactory",
+    "GuestID": 2,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": -933700435
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "TriggerTypeParamList": [
+      8
+    ],
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 209,
+    "Type": "Satisfactory",
+    "GuestID": 2,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": -933700434
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "TriggerTypeParamList": [
+      21
+    ],
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 210,
+    "Type": "Satisfactory",
+    "GuestID": 2,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": 1795182912
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "TriggerTypeParamList": [
+      22
+    ],
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 211,
+    "Type": "Satisfactory",
+    "GuestID": 2,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": 1795182913
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "TriggerTypeParamList": [
+      24
+    ],
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 212,
+    "Type": "Satisfactory",
+    "GuestID": 2,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": 1795182914
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "TriggerTypeParamList": [
+      1201
+    ],
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 213,
+    "Type": "Satisfactory",
+    "GuestID": 2,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": 1795182915
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "TriggerTypeParamList": [
+      102
+    ],
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 214,
+    "Type": "Satisfactory",
+    "GuestID": 2,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": 1795182916
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "TriggerTypeParamList": [
+      -20,
+      10
+    ],
+    "SatisfyTriggerType": "ByHueInterval",
+    "CommentID": 215,
+    "Type": "Satisfactory",
+    "GuestID": 2,
+    "Weight": 99,
+    "CommentContent": {
+      "Hash": 1795182917
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "TriggerTypeParamList": [
+      30,
+      60
+    ],
+    "SatisfyTriggerType": "ByHueInterval",
+    "CommentID": 216,
+    "Type": "Satisfactory",
+    "GuestID": 2,
+    "Weight": 99,
+    "CommentContent": {
+      "Hash": 1795182918
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "TriggerTypeParamList": [
+      100,
+      150
+    ],
+    "SatisfyTriggerType": "ByHueInterval",
+    "CommentID": 217,
+    "Type": "Satisfactory",
+    "GuestID": 2,
+    "Weight": 99,
+    "CommentContent": {
+      "Hash": 1795182919
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "TriggerTypeParamList": [
+      180,
+      260
+    ],
+    "SatisfyTriggerType": "ByHueInterval",
+    "CommentID": 218,
+    "Type": "Satisfactory",
+    "GuestID": 2,
+    "Weight": 99,
+    "CommentContent": {
+      "Hash": 1795182920
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "TriggerTypeParamList": [
+      265,
+      280
+    ],
+    "SatisfyTriggerType": "ByHueInterval",
+    "CommentID": 219,
+    "Type": "Satisfactory",
+    "GuestID": 2,
+    "Weight": 99,
+    "CommentContent": {
+      "Hash": 1795182921
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "TriggerTypeParamList": [
+      25
+    ],
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 220,
+    "Type": "Satisfactory",
+    "GuestID": 2,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": -2096499857
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon6.png",
+    "TriggerTypeParamList": [
+      1
+    ],
+    "SatisfyTriggerType": "ByIngredientTypeCnt",
+    "CommentID": 301,
+    "Type": "Satisfactory",
+    "GuestID": 4,
+    "Weight": 99,
+    "CommentContent": {
+      "Hash": -933700347
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "TriggerTypeParamList": [
+      5
+    ],
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 306,
+    "Type": "Satisfactory",
+    "GuestID": 4,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": -933700340
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "TriggerTypeParamList": [
+      6
+    ],
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 307,
+    "Type": "Satisfactory",
+    "GuestID": 4,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": -933700341
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "TriggerTypeParamList": [
+      7
+    ],
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 308,
+    "Type": "Satisfactory",
+    "GuestID": 4,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": -933700338
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "TriggerTypeParamList": [
+      8
+    ],
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 309,
+    "Type": "Satisfactory",
+    "GuestID": 4,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": -933700339
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "TriggerTypeParamList": [
+      21
+    ],
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 310,
+    "Type": "Satisfactory",
+    "GuestID": 4,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": 1795183009
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "TriggerTypeParamList": [
+      22
+    ],
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 311,
+    "Type": "Satisfactory",
+    "GuestID": 4,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": 1795183008
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "TriggerTypeParamList": [
+      24
+    ],
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 312,
+    "Type": "Satisfactory",
+    "GuestID": 4,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": 1795183011
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "TriggerTypeParamList": [
+      101
+    ],
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 313,
+    "Type": "Satisfactory",
+    "GuestID": 4,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": 1795183010
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "TriggerTypeParamList": [
+      1201
+    ],
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 314,
+    "Type": "Satisfactory",
+    "GuestID": 4,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": 1795183013
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "TriggerTypeParamList": [
+      402
+    ],
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 315,
+    "Type": "Satisfactory",
+    "GuestID": 4,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": 1795183012
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "TriggerTypeParamList": [
+      403
+    ],
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 316,
+    "Type": "Satisfactory",
+    "GuestID": 4,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": 1795183015
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "TriggerTypeParamList": [
+      404
+    ],
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 317,
+    "Type": "Satisfactory",
+    "GuestID": 4,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": 1795183014
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "TriggerTypeParamList": [
+      102
+    ],
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 318,
+    "Type": "Satisfactory",
+    "GuestID": 4,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": 1795183017
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "TriggerTypeParamList": [
+      2102
+    ],
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 319,
+    "Type": "Satisfactory",
+    "GuestID": 4,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": 1795183016
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "TriggerTypeParamList": [
+      103
+    ],
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 320,
+    "Type": "Satisfactory",
+    "GuestID": 4,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": -2096499760
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "TriggerTypeParamList": [
+      -20,
+      10
+    ],
+    "SatisfyTriggerType": "ByHueInterval",
+    "CommentID": 321,
+    "Type": "Satisfactory",
+    "GuestID": 4,
+    "Weight": 99,
+    "CommentContent": {
+      "Hash": -2096499761
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "TriggerTypeParamList": [
+      30,
+      60
+    ],
+    "SatisfyTriggerType": "ByHueInterval",
+    "CommentID": 322,
+    "Type": "Satisfactory",
+    "GuestID": 4,
+    "Weight": 99,
+    "CommentContent": {
+      "Hash": -2096499758
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "TriggerTypeParamList": [
+      100,
+      150
+    ],
+    "SatisfyTriggerType": "ByHueInterval",
+    "CommentID": 323,
+    "Type": "Satisfactory",
+    "GuestID": 4,
+    "Weight": 99,
+    "CommentContent": {
+      "Hash": -2096499759
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "TriggerTypeParamList": [
+      180,
+      260
+    ],
+    "SatisfyTriggerType": "ByHueInterval",
+    "CommentID": 324,
+    "Type": "Satisfactory",
+    "GuestID": 4,
+    "Weight": 99,
+    "CommentContent": {
+      "Hash": -2096499756
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "TriggerTypeParamList": [
+      265,
+      280
+    ],
+    "SatisfyTriggerType": "ByHueInterval",
+    "CommentID": 325,
+    "Type": "Satisfactory",
+    "GuestID": 4,
+    "Weight": 99,
+    "CommentContent": {
+      "Hash": -2096499757
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "TriggerTypeParamList": [
+      25
+    ],
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 326,
+    "Type": "Satisfactory",
+    "GuestID": 4,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": -2096499754
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon6.png",
+    "TriggerTypeParamList": [
+      1
+    ],
+    "SatisfyTriggerType": "ByIngredientTypeCnt",
+    "CommentID": 401,
+    "Type": "Satisfactory",
+    "GuestID": 5,
+    "Weight": 99,
+    "CommentContent": {
+      "Hash": -933700244
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "TriggerTypeParamList": [
+      3
+    ],
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 404,
+    "Type": "Satisfactory",
+    "GuestID": 5,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": -933700249
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "TriggerTypeParamList": [
+      4
+    ],
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 405,
+    "Type": "Satisfactory",
+    "GuestID": 5,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": -933700248
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "TriggerTypeParamList": [
+      5
+    ],
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 406,
+    "Type": "Satisfactory",
+    "GuestID": 5,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": -933700251
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "TriggerTypeParamList": [
+      6
+    ],
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 407,
+    "Type": "Satisfactory",
+    "GuestID": 5,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": -933700250
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "TriggerTypeParamList": [
+      7
+    ],
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 408,
+    "Type": "Satisfactory",
+    "GuestID": 5,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": -933700237
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "TriggerTypeParamList": [
+      8
+    ],
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 409,
+    "Type": "Satisfactory",
+    "GuestID": 5,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": -933700236
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "TriggerTypeParamList": [
+      21
+    ],
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 410,
+    "Type": "Satisfactory",
+    "GuestID": 5,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": 1795183110
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "TriggerTypeParamList": [
+      22
+    ],
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 411,
+    "Type": "Satisfactory",
+    "GuestID": 5,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": 1795183111
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "TriggerTypeParamList": [
+      24
+    ],
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 412,
+    "Type": "Satisfactory",
+    "GuestID": 5,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": 1795183108
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "TriggerTypeParamList": [
+      101
+    ],
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 413,
+    "Type": "Satisfactory",
+    "GuestID": 5,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": 1795183109
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "TriggerTypeParamList": [
+      2102
+    ],
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 414,
+    "Type": "Satisfactory",
+    "GuestID": 5,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": 1795183106
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "TriggerTypeParamList": [
+      32
+    ],
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 415,
+    "Type": "Satisfactory",
+    "GuestID": 5,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": 1795183107
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "TriggerTypeParamList": [
+      399
+    ],
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 416,
+    "Type": "Satisfactory",
+    "GuestID": 5,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": 1795183104
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "TriggerTypeParamList": [
+      3001
+    ],
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 417,
+    "Type": "Satisfactory",
+    "GuestID": 5,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": 1795183105
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "TriggerTypeParamList": [
+      3002
+    ],
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 418,
+    "Type": "Satisfactory",
+    "GuestID": 5,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": 1795183118
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "TriggerTypeParamList": [
+      -20,
+      10
+    ],
+    "SatisfyTriggerType": "ByHueInterval",
+    "CommentID": 419,
+    "Type": "Satisfactory",
+    "GuestID": 5,
+    "Weight": 99,
+    "CommentContent": {
+      "Hash": 1795183119
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "TriggerTypeParamList": [
+      30,
+      60
+    ],
+    "SatisfyTriggerType": "ByHueInterval",
+    "CommentID": 420,
+    "Type": "Satisfactory",
+    "GuestID": 5,
+    "Weight": 99,
+    "CommentContent": {
+      "Hash": -2096499659
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "TriggerTypeParamList": [
+      100,
+      150
+    ],
+    "SatisfyTriggerType": "ByHueInterval",
+    "CommentID": 421,
+    "Type": "Satisfactory",
+    "GuestID": 5,
+    "Weight": 99,
+    "CommentContent": {
+      "Hash": -2096499658
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "TriggerTypeParamList": [
+      180,
+      260
+    ],
+    "SatisfyTriggerType": "ByHueInterval",
+    "CommentID": 422,
+    "Type": "Satisfactory",
+    "GuestID": 5,
+    "Weight": 99,
+    "CommentContent": {
+      "Hash": -2096499661
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "TriggerTypeParamList": [
+      265,
+      280
+    ],
+    "SatisfyTriggerType": "ByHueInterval",
+    "CommentID": 423,
+    "Type": "Satisfactory",
+    "GuestID": 5,
+    "Weight": 99,
+    "CommentContent": {
+      "Hash": -2096499660
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "TriggerTypeParamList": [
+      25
+    ],
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 424,
+    "Type": "Satisfactory",
+    "GuestID": 5,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": -2096499663
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon6.png",
+    "TriggerTypeParamList": [
+      1
+    ],
+    "SatisfyTriggerType": "ByIngredientTypeCnt",
+    "CommentID": 501,
+    "Type": "Satisfactory",
+    "GuestID": 6,
+    "Weight": 99,
+    "CommentContent": {
+      "Hash": -933700149
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "TriggerTypeParamList": [
+      1
+    ],
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 502,
+    "Type": "Satisfactory",
+    "GuestID": 6,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": -933700150
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "TriggerTypeParamList": [
+      2
+    ],
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 503,
+    "Type": "Satisfactory",
+    "GuestID": 6,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": -933700151
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "TriggerTypeParamList": [
+      3
+    ],
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 504,
+    "Type": "Satisfactory",
+    "GuestID": 6,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": -933700152
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "TriggerTypeParamList": [
+      4
+    ],
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 505,
+    "Type": "Satisfactory",
+    "GuestID": 6,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": -933700153
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "TriggerTypeParamList": [
+      5
+    ],
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 506,
+    "Type": "Satisfactory",
+    "GuestID": 6,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": -933700154
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "TriggerTypeParamList": [
+      6
+    ],
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 507,
+    "Type": "Satisfactory",
+    "GuestID": 6,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": -933700155
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "TriggerTypeParamList": [
+      7
+    ],
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 508,
+    "Type": "Satisfactory",
+    "GuestID": 6,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": -933700140
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "TriggerTypeParamList": [
+      8
+    ],
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 509,
+    "Type": "Satisfactory",
+    "GuestID": 6,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": -933700141
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "TriggerTypeParamList": [
+      21
+    ],
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 510,
+    "Type": "Satisfactory",
+    "GuestID": 6,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": 1795183207
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "TriggerTypeParamList": [
+      22
+    ],
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 511,
+    "Type": "Satisfactory",
+    "GuestID": 6,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": 1795183206
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "TriggerTypeParamList": [
+      24
+    ],
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 512,
+    "Type": "Satisfactory",
+    "GuestID": 6,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": 1795183205
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "TriggerTypeParamList": [
+      34
+    ],
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 513,
+    "Type": "Satisfactory",
+    "GuestID": 6,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": 1795183204
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "TriggerTypeParamList": [
+      33
+    ],
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 514,
+    "Type": "Satisfactory",
+    "GuestID": 6,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": 1795183203
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "TriggerTypeParamList": [
+      202
+    ],
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 515,
+    "Type": "Satisfactory",
+    "GuestID": 6,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": 1795183202
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "TriggerTypeParamList": [
+      203
+    ],
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 516,
+    "Type": "Satisfactory",
+    "GuestID": 6,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": 1795183201
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "TriggerTypeParamList": [
+      101
+    ],
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 517,
+    "Type": "Satisfactory",
+    "GuestID": 6,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": 1795183200
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "TriggerTypeParamList": [
+      -20,
+      10
+    ],
+    "SatisfyTriggerType": "ByHueInterval",
+    "CommentID": 518,
+    "Type": "Satisfactory",
+    "GuestID": 6,
+    "Weight": 99,
+    "CommentContent": {
+      "Hash": 1795183215
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "TriggerTypeParamList": [
+      30,
+      60
+    ],
+    "SatisfyTriggerType": "ByHueInterval",
+    "CommentID": 519,
+    "Type": "Satisfactory",
+    "GuestID": 6,
+    "Weight": 99,
+    "CommentContent": {
+      "Hash": 1795183214
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "TriggerTypeParamList": [
+      100,
+      150
+    ],
+    "SatisfyTriggerType": "ByHueInterval",
+    "CommentID": 520,
+    "Type": "Satisfactory",
+    "GuestID": 6,
+    "Weight": 99,
+    "CommentContent": {
+      "Hash": -2096499562
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "TriggerTypeParamList": [
+      180,
+      260
+    ],
+    "SatisfyTriggerType": "ByHueInterval",
+    "CommentID": 521,
+    "Type": "Satisfactory",
+    "GuestID": 6,
+    "Weight": 99,
+    "CommentContent": {
+      "Hash": -2096499563
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "TriggerTypeParamList": [
+      265,
+      280
+    ],
+    "SatisfyTriggerType": "ByHueInterval",
+    "CommentID": 522,
+    "Type": "Satisfactory",
+    "GuestID": 6,
+    "Weight": 99,
+    "CommentContent": {
+      "Hash": -2096499564
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "TriggerTypeParamList": [
+      25
+    ],
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 523,
+    "Type": "Satisfactory",
+    "GuestID": 6,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": -2096499565
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon6.png",
+    "TriggerTypeParamList": [
+      1
+    ],
+    "SatisfyTriggerType": "ByIngredientTypeCnt",
+    "CommentID": 601,
+    "Type": "Satisfactory",
+    "GuestID": 3,
+    "Weight": 99,
+    "CommentContent": {
+      "Hash": -933700310
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "TriggerTypeParamList": [
+      1
+    ],
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 602,
+    "Type": "Satisfactory",
+    "GuestID": 3,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": -933700309
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "TriggerTypeParamList": [
+      2
+    ],
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 603,
+    "Type": "Satisfactory",
+    "GuestID": 3,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": -933700308
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "TriggerTypeParamList": [
+      3
+    ],
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 604,
+    "Type": "Satisfactory",
+    "GuestID": 3,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": -933700315
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "TriggerTypeParamList": [
+      4
+    ],
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 605,
+    "Type": "Satisfactory",
+    "GuestID": 3,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": -933700314
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "TriggerTypeParamList": [
+      5
+    ],
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 606,
+    "Type": "Satisfactory",
+    "GuestID": 3,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": -933700313
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "TriggerTypeParamList": [
+      6
+    ],
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 607,
+    "Type": "Satisfactory",
+    "GuestID": 3,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": -933700312
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "TriggerTypeParamList": [
+      7
+    ],
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 608,
+    "Type": "Satisfactory",
+    "GuestID": 3,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": -933700303
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "TriggerTypeParamList": [
+      8
+    ],
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 609,
+    "Type": "Satisfactory",
+    "GuestID": 3,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": -933700302
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "TriggerTypeParamList": [
+      21
+    ],
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 610,
+    "Type": "Satisfactory",
+    "GuestID": 3,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": 1795183044
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "TriggerTypeParamList": [
+      22
+    ],
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 611,
+    "Type": "Satisfactory",
+    "GuestID": 3,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": 1795183045
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "TriggerTypeParamList": [
+      24
+    ],
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 612,
+    "Type": "Satisfactory",
+    "GuestID": 3,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": 1795183046
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "TriggerTypeParamList": [
+      34
+    ],
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 613,
+    "Type": "Satisfactory",
+    "GuestID": 3,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": 1795183047
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "TriggerTypeParamList": [
+      32
+    ],
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 614,
+    "Type": "Satisfactory",
+    "GuestID": 3,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": 1795183040
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "TriggerTypeParamList": [
+      103
+    ],
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 615,
+    "Type": "Satisfactory",
+    "GuestID": 3,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": 1795183041
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "TriggerTypeParamList": [
+      102
+    ],
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 616,
+    "Type": "Satisfactory",
+    "GuestID": 3,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": 1795183042
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "TriggerTypeParamList": [
+      -20,
+      10
+    ],
+    "SatisfyTriggerType": "ByHueInterval",
+    "CommentID": 617,
+    "Type": "Satisfactory",
+    "GuestID": 3,
+    "Weight": 99,
+    "CommentContent": {
+      "Hash": 1795183043
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "TriggerTypeParamList": [
+      30,
+      60
+    ],
+    "SatisfyTriggerType": "ByHueInterval",
+    "CommentID": 618,
+    "Type": "Satisfactory",
+    "GuestID": 3,
+    "Weight": 99,
+    "CommentContent": {
+      "Hash": 1795183052
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "TriggerTypeParamList": [
+      100,
+      150
+    ],
+    "SatisfyTriggerType": "ByHueInterval",
+    "CommentID": 619,
+    "Type": "Satisfactory",
+    "GuestID": 3,
+    "Weight": 99,
+    "CommentContent": {
+      "Hash": 1795183053
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "TriggerTypeParamList": [
+      180,
+      260
+    ],
+    "SatisfyTriggerType": "ByHueInterval",
+    "CommentID": 620,
+    "Type": "Satisfactory",
+    "GuestID": 3,
+    "Weight": 99,
+    "CommentContent": {
+      "Hash": -2096499725
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "TriggerTypeParamList": [
+      265,
+      280
+    ],
+    "SatisfyTriggerType": "ByHueInterval",
+    "CommentID": 621,
+    "Type": "Satisfactory",
+    "GuestID": 3,
+    "Weight": 99,
+    "CommentContent": {
+      "Hash": -2096499724
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "TriggerTypeParamList": [
+      25
+    ],
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 622,
+    "Type": "Satisfactory",
+    "GuestID": 3,
+    "Weight": 1,
+    "CommentContent": {
+      "Hash": -2096499723
+    }
+  }
+]

@@ -1,0 +1,3176 @@
+[
+  {
+    "EmotionList": [
+      0,
+      0.2,
+      0.5,
+      0.8
+    ],
+    "WeaknessList": [
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Fire"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Ice"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Wind"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Thunder"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Quantum"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Physical"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Imaginary"
+      }
+    ],
+    "CountdownList": [
+      20,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      5
+    ],
+    "PeriodScore": 30000,
+    "Weight": 100,
+    "StageID": 3097,
+    "PeriodRank": "PeriodFirst",
+    "WaveCount": 10,
+    "DeadLinePosition": {
+      "Value": 0.4000000004656613
+    },
+    "BattleArea": 2000101,
+    "StageScore": 1500,
+    "StagePeriodID": 3097,
+    "EventID": 414011
+  },
+  {
+    "EmotionList": [
+      0,
+      0.2,
+      0.5,
+      0.8
+    ],
+    "WeaknessList": [
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Fire"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Ice"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Wind"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Thunder"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Quantum"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Physical"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Imaginary"
+      }
+    ],
+    "CountdownList": [
+      20,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      5
+    ],
+    "PeriodScore": 30000,
+    "Weight": 100,
+    "StageID": 3098,
+    "PeriodRank": "PeriodSecond",
+    "WaveCount": 10,
+    "DeadLinePosition": {
+      "Value": 0.6000000006984919
+    },
+    "BattleArea": 2000101,
+    "StageScore": 3500,
+    "StagePeriodID": 3098,
+    "EventID": 414012
+  },
+  {
+    "EmotionList": [
+      0,
+      0.2,
+      0.5,
+      0.8
+    ],
+    "WeaknessList": [
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Fire"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Ice"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Wind"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Thunder"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Quantum"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Physical"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Imaginary"
+      }
+    ],
+    "CountdownList": [
+      20,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      5
+    ],
+    "PeriodScore": 30000,
+    "Weight": 100,
+    "StageID": 3099,
+    "PeriodRank": "PeriodThird",
+    "WaveCount": 10,
+    "DeadLinePosition": {
+      "Value": 0
+    },
+    "BattleArea": 2000101,
+    "StageScore": 5000,
+    "StagePeriodID": 3099,
+    "EventID": 414013
+  },
+  {
+    "EmotionList": [
+      0,
+      0.2,
+      0.5,
+      0.8
+    ],
+    "WeaknessList": [
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Fire"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Ice"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Wind"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Thunder"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Quantum"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Physical"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Imaginary"
+      }
+    ],
+    "CountdownList": [
+      2,
+      2,
+      2,
+      2
+    ],
+    "PeriodScore": 31000,
+    "Weight": 100,
+    "StageID": 4140116,
+    "PeriodRank": "PeriodFirst",
+    "WaveCount": 4,
+    "DeadLinePosition": {
+      "Value": 0.24000000027939677
+    },
+    "BattleArea": 2012101,
+    "StageScore": 4000,
+    "StagePeriodID": 414011,
+    "EventID": 414011
+  },
+  {
+    "EmotionList": [
+      0,
+      0.2,
+      0.5,
+      0.8
+    ],
+    "WeaknessList": [
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Fire"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Ice"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Wind"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Thunder"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Quantum"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Physical"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Imaginary"
+      }
+    ],
+    "CountdownList": [
+      1,
+      1,
+      2
+    ],
+    "PeriodScore": 24000,
+    "Weight": 100,
+    "StageID": 4140126,
+    "PeriodRank": "PeriodSecond",
+    "WaveCount": 3,
+    "DeadLinePosition": {
+      "Value": 0.24000000027939677
+    },
+    "BattleArea": 2012101,
+    "StageScore": 3000,
+    "StagePeriodID": 414012,
+    "EventID": 414012
+  },
+  {
+    "EmotionList": [
+      0,
+      0.2,
+      0.5,
+      0.8
+    ],
+    "WeaknessList": [
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Fire"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Ice"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Wind"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Thunder"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Quantum"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Physical"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Imaginary"
+      }
+    ],
+    "CountdownList": [
+      1,
+      1,
+      3
+    ],
+    "PeriodScore": 45000,
+    "Weight": 100,
+    "StageID": 4140136,
+    "PeriodRank": "PeriodThird",
+    "WaveCount": 3,
+    "DeadLinePosition": {
+      "Value": 0
+    },
+    "BattleArea": 2012101,
+    "StageScore": 3000,
+    "StagePeriodID": 414013,
+    "EventID": 414013
+  },
+  {
+    "EmotionList": [
+      0,
+      0.2,
+      0.5,
+      0.8
+    ],
+    "WeaknessList": [
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Fire"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Ice"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Wind"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Thunder"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Quantum"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Physical"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Imaginary"
+      }
+    ],
+    "CountdownList": [
+      2,
+      2,
+      2,
+      2
+    ],
+    "PeriodScore": 31000,
+    "Weight": 100,
+    "StageID": 4140116,
+    "PeriodRank": "PeriodFirst",
+    "WaveCount": 4,
+    "DeadLinePosition": {
+      "Value": 0.19000000022118912
+    },
+    "BattleArea": 2013602,
+    "StageScore": 4000,
+    "StagePeriodID": 414021,
+    "EventID": 414021
+  },
+  {
+    "EmotionList": [
+      0,
+      0.2,
+      0.5,
+      0.8
+    ],
+    "WeaknessList": [
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Fire"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Ice"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Wind"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Thunder"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Quantum"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Physical"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Imaginary"
+      }
+    ],
+    "CountdownList": [
+      1,
+      1,
+      2
+    ],
+    "PeriodScore": 24000,
+    "Weight": 100,
+    "StageID": 4140116,
+    "PeriodRank": "PeriodSecond",
+    "WaveCount": 3,
+    "DeadLinePosition": {
+      "Value": 0.19000000022118912
+    },
+    "BattleArea": 2013602,
+    "StageScore": 3000,
+    "StagePeriodID": 414022,
+    "EventID": 414022
+  },
+  {
+    "EmotionList": [
+      0,
+      0.2,
+      0.5,
+      0.8
+    ],
+    "WeaknessList": [
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Fire"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Ice"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Wind"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Thunder"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Quantum"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Physical"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Imaginary"
+      }
+    ],
+    "CountdownList": [
+      1,
+      1,
+      3
+    ],
+    "PeriodScore": 45000,
+    "Weight": 100,
+    "StageID": 4140116,
+    "PeriodRank": "PeriodThird",
+    "WaveCount": 3,
+    "DeadLinePosition": {
+      "Value": 0
+    },
+    "BattleArea": 2013602,
+    "StageScore": 3000,
+    "StagePeriodID": 414023,
+    "EventID": 414023
+  },
+  {
+    "EmotionList": [
+      0,
+      0.2,
+      0.5,
+      0.8
+    ],
+    "WeaknessList": [
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Fire"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Ice"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Wind"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Thunder"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Quantum"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Physical"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Imaginary"
+      }
+    ],
+    "CountdownList": [
+      2,
+      2,
+      2,
+      2
+    ],
+    "PeriodScore": 31000,
+    "Weight": 100,
+    "StageID": 4140116,
+    "PeriodRank": "PeriodFirst",
+    "WaveCount": 4,
+    "DeadLinePosition": {
+      "Value": 0.24000000027939677
+    },
+    "BattleArea": 2000101,
+    "StageScore": 8000,
+    "StagePeriodID": 414101,
+    "EventID": 414101
+  },
+  {
+    "EmotionList": [
+      0,
+      0.2,
+      0.5,
+      0.8
+    ],
+    "WeaknessList": [
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Fire"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Ice"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Wind"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Thunder"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Quantum"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Physical"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Imaginary"
+      }
+    ],
+    "CountdownList": [
+      2,
+      2,
+      2,
+      2
+    ],
+    "PeriodScore": 31000,
+    "Weight": 100,
+    "StageID": 4140116,
+    "PeriodRank": "PeriodFirst",
+    "WaveCount": 4,
+    "DeadLinePosition": {
+      "Value": 0.24000000027939677
+    },
+    "BattleArea": 2023101,
+    "StageScore": 8000,
+    "StagePeriodID": 414102,
+    "EventID": 414102
+  },
+  {
+    "EmotionList": [
+      0,
+      0.2,
+      0.5,
+      0.8
+    ],
+    "WeaknessList": [
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Fire"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Ice"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Wind"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Thunder"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Quantum"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Physical"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Imaginary"
+      }
+    ],
+    "CountdownList": [
+      2,
+      2,
+      2,
+      2
+    ],
+    "PeriodScore": 31000,
+    "Weight": 100,
+    "StageID": 4140116,
+    "PeriodRank": "PeriodFirst",
+    "WaveCount": 4,
+    "DeadLinePosition": {
+      "Value": 0.24000000027939677
+    },
+    "BattleArea": 2021201,
+    "StageScore": 8000,
+    "StagePeriodID": 414103,
+    "EventID": 414103
+  },
+  {
+    "EmotionList": [
+      0,
+      0.2,
+      0.5,
+      0.8
+    ],
+    "WeaknessList": [
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Fire"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Ice"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Wind"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Thunder"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Quantum"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Physical"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Imaginary"
+      }
+    ],
+    "CountdownList": [
+      2,
+      2,
+      2,
+      2
+    ],
+    "PeriodScore": 31000,
+    "Weight": 100,
+    "StageID": 4140116,
+    "PeriodRank": "PeriodFirst",
+    "WaveCount": 4,
+    "DeadLinePosition": {
+      "Value": 0.24000000027939677
+    },
+    "BattleArea": 2011101,
+    "StageScore": 8000,
+    "StagePeriodID": 414104,
+    "EventID": 414104
+  },
+  {
+    "EmotionList": [
+      0,
+      0.2,
+      0.5,
+      0.8
+    ],
+    "WeaknessList": [
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Fire"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Ice"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Wind"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Thunder"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Quantum"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Physical"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Imaginary"
+      }
+    ],
+    "CountdownList": [
+      2,
+      2,
+      2,
+      2
+    ],
+    "PeriodScore": 31000,
+    "Weight": 100,
+    "StageID": 4140116,
+    "PeriodRank": "PeriodFirst",
+    "WaveCount": 4,
+    "DeadLinePosition": {
+      "Value": 0.24000000027939677
+    },
+    "BattleArea": 1030101,
+    "StageScore": 8000,
+    "StagePeriodID": 414105,
+    "EventID": 414105
+  },
+  {
+    "EmotionList": [
+      0,
+      0.2,
+      0.5,
+      0.8
+    ],
+    "WeaknessList": [
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Fire"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Ice"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Wind"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Thunder"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Quantum"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Physical"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Imaginary"
+      }
+    ],
+    "CountdownList": [
+      2,
+      2,
+      2,
+      2
+    ],
+    "PeriodScore": 31000,
+    "Weight": 100,
+    "StageID": 4140116,
+    "PeriodRank": "PeriodFirst",
+    "WaveCount": 4,
+    "DeadLinePosition": {
+      "Value": 0.24000000027939677
+    },
+    "BattleArea": 2010101,
+    "StageScore": 8000,
+    "StagePeriodID": 414106,
+    "EventID": 414106
+  },
+  {
+    "EmotionList": [
+      0,
+      0.2,
+      0.5,
+      0.8
+    ],
+    "WeaknessList": [
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Fire"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Ice"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Wind"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Thunder"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Quantum"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Physical"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Imaginary"
+      }
+    ],
+    "CountdownList": [
+      2,
+      2,
+      2,
+      2
+    ],
+    "PeriodScore": 31000,
+    "Weight": 100,
+    "StageID": 4140116,
+    "PeriodRank": "PeriodFirst",
+    "WaveCount": 4,
+    "DeadLinePosition": {
+      "Value": 0.24000000027939677
+    },
+    "BattleArea": 1030101,
+    "StageScore": 8000,
+    "StagePeriodID": 414107,
+    "EventID": 414107
+  },
+  {
+    "EmotionList": [
+      0,
+      0.2,
+      0.5,
+      0.8
+    ],
+    "WeaknessList": [
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Fire"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Ice"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Wind"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Thunder"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Quantum"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Physical"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Imaginary"
+      }
+    ],
+    "CountdownList": [
+      2,
+      2,
+      2,
+      2
+    ],
+    "PeriodScore": 31000,
+    "Weight": 100,
+    "StageID": 4140116,
+    "PeriodRank": "PeriodFirst",
+    "WaveCount": 4,
+    "DeadLinePosition": {
+      "Value": 0.24000000027939677
+    },
+    "BattleArea": 2021201,
+    "StageScore": 8000,
+    "StagePeriodID": 414108,
+    "EventID": 414108
+  },
+  {
+    "EmotionList": [
+      0,
+      0.2,
+      0.5,
+      0.8
+    ],
+    "WeaknessList": [
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Fire"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Ice"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Wind"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Thunder"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Quantum"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Physical"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Imaginary"
+      }
+    ],
+    "CountdownList": [
+      2,
+      2,
+      2,
+      2
+    ],
+    "PeriodScore": 31000,
+    "Weight": 100,
+    "StageID": 4140116,
+    "PeriodRank": "PeriodFirst",
+    "WaveCount": 4,
+    "DeadLinePosition": {
+      "Value": 0.24000000027939677
+    },
+    "BattleArea": 2010101,
+    "StageScore": 8000,
+    "StagePeriodID": 414109,
+    "EventID": 414109
+  },
+  {
+    "EmotionList": [
+      0,
+      0.2,
+      0.5,
+      0.8
+    ],
+    "WeaknessList": [
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Fire"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Ice"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Wind"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Thunder"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Quantum"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Physical"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Imaginary"
+      }
+    ],
+    "CountdownList": [
+      2,
+      2,
+      2,
+      2
+    ],
+    "PeriodScore": 31000,
+    "Weight": 100,
+    "StageID": 4140116,
+    "PeriodRank": "PeriodFirst",
+    "WaveCount": 4,
+    "DeadLinePosition": {
+      "Value": 0.24000000027939677
+    },
+    "BattleArea": 2031301,
+    "StageScore": 8000,
+    "StagePeriodID": 414110,
+    "EventID": 414110
+  },
+  {
+    "EmotionList": [
+      0,
+      0.2,
+      0.5,
+      0.8
+    ],
+    "WeaknessList": [
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Fire"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Ice"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Wind"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Thunder"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Quantum"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Physical"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Imaginary"
+      }
+    ],
+    "CountdownList": [
+      2,
+      2,
+      2,
+      2
+    ],
+    "PeriodScore": 31000,
+    "Weight": 100,
+    "StageID": 4140116,
+    "PeriodRank": "PeriodFirst",
+    "WaveCount": 4,
+    "DeadLinePosition": {
+      "Value": 0.24000000027939677
+    },
+    "BattleArea": 2023201,
+    "StageScore": 8000,
+    "StagePeriodID": 414111,
+    "EventID": 414111
+  },
+  {
+    "EmotionList": [
+      0,
+      0.2,
+      0.5,
+      0.8
+    ],
+    "WeaknessList": [
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Fire"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Ice"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Wind"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Thunder"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Quantum"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Physical"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Imaginary"
+      }
+    ],
+    "CountdownList": [
+      2,
+      2,
+      2,
+      2
+    ],
+    "PeriodScore": 31000,
+    "Weight": 100,
+    "StageID": 4140116,
+    "PeriodRank": "PeriodFirst",
+    "WaveCount": 4,
+    "DeadLinePosition": {
+      "Value": 0.24000000027939677
+    },
+    "BattleArea": 2012301,
+    "StageScore": 8000,
+    "StagePeriodID": 414112,
+    "EventID": 414112
+  },
+  {
+    "EmotionList": [
+      0,
+      0.2,
+      0.5,
+      0.8
+    ],
+    "WeaknessList": [
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Fire"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Ice"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Wind"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Thunder"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Quantum"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Physical"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Imaginary"
+      }
+    ],
+    "CountdownList": [
+      1,
+      1,
+      2
+    ],
+    "PeriodScore": 24000,
+    "Weight": 100,
+    "StageID": 4140116,
+    "PeriodRank": "PeriodSecond",
+    "WaveCount": 3,
+    "DeadLinePosition": {
+      "Value": 0.19000000022118912
+    },
+    "BattleArea": 2011101,
+    "StageScore": 6000,
+    "StagePeriodID": 414201,
+    "EventID": 414201
+  },
+  {
+    "EmotionList": [
+      0,
+      0.2,
+      0.5,
+      0.8
+    ],
+    "WeaknessList": [
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Fire"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Ice"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Wind"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Thunder"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Quantum"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Physical"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Imaginary"
+      }
+    ],
+    "CountdownList": [
+      1,
+      1,
+      2
+    ],
+    "PeriodScore": 24000,
+    "Weight": 100,
+    "StageID": 4140116,
+    "PeriodRank": "PeriodSecond",
+    "WaveCount": 3,
+    "DeadLinePosition": {
+      "Value": 0.19000000022118912
+    },
+    "BattleArea": 2023101,
+    "StageScore": 6000,
+    "StagePeriodID": 414202,
+    "EventID": 414202
+  },
+  {
+    "EmotionList": [
+      0,
+      0.2,
+      0.5,
+      0.8
+    ],
+    "WeaknessList": [
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Fire"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Ice"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Wind"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Thunder"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Quantum"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Physical"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Imaginary"
+      }
+    ],
+    "CountdownList": [
+      1,
+      1,
+      2
+    ],
+    "PeriodScore": 24000,
+    "Weight": 100,
+    "StageID": 4140116,
+    "PeriodRank": "PeriodSecond",
+    "WaveCount": 3,
+    "DeadLinePosition": {
+      "Value": 0.19000000022118912
+    },
+    "BattleArea": 1030101,
+    "StageScore": 6000,
+    "StagePeriodID": 414203,
+    "EventID": 414203
+  },
+  {
+    "EmotionList": [
+      0,
+      0.2,
+      0.5,
+      0.8
+    ],
+    "WeaknessList": [
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Fire"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Ice"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Wind"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Thunder"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Quantum"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Physical"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Imaginary"
+      }
+    ],
+    "CountdownList": [
+      1,
+      1,
+      2
+    ],
+    "PeriodScore": 24000,
+    "Weight": 100,
+    "StageID": 4140116,
+    "PeriodRank": "PeriodSecond",
+    "WaveCount": 3,
+    "DeadLinePosition": {
+      "Value": 0.19000000022118912
+    },
+    "BattleArea": 2021201,
+    "StageScore": 6000,
+    "StagePeriodID": 414204,
+    "EventID": 414204
+  },
+  {
+    "EmotionList": [
+      0,
+      0.2,
+      0.5,
+      0.8
+    ],
+    "WeaknessList": [
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Fire"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Ice"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Wind"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Thunder"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Quantum"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Physical"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Imaginary"
+      }
+    ],
+    "CountdownList": [
+      1,
+      1,
+      2
+    ],
+    "PeriodScore": 24000,
+    "Weight": 100,
+    "StageID": 4140116,
+    "PeriodRank": "PeriodSecond",
+    "WaveCount": 3,
+    "DeadLinePosition": {
+      "Value": 0.19000000022118912
+    },
+    "BattleArea": 1030101,
+    "StageScore": 6000,
+    "StagePeriodID": 414205,
+    "EventID": 414205
+  },
+  {
+    "EmotionList": [
+      0,
+      0.2,
+      0.5,
+      0.8
+    ],
+    "WeaknessList": [
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Fire"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Ice"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Wind"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Thunder"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Quantum"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Physical"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Imaginary"
+      }
+    ],
+    "CountdownList": [
+      1,
+      1,
+      2
+    ],
+    "PeriodScore": 24000,
+    "Weight": 100,
+    "StageID": 4140116,
+    "PeriodRank": "PeriodSecond",
+    "WaveCount": 3,
+    "DeadLinePosition": {
+      "Value": 0.19000000022118912
+    },
+    "BattleArea": 2010101,
+    "StageScore": 6000,
+    "StagePeriodID": 414206,
+    "EventID": 414206
+  },
+  {
+    "EmotionList": [
+      0,
+      0.2,
+      0.5,
+      0.8
+    ],
+    "WeaknessList": [
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Fire"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Ice"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Wind"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Thunder"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Quantum"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Physical"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Imaginary"
+      }
+    ],
+    "CountdownList": [
+      1,
+      1,
+      2
+    ],
+    "PeriodScore": 24000,
+    "Weight": 100,
+    "StageID": 4140116,
+    "PeriodRank": "PeriodSecond",
+    "WaveCount": 3,
+    "DeadLinePosition": {
+      "Value": 0.19000000022118912
+    },
+    "BattleArea": 2012301,
+    "StageScore": 6000,
+    "StagePeriodID": 414207,
+    "EventID": 414207
+  },
+  {
+    "EmotionList": [
+      0,
+      0.2,
+      0.5,
+      0.8
+    ],
+    "WeaknessList": [
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Fire"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Ice"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Wind"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Thunder"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Quantum"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Physical"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Imaginary"
+      }
+    ],
+    "CountdownList": [
+      1,
+      1,
+      2
+    ],
+    "PeriodScore": 24000,
+    "Weight": 100,
+    "StageID": 4140116,
+    "PeriodRank": "PeriodSecond",
+    "WaveCount": 3,
+    "DeadLinePosition": {
+      "Value": 0.19000000022118912
+    },
+    "BattleArea": 2023201,
+    "StageScore": 6000,
+    "StagePeriodID": 414208,
+    "EventID": 414208
+  },
+  {
+    "EmotionList": [
+      0,
+      0.2,
+      0.5,
+      0.8
+    ],
+    "WeaknessList": [
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Fire"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Ice"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Wind"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Thunder"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Quantum"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Physical"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Imaginary"
+      }
+    ],
+    "CountdownList": [
+      1,
+      1,
+      2
+    ],
+    "PeriodScore": 24000,
+    "Weight": 100,
+    "StageID": 4140116,
+    "PeriodRank": "PeriodSecond",
+    "WaveCount": 3,
+    "DeadLinePosition": {
+      "Value": 0.19000000022118912
+    },
+    "BattleArea": 2012301,
+    "StageScore": 6000,
+    "StagePeriodID": 414209,
+    "EventID": 414209
+  },
+  {
+    "EmotionList": [
+      0,
+      0.2,
+      0.5,
+      0.8
+    ],
+    "WeaknessList": [
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Fire"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Ice"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Wind"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Thunder"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Quantum"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Physical"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Imaginary"
+      }
+    ],
+    "CountdownList": [
+      1,
+      1,
+      2
+    ],
+    "PeriodScore": 24000,
+    "Weight": 100,
+    "StageID": 4140116,
+    "PeriodRank": "PeriodSecond",
+    "WaveCount": 3,
+    "DeadLinePosition": {
+      "Value": 0.19000000022118912
+    },
+    "BattleArea": 2023101,
+    "StageScore": 6000,
+    "StagePeriodID": 414210,
+    "EventID": 414210
+  },
+  {
+    "EmotionList": [
+      0,
+      0.2,
+      0.5,
+      0.8
+    ],
+    "WeaknessList": [
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Fire"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Ice"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Wind"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Thunder"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Quantum"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Physical"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Imaginary"
+      }
+    ],
+    "CountdownList": [
+      1,
+      1,
+      2
+    ],
+    "PeriodScore": 24000,
+    "Weight": 100,
+    "StageID": 4140116,
+    "PeriodRank": "PeriodSecond",
+    "WaveCount": 3,
+    "DeadLinePosition": {
+      "Value": 0.19000000022118912
+    },
+    "BattleArea": 2021101,
+    "StageScore": 6000,
+    "StagePeriodID": 414211,
+    "EventID": 414211
+  },
+  {
+    "EmotionList": [
+      0,
+      0.2,
+      0.5,
+      0.8
+    ],
+    "WeaknessList": [
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Fire"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Ice"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Wind"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Thunder"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Quantum"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Physical"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Imaginary"
+      }
+    ],
+    "CountdownList": [
+      1,
+      1,
+      2
+    ],
+    "PeriodScore": 24000,
+    "Weight": 100,
+    "StageID": 4140116,
+    "PeriodRank": "PeriodSecond",
+    "WaveCount": 3,
+    "DeadLinePosition": {
+      "Value": 0.19000000022118912
+    },
+    "BattleArea": 2012301,
+    "StageScore": 6000,
+    "StagePeriodID": 414212,
+    "EventID": 414212
+  },
+  {
+    "EmotionList": [
+      0,
+      0.2,
+      0.5,
+      0.8
+    ],
+    "WeaknessList": [
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Fire"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Ice"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Wind"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Thunder"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Quantum"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Physical"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Imaginary"
+      }
+    ],
+    "CountdownList": [
+      1,
+      1,
+      3
+    ],
+    "PeriodScore": 45000,
+    "Weight": 100,
+    "StageID": 4140116,
+    "PeriodRank": "PeriodThird",
+    "WaveCount": 3,
+    "DeadLinePosition": {
+      "Value": 1.0000000002328306
+    },
+    "BattleArea": 2013602,
+    "StageScore": 6000,
+    "StagePeriodID": 414301,
+    "EventID": 414301
+  },
+  {
+    "EmotionList": [
+      0,
+      0.2,
+      0.5,
+      0.8
+    ],
+    "WeaknessList": [
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Fire"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Ice"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Wind"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Thunder"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Quantum"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Physical"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Imaginary"
+      }
+    ],
+    "CountdownList": [
+      1,
+      1,
+      3
+    ],
+    "PeriodScore": 45000,
+    "Weight": 100,
+    "StageID": 4140116,
+    "PeriodRank": "PeriodThird",
+    "WaveCount": 3,
+    "DeadLinePosition": {
+      "Value": 1.0000000002328306
+    },
+    "BattleArea": 2012201,
+    "StageScore": 6000,
+    "StagePeriodID": 414302,
+    "EventID": 414302
+  },
+  {
+    "EmotionList": [
+      0,
+      0.2,
+      0.5,
+      0.8
+    ],
+    "WeaknessList": [
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Fire"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Ice"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Wind"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Thunder"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Quantum"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Physical"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Imaginary"
+      }
+    ],
+    "CountdownList": [
+      1,
+      1,
+      3
+    ],
+    "PeriodScore": 45000,
+    "Weight": 100,
+    "StageID": 4140116,
+    "PeriodRank": "PeriodThird",
+    "WaveCount": 3,
+    "DeadLinePosition": {
+      "Value": 1.0000000002328306
+    },
+    "BattleArea": 2010101,
+    "StageScore": 6000,
+    "StagePeriodID": 414303,
+    "EventID": 414303
+  },
+  {
+    "EmotionList": [
+      0,
+      0.2,
+      0.5,
+      0.8
+    ],
+    "WeaknessList": [
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Fire"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Ice"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Wind"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Thunder"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Quantum"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Physical"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Imaginary"
+      }
+    ],
+    "CountdownList": [
+      1,
+      1,
+      3
+    ],
+    "PeriodScore": 45000,
+    "Weight": 100,
+    "StageID": 4140116,
+    "PeriodRank": "PeriodThird",
+    "WaveCount": 3,
+    "DeadLinePosition": {
+      "Value": 1.0000000002328306
+    },
+    "BattleArea": 2022101,
+    "StageScore": 6000,
+    "StagePeriodID": 414304,
+    "EventID": 414304
+  },
+  {
+    "EmotionList": [
+      0,
+      0.2,
+      0.5,
+      0.8
+    ],
+    "WeaknessList": [
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Fire"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Ice"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Wind"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Thunder"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Quantum"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Physical"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Imaginary"
+      }
+    ],
+    "CountdownList": [
+      1,
+      1,
+      3
+    ],
+    "PeriodScore": 45000,
+    "Weight": 100,
+    "StageID": 4140116,
+    "PeriodRank": "PeriodThird",
+    "WaveCount": 3,
+    "DeadLinePosition": {
+      "Value": 1.0000000002328306
+    },
+    "BattleArea": 2023201,
+    "StageScore": 6000,
+    "StagePeriodID": 414305,
+    "EventID": 414305
+  },
+  {
+    "EmotionList": [
+      0,
+      0.2,
+      0.5,
+      0.8
+    ],
+    "WeaknessList": [
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Fire"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Ice"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Wind"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Thunder"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Quantum"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Physical"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Imaginary"
+      }
+    ],
+    "CountdownList": [
+      1,
+      1,
+      3
+    ],
+    "PeriodScore": 45000,
+    "Weight": 100,
+    "StageID": 4140116,
+    "PeriodRank": "PeriodThird",
+    "WaveCount": 3,
+    "DeadLinePosition": {
+      "Value": 1.0000000002328306
+    },
+    "BattleArea": 2031102,
+    "StageScore": 6000,
+    "StagePeriodID": 414306,
+    "EventID": 414306
+  },
+  {
+    "EmotionList": [
+      0,
+      0.2,
+      0.5,
+      0.8
+    ],
+    "WeaknessList": [
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Fire"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Ice"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Wind"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Thunder"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Quantum"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Physical"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Imaginary"
+      }
+    ],
+    "CountdownList": [
+      3,
+      1,
+      1,
+      3
+    ],
+    "PeriodScore": 30000,
+    "Weight": 100,
+    "StageID": 4140116,
+    "PeriodRank": "PeriodThird",
+    "WaveCount": 4,
+    "DeadLinePosition": {
+      "Value": 0.24000000027939677
+    },
+    "BattleArea": 2000101,
+    "StageScore": 3000,
+    "StagePeriodID": 414901,
+    "EventID": 414901
+  },
+  {
+    "EmotionList": [
+      0,
+      0.2,
+      0.5,
+      0.8
+    ],
+    "WeaknessList": [
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Fire"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Ice"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Wind"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Thunder"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Quantum"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Physical"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Imaginary"
+      }
+    ],
+    "CountdownList": [
+      3,
+      1,
+      3
+    ],
+    "PeriodScore": 30000,
+    "Weight": 100,
+    "StageID": 4140116,
+    "PeriodRank": "PeriodThird",
+    "WaveCount": 3,
+    "DeadLinePosition": {
+      "Value": 0.24000000027939677
+    },
+    "BattleArea": 2000101,
+    "StageScore": 3000,
+    "StagePeriodID": 414902,
+    "EventID": 414902
+  },
+  {
+    "EmotionList": [
+      0,
+      0.2,
+      0.5,
+      0.8
+    ],
+    "WeaknessList": [
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Fire"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Ice"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Wind"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Thunder"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Quantum"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Physical"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Imaginary"
+      }
+    ],
+    "CountdownList": [
+      3,
+      1,
+      6
+    ],
+    "PeriodScore": 30000,
+    "Weight": 100,
+    "StageID": 4140116,
+    "PeriodRank": "PeriodThird",
+    "WaveCount": 3,
+    "DeadLinePosition": {
+      "Value": 0
+    },
+    "BattleArea": 2000101,
+    "StageScore": 3000,
+    "StagePeriodID": 414903,
+    "EventID": 414903
+  },
+  {
+    "EmotionList": [
+      0,
+      0.2,
+      0.5,
+      0.8
+    ],
+    "WeaknessList": [
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Fire"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Ice"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Wind"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Thunder"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Quantum"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Physical"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Imaginary"
+      }
+    ],
+    "CountdownList": [
+      99,
+      99,
+      99,
+      99
+    ],
+    "PeriodScore": 30000,
+    "Weight": 100,
+    "StageID": 4140016,
+    "PeriodRank": "PeriodFirst",
+    "WaveCount": 4,
+    "DeadLinePosition": {
+      "Value": 0
+    },
+    "BattleArea": 2000101,
+    "StageScore": 3000,
+    "StagePeriodID": 414001,
+    "EventID": 414001
+  },
+  {
+    "EmotionList": [
+      0,
+      0.2,
+      0.5,
+      0.8
+    ],
+    "WeaknessList": [
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Fire"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Ice"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Wind"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Thunder"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Quantum"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Physical"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Imaginary"
+      }
+    ],
+    "CountdownList": [
+      99,
+      99,
+      99
+    ],
+    "PeriodScore": 30000,
+    "Weight": 100,
+    "StageID": 4140026,
+    "PeriodRank": "PeriodSecond",
+    "WaveCount": 3,
+    "DeadLinePosition": {
+      "Value": 0
+    },
+    "BattleArea": 2000101,
+    "StageScore": 3000,
+    "StagePeriodID": 414002,
+    "EventID": 414002
+  },
+  {
+    "EmotionList": [
+      0,
+      0.2,
+      0.5,
+      0.8
+    ],
+    "WeaknessList": [
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Fire"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Ice"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Wind"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Thunder"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Quantum"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Physical"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Imaginary"
+      }
+    ],
+    "CountdownList": [
+      2,
+      2,
+      2,
+      2
+    ],
+    "PeriodScore": 31000,
+    "Weight": 100,
+    "StageID": 4140116,
+    "PeriodRank": "PeriodFirst",
+    "WaveCount": 4,
+    "DeadLinePosition": {
+      "Value": 0.19000000022118912
+    },
+    "BattleArea": 2010101,
+    "StageScore": 4000,
+    "StagePeriodID": 414031,
+    "EventID": 414031
+  },
+  {
+    "EmotionList": [
+      0,
+      0.2,
+      0.5,
+      0.8
+    ],
+    "WeaknessList": [
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Fire"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Ice"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Wind"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Thunder"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Quantum"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Physical"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Imaginary"
+      }
+    ],
+    "CountdownList": [
+      1,
+      1,
+      2
+    ],
+    "PeriodScore": 24000,
+    "Weight": 100,
+    "StageID": 4140116,
+    "PeriodRank": "PeriodSecond",
+    "WaveCount": 3,
+    "DeadLinePosition": {
+      "Value": 0.19000000022118912
+    },
+    "BattleArea": 2010101,
+    "StageScore": 3000,
+    "StagePeriodID": 414032,
+    "EventID": 414032
+  },
+  {
+    "EmotionList": [
+      0,
+      0.2,
+      0.5,
+      0.8
+    ],
+    "WeaknessList": [
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Fire"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Ice"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Wind"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Thunder"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Quantum"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Physical"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Imaginary"
+      }
+    ],
+    "CountdownList": [
+      1,
+      1,
+      3
+    ],
+    "PeriodScore": 45000,
+    "Weight": 100,
+    "StageID": 4140116,
+    "PeriodRank": "PeriodThird",
+    "WaveCount": 3,
+    "DeadLinePosition": {
+      "Value": 0
+    },
+    "BattleArea": 2010101,
+    "StageScore": 3000,
+    "StagePeriodID": 414033,
+    "EventID": 414033
+  },
+  {
+    "EmotionList": [
+      0,
+      0.2,
+      0.5,
+      0.8
+    ],
+    "WeaknessList": [
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Fire"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Ice"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Wind"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Thunder"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Quantum"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Physical"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Imaginary"
+      }
+    ],
+    "CountdownList": [
+      2,
+      2,
+      2,
+      2
+    ],
+    "PeriodScore": 31000,
+    "Weight": 100,
+    "StageID": 4140116,
+    "PeriodRank": "PeriodFirst",
+    "WaveCount": 4,
+    "DeadLinePosition": {
+      "Value": 0.19000000022118912
+    },
+    "BattleArea": 2021101,
+    "StageScore": 6000,
+    "StagePeriodID": 414041,
+    "EventID": 414041
+  },
+  {
+    "EmotionList": [
+      0,
+      0.2,
+      0.5,
+      0.8
+    ],
+    "WeaknessList": [
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Fire"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Ice"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Wind"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Thunder"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Quantum"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Physical"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Imaginary"
+      }
+    ],
+    "CountdownList": [
+      1,
+      1,
+      2
+    ],
+    "PeriodScore": 24000,
+    "Weight": 100,
+    "StageID": 4140116,
+    "PeriodRank": "PeriodSecond",
+    "WaveCount": 3,
+    "DeadLinePosition": {
+      "Value": 0.19000000022118912
+    },
+    "BattleArea": 2021101,
+    "StageScore": 4500,
+    "StagePeriodID": 414042,
+    "EventID": 414042
+  },
+  {
+    "EmotionList": [
+      0,
+      0.2,
+      0.5,
+      0.8
+    ],
+    "WeaknessList": [
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Fire"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Ice"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Wind"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Thunder"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Quantum"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Physical"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Imaginary"
+      }
+    ],
+    "CountdownList": [
+      1,
+      1,
+      3
+    ],
+    "PeriodScore": 45000,
+    "Weight": 100,
+    "StageID": 4140116,
+    "PeriodRank": "PeriodThird",
+    "WaveCount": 3,
+    "DeadLinePosition": {
+      "Value": 0
+    },
+    "BattleArea": 2021101,
+    "StageScore": 4500,
+    "StagePeriodID": 414043,
+    "EventID": 414043
+  },
+  {
+    "EmotionList": [
+      0,
+      0.2,
+      0.5,
+      0.8
+    ],
+    "WeaknessList": [
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Fire"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Ice"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Wind"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Thunder"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Quantum"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Physical"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Imaginary"
+      }
+    ],
+    "CountdownList": [
+      2,
+      2,
+      2,
+      2
+    ],
+    "PeriodScore": 31000,
+    "Weight": 100,
+    "StageID": 4140116,
+    "PeriodRank": "PeriodFirst",
+    "WaveCount": 4,
+    "DeadLinePosition": {
+      "Value": 0.19000000022118912
+    },
+    "BattleArea": 2023201,
+    "StageScore": 6000,
+    "StagePeriodID": 414051,
+    "EventID": 414051
+  },
+  {
+    "EmotionList": [
+      0,
+      0.2,
+      0.5,
+      0.8
+    ],
+    "WeaknessList": [
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Fire"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Ice"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Wind"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Thunder"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Quantum"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Physical"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Imaginary"
+      }
+    ],
+    "CountdownList": [
+      1,
+      1,
+      2
+    ],
+    "PeriodScore": 24000,
+    "Weight": 100,
+    "StageID": 4140116,
+    "PeriodRank": "PeriodSecond",
+    "WaveCount": 3,
+    "DeadLinePosition": {
+      "Value": 0.19000000022118912
+    },
+    "BattleArea": 2023201,
+    "StageScore": 4500,
+    "StagePeriodID": 414052,
+    "EventID": 414052
+  },
+  {
+    "EmotionList": [
+      0,
+      0.2,
+      0.5,
+      0.8
+    ],
+    "WeaknessList": [
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Fire"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Ice"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Wind"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Thunder"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Quantum"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Physical"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Imaginary"
+      }
+    ],
+    "CountdownList": [
+      1,
+      1,
+      3
+    ],
+    "PeriodScore": 45000,
+    "Weight": 100,
+    "StageID": 4140116,
+    "PeriodRank": "PeriodThird",
+    "WaveCount": 3,
+    "DeadLinePosition": {
+      "Value": 0
+    },
+    "BattleArea": 2023201,
+    "StageScore": 4500,
+    "StagePeriodID": 414053,
+    "EventID": 414053
+  },
+  {
+    "EmotionList": [
+      0,
+      0.2,
+      0.5,
+      0.8
+    ],
+    "WeaknessList": [
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Fire"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Ice"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Wind"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Thunder"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Quantum"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Physical"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Imaginary"
+      }
+    ],
+    "CountdownList": [
+      2,
+      2,
+      2,
+      2
+    ],
+    "PeriodScore": 31000,
+    "Weight": 100,
+    "StageID": 4140116,
+    "PeriodRank": "PeriodFirst",
+    "WaveCount": 4,
+    "DeadLinePosition": {
+      "Value": 0.19000000022118912
+    },
+    "BattleArea": 2031301,
+    "StageScore": 6000,
+    "StagePeriodID": 414061,
+    "EventID": 414061
+  },
+  {
+    "EmotionList": [
+      0,
+      0.2,
+      0.5,
+      0.8
+    ],
+    "WeaknessList": [
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Fire"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Ice"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Wind"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Thunder"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Quantum"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Physical"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Imaginary"
+      }
+    ],
+    "CountdownList": [
+      1,
+      1,
+      2
+    ],
+    "PeriodScore": 24000,
+    "Weight": 100,
+    "StageID": 4140116,
+    "PeriodRank": "PeriodSecond",
+    "WaveCount": 3,
+    "DeadLinePosition": {
+      "Value": 0.19000000022118912
+    },
+    "BattleArea": 2031301,
+    "StageScore": 4500,
+    "StagePeriodID": 414062,
+    "EventID": 414062
+  },
+  {
+    "EmotionList": [
+      0,
+      0.2,
+      0.5,
+      0.8
+    ],
+    "WeaknessList": [
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Fire"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Ice"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Wind"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Thunder"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Quantum"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Physical"
+      },
+      {
+        "MAPBDJIPGLK": false,
+        "DIHBMMGKHEG": "Imaginary"
+      }
+    ],
+    "CountdownList": [
+      1,
+      1,
+      3
+    ],
+    "PeriodScore": 45000,
+    "Weight": 100,
+    "StageID": 4140116,
+    "PeriodRank": "PeriodThird",
+    "WaveCount": 3,
+    "DeadLinePosition": {
+      "Value": 0
+    },
+    "BattleArea": 2031301,
+    "StageScore": 4500,
+    "StagePeriodID": 414063,
+    "EventID": 414063
+  },
+  {
+    "EmotionList": [
+      0,
+      0.2,
+      0.5,
+      0.8
+    ],
+    "WeaknessList": [
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Fire"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Ice"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Wind"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Thunder"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Quantum"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Physical"
+      },
+      {
+        "MAPBDJIPGLK": true,
+        "DIHBMMGKHEG": "Imaginary"
+      }
+    ],
+    "CountdownList": [
+      3
+    ],
+    "PeriodScore": 60000,
+    "Weight": 100,
+    "StageID": 4140116,
+    "PeriodRank": "PeriodExtra",
+    "WaveCount": 1,
+    "DeadLinePosition": {
+      "Value": 0
+    },
+    "BattleArea": 2031201,
+    "StageScore": 10000,
+    "StagePeriodID": 414999,
+    "EventID": 414999
+  }
+]

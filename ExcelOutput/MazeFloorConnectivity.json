@@ -1,0 +1,310 @@
+[
+  {
+    "FromFloorID": 10000000,
+    "WayPointEntityID": 300001,
+    "WayPointGroupID": 7,
+    "ToFloorID": 10000002,
+    "LockAreaMapID": 0
+  },
+  {
+    "FromFloorID": 10000002,
+    "WayPointEntityID": 300001,
+    "WayPointGroupID": 2,
+    "ToFloorID": 10000000,
+    "LockAreaMapID": 0
+  },
+  {
+    "FromFloorID": 10001001,
+    "WayPointEntityID": 300002,
+    "WayPointGroupID": 1,
+    "ToFloorID": 80112001,
+    "LockAreaMapID": 0
+  },
+  {
+    "FromFloorID": 80112001,
+    "WayPointEntityID": 300004,
+    "WayPointGroupID": 3,
+    "ToFloorID": 10001001,
+    "LockAreaMapID": 0
+  },
+  {
+    "FromFloorID": 10101001,
+    "WayPointEntityID": 300001,
+    "WayPointGroupID": 108,
+    "ToFloorID": 10101002,
+    "LockAreaMapID": 0
+  },
+  {
+    "FromFloorID": 10101001,
+    "WayPointEntityID": 300001,
+    "WayPointGroupID": 3,
+    "ToFloorID": 10101003,
+    "LockAreaMapID": 0
+  },
+  {
+    "FromFloorID": 10101001,
+    "WayPointEntityID": 300003,
+    "WayPointGroupID": 3,
+    "ToFloorID": 10101004,
+    "LockAreaMapID": 0
+  },
+  {
+    "FromFloorID": 10101001,
+    "WayPointEntityID": 300003,
+    "WayPointGroupID": 3,
+    "ToFloorID": 10101005,
+    "LockAreaMapID": 0
+  },
+  {
+    "FromFloorID": 10101001,
+    "WayPointEntityID": 300003,
+    "WayPointGroupID": 3,
+    "ToFloorID": 10101006,
+    "LockAreaMapID": 0
+  },
+  {
+    "FromFloorID": 10101001,
+    "WayPointEntityID": 300004,
+    "WayPointGroupID": 3,
+    "ToFloorID": 10101007,
+    "LockAreaMapID": 0
+  },
+  {
+    "FromFloorID": 10101001,
+    "WayPointEntityID": 400001,
+    "WayPointGroupID": 192,
+    "ToFloorID": 10101009,
+    "LockAreaMapID": 0
+  },
+  {
+    "FromFloorID": 10101002,
+    "WayPointEntityID": 300001,
+    "WayPointGroupID": 1,
+    "ToFloorID": 10101001,
+    "LockAreaMapID": 0
+  },
+  {
+    "FromFloorID": 10101003,
+    "WayPointEntityID": 300001,
+    "WayPointGroupID": 1,
+    "ToFloorID": 10101001,
+    "LockAreaMapID": 0
+  },
+  {
+    "FromFloorID": 10101004,
+    "WayPointEntityID": 300002,
+    "WayPointGroupID": 1,
+    "ToFloorID": 10101006,
+    "LockAreaMapID": 0
+  },
+  {
+    "FromFloorID": 10101004,
+    "WayPointEntityID": 300001,
+    "WayPointGroupID": 1,
+    "ToFloorID": 10101005,
+    "LockAreaMapID": 0
+  },
+  {
+    "FromFloorID": 10101005,
+    "WayPointEntityID": 300001,
+    "WayPointGroupID": 2,
+    "ToFloorID": 10101001,
+    "LockAreaMapID": 0
+  },
+  {
+    "FromFloorID": 10101005,
+    "WayPointEntityID": 300002,
+    "WayPointGroupID": 2,
+    "ToFloorID": 10101004,
+    "LockAreaMapID": 0
+  },
+  {
+    "FromFloorID": 10101005,
+    "WayPointEntityID": 300002,
+    "WayPointGroupID": 2,
+    "ToFloorID": 10101006,
+    "LockAreaMapID": 0
+  },
+  {
+    "FromFloorID": 10101006,
+    "WayPointEntityID": 300001,
+    "WayPointGroupID": 2,
+    "ToFloorID": 10101004,
+    "LockAreaMapID": 0
+  },
+  {
+    "FromFloorID": 10101007,
+    "WayPointEntityID": 300002,
+    "WayPointGroupID": 9,
+    "ToFloorID": 10101001,
+    "LockAreaMapID": 0
+  },
+  {
+    "FromFloorID": 10101009,
+    "WayPointEntityID": 300001,
+    "WayPointGroupID": 1,
+    "ToFloorID": 10101001,
+    "LockAreaMapID": 0
+  },
+  {
+    "FromFloorID": 10102001,
+    "WayPointEntityID": 300001,
+    "WayPointGroupID": 2,
+    "ToFloorID": 10102002,
+    "LockAreaMapID": 0
+  },
+  {
+    "FromFloorID": 10102001,
+    "WayPointEntityID": 300015,
+    "WayPointGroupID": 2,
+    "ToFloorID": 10102003,
+    "LockAreaMapID": 0
+  },
+  {
+    "FromFloorID": 10102001,
+    "WayPointEntityID": 300003,
+    "WayPointGroupID": 2,
+    "ToFloorID": 10102004,
+    "LockAreaMapID": 0
+  },
+  {
+    "FromFloorID": 10102002,
+    "WayPointEntityID": 300001,
+    "WayPointGroupID": 2,
+    "ToFloorID": 10102001,
+    "LockAreaMapID": 0
+  },
+  {
+    "FromFloorID": 10102003,
+    "WayPointEntityID": 300001,
+    "WayPointGroupID": 2,
+    "ToFloorID": 10102001,
+    "LockAreaMapID": 0
+  },
+  {
+    "FromFloorID": 10102004,
+    "WayPointEntityID": 300001,
+    "WayPointGroupID": 3,
+    "ToFloorID": 10102001,
+    "LockAreaMapID": 0
+  },
+  {
+    "FromFloorID": 10201001,
+    "WayPointEntityID": 300002,
+    "WayPointGroupID": 50,
+    "ToFloorID": 10201002,
+    "LockAreaMapID": 0
+  },
+  {
+    "FromFloorID": 10201002,
+    "WayPointEntityID": 300001,
+    "WayPointGroupID": 7,
+    "ToFloorID": 10201001,
+    "LockAreaMapID": 0
+  },
+  {
+    "FromFloorID": 10202001,
+    "WayPointEntityID": 300001,
+    "WayPointGroupID": 96,
+    "ToFloorID": 10202002,
+    "LockAreaMapID": 0
+  },
+  {
+    "FromFloorID": 10202001,
+    "WayPointEntityID": 400001,
+    "WayPointGroupID": 2,
+    "ToFloorID": 10202003,
+    "LockAreaMapID": 0
+  },
+  {
+    "FromFloorID": 10202001,
+    "WayPointEntityID": 300001,
+    "WayPointGroupID": 107,
+    "ToFloorID": 10202004,
+    "LockAreaMapID": 1020204
+  },
+  {
+    "FromFloorID": 10202002,
+    "WayPointEntityID": 300001,
+    "WayPointGroupID": 3,
+    "ToFloorID": 10202001,
+    "LockAreaMapID": 0
+  },
+  {
+    "FromFloorID": 10202003,
+    "WayPointEntityID": 300001,
+    "WayPointGroupID": 2,
+    "ToFloorID": 10202001,
+    "LockAreaMapID": 0
+  },
+  {
+    "FromFloorID": 20231001,
+    "WayPointEntityID": 300001,
+    "WayPointGroupID": 33,
+    "ToFloorID": 20231002,
+    "LockAreaMapID": 0
+  },
+  {
+    "FromFloorID": 20132001,
+    "WayPointEntityID": 300002,
+    "WayPointGroupID": 47,
+    "ToFloorID": 20133001,
+    "LockAreaMapID": 0
+  },
+  {
+    "FromFloorID": 20132001,
+    "WayPointEntityID": 300002,
+    "WayPointGroupID": 47,
+    "ToFloorID": 20100001,
+    "LockAreaMapID": 0
+  },
+  {
+    "FromFloorID": 20136001,
+    "WayPointEntityID": 300006,
+    "WayPointGroupID": 4,
+    "ToFloorID": 43103001,
+    "LockAreaMapID": 0
+  },
+  {
+    "FromFloorID": 20136001,
+    "WayPointEntityID": 300006,
+    "WayPointGroupID": 4,
+    "ToFloorID": 43103002,
+    "LockAreaMapID": 0
+  },
+  {
+    "FromFloorID": 20136001,
+    "WayPointEntityID": 300006,
+    "WayPointGroupID": 4,
+    "ToFloorID": 43103003,
+    "LockAreaMapID": 0
+  },
+  {
+    "FromFloorID": 20136001,
+    "WayPointEntityID": 300006,
+    "WayPointGroupID": 4,
+    "ToFloorID": 43103004,
+    "LockAreaMapID": 0
+  },
+  {
+    "FromFloorID": 10202001,
+    "WayPointEntityID": 300002,
+    "WayPointGroupID": 137,
+    "ToFloorID": 20223001,
+    "LockAreaMapID": 2022301
+  },
+  {
+    "FromFloorID": 10000000,
+    "WayPointEntityID": 300001,
+    "WayPointGroupID": 216,
+    "ToFloorID": 10000003,
+    "LockAreaMapID": 0
+  },
+  {
+    "FromFloorID": 10000003,
+    "WayPointEntityID": 300001,
+    "WayPointGroupID": 24,
+    "ToFloorID": 10000000,
+    "LockAreaMapID": 0
+  }
+]

@@ -1,0 +1,786 @@
+[
+  {
+    "PassiveSkillDescription": "AetherDividePassiveSkill_PassiveSkillDescription_250201",
+    "ItemDescription": "AetherDividePassiveSkill_ItemDescription_250201",
+    "SimpleParamList": [
+      {
+        "Value": 0.5000000005820766
+      }
+    ],
+    "ExtraEffectIDList": [],
+    "AbilityName": "Avatar_AetherDivide_Add_Perk_0001",
+    "SimpleExtraEffectIDList": [],
+    "PassiveSkillName": "AetherDividePassiveSkill_PassiveSkillName_250201",
+    "ParamList": [
+      {
+        "Value": 0.5000000005820766
+      }
+    ],
+    "Rarity": 1,
+    "PassiveSkillType": "Storm",
+    "ItemID": 250201
+  },
+  {
+    "PassiveSkillDescription": "AetherDividePassiveSkill_PassiveSkillDescription_250202",
+    "ItemDescription": "AetherDividePassiveSkill_ItemDescription_250202",
+    "SimpleParamList": [
+      {
+        "Value": 0.4000000004656613
+      }
+    ],
+    "ExtraEffectIDList": [],
+    "AbilityName": "Avatar_AetherDivide_Add_Perk_0002",
+    "SimpleExtraEffectIDList": [],
+    "PassiveSkillName": "AetherDividePassiveSkill_PassiveSkillName_250202",
+    "ParamList": [
+      {
+        "Value": 0.4000000004656613
+      }
+    ],
+    "Rarity": 2,
+    "PassiveSkillType": "Trick",
+    "ItemID": 250202
+  },
+  {
+    "PassiveSkillDescription": "AetherDividePassiveSkill_PassiveSkillDescription_250203",
+    "ItemDescription": "AetherDividePassiveSkill_ItemDescription_250203",
+    "SimpleParamList": [
+      {
+        "Value": 0.30000000034924595
+      }
+    ],
+    "ExtraEffectIDList": [],
+    "AbilityName": "Avatar_AetherDivide_Add_Perk_0003",
+    "SimpleExtraEffectIDList": [],
+    "PassiveSkillName": "AetherDividePassiveSkill_PassiveSkillName_250203",
+    "ParamList": [
+      {
+        "Value": 0.30000000034924595
+      }
+    ],
+    "Rarity": 2,
+    "PassiveSkillType": "Defend",
+    "ItemID": 250203
+  },
+  {
+    "PassiveSkillDescription": "AetherDividePassiveSkill_PassiveSkillDescription_250204",
+    "ItemDescription": "AetherDividePassiveSkill_ItemDescription_250204",
+    "SimpleParamList": [
+      {
+        "Value": 0.3500000004074536
+      },
+      {
+        "Value": 0.3500000004074536
+      }
+    ],
+    "ExtraEffectIDList": [],
+    "AbilityName": "Avatar_AetherDivide_Add_Perk_0004",
+    "SimpleExtraEffectIDList": [],
+    "PassiveSkillName": "AetherDividePassiveSkill_PassiveSkillName_250204",
+    "ParamList": [
+      {
+        "Value": 0.3500000004074536
+      },
+      {
+        "Value": 0.3500000004074536
+      }
+    ],
+    "Rarity": 2,
+    "PassiveSkillType": "Trick",
+    "ItemID": 250204
+  },
+  {
+    "PassiveSkillDescription": "AetherDividePassiveSkill_PassiveSkillDescription_250205",
+    "ItemDescription": "AetherDividePassiveSkill_ItemDescription_250205",
+    "SimpleParamList": [
+      {
+        "Value": 0.003999999725259841
+      },
+      {
+        "Value": 0.003999999725259841
+      },
+      {
+        "Value": 0.003999999725259841
+      },
+      {
+        "Value": 60.00000001396984
+      }
+    ],
+    "ExtraEffectIDList": [],
+    "AbilityName": "Avatar_AetherDivide_Add_Perk_0005",
+    "SimpleExtraEffectIDList": [],
+    "PassiveSkillName": "AetherDividePassiveSkill_PassiveSkillName_250205",
+    "ParamList": [
+      {
+        "Value": 0.003999999725259841
+      },
+      {
+        "Value": 0.003999999725259841
+      },
+      {
+        "Value": 0.003999999725259841
+      },
+      {
+        "Value": 60.00000001396984
+      }
+    ],
+    "Rarity": 2,
+    "PassiveSkillType": "Assist",
+    "ItemID": 250205
+  },
+  {
+    "PassiveSkillDescription": "AetherDividePassiveSkill_PassiveSkillDescription_250207",
+    "ItemDescription": "AetherDividePassiveSkill_ItemDescription_250207",
+    "SimpleParamList": [
+      {
+        "Value": 1.0000000002328306
+      },
+      {
+        "Value": 1.0000000002328306
+      }
+    ],
+    "ExtraEffectIDList": [],
+    "AbilityName": "Avatar_AetherDivide_Add_Perk_0007",
+    "SimpleExtraEffectIDList": [],
+    "PassiveSkillName": "AetherDividePassiveSkill_PassiveSkillName_250207",
+    "ParamList": [
+      {
+        "Value": 1.0000000002328306
+      },
+      {
+        "Value": 1.0000000002328306
+      }
+    ],
+    "Rarity": 1,
+    "PassiveSkillType": "Assist",
+    "ItemID": 250207
+  },
+  {
+    "PassiveSkillDescription": "AetherDividePassiveSkill_PassiveSkillDescription_250208",
+    "ItemDescription": "AetherDividePassiveSkill_ItemDescription_250208",
+    "SimpleParamList": [
+      {
+        "Value": 1.0000000002328306
+      },
+      {
+        "Value": 2.0000000004656613
+      }
+    ],
+    "ExtraEffectIDList": [],
+    "AbilityName": "Avatar_AetherDivide_Add_Perk_0008",
+    "SimpleExtraEffectIDList": [],
+    "PassiveSkillName": "AetherDividePassiveSkill_PassiveSkillName_250208",
+    "ParamList": [
+      {
+        "Value": 1.0000000002328306
+      },
+      {
+        "Value": 2.0000000004656613
+      }
+    ],
+    "Rarity": 2,
+    "PassiveSkillType": "Trick",
+    "ItemID": 250208
+  },
+  {
+    "PassiveSkillDescription": "AetherDividePassiveSkill_PassiveSkillDescription_250209",
+    "ItemDescription": "AetherDividePassiveSkill_ItemDescription_250209",
+    "SimpleParamList": [
+      {
+        "Value": 0.9000000010477379
+      },
+      {
+        "Value": 0.30000000034924595
+      }
+    ],
+    "ExtraEffectIDList": [],
+    "AbilityName": "Avatar_AetherDivide_Add_Perk_0009",
+    "SimpleExtraEffectIDList": [],
+    "PassiveSkillName": "AetherDividePassiveSkill_PassiveSkillName_250209",
+    "ParamList": [
+      {
+        "Value": 0.9000000010477379
+      },
+      {
+        "Value": 0.30000000034924595
+      }
+    ],
+    "Rarity": 1,
+    "PassiveSkillType": "Storm",
+    "ItemID": 250209
+  },
+  {
+    "PassiveSkillDescription": "AetherDividePassiveSkill_PassiveSkillDescription_250210",
+    "ItemDescription": "AetherDividePassiveSkill_ItemDescription_250210",
+    "SimpleParamList": [
+      {
+        "Value": 0.9000000010477379
+      },
+      {
+        "Value": 2.0000000004656613
+      }
+    ],
+    "ExtraEffectIDList": [],
+    "AbilityName": "Avatar_AetherDivide_Add_Perk_0010",
+    "SimpleExtraEffectIDList": [],
+    "PassiveSkillName": "AetherDividePassiveSkill_PassiveSkillName_250210",
+    "ParamList": [
+      {
+        "Value": 0.9000000010477379
+      },
+      {
+        "Value": 2.0000000004656613
+      }
+    ],
+    "Rarity": 1,
+    "PassiveSkillType": "Defend",
+    "ItemID": 250210
+  },
+  {
+    "PassiveSkillDescription": "AetherDividePassiveSkill_PassiveSkillDescription_250211",
+    "ItemDescription": "AetherDividePassiveSkill_ItemDescription_250211",
+    "SimpleParamList": [
+      {
+        "Value": 0.6000000006984919
+      },
+      {
+        "Value": 0.7500000008731149
+      }
+    ],
+    "ExtraEffectIDList": [],
+    "AbilityName": "Avatar_AetherDivide_Add_Perk_0011",
+    "SimpleExtraEffectIDList": [],
+    "PassiveSkillName": "AetherDividePassiveSkill_PassiveSkillName_250211",
+    "ParamList": [
+      {
+        "Value": 0.6000000006984919
+      },
+      {
+        "Value": 0.7500000008731149
+      }
+    ],
+    "Rarity": 1,
+    "PassiveSkillType": "Defend",
+    "ItemID": 250211
+  },
+  {
+    "PassiveSkillDescription": "AetherDividePassiveSkill_PassiveSkillDescription_250212",
+    "ItemDescription": "AetherDividePassiveSkill_ItemDescription_250212",
+    "SimpleParamList": [
+      {
+        "Value": 0.7000000008149072
+      },
+      {
+        "Value": 0.8000000009313226
+      }
+    ],
+    "ExtraEffectIDList": [],
+    "AbilityName": "Avatar_AetherDivide_Add_Perk_0012",
+    "SimpleExtraEffectIDList": [],
+    "PassiveSkillName": "AetherDividePassiveSkill_PassiveSkillName_250212",
+    "ParamList": [
+      {
+        "Value": 0.7000000008149072
+      },
+      {
+        "Value": 0.8000000009313226
+      }
+    ],
+    "Rarity": 1,
+    "PassiveSkillType": "Storm",
+    "ItemID": 250212
+  },
+  {
+    "PassiveSkillDescription": "AetherDividePassiveSkill_PassiveSkillDescription_250213",
+    "ItemDescription": "AetherDividePassiveSkill_ItemDescription_250213",
+    "SimpleParamList": [
+      {
+        "Value": 1.0000000002328306
+      },
+      {
+        "Value": 1.0000000002328306
+      },
+      {
+        "Value": 1.0000000002328306
+      }
+    ],
+    "ExtraEffectIDList": [],
+    "AbilityName": "Avatar_AetherDivide_Add_Perk_0013",
+    "SimpleExtraEffectIDList": [],
+    "PassiveSkillName": "AetherDividePassiveSkill_PassiveSkillName_250213",
+    "ParamList": [
+      {
+        "Value": 1.0000000002328306
+      },
+      {
+        "Value": 1.0000000002328306
+      },
+      {
+        "Value": 1.0000000002328306
+      }
+    ],
+    "Rarity": 2,
+    "PassiveSkillType": "Assist",
+    "ItemID": 250213
+  },
+  {
+    "PassiveSkillDescription": "AetherDividePassiveSkill_PassiveSkillDescription_250214",
+    "ItemDescription": "AetherDividePassiveSkill_ItemDescription_250214",
+    "SimpleParamList": [
+      {
+        "Value": 0.2500000002910383
+      },
+      {
+        "Value": 500.0000001164153
+      },
+      {
+        "Value": 6.000000001396984
+      }
+    ],
+    "ExtraEffectIDList": [],
+    "AbilityName": "Avatar_AetherDivide_Add_Perk_0014",
+    "SimpleExtraEffectIDList": [],
+    "PassiveSkillName": "AetherDividePassiveSkill_PassiveSkillName_250214",
+    "ParamList": [
+      {
+        "Value": 0.2500000002910383
+      },
+      {
+        "Value": 500.0000001164153
+      },
+      {
+        "Value": 6.000000001396984
+      }
+    ],
+    "Rarity": 2,
+    "PassiveSkillType": "Defend",
+    "ItemID": 250214
+  },
+  {
+    "PassiveSkillDescription": "AetherDividePassiveSkill_PassiveSkillDescription_250215",
+    "ItemDescription": "AetherDividePassiveSkill_ItemDescription_250215",
+    "SimpleParamList": [
+      {
+        "Value": 0.5000000005820766
+      }
+    ],
+    "ExtraEffectIDList": [],
+    "AbilityName": "Avatar_AetherDivide_Add_Perk_0015",
+    "SimpleExtraEffectIDList": [],
+    "PassiveSkillName": "AetherDividePassiveSkill_PassiveSkillName_250215",
+    "ParamList": [
+      {
+        "Value": 0.5000000005820766
+      }
+    ],
+    "Rarity": 1,
+    "PassiveSkillType": "Assist",
+    "ItemID": 250215
+  },
+  {
+    "PassiveSkillDescription": "AetherDividePassiveSkill_PassiveSkillDescription_250216",
+    "ItemDescription": "AetherDividePassiveSkill_ItemDescription_250216",
+    "SimpleParamList": [],
+    "ExtraEffectIDList": [],
+    "AbilityName": "Avatar_AetherDivide_Add_Perk_0016",
+    "SimpleExtraEffectIDList": [],
+    "PassiveSkillName": "AetherDividePassiveSkill_PassiveSkillName_250216",
+    "ParamList": [],
+    "Rarity": 2,
+    "PassiveSkillType": "Storm",
+    "ItemID": 250216
+  },
+  {
+    "PassiveSkillDescription": "AetherDividePassiveSkill_PassiveSkillDescription_250217",
+    "ItemDescription": "AetherDividePassiveSkill_ItemDescription_250217",
+    "SimpleParamList": [
+      {
+        "Value": 0.6000000006984919
+      },
+      {
+        "Value": 2.0000000004656613
+      },
+      {
+        "Value": 0.20000000023283065
+      },
+      {
+        "Value": 5.000000001164153
+      }
+    ],
+    "ExtraEffectIDList": [],
+    "AbilityName": "Avatar_AetherDivide_Add_Perk_0017",
+    "SimpleExtraEffectIDList": [],
+    "PassiveSkillName": "AetherDividePassiveSkill_PassiveSkillName_250217",
+    "ParamList": [
+      {
+        "Value": 0.6000000006984919
+      },
+      {
+        "Value": 2.0000000004656613
+      },
+      {
+        "Value": 0.20000000023283065
+      },
+      {
+        "Value": 5.000000001164153
+      }
+    ],
+    "Rarity": 1,
+    "PassiveSkillType": "Trick",
+    "ItemID": 250217
+  },
+  {
+    "PassiveSkillDescription": "AetherDividePassiveSkill_PassiveSkillDescription_250218",
+    "ItemDescription": "AetherDividePassiveSkill_ItemDescription_250218",
+    "SimpleParamList": [
+      {
+        "Value": 0.3500000004074536
+      }
+    ],
+    "ExtraEffectIDList": [],
+    "AbilityName": "Avatar_AetherDivide_Add_Perk_0018",
+    "SimpleExtraEffectIDList": [],
+    "PassiveSkillName": "AetherDividePassiveSkill_PassiveSkillName_250218",
+    "ParamList": [
+      {
+        "Value": 0.3500000004074536
+      }
+    ],
+    "Rarity": 1,
+    "PassiveSkillType": "Trick",
+    "ItemID": 250218
+  },
+  {
+    "PassiveSkillDescription": "AetherDividePassiveSkill_PassiveSkillDescription_250219",
+    "ItemDescription": "AetherDividePassiveSkill_ItemDescription_250219",
+    "SimpleParamList": [],
+    "ExtraEffectIDList": [],
+    "AbilityName": "Avatar_AetherDivide_Add_Perk_0019",
+    "SimpleExtraEffectIDList": [],
+    "PassiveSkillName": "AetherDividePassiveSkill_PassiveSkillName_250219",
+    "ParamList": [],
+    "Rarity": 2,
+    "PassiveSkillType": "Defend",
+    "ItemID": 250219
+  },
+  {
+    "PassiveSkillDescription": "AetherDividePassiveSkill_PassiveSkillDescription_250220",
+    "ItemDescription": "AetherDividePassiveSkill_ItemDescription_250220",
+    "SimpleParamList": [
+      {
+        "Value": 0.20000000023283065
+      },
+      {
+        "Value": 8.000000001862645
+      },
+      {
+        "Value": 8.000000001862645
+      }
+    ],
+    "ExtraEffectIDList": [],
+    "AbilityName": "Avatar_AetherDivide_Add_Perk_0020",
+    "SimpleExtraEffectIDList": [],
+    "PassiveSkillName": "AetherDividePassiveSkill_PassiveSkillName_250220",
+    "ParamList": [
+      {
+        "Value": 0.020000000023283063
+      },
+      {
+        "Value": 8.000000001862645
+      },
+      {
+        "Value": 8.000000001862645
+      }
+    ],
+    "Rarity": 1,
+    "PassiveSkillType": "Defend",
+    "ItemID": 250220
+  },
+  {
+    "PassiveSkillDescription": "AetherDividePassiveSkill_PassiveSkillDescription_250221",
+    "ItemDescription": "AetherDividePassiveSkill_ItemDescription_250221",
+    "SimpleParamList": [
+      {
+        "Value": 0.8000000009313226
+      }
+    ],
+    "ExtraEffectIDList": [],
+    "AbilityName": "Avatar_AetherDivide_Add_Perk_0021",
+    "SimpleExtraEffectIDList": [],
+    "PassiveSkillName": "AetherDividePassiveSkill_PassiveSkillName_250221",
+    "ParamList": [
+      {
+        "Value": 0.8000000009313226
+      }
+    ],
+    "Rarity": 2,
+    "PassiveSkillType": "Defend",
+    "ItemID": 250221
+  },
+  {
+    "PassiveSkillDescription": "AetherDividePassiveSkill_PassiveSkillDescription_250222",
+    "ItemDescription": "AetherDividePassiveSkill_ItemDescription_250222",
+    "SimpleParamList": [
+      {
+        "Value": 0.2500000002910383
+      },
+      {
+        "Value": 1.0000000002328306
+      }
+    ],
+    "ExtraEffectIDList": [],
+    "AbilityName": "Avatar_AetherDivide_Add_Perk_0022",
+    "SimpleExtraEffectIDList": [],
+    "PassiveSkillName": "AetherDividePassiveSkill_PassiveSkillName_250222",
+    "ParamList": [
+      {
+        "Value": 0.2500000002910383
+      },
+      {
+        "Value": 1.0000000002328306
+      }
+    ],
+    "Rarity": 2,
+    "PassiveSkillType": "Storm",
+    "ItemID": 250222
+  },
+  {
+    "PassiveSkillDescription": "AetherDividePassiveSkill_PassiveSkillDescription_250223",
+    "ItemDescription": "AetherDividePassiveSkill_ItemDescription_250223",
+    "SimpleParamList": [
+      {
+        "Value": 3.000000000698492
+      }
+    ],
+    "ExtraEffectIDList": [],
+    "AbilityName": "Avatar_AetherDivide_Add_Perk_0023",
+    "SimpleExtraEffectIDList": [],
+    "PassiveSkillName": "AetherDividePassiveSkill_PassiveSkillName_250223",
+    "ParamList": [
+      {
+        "Value": 3.000000000698492
+      }
+    ],
+    "Rarity": 1,
+    "PassiveSkillType": "Trick",
+    "ItemID": 250223
+  },
+  {
+    "PassiveSkillDescription": "AetherDividePassiveSkill_PassiveSkillDescription_250224",
+    "ItemDescription": "AetherDividePassiveSkill_ItemDescription_250224",
+    "SimpleParamList": [],
+    "ExtraEffectIDList": [],
+    "AbilityName": "Avatar_AetherDivide_Add_Perk_0024",
+    "SimpleExtraEffectIDList": [],
+    "PassiveSkillName": "AetherDividePassiveSkill_PassiveSkillName_250224",
+    "ParamList": [],
+    "Rarity": 2,
+    "PassiveSkillType": "Storm",
+    "ItemID": 250224
+  },
+  {
+    "PassiveSkillDescription": "AetherDividePassiveSkill_PassiveSkillDescription_250225",
+    "ItemDescription": "AetherDividePassiveSkill_ItemDescription_250225",
+    "SimpleParamList": [
+      {
+        "Value": 0.7500000008731149
+      }
+    ],
+    "ExtraEffectIDList": [],
+    "AbilityName": "Avatar_AetherDivide_Add_Perk_0025",
+    "SimpleExtraEffectIDList": [],
+    "PassiveSkillName": "AetherDividePassiveSkill_PassiveSkillName_250225",
+    "ParamList": [
+      {
+        "Value": 0.7500000008731149
+      }
+    ],
+    "Rarity": 1,
+    "PassiveSkillType": "Storm",
+    "ItemID": 250225
+  },
+  {
+    "PassiveSkillDescription": "AetherDividePassiveSkill_PassiveSkillDescription_250226",
+    "ItemDescription": "AetherDividePassiveSkill_ItemDescription_250226",
+    "SimpleParamList": [
+      {
+        "Value": 0.2500000002910383
+      },
+      {
+        "Value": 0.4000000004656613
+      }
+    ],
+    "ExtraEffectIDList": [],
+    "AbilityName": "Avatar_AetherDivide_Add_Perk_0026",
+    "SimpleExtraEffectIDList": [],
+    "PassiveSkillName": "AetherDividePassiveSkill_PassiveSkillName_250226",
+    "ParamList": [
+      {
+        "Value": 0.2500000002910383
+      },
+      {
+        "Value": 0.4000000004656613
+      }
+    ],
+    "Rarity": 1,
+    "PassiveSkillType": "Storm",
+    "ItemID": 250226
+  },
+  {
+    "PassiveSkillDescription": "AetherDividePassiveSkill_PassiveSkillDescription_250227",
+    "ItemDescription": "AetherDividePassiveSkill_ItemDescription_250227",
+    "SimpleParamList": [
+      {
+        "Value": 5.000000001164153
+      }
+    ],
+    "ExtraEffectIDList": [],
+    "AbilityName": "Avatar_AetherDivide_Add_Perk_0027",
+    "SimpleExtraEffectIDList": [],
+    "PassiveSkillName": "AetherDividePassiveSkill_PassiveSkillName_250227",
+    "ParamList": [
+      {
+        "Value": 5.000000001164153
+      }
+    ],
+    "Rarity": 2,
+    "PassiveSkillType": "Trick",
+    "ItemID": 250227
+  },
+  {
+    "PassiveSkillDescription": "AetherDividePassiveSkill_PassiveSkillDescription_250228",
+    "ItemDescription": "AetherDividePassiveSkill_ItemDescription_250228",
+    "SimpleParamList": [
+      {
+        "Value": 0.7500000008731149
+      }
+    ],
+    "ExtraEffectIDList": [],
+    "AbilityName": "Avatar_AetherDivide_Add_Perk_0028",
+    "SimpleExtraEffectIDList": [],
+    "PassiveSkillName": "AetherDividePassiveSkill_PassiveSkillName_250228",
+    "ParamList": [
+      {
+        "Value": 0.7500000008731149
+      }
+    ],
+    "Rarity": 2,
+    "PassiveSkillType": "Storm",
+    "ItemID": 250228
+  },
+  {
+    "PassiveSkillDescription": "AetherDividePassiveSkill_PassiveSkillDescription_250229",
+    "ItemDescription": "AetherDividePassiveSkill_ItemDescription_250229",
+    "SimpleParamList": [
+      {
+        "Value": 0.7500000008731149
+      }
+    ],
+    "ExtraEffectIDList": [],
+    "AbilityName": "Avatar_AetherDivide_Add_Perk_0029",
+    "SimpleExtraEffectIDList": [],
+    "PassiveSkillName": "AetherDividePassiveSkill_PassiveSkillName_250229",
+    "ParamList": [
+      {
+        "Value": 0.7500000008731149
+      }
+    ],
+    "Rarity": 1,
+    "PassiveSkillType": "Trick",
+    "ItemID": 250229
+  },
+  {
+    "PassiveSkillDescription": "AetherDividePassiveSkill_PassiveSkillDescription_250230",
+    "ItemDescription": "AetherDividePassiveSkill_ItemDescription_250230",
+    "SimpleParamList": [
+      {
+        "Value": 6.000000001396984
+      },
+      {
+        "Value": 0.4000000004656613
+      }
+    ],
+    "ExtraEffectIDList": [],
+    "AbilityName": "Avatar_AetherDivide_Add_Perk_0030",
+    "SimpleExtraEffectIDList": [],
+    "PassiveSkillName": "AetherDividePassiveSkill_PassiveSkillName_250230",
+    "ParamList": [
+      {
+        "Value": 6.000000001396984
+      },
+      {
+        "Value": 0.4000000004656613
+      }
+    ],
+    "Rarity": 1,
+    "PassiveSkillType": "Defend",
+    "ItemID": 250230
+  },
+  {
+    "PassiveSkillDescription": "AetherDividePassiveSkill_PassiveSkillDescription_250231",
+    "ItemDescription": "AetherDividePassiveSkill_ItemDescription_250231",
+    "SimpleParamList": [
+      {
+        "Value": 0.2500000002910383
+      },
+      {
+        "Value": 4.000000000931323
+      }
+    ],
+    "ExtraEffectIDList": [],
+    "AbilityName": "Avatar_AetherDivide_Add_Perk_0031",
+    "SimpleExtraEffectIDList": [],
+    "PassiveSkillName": "AetherDividePassiveSkill_PassiveSkillName_250231",
+    "ParamList": [
+      {
+        "Value": 0.2500000002910383
+      },
+      {
+        "Value": 4.000000000931323
+      }
+    ],
+    "Rarity": 1,
+    "PassiveSkillType": "Storm",
+    "ItemID": 250231
+  },
+  {
+    "PassiveSkillDescription": "AetherDividePassiveSkill_PassiveSkillDescription_250232",
+    "ItemDescription": "AetherDividePassiveSkill_ItemDescription_250232",
+    "SimpleParamList": [],
+    "ExtraEffectIDList": [],
+    "AbilityName": "Avatar_AetherDivide_Add_Perk_0032",
+    "SimpleExtraEffectIDList": [],
+    "PassiveSkillName": "AetherDividePassiveSkill_PassiveSkillName_250232",
+    "ParamList": [],
+    "Rarity": 1,
+    "PassiveSkillType": "Assist",
+    "ItemID": 250232
+  },
+  {
+    "PassiveSkillDescription": "AetherDividePassiveSkill_PassiveSkillDescription_250233",
+    "ItemDescription": "AetherDividePassiveSkill_ItemDescription_250233",
+    "SimpleParamList": [
+      {
+        "Value": 0.20000000023283065
+      },
+      {
+        "Value": 0.20000000023283065
+      }
+    ],
+    "ExtraEffectIDList": [],
+    "AbilityName": "Avatar_AetherDivide_Add_Perk_0033",
+    "SimpleExtraEffectIDList": [],
+    "PassiveSkillName": "AetherDividePassiveSkill_PassiveSkillName_250233",
+    "ParamList": [
+      {
+        "Value": 0.20000000023283065
+      },
+      {
+        "Value": 0.20000000023283065
+      }
+    ],
+    "Rarity": 1,
+    "PassiveSkillType": "Assist",
+    "ItemID": 250233
+  }
+]

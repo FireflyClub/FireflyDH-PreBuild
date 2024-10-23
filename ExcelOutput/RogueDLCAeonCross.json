@@ -1,0 +1,114 @@
+[
+  {
+    "MainAeonID": 1,
+    "BuffGroup": 12021,
+    "SubAeonNum": 3,
+    "SubAeonID": 3,
+    "MainAeonNum": 3
+  },
+  {
+    "MainAeonID": 1,
+    "BuffGroup": 12022,
+    "SubAeonNum": 3,
+    "SubAeonID": 2,
+    "MainAeonNum": 3
+  },
+  {
+    "MainAeonID": 2,
+    "BuffGroup": 12122,
+    "SubAeonNum": 3,
+    "SubAeonID": 5,
+    "MainAeonNum": 3
+  },
+  {
+    "MainAeonID": 2,
+    "BuffGroup": 12121,
+    "SubAeonNum": 3,
+    "SubAeonID": 6,
+    "MainAeonNum": 3
+  },
+  {
+    "MainAeonID": 3,
+    "BuffGroup": 12221,
+    "SubAeonNum": 3,
+    "SubAeonID": 5,
+    "MainAeonNum": 3
+  },
+  {
+    "MainAeonID": 3,
+    "BuffGroup": 12222,
+    "SubAeonNum": 3,
+    "SubAeonID": 8,
+    "MainAeonNum": 3
+  },
+  {
+    "MainAeonID": 4,
+    "BuffGroup": 12322,
+    "SubAeonNum": 3,
+    "SubAeonID": 3,
+    "MainAeonNum": 3
+  },
+  {
+    "MainAeonID": 4,
+    "BuffGroup": 12321,
+    "SubAeonNum": 3,
+    "SubAeonID": 8,
+    "MainAeonNum": 3
+  },
+  {
+    "MainAeonID": 5,
+    "BuffGroup": 12422,
+    "SubAeonNum": 3,
+    "SubAeonID": 4,
+    "MainAeonNum": 3
+  },
+  {
+    "MainAeonID": 5,
+    "BuffGroup": 12421,
+    "SubAeonNum": 3,
+    "SubAeonID": 7,
+    "MainAeonNum": 3
+  },
+  {
+    "MainAeonID": 6,
+    "BuffGroup": 12521,
+    "SubAeonNum": 3,
+    "SubAeonID": 1,
+    "MainAeonNum": 3
+  },
+  {
+    "MainAeonID": 6,
+    "BuffGroup": 12522,
+    "SubAeonNum": 3,
+    "SubAeonID": 7,
+    "MainAeonNum": 3
+  },
+  {
+    "MainAeonID": 7,
+    "BuffGroup": 12622,
+    "SubAeonNum": 3,
+    "SubAeonID": 2,
+    "MainAeonNum": 3
+  },
+  {
+    "MainAeonID": 7,
+    "BuffGroup": 12621,
+    "SubAeonNum": 3,
+    "SubAeonID": 4,
+    "MainAeonNum": 3
+  },
+  {
+    "MainAeonID": 8,
+    "BuffGroup": 12722,
+    "SubAeonNum": 3,
+    "SubAeonID": 1,
+    "MainAeonNum": 3
+  },
+  {
+    "MainAeonID": 8,
+    "BuffGroup": 12721,
+    "SubAeonNum": 3,
+    "SubAeonID": 6,
+    "MainAeonNum": 3
+  }
+]

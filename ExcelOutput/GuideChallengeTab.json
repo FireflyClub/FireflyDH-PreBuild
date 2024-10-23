@@ -1,0 +1,58 @@
+[
+  {
+    "IconPath": "SpriteOutput/ItemIcon/110501.png",
+    "ResBarKey": "HandBookGuide",
+    "Name": {
+      "Hash": 513580722
+    },
+    "Priority": 2,
+    "IntroDataID": 44,
+    "ID": 1002,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "GuideType": "Challenge"
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/110501.png",
+    "ResBarKey": "HandBookGuide",
+    "Name": {
+      "Hash": 513580723
+    },
+    "Priority": 3,
+    "IntroDataID": 71,
+    "ID": 1003,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "GuideType": "ChallengeStory"
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/110501.png",
+    "ResBarKey": "HandBookGuide",
+    "Name": {
+      "Hash": 513580728
+    },
+    "Priority": 4,
+    "IntroDataID": 93,
+    "ID": 1004,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "GuideType": "ChallengeBoss"
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/110501.png",
+    "ResBarKey": "HandBookGuide",
+    "Name": {
+      "Hash": 513580725
+    },
+    "Priority": 1,
+    "IntroDataID": 94,
+    "ID": 1001,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "GuideType": "ChallengeStatistic"
+  }
+]

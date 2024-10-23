@@ -1,0 +1,3471 @@
+[
+  {
+    "BranchLimitaion": [
+      101,
+      102,
+      103,
+      201,
+      202,
+      203,
+      301,
+      302,
+      303,
+      401,
+      402,
+      403
+    ],
+    "ExtraDesc": [
+      61000011,
+      61000013,
+      61000009
+    ],
+    "SlotList": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "Icon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceI26.png",
+    "DescParam": [],
+    "TagList": [
+      "BlockChange",
+      "BuffProMax"
+    ],
+    "Rarity": 3,
+    "SurfaceID": 2001,
+    "ItemID": 250500,
+    "Sort": 1,
+    "SurfaceName": {
+      "Hash": -92611584
+    },
+    "SurfaceDesc": {
+      "Hash": -968968938
+    },
+    "DiceActiveStage": 1,
+    "UnlockDisplayID": 101
+  },
+  {
+    "BranchLimitaion": [
+      201,
+      202,
+      203
+    ],
+    "ExtraDesc": [
+      61000016,
+      61000024,
+      61000015,
+      61000009
+    ],
+    "SlotList": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "Icon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceI38.png",
+    "DescParam": [
+      {
+        "Value": 1.0000000002328306
+      }
+    ],
+    "TagList": [
+      "BlockChange",
+      "BuffProMax"
+    ],
+    "Rarity": 3,
+    "SurfaceID": 2002,
+    "ItemID": 250501,
+    "Sort": 2,
+    "SurfaceName": {
+      "Hash": -92611587
+    },
+    "SurfaceDesc": {
+      "Hash": -968968941
+    },
+    "DiceActiveStage": 1,
+    "UnlockDisplayID": 201
+  },
+  {
+    "BranchLimitaion": [
+      201,
+      202,
+      203
+    ],
+    "ExtraDesc": [
+      61000009,
+      61000018
+    ],
+    "SlotList": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "Icon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceI39.png",
+    "DescParam": [
+      {
+        "Value": 20.000000004656613
+      },
+      {
+        "Value": 1.0000000002328306
+      }
+    ],
+    "TagList": [
+      "BuffProMax",
+      "Coin"
+    ],
+    "Rarity": 3,
+    "SurfaceID": 2003,
+    "ItemID": 250502,
+    "Sort": 3,
+    "SurfaceName": {
+      "Hash": -92611586
+    },
+    "SurfaceDesc": {
+      "Hash": -968968940
+    },
+    "DiceActiveStage": 2,
+    "UnlockDisplayID": 203
+  },
+  {
+    "BranchLimitaion": [
+      101,
+      102,
+      103,
+      201,
+      202,
+      203,
+      301,
+      302,
+      303,
+      401,
+      402,
+      403
+    ],
+    "ExtraDesc": [
+      61000011,
+      61000018
+    ],
+    "SlotList": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "Icon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceI30.png",
+    "DescParam": [],
+    "TagList": [
+      "BlockChange"
+    ],
+    "Rarity": 1,
+    "SurfaceID": 2004,
+    "ItemID": 250503,
+    "Sort": 4,
+    "SurfaceName": {
+      "Hash": -92611589
+    },
+    "SurfaceDesc": {
+      "Hash": -968968935
+    },
+    "DiceActiveStage": 1,
+    "UnlockDisplayID": 101
+  },
+  {
+    "BranchLimitaion": [
+      201,
+      202,
+      203
+    ],
+    "ExtraDesc": [
+      61000016,
+      61000024,
+      61000018
+    ],
+    "SlotList": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "Icon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceI1.png",
+    "DescParam": [],
+    "TagList": [
+      "BlockChange"
+    ],
+    "Rarity": 1,
+    "SurfaceID": 2005,
+    "ItemID": 250504,
+    "Sort": 5,
+    "SurfaceName": {
+      "Hash": -92611588
+    },
+    "SurfaceDesc": {
+      "Hash": -968968934
+    },
+    "DiceActiveStage": 1,
+    "UnlockDisplayID": 201
+  },
+  {
+    "BranchLimitaion": [
+      201,
+      202,
+      203
+    ],
+    "ExtraDesc": [
+      61000021,
+      61000018
+    ],
+    "SlotList": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "Icon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceI25.png",
+    "DescParam": [],
+    "TagList": [
+      "SpecialType",
+      "Replicate"
+    ],
+    "Rarity": 2,
+    "SurfaceID": 2006,
+    "ItemID": 250505,
+    "Sort": 6,
+    "SurfaceName": {
+      "Hash": -92611591
+    },
+    "SurfaceDesc": {
+      "Hash": -968968937
+    },
+    "DiceActiveStage": 1,
+    "UnlockDisplayID": 203
+  },
+  {
+    "BranchLimitaion": [
+      101,
+      102,
+      103,
+      201,
+      202,
+      203,
+      301,
+      302,
+      303,
+      401,
+      402,
+      403
+    ],
+    "ExtraDesc": [
+      61000021,
+      61000018
+    ],
+    "SlotList": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "Icon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceI21.png",
+    "DescParam": [],
+    "TagList": [
+      "SpecialType",
+      "Replicate"
+    ],
+    "Rarity": 2,
+    "SurfaceID": 2007,
+    "ItemID": 250506,
+    "Sort": 7,
+    "SurfaceName": {
+      "Hash": -92611590
+    },
+    "SurfaceDesc": {
+      "Hash": -968968936
+    },
+    "DiceActiveStage": 1,
+    "UnlockDisplayID": 101
+  },
+  {
+    "BranchLimitaion": [
+      201,
+      202,
+      203
+    ],
+    "ExtraDesc": [
+      61000018
+    ],
+    "SlotList": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "Icon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceI35.png",
+    "DescParam": [
+      {
+        "Value": 10.000000002328306
+      }
+    ],
+    "TagList": [
+      "BlockChange",
+      "Coin"
+    ],
+    "Rarity": 2,
+    "SurfaceID": 2008,
+    "ItemID": 250507,
+    "Sort": 8,
+    "SurfaceName": {
+      "Hash": -92611577
+    },
+    "SurfaceDesc": {
+      "Hash": -968968931
+    },
+    "DiceActiveStage": 1,
+    "UnlockDisplayID": 100
+  },
+  {
+    "BranchLimitaion": [
+      101,
+      102,
+      103,
+      201,
+      202,
+      203,
+      301,
+      302,
+      303,
+      401,
+      402,
+      403
+    ],
+    "ExtraDesc": [
+      61000018
+    ],
+    "SlotList": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "Icon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceI21.png",
+    "DescParam": [
+      {
+        "Value": 1.0000000002328306
+      }
+    ],
+    "TagList": [
+      "BlockChange"
+    ],
+    "Rarity": 1,
+    "SurfaceID": 2009,
+    "ItemID": 250508,
+    "Sort": 9,
+    "SurfaceName": {
+      "Hash": -92611576
+    },
+    "SurfaceDesc": {
+      "Hash": -968968930
+    },
+    "DiceActiveStage": 1,
+    "UnlockDisplayID": 100
+  },
+  {
+    "BranchLimitaion": [
+      101,
+      102,
+      103,
+      201,
+      202,
+      203,
+      301,
+      302,
+      303,
+      401,
+      402,
+      403
+    ],
+    "ExtraDesc": [
+      61000021,
+      61000018
+    ],
+    "SlotList": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "Icon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceI23.png",
+    "DescParam": [
+      {
+        "Value": 2.0000000004656613
+      }
+    ],
+    "TagList": [
+      "SpecialType",
+      "Replicate"
+    ],
+    "Rarity": 3,
+    "SurfaceID": 2010,
+    "ItemID": 250509,
+    "Sort": 10,
+    "SurfaceName": {
+      "Hash": -1658695526
+    },
+    "SurfaceDesc": {
+      "Hash": 1759914416
+    },
+    "DiceActiveStage": 1,
+    "UnlockDisplayID": 202
+  },
+  {
+    "BranchLimitaion": [
+      201,
+      202,
+      203
+    ],
+    "ExtraDesc": [
+      61000011,
+      61000018
+    ],
+    "SlotList": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "Icon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceI24.png",
+    "DescParam": [
+      {
+        "Value": 2.0000000004656613
+      }
+    ],
+    "TagList": [
+      "BlockChange"
+    ],
+    "Rarity": 1,
+    "SurfaceID": 2011,
+    "ItemID": 250510,
+    "Sort": 11,
+    "SurfaceName": {
+      "Hash": -1658695525
+    },
+    "SurfaceDesc": {
+      "Hash": 1759914417
+    },
+    "DiceActiveStage": 1,
+    "UnlockDisplayID": 202
+  },
+  {
+    "BranchLimitaion": [
+      101,
+      102,
+      103,
+      201,
+      202,
+      203,
+      301,
+      302,
+      303,
+      401,
+      402,
+      403
+    ],
+    "ExtraDesc": [
+      61000013,
+      61000014,
+      61000015
+    ],
+    "SlotList": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "Icon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceI1.png",
+    "DescParam": [],
+    "TagList": [
+      "BlockChange"
+    ],
+    "Rarity": 2,
+    "SurfaceID": 2012,
+    "ItemID": 250511,
+    "Sort": 12,
+    "SurfaceName": {
+      "Hash": -1658695528
+    },
+    "SurfaceDesc": {
+      "Hash": 1759914414
+    },
+    "DiceActiveStage": 1,
+    "UnlockDisplayID": 101
+  },
+  {
+    "BranchLimitaion": [
+      201,
+      202,
+      203
+    ],
+    "ExtraDesc": [
+      61000011,
+      61000013
+    ],
+    "SlotList": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "Icon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceI28.png",
+    "DescParam": [],
+    "TagList": [
+      "BlockChange"
+    ],
+    "Rarity": 1,
+    "SurfaceID": 2013,
+    "ItemID": 250512,
+    "Sort": 13,
+    "SurfaceName": {
+      "Hash": -1658695527
+    },
+    "SurfaceDesc": {
+      "Hash": 1759914415
+    },
+    "DiceActiveStage": 1,
+    "UnlockDisplayID": 100
+  },
+  {
+    "BranchLimitaion": [
+      101,
+      102,
+      103
+    ],
+    "ExtraDesc": [
+      61000011,
+      61000013,
+      61000016,
+      61000024,
+      61000015
+    ],
+    "SlotList": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "Icon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceI12.png",
+    "DescParam": [],
+    "TagList": [
+      "BlockChange",
+      "Mark"
+    ],
+    "Rarity": 3,
+    "SurfaceID": 2014,
+    "ItemID": 250513,
+    "Sort": 14,
+    "SurfaceName": {
+      "Hash": -1658695530
+    },
+    "SurfaceDesc": {
+      "Hash": 1759914420
+    },
+    "DiceActiveStage": 1,
+    "UnlockDisplayID": 100
+  },
+  {
+    "BranchLimitaion": [
+      201,
+      202,
+      203
+    ],
+    "ExtraDesc": [
+      61000011,
+      61000009
+    ],
+    "SlotList": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "Icon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceI26.png",
+    "DescParam": [],
+    "TagList": [
+      "Mark",
+      "BuffProMax"
+    ],
+    "Rarity": 2,
+    "SurfaceID": 2016,
+    "ItemID": 250515,
+    "Sort": 16,
+    "SurfaceName": {
+      "Hash": -1658695532
+    },
+    "SurfaceDesc": {
+      "Hash": 1759914418
+    },
+    "DiceActiveStage": 1,
+    "UnlockDisplayID": 100
+  },
+  {
+    "BranchLimitaion": [
+      101,
+      102,
+      103,
+      201,
+      202,
+      203,
+      301,
+      302,
+      303,
+      401,
+      402,
+      403
+    ],
+    "ExtraDesc": [
+      61000021,
+      61000018
+    ],
+    "SlotList": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "Icon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceI23.png",
+    "DescParam": [
+      {
+        "Value": 1.0000000002328306
+      }
+    ],
+    "TagList": [
+      "SpecialType",
+      "Replicate"
+    ],
+    "Rarity": 1,
+    "SurfaceID": 2017,
+    "ItemID": 250516,
+    "Sort": 17,
+    "SurfaceName": {
+      "Hash": -1658695531
+    },
+    "SurfaceDesc": {
+      "Hash": 1759914419
+    },
+    "DiceActiveStage": 1,
+    "UnlockDisplayID": 203
+  },
+  {
+    "BranchLimitaion": [
+      101,
+      102,
+      103,
+      201,
+      202,
+      203,
+      301,
+      302,
+      303,
+      401,
+      402,
+      403
+    ],
+    "ExtraDesc": [
+      61000007,
+      61000008
+    ],
+    "SlotList": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "Icon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceI47.png",
+    "DescParam": [
+      {
+        "Value": 50.00000001164153
+      }
+    ],
+    "TagList": [
+      "Mark",
+      "Coin"
+    ],
+    "Rarity": 2,
+    "SurfaceID": 2018,
+    "ItemID": 250517,
+    "Sort": 18,
+    "SurfaceName": {
+      "Hash": -1658695518
+    },
+    "SurfaceDesc": {
+      "Hash": 1759914424
+    },
+    "DiceActiveStage": 1,
+    "UnlockDisplayID": 100
+  },
+  {
+    "BranchLimitaion": [
+      101,
+      102,
+      103
+    ],
+    "ExtraDesc": [],
+    "SlotList": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "Icon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceI12.png",
+    "DescParam": [
+      {
+        "Value": 1.0000000002328306
+      }
+    ],
+    "TagList": [
+      "Mark"
+    ],
+    "Rarity": 1,
+    "SurfaceID": 2019,
+    "ItemID": 250518,
+    "Sort": 19,
+    "SurfaceName": {
+      "Hash": -1658695517
+    },
+    "SurfaceDesc": {
+      "Hash": 1759914425
+    },
+    "DiceActiveStage": 1,
+    "UnlockDisplayID": 103
+  },
+  {
+    "BranchLimitaion": [
+      101,
+      102,
+      103,
+      201,
+      202,
+      203,
+      301,
+      302,
+      303,
+      401,
+      402,
+      403
+    ],
+    "ExtraDesc": [
+      61000011,
+      61000013,
+      61000007,
+      61000008
+    ],
+    "SlotList": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "Icon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceI50.png",
+    "DescParam": [
+      {
+        "Value": 1.0000000002328306
+      }
+    ],
+    "TagList": [
+      "Mark"
+    ],
+    "Rarity": 2,
+    "SurfaceID": 2022,
+    "ItemID": 250521,
+    "Sort": 22,
+    "SurfaceName": {
+      "Hash": -1255411001
+    },
+    "SurfaceDesc": {
+      "Hash": 193830473
+    },
+    "DiceActiveStage": 1,
+    "UnlockDisplayID": 101
+  },
+  {
+    "BranchLimitaion": [
+      301,
+      302,
+      303
+    ],
+    "ExtraDesc": [
+      61000021
+    ],
+    "SlotList": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "Icon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceI20.png",
+    "DescParam": [
+      {
+        "Value": 2.0000000004656613
+      }
+    ],
+    "TagList": [
+      "SpecialType",
+      "Mark"
+    ],
+    "Rarity": 2,
+    "SurfaceID": 2023,
+    "ItemID": 250522,
+    "Sort": 23,
+    "SurfaceName": {
+      "Hash": -1255411000
+    },
+    "SurfaceDesc": {
+      "Hash": 193830474
+    },
+    "DiceActiveStage": 1,
+    "UnlockDisplayID": 303
+  },
+  {
+    "BranchLimitaion": [
+      101,
+      102,
+      103,
+      201,
+      202,
+      203,
+      301,
+      302,
+      303,
+      401,
+      402,
+      403
+    ],
+    "ExtraDesc": [
+      61000021
+    ],
+    "SlotList": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "Icon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceI62.png",
+    "DescParam": [
+      {
+        "Value": 3.000000000698492
+      }
+    ],
+    "TagList": [
+      "SpecialType"
+    ],
+    "Rarity": 3,
+    "SurfaceID": 2024,
+    "ItemID": 250523,
+    "Sort": 24,
+    "SurfaceName": {
+      "Hash": -1255411003
+    },
+    "SurfaceDesc": {
+      "Hash": 193830479
+    },
+    "DiceActiveStage": 1,
+    "UnlockDisplayID": 301
+  },
+  {
+    "BranchLimitaion": [
+      101,
+      102,
+      103,
+      201,
+      202,
+      203,
+      301,
+      302,
+      303,
+      401,
+      402,
+      403
+    ],
+    "ExtraDesc": [],
+    "SlotList": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "Icon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceI13.png",
+    "DescParam": [
+      {
+        "Value": 3.000000000698492
+      }
+    ],
+    "TagList": [
+      "Mark"
+    ],
+    "Rarity": 3,
+    "SurfaceID": 2025,
+    "ItemID": 250524,
+    "Sort": 25,
+    "SurfaceName": {
+      "Hash": -1255411002
+    },
+    "SurfaceDesc": {
+      "Hash": 193830480
+    },
+    "DiceActiveStage": 1,
+    "UnlockDisplayID": 103
+  },
+  {
+    "BranchLimitaion": [
+      301,
+      302,
+      303
+    ],
+    "ExtraDesc": [
+      61000021
+    ],
+    "SlotList": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "Icon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceI56.png",
+    "DescParam": [
+      {
+        "Value": 1.0000000002328306
+      }
+    ],
+    "TagList": [
+      "SpecialType"
+    ],
+    "Rarity": 3,
+    "SurfaceID": 2026,
+    "ItemID": 250525,
+    "Sort": 26,
+    "SurfaceName": {
+      "Hash": -1255411005
+    },
+    "SurfaceDesc": {
+      "Hash": 193830477
+    },
+    "DiceActiveStage": 1,
+    "UnlockDisplayID": 301
+  },
+  {
+    "BranchLimitaion": [
+      301,
+      302,
+      303
+    ],
+    "ExtraDesc": [
+      61000021
+    ],
+    "SlotList": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "Icon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceI57.png",
+    "DescParam": [
+      {
+        "Value": 1.0000000002328306
+      }
+    ],
+    "TagList": [
+      "SpecialType"
+    ],
+    "Rarity": 1,
+    "SurfaceID": 2027,
+    "ItemID": 250526,
+    "Sort": 27,
+    "SurfaceName": {
+      "Hash": -1255411004
+    },
+    "SurfaceDesc": {
+      "Hash": 193830478
+    },
+    "DiceActiveStage": 1,
+    "UnlockDisplayID": 301
+  },
+  {
+    "BranchLimitaion": [
+      301,
+      302,
+      303
+    ],
+    "ExtraDesc": [
+      61000021
+    ],
+    "SlotList": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "Icon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceI58.png",
+    "DescParam": [],
+    "TagList": [
+      "SpecialType"
+    ],
+    "Rarity": 3,
+    "SurfaceID": 2030,
+    "ItemID": 250529,
+    "Sort": 30,
+    "SurfaceName": {
+      "Hash": 1473472356
+    },
+    "SurfaceDesc": {
+      "Hash": -1372253466
+    },
+    "DiceActiveStage": 1,
+    "UnlockDisplayID": 303
+  },
+  {
+    "BranchLimitaion": [
+      301,
+      302,
+      303
+    ],
+    "ExtraDesc": [
+      61000021
+    ],
+    "SlotList": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "Icon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceI43.png",
+    "DescParam": [
+      {
+        "Value": 2.0000000004656613
+      }
+    ],
+    "TagList": [
+      "SpecialType"
+    ],
+    "Rarity": 1,
+    "SurfaceID": 2031,
+    "ItemID": 250530,
+    "Sort": 31,
+    "SurfaceName": {
+      "Hash": 1473472357
+    },
+    "SurfaceDesc": {
+      "Hash": -1372253465
+    },
+    "DiceActiveStage": 2,
+    "UnlockDisplayID": 302
+  },
+  {
+    "BranchLimitaion": [
+      101,
+      102,
+      103,
+      201,
+      202,
+      203,
+      301,
+      302,
+      303,
+      401,
+      402,
+      403
+    ],
+    "ExtraDesc": [
+      61000021
+    ],
+    "SlotList": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "Icon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceI52.png",
+    "DescParam": [
+      {
+        "Value": 1.0000000002328306
+      }
+    ],
+    "TagList": [
+      "SpecialType"
+    ],
+    "Rarity": 1,
+    "SurfaceID": 2032,
+    "ItemID": 250531,
+    "Sort": 32,
+    "SurfaceName": {
+      "Hash": 1473472354
+    },
+    "SurfaceDesc": {
+      "Hash": -1372253468
+    },
+    "DiceActiveStage": 2,
+    "UnlockDisplayID": 102
+  },
+  {
+    "BranchLimitaion": [
+      101,
+      102,
+      103,
+      201,
+      202,
+      203,
+      301,
+      302,
+      303,
+      401,
+      402,
+      403
+    ],
+    "ExtraDesc": [
+      61000021
+    ],
+    "SlotList": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "Icon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceI52.png",
+    "DescParam": [],
+    "TagList": [
+      "SpecialType"
+    ],
+    "Rarity": 2,
+    "SurfaceID": 2033,
+    "ItemID": 250532,
+    "Sort": 33,
+    "SurfaceName": {
+      "Hash": 1473472355
+    },
+    "SurfaceDesc": {
+      "Hash": -1372253467
+    },
+    "DiceActiveStage": 2,
+    "UnlockDisplayID": 302
+  },
+  {
+    "BranchLimitaion": [
+      301,
+      302,
+      303
+    ],
+    "ExtraDesc": [
+      61000021
+    ],
+    "SlotList": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "Icon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceI43.png",
+    "DescParam": [],
+    "TagList": [
+      "SpecialType"
+    ],
+    "Rarity": 3,
+    "SurfaceID": 2034,
+    "ItemID": 250533,
+    "Sort": 34,
+    "SurfaceName": {
+      "Hash": 1473472352
+    },
+    "SurfaceDesc": {
+      "Hash": -1372253462
+    },
+    "DiceActiveStage": 2,
+    "UnlockDisplayID": 302
+  },
+  {
+    "BranchLimitaion": [
+      301,
+      302,
+      303
+    ],
+    "ExtraDesc": [
+      61000021
+    ],
+    "SlotList": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "Icon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceI15.png",
+    "DescParam": [
+      {
+        "Value": 1.0000000002328306
+      },
+      {
+        "Value": 3.000000000698492
+      }
+    ],
+    "TagList": [
+      "SpecialType",
+      "BuffProMax"
+    ],
+    "Rarity": 3,
+    "SurfaceID": 2035,
+    "ItemID": 250534,
+    "Sort": 35,
+    "SurfaceName": {
+      "Hash": 1473472353
+    },
+    "SurfaceDesc": {
+      "Hash": -1372253461
+    },
+    "DiceActiveStage": 1,
+    "UnlockDisplayID": 100
+  },
+  {
+    "BranchLimitaion": [
+      201,
+      202,
+      203
+    ],
+    "ExtraDesc": [
+      61000011,
+      61000013
+    ],
+    "SlotList": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "Icon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceI29.png",
+    "DescParam": [
+      {
+        "Value": 1.0000000002328306
+      }
+    ],
+    "TagList": [
+      "BuffProMax"
+    ],
+    "Rarity": 2,
+    "SurfaceID": 2037,
+    "ItemID": 250536,
+    "Sort": 37,
+    "SurfaceName": {
+      "Hash": 1473472351
+    },
+    "SurfaceDesc": {
+      "Hash": -1372253463
+    },
+    "DiceActiveStage": 2,
+    "UnlockDisplayID": 100
+  },
+  {
+    "BranchLimitaion": [
+      201,
+      202,
+      203
+    ],
+    "ExtraDesc": [
+      61000016,
+      61000024,
+      61000015
+    ],
+    "SlotList": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "Icon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceI53.png",
+    "DescParam": [
+      {
+        "Value": 1.0000000002328306
+      }
+    ],
+    "TagList": [
+      "ActionPoint"
+    ],
+    "Rarity": 3,
+    "SurfaceID": 2038,
+    "ItemID": 250537,
+    "Sort": 38,
+    "SurfaceName": {
+      "Hash": 1473472364
+    },
+    "SurfaceDesc": {
+      "Hash": -1372253458
+    },
+    "DiceActiveStage": 2,
+    "UnlockDisplayID": 100
+  },
+  {
+    "BranchLimitaion": [
+      101,
+      102,
+      103,
+      201,
+      202,
+      203,
+      301,
+      302,
+      303,
+      401,
+      402,
+      403
+    ],
+    "ExtraDesc": [],
+    "SlotList": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "Icon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceI53.png",
+    "DescParam": [
+      {
+        "Value": 1.0000000002328306
+      }
+    ],
+    "TagList": [
+      "BuffProMax"
+    ],
+    "Rarity": 2,
+    "SurfaceID": 2039,
+    "ItemID": 250538,
+    "Sort": 39,
+    "SurfaceName": {
+      "Hash": 1473472365
+    },
+    "SurfaceDesc": {
+      "Hash": -1372253457
+    },
+    "DiceActiveStage": 2,
+    "UnlockDisplayID": 100
+  },
+  {
+    "BranchLimitaion": [
+      101,
+      102,
+      103,
+      201,
+      202,
+      203,
+      301,
+      302,
+      303,
+      401,
+      402,
+      403
+    ],
+    "ExtraDesc": [
+      61000021
+    ],
+    "SlotList": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "Icon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceI16.png",
+    "DescParam": [
+      {
+        "Value": 100.00000002328306
+      },
+      {
+        "Value": 1.0000000002328306
+      }
+    ],
+    "TagList": [
+      "BuffProMax",
+      "Coin"
+    ],
+    "Rarity": 2,
+    "SurfaceID": 2040,
+    "ItemID": 250539,
+    "Sort": 40,
+    "SurfaceName": {
+      "Hash": -2061980053
+    },
+    "SurfaceDesc": {
+      "Hash": 1356629889
+    },
+    "DiceActiveStage": 2,
+    "UnlockDisplayID": 100
+  },
+  {
+    "BranchLimitaion": [
+      301,
+      302,
+      303
+    ],
+    "ExtraDesc": [
+      61000021
+    ],
+    "SlotList": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "Icon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceI17.png",
+    "DescParam": [
+      {
+        "Value": 3.000000000698492
+      }
+    ],
+    "TagList": [
+      "SpecialType"
+    ],
+    "Rarity": 2,
+    "SurfaceID": 2041,
+    "ItemID": 250540,
+    "Sort": 41,
+    "SurfaceName": {
+      "Hash": -2061980052
+    },
+    "SurfaceDesc": {
+      "Hash": 1356629890
+    },
+    "DiceActiveStage": 2,
+    "UnlockDisplayID": 100
+  },
+  {
+    "BranchLimitaion": [
+      101,
+      102,
+      103
+    ],
+    "ExtraDesc": [
+      61000007,
+      61000008
+    ],
+    "SlotList": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "Icon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceI14.png",
+    "DescParam": [
+      {
+        "Value": 2.0000000004656613
+      }
+    ],
+    "TagList": [
+      "Mark"
+    ],
+    "Rarity": 2,
+    "SurfaceID": 2042,
+    "ItemID": 250541,
+    "Sort": 42,
+    "SurfaceName": {
+      "Hash": -2061980055
+    },
+    "SurfaceDesc": {
+      "Hash": 1356629887
+    },
+    "DiceActiveStage": 2,
+    "UnlockDisplayID": 100
+  },
+  {
+    "BranchLimitaion": [
+      101,
+      102,
+      103
+    ],
+    "ExtraDesc": [
+      61000007,
+      61000008
+    ],
+    "SlotList": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "Icon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceI48.png",
+    "DescParam": [],
+    "TagList": [
+      "Move",
+      "Mark"
+    ],
+    "Rarity": 3,
+    "SurfaceID": 2043,
+    "ItemID": 250542,
+    "Sort": 43,
+    "SurfaceName": {
+      "Hash": -2061980054
+    },
+    "SurfaceDesc": {
+      "Hash": 1356629888
+    },
+    "DiceActiveStage": 1,
+    "UnlockDisplayID": 101
+  },
+  {
+    "BranchLimitaion": [
+      101,
+      102,
+      103,
+      201,
+      202,
+      203,
+      301,
+      302,
+      303,
+      401,
+      402,
+      403
+    ],
+    "ExtraDesc": [],
+    "SlotList": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "Icon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceI49.png",
+    "DescParam": [],
+    "TagList": [
+      "Move"
+    ],
+    "Rarity": 2,
+    "SurfaceID": 2046,
+    "ItemID": 250545,
+    "Sort": 46,
+    "SurfaceName": {
+      "Hash": -2061980059
+    },
+    "SurfaceDesc": {
+      "Hash": 1356629891
+    },
+    "DiceActiveStage": 1,
+    "UnlockDisplayID": 100
+  },
+  {
+    "BranchLimitaion": [
+      301,
+      302,
+      303
+    ],
+    "ExtraDesc": [
+      61000021
+    ],
+    "SlotList": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "Icon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceI8.png",
+    "DescParam": [],
+    "TagList": [
+      "SpecialType",
+      "Move"
+    ],
+    "Rarity": 2,
+    "SurfaceID": 2047,
+    "ItemID": 250546,
+    "Sort": 47,
+    "SurfaceName": {
+      "Hash": -2061980058
+    },
+    "SurfaceDesc": {
+      "Hash": 1356629892
+    },
+    "DiceActiveStage": 1,
+    "UnlockDisplayID": 301
+  },
+  {
+    "BranchLimitaion": [
+      101,
+      102,
+      103
+    ],
+    "ExtraDesc": [],
+    "SlotList": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "Icon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceI9.png",
+    "DescParam": [],
+    "TagList": [
+      "Mark",
+      "Move"
+    ],
+    "Rarity": 2,
+    "SurfaceID": 2048,
+    "ItemID": 250547,
+    "Sort": 48,
+    "SurfaceName": {
+      "Hash": -2061980045
+    },
+    "SurfaceDesc": {
+      "Hash": 1356629897
+    },
+    "DiceActiveStage": 1,
+    "UnlockDisplayID": 102
+  },
+  {
+    "BranchLimitaion": [
+      101,
+      102,
+      103,
+      201,
+      202,
+      203,
+      301,
+      302,
+      303,
+      401,
+      402,
+      403
+    ],
+    "ExtraDesc": [
+      61000013,
+      61000015,
+      61000014
+    ],
+    "SlotList": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "Icon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceI4.png",
+    "DescParam": [],
+    "TagList": [
+      "BlockChange"
+    ],
+    "Rarity": 2,
+    "SurfaceID": 2051,
+    "ItemID": 250550,
+    "Sort": 51,
+    "SurfaceName": {
+      "Hash": 666903303
+    },
+    "SurfaceDesc": {
+      "Hash": -209454051
+    },
+    "DiceActiveStage": 1,
+    "UnlockDisplayID": 100
+  },
+  {
+    "BranchLimitaion": [
+      101,
+      102,
+      103
+    ],
+    "ExtraDesc": [],
+    "SlotList": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "Icon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceI11.png",
+    "DescParam": [],
+    "TagList": [
+      "Mark",
+      "BuffProMax"
+    ],
+    "Rarity": 3,
+    "SurfaceID": 2052,
+    "ItemID": 250551,
+    "Sort": 52,
+    "SurfaceName": {
+      "Hash": 666903300
+    },
+    "SurfaceDesc": {
+      "Hash": -209454054
+    },
+    "DiceActiveStage": 1,
+    "UnlockDisplayID": 100
+  },
+  {
+    "BranchLimitaion": [
+      201,
+      202,
+      203
+    ],
+    "ExtraDesc": [],
+    "SlotList": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "Icon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceI6.png",
+    "DescParam": [
+      {
+        "Value": 30.00000000698492
+      }
+    ],
+    "TagList": [
+      "Coin"
+    ],
+    "Rarity": 3,
+    "SurfaceID": 2053,
+    "ItemID": 250552,
+    "Sort": 53,
+    "SurfaceName": {
+      "Hash": 666903301
+    },
+    "SurfaceDesc": {
+      "Hash": -209454053
+    },
+    "DiceActiveStage": 2,
+    "UnlockDisplayID": 100
+  },
+  {
+    "BranchLimitaion": [
+      101,
+      102,
+      103
+    ],
+    "ExtraDesc": [],
+    "SlotList": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "Icon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceI10.png",
+    "DescParam": [
+      {
+        "Value": 3.000000000698492
+      }
+    ],
+    "TagList": [
+      "Mark",
+      "BuffProMax"
+    ],
+    "Rarity": 3,
+    "SurfaceID": 2054,
+    "ItemID": 250553,
+    "Sort": 54,
+    "SurfaceName": {
+      "Hash": 666903298
+    },
+    "SurfaceDesc": {
+      "Hash": -209454048
+    },
+    "DiceActiveStage": 1,
+    "UnlockDisplayID": 100
+  },
+  {
+    "BranchLimitaion": [
+      101,
+      102,
+      103
+    ],
+    "ExtraDesc": [],
+    "SlotList": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "Icon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceI35.png",
+    "DescParam": [],
+    "TagList": [
+      "Mark"
+    ],
+    "Rarity": 2,
+    "SurfaceID": 2056,
+    "ItemID": 250555,
+    "Sort": 56,
+    "SurfaceName": {
+      "Hash": 666903296
+    },
+    "SurfaceDesc": {
+      "Hash": -209454050
+    },
+    "DiceActiveStage": 1,
+    "UnlockDisplayID": 103
+  },
+  {
+    "BranchLimitaion": [
+      301,
+      302,
+      303
+    ],
+    "ExtraDesc": [
+      61000021,
+      61000014,
+      61000018
+    ],
+    "SlotList": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "Icon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceI2.png",
+    "DescParam": [],
+    "TagList": [
+      "BlockChange",
+      "SpecialType"
+    ],
+    "Rarity": 2,
+    "SurfaceID": 2057,
+    "ItemID": 250556,
+    "Sort": 57,
+    "SurfaceName": {
+      "Hash": 666903297
+    },
+    "SurfaceDesc": {
+      "Hash": -209454049
+    },
+    "DiceActiveStage": 1,
+    "UnlockDisplayID": 100
+  },
+  {
+    "BranchLimitaion": [
+      101,
+      102,
+      103,
+      201,
+      202,
+      203,
+      301,
+      302,
+      303,
+      401,
+      402,
+      403
+    ],
+    "ExtraDesc": [],
+    "SlotList": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "Icon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceI32.png",
+    "DescParam": [
+      {
+        "Value": 100.00000002328306
+      }
+    ],
+    "TagList": [
+      "Miracle",
+      "Coin"
+    ],
+    "Rarity": 2,
+    "SurfaceID": 2058,
+    "ItemID": 250557,
+    "Sort": 58,
+    "SurfaceName": {
+      "Hash": 666903310
+    },
+    "SurfaceDesc": {
+      "Hash": -209454044
+    },
+    "DiceActiveStage": 1,
+    "UnlockDisplayID": 100
+  },
+  {
+    "BranchLimitaion": [
+      401,
+      402,
+      403
+    ],
+    "ExtraDesc": [],
+    "SlotList": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "Icon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceI34.png",
+    "DescParam": [],
+    "TagList": [
+      "Miracle"
+    ],
+    "Rarity": 3,
+    "SurfaceID": 2061,
+    "ItemID": 250560,
+    "Sort": 61,
+    "SurfaceName": {
+      "Hash": 1070187830
+    },
+    "SurfaceDesc": {
+      "Hash": -1775537992
+    },
+    "DiceActiveStage": 1,
+    "UnlockDisplayID": 402
+  },
+  {
+    "BranchLimitaion": [
+      401,
+      402,
+      403
+    ],
+    "ExtraDesc": [],
+    "SlotList": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "Icon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceI33.png",
+    "DescParam": [],
+    "TagList": [
+      "Miracle"
+    ],
+    "Rarity": 3,
+    "SurfaceID": 2062,
+    "ItemID": 250561,
+    "Sort": 62,
+    "SurfaceName": {
+      "Hash": 1070187827
+    },
+    "SurfaceDesc": {
+      "Hash": -1775537995
+    },
+    "DiceActiveStage": 1,
+    "UnlockDisplayID": 100
+  },
+  {
+    "BranchLimitaion": [
+      401,
+      402,
+      403
+    ],
+    "ExtraDesc": [
+      61000020,
+      61000018
+    ],
+    "SlotList": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "Icon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceI5.png",
+    "DescParam": [
+      {
+        "Value": 1.0000000002328306
+      }
+    ],
+    "TagList": [
+      "BlockChange"
+    ],
+    "Rarity": 1,
+    "SurfaceID": 2063,
+    "ItemID": 250562,
+    "Sort": 63,
+    "SurfaceName": {
+      "Hash": 1070187828
+    },
+    "SurfaceDesc": {
+      "Hash": -1775537994
+    },
+    "DiceActiveStage": 1,
+    "UnlockDisplayID": 401
+  },
+  {
+    "BranchLimitaion": [
+      401,
+      402,
+      403
+    ],
+    "ExtraDesc": [
+      61000020
+    ],
+    "SlotList": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "Icon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceI5.png",
+    "DescParam": [
+      {
+        "Value": 150.0000000349246
+      }
+    ],
+    "TagList": [
+      "Coin"
+    ],
+    "Rarity": 2,
+    "SurfaceID": 2064,
+    "ItemID": 250563,
+    "Sort": 64,
+    "SurfaceName": {
+      "Hash": 1070187825
+    },
+    "SurfaceDesc": {
+      "Hash": -1775537989
+    },
+    "DiceActiveStage": 2,
+    "UnlockDisplayID": 401
+  },
+  {
+    "BranchLimitaion": [
+      401,
+      402,
+      403
+    ],
+    "ExtraDesc": [
+      61000013,
+      61000014,
+      61000015,
+      61000020
+    ],
+    "SlotList": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "Icon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceI45.png",
+    "DescParam": [
+      {
+        "Value": 100.00000002328306
+      }
+    ],
+    "TagList": [
+      "BlockChange",
+      "Coin"
+    ],
+    "Rarity": 2,
+    "SurfaceID": 2065,
+    "ItemID": 250564,
+    "Sort": 65,
+    "SurfaceName": {
+      "Hash": 1070187826
+    },
+    "SurfaceDesc": {
+      "Hash": -1775537988
+    },
+    "DiceActiveStage": 1,
+    "UnlockDisplayID": 402
+  },
+  {
+    "BranchLimitaion": [
+      401,
+      402,
+      403
+    ],
+    "ExtraDesc": [],
+    "SlotList": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "Icon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceI3.png",
+    "DescParam": [
+      {
+        "Value": 10.000000002328306
+      }
+    ],
+    "TagList": [
+      "Miracle",
+      "Coin"
+    ],
+    "Rarity": 3,
+    "SurfaceID": 2066,
+    "ItemID": 250565,
+    "Sort": 66,
+    "SurfaceName": {
+      "Hash": 1070187823
+    },
+    "SurfaceDesc": {
+      "Hash": -1775537991
+    },
+    "DiceActiveStage": 1,
+    "UnlockDisplayID": 100
+  },
+  {
+    "BranchLimitaion": [
+      401,
+      402,
+      403
+    ],
+    "ExtraDesc": [
+      61000020
+    ],
+    "SlotList": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "Icon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceI7.png",
+    "DescParam": [
+      {
+        "Value": 0.5000000005820766
+      }
+    ],
+    "TagList": [
+      "BuffProMax",
+      "Miracle"
+    ],
+    "Rarity": 3,
+    "SurfaceID": 2067,
+    "ItemID": 250566,
+    "Sort": 67,
+    "SurfaceName": {
+      "Hash": 1070187824
+    },
+    "SurfaceDesc": {
+      "Hash": -1775537990
+    },
+    "DiceActiveStage": 1,
+    "UnlockDisplayID": 401
+  },
+  {
+    "BranchLimitaion": [
+      101,
+      102,
+      103,
+      201,
+      202,
+      203,
+      301,
+      302,
+      303,
+      401,
+      402,
+      403
+    ],
+    "ExtraDesc": [],
+    "SlotList": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "Icon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceI33.png",
+    "DescParam": [
+      {
+        "Value": 200.00000004656613
+      }
+    ],
+    "TagList": [
+      "Coin",
+      "ActionPoint"
+    ],
+    "Rarity": 2,
+    "SurfaceID": 2068,
+    "ItemID": 250567,
+    "Sort": 68,
+    "SurfaceName": {
+      "Hash": 1070187837
+    },
+    "SurfaceDesc": {
+      "Hash": -1775537985
+    },
+    "DiceActiveStage": 1,
+    "UnlockDisplayID": 100
+  },
+  {
+    "BranchLimitaion": [
+      101,
+      102,
+      103,
+      201,
+      202,
+      203,
+      301,
+      302,
+      303,
+      401,
+      402,
+      403
+    ],
+    "ExtraDesc": [],
+    "SlotList": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "Icon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceI32.png",
+    "DescParam": [],
+    "TagList": [
+      "Miracle",
+      "ActionPoint"
+    ],
+    "Rarity": 3,
+    "SurfaceID": 2070,
+    "ItemID": 250569,
+    "Sort": 70,
+    "SurfaceName": {
+      "Hash": -495896112
+    },
+    "SurfaceDesc": {
+      "Hash": 953345362
+    },
+    "DiceActiveStage": 1,
+    "UnlockDisplayID": 100
+  },
+  {
+    "BranchLimitaion": [
+      101,
+      102,
+      103,
+      201,
+      202,
+      203,
+      301,
+      302,
+      303,
+      401,
+      402,
+      403
+    ],
+    "ExtraDesc": [],
+    "SlotList": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "Icon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceI31.png",
+    "DescParam": [
+      {
+        "Value": 1.0000000002328306
+      }
+    ],
+    "TagList": [
+      "Miracle",
+      "ActionPoint"
+    ],
+    "Rarity": 3,
+    "SurfaceID": 2071,
+    "ItemID": 250570,
+    "Sort": 71,
+    "SurfaceName": {
+      "Hash": -495896111
+    },
+    "SurfaceDesc": {
+      "Hash": 953345363
+    },
+    "DiceActiveStage": 1,
+    "UnlockDisplayID": 100
+  },
+  {
+    "BranchLimitaion": [
+      101,
+      102,
+      103,
+      201,
+      202,
+      203,
+      301,
+      302,
+      303,
+      401,
+      402,
+      403
+    ],
+    "ExtraDesc": [
+      61000015,
+      61000014,
+      61000009
+    ],
+    "SlotList": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "Icon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceI36.png",
+    "DescParam": [
+      {
+        "Value": 1.0000000002328306
+      }
+    ],
+    "TagList": [
+      "BlockChange",
+      "ActionPoint"
+    ],
+    "Rarity": 3,
+    "SurfaceID": 2072,
+    "ItemID": 250571,
+    "Sort": 72,
+    "SurfaceName": {
+      "Hash": -495896114
+    },
+    "SurfaceDesc": {
+      "Hash": 953345360
+    },
+    "DiceActiveStage": 1,
+    "UnlockDisplayID": 100
+  },
+  {
+    "BranchLimitaion": [
+      301,
+      302,
+      303
+    ],
+    "ExtraDesc": [
+      61000021
+    ],
+    "SlotList": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "Icon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceI20.png",
+    "DescParam": [
+      {
+        "Value": 1.0000000002328306
+      }
+    ],
+    "TagList": [
+      "SpecialType"
+    ],
+    "Rarity": 1,
+    "SurfaceID": 2073,
+    "ItemID": 250572,
+    "Sort": 73,
+    "SurfaceName": {
+      "Hash": -495896113
+    },
+    "SurfaceDesc": {
+      "Hash": 953345361
+    },
+    "DiceActiveStage": 1,
+    "UnlockDisplayID": 303
+  },
+  {
+    "BranchLimitaion": [
+      101,
+      102,
+      103,
+      201,
+      202,
+      203,
+      301,
+      302,
+      303,
+      401,
+      402,
+      403
+    ],
+    "ExtraDesc": [
+      61000021
+    ],
+    "SlotList": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "Icon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceI19.png",
+    "DescParam": [
+      {
+        "Value": 1.0000000002328306
+      }
+    ],
+    "TagList": [
+      "SpecialType"
+    ],
+    "Rarity": 1,
+    "SurfaceID": 2074,
+    "ItemID": 250573,
+    "Sort": 74,
+    "SurfaceName": {
+      "Hash": -495896116
+    },
+    "SurfaceDesc": {
+      "Hash": 953345366
+    },
+    "DiceActiveStage": 1,
+    "UnlockDisplayID": 100
+  },
+  {
+    "BranchLimitaion": [
+      301,
+      302,
+      303
+    ],
+    "ExtraDesc": [
+      61000021
+    ],
+    "SlotList": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "Icon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceI20.png",
+    "DescParam": [
+      {
+        "Value": 100.00000002328306
+      }
+    ],
+    "TagList": [
+      "SpecialType",
+      "Coin"
+    ],
+    "Rarity": 3,
+    "SurfaceID": 2077,
+    "ItemID": 250576,
+    "Sort": 77,
+    "SurfaceName": {
+      "Hash": -495896117
+    },
+    "SurfaceDesc": {
+      "Hash": 953345365
+    },
+    "DiceActiveStage": 1,
+    "UnlockDisplayID": 100
+  },
+  {
+    "BranchLimitaion": [
+      101,
+      102,
+      103,
+      201,
+      202,
+      203,
+      301,
+      302,
+      303,
+      401,
+      402,
+      403
+    ],
+    "ExtraDesc": [
+      61000021
+    ],
+    "SlotList": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "Icon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceI45.png",
+    "DescParam": [
+      {
+        "Value": 30.00000000698492
+      }
+    ],
+    "TagList": [
+      "SpecialType",
+      "Coin"
+    ],
+    "Rarity": 3,
+    "SurfaceID": 2078,
+    "ItemID": 250577,
+    "Sort": 78,
+    "SurfaceName": {
+      "Hash": -495896104
+    },
+    "SurfaceDesc": {
+      "Hash": 953345370
+    },
+    "DiceActiveStage": 1,
+    "UnlockDisplayID": 100
+  },
+  {
+    "BranchLimitaion": [
+      301,
+      302,
+      303
+    ],
+    "ExtraDesc": [
+      61000021,
+      61000009,
+      61000018
+    ],
+    "SlotList": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "Icon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceI37.png",
+    "DescParam": [],
+    "TagList": [
+      "SpecialType",
+      "BuffProMax"
+    ],
+    "Rarity": 2,
+    "SurfaceID": 2079,
+    "ItemID": 250578,
+    "Sort": 79,
+    "SurfaceName": {
+      "Hash": -495896103
+    },
+    "SurfaceDesc": {
+      "Hash": 953345371
+    },
+    "DiceActiveStage": 1,
+    "UnlockDisplayID": 100
+  },
+  {
+    "BranchLimitaion": [
+      101,
+      102,
+      103,
+      201,
+      202,
+      203,
+      301,
+      302,
+      303,
+      401,
+      402,
+      403
+    ],
+    "ExtraDesc": [],
+    "SlotList": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "Icon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceI46.png",
+    "DescParam": [
+      {
+        "Value": 0.4000000004656613
+      },
+      {
+        "Value": 5.000000001164153
+      },
+      {
+        "Value": 0.08000000009313225
+      }
+    ],
+    "TagList": [
+      "Buff"
+    ],
+    "Rarity": 1,
+    "SurfaceID": 2080,
+    "ItemID": 250579,
+    "Sort": 80,
+    "SurfaceName": {
+      "Hash": -448841945
+    },
+    "SurfaceDesc": {
+      "Hash": -1325199299
+    },
+    "DiceActiveStage": 3,
+    "UnlockDisplayID": 100
+  },
+  {
+    "BranchLimitaion": [
+      101,
+      102,
+      103,
+      201,
+      202,
+      203,
+      301,
+      302,
+      303,
+      401,
+      402,
+      403
+    ],
+    "ExtraDesc": [],
+    "SlotList": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "Icon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceI22.png",
+    "DescParam": [
+      {
+        "Value": 0.30000000034924595
+      },
+      {
+        "Value": 0.30000000034924595
+      },
+      {
+        "Value": 5.000000001164153
+      }
+    ],
+    "TagList": [
+      "Buff"
+    ],
+    "Rarity": 1,
+    "SurfaceID": 2081,
+    "ItemID": 250580,
+    "Sort": 81,
+    "SurfaceName": {
+      "Hash": -448841944
+    },
+    "SurfaceDesc": {
+      "Hash": -1325199298
+    },
+    "DiceActiveStage": 3,
+    "UnlockDisplayID": 100
+  },
+  {
+    "BranchLimitaion": [
+      101,
+      102,
+      103,
+      201,
+      202,
+      203,
+      301,
+      302,
+      303,
+      401,
+      402,
+      403
+    ],
+    "ExtraDesc": [],
+    "SlotList": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "Icon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceI41.png",
+    "DescParam": [
+      {
+        "Value": 1.0000000002328306
+      },
+      {
+        "Value": 5.000000001164153
+      },
+      {
+        "Value": 5.000000001164153
+      }
+    ],
+    "TagList": [
+      "Buff"
+    ],
+    "Rarity": 1,
+    "SurfaceID": 2082,
+    "ItemID": 250581,
+    "Sort": 82,
+    "SurfaceName": {
+      "Hash": -448841947
+    },
+    "SurfaceDesc": {
+      "Hash": -1325199301
+    },
+    "DiceActiveStage": 3,
+    "UnlockDisplayID": 100
+  },
+  {
+    "BranchLimitaion": [
+      101,
+      102,
+      103,
+      201,
+      202,
+      203,
+      301,
+      302,
+      303,
+      401,
+      402,
+      403
+    ],
+    "ExtraDesc": [],
+    "SlotList": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "Icon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceI55.png",
+    "DescParam": [
+      {
+        "Value": 0.2500000002910383
+      },
+      {
+        "Value": 5.000000001164153
+      }
+    ],
+    "TagList": [
+      "Buff"
+    ],
+    "Rarity": 1,
+    "SurfaceID": 2083,
+    "ItemID": 250582,
+    "Sort": 83,
+    "SurfaceName": {
+      "Hash": -448841946
+    },
+    "SurfaceDesc": {
+      "Hash": -1325199300
+    },
+    "DiceActiveStage": 3,
+    "UnlockDisplayID": 100
+  },
+  {
+    "BranchLimitaion": [
+      101,
+      102,
+      103,
+      201,
+      202,
+      203,
+      301,
+      302,
+      303,
+      401,
+      402,
+      403
+    ],
+    "ExtraDesc": [],
+    "SlotList": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "Icon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceI27.png",
+    "DescParam": [
+      {
+        "Value": 0.4000000004656613
+      },
+      {
+        "Value": 5.000000001164153
+      }
+    ],
+    "TagList": [
+      "Buff"
+    ],
+    "Rarity": 1,
+    "SurfaceID": 2084,
+    "ItemID": 250583,
+    "Sort": 84,
+    "SurfaceName": {
+      "Hash": -448841949
+    },
+    "SurfaceDesc": {
+      "Hash": -1325199295
+    },
+    "DiceActiveStage": 3,
+    "UnlockDisplayID": 101
+  },
+  {
+    "BranchLimitaion": [
+      101,
+      102,
+      103,
+      201,
+      202,
+      203,
+      301,
+      302,
+      303,
+      401,
+      402,
+      403
+    ],
+    "ExtraDesc": [],
+    "SlotList": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "Icon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceI44.png",
+    "DescParam": [
+      {
+        "Value": 0.3500000004074536
+      },
+      {
+        "Value": 5.000000001164153
+      }
+    ],
+    "TagList": [
+      "Buff"
+    ],
+    "Rarity": 1,
+    "SurfaceID": 2085,
+    "ItemID": 250584,
+    "Sort": 85,
+    "SurfaceName": {
+      "Hash": -448841948
+    },
+    "SurfaceDesc": {
+      "Hash": -1325199294
+    },
+    "DiceActiveStage": 3,
+    "UnlockDisplayID": 100
+  },
+  {
+    "BranchLimitaion": [
+      101,
+      102,
+      103,
+      201,
+      202,
+      203,
+      301,
+      302,
+      303,
+      401,
+      402,
+      403
+    ],
+    "ExtraDesc": [],
+    "SlotList": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "Icon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceI34.png",
+    "DescParam": [
+      {
+        "Value": 1.0000000002328306
+      },
+      {
+        "Value": 5.000000001164153
+      }
+    ],
+    "TagList": [
+      "Buff"
+    ],
+    "Rarity": 1,
+    "SurfaceID": 2086,
+    "ItemID": 250585,
+    "Sort": 86,
+    "SurfaceName": {
+      "Hash": -448841951
+    },
+    "SurfaceDesc": {
+      "Hash": -1325199297
+    },
+    "DiceActiveStage": 3,
+    "UnlockDisplayID": 100
+  },
+  {
+    "BranchLimitaion": [
+      101,
+      102,
+      103,
+      201,
+      202,
+      203,
+      301,
+      302,
+      303,
+      401,
+      402,
+      403
+    ],
+    "ExtraDesc": [],
+    "SlotList": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "Icon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceI60.png",
+    "DescParam": [
+      {
+        "Value": 3.000000000698492
+      },
+      {
+        "Value": 5.000000001164153
+      }
+    ],
+    "TagList": [
+      "Buff"
+    ],
+    "Rarity": 1,
+    "SurfaceID": 2087,
+    "ItemID": 250586,
+    "Sort": 87,
+    "SurfaceName": {
+      "Hash": -448841950
+    },
+    "SurfaceDesc": {
+      "Hash": -1325199296
+    },
+    "DiceActiveStage": 3,
+    "UnlockDisplayID": 101
+  },
+  {
+    "BranchLimitaion": [
+      101,
+      102,
+      103,
+      201,
+      202,
+      203,
+      301,
+      302,
+      303,
+      401,
+      402,
+      403
+    ],
+    "ExtraDesc": [],
+    "SlotList": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "Icon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceI51.png",
+    "DescParam": [
+      {
+        "Value": 1.0000000002328306
+      },
+      {
+        "Value": 2.0000000004656613
+      },
+      {
+        "Value": 5.000000001164153
+      }
+    ],
+    "TagList": [
+      "Buff"
+    ],
+    "Rarity": 1,
+    "SurfaceID": 2088,
+    "ItemID": 250587,
+    "Sort": 88,
+    "SurfaceName": {
+      "Hash": -448841937
+    },
+    "SurfaceDesc": {
+      "Hash": -1325199291
+    },
+    "DiceActiveStage": 3,
+    "UnlockDisplayID": 403
+  },
+  {
+    "BranchLimitaion": [
+      101,
+      102,
+      103,
+      201,
+      202,
+      203,
+      301,
+      302,
+      303,
+      401,
+      402,
+      403
+    ],
+    "ExtraDesc": [],
+    "SlotList": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "Icon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceI59.png",
+    "DescParam": [
+      {
+        "Value": 0.2500000002910383
+      },
+      {
+        "Value": 5.000000001164153
+      }
+    ],
+    "TagList": [
+      "Buff"
+    ],
+    "Rarity": 1,
+    "SurfaceID": 2089,
+    "ItemID": 250588,
+    "Sort": 89,
+    "SurfaceName": {
+      "Hash": -448841936
+    },
+    "SurfaceDesc": {
+      "Hash": -1325199290
+    },
+    "DiceActiveStage": 3,
+    "UnlockDisplayID": 100
+  },
+  {
+    "BranchLimitaion": [
+      101,
+      102,
+      103,
+      201,
+      202,
+      203,
+      301,
+      302,
+      303,
+      401,
+      402,
+      403
+    ],
+    "ExtraDesc": [],
+    "SlotList": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "Icon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceI54.png",
+    "DescParam": [
+      {
+        "Value": 0.08000000009313225
+      },
+      {
+        "Value": 5.000000001164153
+      }
+    ],
+    "TagList": [
+      "Buff"
+    ],
+    "Rarity": 1,
+    "SurfaceID": 2090,
+    "ItemID": 250589,
+    "Sort": 90,
+    "SurfaceName": {
+      "Hash": -2014925886
+    },
+    "SurfaceDesc": {
+      "Hash": 1403684056
+    },
+    "DiceActiveStage": 3,
+    "UnlockDisplayID": 403
+  },
+  {
+    "BranchLimitaion": [
+      101,
+      102,
+      103,
+      201,
+      202,
+      203,
+      301,
+      302,
+      303,
+      401,
+      402,
+      403
+    ],
+    "ExtraDesc": [
+      61000021
+    ],
+    "SlotList": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "Icon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceI61.png",
+    "DescParam": [
+      {
+        "Value": 0.15000000017462298
+      },
+      {
+        "Value": 0.6000000006984919
+      }
+    ],
+    "TagList": [
+      "Buff"
+    ],
+    "Rarity": 1,
+    "SurfaceID": 2091,
+    "ItemID": 250590,
+    "Sort": 91,
+    "SurfaceName": {
+      "Hash": -2014925885
+    },
+    "SurfaceDesc": {
+      "Hash": 1403684057
+    },
+    "DiceActiveStage": 3,
+    "UnlockDisplayID": 100
+  },
+  {
+    "BranchLimitaion": [
+      101,
+      102,
+      103,
+      201,
+      202,
+      203,
+      301,
+      302,
+      303,
+      401,
+      402,
+      403
+    ],
+    "ExtraDesc": [],
+    "SlotList": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "Icon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceI29.png",
+    "DescParam": [
+      {
+        "Value": 0.4000000004656613
+      },
+      {
+        "Value": 0.04000000004656613
+      },
+      {
+        "Value": 5.000000001164153
+      }
+    ],
+    "TagList": [
+      "Buff"
+    ],
+    "Rarity": 1,
+    "SurfaceID": 2092,
+    "ItemID": 250591,
+    "Sort": 92,
+    "SurfaceName": {
+      "Hash": -2014925888
+    },
+    "SurfaceDesc": {
+      "Hash": 1403684054
+    },
+    "DiceActiveStage": 3,
+    "UnlockDisplayID": 403
+  },
+  {
+    "BranchLimitaion": [
+      101,
+      102,
+      103,
+      201,
+      202,
+      203,
+      301,
+      302,
+      303,
+      401,
+      402,
+      403
+    ],
+    "ExtraDesc": [],
+    "SlotList": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "Icon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceI42.png",
+    "DescParam": [
+      {
+        "Value": 0.30000000034924595
+      },
+      {
+        "Value": 0.030000000034924597
+      },
+      {
+        "Value": 5.000000001164153
+      }
+    ],
+    "TagList": [
+      "Buff"
+    ],
+    "Rarity": 1,
+    "SurfaceID": 2093,
+    "ItemID": 250592,
+    "Sort": 93,
+    "SurfaceName": {
+      "Hash": -2014925887
+    },
+    "SurfaceDesc": {
+      "Hash": 1403684055
+    },
+    "DiceActiveStage": 3,
+    "UnlockDisplayID": 403
+  },
+  {
+    "BranchLimitaion": [
+      101,
+      102,
+      103,
+      201,
+      202,
+      203,
+      301,
+      302,
+      303,
+      401,
+      402,
+      403
+    ],
+    "ExtraDesc": [
+      61000016,
+      61000024,
+      61000015,
+      61000025,
+      61000026
+    ],
+    "SlotList": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "Icon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceI59.png",
+    "DescParam": [
+      {
+        "Value": 2.0000000004656613
+      }
+    ],
+    "TagList": [
+      "Mark"
+    ],
+    "Rarity": 2,
+    "SurfaceID": 2101,
+    "ItemID": 250594,
+    "Sort": 101,
+    "SurfaceName": {
+      "Hash": -92611489
+    },
+    "SurfaceDesc": {
+      "Hash": -968968843
+    },
+    "DiceActiveStage": 1,
+    "UnlockDisplayID": 201
+  },
+  {
+    "BranchLimitaion": [
+      101,
+      102,
+      103,
+      201,
+      202,
+      203,
+      301,
+      302,
+      303,
+      401,
+      402,
+      403
+    ],
+    "ExtraDesc": [],
+    "SlotList": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "Icon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceI60.png",
+    "DescParam": [
+      {
+        "Value": 150.0000000349246
+      }
+    ],
+    "TagList": [
+      "Mark",
+      "Coin"
+    ],
+    "Rarity": 2,
+    "SurfaceID": 2102,
+    "ItemID": 250595,
+    "Sort": 102,
+    "SurfaceName": {
+      "Hash": -92611490
+    },
+    "SurfaceDesc": {
+      "Hash": -968968844
+    },
+    "DiceActiveStage": 1,
+    "UnlockDisplayID": 100
+  },
+  {
+    "BranchLimitaion": [
+      201,
+      202,
+      203
+    ],
+    "ExtraDesc": [
+      61000013,
+      61000015
+    ],
+    "SlotList": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "Icon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceI48.png",
+    "DescParam": [],
+    "TagList": [
+      "Move"
+    ],
+    "Rarity": 2,
+    "SurfaceID": 2103,
+    "ItemID": 250596,
+    "Sort": 103,
+    "SurfaceName": {
+      "Hash": -92611491
+    },
+    "SurfaceDesc": {
+      "Hash": -968968845
+    },
+    "DiceActiveStage": 1,
+    "UnlockDisplayID": 202
+  }
+]

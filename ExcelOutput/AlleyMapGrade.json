@@ -1,0 +1,37 @@
+[
+  {
+    "GradeConditions": [],
+    "MapConfig": "Config/Gameplays/Alley/AlleyLogistics/AlleyGridLevel_Tutorial.json",
+    "MapID": 1,
+    "GradeID": 101
+  },
+  {
+    "GradeConditions": [
+      {
+        "MPNJPFDCBDG": "FinishMainMission",
+        "BPGOFIPCNLA": 8003202
+      }
+    ],
+    "MapConfig": "Config/Gameplays/Alley/AlleyLogistics/AlleyGridLevel_0.json",
+    "MapID": 1,
+    "GradeID": 102
+  },
+  {
+    "GradeConditions": [],
+    "MapConfig": "Config/Gameplays/Alley/AlleyLogistics/AlleyGridLevel_1.json",
+    "MapID": 2,
+    "GradeID": 201
+  },
+  {
+    "GradeConditions": [],
+    "MapConfig": "Config/Gameplays/Alley/AlleyLogistics/AlleyGridLevel_2.json",
+    "MapID": 3,
+    "GradeID": 301
+  },
+  {
+    "GradeConditions": [],
+    "MapConfig": "Config/Gameplays/Alley/AlleyLogistics/AlleyGridLevel_3.json",
+    "MapID": 4,
+    "GradeID": 401
+  }
+]

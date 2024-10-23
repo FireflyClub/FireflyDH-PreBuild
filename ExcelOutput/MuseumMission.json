@@ -1,0 +1,149 @@
+[
+  {
+    "TypeParameter": [
+      1,
+      5,
+      1
+    ],
+    "Type": "AreaLevel",
+    "MuseumMissionID": 11
+  },
+  {
+    "TypeParameter": [
+      0,
+      3
+    ],
+    "Type": "PerfectTurn",
+    "MuseumMissionID": 12
+  },
+  {
+    "TypeParameter": [
+      1,
+      4,
+      2
+    ],
+    "Type": "AreaLevel",
+    "MuseumMissionID": 21
+  },
+  {
+    "TypeParameter": [
+      1,
+      8,
+      1
+    ],
+    "Type": "AreaLevel",
+    "MuseumMissionID": 22
+  },
+  {
+    "TypeParameter": [
+      10
+    ],
+    "Type": "StuffCnt",
+    "MuseumMissionID": 31
+  },
+  {
+    "TypeParameter": [
+      5
+    ],
+    "Type": "ExhibitCnt",
+    "MuseumMissionID": 32
+  },
+  {
+    "TypeParameter": [
+      1,
+      4,
+      3
+    ],
+    "Type": "AreaLevel",
+    "MuseumMissionID": 33
+  },
+  {
+    "TypeParameter": [
+      1,
+      7,
+      2
+    ],
+    "Type": "AreaLevel",
+    "MuseumMissionID": 34
+  },
+  {
+    "TypeParameter": [
+      1,
+      11,
+      1
+    ],
+    "Type": "AreaLevel",
+    "MuseumMissionID": 35
+  },
+  {
+    "TypeParameter": [
+      1,
+      1
+    ],
+    "Type": "PerfectTurn",
+    "MuseumMissionID": 41
+  },
+  {
+    "TypeParameter": [
+      1,
+      9,
+      2
+    ],
+    "Type": "AreaLevel",
+    "MuseumMissionID": 42
+  },
+  {
+    "TypeParameter": [
+      1,
+      7,
+      3
+    ],
+    "Type": "AreaLevel",
+    "MuseumMissionID": 43
+  },
+  {
+    "TypeParameter": [
+      1,
+      3,
+      4
+    ],
+    "Type": "AreaLevel",
+    "MuseumMissionID": 44
+  },
+  {
+    "TypeParameter": [
+      1,
+      15,
+      1
+    ],
+    "Type": "AreaLevel",
+    "MuseumMissionID": 51
+  },
+  {
+    "TypeParameter": [
+      1,
+      12,
+      2
+    ],
+    "Type": "AreaLevel",
+    "MuseumMissionID": 52
+  },
+  {
+    "TypeParameter": [
+      1,
+      9,
+      3
+    ],
+    "Type": "AreaLevel",
+    "MuseumMissionID": 53
+  },
+  {
+    "TypeParameter": [
+      1,
+      6,
+      4
+    ],
+    "Type": "AreaLevel",
+    "MuseumMissionID": 54
+  }
+]

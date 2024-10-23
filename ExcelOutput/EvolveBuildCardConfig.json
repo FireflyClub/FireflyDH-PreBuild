@@ -1,0 +1,94 @@
+[
+  {
+    "ParamList": [],
+    "ItemIcon": "SpriteOutput/Quest/EvolveBuild/EvolveBuildBuffIcon/EvolveBuildBuffIcon3.png",
+    "InfluenceScope": "ForPeriod",
+    "ID": 3106703,
+    "LvID": 31067031,
+    "Type": "Growth"
+  },
+  {
+    "ParamList": [],
+    "ItemIcon": "SpriteOutput/Quest/EvolveBuild/EvolveBuildBuffIcon/EvolveBuildBuffIcon8.png",
+    "InfluenceScope": "ForPeriod",
+    "ID": 3106704,
+    "LvID": 31067041,
+    "Type": "Power"
+  },
+  {
+    "ParamList": [],
+    "ItemIcon": "SpriteOutput/BuffIcon/ActivityFantasticStoryBuff/ActivityBattleBuff102.png",
+    "InfluenceScope": "ForPeriod",
+    "ID": 3106705,
+    "LvID": 31067051,
+    "Type": "Power"
+  },
+  {
+    "ParamList": [],
+    "ItemIcon": "SpriteOutput/BuffIcon/ActivityFantasticStoryBuff/ActivityBattleBuff114.png",
+    "InfluenceScope": "ForPeriod",
+    "ID": 3106706,
+    "LvID": 31067061,
+    "Type": "Power"
+  },
+  {
+    "ParamList": [],
+    "ItemIcon": "SpriteOutput/Quest/EvolveBuild/EvolveBuildBuffIcon/EvolveBuildBuffIcon9.png",
+    "InfluenceScope": "ForPeriod",
+    "ID": 3106707,
+    "LvID": 31067071,
+    "Type": "Growth"
+  },
+  {
+    "ParamList": [],
+    "ItemIcon": "SpriteOutput/Quest/EvolveBuild/EvolveBuildBuffIcon/EvolveBuildBuffIcon4.png",
+    "InfluenceScope": "ForPeriod",
+    "ID": 3106708,
+    "LvID": 31067081,
+    "Type": "Growth"
+  },
+  {
+    "ParamList": [],
+    "ItemIcon": "SpriteOutput/BuffIcon/ActivityFantasticStoryBuff/ActivityBattleBuff111.png",
+    "InfluenceScope": "ForPeriod",
+    "ID": 3106710,
+    "LvID": 31067101,
+    "Type": "Survival"
+  },
+  {
+    "ParamList": [],
+    "ItemIcon": "SpriteOutput/BuffIcon/ActivityFantasticStoryBuff/ActivityBattleBuff101.png",
+    "InfluenceScope": "ForPeriod",
+    "ID": 3106711,
+    "LvID": 31067111,
+    "Type": "Survival"
+  },
+  {
+    "ParamList": [
+      {
+        "Value": 2.0000000004656613
+      }
+    ],
+    "ItemIcon": "SpriteOutput/BuffIcon/ActivityFantasticStoryBuff/ActivityBattleBuff107.png",
+    "InfluenceScope": "ForLevel",
+    "ID": 3106712,
+    "LvID": 31067121,
+    "Type": "Survival"
+  },
+  {
+    "ParamList": [],
+    "ItemIcon": "SpriteOutput/Quest/EvolveBuild/EvolveBuildBuffIcon/EvolveBuildBuffIcon10.png",
+    "InfluenceScope": "ForPeriod",
+    "ID": 3106713,
+    "LvID": 31067131,
+    "Type": "Growth"
+  },
+  {
+    "ParamList": [],
+    "ItemIcon": "SpriteOutput/Quest/EvolveBuild/EvolveBuildBuffIcon/EvolveBuildBuffIcon5.png",
+    "InfluenceScope": "ForPeriod",
+    "ID": 3106714,
+    "LvID": 31067141,
+    "Type": "Survival"
+  }
+]

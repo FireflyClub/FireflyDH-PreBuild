@@ -1,0 +1,405 @@
+[
+  {
+    "ExtraEffect": [
+      61000002,
+      61000018,
+      61000019
+    ],
+    "EffectParam3": [
+      0,
+      2
+    ],
+    "EntrancePrefabPath": "UI/Rogue/DLC/Dice/Widget/BtnGenreDice1.prefab",
+    "EffectParam4": [
+      200620,
+      3,
+      10003
+    ],
+    "EffectParam1": [
+      641200
+    ],
+    "DescParam": [
+      {
+        "Value": 2.0000000004656613
+      },
+      {
+        "Value": 0.04000000004656613
+      },
+      {
+        "Value": 1.0000000002328306
+      }
+    ],
+    "EffectParam2": [
+      0
+    ],
+    "Sort": 1,
+    "EffectType3": "ProtectCellNoCollapse",
+    "BattleEventBuffGroup": 12004,
+    "AeonID": 1,
+    "BattleEventEnhanceBuffGroup": 12005,
+    "RogueAeonDisplayID": 1,
+    "EffectType1": "AddMazeBuff",
+    "EffectType2": "None",
+    "UnlockID": 1000018,
+    "EffectDesc2": {
+      "Hash": 371857150
+    },
+    "EffectDesc1": {
+      "Hash": 371857150
+    },
+    "AeonDiceID": 1,
+    "PlayShortDesc": {
+      "Hash": 1769858592
+    },
+    "RogueBuffType": 120,
+    "EffectDesc3": {
+      "Hash": 1928934468
+    }
+  },
+  {
+    "ExtraEffect": [
+      61000004
+    ],
+    "EffectParam3": [
+      0,
+      2
+    ],
+    "EntrancePrefabPath": "UI/Rogue/DLC/Dice/Widget/BtnGenreDice2.prefab",
+    "EffectParam4": [],
+    "EffectParam1": [
+      641210
+    ],
+    "DescParam": [
+      {
+        "Value": 2.0000000004656613
+      },
+      {
+        "Value": 0.2500000002910383
+      }
+    ],
+    "EffectParam2": [
+      0
+    ],
+    "Sort": 2,
+    "EffectType3": "ExtraMoneyAndRandomSwap",
+    "BattleEventBuffGroup": 12104,
+    "AeonID": 2,
+    "BattleEventEnhanceBuffGroup": 12105,
+    "RogueAeonDisplayID": 2,
+    "EffectType1": "AddMazeBuff",
+    "EffectType2": "None",
+    "UnlockID": 1000016,
+    "EffectDesc2": {
+      "Hash": 371857150
+    },
+    "EffectDesc1": {
+      "Hash": 371857150
+    },
+    "AeonDiceID": 2,
+    "PlayShortDesc": {
+      "Hash": -959024763
+    },
+    "RogueBuffType": 121,
+    "EffectDesc3": {
+      "Hash": 362850527
+    }
+  },
+  {
+    "ExtraEffect": [
+      61000009
+    ],
+    "EffectParam3": [
+      2
+    ],
+    "EntrancePrefabPath": "UI/Rogue/DLC/Dice/Widget/BtnGenreDice3.prefab",
+    "EffectParam4": [],
+    "EffectParam1": [
+      641220
+    ],
+    "DescParam": [
+      {
+        "Value": 2.0000000004656613
+      },
+      {
+        "Value": 0.18000000020954757
+      }
+    ],
+    "EffectParam2": [
+      0
+    ],
+    "Sort": 6,
+    "EffectType3": "ReRandomEmptyCell",
+    "BattleEventBuffGroup": 12204,
+    "AeonID": 3,
+    "BattleEventEnhanceBuffGroup": 12205,
+    "RogueAeonDisplayID": 3,
+    "EffectType1": "AddMazeBuff",
+    "EffectType2": "None",
+    "UnlockID": 1000013,
+    "EffectDesc2": {
+      "Hash": 371857150
+    },
+    "EffectDesc1": {
+      "Hash": 371857150
+    },
+    "AeonDiceID": 3,
+    "PlayShortDesc": {
+      "Hash": 607059178
+    },
+    "RogueBuffType": 122,
+    "EffectDesc3": {
+      "Hash": -1203233414
+    }
+  },
+  {
+    "ExtraEffect": [
+      61000003
+    ],
+    "EffectParam3": [
+      1,
+      2
+    ],
+    "EntrancePrefabPath": "UI/Rogue/DLC/Dice/Widget/BtnGenreDice4.prefab",
+    "EffectParam4": [
+      2
+    ],
+    "EffectParam1": [
+      641230
+    ],
+    "DescParam": [
+      {
+        "Value": 2.0000000004656613
+      },
+      {
+        "Value": 0.050000000058207664
+      },
+      {
+        "Value": 1.0000000002328306
+      },
+      {
+        "Value": 2.0000000004656613
+      }
+    ],
+    "EffectParam2": [
+      0
+    ],
+    "Sort": 7,
+    "EffectType3": "FertileAeonGain",
+    "BattleEventBuffGroup": 12304,
+    "AeonID": 4,
+    "BattleEventEnhanceBuffGroup": 12305,
+    "RogueAeonDisplayID": 4,
+    "EffectType1": "AddMazeBuff",
+    "EffectType2": "None",
+    "UnlockID": 1000014,
+    "EffectDesc2": {
+      "Hash": 371857150
+    },
+    "EffectDesc1": {
+      "Hash": 371857150
+    },
+    "AeonDiceID": 4,
+    "PlayShortDesc": {
+      "Hash": -1765593817
+    },
+    "RogueBuffType": 123,
+    "EffectDesc3": {
+      "Hash": 1525649941
+    }
+  },
+  {
+    "ExtraEffect": [
+      61000007,
+      61000008
+    ],
+    "EffectParam3": [
+      1,
+      1
+    ],
+    "EntrancePrefabPath": "UI/Rogue/DLC/Dice/Widget/BtnGenreDice5.prefab",
+    "EffectParam4": [
+      2,
+      5
+    ],
+    "EffectParam1": [
+      641240
+    ],
+    "DescParam": [
+      {
+        "Value": 0.30000000034924595
+      }
+    ],
+    "EffectParam2": [
+      0
+    ],
+    "Sort": 4,
+    "EffectType3": "ExtraMarkAndRandomSwap",
+    "BattleEventBuffGroup": 12404,
+    "AeonID": 5,
+    "BattleEventEnhanceBuffGroup": 12405,
+    "RogueAeonDisplayID": 5,
+    "EffectType1": "AddMazeBuff",
+    "EffectType2": "None",
+    "UnlockID": 1000017,
+    "EffectDesc2": {
+      "Hash": 371857150
+    },
+    "EffectDesc1": {
+      "Hash": 371857150
+    },
+    "AeonDiceID": 5,
+    "PlayShortDesc": {
+      "Hash": -199509876
+    },
+    "RogueBuffType": 124,
+    "EffectDesc3": {
+      "Hash": -40434000
+    }
+  },
+  {
+    "ExtraEffect": [
+      61000013
+    ],
+    "EffectParam3": [
+      2,
+      5
+    ],
+    "EntrancePrefabPath": "UI/Rogue/DLC/Dice/Widget/BtnGenreDice6.prefab",
+    "EffectParam4": [
+      200720,
+      3,
+      10007
+    ],
+    "EffectParam1": [
+      641250
+    ],
+    "DescParam": [
+      {
+        "Value": 2.0000000004656613
+      },
+      {
+        "Value": 0.08000000009313225
+      },
+      {
+        "Value": 1.0000000002328306
+      }
+    ],
+    "EffectParam2": [
+      0
+    ],
+    "Sort": 5,
+    "EffectType3": "DestroyAeonGain",
+    "BattleEventBuffGroup": 12504,
+    "AeonID": 6,
+    "BattleEventEnhanceBuffGroup": 12505,
+    "RogueAeonDisplayID": 6,
+    "EffectType1": "AddMazeBuff",
+    "EffectType2": "None",
+    "UnlockID": 0,
+    "EffectDesc2": {
+      "Hash": 371857150
+    },
+    "EffectDesc1": {
+      "Hash": 371857150
+    },
+    "AeonDiceID": 6,
+    "PlayShortDesc": {
+      "Hash": 1366574065
+    },
+    "RogueBuffType": 125,
+    "EffectDesc3": {
+      "Hash": -1606517941
+    }
+  },
+  {
+    "ExtraEffect": [
+      61000018,
+      61000019
+    ],
+    "EffectParam3": [
+      200620,
+      3,
+      10004
+    ],
+    "EntrancePrefabPath": "UI/Rogue/DLC/Dice/Widget/BtnGenreDice7.prefab",
+    "EffectParam4": [
+      20002,
+      3
+    ],
+    "EffectParam1": [
+      641260
+    ],
+    "DescParam": [],
+    "EffectParam2": [
+      0
+    ],
+    "Sort": 3,
+    "EffectType3": "GetHelpOnEnterCell",
+    "BattleEventBuffGroup": 12604,
+    "AeonID": 7,
+    "BattleEventEnhanceBuffGroup": 12605,
+    "RogueAeonDisplayID": 7,
+    "EffectType1": "AddMazeBuff",
+    "EffectType2": "None",
+    "UnlockID": 1000015,
+    "EffectDesc2": {
+      "Hash": 371857150
+    },
+    "EffectDesc1": {
+      "Hash": 371857150
+    },
+    "AeonDiceID": 7,
+    "PlayShortDesc": {
+      "Hash": -1362309290
+    },
+    "RogueBuffType": 126,
+    "EffectDesc3": {
+      "Hash": 1122365414
+    }
+  },
+  {
+    "ExtraEffect": [
+      61000012,
+      61000017
+    ],
+    "EffectParam3": [
+      610031
+    ],
+    "EntrancePrefabPath": "UI/Rogue/DLC/Dice/Widget/BtnGenreDice8.prefab",
+    "EffectParam4": [],
+    "EffectParam1": [
+      641270
+    ],
+    "DescParam": [
+      {
+        "Value": 0.20000000023283065
+      }
+    ],
+    "EffectParam2": [
+      0
+    ],
+    "Sort": 8,
+    "EffectType3": "RandomGenSwarm",
+    "BattleEventBuffGroup": 12704,
+    "AeonID": 8,
+    "BattleEventEnhanceBuffGroup": 12705,
+    "RogueAeonDisplayID": 8,
+    "EffectType1": "AddMazeBuff",
+    "EffectType2": "None",
+    "UnlockID": 1000008,
+    "EffectDesc2": {
+      "Hash": 371857150
+    },
+    "EffectDesc1": {
+      "Hash": 371857150
+    },
+    "AeonDiceID": 8,
+    "PlayShortDesc": {
+      "Hash": 560005011
+    },
+    "RogueBuffType": 127,
+    "EffectDesc3": {
+      "Hash": -1156179247
+    }
+  }
+]

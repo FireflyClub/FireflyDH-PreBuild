@@ -1,0 +1,211 @@
+[
+  {
+    "RaceBgFigurePath": "SpriteOutput/UI/Quest/AetherDivide/ADIcon04.png",
+    "DetailImgPath": "SpriteOutput/Quest/FightFest/Monster/FightFestMonsterBig1.png",
+    "TutorialImgPath": "SpriteOutput/Quest/FightFest/Monster/HeadIcon/MonsterRoundIcon1.png",
+    "ResultImgPath": "SpriteOutput/Quest/FightFest/Monster/Middle/FightFestMonsterMiddle1.png",
+    "EventIDList": [
+      419101
+    ],
+    "BlueAvatarID": 1,
+    "RaceDesc": {
+      "Hash": -207466863
+    },
+    "TakeMainMissionID": 8025132,
+    "RedAvatarID": 8,
+    "RewardScore": 300,
+    "RewardID": 251001,
+    "PhaseID": 203,
+    "StageName": {
+      "Hash": 1666557124
+    },
+    "EventID": 419101,
+    "ScoreRaceID": 2002,
+    "SortWeight": 6,
+    "ScoreRaceType": "Score",
+    "TutorialID": 8188
+  },
+  {
+    "RaceBgFigurePath": "SpriteOutput/UI/Quest/AetherDivide/ADIcon04.png",
+    "DetailImgPath": "SpriteOutput/Quest/FightFest/Monster/FightFestMonsterBig2.png",
+    "TutorialImgPath": "SpriteOutput/Quest/FightFest/Monster/HeadIcon/MonsterRoundIcon2.png",
+    "ResultImgPath": "SpriteOutput/Quest/FightFest/Monster/Middle/FightFestMonsterMiddle2.png",
+    "EventIDList": [
+      419103
+    ],
+    "BlueAvatarID": 1,
+    "RaceDesc": {
+      "Hash": -1773550804
+    },
+    "TakeMainMissionID": 8025133,
+    "RedAvatarID": 9,
+    "RewardScore": 100,
+    "RewardID": 251002,
+    "PhaseID": 201,
+    "StageName": {
+      "Hash": 1666557123
+    },
+    "EventID": 419103,
+    "ScoreRaceID": 2003,
+    "SortWeight": 2,
+    "ScoreRaceType": "Score",
+    "TutorialID": 8189
+  },
+  {
+    "RaceBgFigurePath": "SpriteOutput/UI/Quest/AetherDivide/ADIcon04.png",
+    "DetailImgPath": "SpriteOutput/Quest/FightFest/Monster/FightFestMonsterBig3.png",
+    "TutorialImgPath": "SpriteOutput/Quest/FightFest/Monster/HeadIcon/MonsterRoundIcon3.png",
+    "ResultImgPath": "SpriteOutput/Quest/FightFest/Monster/Middle/FightFestMonsterMiddle3.png",
+    "EventIDList": [
+      419102,
+      419104
+    ],
+    "BlueAvatarID": 1,
+    "RaceDesc": {
+      "Hash": -1014035917
+    },
+    "TakeMainMissionID": 8025134,
+    "RedAvatarID": 13,
+    "RewardScore": 0,
+    "RewardID": 251007,
+    "PhaseID": 202,
+    "StageName": {
+      "Hash": 1666557126
+    },
+    "EventID": 419104,
+    "ScoreRaceID": 2004,
+    "SortWeight": 5,
+    "ScoreRaceType": "Special",
+    "TutorialID": 8204
+  },
+  {
+    "RaceBgFigurePath": "SpriteOutput/UI/Quest/AetherDivide/ADIcon04.png",
+    "DetailImgPath": "SpriteOutput/Quest/FightFest/Monster/FightFestMonsterBig4.png",
+    "TutorialImgPath": "SpriteOutput/Quest/FightFest/Monster/HeadIcon/MonsterRoundIcon4.png",
+    "ResultImgPath": "SpriteOutput/Quest/FightFest/Monster/Middle/FightFestMonsterMiddle4.png",
+    "EventIDList": [
+      419105
+    ],
+    "BlueAvatarID": 1,
+    "RaceDesc": {
+      "Hash": 1714847438
+    },
+    "TakeMainMissionID": 8025135,
+    "RedAvatarID": 11,
+    "RewardScore": 100,
+    "RewardID": 251003,
+    "PhaseID": 201,
+    "StageName": {
+      "Hash": 1666557125
+    },
+    "EventID": 419105,
+    "ScoreRaceID": 2005,
+    "SortWeight": 1,
+    "ScoreRaceType": "Score",
+    "TutorialID": 8200
+  },
+  {
+    "RaceBgFigurePath": "SpriteOutput/UI/Quest/AetherDivide/ADIcon04.png",
+    "DetailImgPath": "SpriteOutput/Quest/FightFest/Monster/FightFestMonsterBig5.png",
+    "TutorialImgPath": "SpriteOutput/Quest/FightFest/Monster/HeadIcon/MonsterRoundIcon5.png",
+    "ResultImgPath": "SpriteOutput/Quest/FightFest/Monster/Middle/FightFestMonsterMiddle5.png",
+    "EventIDList": [
+      419106
+    ],
+    "BlueAvatarID": 1,
+    "RaceDesc": {
+      "Hash": 2118131965
+    },
+    "TakeMainMissionID": 8025136,
+    "RedAvatarID": 12,
+    "RewardScore": 200,
+    "RewardID": 251004,
+    "PhaseID": 202,
+    "StageName": {
+      "Hash": 1666557128
+    },
+    "EventID": 419106,
+    "ScoreRaceID": 2006,
+    "SortWeight": 3,
+    "ScoreRaceType": "Score",
+    "TutorialID": 8201
+  },
+  {
+    "RaceBgFigurePath": "SpriteOutput/UI/Quest/AetherDivide/ADIcon04.png",
+    "DetailImgPath": "SpriteOutput/Quest/FightFest/Monster/FightFestMonsterBig6.png",
+    "TutorialImgPath": "SpriteOutput/Quest/FightFest/Monster/HeadIcon/MonsterRoundIcon6.png",
+    "ResultImgPath": "SpriteOutput/Quest/FightFest/Monster/Middle/FightFestMonsterMiddle6.png",
+    "EventIDList": [
+      419107
+    ],
+    "BlueAvatarID": 1,
+    "RaceDesc": {
+      "Hash": 552048024
+    },
+    "TakeMainMissionID": 8025137,
+    "RedAvatarID": 10,
+    "RewardScore": 0,
+    "RewardID": 251008,
+    "PhaseID": 203,
+    "StageName": {
+      "Hash": 1666557127
+    },
+    "EventID": 419107,
+    "ScoreRaceID": 2007,
+    "SortWeight": 8,
+    "ScoreRaceType": "Special",
+    "TutorialID": 8206
+  },
+  {
+    "RaceBgFigurePath": "SpriteOutput/UI/Quest/AetherDivide/ADIcon04.png",
+    "DetailImgPath": "SpriteOutput/Quest/FightFest/Monster/FightFestMonsterSmall7.png",
+    "TutorialImgPath": "SpriteOutput/Quest/FightFest/Monster/HeadIcon/MonsterRoundIcon7.png",
+    "ResultImgPath": "SpriteOutput/Quest/FightFest/Monster/Middle/FightFestMonsterMiddle7.png",
+    "EventIDList": [
+      419108
+    ],
+    "BlueAvatarID": 1,
+    "RaceDesc": {
+      "Hash": 599102191
+    },
+    "TakeMainMissionID": 8025138,
+    "RedAvatarID": 14,
+    "RewardScore": 200,
+    "RewardID": 251005,
+    "PhaseID": 202,
+    "StageName": {
+      "Hash": 1666557130
+    },
+    "EventID": 419108,
+    "ScoreRaceID": 2008,
+    "SortWeight": 4,
+    "ScoreRaceType": "Score",
+    "TutorialID": 8202
+  },
+  {
+    "RaceBgFigurePath": "SpriteOutput/UI/Quest/AetherDivide/ADIcon04.png",
+    "DetailImgPath": "SpriteOutput/Quest/FightFest/Monster/FightFestMonsterSmall8.png",
+    "TutorialImgPath": "SpriteOutput/Quest/FightFest/Monster/HeadIcon/MonsterRoundIcon8.png",
+    "ResultImgPath": "SpriteOutput/Quest/FightFest/Monster/Middle/FightFestMonsterMiddle8.png",
+    "EventIDList": [
+      419109
+    ],
+    "BlueAvatarID": 1,
+    "RaceDesc": {
+      "Hash": -966981750
+    },
+    "TakeMainMissionID": 8025139,
+    "RedAvatarID": 15,
+    "RewardScore": 300,
+    "RewardID": 251006,
+    "PhaseID": 203,
+    "StageName": {
+      "Hash": 1666557129
+    },
+    "EventID": 419109,
+    "ScoreRaceID": 2009,
+    "SortWeight": 7,
+    "ScoreRaceType": "Score",
+    "TutorialID": 8203
+  }
+]

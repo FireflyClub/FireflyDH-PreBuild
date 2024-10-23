@@ -1,0 +1,705 @@
+[
+  {
+    "RecommadNature": [
+      "Thunder",
+      "Physical"
+    ],
+    "PreviewMonsterList": [
+      201302010,
+      800304014,
+      200203105,
+      200201010,
+      800201018
+    ],
+    "SpecialAvatarList": [
+      3101111,
+      3101106,
+      3101103,
+      3101105
+    ],
+    "RecommadCoachID": [
+      250700,
+      250701
+    ],
+    "EventID": 419000,
+    "EnvironmentBuffID": 3120011,
+    "TutorialID": 8182,
+    "ChallengeName": {
+      "Hash": -552090032
+    },
+    "EnvironmentBuffDes": {
+      "Hash": 371857150
+    },
+    "HighLightDesc": {
+      "Hash": -1817494025
+    },
+    "EnvironmentBuffName": {
+      "Hash": 371857150
+    },
+    "UIEnterBattleAreaID": 2024202
+  },
+  {
+    "RecommadNature": [
+      "Thunder",
+      "Fire"
+    ],
+    "PreviewMonsterList": [
+      803301008,
+      1004015,
+      102302201,
+      100206401,
+      102201017
+    ],
+    "SpecialAvatarList": [
+      3231308,
+      3231218,
+      3231006
+    ],
+    "RecommadCoachID": [
+      250701,
+      250707
+    ],
+    "EventID": 419001,
+    "EnvironmentBuffID": 3120012,
+    "TutorialID": 8183,
+    "ChallengeName": {
+      "Hash": -552090033
+    },
+    "EnvironmentBuffDes": {
+      "Hash": 371857150
+    },
+    "HighLightDesc": {
+      "Hash": -1817494026
+    },
+    "EnvironmentBuffName": {
+      "Hash": 371857150
+    },
+    "UIEnterBattleAreaID": 2024202
+  },
+  {
+    "RecommadNature": [
+      "Thunder",
+      "Wind"
+    ],
+    "PreviewMonsterList": [
+      3014023
+    ],
+    "SpecialAvatarList": [
+      3231005,
+      3231307,
+      3231217
+    ],
+    "RecommadCoachID": [
+      250702,
+      250708
+    ],
+    "EventID": 419002,
+    "EnvironmentBuffID": 3120013,
+    "TutorialID": 8184,
+    "ChallengeName": {
+      "Hash": -552090030
+    },
+    "EnvironmentBuffDes": {
+      "Hash": 371857150
+    },
+    "HighLightDesc": {
+      "Hash": -1817494027
+    },
+    "EnvironmentBuffName": {
+      "Hash": 371857150
+    },
+    "UIEnterBattleAreaID": 2024301
+  },
+  {
+    "RecommadNature": [
+      "Thunder",
+      "Wind"
+    ],
+    "PreviewMonsterList": [
+      3024014
+    ],
+    "SpecialAvatarList": [
+      3231314,
+      3231302,
+      3231217
+    ],
+    "RecommadCoachID": [
+      250703,
+      250709
+    ],
+    "EventID": 419003,
+    "EnvironmentBuffID": 3120014,
+    "TutorialID": 8185,
+    "ChallengeName": {
+      "Hash": -552090031
+    },
+    "EnvironmentBuffDes": {
+      "Hash": 371857150
+    },
+    "HighLightDesc": {
+      "Hash": -1817494028
+    },
+    "EnvironmentBuffName": {
+      "Hash": 371857150
+    },
+    "UIEnterBattleAreaID": 2024202
+  },
+  {
+    "RecommadNature": [
+      "Wind",
+      "Imaginary"
+    ],
+    "PreviewMonsterList": [
+      1014015
+    ],
+    "SpecialAvatarList": [
+      3231220,
+      3231224,
+      3231309
+    ],
+    "RecommadCoachID": [
+      250704,
+      250710
+    ],
+    "EventID": 419004,
+    "EnvironmentBuffID": 3120015,
+    "TutorialID": 8186,
+    "ChallengeName": {
+      "Hash": -552090028
+    },
+    "EnvironmentBuffDes": {
+      "Hash": 371857150
+    },
+    "HighLightDesc": {
+      "Hash": -1817494021
+    },
+    "EnvironmentBuffName": {
+      "Hash": 371857150
+    },
+    "UIEnterBattleAreaID": 2024202
+  },
+  {
+    "RecommadNature": [
+      "Fire",
+      "Imaginary"
+    ],
+    "PreviewMonsterList": [
+      2004025
+    ],
+    "SpecialAvatarList": [
+      3231310,
+      3238005,
+      3238006,
+      3231222
+    ],
+    "RecommadCoachID": [
+      250705,
+      250711
+    ],
+    "EventID": 419005,
+    "EnvironmentBuffID": 3120016,
+    "TutorialID": 8187,
+    "ChallengeName": {
+      "Hash": -552090029
+    },
+    "EnvironmentBuffDes": {
+      "Hash": 371857150
+    },
+    "HighLightDesc": {
+      "Hash": -1817494022
+    },
+    "EnvironmentBuffName": {
+      "Hash": 371857150
+    },
+    "UIEnterBattleAreaID": 2024202
+  },
+  {
+    "RecommadNature": [
+      "Thunder",
+      "Wind"
+    ],
+    "PreviewMonsterList": [
+      300205201,
+      300205007
+    ],
+    "SpecialAvatarList": [
+      3231220,
+      3231224,
+      3231222
+    ],
+    "RecommadCoachID": [
+      250703,
+      250710
+    ],
+    "EventID": 419101,
+    "EnvironmentBuffID": 3121001,
+    "TutorialID": 8188,
+    "ChallengeName": {
+      "Hash": -552090000
+    },
+    "EnvironmentBuffDes": {
+      "Hash": 371857150
+    },
+    "HighLightDesc": {
+      "Hash": -1817494121
+    },
+    "EnvironmentBuffName": {
+      "Hash": 371857150
+    },
+    "UIEnterBattleAreaID": 2024202
+  },
+  {
+    "RecommadNature": [
+      "Physical"
+    ],
+    "PreviewMonsterList": [
+      301301006,
+      301101001
+    ],
+    "SpecialAvatarList": [
+      3111111
+    ],
+    "RecommadCoachID": [
+      250700,
+      250707
+    ],
+    "EventID": 419102,
+    "EnvironmentBuffID": 3121007,
+    "TutorialID": 8204,
+    "ChallengeName": {
+      "Hash": -552089999
+    },
+    "EnvironmentBuffDes": {
+      "Hash": 371857150
+    },
+    "HighLightDesc": {
+      "Hash": -1817494124
+    },
+    "EnvironmentBuffName": {
+      "Hash": 371857150
+    },
+    "UIEnterBattleAreaID": 2024202
+  },
+  {
+    "RecommadNature": [
+      "Physical"
+    ],
+    "PreviewMonsterList": [
+      100301031
+    ],
+    "SpecialAvatarList": [
+      3231221,
+      3231107,
+      3231202
+    ],
+    "RecommadCoachID": [
+      250701
+    ],
+    "EventID": 419103,
+    "EnvironmentBuffID": 3121002,
+    "TutorialID": 8189,
+    "ChallengeName": {
+      "Hash": -552089998
+    },
+    "EnvironmentBuffDes": {
+      "Hash": 371857150
+    },
+    "HighLightDesc": {
+      "Hash": -1817494123
+    },
+    "EnvironmentBuffName": {
+      "Hash": 371857150
+    },
+    "UIEnterBattleAreaID": 2024202
+  },
+  {
+    "RecommadNature": [
+      "Fire",
+      "Imaginary"
+    ],
+    "PreviewMonsterList": [
+      803301013,
+      803201011,
+      803202013
+    ],
+    "SpecialAvatarList": [
+      3231310,
+      3238005,
+      3238006,
+      3231303
+    ],
+    "RecommadCoachID": [
+      250700,
+      250709
+    ],
+    "EventID": 419104,
+    "EnvironmentBuffID": 3121008,
+    "TutorialID": 8205,
+    "ChallengeName": {
+      "Hash": -552089997
+    },
+    "EnvironmentBuffDes": {
+      "Hash": 371857150
+    },
+    "HighLightDesc": {
+      "Hash": -1817494118
+    },
+    "EnvironmentBuffName": {
+      "Hash": 371857150
+    },
+    "UIEnterBattleAreaID": 2024201
+  },
+  {
+    "RecommadNature": [
+      "Thunder",
+      "Wind"
+    ],
+    "PreviewMonsterList": [
+      202303014,
+      202207006,
+      202208005,
+      202209003
+    ],
+    "SpecialAvatarList": [
+      3231314,
+      3231309,
+      3231013
+    ],
+    "RecommadCoachID": [
+      250700
+    ],
+    "EventID": 419105,
+    "EnvironmentBuffID": 3121003,
+    "TutorialID": 8200,
+    "ChallengeName": {
+      "Hash": -552089996
+    },
+    "EnvironmentBuffDes": {
+      "Hash": 371857150
+    },
+    "HighLightDesc": {
+      "Hash": -1817494117
+    },
+    "EnvironmentBuffName": {
+      "Hash": 371857150
+    },
+    "UIEnterBattleAreaID": 2024202
+  },
+  {
+    "RecommadNature": [
+      "Thunder",
+      "Wind"
+    ],
+    "PreviewMonsterList": [
+      300305102,
+      300304103,
+      300303102
+    ],
+    "SpecialAvatarList": [
+      3231315,
+      3238005,
+      3238006,
+      3231303
+    ],
+    "RecommadCoachID": [
+      250700,
+      250707
+    ],
+    "EventID": 419106,
+    "EnvironmentBuffID": 3121004,
+    "TutorialID": 8201,
+    "ChallengeName": {
+      "Hash": -552089995
+    },
+    "EnvironmentBuffDes": {
+      "Hash": 371857150
+    },
+    "HighLightDesc": {
+      "Hash": -1817494120
+    },
+    "EnvironmentBuffName": {
+      "Hash": 371857150
+    },
+    "UIEnterBattleAreaID": 2024202
+  },
+  {
+    "RecommadNature": [
+      "Ice",
+      "Wind"
+    ],
+    "PreviewMonsterList": [
+      201301011,
+      201201011
+    ],
+    "SpecialAvatarList": [
+      3231205,
+      3231212,
+      3231203
+    ],
+    "RecommadCoachID": [
+      250703,
+      250709
+    ],
+    "EventID": 419107,
+    "EnvironmentBuffID": 3121009,
+    "TutorialID": 8206,
+    "ChallengeName": {
+      "Hash": -552089994
+    },
+    "EnvironmentBuffDes": {
+      "Hash": 371857150
+    },
+    "HighLightDesc": {
+      "Hash": -1817494119
+    },
+    "EnvironmentBuffName": {
+      "Hash": 371857150
+    },
+    "UIEnterBattleAreaID": 2024202
+  },
+  {
+    "RecommadNature": [
+      "Thunder",
+      "Wind"
+    ],
+    "PreviewMonsterList": [
+      800205301,
+      800205201,
+      800205101
+    ],
+    "SpecialAvatarList": [
+      3231213,
+      3231306,
+      3231202
+    ],
+    "RecommadCoachID": [
+      250700,
+      250709
+    ],
+    "EventID": 419108,
+    "EnvironmentBuffID": 3121005,
+    "TutorialID": 8202,
+    "ChallengeName": {
+      "Hash": -552090009
+    },
+    "EnvironmentBuffDes": {
+      "Hash": 371857150
+    },
+    "HighLightDesc": {
+      "Hash": -1817494130
+    },
+    "EnvironmentBuffName": {
+      "Hash": 371857150
+    },
+    "UIEnterBattleAreaID": 2024202
+  },
+  {
+    "RecommadNature": [
+      "Thunder",
+      "Wind"
+    ],
+    "PreviewMonsterList": [
+      202402007
+    ],
+    "SpecialAvatarList": [
+      3231302,
+      3231217,
+      3231013
+    ],
+    "RecommadCoachID": [
+      250703,
+      250709
+    ],
+    "EventID": 419109,
+    "EnvironmentBuffID": 3121006,
+    "TutorialID": 8203,
+    "ChallengeName": {
+      "Hash": -552090008
+    },
+    "EnvironmentBuffDes": {
+      "Hash": 371857150
+    },
+    "HighLightDesc": {
+      "Hash": -1817494129
+    },
+    "EnvironmentBuffName": {
+      "Hash": 371857150
+    },
+    "UIEnterBattleAreaID": 2024202
+  },
+  {
+    "RecommadNature": [
+      "Thunder",
+      "Fire"
+    ],
+    "PreviewMonsterList": [
+      803301008,
+      1004015,
+      102302201,
+      100206401,
+      102201017
+    ],
+    "SpecialAvatarList": [
+      3231308,
+      3231218,
+      3231006
+    ],
+    "RecommadCoachID": [
+      250701,
+      250707
+    ],
+    "EventID": 419201,
+    "EnvironmentBuffID": 3120012,
+    "TutorialID": 8183,
+    "ChallengeName": {
+      "Hash": -552089967
+    },
+    "EnvironmentBuffDes": {
+      "Hash": 371857150
+    },
+    "HighLightDesc": {
+      "Hash": -1817494092
+    },
+    "EnvironmentBuffName": {
+      "Hash": 371857150
+    },
+    "UIEnterBattleAreaID": 2024202
+  },
+  {
+    "RecommadNature": [
+      "Thunder",
+      "Wind"
+    ],
+    "PreviewMonsterList": [
+      3014023
+    ],
+    "SpecialAvatarList": [
+      3231005,
+      3231307,
+      3231217
+    ],
+    "RecommadCoachID": [
+      250702,
+      250708
+    ],
+    "EventID": 419202,
+    "EnvironmentBuffID": 3120033,
+    "TutorialID": 8184,
+    "ChallengeName": {
+      "Hash": -552089968
+    },
+    "EnvironmentBuffDes": {
+      "Hash": 371857150
+    },
+    "HighLightDesc": {
+      "Hash": -1817494089
+    },
+    "EnvironmentBuffName": {
+      "Hash": 371857150
+    },
+    "UIEnterBattleAreaID": 2024301
+  },
+  {
+    "RecommadNature": [
+      "Thunder",
+      "Wind"
+    ],
+    "PreviewMonsterList": [
+      302401102
+    ],
+    "SpecialAvatarList": [
+      3231314,
+      3231302,
+      3231217
+    ],
+    "RecommadCoachID": [
+      250703,
+      250709
+    ],
+    "EventID": 419203,
+    "EnvironmentBuffID": 3120014,
+    "TutorialID": 8185,
+    "ChallengeName": {
+      "Hash": -552089969
+    },
+    "EnvironmentBuffDes": {
+      "Hash": 371857150
+    },
+    "HighLightDesc": {
+      "Hash": -1817494090
+    },
+    "EnvironmentBuffName": {
+      "Hash": 371857150
+    },
+    "UIEnterBattleAreaID": 2024202
+  },
+  {
+    "RecommadNature": [
+      "Wind",
+      "Imaginary"
+    ],
+    "PreviewMonsterList": [
+      1014014
+    ],
+    "SpecialAvatarList": [
+      3231220,
+      3231224,
+      3231309
+    ],
+    "RecommadCoachID": [
+      250704,
+      250710
+    ],
+    "EventID": 419204,
+    "EnvironmentBuffID": 3120035,
+    "TutorialID": 8186,
+    "ChallengeName": {
+      "Hash": -552089962
+    },
+    "EnvironmentBuffDes": {
+      "Hash": 371857150
+    },
+    "HighLightDesc": {
+      "Hash": -1817494087
+    },
+    "EnvironmentBuffName": {
+      "Hash": 371857150
+    },
+    "UIEnterBattleAreaID": 2024202
+  },
+  {
+    "RecommadNature": [
+      "Fire",
+      "Imaginary"
+    ],
+    "PreviewMonsterList": [
+      200402101
+    ],
+    "SpecialAvatarList": [
+      3231310,
+      3238005,
+      3238006,
+      3231222
+    ],
+    "RecommadCoachID": [
+      250705,
+      250711
+    ],
+    "EventID": 419205,
+    "EnvironmentBuffID": 3120016,
+    "TutorialID": 8187,
+    "ChallengeName": {
+      "Hash": -552089963
+    },
+    "EnvironmentBuffDes": {
+      "Hash": 371857150
+    },
+    "HighLightDesc": {
+      "Hash": -1817494088
+    },
+    "EnvironmentBuffName": {
+      "Hash": 371857150
+    },
+    "UIEnterBattleAreaID": 2024202
+  }
+]

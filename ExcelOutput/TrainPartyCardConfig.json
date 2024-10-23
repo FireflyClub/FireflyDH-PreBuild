@@ -1,0 +1,1916 @@
+[
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_101.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_101.json",
+    "CardImage": "SpriteOutput/Emoji/20004.png",
+    "PassengerID": 0,
+    "Rarity": 1,
+    "CardName": {
+      "Hash": -1312839905
+    },
+    "CardID": 101
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_103.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_103.json",
+    "CardImage": "SpriteOutput/Emoji/102001.png",
+    "PassengerID": 0,
+    "Rarity": 1,
+    "CardName": {
+      "Hash": -1312839903
+    },
+    "CardID": 103
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_107.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_107.json",
+    "CardImage": "SpriteOutput/Emoji/102001.png",
+    "PassengerID": 0,
+    "Rarity": 1,
+    "CardName": {
+      "Hash": -1312839899
+    },
+    "CardID": 107
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_108.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_108.json",
+    "CardImage": "SpriteOutput/Emoji/102001.png",
+    "PassengerID": 0,
+    "Rarity": 1,
+    "CardName": {
+      "Hash": -1312839896
+    },
+    "CardID": 108
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_109.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_109.json",
+    "CardImage": "SpriteOutput/Emoji/104016.png",
+    "PassengerID": 0,
+    "Rarity": 1,
+    "CardName": {
+      "Hash": -1312839897
+    },
+    "CardID": 109
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_109.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_110.json",
+    "CardImage": "SpriteOutput/Emoji/104016.png",
+    "PassengerID": 0,
+    "Rarity": 1,
+    "CardName": {
+      "Hash": 1416043451
+    },
+    "CardID": 110
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_109.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_111.json",
+    "CardImage": "SpriteOutput/Emoji/104016.png",
+    "PassengerID": 0,
+    "Rarity": 1,
+    "CardName": {
+      "Hash": 1416043450
+    },
+    "CardID": 111
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_109.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_112.json",
+    "CardImage": "SpriteOutput/Emoji/104016.png",
+    "PassengerID": 0,
+    "Rarity": 1,
+    "CardName": {
+      "Hash": 1416043453
+    },
+    "CardID": 112
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_109.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_113.json",
+    "CardImage": "SpriteOutput/Emoji/104016.png",
+    "PassengerID": 0,
+    "Rarity": 1,
+    "CardName": {
+      "Hash": 1416043452
+    },
+    "CardID": 113
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_109.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_114.json",
+    "CardImage": "SpriteOutput/Emoji/104016.png",
+    "PassengerID": 0,
+    "Rarity": 1,
+    "CardName": {
+      "Hash": 1416043455
+    },
+    "CardID": 114
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_109.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_115.json",
+    "CardImage": "SpriteOutput/Emoji/104016.png",
+    "PassengerID": 0,
+    "Rarity": 1,
+    "CardName": {
+      "Hash": 1416043454
+    },
+    "CardID": 115
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_109.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_116.json",
+    "CardImage": "SpriteOutput/Emoji/104016.png",
+    "PassengerID": 0,
+    "Rarity": 1,
+    "CardName": {
+      "Hash": 1416043457
+    },
+    "CardID": 116
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_201.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_201.json",
+    "CardImage": "SpriteOutput/ItemFigures/408436.png",
+    "PassengerID": 1001,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": -1312839806
+    },
+    "CardID": 201
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_202.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_202.json",
+    "CardImage": "SpriteOutput/ItemFigures/408606.png",
+    "PassengerID": 1002,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": -1312839809
+    },
+    "CardID": 202
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_203.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_203.json",
+    "CardImage": "SpriteOutput/ItemFigures/408625.png",
+    "PassengerID": 1003,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": -1312839808
+    },
+    "CardID": 203
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_204.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_204.json",
+    "CardImage": "SpriteOutput/ItemFigures/403001.png",
+    "PassengerID": 1004,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": -1312839803
+    },
+    "CardID": 204
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_205.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_205.json",
+    "CardImage": "SpriteOutput/ItemFigures/140247.png",
+    "PassengerID": 1005,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": -1312839802
+    },
+    "CardID": 205
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_206.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_206.json",
+    "CardImage": "SpriteOutput/Quest/TrainParty/GameplayCardItem/TrainPartyCardItem03.png",
+    "PassengerID": 1006,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": -1312839805
+    },
+    "CardID": 206
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_207.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_207.json",
+    "CardImage": "SpriteOutput/ItemFigures/401012.png",
+    "PassengerID": 1007,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": -1312839804
+    },
+    "CardID": 207
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_208.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_208.json",
+    "CardImage": "SpriteOutput/Quest/TrainParty/GameplayCardItem/TrainPartyCardItem04.png",
+    "PassengerID": 1008,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": -1312839799
+    },
+    "CardID": 208
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_209.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_209.json",
+    "CardImage": "SpriteOutput/Quest/TrainParty/GameplayCardItem/TrainPartyCardItem01.png",
+    "PassengerID": 1009,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": -1312839798
+    },
+    "CardID": 209
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_301.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_301.json",
+    "CardImage": "SpriteOutput/ItemFigures/140209.png",
+    "PassengerID": 1001,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": -1312839839
+    },
+    "CardID": 301
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_302.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_302.json",
+    "CardImage": "SpriteOutput/ItemFigures/408802.png",
+    "PassengerID": 1002,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": -1312839840
+    },
+    "CardID": 302
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_303.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_303.json",
+    "CardImage": "SpriteOutput/ItemFigures/140023.png",
+    "PassengerID": 1003,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": -1312839841
+    },
+    "CardID": 303
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_304.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_304.json",
+    "CardImage": "SpriteOutput/ItemFigures/140001.png",
+    "PassengerID": 1004,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": -1312839834
+    },
+    "CardID": 304
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_305.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_305.json",
+    "CardImage": "SpriteOutput/ItemFigures/408431.png",
+    "PassengerID": 1005,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": -1312839835
+    },
+    "CardID": 305
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_306.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_306.json",
+    "CardImage": "SpriteOutput/Quest/TrainParty/GameplayCardItem/TrainPartyCardItem02.png",
+    "PassengerID": 1006,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": -1312839836
+    },
+    "CardID": 306
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_307.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_307.json",
+    "CardImage": "SpriteOutput/ItemFigures/401004.png",
+    "PassengerID": 1007,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": -1312839837
+    },
+    "CardID": 307
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_308.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_308.json",
+    "CardImage": "SpriteOutput/Quest/TrainParty/GameplayCardItem/TrainPartyCardItem04.png",
+    "PassengerID": 1008,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": -1312839830
+    },
+    "CardID": 308
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_309.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_309.json",
+    "CardImage": "SpriteOutput/Quest/TrainParty/GameplayCardItem/TrainPartyCardItem01.png",
+    "PassengerID": 1009,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": -1312839831
+    },
+    "CardID": 309
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_401.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_401.json",
+    "CardImage": "SpriteOutput/ItemFigures/300054.png",
+    "PassengerID": 1001,
+    "Rarity": 3,
+    "CardName": {
+      "Hash": -1312839740
+    },
+    "CardID": 401
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_402.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_402.json",
+    "CardImage": "SpriteOutput/ItemFigures/140277.png",
+    "PassengerID": 1002,
+    "Rarity": 3,
+    "CardName": {
+      "Hash": -1312839739
+    },
+    "CardID": 402
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_403.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_403.json",
+    "CardImage": "SpriteOutput/ItemFigures/140230.png",
+    "PassengerID": 1003,
+    "Rarity": 3,
+    "CardName": {
+      "Hash": -1312839738
+    },
+    "CardID": 403
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_404.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_404.json",
+    "CardImage": "SpriteOutput/ItemFigures/140237.png",
+    "PassengerID": 1004,
+    "Rarity": 3,
+    "CardName": {
+      "Hash": -1312839745
+    },
+    "CardID": 404
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_405.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_405.json",
+    "CardImage": "SpriteOutput/ItemFigures/408415.png",
+    "PassengerID": 1005,
+    "Rarity": 3,
+    "CardName": {
+      "Hash": -1312839744
+    },
+    "CardID": 405
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_406.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_406.json",
+    "CardImage": "SpriteOutput/Quest/TrainParty/GameplayCardItem/TrainPartyCardItem02.png",
+    "PassengerID": 1006,
+    "Rarity": 3,
+    "CardName": {
+      "Hash": -1312839743
+    },
+    "CardID": 406
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_407.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_407.json",
+    "CardImage": "SpriteOutput/ItemFigures/401003.png",
+    "PassengerID": 1007,
+    "Rarity": 3,
+    "CardName": {
+      "Hash": -1312839742
+    },
+    "CardID": 407
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_408.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_408.json",
+    "CardImage": "SpriteOutput/Quest/TrainParty/GameplayCardItem/TrainPartyCardItem04.png",
+    "PassengerID": 1008,
+    "Rarity": 3,
+    "CardName": {
+      "Hash": -1312839733
+    },
+    "CardID": 408
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_409.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_409.json",
+    "CardImage": "SpriteOutput/Quest/TrainParty/GameplayCardItem/TrainPartyCardItem01.png",
+    "PassengerID": 1009,
+    "Rarity": 3,
+    "CardName": {
+      "Hash": -1312839732
+    },
+    "CardID": 409
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_201.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_201.json",
+    "CardImage": "SpriteOutput/ItemFigures/408436.png",
+    "PassengerID": 1001,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": 1416043549
+    },
+    "CardID": 211
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_202.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_202.json",
+    "CardImage": "SpriteOutput/ItemFigures/408606.png",
+    "PassengerID": 1002,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": 1416043546
+    },
+    "CardID": 212
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_203.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_203.json",
+    "CardImage": "SpriteOutput/ItemFigures/408625.png",
+    "PassengerID": 1003,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": 1416043547
+    },
+    "CardID": 213
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_204.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_204.json",
+    "CardImage": "SpriteOutput/ItemFigures/403001.png",
+    "PassengerID": 1004,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": 1416043552
+    },
+    "CardID": 214
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_205.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_205.json",
+    "CardImage": "SpriteOutput/ItemFigures/140247.png",
+    "PassengerID": 1005,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": 1416043553
+    },
+    "CardID": 215
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_206.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_206.json",
+    "CardImage": "SpriteOutput/Quest/TrainParty/GameplayCardItem/TrainPartyCardItem03.png",
+    "PassengerID": 1006,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": 1416043550
+    },
+    "CardID": 216
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_207.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_207.json",
+    "CardImage": "SpriteOutput/ItemFigures/401012.png",
+    "PassengerID": 1007,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": 1416043551
+    },
+    "CardID": 217
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_208.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_208.json",
+    "CardImage": "SpriteOutput/Quest/TrainParty/GameplayCardItem/TrainPartyCardItem04.png",
+    "PassengerID": 1008,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": 1416043556
+    },
+    "CardID": 218
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_209.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_209.json",
+    "CardImage": "SpriteOutput/Quest/TrainParty/GameplayCardItem/TrainPartyCardItem01.png",
+    "PassengerID": 1009,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": 1416043557
+    },
+    "CardID": 219
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_301.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_301.json",
+    "CardImage": "SpriteOutput/ItemFigures/140209.png",
+    "PassengerID": 1001,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": 1416043516
+    },
+    "CardID": 311
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_302.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_302.json",
+    "CardImage": "SpriteOutput/ItemFigures/408802.png",
+    "PassengerID": 1002,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": 1416043515
+    },
+    "CardID": 312
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_303.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_303.json",
+    "CardImage": "SpriteOutput/ItemFigures/140023.png",
+    "PassengerID": 1003,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": 1416043514
+    },
+    "CardID": 313
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_304.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_304.json",
+    "CardImage": "SpriteOutput/ItemFigures/140001.png",
+    "PassengerID": 1004,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": 1416043521
+    },
+    "CardID": 314
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_305.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_305.json",
+    "CardImage": "SpriteOutput/ItemFigures/408431.png",
+    "PassengerID": 1005,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": 1416043520
+    },
+    "CardID": 315
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_306.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_306.json",
+    "CardImage": "SpriteOutput/Quest/TrainParty/GameplayCardItem/TrainPartyCardItem02.png",
+    "PassengerID": 1006,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": 1416043519
+    },
+    "CardID": 316
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_307.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_307.json",
+    "CardImage": "SpriteOutput/ItemFigures/401004.png",
+    "PassengerID": 1007,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": 1416043518
+    },
+    "CardID": 317
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_308.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_308.json",
+    "CardImage": "SpriteOutput/Quest/TrainParty/GameplayCardItem/TrainPartyCardItem04.png",
+    "PassengerID": 1008,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": 1416043525
+    },
+    "CardID": 318
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_309.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_309.json",
+    "CardImage": "SpriteOutput/Quest/TrainParty/GameplayCardItem/TrainPartyCardItem01.png",
+    "PassengerID": 1009,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": 1416043524
+    },
+    "CardID": 319
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_401.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_401.json",
+    "CardImage": "SpriteOutput/ItemFigures/300054.png",
+    "PassengerID": 1001,
+    "Rarity": 3,
+    "CardName": {
+      "Hash": 1416043615
+    },
+    "CardID": 411
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_402.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_402.json",
+    "CardImage": "SpriteOutput/ItemFigures/140277.png",
+    "PassengerID": 1002,
+    "Rarity": 3,
+    "CardName": {
+      "Hash": 1416043616
+    },
+    "CardID": 412
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_403.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_403.json",
+    "CardImage": "SpriteOutput/ItemFigures/140230.png",
+    "PassengerID": 1003,
+    "Rarity": 3,
+    "CardName": {
+      "Hash": 1416043617
+    },
+    "CardID": 413
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_404.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_404.json",
+    "CardImage": "SpriteOutput/ItemFigures/140237.png",
+    "PassengerID": 1004,
+    "Rarity": 3,
+    "CardName": {
+      "Hash": 1416043610
+    },
+    "CardID": 414
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_405.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_405.json",
+    "CardImage": "SpriteOutput/ItemFigures/408415.png",
+    "PassengerID": 1005,
+    "Rarity": 3,
+    "CardName": {
+      "Hash": 1416043611
+    },
+    "CardID": 415
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_406.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_406.json",
+    "CardImage": "SpriteOutput/Quest/TrainParty/GameplayCardItem/TrainPartyCardItem02.png",
+    "PassengerID": 1006,
+    "Rarity": 3,
+    "CardName": {
+      "Hash": 1416043612
+    },
+    "CardID": 416
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_407.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_407.json",
+    "CardImage": "SpriteOutput/ItemFigures/401003.png",
+    "PassengerID": 1007,
+    "Rarity": 3,
+    "CardName": {
+      "Hash": 1416043613
+    },
+    "CardID": 417
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_408.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_408.json",
+    "CardImage": "SpriteOutput/Quest/TrainParty/GameplayCardItem/TrainPartyCardItem04.png",
+    "PassengerID": 1008,
+    "Rarity": 3,
+    "CardName": {
+      "Hash": 1416043622
+    },
+    "CardID": 418
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_409.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_409.json",
+    "CardImage": "SpriteOutput/Quest/TrainParty/GameplayCardItem/TrainPartyCardItem01.png",
+    "PassengerID": 1009,
+    "Rarity": 3,
+    "CardName": {
+      "Hash": 1416043623
+    },
+    "CardID": 419
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_201.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_201.json",
+    "CardImage": "SpriteOutput/ItemFigures/408436.png",
+    "PassengerID": 1001,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": -150040392
+    },
+    "CardID": 221
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_202.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_202.json",
+    "CardImage": "SpriteOutput/ItemFigures/408606.png",
+    "PassengerID": 1002,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": -150040395
+    },
+    "CardID": 222
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_203.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_203.json",
+    "CardImage": "SpriteOutput/ItemFigures/408625.png",
+    "PassengerID": 1003,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": -150040394
+    },
+    "CardID": 223
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_204.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_204.json",
+    "CardImage": "SpriteOutput/ItemFigures/403001.png",
+    "PassengerID": 1004,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": -150040389
+    },
+    "CardID": 224
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_205.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_205.json",
+    "CardImage": "SpriteOutput/ItemFigures/140247.png",
+    "PassengerID": 1005,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": -150040388
+    },
+    "CardID": 225
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_206.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_206.json",
+    "CardImage": "SpriteOutput/Quest/TrainParty/GameplayCardItem/TrainPartyCardItem03.png",
+    "PassengerID": 1006,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": -150040391
+    },
+    "CardID": 226
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_207.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_207.json",
+    "CardImage": "SpriteOutput/ItemFigures/401012.png",
+    "PassengerID": 1007,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": -150040390
+    },
+    "CardID": 227
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_208.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_208.json",
+    "CardImage": "SpriteOutput/Quest/TrainParty/GameplayCardItem/TrainPartyCardItem04.png",
+    "PassengerID": 1008,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": -150040385
+    },
+    "CardID": 228
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_209.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_209.json",
+    "CardImage": "SpriteOutput/Quest/TrainParty/GameplayCardItem/TrainPartyCardItem01.png",
+    "PassengerID": 1009,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": -150040384
+    },
+    "CardID": 229
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_301.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_301.json",
+    "CardImage": "SpriteOutput/ItemFigures/140209.png",
+    "PassengerID": 1001,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": -150040425
+    },
+    "CardID": 321
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_302.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_302.json",
+    "CardImage": "SpriteOutput/ItemFigures/408802.png",
+    "PassengerID": 1002,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": -150040426
+    },
+    "CardID": 322
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_303.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_303.json",
+    "CardImage": "SpriteOutput/ItemFigures/140023.png",
+    "PassengerID": 1003,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": -150040427
+    },
+    "CardID": 323
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_304.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_304.json",
+    "CardImage": "SpriteOutput/ItemFigures/140001.png",
+    "PassengerID": 1004,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": -150040420
+    },
+    "CardID": 324
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_305.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_305.json",
+    "CardImage": "SpriteOutput/ItemFigures/408431.png",
+    "PassengerID": 1005,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": -150040421
+    },
+    "CardID": 325
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_306.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_306.json",
+    "CardImage": "SpriteOutput/Quest/TrainParty/GameplayCardItem/TrainPartyCardItem02.png",
+    "PassengerID": 1006,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": -150040422
+    },
+    "CardID": 326
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_307.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_307.json",
+    "CardImage": "SpriteOutput/ItemFigures/401004.png",
+    "PassengerID": 1007,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": -150040423
+    },
+    "CardID": 327
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_308.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_308.json",
+    "CardImage": "SpriteOutput/Quest/TrainParty/GameplayCardItem/TrainPartyCardItem04.png",
+    "PassengerID": 1008,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": -150040416
+    },
+    "CardID": 328
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_309.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_309.json",
+    "CardImage": "SpriteOutput/Quest/TrainParty/GameplayCardItem/TrainPartyCardItem01.png",
+    "PassengerID": 1009,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": -150040417
+    },
+    "CardID": 329
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_401.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_401.json",
+    "CardImage": "SpriteOutput/ItemFigures/300054.png",
+    "PassengerID": 1001,
+    "Rarity": 3,
+    "CardName": {
+      "Hash": -150040326
+    },
+    "CardID": 421
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_402.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_402.json",
+    "CardImage": "SpriteOutput/ItemFigures/140277.png",
+    "PassengerID": 1002,
+    "Rarity": 3,
+    "CardName": {
+      "Hash": -150040325
+    },
+    "CardID": 422
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_403.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_403.json",
+    "CardImage": "SpriteOutput/ItemFigures/140230.png",
+    "PassengerID": 1003,
+    "Rarity": 3,
+    "CardName": {
+      "Hash": -150040324
+    },
+    "CardID": 423
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_404.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_404.json",
+    "CardImage": "SpriteOutput/ItemFigures/140237.png",
+    "PassengerID": 1004,
+    "Rarity": 3,
+    "CardName": {
+      "Hash": -150040331
+    },
+    "CardID": 424
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_405.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_405.json",
+    "CardImage": "SpriteOutput/ItemFigures/408415.png",
+    "PassengerID": 1005,
+    "Rarity": 3,
+    "CardName": {
+      "Hash": -150040330
+    },
+    "CardID": 425
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_406.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_406.json",
+    "CardImage": "SpriteOutput/Quest/TrainParty/GameplayCardItem/TrainPartyCardItem02.png",
+    "PassengerID": 1006,
+    "Rarity": 3,
+    "CardName": {
+      "Hash": -150040329
+    },
+    "CardID": 426
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_407.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_407.json",
+    "CardImage": "SpriteOutput/ItemFigures/401003.png",
+    "PassengerID": 1007,
+    "Rarity": 3,
+    "CardName": {
+      "Hash": -150040328
+    },
+    "CardID": 427
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_408.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_408.json",
+    "CardImage": "SpriteOutput/Quest/TrainParty/GameplayCardItem/TrainPartyCardItem04.png",
+    "PassengerID": 1008,
+    "Rarity": 3,
+    "CardName": {
+      "Hash": -150040319
+    },
+    "CardID": 428
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_409.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_409.json",
+    "CardImage": "SpriteOutput/Quest/TrainParty/GameplayCardItem/TrainPartyCardItem01.png",
+    "PassengerID": 1009,
+    "Rarity": 3,
+    "CardName": {
+      "Hash": -150040318
+    },
+    "CardID": 429
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_201.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_201.json",
+    "CardImage": "SpriteOutput/ItemFigures/408436.png",
+    "PassengerID": 1001,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": -1716124333
+    },
+    "CardID": 231
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_202.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_202.json",
+    "CardImage": "SpriteOutput/ItemFigures/408606.png",
+    "PassengerID": 1002,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": -1716124336
+    },
+    "CardID": 232
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_203.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_203.json",
+    "CardImage": "SpriteOutput/ItemFigures/408625.png",
+    "PassengerID": 1003,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": -1716124335
+    },
+    "CardID": 233
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_204.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_204.json",
+    "CardImage": "SpriteOutput/ItemFigures/403001.png",
+    "PassengerID": 1004,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": -1716124330
+    },
+    "CardID": 234
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_205.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_205.json",
+    "CardImage": "SpriteOutput/ItemFigures/140247.png",
+    "PassengerID": 1005,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": -1716124329
+    },
+    "CardID": 235
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_206.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_206.json",
+    "CardImage": "SpriteOutput/Quest/TrainParty/GameplayCardItem/TrainPartyCardItem03.png",
+    "PassengerID": 1006,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": -1716124332
+    },
+    "CardID": 236
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_207.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_207.json",
+    "CardImage": "SpriteOutput/ItemFigures/401012.png",
+    "PassengerID": 1007,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": -1716124331
+    },
+    "CardID": 237
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_208.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_208.json",
+    "CardImage": "SpriteOutput/Quest/TrainParty/GameplayCardItem/TrainPartyCardItem04.png",
+    "PassengerID": 1008,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": -1716124326
+    },
+    "CardID": 238
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_209.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_209.json",
+    "CardImage": "SpriteOutput/Quest/TrainParty/GameplayCardItem/TrainPartyCardItem01.png",
+    "PassengerID": 1009,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": -1716124325
+    },
+    "CardID": 239
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_301.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_301.json",
+    "CardImage": "SpriteOutput/ItemFigures/140209.png",
+    "PassengerID": 1001,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": -1716124366
+    },
+    "CardID": 331
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_302.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_302.json",
+    "CardImage": "SpriteOutput/ItemFigures/408802.png",
+    "PassengerID": 1002,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": -1716124367
+    },
+    "CardID": 332
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_303.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_303.json",
+    "CardImage": "SpriteOutput/ItemFigures/140023.png",
+    "PassengerID": 1003,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": -1716124368
+    },
+    "CardID": 333
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_304.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_304.json",
+    "CardImage": "SpriteOutput/ItemFigures/140001.png",
+    "PassengerID": 1004,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": -1716124361
+    },
+    "CardID": 334
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_305.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_305.json",
+    "CardImage": "SpriteOutput/ItemFigures/408431.png",
+    "PassengerID": 1005,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": -1716124362
+    },
+    "CardID": 335
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_306.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_306.json",
+    "CardImage": "SpriteOutput/Quest/TrainParty/GameplayCardItem/TrainPartyCardItem02.png",
+    "PassengerID": 1006,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": -1716124363
+    },
+    "CardID": 336
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_307.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_307.json",
+    "CardImage": "SpriteOutput/ItemFigures/401004.png",
+    "PassengerID": 1007,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": -1716124364
+    },
+    "CardID": 337
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_308.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_308.json",
+    "CardImage": "SpriteOutput/Quest/TrainParty/GameplayCardItem/TrainPartyCardItem04.png",
+    "PassengerID": 1008,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": -1716124357
+    },
+    "CardID": 338
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_309.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_309.json",
+    "CardImage": "SpriteOutput/Quest/TrainParty/GameplayCardItem/TrainPartyCardItem01.png",
+    "PassengerID": 1009,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": -1716124358
+    },
+    "CardID": 339
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_401.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_401.json",
+    "CardImage": "SpriteOutput/ItemFigures/300054.png",
+    "PassengerID": 1001,
+    "Rarity": 3,
+    "CardName": {
+      "Hash": -1716124267
+    },
+    "CardID": 431
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_402.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_402.json",
+    "CardImage": "SpriteOutput/ItemFigures/140277.png",
+    "PassengerID": 1002,
+    "Rarity": 3,
+    "CardName": {
+      "Hash": -1716124266
+    },
+    "CardID": 432
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_403.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_403.json",
+    "CardImage": "SpriteOutput/ItemFigures/140230.png",
+    "PassengerID": 1003,
+    "Rarity": 3,
+    "CardName": {
+      "Hash": -1716124265
+    },
+    "CardID": 433
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_404.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_404.json",
+    "CardImage": "SpriteOutput/ItemFigures/140237.png",
+    "PassengerID": 1004,
+    "Rarity": 3,
+    "CardName": {
+      "Hash": -1716124272
+    },
+    "CardID": 434
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_405.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_405.json",
+    "CardImage": "SpriteOutput/ItemFigures/408415.png",
+    "PassengerID": 1005,
+    "Rarity": 3,
+    "CardName": {
+      "Hash": -1716124271
+    },
+    "CardID": 435
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_406.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_406.json",
+    "CardImage": "SpriteOutput/Quest/TrainParty/GameplayCardItem/TrainPartyCardItem02.png",
+    "PassengerID": 1006,
+    "Rarity": 3,
+    "CardName": {
+      "Hash": -1716124270
+    },
+    "CardID": 436
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_407.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_407.json",
+    "CardImage": "SpriteOutput/ItemFigures/401003.png",
+    "PassengerID": 1007,
+    "Rarity": 3,
+    "CardName": {
+      "Hash": -1716124269
+    },
+    "CardID": 437
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_408.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_408.json",
+    "CardImage": "SpriteOutput/Quest/TrainParty/GameplayCardItem/TrainPartyCardItem04.png",
+    "PassengerID": 1008,
+    "Rarity": 3,
+    "CardName": {
+      "Hash": -1716124260
+    },
+    "CardID": 438
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_409.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_409.json",
+    "CardImage": "SpriteOutput/Quest/TrainParty/GameplayCardItem/TrainPartyCardItem01.png",
+    "PassengerID": 1009,
+    "Rarity": 3,
+    "CardName": {
+      "Hash": -1716124259
+    },
+    "CardID": 439
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_201.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_201.json",
+    "CardImage": "SpriteOutput/ItemFigures/408436.png",
+    "PassengerID": 1001,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": 656528662
+    },
+    "CardID": 241
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_202.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_202.json",
+    "CardImage": "SpriteOutput/ItemFigures/408606.png",
+    "PassengerID": 1002,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": 656528659
+    },
+    "CardID": 242
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_203.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_203.json",
+    "CardImage": "SpriteOutput/ItemFigures/408625.png",
+    "PassengerID": 1003,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": 656528660
+    },
+    "CardID": 243
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_204.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_204.json",
+    "CardImage": "SpriteOutput/ItemFigures/403001.png",
+    "PassengerID": 1004,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": 656528665
+    },
+    "CardID": 244
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_205.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_205.json",
+    "CardImage": "SpriteOutput/ItemFigures/140247.png",
+    "PassengerID": 1005,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": 656528666
+    },
+    "CardID": 245
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_206.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_206.json",
+    "CardImage": "SpriteOutput/Quest/TrainParty/GameplayCardItem/TrainPartyCardItem03.png",
+    "PassengerID": 1006,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": 656528663
+    },
+    "CardID": 246
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_207.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_207.json",
+    "CardImage": "SpriteOutput/ItemFigures/401012.png",
+    "PassengerID": 1007,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": 656528664
+    },
+    "CardID": 247
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_208.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_208.json",
+    "CardImage": "SpriteOutput/Quest/TrainParty/GameplayCardItem/TrainPartyCardItem04.png",
+    "PassengerID": 1008,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": 656528669
+    },
+    "CardID": 248
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_209.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_209.json",
+    "CardImage": "SpriteOutput/Quest/TrainParty/GameplayCardItem/TrainPartyCardItem01.png",
+    "PassengerID": 1009,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": 656528670
+    },
+    "CardID": 249
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_301.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_301.json",
+    "CardImage": "SpriteOutput/ItemFigures/140209.png",
+    "PassengerID": 1001,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": 656528629
+    },
+    "CardID": 341
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_302.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_302.json",
+    "CardImage": "SpriteOutput/ItemFigures/408802.png",
+    "PassengerID": 1002,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": 656528628
+    },
+    "CardID": 342
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_303.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_303.json",
+    "CardImage": "SpriteOutput/ItemFigures/140023.png",
+    "PassengerID": 1003,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": 656528627
+    },
+    "CardID": 343
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_304.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_304.json",
+    "CardImage": "SpriteOutput/ItemFigures/140001.png",
+    "PassengerID": 1004,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": 656528634
+    },
+    "CardID": 344
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_305.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_305.json",
+    "CardImage": "SpriteOutput/ItemFigures/408431.png",
+    "PassengerID": 1005,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": 656528633
+    },
+    "CardID": 345
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_306.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_306.json",
+    "CardImage": "SpriteOutput/Quest/TrainParty/GameplayCardItem/TrainPartyCardItem02.png",
+    "PassengerID": 1006,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": 656528632
+    },
+    "CardID": 346
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_307.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_307.json",
+    "CardImage": "SpriteOutput/ItemFigures/401004.png",
+    "PassengerID": 1007,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": 656528631
+    },
+    "CardID": 347
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_308.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_308.json",
+    "CardImage": "SpriteOutput/Quest/TrainParty/GameplayCardItem/TrainPartyCardItem04.png",
+    "PassengerID": 1008,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": 656528638
+    },
+    "CardID": 348
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_309.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_309.json",
+    "CardImage": "SpriteOutput/Quest/TrainParty/GameplayCardItem/TrainPartyCardItem01.png",
+    "PassengerID": 1009,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": 656528637
+    },
+    "CardID": 349
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_401.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_401.json",
+    "CardImage": "SpriteOutput/ItemFigures/300054.png",
+    "PassengerID": 1001,
+    "Rarity": 3,
+    "CardName": {
+      "Hash": 656528728
+    },
+    "CardID": 441
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_402.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_402.json",
+    "CardImage": "SpriteOutput/ItemFigures/140277.png",
+    "PassengerID": 1002,
+    "Rarity": 3,
+    "CardName": {
+      "Hash": 656528729
+    },
+    "CardID": 442
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_403.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_403.json",
+    "CardImage": "SpriteOutput/ItemFigures/140230.png",
+    "PassengerID": 1003,
+    "Rarity": 3,
+    "CardName": {
+      "Hash": 656528730
+    },
+    "CardID": 443
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_404.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_404.json",
+    "CardImage": "SpriteOutput/ItemFigures/140237.png",
+    "PassengerID": 1004,
+    "Rarity": 3,
+    "CardName": {
+      "Hash": 656528723
+    },
+    "CardID": 444
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_405.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_405.json",
+    "CardImage": "SpriteOutput/ItemFigures/408415.png",
+    "PassengerID": 1005,
+    "Rarity": 3,
+    "CardName": {
+      "Hash": 656528724
+    },
+    "CardID": 445
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_406.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_406.json",
+    "CardImage": "SpriteOutput/Quest/TrainParty/GameplayCardItem/TrainPartyCardItem02.png",
+    "PassengerID": 1006,
+    "Rarity": 3,
+    "CardName": {
+      "Hash": 656528725
+    },
+    "CardID": 446
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_407.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_407.json",
+    "CardImage": "SpriteOutput/ItemFigures/401003.png",
+    "PassengerID": 1007,
+    "Rarity": 3,
+    "CardName": {
+      "Hash": 656528726
+    },
+    "CardID": 447
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_408.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_408.json",
+    "CardImage": "SpriteOutput/Quest/TrainParty/GameplayCardItem/TrainPartyCardItem04.png",
+    "PassengerID": 1008,
+    "Rarity": 3,
+    "CardName": {
+      "Hash": 656528735
+    },
+    "CardID": 448
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_409.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_409.json",
+    "CardImage": "SpriteOutput/Quest/TrainParty/GameplayCardItem/TrainPartyCardItem01.png",
+    "PassengerID": 1009,
+    "Rarity": 3,
+    "CardName": {
+      "Hash": 656528736
+    },
+    "CardID": 449
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_201.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_201.json",
+    "CardImage": "SpriteOutput/ItemFigures/408436.png",
+    "PassengerID": 1001,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": -909555279
+    },
+    "CardID": 251
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_202.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_202.json",
+    "CardImage": "SpriteOutput/ItemFigures/408606.png",
+    "PassengerID": 1002,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": -909555282
+    },
+    "CardID": 252
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_203.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_203.json",
+    "CardImage": "SpriteOutput/ItemFigures/408625.png",
+    "PassengerID": 1003,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": -909555281
+    },
+    "CardID": 253
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_204.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_204.json",
+    "CardImage": "SpriteOutput/ItemFigures/403001.png",
+    "PassengerID": 1004,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": -909555276
+    },
+    "CardID": 254
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_205.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_205.json",
+    "CardImage": "SpriteOutput/ItemFigures/140247.png",
+    "PassengerID": 1005,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": -909555275
+    },
+    "CardID": 255
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_206.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_206.json",
+    "CardImage": "SpriteOutput/Quest/TrainParty/GameplayCardItem/TrainPartyCardItem03.png",
+    "PassengerID": 1006,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": -909555278
+    },
+    "CardID": 256
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_207.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_207.json",
+    "CardImage": "SpriteOutput/ItemFigures/401012.png",
+    "PassengerID": 1007,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": -909555277
+    },
+    "CardID": 257
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_208.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_208.json",
+    "CardImage": "SpriteOutput/Quest/TrainParty/GameplayCardItem/TrainPartyCardItem04.png",
+    "PassengerID": 1008,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": -909555272
+    },
+    "CardID": 258
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_209.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_209.json",
+    "CardImage": "SpriteOutput/Quest/TrainParty/GameplayCardItem/TrainPartyCardItem01.png",
+    "PassengerID": 1009,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": -909555271
+    },
+    "CardID": 259
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_301.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_301.json",
+    "CardImage": "SpriteOutput/ItemFigures/140209.png",
+    "PassengerID": 1001,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": -909555312
+    },
+    "CardID": 351
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_302.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_302.json",
+    "CardImage": "SpriteOutput/ItemFigures/408802.png",
+    "PassengerID": 1002,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": -909555313
+    },
+    "CardID": 352
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_303.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_303.json",
+    "CardImage": "SpriteOutput/ItemFigures/140023.png",
+    "PassengerID": 1003,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": -909555314
+    },
+    "CardID": 353
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_304.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_304.json",
+    "CardImage": "SpriteOutput/ItemFigures/140001.png",
+    "PassengerID": 1004,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": -909555307
+    },
+    "CardID": 354
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_305.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_305.json",
+    "CardImage": "SpriteOutput/ItemFigures/408431.png",
+    "PassengerID": 1005,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": -909555308
+    },
+    "CardID": 355
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_306.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_306.json",
+    "CardImage": "SpriteOutput/Quest/TrainParty/GameplayCardItem/TrainPartyCardItem02.png",
+    "PassengerID": 1006,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": -909555309
+    },
+    "CardID": 356
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_307.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_307.json",
+    "CardImage": "SpriteOutput/ItemFigures/401004.png",
+    "PassengerID": 1007,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": -909555310
+    },
+    "CardID": 357
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_308.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_308.json",
+    "CardImage": "SpriteOutput/Quest/TrainParty/GameplayCardItem/TrainPartyCardItem04.png",
+    "PassengerID": 1008,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": -909555303
+    },
+    "CardID": 358
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_309.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_309.json",
+    "CardImage": "SpriteOutput/Quest/TrainParty/GameplayCardItem/TrainPartyCardItem01.png",
+    "PassengerID": 1009,
+    "Rarity": 2,
+    "CardName": {
+      "Hash": -909555304
+    },
+    "CardID": 359
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_401.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_401.json",
+    "CardImage": "SpriteOutput/ItemFigures/300054.png",
+    "PassengerID": 1001,
+    "Rarity": 3,
+    "CardName": {
+      "Hash": -909555213
+    },
+    "CardID": 451
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_402.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_402.json",
+    "CardImage": "SpriteOutput/ItemFigures/140277.png",
+    "PassengerID": 1002,
+    "Rarity": 3,
+    "CardName": {
+      "Hash": -909555212
+    },
+    "CardID": 452
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_403.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_403.json",
+    "CardImage": "SpriteOutput/ItemFigures/140230.png",
+    "PassengerID": 1003,
+    "Rarity": 3,
+    "CardName": {
+      "Hash": -909555211
+    },
+    "CardID": 453
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_404.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_404.json",
+    "CardImage": "SpriteOutput/ItemFigures/140237.png",
+    "PassengerID": 1004,
+    "Rarity": 3,
+    "CardName": {
+      "Hash": -909555218
+    },
+    "CardID": 454
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_405.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_405.json",
+    "CardImage": "SpriteOutput/ItemFigures/408415.png",
+    "PassengerID": 1005,
+    "Rarity": 3,
+    "CardName": {
+      "Hash": -909555217
+    },
+    "CardID": 455
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_406.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_406.json",
+    "CardImage": "SpriteOutput/Quest/TrainParty/GameplayCardItem/TrainPartyCardItem02.png",
+    "PassengerID": 1006,
+    "Rarity": 3,
+    "CardName": {
+      "Hash": -909555216
+    },
+    "CardID": 456
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_407.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_407.json",
+    "CardImage": "SpriteOutput/ItemFigures/401003.png",
+    "PassengerID": 1007,
+    "Rarity": 3,
+    "CardName": {
+      "Hash": -909555215
+    },
+    "CardID": 457
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_408.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_408.json",
+    "CardImage": "SpriteOutput/Quest/TrainParty/GameplayCardItem/TrainPartyCardItem04.png",
+    "PassengerID": 1008,
+    "Rarity": 3,
+    "CardName": {
+      "Hash": -909555206
+    },
+    "CardID": 458
+  },
+  {
+    "CardActJson": "Config/Level/TrainParty/TrainPartyCard/TPCardAct_409.json",
+    "CardEffectJson": "Config/Level/TrainParty/TrainPartyCard/TPCardEffect_409.json",
+    "CardImage": "SpriteOutput/Quest/TrainParty/GameplayCardItem/TrainPartyCardItem01.png",
+    "PassengerID": 1009,
+    "Rarity": 3,
+    "CardName": {
+      "Hash": -909555205
+    },
+    "CardID": 459
+  }
+]

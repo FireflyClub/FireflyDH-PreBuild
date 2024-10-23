@@ -1,0 +1,162 @@
+[
+  {
+    "BlockTypeIcon": "SpriteOutput/Rogue/Map/RogueDlcEmptyIcon.png",
+    "BlockTypeChessBoardIcon": "SpriteOutput/Rogue/SceneNavi/SceneNaviRogueDlcEmptyIcon.png",
+    "BlockTypeChessBoardColor": "#ffffffd9",
+    "BlockTypeNameID": {
+      "Hash": -322089790
+    },
+    "BlockIntroID": 1,
+    "BlockTypeID": 1
+  },
+  {
+    "BlockTypeIcon": "SpriteOutput/Rogue/Map/RogueIntensifyIcon.png",
+    "BlockTypeChessBoardIcon": "SpriteOutput/Rogue/SceneNavi/SceneNaviRogueIntensifyIcon.png",
+    "BlockTypeChessBoardColor": "#80e5edff",
+    "BlockTypeNameID": {
+      "Hash": -322089787
+    },
+    "BlockIntroID": 2,
+    "BlockTypeID": 2
+  },
+  {
+    "BlockTypeIcon": "SpriteOutput/Rogue/Map/RogueFoeIcon.png",
+    "BlockTypeChessBoardIcon": "SpriteOutput/Rogue/SceneNavi/SceneNaviRogueFoeIcon.png",
+    "BlockTypeChessBoardColor": "#ffffffd9",
+    "BlockTypeNameID": {
+      "Hash": -322089788
+    },
+    "BlockIntroID": 3,
+    "BlockTypeID": 3
+  },
+  {
+    "BlockTypeIcon": "SpriteOutput/Rogue/Map/RogueDlcMonsterIcon.png",
+    "BlockTypeChessBoardIcon": "SpriteOutput/Rogue/SceneNavi/SceneNaviRogueDlcFoeEliteIcon.png",
+    "BlockTypeChessBoardColor": "#c979ffff",
+    "BlockTypeNameID": {
+      "Hash": -322089785
+    },
+    "BlockIntroID": 4,
+    "BlockTypeID": 4
+  },
+  {
+    "BlockTypeIcon": "SpriteOutput/Rogue/Map/RogueFoeEliteIcon.png",
+    "BlockTypeChessBoardIcon": "SpriteOutput/Rogue/SceneNavi/SceneNaviRogueFoeEliteIcon.png",
+    "BlockTypeChessBoardColor": "#ffffffd9",
+    "BlockTypeNameID": {
+      "Hash": -322089786
+    },
+    "BlockIntroID": 5,
+    "BlockTypeID": 5
+  },
+  {
+    "BlockTypeIcon": "SpriteOutput/Rogue/Map/RogueDlcGameIcon.png",
+    "BlockTypeChessBoardIcon": "SpriteOutput/Rogue/SceneNavi/SceneNaviRogueDlcGameIcon.png",
+    "BlockTypeChessBoardColor": "#f3dbb5ff",
+    "BlockTypeNameID": {
+      "Hash": -322089783
+    },
+    "BlockIntroID": 6,
+    "BlockTypeID": 6
+  },
+  {
+    "BlockTypeIcon": "SpriteOutput/Rogue/Map/RogueDlcGiftIcon.png",
+    "BlockTypeChessBoardIcon": "SpriteOutput/Rogue/SceneNavi/SceneNaviRogueDlcRewardIcon.png",
+    "BlockTypeChessBoardColor": "#f3dbb5ff",
+    "BlockTypeNameID": {
+      "Hash": -322089784
+    },
+    "BlockIntroID": 7,
+    "BlockTypeID": 7
+  },
+  {
+    "BlockTypeIcon": "SpriteOutput/Rogue/Map/RogueRandomIcon.png",
+    "BlockTypeChessBoardIcon": "SpriteOutput/Rogue/SceneNavi/SceneNaviRogueRandomIcon.png",
+    "BlockTypeChessBoardColor": "#ffffffd9",
+    "BlockTypeNameID": {
+      "Hash": -322089797
+    },
+    "BlockIntroID": 8,
+    "BlockTypeID": 8
+  },
+  {
+    "BlockTypeIcon": "SpriteOutput/Rogue/Map/RogueDlcRandomIcon.png",
+    "BlockTypeChessBoardIcon": "SpriteOutput/Rogue/SceneNavi/SceneNaviRogueDlcRandomIcon.png",
+    "BlockTypeChessBoardColor": "#c979ffff",
+    "BlockTypeNameID": {
+      "Hash": -322089798
+    },
+    "BlockIntroID": 9,
+    "BlockTypeID": 9
+  },
+  {
+    "BlockTypeIcon": "SpriteOutput/Rogue/Map/RogueBossIcon.png",
+    "BlockTypeChessBoardIcon": "SpriteOutput/Rogue/SceneNavi/SceneNaviRogueBossIcon.png",
+    "BlockTypeChessBoardColor": "#ffffffff",
+    "BlockTypeNameID": {
+      "Hash": -561210953
+    },
+    "BlockIntroID": 10,
+    "BlockTypeID": 11
+  },
+  {
+    "BlockTypeIcon": "SpriteOutput/Rogue/Map/RogueDlcBossIcon.png",
+    "BlockTypeChessBoardIcon": "SpriteOutput/Rogue/SceneNavi/SceneNaviRogueDlcBossIcon.png",
+    "BlockTypeChessBoardColor": "#ffffffff",
+    "BlockTypeNameID": {
+      "Hash": -964495480
+    },
+    "BlockIntroID": 11,
+    "BlockTypeID": 12
+  },
+  {
+    "BlockTypeIcon": "SpriteOutput/Rogue/Map/RogueDealIcon.png",
+    "BlockTypeChessBoardIcon": "SpriteOutput/Rogue/SceneNavi/SceneNaviRogueDealIcon.png",
+    "BlockTypeChessBoardColor": "#80e5edff",
+    "BlockTypeNameID": {
+      "Hash": 601588461
+    },
+    "BlockIntroID": 12,
+    "BlockTypeID": 13
+  },
+  {
+    "BlockTypeIcon": "",
+    "BlockTypeChessBoardIcon": "",
+    "BlockTypeChessBoardColor": "",
+    "BlockTypeNameID": {
+      "Hash": 371857150
+    },
+    "BlockIntroID": 0,
+    "BlockTypeID": 14
+  },
+  {
+    "BlockTypeIcon": "SpriteOutput/Rogue/Map/RogueNousDlcBossIcon.png",
+    "BlockTypeChessBoardIcon": "SpriteOutput/Rogue/SceneNavi/SceneNaviRogueNousDlcBossIcon.png",
+    "BlockTypeChessBoardColor": "#ffffffff",
+    "BlockTypeNameID": {
+      "Hash": 1408157515
+    },
+    "BlockIntroID": 10,
+    "BlockTypeID": 15
+  },
+  {
+    "BlockTypeIcon": "SpriteOutput/Rogue/Map/RogueNousEventIcon.png",
+    "BlockTypeChessBoardIcon": "SpriteOutput/Rogue/SceneNavi/SceneNaviRogueNousEventIcon.png",
+    "BlockTypeChessBoardColor": "#83ffd3",
+    "BlockTypeNameID": {
+      "Hash": 1004872988
+    },
+    "BlockIntroID": 20,
+    "BlockTypeID": 16
+  },
+  {
+    "BlockTypeIcon": "SpriteOutput/Rogue/Map/RogueNousSpEventIcon.png",
+    "BlockTypeChessBoardIcon": "SpriteOutput/Rogue/SceneNavi/SceneNaviRogueNousSpEventIcon.png",
+    "BlockTypeChessBoardColor": "#c979ff",
+    "BlockTypeNameID": {
+      "Hash": -1724010367
+    },
+    "BlockIntroID": 21,
+    "BlockTypeID": 17
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "LanguageList": [
+      "en",
+      "kr",
+      "jp"
+    ],
+    "Area": "os",
+    "DefaultLanguage": "en",
+    "Type": 0
+  },
+  {
+    "LanguageList": [
+      "cn"
+    ],
+    "Area": "cn",
+    "DefaultLanguage": "cn",
+    "Type": 1
+  },
+  {
+    "LanguageList": [
+      "cn",
+      "en",
+      "kr",
+      "jp"
+    ],
+    "Area": "os",
+    "DefaultLanguage": "en",
+    "Type": 1
+  },
+  {
+    "LanguageList": [
+      "cn"
+    ],
+    "Area": "cn",
+    "DefaultLanguage": "cn",
+    "Type": 0
+  }
+]

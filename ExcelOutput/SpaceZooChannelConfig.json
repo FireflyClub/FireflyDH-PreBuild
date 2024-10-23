@@ -1,0 +1,50 @@
+[
+  {
+    "OfficialNameText": "UIText_ActivitySpaceZoo_BodyDecal",
+    "RewardID": 0,
+    "HandbookTag": 3,
+    "Channel": "BodyDecal",
+    "InheritType": "Normal",
+    "DefaultFeatureID": 100
+  },
+  {
+    "OfficialNameText": "UIText_ActivitySpaceZoo_BodyColor",
+    "RewardID": 0,
+    "HandbookTag": 2,
+    "Channel": "BodyColor",
+    "InheritType": "Normal",
+    "DefaultFeatureID": 0
+  },
+  {
+    "OfficialNameText": "UIText_ActivitySpaceZoo_HatColor",
+    "RewardID": 0,
+    "HandbookTag": 1,
+    "Channel": "HatColor",
+    "InheritType": "Normal",
+    "DefaultFeatureID": 0
+  },
+  {
+    "OfficialNameText": "UIText_ActivitySpaceZoo_Decals",
+    "RewardID": 0,
+    "HandbookTag": 4,
+    "Channel": "TailDecal",
+    "InheritType": "No",
+    "DefaultFeatureID": 400
+  },
+  {
+    "OfficialNameText": "UIText_ActivitySpaceZoo_Decals",
+    "RewardID": 0,
+    "HandbookTag": 4,
+    "Channel": "HatDecal",
+    "InheritType": "No",
+    "DefaultFeatureID": 500
+  },
+  {
+    "OfficialNameText": "UIText_ActivitySpaceZoo_EyeDecal",
+    "RewardID": 0,
+    "HandbookTag": 5,
+    "Channel": "EyeDecal",
+    "InheritType": "No",
+    "DefaultFeatureID": 600
+  }
+]

@@ -1,0 +1,650 @@
+[
+  {
+    "StarRewardIDList": [
+      261001,
+      261002,
+      261003
+    ],
+    "StarScoreList": [
+      800,
+      1600,
+      2400
+    ],
+    "InputScore": [
+      100,
+      85,
+      0
+    ],
+    "FeverComboCount": 10,
+    "ID": 101,
+    "EnterType": 1,
+    "LevelSecCount": 0,
+    "EnterTypeParam": 0,
+    "Group": 1,
+    "Difficulty": 1
+  },
+  {
+    "StarRewardIDList": [
+      261004,
+      261005,
+      261006
+    ],
+    "StarScoreList": [
+      800,
+      1600,
+      2400
+    ],
+    "InputScore": [
+      100,
+      85,
+      0
+    ],
+    "FeverComboCount": 10,
+    "ID": 102,
+    "EnterType": 1,
+    "LevelSecCount": 0,
+    "EnterTypeParam": 0,
+    "Group": 1,
+    "Difficulty": 2
+  },
+  {
+    "StarRewardIDList": [
+      0,
+      0,
+      0
+    ],
+    "StarScoreList": [
+      800,
+      1600,
+      2400
+    ],
+    "InputScore": [
+      100,
+      85,
+      0
+    ],
+    "FeverComboCount": 10,
+    "ID": 103,
+    "EnterType": 1,
+    "LevelSecCount": 0,
+    "EnterTypeParam": 0,
+    "Group": 1,
+    "Difficulty": 3
+  },
+  {
+    "StarRewardIDList": [
+      261001,
+      261002,
+      261003
+    ],
+    "StarScoreList": [
+      575,
+      1150,
+      1725
+    ],
+    "InputScore": [
+      100,
+      85,
+      0
+    ],
+    "FeverComboCount": 6,
+    "ID": 201,
+    "EnterType": 1,
+    "LevelSecCount": 0,
+    "EnterTypeParam": 0,
+    "Group": 2,
+    "Difficulty": 1
+  },
+  {
+    "StarRewardIDList": [
+      261004,
+      261005,
+      261006
+    ],
+    "StarScoreList": [
+      600,
+      1200,
+      1800
+    ],
+    "InputScore": [
+      100,
+      85,
+      0
+    ],
+    "FeverComboCount": 6,
+    "ID": 202,
+    "EnterType": 1,
+    "LevelSecCount": 0,
+    "EnterTypeParam": 0,
+    "Group": 2,
+    "Difficulty": 2
+  },
+  {
+    "StarRewardIDList": [
+      0,
+      0,
+      0
+    ],
+    "StarScoreList": [
+      600,
+      1200,
+      1800
+    ],
+    "InputScore": [
+      100,
+      85,
+      0
+    ],
+    "FeverComboCount": 6,
+    "ID": 203,
+    "EnterType": 1,
+    "LevelSecCount": 0,
+    "EnterTypeParam": 0,
+    "Group": 2,
+    "Difficulty": 3
+  },
+  {
+    "StarRewardIDList": [
+      261001,
+      261002,
+      261003
+    ],
+    "StarScoreList": [
+      325,
+      650,
+      975
+    ],
+    "InputScore": [
+      100,
+      85,
+      0
+    ],
+    "FeverComboCount": 3,
+    "ID": 301,
+    "EnterType": 1,
+    "LevelSecCount": 0,
+    "EnterTypeParam": 0,
+    "Group": 3,
+    "Difficulty": 1
+  },
+  {
+    "StarRewardIDList": [
+      261004,
+      261005,
+      261006
+    ],
+    "StarScoreList": [
+      375,
+      750,
+      1125
+    ],
+    "InputScore": [
+      100,
+      85,
+      0
+    ],
+    "FeverComboCount": 3,
+    "ID": 302,
+    "EnterType": 1,
+    "LevelSecCount": 0,
+    "EnterTypeParam": 0,
+    "Group": 3,
+    "Difficulty": 2
+  },
+  {
+    "StarRewardIDList": [
+      0,
+      0,
+      0
+    ],
+    "StarScoreList": [
+      350,
+      700,
+      1050
+    ],
+    "InputScore": [
+      100,
+      85,
+      0
+    ],
+    "FeverComboCount": 3,
+    "ID": 303,
+    "EnterType": 1,
+    "LevelSecCount": 0,
+    "EnterTypeParam": 0,
+    "Group": 3,
+    "Difficulty": 3
+  },
+  {
+    "StarRewardIDList": [
+      261001,
+      261002,
+      261003
+    ],
+    "StarScoreList": [
+      240,
+      480,
+      720
+    ],
+    "InputScore": [
+      100,
+      85,
+      0
+    ],
+    "FeverComboCount": 4,
+    "ID": 401,
+    "EnterType": 1,
+    "LevelSecCount": 0,
+    "EnterTypeParam": 0,
+    "Group": 4,
+    "Difficulty": 1
+  },
+  {
+    "StarRewardIDList": [
+      261004,
+      261005,
+      261006
+    ],
+    "StarScoreList": [
+      240,
+      480,
+      720
+    ],
+    "InputScore": [
+      100,
+      85,
+      0
+    ],
+    "FeverComboCount": 4,
+    "ID": 402,
+    "EnterType": 1,
+    "LevelSecCount": 0,
+    "EnterTypeParam": 0,
+    "Group": 4,
+    "Difficulty": 2
+  },
+  {
+    "StarRewardIDList": [
+      0,
+      0,
+      0
+    ],
+    "StarScoreList": [
+      240,
+      480,
+      720
+    ],
+    "InputScore": [
+      100,
+      85,
+      0
+    ],
+    "FeverComboCount": 4,
+    "ID": 403,
+    "EnterType": 1,
+    "LevelSecCount": 0,
+    "EnterTypeParam": 0,
+    "Group": 4,
+    "Difficulty": 3
+  },
+  {
+    "StarRewardIDList": [
+      261001,
+      261002,
+      261003
+    ],
+    "StarScoreList": [
+      350,
+      700,
+      1050
+    ],
+    "InputScore": [
+      100,
+      85,
+      0
+    ],
+    "FeverComboCount": 5,
+    "ID": 501,
+    "EnterType": 1,
+    "LevelSecCount": 0,
+    "EnterTypeParam": 0,
+    "Group": 5,
+    "Difficulty": 1
+  },
+  {
+    "StarRewardIDList": [
+      261004,
+      261005,
+      261006
+    ],
+    "StarScoreList": [
+      500,
+      1000,
+      1500
+    ],
+    "InputScore": [
+      100,
+      85,
+      0
+    ],
+    "FeverComboCount": 5,
+    "ID": 502,
+    "EnterType": 1,
+    "LevelSecCount": 0,
+    "EnterTypeParam": 0,
+    "Group": 5,
+    "Difficulty": 2
+  },
+  {
+    "StarRewardIDList": [
+      0,
+      0,
+      0
+    ],
+    "StarScoreList": [
+      350,
+      700,
+      1050
+    ],
+    "InputScore": [
+      100,
+      85,
+      0
+    ],
+    "FeverComboCount": 5,
+    "ID": 503,
+    "EnterType": 1,
+    "LevelSecCount": 0,
+    "EnterTypeParam": 0,
+    "Group": 5,
+    "Difficulty": 3
+  },
+  {
+    "StarRewardIDList": [
+      261001,
+      261002,
+      261003
+    ],
+    "StarScoreList": [
+      560,
+      1120,
+      1680
+    ],
+    "InputScore": [
+      100,
+      85,
+      0
+    ],
+    "FeverComboCount": 6,
+    "ID": 601,
+    "EnterType": 1,
+    "LevelSecCount": 0,
+    "EnterTypeParam": 0,
+    "Group": 6,
+    "Difficulty": 1
+  },
+  {
+    "StarRewardIDList": [
+      261004,
+      261005,
+      261006
+    ],
+    "StarScoreList": [
+      620,
+      1240,
+      1860
+    ],
+    "InputScore": [
+      100,
+      85,
+      0
+    ],
+    "FeverComboCount": 6,
+    "ID": 602,
+    "EnterType": 1,
+    "LevelSecCount": 0,
+    "EnterTypeParam": 0,
+    "Group": 6,
+    "Difficulty": 2
+  },
+  {
+    "StarRewardIDList": [
+      0,
+      0,
+      0
+    ],
+    "StarScoreList": [
+      620,
+      1240,
+      1860
+    ],
+    "InputScore": [
+      100,
+      85,
+      0
+    ],
+    "FeverComboCount": 6,
+    "ID": 603,
+    "EnterType": 1,
+    "LevelSecCount": 0,
+    "EnterTypeParam": 0,
+    "Group": 6,
+    "Difficulty": 3
+  },
+  {
+    "StarRewardIDList": [
+      261001,
+      261002,
+      261003
+    ],
+    "StarScoreList": [
+      600,
+      1200,
+      1800
+    ],
+    "InputScore": [
+      100,
+      85,
+      0
+    ],
+    "FeverComboCount": 4,
+    "ID": 701,
+    "EnterType": 1,
+    "LevelSecCount": 0,
+    "EnterTypeParam": 0,
+    "Group": 7,
+    "Difficulty": 1
+  },
+  {
+    "StarRewardIDList": [
+      261004,
+      261005,
+      261006
+    ],
+    "StarScoreList": [
+      700,
+      1400,
+      2100
+    ],
+    "InputScore": [
+      100,
+      85,
+      0
+    ],
+    "FeverComboCount": 4,
+    "ID": 702,
+    "EnterType": 1,
+    "LevelSecCount": 0,
+    "EnterTypeParam": 0,
+    "Group": 7,
+    "Difficulty": 2
+  },
+  {
+    "StarRewardIDList": [
+      0,
+      0,
+      0
+    ],
+    "StarScoreList": [
+      700,
+      1400,
+      2100
+    ],
+    "InputScore": [
+      100,
+      85,
+      0
+    ],
+    "FeverComboCount": 4,
+    "ID": 703,
+    "EnterType": 1,
+    "LevelSecCount": 0,
+    "EnterTypeParam": 0,
+    "Group": 7,
+    "Difficulty": 3
+  },
+  {
+    "StarRewardIDList": [
+      261001,
+      261002,
+      261003
+    ],
+    "StarScoreList": [
+      400,
+      800,
+      1200
+    ],
+    "InputScore": [
+      100,
+      85,
+      0
+    ],
+    "FeverComboCount": 5,
+    "ID": 801,
+    "EnterType": 1,
+    "LevelSecCount": 0,
+    "EnterTypeParam": 0,
+    "Group": 8,
+    "Difficulty": 1
+  },
+  {
+    "StarRewardIDList": [
+      261004,
+      261005,
+      261006
+    ],
+    "StarScoreList": [
+      440,
+      880,
+      1320
+    ],
+    "InputScore": [
+      100,
+      85,
+      0
+    ],
+    "FeverComboCount": 5,
+    "ID": 802,
+    "EnterType": 1,
+    "LevelSecCount": 0,
+    "EnterTypeParam": 0,
+    "Group": 8,
+    "Difficulty": 2
+  },
+  {
+    "StarRewardIDList": [
+      0,
+      0,
+      0
+    ],
+    "StarScoreList": [
+      440,
+      880,
+      1320
+    ],
+    "InputScore": [
+      100,
+      85,
+      0
+    ],
+    "FeverComboCount": 5,
+    "ID": 803,
+    "EnterType": 1,
+    "LevelSecCount": 0,
+    "EnterTypeParam": 0,
+    "Group": 8,
+    "Difficulty": 3
+  },
+  {
+    "StarRewardIDList": [
+      261001,
+      261002,
+      261003
+    ],
+    "StarScoreList": [
+      600,
+      1200,
+      1800
+    ],
+    "InputScore": [
+      100,
+      85,
+      0
+    ],
+    "FeverComboCount": 6,
+    "ID": 901,
+    "EnterType": 1,
+    "LevelSecCount": 0,
+    "EnterTypeParam": 0,
+    "Group": 9,
+    "Difficulty": 1
+  },
+  {
+    "StarRewardIDList": [
+      261004,
+      261005,
+      261006
+    ],
+    "StarScoreList": [
+      700,
+      1400,
+      2100
+    ],
+    "InputScore": [
+      100,
+      85,
+      0
+    ],
+    "FeverComboCount": 6,
+    "ID": 902,
+    "EnterType": 1,
+    "LevelSecCount": 0,
+    "EnterTypeParam": 0,
+    "Group": 9,
+    "Difficulty": 2
+  },
+  {
+    "StarRewardIDList": [
+      0,
+      0,
+      0
+    ],
+    "StarScoreList": [
+      600,
+      1200,
+      1800
+    ],
+    "InputScore": [
+      100,
+      85,
+      0
+    ],
+    "FeverComboCount": 6,
+    "ID": 903,
+    "EnterType": 1,
+    "LevelSecCount": 0,
+    "EnterTypeParam": 0,
+    "Group": 9,
+    "Difficulty": 3
+  }
+]

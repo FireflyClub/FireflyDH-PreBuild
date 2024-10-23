@@ -1,0 +1,20 @@
+[
+  {
+    "TabIDList": [
+      1,
+      2
+    ],
+    "ActivityID": 50007,
+    "RewardID": 0,
+    "RaidCollectionType": "Penacony"
+  },
+  {
+    "TabIDList": [
+      3,
+      4
+    ],
+    "ActivityID": 50021,
+    "RewardID": 50021,
+    "RaidCollectionType": "LuoFu"
+  }
+]

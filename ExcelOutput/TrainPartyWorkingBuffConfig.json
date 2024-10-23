@@ -1,0 +1,52 @@
+[
+  {
+    "IconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1001.png",
+    "Description": {
+      "Hash": 1869871974
+    },
+    "Name": {
+      "Hash": -1947230731
+    },
+    "WorkingBuffID": 101
+  },
+  {
+    "IconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1002.png",
+    "Description": {
+      "Hash": 1869871971
+    },
+    "Name": {
+      "Hash": -1543946204
+    },
+    "WorkingBuffID": 102
+  },
+  {
+    "IconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1003.png",
+    "Description": {
+      "Hash": 1869871972
+    },
+    "Name": {
+      "Hash": 1184937151
+    },
+    "WorkingBuffID": 103
+  },
+  {
+    "IconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1004.png",
+    "Description": {
+      "Hash": 1869871969
+    },
+    "Name": {
+      "Hash": 1944452038
+    },
+    "WorkingBuffID": 104
+  },
+  {
+    "IconPath": "SpriteOutput/AvatarRoundIcon/Avatar/8001.png",
+    "Description": {
+      "Hash": 1869871970
+    },
+    "Name": {
+      "Hash": 378368097
+    },
+    "WorkingBuffID": 105
+  }
+]

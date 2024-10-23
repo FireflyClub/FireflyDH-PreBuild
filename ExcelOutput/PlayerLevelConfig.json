@@ -1,0 +1,562 @@
+[
+  {
+    "LevelRewardID": 0,
+    "PlayerExp": 0,
+    "Level": 1,
+    "RewardStamina": 0,
+    "RewardID": 0,
+    "StaminaLimit": 240
+  },
+  {
+    "LevelRewardID": 100002,
+    "PlayerExp": 450,
+    "Level": 2,
+    "RewardStamina": 0,
+    "RewardID": 0,
+    "StaminaLimit": 240
+  },
+  {
+    "LevelRewardID": 100003,
+    "PlayerExp": 950,
+    "Level": 3,
+    "RewardStamina": 0,
+    "RewardID": 0,
+    "StaminaLimit": 240
+  },
+  {
+    "LevelRewardID": 100004,
+    "PlayerExp": 1500,
+    "Level": 4,
+    "RewardStamina": 0,
+    "RewardID": 0,
+    "StaminaLimit": 240
+  },
+  {
+    "LevelRewardID": 100005,
+    "PlayerExp": 2110,
+    "Level": 5,
+    "RewardStamina": 0,
+    "RewardID": 0,
+    "StaminaLimit": 240
+  },
+  {
+    "LevelRewardID": 100006,
+    "PlayerExp": 2780,
+    "Level": 6,
+    "RewardStamina": 0,
+    "RewardID": 0,
+    "StaminaLimit": 240
+  },
+  {
+    "LevelRewardID": 100007,
+    "PlayerExp": 3500,
+    "Level": 7,
+    "RewardStamina": 0,
+    "RewardID": 0,
+    "StaminaLimit": 240
+  },
+  {
+    "LevelRewardID": 100008,
+    "PlayerExp": 4280,
+    "Level": 8,
+    "RewardStamina": 0,
+    "RewardID": 0,
+    "StaminaLimit": 240
+  },
+  {
+    "LevelRewardID": 100009,
+    "PlayerExp": 5120,
+    "Level": 9,
+    "RewardStamina": 0,
+    "RewardID": 0,
+    "StaminaLimit": 240
+  },
+  {
+    "LevelRewardID": 100010,
+    "PlayerExp": 6020,
+    "Level": 10,
+    "RewardStamina": 0,
+    "RewardID": 0,
+    "StaminaLimit": 240
+  },
+  {
+    "LevelRewardID": 100011,
+    "PlayerExp": 6980,
+    "Level": 11,
+    "RewardStamina": 0,
+    "RewardID": 0,
+    "StaminaLimit": 240
+  },
+  {
+    "LevelRewardID": 100012,
+    "PlayerExp": 8000,
+    "Level": 12,
+    "RewardStamina": 0,
+    "RewardID": 0,
+    "StaminaLimit": 240
+  },
+  {
+    "LevelRewardID": 100013,
+    "PlayerExp": 9070,
+    "Level": 13,
+    "RewardStamina": 0,
+    "RewardID": 0,
+    "StaminaLimit": 240
+  },
+  {
+    "LevelRewardID": 100014,
+    "PlayerExp": 10200,
+    "Level": 14,
+    "RewardStamina": 0,
+    "RewardID": 0,
+    "StaminaLimit": 240
+  },
+  {
+    "LevelRewardID": 100015,
+    "PlayerExp": 11390,
+    "Level": 15,
+    "RewardStamina": 0,
+    "RewardID": 0,
+    "StaminaLimit": 240
+  },
+  {
+    "LevelRewardID": 100016,
+    "PlayerExp": 12640,
+    "Level": 16,
+    "RewardStamina": 0,
+    "RewardID": 0,
+    "StaminaLimit": 240
+  },
+  {
+    "LevelRewardID": 100017,
+    "PlayerExp": 13950,
+    "Level": 17,
+    "RewardStamina": 0,
+    "RewardID": 0,
+    "StaminaLimit": 240
+  },
+  {
+    "LevelRewardID": 100018,
+    "PlayerExp": 15320,
+    "Level": 18,
+    "RewardStamina": 0,
+    "RewardID": 0,
+    "StaminaLimit": 240
+  },
+  {
+    "LevelRewardID": 100019,
+    "PlayerExp": 16750,
+    "Level": 19,
+    "RewardStamina": 0,
+    "RewardID": 0,
+    "StaminaLimit": 240
+  },
+  {
+    "LevelRewardID": 100020,
+    "PlayerExp": 18250,
+    "Level": 20,
+    "RewardStamina": 0,
+    "RewardID": 0,
+    "StaminaLimit": 240
+  },
+  {
+    "LevelRewardID": 100021,
+    "PlayerExp": 19850,
+    "Level": 21,
+    "RewardStamina": 0,
+    "RewardID": 0,
+    "StaminaLimit": 240
+  },
+  {
+    "LevelRewardID": 100022,
+    "PlayerExp": 21560,
+    "Level": 22,
+    "RewardStamina": 0,
+    "RewardID": 0,
+    "StaminaLimit": 240
+  },
+  {
+    "LevelRewardID": 100023,
+    "PlayerExp": 23390,
+    "Level": 23,
+    "RewardStamina": 0,
+    "RewardID": 0,
+    "StaminaLimit": 240
+  },
+  {
+    "LevelRewardID": 100024,
+    "PlayerExp": 25340,
+    "Level": 24,
+    "RewardStamina": 0,
+    "RewardID": 0,
+    "StaminaLimit": 240
+  },
+  {
+    "LevelRewardID": 100025,
+    "PlayerExp": 27420,
+    "Level": 25,
+    "RewardStamina": 0,
+    "RewardID": 0,
+    "StaminaLimit": 240
+  },
+  {
+    "LevelRewardID": 100026,
+    "PlayerExp": 29630,
+    "Level": 26,
+    "RewardStamina": 0,
+    "RewardID": 0,
+    "StaminaLimit": 240
+  },
+  {
+    "LevelRewardID": 100027,
+    "PlayerExp": 31980,
+    "Level": 27,
+    "RewardStamina": 0,
+    "RewardID": 0,
+    "StaminaLimit": 240
+  },
+  {
+    "LevelRewardID": 100028,
+    "PlayerExp": 34460,
+    "Level": 28,
+    "RewardStamina": 0,
+    "RewardID": 0,
+    "StaminaLimit": 240
+  },
+  {
+    "LevelRewardID": 100029,
+    "PlayerExp": 37080,
+    "Level": 29,
+    "RewardStamina": 0,
+    "RewardID": 0,
+    "StaminaLimit": 240
+  },
+  {
+    "LevelRewardID": 100030,
+    "PlayerExp": 39830,
+    "Level": 30,
+    "RewardStamina": 0,
+    "RewardID": 0,
+    "StaminaLimit": 240
+  },
+  {
+    "LevelRewardID": 100031,
+    "PlayerExp": 42680,
+    "Level": 31,
+    "RewardStamina": 0,
+    "RewardID": 0,
+    "StaminaLimit": 240
+  },
+  {
+    "LevelRewardID": 100032,
+    "PlayerExp": 45640,
+    "Level": 32,
+    "RewardStamina": 0,
+    "RewardID": 0,
+    "StaminaLimit": 240
+  },
+  {
+    "LevelRewardID": 100033,
+    "PlayerExp": 48720,
+    "Level": 33,
+    "RewardStamina": 0,
+    "RewardID": 0,
+    "StaminaLimit": 240
+  },
+  {
+    "LevelRewardID": 100034,
+    "PlayerExp": 51920,
+    "Level": 34,
+    "RewardStamina": 0,
+    "RewardID": 0,
+    "StaminaLimit": 240
+  },
+  {
+    "LevelRewardID": 100035,
+    "PlayerExp": 55250,
+    "Level": 35,
+    "RewardStamina": 0,
+    "RewardID": 0,
+    "StaminaLimit": 240
+  },
+  {
+    "LevelRewardID": 100036,
+    "PlayerExp": 58710,
+    "Level": 36,
+    "RewardStamina": 0,
+    "RewardID": 0,
+    "StaminaLimit": 240
+  },
+  {
+    "LevelRewardID": 100037,
+    "PlayerExp": 62310,
+    "Level": 37,
+    "RewardStamina": 0,
+    "RewardID": 0,
+    "StaminaLimit": 240
+  },
+  {
+    "LevelRewardID": 100038,
+    "PlayerExp": 66040,
+    "Level": 38,
+    "RewardStamina": 0,
+    "RewardID": 0,
+    "StaminaLimit": 240
+  },
+  {
+    "LevelRewardID": 100039,
+    "PlayerExp": 69910,
+    "Level": 39,
+    "RewardStamina": 0,
+    "RewardID": 0,
+    "StaminaLimit": 240
+  },
+  {
+    "LevelRewardID": 100040,
+    "PlayerExp": 73910,
+    "Level": 40,
+    "RewardStamina": 0,
+    "RewardID": 0,
+    "StaminaLimit": 240
+  },
+  {
+    "LevelRewardID": 100041,
+    "PlayerExp": 78050,
+    "Level": 41,
+    "RewardStamina": 0,
+    "RewardID": 0,
+    "StaminaLimit": 240
+  },
+  {
+    "LevelRewardID": 100042,
+    "PlayerExp": 82330,
+    "Level": 42,
+    "RewardStamina": 0,
+    "RewardID": 0,
+    "StaminaLimit": 240
+  },
+  {
+    "LevelRewardID": 100043,
+    "PlayerExp": 86760,
+    "Level": 43,
+    "RewardStamina": 0,
+    "RewardID": 0,
+    "StaminaLimit": 240
+  },
+  {
+    "LevelRewardID": 100044,
+    "PlayerExp": 91330,
+    "Level": 44,
+    "RewardStamina": 0,
+    "RewardID": 0,
+    "StaminaLimit": 240
+  },
+  {
+    "LevelRewardID": 100045,
+    "PlayerExp": 96040,
+    "Level": 45,
+    "RewardStamina": 0,
+    "RewardID": 0,
+    "StaminaLimit": 240
+  },
+  {
+    "LevelRewardID": 100046,
+    "PlayerExp": 100900,
+    "Level": 46,
+    "RewardStamina": 0,
+    "RewardID": 0,
+    "StaminaLimit": 240
+  },
+  {
+    "LevelRewardID": 100047,
+    "PlayerExp": 105900,
+    "Level": 47,
+    "RewardStamina": 0,
+    "RewardID": 0,
+    "StaminaLimit": 240
+  },
+  {
+    "LevelRewardID": 100048,
+    "PlayerExp": 111050,
+    "Level": 48,
+    "RewardStamina": 0,
+    "RewardID": 0,
+    "StaminaLimit": 240
+  },
+  {
+    "LevelRewardID": 100049,
+    "PlayerExp": 116350,
+    "Level": 49,
+    "RewardStamina": 0,
+    "RewardID": 0,
+    "StaminaLimit": 240
+  },
+  {
+    "LevelRewardID": 100050,
+    "PlayerExp": 121790,
+    "Level": 50,
+    "RewardStamina": 0,
+    "RewardID": 0,
+    "StaminaLimit": 240
+  },
+  {
+    "LevelRewardID": 100051,
+    "PlayerExp": 127490,
+    "Level": 51,
+    "RewardStamina": 0,
+    "RewardID": 0,
+    "StaminaLimit": 240
+  },
+  {
+    "LevelRewardID": 100052,
+    "PlayerExp": 133640,
+    "Level": 52,
+    "RewardStamina": 0,
+    "RewardID": 0,
+    "StaminaLimit": 240
+  },
+  {
+    "LevelRewardID": 100053,
+    "PlayerExp": 140270,
+    "Level": 53,
+    "RewardStamina": 0,
+    "RewardID": 0,
+    "StaminaLimit": 240
+  },
+  {
+    "LevelRewardID": 100054,
+    "PlayerExp": 147400,
+    "Level": 54,
+    "RewardStamina": 0,
+    "RewardID": 0,
+    "StaminaLimit": 240
+  },
+  {
+    "LevelRewardID": 100055,
+    "PlayerExp": 155040,
+    "Level": 55,
+    "RewardStamina": 0,
+    "RewardID": 0,
+    "StaminaLimit": 240
+  },
+  {
+    "LevelRewardID": 100056,
+    "PlayerExp": 163210,
+    "Level": 56,
+    "RewardStamina": 0,
+    "RewardID": 0,
+    "StaminaLimit": 240
+  },
+  {
+    "LevelRewardID": 100057,
+    "PlayerExp": 171910,
+    "Level": 57,
+    "RewardStamina": 0,
+    "RewardID": 0,
+    "StaminaLimit": 240
+  },
+  {
+    "LevelRewardID": 100058,
+    "PlayerExp": 181140,
+    "Level": 58,
+    "RewardStamina": 0,
+    "RewardID": 0,
+    "StaminaLimit": 240
+  },
+  {
+    "LevelRewardID": 100059,
+    "PlayerExp": 190920,
+    "Level": 59,
+    "RewardStamina": 0,
+    "RewardID": 0,
+    "StaminaLimit": 240
+  },
+  {
+    "LevelRewardID": 100060,
+    "PlayerExp": 201250,
+    "Level": 60,
+    "RewardStamina": 0,
+    "RewardID": 0,
+    "StaminaLimit": 240
+  },
+  {
+    "LevelRewardID": 100061,
+    "PlayerExp": 221550,
+    "Level": 61,
+    "RewardStamina": 0,
+    "RewardID": 0,
+    "StaminaLimit": 240
+  },
+  {
+    "LevelRewardID": 100062,
+    "PlayerExp": 243330,
+    "Level": 62,
+    "RewardStamina": 0,
+    "RewardID": 0,
+    "StaminaLimit": 240
+  },
+  {
+    "LevelRewardID": 100063,
+    "PlayerExp": 266680,
+    "Level": 63,
+    "RewardStamina": 0,
+    "RewardID": 0,
+    "StaminaLimit": 240
+  },
+  {
+    "LevelRewardID": 100064,
+    "PlayerExp": 291650,
+    "Level": 64,
+    "RewardStamina": 0,
+    "RewardID": 0,
+    "StaminaLimit": 240
+  },
+  {
+    "LevelRewardID": 100065,
+    "PlayerExp": 318280,
+    "Level": 65,
+    "RewardStamina": 0,
+    "RewardID": 0,
+    "StaminaLimit": 240
+  },
+  {
+    "LevelRewardID": 100066,
+    "PlayerExp": 383350,
+    "Level": 66,
+    "RewardStamina": 0,
+    "RewardID": 0,
+    "StaminaLimit": 240
+  },
+  {
+    "LevelRewardID": 100067,
+    "PlayerExp": 452160,
+    "Level": 67,
+    "RewardStamina": 0,
+    "RewardID": 0,
+    "StaminaLimit": 240
+  },
+  {
+    "LevelRewardID": 100068,
+    "PlayerExp": 524650,
+    "Level": 68,
+    "RewardStamina": 0,
+    "RewardID": 0,
+    "StaminaLimit": 240
+  },
+  {
+    "LevelRewardID": 100069,
+    "PlayerExp": 600770,
+    "Level": 69,
+    "RewardStamina": 0,
+    "RewardID": 0,
+    "StaminaLimit": 240
+  },
+  {
+    "LevelRewardID": 100070,
+    "PlayerExp": 680480,
+    "Level": 70,
+    "RewardStamina": 0,
+    "RewardID": 0,
+    "StaminaLimit": 240
+  }
+]

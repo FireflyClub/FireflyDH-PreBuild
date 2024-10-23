@@ -1,0 +1,86 @@
+[
+  {
+    "Priority": 99,
+    "LogContent": {
+      "Hash": 1356590696
+    },
+    "LogType": "PassengerStatsExpAddZero"
+  },
+  {
+    "Priority": 98,
+    "LogContent": {
+      "Hash": 1759875225
+    },
+    "LogType": "PassengerStatsExpAdd"
+  },
+  {
+    "Priority": 97,
+    "LogContent": {
+      "Hash": -1372292652
+    },
+    "LogType": "PassengerStatsExpAddDoubleZero"
+  },
+  {
+    "Priority": 96,
+    "LogContent": {
+      "Hash": 1356590694
+    },
+    "LogType": "PassengerStatsExpAddDouble"
+  },
+  {
+    "Priority": 95,
+    "LogContent": {
+      "Hash": 1356590697
+    },
+    "LogType": "AddBuildCoin"
+  },
+  {
+    "Priority": 199,
+    "LogContent": {
+      "Hash": -1372292653
+    },
+    "LogType": "ModifyGrid"
+  },
+  {
+    "Priority": 198,
+    "LogContent": {
+      "Hash": -1372292654
+    },
+    "LogType": "AddCardStep"
+  },
+  {
+    "Priority": 197,
+    "LogContent": {
+      "Hash": -1372292655
+    },
+    "LogType": "SubCardStep"
+  },
+  {
+    "Priority": 196,
+    "LogContent": {
+      "Hash": -1372292656
+    },
+    "LogType": "AddStatRatioNextTime"
+  },
+  {
+    "Priority": 195,
+    "LogContent": {
+      "Hash": -1372292657
+    },
+    "LogType": "SubStatRatioNextTime"
+  },
+  {
+    "Priority": 194,
+    "LogContent": {
+      "Hash": -1372292658
+    },
+    "LogType": "AddAllStatToTop"
+  },
+  {
+    "Priority": 193,
+    "LogContent": {
+      "Hash": -1372292659
+    },
+    "LogType": "ModifyGridFail"
+  }
+]

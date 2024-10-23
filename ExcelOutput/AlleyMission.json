@@ -1,0 +1,396 @@
+[
+  {
+    "EventEffect": [
+      11,
+      12,
+      101,
+      201
+    ],
+    "NextMission": 8003202,
+    "IsUrgent": false,
+    "IsMissionTrack": true,
+    "MissionID": 8003201
+  },
+  {
+    "EventEffect": [
+      102,
+      202
+    ],
+    "NextMission": 8003213,
+    "IsUrgent": false,
+    "IsMissionTrack": true,
+    "MissionID": 8003202
+  },
+  {
+    "EventEffect": [],
+    "NextMission": 8003214,
+    "IsUrgent": false,
+    "IsMissionTrack": true,
+    "MissionID": 8003213
+  },
+  {
+    "EventEffect": [],
+    "NextMission": 8003204,
+    "IsUrgent": false,
+    "IsMissionTrack": true,
+    "MissionID": 8003214
+  },
+  {
+    "EventEffect": [],
+    "NextMission": 8003220,
+    "IsUrgent": false,
+    "IsMissionTrack": false,
+    "MissionID": 8003204
+  },
+  {
+    "EventEffect": [],
+    "NextMission": 0,
+    "IsUrgent": true,
+    "IsMissionTrack": true,
+    "MissionID": 8003220
+  },
+  {
+    "EventEffect": [],
+    "NextMission": 8003203,
+    "IsUrgent": true,
+    "IsMissionTrack": true,
+    "MissionID": 8003217
+  },
+  {
+    "EventEffect": [
+      21
+    ],
+    "NextMission": 8003215,
+    "IsUrgent": true,
+    "IsMissionTrack": true,
+    "MissionID": 8003203
+  },
+  {
+    "EventEffect": [],
+    "NextMission": 8003205,
+    "IsUrgent": false,
+    "IsMissionTrack": false,
+    "MissionID": 8003215
+  },
+  {
+    "EventEffect": [
+      22,
+      104,
+      204
+    ],
+    "NextMission": 8003206,
+    "IsUrgent": true,
+    "IsMissionTrack": true,
+    "MissionID": 8003205
+  },
+  {
+    "EventEffect": [],
+    "NextMission": 8003207,
+    "IsUrgent": true,
+    "IsMissionTrack": true,
+    "MissionID": 8003206
+  },
+  {
+    "EventEffect": [],
+    "NextMission": 8003221,
+    "IsUrgent": false,
+    "IsMissionTrack": false,
+    "MissionID": 8003207
+  },
+  {
+    "EventEffect": [],
+    "NextMission": 0,
+    "IsUrgent": true,
+    "IsMissionTrack": true,
+    "MissionID": 8003221
+  },
+  {
+    "EventEffect": [],
+    "NextMission": 8003208,
+    "IsUrgent": true,
+    "IsMissionTrack": true,
+    "MissionID": 8003218
+  },
+  {
+    "EventEffect": [
+      31
+    ],
+    "NextMission": 8003216,
+    "IsUrgent": true,
+    "IsMissionTrack": true,
+    "MissionID": 8003208
+  },
+  {
+    "EventEffect": [
+      32,
+      107,
+      207
+    ],
+    "NextMission": 8003209,
+    "IsUrgent": false,
+    "IsMissionTrack": false,
+    "MissionID": 8003216
+  },
+  {
+    "EventEffect": [],
+    "NextMission": 8003210,
+    "IsUrgent": true,
+    "IsMissionTrack": true,
+    "MissionID": 8003209
+  },
+  {
+    "EventEffect": [],
+    "NextMission": 8003222,
+    "IsUrgent": false,
+    "IsMissionTrack": false,
+    "MissionID": 8003210
+  },
+  {
+    "EventEffect": [],
+    "NextMission": 0,
+    "IsUrgent": true,
+    "IsMissionTrack": true,
+    "MissionID": 8003222
+  },
+  {
+    "EventEffect": [],
+    "NextMission": 8003211,
+    "IsUrgent": true,
+    "IsMissionTrack": true,
+    "MissionID": 8003219
+  },
+  {
+    "EventEffect": [],
+    "NextMission": 8003212,
+    "IsUrgent": true,
+    "IsMissionTrack": true,
+    "MissionID": 8003211
+  },
+  {
+    "EventEffect": [],
+    "NextMission": 0,
+    "IsUrgent": false,
+    "IsMissionTrack": true,
+    "MissionID": 8003212
+  },
+  {
+    "EventEffect": [],
+    "NextMission": 0,
+    "IsUrgent": false,
+    "IsMissionTrack": false,
+    "MissionID": 8003281
+  },
+  {
+    "EventEffect": [],
+    "NextMission": 0,
+    "IsUrgent": false,
+    "IsMissionTrack": false,
+    "MissionID": 8003282
+  },
+  {
+    "EventEffect": [
+      103,
+      203
+    ],
+    "NextMission": 8003247,
+    "IsUrgent": true,
+    "IsMissionTrack": false,
+    "MissionID": 8003246
+  },
+  {
+    "EventEffect": [],
+    "NextMission": 0,
+    "IsUrgent": true,
+    "IsMissionTrack": false,
+    "MissionID": 8003247
+  },
+  {
+    "EventEffect": [],
+    "NextMission": 0,
+    "IsUrgent": false,
+    "IsMissionTrack": false,
+    "MissionID": 8003283
+  },
+  {
+    "EventEffect": [
+      105,
+      205
+    ],
+    "NextMission": 8003245,
+    "IsUrgent": true,
+    "IsMissionTrack": false,
+    "MissionID": 8003244
+  },
+  {
+    "EventEffect": [],
+    "NextMission": 0,
+    "IsUrgent": true,
+    "IsMissionTrack": false,
+    "MissionID": 8003245
+  },
+  {
+    "EventEffect": [
+      106,
+      206
+    ],
+    "NextMission": 8003243,
+    "IsUrgent": true,
+    "IsMissionTrack": false,
+    "MissionID": 8003242
+  },
+  {
+    "EventEffect": [],
+    "NextMission": 0,
+    "IsUrgent": true,
+    "IsMissionTrack": false,
+    "MissionID": 8003243
+  },
+  {
+    "EventEffect": [],
+    "NextMission": 0,
+    "IsUrgent": false,
+    "IsMissionTrack": false,
+    "MissionID": 8003284
+  },
+  {
+    "EventEffect": [
+      108,
+      208
+    ],
+    "NextMission": 8003251,
+    "IsUrgent": true,
+    "IsMissionTrack": false,
+    "MissionID": 8003250
+  },
+  {
+    "EventEffect": [],
+    "NextMission": 0,
+    "IsUrgent": true,
+    "IsMissionTrack": false,
+    "MissionID": 8003251
+  },
+  {
+    "EventEffect": [
+      109,
+      209
+    ],
+    "NextMission": 8003249,
+    "IsUrgent": true,
+    "IsMissionTrack": false,
+    "MissionID": 8003248
+  },
+  {
+    "EventEffect": [],
+    "NextMission": 0,
+    "IsUrgent": true,
+    "IsMissionTrack": false,
+    "MissionID": 8003249
+  },
+  {
+    "EventEffect": [
+      33
+    ],
+    "NextMission": 8003241,
+    "IsUrgent": true,
+    "IsMissionTrack": false,
+    "MissionID": 8003240
+  },
+  {
+    "EventEffect": [
+      110,
+      210
+    ],
+    "NextMission": 0,
+    "IsUrgent": true,
+    "IsMissionTrack": false,
+    "MissionID": 8003241
+  },
+  {
+    "EventEffect": [
+      301
+    ],
+    "NextMission": 0,
+    "IsUrgent": false,
+    "IsMissionTrack": false,
+    "MissionID": 8003260
+  },
+  {
+    "EventEffect": [
+      302
+    ],
+    "NextMission": 0,
+    "IsUrgent": false,
+    "IsMissionTrack": false,
+    "MissionID": 8003261
+  },
+  {
+    "EventEffect": [
+      303
+    ],
+    "NextMission": 0,
+    "IsUrgent": false,
+    "IsMissionTrack": false,
+    "MissionID": 8003262
+  },
+  {
+    "EventEffect": [
+      304
+    ],
+    "NextMission": 0,
+    "IsUrgent": false,
+    "IsMissionTrack": false,
+    "MissionID": 8003263
+  },
+  {
+    "EventEffect": [
+      305
+    ],
+    "NextMission": 0,
+    "IsUrgent": false,
+    "IsMissionTrack": false,
+    "MissionID": 8003264
+  },
+  {
+    "EventEffect": [
+      306
+    ],
+    "NextMission": 0,
+    "IsUrgent": false,
+    "IsMissionTrack": false,
+    "MissionID": 8003265
+  },
+  {
+    "EventEffect": [
+      307
+    ],
+    "NextMission": 0,
+    "IsUrgent": false,
+    "IsMissionTrack": false,
+    "MissionID": 8003266
+  },
+  {
+    "EventEffect": [
+      308
+    ],
+    "NextMission": 0,
+    "IsUrgent": false,
+    "IsMissionTrack": false,
+    "MissionID": 8003267
+  },
+  {
+    "EventEffect": [
+      309
+    ],
+    "NextMission": 0,
+    "IsUrgent": false,
+    "IsMissionTrack": false,
+    "MissionID": 8003269
+  },
+  {
+    "EventEffect": [],
+    "NextMission": 0,
+    "IsUrgent": true,
+    "IsMissionTrack": false,
+    "MissionID": 8003280
+  }
+]

@@ -1,0 +1,1027 @@
+[
+  {
+    "ExtraEffect": [],
+    "FormulaTypeDisplay": 401,
+    "FormulaDisplayID": 10114000,
+    "FormulaStory": {
+      "Hash": -1632964140
+    }
+  },
+  {
+    "ExtraEffect": [],
+    "FormulaTypeDisplay": 401,
+    "FormulaDisplayID": 10214000,
+    "FormulaStory": {
+      "Hash": -1632962985
+    }
+  },
+  {
+    "ExtraEffect": [],
+    "FormulaTypeDisplay": 401,
+    "FormulaDisplayID": 10314000,
+    "FormulaStory": {
+      "Hash": -1632961962
+    }
+  },
+  {
+    "ExtraEffect": [
+      61000301
+    ],
+    "FormulaTypeDisplay": 401,
+    "FormulaDisplayID": 10414000,
+    "FormulaStory": {
+      "Hash": -1632969255
+    }
+  },
+  {
+    "ExtraEffect": [],
+    "FormulaTypeDisplay": 401,
+    "FormulaDisplayID": 10514000,
+    "FormulaStory": {
+      "Hash": -1632968232
+    }
+  },
+  {
+    "ExtraEffect": [],
+    "FormulaTypeDisplay": 401,
+    "FormulaDisplayID": 10614000,
+    "FormulaStory": {
+      "Hash": -1632967077
+    }
+  },
+  {
+    "ExtraEffect": [],
+    "FormulaTypeDisplay": 401,
+    "FormulaDisplayID": 10714000,
+    "FormulaStory": {
+      "Hash": -1632966054
+    }
+  },
+  {
+    "ExtraEffect": [
+      61000302
+    ],
+    "FormulaTypeDisplay": 401,
+    "FormulaDisplayID": 10814000,
+    "FormulaStory": {
+      "Hash": -1632956451
+    }
+  },
+  {
+    "ExtraEffect": [
+      61000303
+    ],
+    "FormulaTypeDisplay": 401,
+    "FormulaDisplayID": 10914000,
+    "FormulaStory": {
+      "Hash": -1632955428
+    }
+  },
+  {
+    "ExtraEffect": [
+      61000500,
+      60000001
+    ],
+    "FormulaTypeDisplay": 402,
+    "FormulaDisplayID": 10108024,
+    "FormulaStory": {
+      "Hash": 611564851
+    }
+  },
+  {
+    "ExtraEffect": [
+      60000002
+    ],
+    "FormulaTypeDisplay": 402,
+    "FormulaDisplayID": 10207055,
+    "FormulaStory": {
+      "Hash": -954518363
+    }
+  },
+  {
+    "ExtraEffect": [
+      60000012,
+      61000500,
+      61000044
+    ],
+    "FormulaTypeDisplay": 402,
+    "FormulaDisplayID": 10308094,
+    "FormulaStory": {
+      "Hash": 611567020
+    }
+  },
+  {
+    "ExtraEffect": [
+      60000013,
+      61000500,
+      60000005
+    ],
+    "FormulaTypeDisplay": 402,
+    "FormulaDisplayID": 10408064,
+    "FormulaStory": {
+      "Hash": 611559476
+    }
+  },
+  {
+    "ExtraEffect": [
+      60000004,
+      61000500,
+      60000017
+    ],
+    "FormulaTypeDisplay": 402,
+    "FormulaDisplayID": 10508084,
+    "FormulaStory": {
+      "Hash": 611560485
+    }
+  },
+  {
+    "ExtraEffect": [
+      60000005,
+      61000500
+    ],
+    "FormulaTypeDisplay": 402,
+    "FormulaDisplayID": 10607015,
+    "FormulaStory": {
+      "Hash": -954522459
+    }
+  },
+  {
+    "ExtraEffect": [
+      60000013
+    ],
+    "FormulaTypeDisplay": 402,
+    "FormulaDisplayID": 10708044,
+    "FormulaStory": {
+      "Hash": 611562675
+    }
+  },
+  {
+    "ExtraEffect": [
+      60000017,
+      61000500
+    ],
+    "FormulaTypeDisplay": 402,
+    "FormulaDisplayID": 10807035,
+    "FormulaStory": {
+      "Hash": -954511703
+    }
+  },
+  {
+    "ExtraEffect": [
+      60000003,
+      61000044
+    ],
+    "FormulaTypeDisplay": 402,
+    "FormulaDisplayID": 10907075,
+    "FormulaStory": {
+      "Hash": -954510612
+    }
+  },
+  {
+    "ExtraEffect": [
+      60000001
+    ],
+    "FormulaTypeDisplay": 403,
+    "FormulaDisplayID": 10105033,
+    "FormulaStory": {
+      "Hash": -147950336
+    }
+  },
+  {
+    "ExtraEffect": [
+      60000001
+    ],
+    "FormulaTypeDisplay": 403,
+    "FormulaDisplayID": 10105043,
+    "FormulaStory": {
+      "Hash": -147950333
+    }
+  },
+  {
+    "ExtraEffect": [
+      60000013
+    ],
+    "FormulaTypeDisplay": 403,
+    "FormulaDisplayID": 10204044,
+    "FormulaStory": {
+      "Hash": 611565612
+    }
+  },
+  {
+    "ExtraEffect": [
+      60000002
+    ],
+    "FormulaTypeDisplay": 403,
+    "FormulaDisplayID": 10205093,
+    "FormulaStory": {
+      "Hash": -147949239
+    }
+  },
+  {
+    "ExtraEffect": [
+      60000012
+    ],
+    "FormulaTypeDisplay": 403,
+    "FormulaDisplayID": 10305023,
+    "FormulaStory": {
+      "Hash": -147948161
+    }
+  },
+  {
+    "ExtraEffect": [],
+    "FormulaTypeDisplay": 403,
+    "FormulaDisplayID": 10304074,
+    "FormulaStory": {
+      "Hash": 611566634
+    }
+  },
+  {
+    "ExtraEffect": [
+      60000013
+    ],
+    "FormulaTypeDisplay": 403,
+    "FormulaDisplayID": 10405053,
+    "FormulaStory": {
+      "Hash": -147955521
+    }
+  },
+  {
+    "ExtraEffect": [
+      60000013
+    ],
+    "FormulaTypeDisplay": 403,
+    "FormulaDisplayID": 10405083,
+    "FormulaStory": {
+      "Hash": -147955510
+    }
+  },
+  {
+    "ExtraEffect": [
+      60000004
+    ],
+    "FormulaTypeDisplay": 403,
+    "FormulaDisplayID": 10505013,
+    "FormulaStory": {
+      "Hash": -147954430
+    }
+  },
+  {
+    "ExtraEffect": [],
+    "FormulaTypeDisplay": 403,
+    "FormulaDisplayID": 10504074,
+    "FormulaStory": {
+      "Hash": 611560360
+    }
+  },
+  {
+    "ExtraEffect": [
+      60000005
+    ],
+    "FormulaTypeDisplay": 403,
+    "FormulaDisplayID": 10605023,
+    "FormulaStory": {
+      "Hash": -147953342
+    }
+  },
+  {
+    "ExtraEffect": [
+      10000015,
+      60000005
+    ],
+    "FormulaTypeDisplay": 403,
+    "FormulaDisplayID": 10604034,
+    "FormulaStory": {
+      "Hash": 611561513
+    }
+  },
+  {
+    "ExtraEffect": [
+      60000003
+    ],
+    "FormulaTypeDisplay": 403,
+    "FormulaDisplayID": 10705063,
+    "FormulaStory": {
+      "Hash": -147952257
+    }
+  },
+  {
+    "ExtraEffect": [
+      60000017
+    ],
+    "FormulaTypeDisplay": 403,
+    "FormulaDisplayID": 10704084,
+    "FormulaStory": {
+      "Hash": 611562547
+    }
+  },
+  {
+    "ExtraEffect": [
+      60000017
+    ],
+    "FormulaTypeDisplay": 403,
+    "FormulaDisplayID": 10805013,
+    "FormulaStory": {
+      "Hash": -147942713
+    }
+  },
+  {
+    "ExtraEffect": [
+      60000017
+    ],
+    "FormulaTypeDisplay": 403,
+    "FormulaDisplayID": 10805093,
+    "FormulaStory": {
+      "Hash": -147942721
+    }
+  },
+  {
+    "ExtraEffect": [
+      61000044
+    ],
+    "FormulaTypeDisplay": 403,
+    "FormulaDisplayID": 10905053,
+    "FormulaStory": {
+      "Hash": -147941622
+    }
+  },
+  {
+    "ExtraEffect": [],
+    "FormulaTypeDisplay": 403,
+    "FormulaDisplayID": 10904064,
+    "FormulaStory": {
+      "Hash": 611573171
+    }
+  },
+  {
+    "ExtraEffect": [],
+    "FormulaTypeDisplay": 404,
+    "FormulaDisplayID": 10103022,
+    "FormulaStory": {
+      "Hash": 1418133800
+    }
+  },
+  {
+    "ExtraEffect": [],
+    "FormulaTypeDisplay": 404,
+    "FormulaDisplayID": 10103062,
+    "FormulaStory": {
+      "Hash": 1418133796
+    }
+  },
+  {
+    "ExtraEffect": [
+      60000001
+    ],
+    "FormulaTypeDisplay": 404,
+    "FormulaDisplayID": 10103072,
+    "FormulaStory": {
+      "Hash": 1418133795
+    }
+  },
+  {
+    "ExtraEffect": [],
+    "FormulaTypeDisplay": 404,
+    "FormulaDisplayID": 10203012,
+    "FormulaStory": {
+      "Hash": 1418134760
+    }
+  },
+  {
+    "ExtraEffect": [
+      60000003
+    ],
+    "FormulaTypeDisplay": 404,
+    "FormulaDisplayID": 10203072,
+    "FormulaStory": {
+      "Hash": 1418134758
+    }
+  },
+  {
+    "ExtraEffect": [],
+    "FormulaTypeDisplay": 404,
+    "FormulaDisplayID": 10203092,
+    "FormulaStory": {
+      "Hash": 1418134768
+    }
+  },
+  {
+    "ExtraEffect": [],
+    "FormulaTypeDisplay": 404,
+    "FormulaDisplayID": 10303012,
+    "FormulaStory": {
+      "Hash": 1418135847
+    }
+  },
+  {
+    "ExtraEffect": [],
+    "FormulaTypeDisplay": 404,
+    "FormulaDisplayID": 10303052,
+    "FormulaStory": {
+      "Hash": 1418135843
+    }
+  },
+  {
+    "ExtraEffect": [
+      60000012
+    ],
+    "FormulaTypeDisplay": 404,
+    "FormulaDisplayID": 10303092,
+    "FormulaStory": {
+      "Hash": 1418135855
+    }
+  },
+  {
+    "ExtraEffect": [
+      60000013
+    ],
+    "FormulaTypeDisplay": 404,
+    "FormulaDisplayID": 10403052,
+    "FormulaStory": {
+      "Hash": 1418128362
+    }
+  },
+  {
+    "ExtraEffect": [
+      60000005
+    ],
+    "FormulaTypeDisplay": 404,
+    "FormulaDisplayID": 10403062,
+    "FormulaStory": {
+      "Hash": 1418128359
+    }
+  },
+  {
+    "ExtraEffect": [],
+    "FormulaTypeDisplay": 404,
+    "FormulaDisplayID": 10403082,
+    "FormulaStory": {
+      "Hash": 1418128365
+    }
+  },
+  {
+    "ExtraEffect": [
+      60000004
+    ],
+    "FormulaTypeDisplay": 404,
+    "FormulaDisplayID": 10503012,
+    "FormulaStory": {
+      "Hash": 1418129445
+    }
+  },
+  {
+    "ExtraEffect": [
+      60000004
+    ],
+    "FormulaTypeDisplay": 404,
+    "FormulaDisplayID": 10503022,
+    "FormulaStory": {
+      "Hash": 1418129444
+    }
+  },
+  {
+    "ExtraEffect": [
+      60000004
+    ],
+    "FormulaTypeDisplay": 404,
+    "FormulaDisplayID": 10503042,
+    "FormulaStory": {
+      "Hash": 1418129450
+    }
+  },
+  {
+    "ExtraEffect": [
+      60000005
+    ],
+    "FormulaTypeDisplay": 404,
+    "FormulaDisplayID": 10603032,
+    "FormulaStory": {
+      "Hash": 1418130406
+    }
+  },
+  {
+    "ExtraEffect": [
+      60000005
+    ],
+    "FormulaTypeDisplay": 404,
+    "FormulaDisplayID": 10603042,
+    "FormulaStory": {
+      "Hash": 1418130407
+    }
+  },
+  {
+    "ExtraEffect": [
+      61000044
+    ],
+    "FormulaTypeDisplay": 404,
+    "FormulaDisplayID": 10603092,
+    "FormulaStory": {
+      "Hash": 1418130412
+    }
+  },
+  {
+    "ExtraEffect": [
+      60000003
+    ],
+    "FormulaTypeDisplay": 404,
+    "FormulaDisplayID": 10703032,
+    "FormulaStory": {
+      "Hash": 1418131493
+    }
+  },
+  {
+    "ExtraEffect": [
+      60000003
+    ],
+    "FormulaTypeDisplay": 404,
+    "FormulaDisplayID": 10703042,
+    "FormulaStory": {
+      "Hash": 1418131496
+    }
+  },
+  {
+    "ExtraEffect": [],
+    "FormulaTypeDisplay": 404,
+    "FormulaDisplayID": 10703082,
+    "FormulaStory": {
+      "Hash": 1418131500
+    }
+  },
+  {
+    "ExtraEffect": [
+      60000017
+    ],
+    "FormulaTypeDisplay": 404,
+    "FormulaDisplayID": 10803022,
+    "FormulaStory": {
+      "Hash": 1418141423
+    }
+  },
+  {
+    "ExtraEffect": [
+      60000017
+    ],
+    "FormulaTypeDisplay": 404,
+    "FormulaDisplayID": 10803032,
+    "FormulaStory": {
+      "Hash": 1418141424
+    }
+  },
+  {
+    "ExtraEffect": [],
+    "FormulaTypeDisplay": 404,
+    "FormulaDisplayID": 10803062,
+    "FormulaStory": {
+      "Hash": 1418141419
+    }
+  },
+  {
+    "ExtraEffect": [],
+    "FormulaTypeDisplay": 404,
+    "FormulaDisplayID": 10903052,
+    "FormulaStory": {
+      "Hash": 1418142509
+    }
+  },
+  {
+    "ExtraEffect": [],
+    "FormulaTypeDisplay": 404,
+    "FormulaDisplayID": 10903072,
+    "FormulaStory": {
+      "Hash": 1418142507
+    }
+  },
+  {
+    "ExtraEffect": [],
+    "FormulaTypeDisplay": 404,
+    "FormulaDisplayID": 10903082,
+    "FormulaStory": {
+      "Hash": 1418142506
+    }
+  },
+  {
+    "ExtraEffect": [
+      60000003
+    ],
+    "FormulaTypeDisplay": 0,
+    "FormulaDisplayID": 1240705,
+    "FormulaStory": {
+      "Hash": -1940873034
+    }
+  },
+  {
+    "ExtraEffect": [
+      61000500,
+      60000002
+    ],
+    "FormulaTypeDisplay": 0,
+    "FormulaDisplayID": 1240206,
+    "FormulaStory": {
+      "Hash": -1940873192
+    }
+  },
+  {
+    "ExtraEffect": [
+      61000500,
+      60000017
+    ],
+    "FormulaTypeDisplay": 0,
+    "FormulaDisplayID": 1240908,
+    "FormulaStory": {
+      "Hash": -1940872973
+    }
+  },
+  {
+    "ExtraEffect": [
+      61000500
+    ],
+    "FormulaTypeDisplay": 0,
+    "FormulaDisplayID": 1240504,
+    "FormulaStory": {
+      "Hash": -1940873101
+    }
+  },
+  {
+    "ExtraEffect": [],
+    "FormulaTypeDisplay": 0,
+    "FormulaDisplayID": 1240609,
+    "FormulaStory": {
+      "Hash": -1940873055
+    }
+  },
+  {
+    "ExtraEffect": [
+      60000017
+    ],
+    "FormulaTypeDisplay": 0,
+    "FormulaDisplayID": 1230805,
+    "FormulaStory": {
+      "Hash": -1940865442
+    }
+  },
+  {
+    "ExtraEffect": [],
+    "FormulaTypeDisplay": 0,
+    "FormulaDisplayID": 1230208,
+    "FormulaStory": {
+      "Hash": -1940865761
+    }
+  },
+  {
+    "ExtraEffect": [],
+    "FormulaTypeDisplay": 0,
+    "FormulaDisplayID": 1230304,
+    "FormulaStory": {
+      "Hash": -1940865676
+    }
+  },
+  {
+    "ExtraEffect": [
+      60000003
+    ],
+    "FormulaTypeDisplay": 0,
+    "FormulaDisplayID": 1230702,
+    "FormulaStory": {
+      "Hash": -1940865802
+    }
+  },
+  {
+    "ExtraEffect": [
+      60000001
+    ],
+    "FormulaTypeDisplay": 0,
+    "FormulaDisplayID": 1230601,
+    "FormulaStory": {
+      "Hash": -1940865900
+    }
+  },
+  {
+    "ExtraEffect": [],
+    "FormulaTypeDisplay": 0,
+    "FormulaDisplayID": 1230903,
+    "FormulaStory": {
+      "Hash": -1940865345
+    }
+  },
+  {
+    "ExtraEffect": [
+      60000004
+    ],
+    "FormulaTypeDisplay": 0,
+    "FormulaDisplayID": 1230506,
+    "FormulaStory": {
+      "Hash": -1940865736
+    }
+  },
+  {
+    "ExtraEffect": [
+      60000003
+    ],
+    "FormulaTypeDisplay": 0,
+    "FormulaDisplayID": 1230407,
+    "FormulaStory": {
+      "Hash": -1940865832
+    }
+  },
+  {
+    "ExtraEffect": [
+      60000001
+    ],
+    "FormulaTypeDisplay": 0,
+    "FormulaDisplayID": 1230109,
+    "FormulaStory": {
+      "Hash": -1940865599
+    }
+  },
+  {
+    "ExtraEffect": [
+      60000005
+    ],
+    "FormulaTypeDisplay": 0,
+    "FormulaDisplayID": 1220906,
+    "FormulaStory": {
+      "Hash": -1940866437
+    }
+  },
+  {
+    "ExtraEffect": [
+      60000002
+    ],
+    "FormulaTypeDisplay": 0,
+    "FormulaDisplayID": 1220205,
+    "FormulaStory": {
+      "Hash": -1940866797
+    }
+  },
+  {
+    "ExtraEffect": [],
+    "FormulaTypeDisplay": 0,
+    "FormulaDisplayID": 1220104,
+    "FormulaStory": {
+      "Hash": -1940866699
+    }
+  },
+  {
+    "ExtraEffect": [
+      61000500
+    ],
+    "FormulaTypeDisplay": 0,
+    "FormulaDisplayID": 1220306,
+    "FormulaStory": {
+      "Hash": -1940866763
+    }
+  },
+  {
+    "ExtraEffect": [
+      60000003
+    ],
+    "FormulaTypeDisplay": 0,
+    "FormulaDisplayID": 1220701,
+    "FormulaStory": {
+      "Hash": -1940866892
+    }
+  },
+  {
+    "ExtraEffect": [
+      60000017
+    ],
+    "FormulaTypeDisplay": 0,
+    "FormulaDisplayID": 1220408,
+    "FormulaStory": {
+      "Hash": -1940866850
+    }
+  },
+  {
+    "ExtraEffect": [],
+    "FormulaTypeDisplay": 0,
+    "FormulaDisplayID": 1220803,
+    "FormulaStory": {
+      "Hash": -1940866465
+    }
+  },
+  {
+    "ExtraEffect": [],
+    "FormulaTypeDisplay": 0,
+    "FormulaDisplayID": 1220602,
+    "FormulaStory": {
+      "Hash": -1940866922
+    }
+  },
+  {
+    "ExtraEffect": [
+      60000004
+    ],
+    "FormulaTypeDisplay": 0,
+    "FormulaDisplayID": 1220509,
+    "FormulaStory": {
+      "Hash": -1940866818
+    }
+  },
+  {
+    "ExtraEffect": [
+      60000012,
+      61000500
+    ],
+    "FormulaTypeDisplay": 0,
+    "FormulaDisplayID": 1340302,
+    "FormulaStory": {
+      "Hash": -1859802930
+    }
+  },
+  {
+    "ExtraEffect": [
+      61000500
+    ],
+    "FormulaTypeDisplay": 0,
+    "FormulaDisplayID": 1340801,
+    "FormulaStory": {
+      "Hash": -1859802762
+    }
+  },
+  {
+    "ExtraEffect": [
+      60000001
+    ],
+    "FormulaTypeDisplay": 0,
+    "FormulaDisplayID": 1340107,
+    "FormulaStory": {
+      "Hash": -1859802987
+    }
+  },
+  {
+    "ExtraEffect": [
+      60000013,
+      61000500
+    ],
+    "FormulaTypeDisplay": 0,
+    "FormulaDisplayID": 1340403,
+    "FormulaStory": {
+      "Hash": -1859802892
+    }
+  },
+  {
+    "ExtraEffect": [
+      60000005
+    ],
+    "FormulaTypeDisplay": 0,
+    "FormulaDisplayID": 1330608,
+    "FormulaStory": {
+      "Hash": -1859795658
+    }
+  },
+  {
+    "ExtraEffect": [],
+    "FormulaTypeDisplay": 0,
+    "FormulaDisplayID": 1330502,
+    "FormulaStory": {
+      "Hash": -1859795505
+    }
+  },
+  {
+    "ExtraEffect": [
+      61000044
+    ],
+    "FormulaTypeDisplay": 0,
+    "FormulaDisplayID": 1330709,
+    "FormulaStory": {
+      "Hash": -1859795562
+    }
+  },
+  {
+    "ExtraEffect": [],
+    "FormulaTypeDisplay": 0,
+    "FormulaDisplayID": 1330804,
+    "FormulaStory": {
+      "Hash": -1859795208
+    }
+  },
+  {
+    "ExtraEffect": [
+      61000044
+    ],
+    "FormulaTypeDisplay": 0,
+    "FormulaDisplayID": 1330901,
+    "FormulaStory": {
+      "Hash": -1859795108
+    }
+  },
+  {
+    "ExtraEffect": [
+      60000012
+    ],
+    "FormulaTypeDisplay": 0,
+    "FormulaDisplayID": 1330305,
+    "FormulaStory": {
+      "Hash": -1859795442
+    }
+  },
+  {
+    "ExtraEffect": [],
+    "FormulaTypeDisplay": 0,
+    "FormulaDisplayID": 1330107,
+    "FormulaStory": {
+      "Hash": -1859795378
+    }
+  },
+  {
+    "ExtraEffect": [
+      60000012
+    ],
+    "FormulaTypeDisplay": 0,
+    "FormulaDisplayID": 1330203,
+    "FormulaStory": {
+      "Hash": -1859795531
+    }
+  },
+  {
+    "ExtraEffect": [
+      60000013
+    ],
+    "FormulaTypeDisplay": 0,
+    "FormulaDisplayID": 1330406,
+    "FormulaStory": {
+      "Hash": -1859795598
+    }
+  },
+  {
+    "ExtraEffect": [
+      60000001
+    ],
+    "FormulaTypeDisplay": 0,
+    "FormulaDisplayID": 1320103,
+    "FormulaStory": {
+      "Hash": -1859796461
+    }
+  },
+  {
+    "ExtraEffect": [],
+    "FormulaTypeDisplay": 0,
+    "FormulaDisplayID": 1320605,
+    "FormulaStory": {
+      "Hash": -1859796686
+    }
+  },
+  {
+    "ExtraEffect": [],
+    "FormulaTypeDisplay": 0,
+    "FormulaDisplayID": 1320902,
+    "FormulaStory": {
+      "Hash": -1859796198
+    }
+  },
+  {
+    "ExtraEffect": [
+      60000017
+    ],
+    "FormulaTypeDisplay": 0,
+    "FormulaDisplayID": 1320801,
+    "FormulaStory": {
+      "Hash": -1859796228
+    }
+  },
+  {
+    "ExtraEffect": [],
+    "FormulaTypeDisplay": 0,
+    "FormulaDisplayID": 1320304,
+    "FormulaStory": {
+      "Hash": -1859796530
+    }
+  },
+  {
+    "ExtraEffect": [
+      60000004
+    ],
+    "FormulaTypeDisplay": 0,
+    "FormulaDisplayID": 1320508,
+    "FormulaStory": {
+      "Hash": -1859796584
+    }
+  },
+  {
+    "ExtraEffect": [],
+    "FormulaTypeDisplay": 0,
+    "FormulaDisplayID": 1320206,
+    "FormulaStory": {
+      "Hash": -1859796559
+    }
+  },
+  {
+    "ExtraEffect": [
+      60000013
+    ],
+    "FormulaTypeDisplay": 0,
+    "FormulaDisplayID": 1320407,
+    "FormulaStory": {
+      "Hash": -1859796622
+    }
+  },
+  {
+    "ExtraEffect": [
+      60000003
+    ],
+    "FormulaTypeDisplay": 0,
+    "FormulaDisplayID": 1320709,
+    "FormulaStory": {
+      "Hash": -1859796649
+    }
+  }
+]

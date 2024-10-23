@@ -1,0 +1,800 @@
+[
+  {
+    "WeeklyScore": 250,
+    "LayerNum": 1,
+    "WorldLevel": 0,
+    "RoomNum": 1
+  },
+  {
+    "WeeklyScore": 500,
+    "LayerNum": 1,
+    "WorldLevel": 0,
+    "RoomNum": 2
+  },
+  {
+    "WeeklyScore": 750,
+    "LayerNum": 1,
+    "WorldLevel": 0,
+    "RoomNum": 3
+  },
+  {
+    "WeeklyScore": 1250,
+    "LayerNum": 1,
+    "WorldLevel": 0,
+    "RoomNum": 4
+  },
+  {
+    "WeeklyScore": 1500,
+    "LayerNum": 2,
+    "WorldLevel": 0,
+    "RoomNum": 1
+  },
+  {
+    "WeeklyScore": 1750,
+    "LayerNum": 2,
+    "WorldLevel": 0,
+    "RoomNum": 2
+  },
+  {
+    "WeeklyScore": 2000,
+    "LayerNum": 2,
+    "WorldLevel": 0,
+    "RoomNum": 3
+  },
+  {
+    "WeeklyScore": 2250,
+    "LayerNum": 2,
+    "WorldLevel": 0,
+    "RoomNum": 4
+  },
+  {
+    "WeeklyScore": 2500,
+    "LayerNum": 2,
+    "WorldLevel": 0,
+    "RoomNum": 5
+  },
+  {
+    "WeeklyScore": 2750,
+    "LayerNum": 2,
+    "WorldLevel": 0,
+    "RoomNum": 6
+  },
+  {
+    "WeeklyScore": 3000,
+    "LayerNum": 2,
+    "WorldLevel": 0,
+    "RoomNum": 7
+  },
+  {
+    "WeeklyScore": 3500,
+    "LayerNum": 2,
+    "WorldLevel": 0,
+    "RoomNum": 8
+  },
+  {
+    "WeeklyScore": 3750,
+    "LayerNum": 3,
+    "WorldLevel": 0,
+    "RoomNum": 1
+  },
+  {
+    "WeeklyScore": 4000,
+    "LayerNum": 3,
+    "WorldLevel": 0,
+    "RoomNum": 2
+  },
+  {
+    "WeeklyScore": 4250,
+    "LayerNum": 3,
+    "WorldLevel": 0,
+    "RoomNum": 3
+  },
+  {
+    "WeeklyScore": 4500,
+    "LayerNum": 3,
+    "WorldLevel": 0,
+    "RoomNum": 4
+  },
+  {
+    "WeeklyScore": 4500,
+    "LayerNum": 3,
+    "WorldLevel": 0,
+    "RoomNum": 5
+  },
+  {
+    "WeeklyScore": 5000,
+    "LayerNum": 3,
+    "WorldLevel": 0,
+    "RoomNum": 6
+  },
+  {
+    "WeeklyScore": 5000,
+    "LayerNum": 4,
+    "WorldLevel": 0,
+    "RoomNum": 1
+  },
+  {
+    "WeeklyScore": 250,
+    "LayerNum": 1,
+    "WorldLevel": 1,
+    "RoomNum": 1
+  },
+  {
+    "WeeklyScore": 500,
+    "LayerNum": 1,
+    "WorldLevel": 1,
+    "RoomNum": 2
+  },
+  {
+    "WeeklyScore": 750,
+    "LayerNum": 1,
+    "WorldLevel": 1,
+    "RoomNum": 3
+  },
+  {
+    "WeeklyScore": 1250,
+    "LayerNum": 1,
+    "WorldLevel": 1,
+    "RoomNum": 4
+  },
+  {
+    "WeeklyScore": 1500,
+    "LayerNum": 2,
+    "WorldLevel": 1,
+    "RoomNum": 1
+  },
+  {
+    "WeeklyScore": 1750,
+    "LayerNum": 2,
+    "WorldLevel": 1,
+    "RoomNum": 2
+  },
+  {
+    "WeeklyScore": 2000,
+    "LayerNum": 2,
+    "WorldLevel": 1,
+    "RoomNum": 3
+  },
+  {
+    "WeeklyScore": 2250,
+    "LayerNum": 2,
+    "WorldLevel": 1,
+    "RoomNum": 4
+  },
+  {
+    "WeeklyScore": 2500,
+    "LayerNum": 2,
+    "WorldLevel": 1,
+    "RoomNum": 5
+  },
+  {
+    "WeeklyScore": 2750,
+    "LayerNum": 2,
+    "WorldLevel": 1,
+    "RoomNum": 6
+  },
+  {
+    "WeeklyScore": 3000,
+    "LayerNum": 2,
+    "WorldLevel": 1,
+    "RoomNum": 7
+  },
+  {
+    "WeeklyScore": 3500,
+    "LayerNum": 2,
+    "WorldLevel": 1,
+    "RoomNum": 8
+  },
+  {
+    "WeeklyScore": 3750,
+    "LayerNum": 3,
+    "WorldLevel": 1,
+    "RoomNum": 1
+  },
+  {
+    "WeeklyScore": 4000,
+    "LayerNum": 3,
+    "WorldLevel": 1,
+    "RoomNum": 2
+  },
+  {
+    "WeeklyScore": 4250,
+    "LayerNum": 3,
+    "WorldLevel": 1,
+    "RoomNum": 3
+  },
+  {
+    "WeeklyScore": 4500,
+    "LayerNum": 3,
+    "WorldLevel": 1,
+    "RoomNum": 4
+  },
+  {
+    "WeeklyScore": 4500,
+    "LayerNum": 3,
+    "WorldLevel": 1,
+    "RoomNum": 5
+  },
+  {
+    "WeeklyScore": 5000,
+    "LayerNum": 3,
+    "WorldLevel": 1,
+    "RoomNum": 6
+  },
+  {
+    "WeeklyScore": 5000,
+    "LayerNum": 4,
+    "WorldLevel": 1,
+    "RoomNum": 1
+  },
+  {
+    "WeeklyScore": 350,
+    "LayerNum": 1,
+    "WorldLevel": 2,
+    "RoomNum": 1
+  },
+  {
+    "WeeklyScore": 700,
+    "LayerNum": 1,
+    "WorldLevel": 2,
+    "RoomNum": 2
+  },
+  {
+    "WeeklyScore": 1050,
+    "LayerNum": 1,
+    "WorldLevel": 2,
+    "RoomNum": 3
+  },
+  {
+    "WeeklyScore": 1750,
+    "LayerNum": 1,
+    "WorldLevel": 2,
+    "RoomNum": 4
+  },
+  {
+    "WeeklyScore": 2100,
+    "LayerNum": 2,
+    "WorldLevel": 2,
+    "RoomNum": 1
+  },
+  {
+    "WeeklyScore": 2450,
+    "LayerNum": 2,
+    "WorldLevel": 2,
+    "RoomNum": 2
+  },
+  {
+    "WeeklyScore": 2800,
+    "LayerNum": 2,
+    "WorldLevel": 2,
+    "RoomNum": 3
+  },
+  {
+    "WeeklyScore": 3150,
+    "LayerNum": 2,
+    "WorldLevel": 2,
+    "RoomNum": 4
+  },
+  {
+    "WeeklyScore": 3500,
+    "LayerNum": 2,
+    "WorldLevel": 2,
+    "RoomNum": 5
+  },
+  {
+    "WeeklyScore": 3850,
+    "LayerNum": 2,
+    "WorldLevel": 2,
+    "RoomNum": 6
+  },
+  {
+    "WeeklyScore": 4200,
+    "LayerNum": 2,
+    "WorldLevel": 2,
+    "RoomNum": 7
+  },
+  {
+    "WeeklyScore": 4900,
+    "LayerNum": 2,
+    "WorldLevel": 2,
+    "RoomNum": 8
+  },
+  {
+    "WeeklyScore": 5250,
+    "LayerNum": 3,
+    "WorldLevel": 2,
+    "RoomNum": 1
+  },
+  {
+    "WeeklyScore": 5600,
+    "LayerNum": 3,
+    "WorldLevel": 2,
+    "RoomNum": 2
+  },
+  {
+    "WeeklyScore": 5950,
+    "LayerNum": 3,
+    "WorldLevel": 2,
+    "RoomNum": 3
+  },
+  {
+    "WeeklyScore": 6300,
+    "LayerNum": 3,
+    "WorldLevel": 2,
+    "RoomNum": 4
+  },
+  {
+    "WeeklyScore": 6300,
+    "LayerNum": 3,
+    "WorldLevel": 2,
+    "RoomNum": 5
+  },
+  {
+    "WeeklyScore": 7000,
+    "LayerNum": 3,
+    "WorldLevel": 2,
+    "RoomNum": 6
+  },
+  {
+    "WeeklyScore": 7000,
+    "LayerNum": 4,
+    "WorldLevel": 2,
+    "RoomNum": 1
+  },
+  {
+    "WeeklyScore": 500,
+    "LayerNum": 1,
+    "WorldLevel": 3,
+    "RoomNum": 1
+  },
+  {
+    "WeeklyScore": 1000,
+    "LayerNum": 1,
+    "WorldLevel": 3,
+    "RoomNum": 2
+  },
+  {
+    "WeeklyScore": 1500,
+    "LayerNum": 1,
+    "WorldLevel": 3,
+    "RoomNum": 3
+  },
+  {
+    "WeeklyScore": 2500,
+    "LayerNum": 1,
+    "WorldLevel": 3,
+    "RoomNum": 4
+  },
+  {
+    "WeeklyScore": 3000,
+    "LayerNum": 2,
+    "WorldLevel": 3,
+    "RoomNum": 1
+  },
+  {
+    "WeeklyScore": 3500,
+    "LayerNum": 2,
+    "WorldLevel": 3,
+    "RoomNum": 2
+  },
+  {
+    "WeeklyScore": 4000,
+    "LayerNum": 2,
+    "WorldLevel": 3,
+    "RoomNum": 3
+  },
+  {
+    "WeeklyScore": 4500,
+    "LayerNum": 2,
+    "WorldLevel": 3,
+    "RoomNum": 4
+  },
+  {
+    "WeeklyScore": 5000,
+    "LayerNum": 2,
+    "WorldLevel": 3,
+    "RoomNum": 5
+  },
+  {
+    "WeeklyScore": 5500,
+    "LayerNum": 2,
+    "WorldLevel": 3,
+    "RoomNum": 6
+  },
+  {
+    "WeeklyScore": 6000,
+    "LayerNum": 2,
+    "WorldLevel": 3,
+    "RoomNum": 7
+  },
+  {
+    "WeeklyScore": 7000,
+    "LayerNum": 2,
+    "WorldLevel": 3,
+    "RoomNum": 8
+  },
+  {
+    "WeeklyScore": 7500,
+    "LayerNum": 3,
+    "WorldLevel": 3,
+    "RoomNum": 1
+  },
+  {
+    "WeeklyScore": 8000,
+    "LayerNum": 3,
+    "WorldLevel": 3,
+    "RoomNum": 2
+  },
+  {
+    "WeeklyScore": 8500,
+    "LayerNum": 3,
+    "WorldLevel": 3,
+    "RoomNum": 3
+  },
+  {
+    "WeeklyScore": 9000,
+    "LayerNum": 3,
+    "WorldLevel": 3,
+    "RoomNum": 4
+  },
+  {
+    "WeeklyScore": 9000,
+    "LayerNum": 3,
+    "WorldLevel": 3,
+    "RoomNum": 5
+  },
+  {
+    "WeeklyScore": 10000,
+    "LayerNum": 3,
+    "WorldLevel": 3,
+    "RoomNum": 6
+  },
+  {
+    "WeeklyScore": 10000,
+    "LayerNum": 4,
+    "WorldLevel": 3,
+    "RoomNum": 1
+  },
+  {
+    "WeeklyScore": 600,
+    "LayerNum": 1,
+    "WorldLevel": 4,
+    "RoomNum": 1
+  },
+  {
+    "WeeklyScore": 1200,
+    "LayerNum": 1,
+    "WorldLevel": 4,
+    "RoomNum": 2
+  },
+  {
+    "WeeklyScore": 1800,
+    "LayerNum": 1,
+    "WorldLevel": 4,
+    "RoomNum": 3
+  },
+  {
+    "WeeklyScore": 3000,
+    "LayerNum": 1,
+    "WorldLevel": 4,
+    "RoomNum": 4
+  },
+  {
+    "WeeklyScore": 3600,
+    "LayerNum": 2,
+    "WorldLevel": 4,
+    "RoomNum": 1
+  },
+  {
+    "WeeklyScore": 4200,
+    "LayerNum": 2,
+    "WorldLevel": 4,
+    "RoomNum": 2
+  },
+  {
+    "WeeklyScore": 4800,
+    "LayerNum": 2,
+    "WorldLevel": 4,
+    "RoomNum": 3
+  },
+  {
+    "WeeklyScore": 5400,
+    "LayerNum": 2,
+    "WorldLevel": 4,
+    "RoomNum": 4
+  },
+  {
+    "WeeklyScore": 6000,
+    "LayerNum": 2,
+    "WorldLevel": 4,
+    "RoomNum": 5
+  },
+  {
+    "WeeklyScore": 6600,
+    "LayerNum": 2,
+    "WorldLevel": 4,
+    "RoomNum": 6
+  },
+  {
+    "WeeklyScore": 7200,
+    "LayerNum": 2,
+    "WorldLevel": 4,
+    "RoomNum": 7
+  },
+  {
+    "WeeklyScore": 8400,
+    "LayerNum": 2,
+    "WorldLevel": 4,
+    "RoomNum": 8
+  },
+  {
+    "WeeklyScore": 9000,
+    "LayerNum": 3,
+    "WorldLevel": 4,
+    "RoomNum": 1
+  },
+  {
+    "WeeklyScore": 9600,
+    "LayerNum": 3,
+    "WorldLevel": 4,
+    "RoomNum": 2
+  },
+  {
+    "WeeklyScore": 10200,
+    "LayerNum": 3,
+    "WorldLevel": 4,
+    "RoomNum": 3
+  },
+  {
+    "WeeklyScore": 10800,
+    "LayerNum": 3,
+    "WorldLevel": 4,
+    "RoomNum": 4
+  },
+  {
+    "WeeklyScore": 10800,
+    "LayerNum": 3,
+    "WorldLevel": 4,
+    "RoomNum": 5
+  },
+  {
+    "WeeklyScore": 12000,
+    "LayerNum": 3,
+    "WorldLevel": 4,
+    "RoomNum": 6
+  },
+  {
+    "WeeklyScore": 12000,
+    "LayerNum": 4,
+    "WorldLevel": 4,
+    "RoomNum": 1
+  },
+  {
+    "WeeklyScore": 700,
+    "LayerNum": 1,
+    "WorldLevel": 5,
+    "RoomNum": 1
+  },
+  {
+    "WeeklyScore": 1400,
+    "LayerNum": 1,
+    "WorldLevel": 5,
+    "RoomNum": 2
+  },
+  {
+    "WeeklyScore": 2100,
+    "LayerNum": 1,
+    "WorldLevel": 5,
+    "RoomNum": 3
+  },
+  {
+    "WeeklyScore": 3500,
+    "LayerNum": 1,
+    "WorldLevel": 5,
+    "RoomNum": 4
+  },
+  {
+    "WeeklyScore": 4200,
+    "LayerNum": 2,
+    "WorldLevel": 5,
+    "RoomNum": 1
+  },
+  {
+    "WeeklyScore": 4900,
+    "LayerNum": 2,
+    "WorldLevel": 5,
+    "RoomNum": 2
+  },
+  {
+    "WeeklyScore": 5600,
+    "LayerNum": 2,
+    "WorldLevel": 5,
+    "RoomNum": 3
+  },
+  {
+    "WeeklyScore": 6300,
+    "LayerNum": 2,
+    "WorldLevel": 5,
+    "RoomNum": 4
+  },
+  {
+    "WeeklyScore": 7000,
+    "LayerNum": 2,
+    "WorldLevel": 5,
+    "RoomNum": 5
+  },
+  {
+    "WeeklyScore": 7700,
+    "LayerNum": 2,
+    "WorldLevel": 5,
+    "RoomNum": 6
+  },
+  {
+    "WeeklyScore": 8400,
+    "LayerNum": 2,
+    "WorldLevel": 5,
+    "RoomNum": 7
+  },
+  {
+    "WeeklyScore": 9800,
+    "LayerNum": 2,
+    "WorldLevel": 5,
+    "RoomNum": 8
+  },
+  {
+    "WeeklyScore": 10500,
+    "LayerNum": 3,
+    "WorldLevel": 5,
+    "RoomNum": 1
+  },
+  {
+    "WeeklyScore": 11200,
+    "LayerNum": 3,
+    "WorldLevel": 5,
+    "RoomNum": 2
+  },
+  {
+    "WeeklyScore": 11900,
+    "LayerNum": 3,
+    "WorldLevel": 5,
+    "RoomNum": 3
+  },
+  {
+    "WeeklyScore": 12600,
+    "LayerNum": 3,
+    "WorldLevel": 5,
+    "RoomNum": 4
+  },
+  {
+    "WeeklyScore": 12600,
+    "LayerNum": 3,
+    "WorldLevel": 5,
+    "RoomNum": 5
+  },
+  {
+    "WeeklyScore": 14000,
+    "LayerNum": 3,
+    "WorldLevel": 5,
+    "RoomNum": 6
+  },
+  {
+    "WeeklyScore": 14000,
+    "LayerNum": 4,
+    "WorldLevel": 5,
+    "RoomNum": 1
+  },
+  {
+    "WeeklyScore": 700,
+    "LayerNum": 1,
+    "WorldLevel": 6,
+    "RoomNum": 1
+  },
+  {
+    "WeeklyScore": 1400,
+    "LayerNum": 1,
+    "WorldLevel": 6,
+    "RoomNum": 2
+  },
+  {
+    "WeeklyScore": 2100,
+    "LayerNum": 1,
+    "WorldLevel": 6,
+    "RoomNum": 3
+  },
+  {
+    "WeeklyScore": 3500,
+    "LayerNum": 1,
+    "WorldLevel": 6,
+    "RoomNum": 4
+  },
+  {
+    "WeeklyScore": 4200,
+    "LayerNum": 2,
+    "WorldLevel": 6,
+    "RoomNum": 1
+  },
+  {
+    "WeeklyScore": 4900,
+    "LayerNum": 2,
+    "WorldLevel": 6,
+    "RoomNum": 2
+  },
+  {
+    "WeeklyScore": 5600,
+    "LayerNum": 2,
+    "WorldLevel": 6,
+    "RoomNum": 3
+  },
+  {
+    "WeeklyScore": 6300,
+    "LayerNum": 2,
+    "WorldLevel": 6,
+    "RoomNum": 4
+  },
+  {
+    "WeeklyScore": 7000,
+    "LayerNum": 2,
+    "WorldLevel": 6,
+    "RoomNum": 5
+  },
+  {
+    "WeeklyScore": 7700,
+    "LayerNum": 2,
+    "WorldLevel": 6,
+    "RoomNum": 6
+  },
+  {
+    "WeeklyScore": 8400,
+    "LayerNum": 2,
+    "WorldLevel": 6,
+    "RoomNum": 7
+  },
+  {
+    "WeeklyScore": 9800,
+    "LayerNum": 2,
+    "WorldLevel": 6,
+    "RoomNum": 8
+  },
+  {
+    "WeeklyScore": 10500,
+    "LayerNum": 3,
+    "WorldLevel": 6,
+    "RoomNum": 1
+  },
+  {
+    "WeeklyScore": 11200,
+    "LayerNum": 3,
+    "WorldLevel": 6,
+    "RoomNum": 2
+  },
+  {
+    "WeeklyScore": 11900,
+    "LayerNum": 3,
+    "WorldLevel": 6,
+    "RoomNum": 3
+  },
+  {
+    "WeeklyScore": 12600,
+    "LayerNum": 3,
+    "WorldLevel": 6,
+    "RoomNum": 4
+  },
+  {
+    "WeeklyScore": 12600,
+    "LayerNum": 3,
+    "WorldLevel": 6,
+    "RoomNum": 5
+  },
+  {
+    "WeeklyScore": 14000,
+    "LayerNum": 3,
+    "WorldLevel": 6,
+    "RoomNum": 6
+  },
+  {
+    "WeeklyScore": 14000,
+    "LayerNum": 4,
+    "WorldLevel": 6,
+    "RoomNum": 1
+  }
+]

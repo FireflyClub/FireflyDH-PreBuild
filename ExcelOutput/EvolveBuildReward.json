@@ -1,0 +1,128 @@
+[
+  {
+    "IncomeTarget": 0,
+    "Type": "EXP_REWARD_ONCE",
+    "Level": 0,
+    "RewardID": 100
+  },
+  {
+    "IncomeTarget": 3000,
+    "Type": "EXP_REWARD_ONCE",
+    "Level": 1,
+    "RewardID": 3115101
+  },
+  {
+    "IncomeTarget": 6000,
+    "Type": "EXP_REWARD_ONCE",
+    "Level": 2,
+    "RewardID": 3115102
+  },
+  {
+    "IncomeTarget": 9000,
+    "Type": "EXP_REWARD_ONCE",
+    "Level": 3,
+    "RewardID": 3115103
+  },
+  {
+    "IncomeTarget": 12000,
+    "Type": "EXP_REWARD_ONCE",
+    "Level": 4,
+    "RewardID": 3115104
+  },
+  {
+    "IncomeTarget": 15000,
+    "Type": "EXP_REWARD_ONCE",
+    "Level": 5,
+    "RewardID": 3115105
+  },
+  {
+    "IncomeTarget": 19500,
+    "Type": "EXP_REWARD_ONCE",
+    "Level": 6,
+    "RewardID": 3115106
+  },
+  {
+    "IncomeTarget": 24000,
+    "Type": "EXP_REWARD_ONCE",
+    "Level": 7,
+    "RewardID": 3115107
+  },
+  {
+    "IncomeTarget": 28500,
+    "Type": "EXP_REWARD_ONCE",
+    "Level": 8,
+    "RewardID": 3115108
+  },
+  {
+    "IncomeTarget": 33000,
+    "Type": "EXP_REWARD_ONCE",
+    "Level": 9,
+    "RewardID": 3115109
+  },
+  {
+    "IncomeTarget": 37500,
+    "Type": "EXP_REWARD_ONCE",
+    "Level": 10,
+    "RewardID": 3115110
+  },
+  {
+    "IncomeTarget": 43500,
+    "Type": "EXP_REWARD_ONCE",
+    "Level": 11,
+    "RewardID": 3115111
+  },
+  {
+    "IncomeTarget": 49500,
+    "Type": "EXP_REWARD_ONCE",
+    "Level": 12,
+    "RewardID": 3115112
+  },
+  {
+    "IncomeTarget": 55500,
+    "Type": "EXP_REWARD_ONCE",
+    "Level": 13,
+    "RewardID": 3115113
+  },
+  {
+    "IncomeTarget": 61500,
+    "Type": "EXP_REWARD_ONCE",
+    "Level": 14,
+    "RewardID": 3115114
+  },
+  {
+    "IncomeTarget": 67500,
+    "Type": "EXP_REWARD_ONCE",
+    "Level": 15,
+    "RewardID": 3115115
+  },
+  {
+    "IncomeTarget": 73500,
+    "Type": "EXP_REWARD_ONCE",
+    "Level": 16,
+    "RewardID": 3115116
+  },
+  {
+    "IncomeTarget": 79500,
+    "Type": "EXP_REWARD_ONCE",
+    "Level": 17,
+    "RewardID": 3115117
+  },
+  {
+    "IncomeTarget": 85500,
+    "Type": "EXP_REWARD_ONCE",
+    "Level": 18,
+    "RewardID": 3115118
+  },
+  {
+    "IncomeTarget": 91500,
+    "Type": "EXP_REWARD_ONCE",
+    "Level": 19,
+    "RewardID": 3115119
+  },
+  {
+    "IncomeTarget": 97500,
+    "Type": "EXP_REWARD_ONCE",
+    "Level": 20,
+    "RewardID": 3115120
+  }
+]

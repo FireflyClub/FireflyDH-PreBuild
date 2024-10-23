@@ -1,0 +1,227 @@
+[
+  {
+    "IconPath": "SpriteOutput/TabIcon/Camp/CampAntimatterLegion.png",
+    "SortID": 1,
+    "ID": 6,
+    "Name": {
+      "Hash": 225976584
+    },
+    "CampType": "Monster"
+  },
+  {
+    "IconPath": "SpriteOutput/TabIcon/Camp/CampFirstWorld.png",
+    "SortID": 3,
+    "ID": 1,
+    "Name": {
+      "Hash": -2146676411
+    },
+    "CampType": "Monster"
+  },
+  {
+    "IconPath": "SpriteOutput/TabIcon/World/World02Icon.png",
+    "SortID": 4,
+    "ID": 2,
+    "Name": {
+      "Hash": -1743391884
+    },
+    "CampType": "Monster"
+  },
+  {
+    "IconPath": "SpriteOutput/TabIcon/Camp/CampFragmentum.png",
+    "SortID": 2,
+    "ID": 3,
+    "Name": {
+      "Hash": 985491471
+    },
+    "CampType": "Monster"
+  },
+  {
+    "IconPath": "SpriteOutput/AtlasIcon/EnemyIcon.png",
+    "SortID": 5,
+    "ID": 4,
+    "Name": {
+      "Hash": 1388775998
+    },
+    "CampType": "Monster"
+  },
+  {
+    "IconPath": "SpriteOutput/TabIcon/Camp/CampStellaronHunters.png",
+    "SortID": 6,
+    "ID": 5,
+    "Name": {
+      "Hash": -177307943
+    },
+    "CampType": "Monster"
+  },
+  {
+    "IconPath": "SpriteOutput/TabIcon/Camp/CampGalaxy.png",
+    "SortID": 98,
+    "ID": 7,
+    "Name": {
+      "Hash": -1340107357
+    },
+    "CampType": "Monster"
+  },
+  {
+    "IconPath": "SpriteOutput/TabIcon/Camp/CampSwarm.png",
+    "SortID": 7,
+    "ID": 8,
+    "Name": {
+      "Hash": -224362110
+    },
+    "CampType": "Monster"
+  },
+  {
+    "IconPath": "SpriteOutput/TabIcon/Camp/CampCompany.png",
+    "SortID": 8,
+    "ID": 9,
+    "Name": {
+      "Hash": -1790446051
+    },
+    "CampType": "Monster"
+  },
+  {
+    "IconPath": "SpriteOutput/TabIcon/Inventory/InventoryOtherIcon.png",
+    "SortID": 99,
+    "ID": 99,
+    "Name": {
+      "Hash": 2025934756
+    },
+    "CampType": "Monster"
+  },
+  {
+    "IconPath": "SpriteOutput/TabIcon/Camp/CampTroupe.png",
+    "SortID": 9,
+    "ID": 10,
+    "Name": {
+      "Hash": 1669704405
+    },
+    "CampType": "Monster"
+  },
+  {
+    "IconPath": "SpriteOutput/TabIcon/Camp/CampMemoryArea.png",
+    "SortID": 10,
+    "ID": 11,
+    "Name": {
+      "Hash": 1669704404
+    },
+    "CampType": "Monster"
+  },
+  {
+    "IconPath": "",
+    "SortID": 1,
+    "ID": 100,
+    "Name": {
+      "Hash": 1973252600
+    },
+    "CampType": "Avatar"
+  },
+  {
+    "IconPath": "",
+    "SortID": 2,
+    "ID": 101,
+    "Name": {
+      "Hash": 1973252601
+    },
+    "CampType": "Avatar"
+  },
+  {
+    "IconPath": "",
+    "SortID": 3,
+    "ID": 102,
+    "Name": {
+      "Hash": 1973252602
+    },
+    "CampType": "Avatar"
+  },
+  {
+    "IconPath": "",
+    "SortID": 4,
+    "ID": 103,
+    "Name": {
+      "Hash": 1973252603
+    },
+    "CampType": "Avatar"
+  },
+  {
+    "IconPath": "",
+    "SortID": 5,
+    "ID": 104,
+    "Name": {
+      "Hash": 1973252604
+    },
+    "CampType": "Avatar"
+  },
+  {
+    "IconPath": "",
+    "SortID": 6,
+    "ID": 105,
+    "Name": {
+      "Hash": 1973252605
+    },
+    "CampType": "Avatar"
+  },
+  {
+    "IconPath": "",
+    "SortID": 7,
+    "ID": 106,
+    "Name": {
+      "Hash": 1973252606
+    },
+    "CampType": "Avatar"
+  },
+  {
+    "IconPath": "",
+    "SortID": 8,
+    "ID": 107,
+    "Name": {
+      "Hash": 1973252607
+    },
+    "CampType": "Avatar"
+  },
+  {
+    "IconPath": "",
+    "SortID": 9,
+    "ID": 108,
+    "Name": {
+      "Hash": 1973252608
+    },
+    "CampType": "Avatar"
+  },
+  {
+    "IconPath": "",
+    "SortID": 10,
+    "ID": 109,
+    "Name": {
+      "Hash": 1973252609
+    },
+    "CampType": "Avatar"
+  },
+  {
+    "IconPath": "",
+    "SortID": 11,
+    "ID": 110,
+    "Name": {
+      "Hash": -755630755
+    },
+    "CampType": "Avatar"
+  },
+  {
+    "IconPath": "",
+    "SortID": 12,
+    "ID": 111,
+    "Name": {
+      "Hash": -755630754
+    },
+    "CampType": "Avatar"
+  },
+  {
+    "IconPath": "",
+    "SortID": 13,
+    "ID": 112,
+    "Name": {
+      "Hash": -755630753
+    },
+    "CampType": "Avatar"
+  }
+]

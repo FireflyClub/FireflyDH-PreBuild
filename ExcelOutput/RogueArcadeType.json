@@ -1,0 +1,110 @@
+[
+  {
+    "PicPathList": [
+      "SpriteOutput/Rogue/Tourn/Arcade/RogueArcade_CaptureMonster.png"
+    ],
+    "ExitDesc": {
+      "Hash": -1380000776
+    },
+    "BriefName": {
+      "Hash": 1993198420
+    },
+    "Desc": {
+      "Hash": -1375001120
+    },
+    "ArcadeID": 1,
+    "DetailedName": {
+      "Hash": -162107418
+    }
+  },
+  {
+    "PicPathList": [
+      "SpriteOutput/Rogue/Tourn/Arcade/RogueArcade_DestroyProp.png"
+    ],
+    "ExitDesc": {
+      "Hash": 186083165
+    },
+    "BriefName": {
+      "Hash": 1993198417
+    },
+    "Desc": {
+      "Hash": 191082821
+    },
+    "ArcadeID": 2,
+    "DetailedName": {
+      "Hash": -565391945
+    }
+  },
+  {
+    "PicPathList": [
+      "SpriteOutput/Rogue/Tourn/Arcade/RogueArcade_TurnTable.png"
+    ],
+    "ExitDesc": {
+      "Hash": 1752167106
+    },
+    "BriefName": {
+      "Hash": 1993198418
+    },
+    "Desc": {
+      "Hash": 1757166762
+    },
+    "ArcadeID": 3,
+    "DetailedName": {
+      "Hash": 1000691996
+    }
+  },
+  {
+    "PicPathList": [
+      "SpriteOutput/Rogue/Tourn/Arcade/RogueArcade_Laser.png"
+    ],
+    "ExitDesc": {
+      "Hash": -976716249
+    },
+    "BriefName": {
+      "Hash": 1993198415
+    },
+    "Desc": {
+      "Hash": -615486233
+    },
+    "ArcadeID": 4,
+    "DetailedName": {
+      "Hash": 241177109
+    }
+  },
+  {
+    "PicPathList": [
+      "SpriteOutput/Rogue/Tourn/Arcade/RogueArcade_WolfGunBoss.png"
+    ],
+    "ExitDesc": {
+      "Hash": 589367692
+    },
+    "BriefName": {
+      "Hash": 1993198416
+    },
+    "Desc": {
+      "Hash": 950597708
+    },
+    "ArcadeID": 5,
+    "DetailedName": {
+      "Hash": 1807261050
+    }
+  },
+  {
+    "PicPathList": [
+      "SpriteOutput/Rogue/Tourn/Arcade/RogueArcade_WolfGunNormal.png"
+    ],
+    "ExitDesc": {
+      "Hash": -2139515663
+    },
+    "BriefName": {
+      "Hash": 1993198413
+    },
+    "Desc": {
+      "Hash": -1778285647
+    },
+    "ArcadeID": 6,
+    "DetailedName": {
+      "Hash": 1403976523
+    }
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "KJPFABNGPIJ": "NotNormal",
+    "CFLHOJAABAG": "Mission"
+  },
+  {
+    "KJPFABNGPIJ": "Rare",
+    "CFLHOJAABAG": "Equipment"
+  },
+  {
+    "KJPFABNGPIJ": "VeryRare",
+    "CFLHOJAABAG": "Relic"
+  },
+  {
+    "KJPFABNGPIJ": "NotNormal",
+    "CFLHOJAABAG": "HeadIcon"
+  },
+  {
+    "KJPFABNGPIJ": "Rare",
+    "CFLHOJAABAG": "MusicAlbum"
+  },
+  {
+    "KJPFABNGPIJ": "VeryRare",
+    "CFLHOJAABAG": "ChatBubble"
+  },
+  {
+    "KJPFABNGPIJ": "VeryRare",
+    "CFLHOJAABAG": "PhoneTheme"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "Name": "UIText_EvolveBuild_WeaponTag",
+    "TypeImgColor": "#FFCF70",
+    "MixDetailPropsInfoBg": "SpriteOutput/UI/Quest/EvolveBuild/EvolvePropsInfoWeaponBg.png",
+    "FontColor": "#ffc06a",
+    "TypeImg": "SpriteOutput/UI/Quest/EvolveBuild/EvolvePropsWeaponBgDeco.png",
+    "WeaponToastEffectBg": "SpriteOutput/UI/Quest/EvolveBuild/EvolveBuildSuperWeaponToastEffectBg1.png",
+    "ID": "Tool"
+  },
+  {
+    "Name": "UIText_EvolveBuild_JewelryTag",
+    "TypeImgColor": "#45C8F1",
+    "MixDetailPropsInfoBg": "SpriteOutput/UI/Quest/EvolveBuild/EvolvePropsInfoOrnamentBg.png",
+    "FontColor": "#65daff",
+    "TypeImg": "SpriteOutput/UI/Quest/EvolveBuild/EvolvePropsJewelryBgDeco.png",
+    "WeaponToastEffectBg": "SpriteOutput/UI/Quest/EvolveBuild/EvolveBuildSuperWeaponToastEffectBg2.png",
+    "ID": "Plugin"
+  },
+  {
+    "Name": "UIText_EvolveBuild_SuperWeaponTag",
+    "TypeImgColor": "#FF967B",
+    "MixDetailPropsInfoBg": "SpriteOutput/UI/Quest/EvolveBuild/EvolvePropsInfoSuperWeaponBg.png",
+    "FontColor": "#f19476",
+    "TypeImg": "SpriteOutput/UI/Quest/EvolveBuild/EvolvePropsWeaponBgDeco.png",
+    "WeaponToastEffectBg": "SpriteOutput/UI/Quest/EvolveBuild/EvolveBuildSuperWeaponToastEffectBg3.png",
+    "ID": "Forge"
+  }
+]

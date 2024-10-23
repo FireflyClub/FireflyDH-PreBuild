@@ -1,0 +1,317 @@
+[
+  {
+    "RewardID": 0,
+    "Level": 1,
+    "TotalItem": 10,
+    "GroupID": 401,
+    "ItemNeed": 10
+  },
+  {
+    "RewardID": 112002,
+    "Level": 2,
+    "TotalItem": 90,
+    "GroupID": 401,
+    "ItemNeed": 80
+  },
+  {
+    "RewardID": 112003,
+    "Level": 3,
+    "TotalItem": 240,
+    "GroupID": 401,
+    "ItemNeed": 150
+  },
+  {
+    "RewardID": 112004,
+    "Level": 4,
+    "TotalItem": 390,
+    "GroupID": 401,
+    "ItemNeed": 150
+  },
+  {
+    "RewardID": 112005,
+    "Level": 5,
+    "TotalItem": 590,
+    "GroupID": 401,
+    "ItemNeed": 200
+  },
+  {
+    "RewardID": 112006,
+    "Level": 6,
+    "TotalItem": 790,
+    "GroupID": 401,
+    "ItemNeed": 200
+  },
+  {
+    "RewardID": 112007,
+    "Level": 7,
+    "TotalItem": 990,
+    "GroupID": 401,
+    "ItemNeed": 200
+  },
+  {
+    "RewardID": 112008,
+    "Level": 8,
+    "TotalItem": 1240,
+    "GroupID": 401,
+    "ItemNeed": 250
+  },
+  {
+    "RewardID": 112009,
+    "Level": 9,
+    "TotalItem": 1490,
+    "GroupID": 401,
+    "ItemNeed": 250
+  },
+  {
+    "RewardID": 112010,
+    "Level": 10,
+    "TotalItem": 1490,
+    "GroupID": 401,
+    "ItemNeed": 250
+  },
+  {
+    "RewardID": 0,
+    "Level": 1,
+    "TotalItem": 50,
+    "GroupID": 402,
+    "ItemNeed": 50
+  },
+  {
+    "RewardID": 112102,
+    "Level": 2,
+    "TotalItem": 150,
+    "GroupID": 402,
+    "ItemNeed": 100
+  },
+  {
+    "RewardID": 112103,
+    "Level": 3,
+    "TotalItem": 300,
+    "GroupID": 402,
+    "ItemNeed": 150
+  },
+  {
+    "RewardID": 112104,
+    "Level": 4,
+    "TotalItem": 500,
+    "GroupID": 402,
+    "ItemNeed": 200
+  },
+  {
+    "RewardID": 112105,
+    "Level": 5,
+    "TotalItem": 800,
+    "GroupID": 402,
+    "ItemNeed": 300
+  },
+  {
+    "RewardID": 112106,
+    "Level": 6,
+    "TotalItem": 1100,
+    "GroupID": 402,
+    "ItemNeed": 300
+  },
+  {
+    "RewardID": 112107,
+    "Level": 7,
+    "TotalItem": 1550,
+    "GroupID": 402,
+    "ItemNeed": 450
+  },
+  {
+    "RewardID": 112108,
+    "Level": 8,
+    "TotalItem": 2000,
+    "GroupID": 402,
+    "ItemNeed": 450
+  },
+  {
+    "RewardID": 112109,
+    "Level": 9,
+    "TotalItem": 2600,
+    "GroupID": 402,
+    "ItemNeed": 600
+  },
+  {
+    "RewardID": 112110,
+    "Level": 10,
+    "TotalItem": 3200,
+    "GroupID": 402,
+    "ItemNeed": 600
+  },
+  {
+    "RewardID": 112111,
+    "Level": 11,
+    "TotalItem": 4000,
+    "GroupID": 402,
+    "ItemNeed": 800
+  },
+  {
+    "RewardID": 112112,
+    "Level": 12,
+    "TotalItem": 4800,
+    "GroupID": 402,
+    "ItemNeed": 800
+  },
+  {
+    "RewardID": 112113,
+    "Level": 13,
+    "TotalItem": 5800,
+    "GroupID": 402,
+    "ItemNeed": 1000
+  },
+  {
+    "RewardID": 112114,
+    "Level": 14,
+    "TotalItem": 6800,
+    "GroupID": 402,
+    "ItemNeed": 1000
+  },
+  {
+    "RewardID": 112115,
+    "Level": 15,
+    "TotalItem": 6800,
+    "GroupID": 402,
+    "ItemNeed": 1000
+  },
+  {
+    "RewardID": 0,
+    "Level": 1,
+    "TotalItem": 60,
+    "GroupID": 403,
+    "ItemNeed": 60
+  },
+  {
+    "RewardID": 112202,
+    "Level": 2,
+    "TotalItem": 120,
+    "GroupID": 403,
+    "ItemNeed": 60
+  },
+  {
+    "RewardID": 112203,
+    "Level": 3,
+    "TotalItem": 180,
+    "GroupID": 403,
+    "ItemNeed": 60
+  },
+  {
+    "RewardID": 112204,
+    "Level": 4,
+    "TotalItem": 240,
+    "GroupID": 403,
+    "ItemNeed": 60
+  },
+  {
+    "RewardID": 112205,
+    "Level": 5,
+    "TotalItem": 310,
+    "GroupID": 403,
+    "ItemNeed": 70
+  },
+  {
+    "RewardID": 112206,
+    "Level": 6,
+    "TotalItem": 380,
+    "GroupID": 403,
+    "ItemNeed": 70
+  },
+  {
+    "RewardID": 112207,
+    "Level": 7,
+    "TotalItem": 450,
+    "GroupID": 403,
+    "ItemNeed": 70
+  },
+  {
+    "RewardID": 112208,
+    "Level": 8,
+    "TotalItem": 520,
+    "GroupID": 403,
+    "ItemNeed": 70
+  },
+  {
+    "RewardID": 112209,
+    "Level": 9,
+    "TotalItem": 590,
+    "GroupID": 403,
+    "ItemNeed": 70
+  },
+  {
+    "RewardID": 112210,
+    "Level": 10,
+    "TotalItem": 670,
+    "GroupID": 403,
+    "ItemNeed": 80
+  },
+  {
+    "RewardID": 112211,
+    "Level": 11,
+    "TotalItem": 750,
+    "GroupID": 403,
+    "ItemNeed": 80
+  },
+  {
+    "RewardID": 112212,
+    "Level": 12,
+    "TotalItem": 830,
+    "GroupID": 403,
+    "ItemNeed": 80
+  },
+  {
+    "RewardID": 112213,
+    "Level": 13,
+    "TotalItem": 910,
+    "GroupID": 403,
+    "ItemNeed": 80
+  },
+  {
+    "RewardID": 112214,
+    "Level": 14,
+    "TotalItem": 990,
+    "GroupID": 403,
+    "ItemNeed": 80
+  },
+  {
+    "RewardID": 112215,
+    "Level": 15,
+    "TotalItem": 1080,
+    "GroupID": 403,
+    "ItemNeed": 90
+  },
+  {
+    "RewardID": 112216,
+    "Level": 16,
+    "TotalItem": 1170,
+    "GroupID": 403,
+    "ItemNeed": 90
+  },
+  {
+    "RewardID": 112217,
+    "Level": 17,
+    "TotalItem": 1260,
+    "GroupID": 403,
+    "ItemNeed": 90
+  },
+  {
+    "RewardID": 112218,
+    "Level": 18,
+    "TotalItem": 1350,
+    "GroupID": 403,
+    "ItemNeed": 90
+  },
+  {
+    "RewardID": 112219,
+    "Level": 19,
+    "TotalItem": 1440,
+    "GroupID": 403,
+    "ItemNeed": 90
+  },
+  {
+    "RewardID": 112220,
+    "Level": 20,
+    "TotalItem": 1440,
+    "GroupID": 403,
+    "ItemNeed": 90
+  }
+]

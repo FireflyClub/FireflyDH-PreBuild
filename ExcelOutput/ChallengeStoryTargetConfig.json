@@ -1,0 +1,1487 @@
+[
+  {
+    "ChallengeTargetType": "ROUNDS_LEFT",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044084
+    },
+    "ID": 11,
+    "ChallengeTargetParam1": 10,
+    "RewardID": 100102
+  },
+  {
+    "ChallengeTargetType": "ROUNDS_LEFT",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044084
+    },
+    "ID": 12,
+    "ChallengeTargetParam1": 14,
+    "RewardID": 100103
+  },
+  {
+    "ChallengeTargetType": "DEAD_AVATAR",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044080
+    },
+    "ID": 13,
+    "ChallengeTargetParam1": 1,
+    "RewardID": 100104
+  },
+  {
+    "ChallengeTargetType": "ROUNDS_LEFT",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044084
+    },
+    "ID": 21,
+    "ChallengeTargetParam1": 10,
+    "RewardID": 100112
+  },
+  {
+    "ChallengeTargetType": "ROUNDS_LEFT",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044084
+    },
+    "ID": 22,
+    "ChallengeTargetParam1": 14,
+    "RewardID": 100113
+  },
+  {
+    "ChallengeTargetType": "DEAD_AVATAR",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044080
+    },
+    "ID": 23,
+    "ChallengeTargetParam1": 1,
+    "RewardID": 100114
+  },
+  {
+    "ChallengeTargetType": "ROUNDS_LEFT",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044084
+    },
+    "ID": 31,
+    "ChallengeTargetParam1": 10,
+    "RewardID": 100122
+  },
+  {
+    "ChallengeTargetType": "ROUNDS_LEFT",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044084
+    },
+    "ID": 32,
+    "ChallengeTargetParam1": 14,
+    "RewardID": 100123
+  },
+  {
+    "ChallengeTargetType": "DEAD_AVATAR",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044080
+    },
+    "ID": 33,
+    "ChallengeTargetParam1": 1,
+    "RewardID": 100124
+  },
+  {
+    "ChallengeTargetType": "ROUNDS_LEFT",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044084
+    },
+    "ID": 41,
+    "ChallengeTargetParam1": 10,
+    "RewardID": 100132
+  },
+  {
+    "ChallengeTargetType": "ROUNDS_LEFT",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044084
+    },
+    "ID": 42,
+    "ChallengeTargetParam1": 14,
+    "RewardID": 100133
+  },
+  {
+    "ChallengeTargetType": "DEAD_AVATAR",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044080
+    },
+    "ID": 43,
+    "ChallengeTargetParam1": 1,
+    "RewardID": 100134
+  },
+  {
+    "ChallengeTargetType": "ROUNDS_LEFT",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044084
+    },
+    "ID": 51,
+    "ChallengeTargetParam1": 10,
+    "RewardID": 100142
+  },
+  {
+    "ChallengeTargetType": "ROUNDS_LEFT",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044084
+    },
+    "ID": 52,
+    "ChallengeTargetParam1": 14,
+    "RewardID": 100143
+  },
+  {
+    "ChallengeTargetType": "DEAD_AVATAR",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044080
+    },
+    "ID": 53,
+    "ChallengeTargetParam1": 1,
+    "RewardID": 100144
+  },
+  {
+    "ChallengeTargetType": "ROUNDS_LEFT",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044084
+    },
+    "ID": 61,
+    "ChallengeTargetParam1": 8,
+    "RewardID": 100152
+  },
+  {
+    "ChallengeTargetType": "ROUNDS_LEFT",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044084
+    },
+    "ID": 62,
+    "ChallengeTargetParam1": 12,
+    "RewardID": 100153
+  },
+  {
+    "ChallengeTargetType": "DEAD_AVATAR",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044080
+    },
+    "ID": 63,
+    "ChallengeTargetParam1": 1,
+    "RewardID": 100154
+  },
+  {
+    "ChallengeTargetType": "ROUNDS_LEFT",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044084
+    },
+    "ID": 71,
+    "ChallengeTargetParam1": 8,
+    "RewardID": 100162
+  },
+  {
+    "ChallengeTargetType": "ROUNDS_LEFT",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044084
+    },
+    "ID": 72,
+    "ChallengeTargetParam1": 12,
+    "RewardID": 100163
+  },
+  {
+    "ChallengeTargetType": "DEAD_AVATAR",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044080
+    },
+    "ID": 73,
+    "ChallengeTargetParam1": 1,
+    "RewardID": 100164
+  },
+  {
+    "ChallengeTargetType": "ROUNDS_LEFT",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044084
+    },
+    "ID": 81,
+    "ChallengeTargetParam1": 8,
+    "RewardID": 100172
+  },
+  {
+    "ChallengeTargetType": "ROUNDS_LEFT",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044084
+    },
+    "ID": 82,
+    "ChallengeTargetParam1": 12,
+    "RewardID": 100173
+  },
+  {
+    "ChallengeTargetType": "DEAD_AVATAR",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044080
+    },
+    "ID": 83,
+    "ChallengeTargetParam1": 1,
+    "RewardID": 100174
+  },
+  {
+    "ChallengeTargetType": "ROUNDS_LEFT",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044084
+    },
+    "ID": 91,
+    "ChallengeTargetParam1": 8,
+    "RewardID": 100182
+  },
+  {
+    "ChallengeTargetType": "ROUNDS_LEFT",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044084
+    },
+    "ID": 92,
+    "ChallengeTargetParam1": 12,
+    "RewardID": 100183
+  },
+  {
+    "ChallengeTargetType": "DEAD_AVATAR",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044080
+    },
+    "ID": 93,
+    "ChallengeTargetParam1": 1,
+    "RewardID": 100184
+  },
+  {
+    "ChallengeTargetType": "ROUNDS_LEFT",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044084
+    },
+    "ID": 101,
+    "ChallengeTargetParam1": 8,
+    "RewardID": 100192
+  },
+  {
+    "ChallengeTargetType": "ROUNDS_LEFT",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044084
+    },
+    "ID": 102,
+    "ChallengeTargetParam1": 12,
+    "RewardID": 100193
+  },
+  {
+    "ChallengeTargetType": "DEAD_AVATAR",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044080
+    },
+    "ID": 103,
+    "ChallengeTargetParam1": 1,
+    "RewardID": 100194
+  },
+  {
+    "ChallengeTargetType": "ROUNDS_LEFT",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044084
+    },
+    "ID": 111,
+    "ChallengeTargetParam1": 12,
+    "RewardID": 100202
+  },
+  {
+    "ChallengeTargetType": "ROUNDS_LEFT",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044084
+    },
+    "ID": 112,
+    "ChallengeTargetParam1": 18,
+    "RewardID": 100203
+  },
+  {
+    "ChallengeTargetType": "DEAD_AVATAR",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044080
+    },
+    "ID": 113,
+    "ChallengeTargetParam1": 1,
+    "RewardID": 100204
+  },
+  {
+    "ChallengeTargetType": "ROUNDS_LEFT",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044084
+    },
+    "ID": 121,
+    "ChallengeTargetParam1": 12,
+    "RewardID": 100212
+  },
+  {
+    "ChallengeTargetType": "ROUNDS_LEFT",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044084
+    },
+    "ID": 122,
+    "ChallengeTargetParam1": 18,
+    "RewardID": 100213
+  },
+  {
+    "ChallengeTargetType": "DEAD_AVATAR",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044080
+    },
+    "ID": 123,
+    "ChallengeTargetParam1": 1,
+    "RewardID": 100214
+  },
+  {
+    "ChallengeTargetType": "ROUNDS_LEFT",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044084
+    },
+    "ID": 131,
+    "ChallengeTargetParam1": 12,
+    "RewardID": 100222
+  },
+  {
+    "ChallengeTargetType": "ROUNDS_LEFT",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044084
+    },
+    "ID": 132,
+    "ChallengeTargetParam1": 18,
+    "RewardID": 100223
+  },
+  {
+    "ChallengeTargetType": "DEAD_AVATAR",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044080
+    },
+    "ID": 133,
+    "ChallengeTargetParam1": 1,
+    "RewardID": 100224
+  },
+  {
+    "ChallengeTargetType": "ROUNDS_LEFT",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044084
+    },
+    "ID": 141,
+    "ChallengeTargetParam1": 12,
+    "RewardID": 100232
+  },
+  {
+    "ChallengeTargetType": "ROUNDS_LEFT",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044084
+    },
+    "ID": 142,
+    "ChallengeTargetParam1": 18,
+    "RewardID": 100233
+  },
+  {
+    "ChallengeTargetType": "DEAD_AVATAR",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044080
+    },
+    "ID": 143,
+    "ChallengeTargetParam1": 1,
+    "RewardID": 100234
+  },
+  {
+    "ChallengeTargetType": "ROUNDS_LEFT",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044084
+    },
+    "ID": 151,
+    "ChallengeTargetParam1": 12,
+    "RewardID": 100242
+  },
+  {
+    "ChallengeTargetType": "ROUNDS_LEFT",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044084
+    },
+    "ID": 152,
+    "ChallengeTargetParam1": 18,
+    "RewardID": 100243
+  },
+  {
+    "ChallengeTargetType": "DEAD_AVATAR",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044080
+    },
+    "ID": 153,
+    "ChallengeTargetParam1": 1,
+    "RewardID": 100244
+  },
+  {
+    "ChallengeTargetType": "ROUNDS_LEFT",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044084
+    },
+    "ID": 161,
+    "ChallengeTargetParam1": 20,
+    "RewardID": 100252
+  },
+  {
+    "ChallengeTargetType": "ROUNDS_LEFT",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044084
+    },
+    "ID": 162,
+    "ChallengeTargetParam1": 28,
+    "RewardID": 100253
+  },
+  {
+    "ChallengeTargetType": "DEAD_AVATAR",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044080
+    },
+    "ID": 163,
+    "ChallengeTargetParam1": 0,
+    "RewardID": 100254
+  },
+  {
+    "ChallengeTargetType": "ROUNDS_LEFT",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044084
+    },
+    "ID": 171,
+    "ChallengeTargetParam1": 20,
+    "RewardID": 100262
+  },
+  {
+    "ChallengeTargetType": "ROUNDS_LEFT",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044084
+    },
+    "ID": 172,
+    "ChallengeTargetParam1": 28,
+    "RewardID": 100263
+  },
+  {
+    "ChallengeTargetType": "DEAD_AVATAR",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044080
+    },
+    "ID": 173,
+    "ChallengeTargetParam1": 0,
+    "RewardID": 100264
+  },
+  {
+    "ChallengeTargetType": "ROUNDS_LEFT",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044084
+    },
+    "ID": 181,
+    "ChallengeTargetParam1": 20,
+    "RewardID": 100272
+  },
+  {
+    "ChallengeTargetType": "ROUNDS_LEFT",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044084
+    },
+    "ID": 182,
+    "ChallengeTargetParam1": 28,
+    "RewardID": 100273
+  },
+  {
+    "ChallengeTargetType": "DEAD_AVATAR",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044080
+    },
+    "ID": 183,
+    "ChallengeTargetParam1": 0,
+    "RewardID": 100274
+  },
+  {
+    "ChallengeTargetType": "ROUNDS_LEFT",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044084
+    },
+    "ID": 191,
+    "ChallengeTargetParam1": 20,
+    "RewardID": 100282
+  },
+  {
+    "ChallengeTargetType": "ROUNDS_LEFT",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044084
+    },
+    "ID": 192,
+    "ChallengeTargetParam1": 28,
+    "RewardID": 100283
+  },
+  {
+    "ChallengeTargetType": "DEAD_AVATAR",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044080
+    },
+    "ID": 193,
+    "ChallengeTargetParam1": 0,
+    "RewardID": 100284
+  },
+  {
+    "ChallengeTargetType": "ROUNDS_LEFT",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044084
+    },
+    "ID": 201,
+    "ChallengeTargetParam1": 20,
+    "RewardID": 100292
+  },
+  {
+    "ChallengeTargetType": "ROUNDS_LEFT",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044084
+    },
+    "ID": 202,
+    "ChallengeTargetParam1": 28,
+    "RewardID": 100293
+  },
+  {
+    "ChallengeTargetType": "DEAD_AVATAR",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044080
+    },
+    "ID": 203,
+    "ChallengeTargetParam1": 0,
+    "RewardID": 100294
+  },
+  {
+    "ChallengeTargetType": "ROUNDS_LEFT",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044084
+    },
+    "ID": 211,
+    "ChallengeTargetParam1": 16,
+    "RewardID": 100302
+  },
+  {
+    "ChallengeTargetType": "ROUNDS_LEFT",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044084
+    },
+    "ID": 212,
+    "ChallengeTargetParam1": 24,
+    "RewardID": 100303
+  },
+  {
+    "ChallengeTargetType": "DEAD_AVATAR",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044080
+    },
+    "ID": 213,
+    "ChallengeTargetParam1": 0,
+    "RewardID": 100304
+  },
+  {
+    "ChallengeTargetType": "ROUNDS_LEFT",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044084
+    },
+    "ID": 221,
+    "ChallengeTargetParam1": 16,
+    "RewardID": 100312
+  },
+  {
+    "ChallengeTargetType": "ROUNDS_LEFT",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044084
+    },
+    "ID": 222,
+    "ChallengeTargetParam1": 24,
+    "RewardID": 100313
+  },
+  {
+    "ChallengeTargetType": "DEAD_AVATAR",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044080
+    },
+    "ID": 223,
+    "ChallengeTargetParam1": 0,
+    "RewardID": 100314
+  },
+  {
+    "ChallengeTargetType": "ROUNDS_LEFT",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044084
+    },
+    "ID": 231,
+    "ChallengeTargetParam1": 16,
+    "RewardID": 100322
+  },
+  {
+    "ChallengeTargetType": "ROUNDS_LEFT",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044084
+    },
+    "ID": 232,
+    "ChallengeTargetParam1": 24,
+    "RewardID": 100323
+  },
+  {
+    "ChallengeTargetType": "DEAD_AVATAR",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044080
+    },
+    "ID": 233,
+    "ChallengeTargetParam1": 0,
+    "RewardID": 100324
+  },
+  {
+    "ChallengeTargetType": "ROUNDS_LEFT",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044084
+    },
+    "ID": 241,
+    "ChallengeTargetParam1": 10,
+    "RewardID": 100332
+  },
+  {
+    "ChallengeTargetType": "ROUNDS_LEFT",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044084
+    },
+    "ID": 242,
+    "ChallengeTargetParam1": 20,
+    "RewardID": 100333
+  },
+  {
+    "ChallengeTargetType": "DEAD_AVATAR",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044080
+    },
+    "ID": 243,
+    "ChallengeTargetParam1": 0,
+    "RewardID": 100334
+  },
+  {
+    "ChallengeTargetType": "ROUNDS_LEFT",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044084
+    },
+    "ID": 251,
+    "ChallengeTargetParam1": 10,
+    "RewardID": 100342
+  },
+  {
+    "ChallengeTargetType": "ROUNDS_LEFT",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044084
+    },
+    "ID": 252,
+    "ChallengeTargetParam1": 20,
+    "RewardID": 100343
+  },
+  {
+    "ChallengeTargetType": "DEAD_AVATAR",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044080
+    },
+    "ID": 253,
+    "ChallengeTargetParam1": 0,
+    "RewardID": 100344
+  },
+  {
+    "ChallengeTargetType": "ROUNDS_LEFT",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044084
+    },
+    "ID": 411,
+    "ChallengeTargetParam1": 10,
+    "RewardID": 100252
+  },
+  {
+    "ChallengeTargetType": "ROUNDS_LEFT",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044084
+    },
+    "ID": 412,
+    "ChallengeTargetParam1": 18,
+    "RewardID": 100253
+  },
+  {
+    "ChallengeTargetType": "DEAD_AVATAR",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044080
+    },
+    "ID": 413,
+    "ChallengeTargetParam1": 0,
+    "RewardID": 100254
+  },
+  {
+    "ChallengeTargetType": "ROUNDS_LEFT",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044084
+    },
+    "ID": 421,
+    "ChallengeTargetParam1": 10,
+    "RewardID": 100262
+  },
+  {
+    "ChallengeTargetType": "ROUNDS_LEFT",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044084
+    },
+    "ID": 422,
+    "ChallengeTargetParam1": 18,
+    "RewardID": 100263
+  },
+  {
+    "ChallengeTargetType": "DEAD_AVATAR",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044080
+    },
+    "ID": 423,
+    "ChallengeTargetParam1": 0,
+    "RewardID": 100264
+  },
+  {
+    "ChallengeTargetType": "ROUNDS_LEFT",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044084
+    },
+    "ID": 431,
+    "ChallengeTargetParam1": 10,
+    "RewardID": 100272
+  },
+  {
+    "ChallengeTargetType": "ROUNDS_LEFT",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044084
+    },
+    "ID": 432,
+    "ChallengeTargetParam1": 18,
+    "RewardID": 100273
+  },
+  {
+    "ChallengeTargetType": "DEAD_AVATAR",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044080
+    },
+    "ID": 433,
+    "ChallengeTargetParam1": 0,
+    "RewardID": 100274
+  },
+  {
+    "ChallengeTargetType": "ROUNDS_LEFT",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044084
+    },
+    "ID": 441,
+    "ChallengeTargetParam1": 10,
+    "RewardID": 100282
+  },
+  {
+    "ChallengeTargetType": "ROUNDS_LEFT",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044084
+    },
+    "ID": 442,
+    "ChallengeTargetParam1": 18,
+    "RewardID": 100283
+  },
+  {
+    "ChallengeTargetType": "DEAD_AVATAR",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044080
+    },
+    "ID": 443,
+    "ChallengeTargetParam1": 0,
+    "RewardID": 100284
+  },
+  {
+    "ChallengeTargetType": "ROUNDS_LEFT",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044084
+    },
+    "ID": 451,
+    "ChallengeTargetParam1": 10,
+    "RewardID": 100292
+  },
+  {
+    "ChallengeTargetType": "ROUNDS_LEFT",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044084
+    },
+    "ID": 452,
+    "ChallengeTargetParam1": 18,
+    "RewardID": 100293
+  },
+  {
+    "ChallengeTargetType": "DEAD_AVATAR",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044080
+    },
+    "ID": 453,
+    "ChallengeTargetParam1": 0,
+    "RewardID": 100294
+  },
+  {
+    "ChallengeTargetType": "ROUNDS_LEFT",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044084
+    },
+    "ID": 461,
+    "ChallengeTargetParam1": 8,
+    "RewardID": 100302
+  },
+  {
+    "ChallengeTargetType": "ROUNDS_LEFT",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044084
+    },
+    "ID": 462,
+    "ChallengeTargetParam1": 16,
+    "RewardID": 100303
+  },
+  {
+    "ChallengeTargetType": "DEAD_AVATAR",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044080
+    },
+    "ID": 463,
+    "ChallengeTargetParam1": 0,
+    "RewardID": 100304
+  },
+  {
+    "ChallengeTargetType": "ROUNDS_LEFT",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044084
+    },
+    "ID": 471,
+    "ChallengeTargetParam1": 8,
+    "RewardID": 100312
+  },
+  {
+    "ChallengeTargetType": "ROUNDS_LEFT",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044084
+    },
+    "ID": 472,
+    "ChallengeTargetParam1": 16,
+    "RewardID": 100313
+  },
+  {
+    "ChallengeTargetType": "DEAD_AVATAR",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044080
+    },
+    "ID": 473,
+    "ChallengeTargetParam1": 0,
+    "RewardID": 100314
+  },
+  {
+    "ChallengeTargetType": "ROUNDS_LEFT",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044084
+    },
+    "ID": 481,
+    "ChallengeTargetParam1": 8,
+    "RewardID": 100322
+  },
+  {
+    "ChallengeTargetType": "ROUNDS_LEFT",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044084
+    },
+    "ID": 482,
+    "ChallengeTargetParam1": 16,
+    "RewardID": 100323
+  },
+  {
+    "ChallengeTargetType": "DEAD_AVATAR",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044080
+    },
+    "ID": 483,
+    "ChallengeTargetParam1": 0,
+    "RewardID": 100324
+  },
+  {
+    "ChallengeTargetType": "ROUNDS_LEFT",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044084
+    },
+    "ID": 491,
+    "ChallengeTargetParam1": 6,
+    "RewardID": 100332
+  },
+  {
+    "ChallengeTargetType": "ROUNDS_LEFT",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044084
+    },
+    "ID": 492,
+    "ChallengeTargetParam1": 14,
+    "RewardID": 100333
+  },
+  {
+    "ChallengeTargetType": "DEAD_AVATAR",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044080
+    },
+    "ID": 493,
+    "ChallengeTargetParam1": 0,
+    "RewardID": 100334
+  },
+  {
+    "ChallengeTargetType": "ROUNDS_LEFT",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044084
+    },
+    "ID": 501,
+    "ChallengeTargetParam1": 6,
+    "RewardID": 100342
+  },
+  {
+    "ChallengeTargetType": "ROUNDS_LEFT",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044084
+    },
+    "ID": 502,
+    "ChallengeTargetParam1": 14,
+    "RewardID": 100343
+  },
+  {
+    "ChallengeTargetType": "DEAD_AVATAR",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044080
+    },
+    "ID": 503,
+    "ChallengeTargetParam1": 0,
+    "RewardID": 100344
+  },
+  {
+    "ChallengeTargetType": "ROUNDS_LEFT",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044084
+    },
+    "ID": 511,
+    "ChallengeTargetParam1": 8,
+    "RewardID": 100322
+  },
+  {
+    "ChallengeTargetType": "ROUNDS_LEFT",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044084
+    },
+    "ID": 512,
+    "ChallengeTargetParam1": 16,
+    "RewardID": 100323
+  },
+  {
+    "ChallengeTargetType": "DEAD_AVATAR",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044080
+    },
+    "ID": 513,
+    "ChallengeTargetParam1": 0,
+    "RewardID": 100324
+  },
+  {
+    "ChallengeTargetType": "ROUNDS_LEFT",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044084
+    },
+    "ID": 521,
+    "ChallengeTargetParam1": 6,
+    "RewardID": 100332
+  },
+  {
+    "ChallengeTargetType": "ROUNDS_LEFT",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044084
+    },
+    "ID": 522,
+    "ChallengeTargetParam1": 14,
+    "RewardID": 100333
+  },
+  {
+    "ChallengeTargetType": "DEAD_AVATAR",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044080
+    },
+    "ID": 523,
+    "ChallengeTargetParam1": 0,
+    "RewardID": 100334
+  },
+  {
+    "ChallengeTargetType": "ROUNDS_LEFT",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044084
+    },
+    "ID": 311,
+    "ChallengeTargetParam1": 6,
+    "RewardID": 101115
+  },
+  {
+    "ChallengeTargetType": "ROUNDS_LEFT",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044084
+    },
+    "ID": 312,
+    "ChallengeTargetParam1": 12,
+    "RewardID": 101115
+  },
+  {
+    "ChallengeTargetType": "DEAD_AVATAR",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044080
+    },
+    "ID": 313,
+    "ChallengeTargetParam1": 0,
+    "RewardID": 101115
+  },
+  {
+    "ChallengeTargetType": "ROUNDS_LEFT",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044084
+    },
+    "ID": 321,
+    "ChallengeTargetParam1": 6,
+    "RewardID": 101115
+  },
+  {
+    "ChallengeTargetType": "ROUNDS_LEFT",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044084
+    },
+    "ID": 322,
+    "ChallengeTargetParam1": 12,
+    "RewardID": 101115
+  },
+  {
+    "ChallengeTargetType": "DEAD_AVATAR",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044080
+    },
+    "ID": 323,
+    "ChallengeTargetParam1": 0,
+    "RewardID": 101115
+  },
+  {
+    "ChallengeTargetType": "ROUNDS_LEFT",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044084
+    },
+    "ID": 331,
+    "ChallengeTargetParam1": 6,
+    "RewardID": 101115
+  },
+  {
+    "ChallengeTargetType": "ROUNDS_LEFT",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044084
+    },
+    "ID": 332,
+    "ChallengeTargetParam1": 12,
+    "RewardID": 101115
+  },
+  {
+    "ChallengeTargetType": "DEAD_AVATAR",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044080
+    },
+    "ID": 333,
+    "ChallengeTargetParam1": 0,
+    "RewardID": 101115
+  },
+  {
+    "ChallengeTargetType": "ROUNDS_LEFT",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044084
+    },
+    "ID": 341,
+    "ChallengeTargetParam1": 6,
+    "RewardID": 101115
+  },
+  {
+    "ChallengeTargetType": "ROUNDS_LEFT",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044084
+    },
+    "ID": 342,
+    "ChallengeTargetParam1": 12,
+    "RewardID": 101115
+  },
+  {
+    "ChallengeTargetType": "DEAD_AVATAR",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044080
+    },
+    "ID": 343,
+    "ChallengeTargetParam1": 0,
+    "RewardID": 101115
+  },
+  {
+    "ChallengeTargetType": "ROUNDS_LEFT",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044084
+    },
+    "ID": 351,
+    "ChallengeTargetParam1": 6,
+    "RewardID": 101115
+  },
+  {
+    "ChallengeTargetType": "ROUNDS_LEFT",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044084
+    },
+    "ID": 352,
+    "ChallengeTargetParam1": 12,
+    "RewardID": 101115
+  },
+  {
+    "ChallengeTargetType": "DEAD_AVATAR",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044080
+    },
+    "ID": 353,
+    "ChallengeTargetParam1": 0,
+    "RewardID": 101115
+  },
+  {
+    "ChallengeTargetType": "ROUNDS_LEFT",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044084
+    },
+    "ID": 361,
+    "ChallengeTargetParam1": 6,
+    "RewardID": 101115
+  },
+  {
+    "ChallengeTargetType": "ROUNDS_LEFT",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044084
+    },
+    "ID": 362,
+    "ChallengeTargetParam1": 12,
+    "RewardID": 101115
+  },
+  {
+    "ChallengeTargetType": "DEAD_AVATAR",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -128044080
+    },
+    "ID": 363,
+    "ChallengeTargetParam1": 0,
+    "RewardID": 101115
+  },
+  {
+    "ChallengeTargetType": "TOTAL_SCORE",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -1856409346
+    },
+    "ID": 2001,
+    "ChallengeTargetParam1": 40000,
+    "RewardID": 0
+  },
+  {
+    "ChallengeTargetType": "TOTAL_SCORE",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -1856409346
+    },
+    "ID": 2002,
+    "ChallengeTargetParam1": 50000,
+    "RewardID": 0
+  },
+  {
+    "ChallengeTargetType": "TOTAL_SCORE",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -1856409346
+    },
+    "ID": 2003,
+    "ChallengeTargetParam1": 60000,
+    "RewardID": 0
+  },
+  {
+    "ChallengeTargetType": "TOTAL_SCORE",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -1856409346
+    },
+    "ID": 3001,
+    "ChallengeTargetParam1": 4000,
+    "RewardID": 0
+  },
+  {
+    "ChallengeTargetType": "TOTAL_SCORE",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -1856409346
+    },
+    "ID": 3002,
+    "ChallengeTargetParam1": 5200,
+    "RewardID": 0
+  },
+  {
+    "ChallengeTargetType": "TOTAL_SCORE",
+    "ChallengeTargetParam3": 0,
+    "ChallengeTargetParam2": 0,
+    "ChallengeTargetName": {
+      "Hash": -1856409346
+    },
+    "ID": 3003,
+    "ChallengeTargetParam1": 6600,
+    "RewardID": 0
+  }
+]

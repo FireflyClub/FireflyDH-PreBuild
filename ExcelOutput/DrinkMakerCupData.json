@@ -1,0 +1,146 @@
+[
+  {
+    "PerLayerHeight": [
+      0.36,
+      0.33,
+      0.31
+    ],
+    "IceCount": [
+      1,
+      3
+    ],
+    "PrefabPath": "Gameplays/FrightmareDrinkMaker/Prefab/Cups/DrinkMakerGlass_Small_01.prefab",
+    "AudioEvent": "Ev_sfx_blending_wineglass_01",
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/ItemIcon/Cup01.png",
+    "IncludeTagList": [
+      101
+    ],
+    "CupID": 31,
+    "Capacity": 3,
+    "Type": "SmallCup",
+    "CupName": {
+      "Hash": 1886997787
+    }
+  },
+  {
+    "PerLayerHeight": [
+      0.4,
+      0.3,
+      0.3
+    ],
+    "IceCount": [
+      1,
+      3
+    ],
+    "PrefabPath": "Gameplays/FrightmareDrinkMaker/Prefab/Cups/DrinkMakerGlass_Small_02.prefab",
+    "AudioEvent": "Ev_sfx_blending_wineglass_02",
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/ItemIcon/Cup02.png",
+    "IncludeTagList": [
+      101
+    ],
+    "CupID": 32,
+    "Capacity": 3,
+    "Type": "SmallCup",
+    "CupName": {
+      "Hash": 1483713260
+    }
+  },
+  {
+    "PerLayerHeight": [
+      0.25,
+      0.25,
+      0.25,
+      0.25
+    ],
+    "IceCount": [
+      2,
+      5
+    ],
+    "PrefabPath": "Gameplays/FrightmareDrinkMaker/Prefab/Cups/DrinkMakerGlass_Medium_01.prefab",
+    "AudioEvent": "Ev_sfx_blending_wineglass_03",
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/ItemIcon/Cup03.png",
+    "IncludeTagList": [
+      102
+    ],
+    "CupID": 41,
+    "Capacity": 4,
+    "Type": "MediumCup",
+    "CupName": {
+      "Hash": 1886997794
+    }
+  },
+  {
+    "PerLayerHeight": [
+      0.27,
+      0.25,
+      0.24,
+      0.24
+    ],
+    "IceCount": [
+      2,
+      5
+    ],
+    "PrefabPath": "Gameplays/FrightmareDrinkMaker/Prefab/Cups/DrinkMakerGlass_Medium_02.prefab",
+    "AudioEvent": "Ev_sfx_blending_wineglass_04",
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/ItemIcon/Cup04.png",
+    "IncludeTagList": [
+      102
+    ],
+    "CupID": 42,
+    "Capacity": 4,
+    "Type": "MediumCup",
+    "CupName": {
+      "Hash": 1483713267
+    }
+  },
+  {
+    "PerLayerHeight": [
+      0.21,
+      0.2,
+      0.2,
+      0.2,
+      0.19
+    ],
+    "IceCount": [
+      3,
+      6
+    ],
+    "PrefabPath": "Gameplays/FrightmareDrinkMaker/Prefab/Cups/DrinkMakerGlass_Large_01.prefab",
+    "AudioEvent": "Ev_sfx_blending_wineglass_05",
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/ItemIcon/Cup05.png",
+    "IncludeTagList": [
+      103
+    ],
+    "CupID": 51,
+    "Capacity": 5,
+    "Type": "LargeCup",
+    "CupName": {
+      "Hash": 1886997793
+    }
+  },
+  {
+    "PerLayerHeight": [
+      0.22,
+      0.19,
+      0.19,
+      0.2,
+      0.2
+    ],
+    "IceCount": [
+      3,
+      6
+    ],
+    "PrefabPath": "Gameplays/FrightmareDrinkMaker/Prefab/Cups/DrinkMakerGlass_Large_02.prefab",
+    "AudioEvent": "Ev_sfx_blending_wineglass_06",
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/ItemIcon/Cup06.png",
+    "IncludeTagList": [
+      103
+    ],
+    "CupID": 52,
+    "Capacity": 5,
+    "Type": "LargeCup",
+    "CupName": {
+      "Hash": 1483713266
+    }
+  }
+]

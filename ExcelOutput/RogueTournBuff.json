@@ -1,0 +1,3754 @@
+[
+  {
+    "ExtraEffectIDList": [
+      60000001
+    ],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Legendary",
+    "MazeBuffID": 615030,
+    "RogueBuffType": 120,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1503001
+  },
+  {
+    "ExtraEffectIDList": [
+      60000001
+    ],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Legendary",
+    "MazeBuffID": 615030,
+    "RogueBuffType": 120,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1503002
+  },
+  {
+    "ExtraEffectIDList": [
+      60000001
+    ],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Legendary",
+    "MazeBuffID": 615031,
+    "RogueBuffType": 120,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1503101
+  },
+  {
+    "ExtraEffectIDList": [
+      60000001
+    ],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Legendary",
+    "MazeBuffID": 615031,
+    "RogueBuffType": 120,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1503102
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Legendary",
+    "MazeBuffID": 615032,
+    "RogueBuffType": 120,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1503201
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Legendary",
+    "MazeBuffID": 615032,
+    "RogueBuffType": 120,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1503202
+  },
+  {
+    "ExtraEffectIDList": [
+      60000001
+    ],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615040,
+    "RogueBuffType": 120,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1504001
+  },
+  {
+    "ExtraEffectIDList": [
+      60000001
+    ],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615040,
+    "RogueBuffType": 120,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1504002
+  },
+  {
+    "ExtraEffectIDList": [
+      60000001
+    ],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615041,
+    "RogueBuffType": 120,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1504101
+  },
+  {
+    "ExtraEffectIDList": [
+      60000001
+    ],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615041,
+    "RogueBuffType": 120,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1504102
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615042,
+    "RogueBuffType": 120,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1504201
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615042,
+    "RogueBuffType": 120,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1504202
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615043,
+    "RogueBuffType": 120,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1504301
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615043,
+    "RogueBuffType": 120,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1504302
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615044,
+    "RogueBuffType": 120,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1504401
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615044,
+    "RogueBuffType": 120,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1504402
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615045,
+    "RogueBuffType": 120,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1504501
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615045,
+    "RogueBuffType": 120,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1504502
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615050,
+    "RogueBuffType": 120,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1505001
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615050,
+    "RogueBuffType": 120,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1505002
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615051,
+    "RogueBuffType": 120,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1505101
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615051,
+    "RogueBuffType": 120,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1505102
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615052,
+    "RogueBuffType": 120,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1505201
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615052,
+    "RogueBuffType": 120,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1505202
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615053,
+    "RogueBuffType": 120,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1505301
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615053,
+    "RogueBuffType": 120,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1505302
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615054,
+    "RogueBuffType": 120,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1505401
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615054,
+    "RogueBuffType": 120,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1505402
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615055,
+    "RogueBuffType": 120,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1505501
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615055,
+    "RogueBuffType": 120,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1505502
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615056,
+    "RogueBuffType": 120,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1505601
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615056,
+    "RogueBuffType": 120,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1505602
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615057,
+    "RogueBuffType": 120,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1505701
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615057,
+    "RogueBuffType": 120,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1505702
+  },
+  {
+    "ExtraEffectIDList": [
+      60000002
+    ],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Legendary",
+    "MazeBuffID": 615130,
+    "RogueBuffType": 121,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1513001
+  },
+  {
+    "ExtraEffectIDList": [
+      60000002
+    ],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Legendary",
+    "MazeBuffID": 615130,
+    "RogueBuffType": 121,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1513002
+  },
+  {
+    "ExtraEffectIDList": [
+      60000002
+    ],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Legendary",
+    "MazeBuffID": 615131,
+    "RogueBuffType": 121,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1513101
+  },
+  {
+    "ExtraEffectIDList": [
+      60000002
+    ],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Legendary",
+    "MazeBuffID": 615131,
+    "RogueBuffType": 121,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1513102
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Legendary",
+    "MazeBuffID": 615132,
+    "RogueBuffType": 121,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1513201
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Legendary",
+    "MazeBuffID": 615132,
+    "RogueBuffType": 121,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1513202
+  },
+  {
+    "ExtraEffectIDList": [
+      60000002
+    ],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615140,
+    "RogueBuffType": 121,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1514001
+  },
+  {
+    "ExtraEffectIDList": [
+      60000002
+    ],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615140,
+    "RogueBuffType": 121,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1514002
+  },
+  {
+    "ExtraEffectIDList": [
+      60000002
+    ],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615141,
+    "RogueBuffType": 121,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1514101
+  },
+  {
+    "ExtraEffectIDList": [
+      60000002
+    ],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615141,
+    "RogueBuffType": 121,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1514102
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615142,
+    "RogueBuffType": 121,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1514201
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615142,
+    "RogueBuffType": 121,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1514202
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615143,
+    "RogueBuffType": 121,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1514301
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615143,
+    "RogueBuffType": 121,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1514302
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615144,
+    "RogueBuffType": 121,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1514401
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615144,
+    "RogueBuffType": 121,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1514402
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615145,
+    "RogueBuffType": 121,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1514501
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615145,
+    "RogueBuffType": 121,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1514502
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615150,
+    "RogueBuffType": 121,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1515001
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615150,
+    "RogueBuffType": 121,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1515002
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615151,
+    "RogueBuffType": 121,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1515101
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615151,
+    "RogueBuffType": 121,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1515102
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615152,
+    "RogueBuffType": 121,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1515201
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615152,
+    "RogueBuffType": 121,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1515202
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615153,
+    "RogueBuffType": 121,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1515301
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615153,
+    "RogueBuffType": 121,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1515302
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615154,
+    "RogueBuffType": 121,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1515401
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615154,
+    "RogueBuffType": 121,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1515402
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615155,
+    "RogueBuffType": 121,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1515501
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615155,
+    "RogueBuffType": 121,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1515502
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615156,
+    "RogueBuffType": 121,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1515601
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615156,
+    "RogueBuffType": 121,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1515602
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615157,
+    "RogueBuffType": 121,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1515701
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615157,
+    "RogueBuffType": 121,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1515702
+  },
+  {
+    "ExtraEffectIDList": [
+      60000012
+    ],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Legendary",
+    "MazeBuffID": 615230,
+    "RogueBuffType": 122,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1523001
+  },
+  {
+    "ExtraEffectIDList": [
+      60000012
+    ],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Legendary",
+    "MazeBuffID": 615230,
+    "RogueBuffType": 122,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1523002
+  },
+  {
+    "ExtraEffectIDList": [
+      60000012
+    ],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Legendary",
+    "MazeBuffID": 615231,
+    "RogueBuffType": 122,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1523101
+  },
+  {
+    "ExtraEffectIDList": [
+      60000012
+    ],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Legendary",
+    "MazeBuffID": 615231,
+    "RogueBuffType": 122,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1523102
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Legendary",
+    "MazeBuffID": 615232,
+    "RogueBuffType": 122,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1523201
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Legendary",
+    "MazeBuffID": 615232,
+    "RogueBuffType": 122,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1523202
+  },
+  {
+    "ExtraEffectIDList": [
+      60000012
+    ],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615240,
+    "RogueBuffType": 122,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1524001
+  },
+  {
+    "ExtraEffectIDList": [
+      60000012
+    ],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615240,
+    "RogueBuffType": 122,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1524002
+  },
+  {
+    "ExtraEffectIDList": [
+      60000012
+    ],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615241,
+    "RogueBuffType": 122,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1524101
+  },
+  {
+    "ExtraEffectIDList": [
+      60000012
+    ],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615241,
+    "RogueBuffType": 122,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1524102
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615242,
+    "RogueBuffType": 122,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1524201
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615242,
+    "RogueBuffType": 122,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1524202
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615243,
+    "RogueBuffType": 122,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1524301
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615243,
+    "RogueBuffType": 122,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1524302
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615244,
+    "RogueBuffType": 122,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1524401
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615244,
+    "RogueBuffType": 122,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1524402
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615245,
+    "RogueBuffType": 122,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1524501
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615245,
+    "RogueBuffType": 122,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1524502
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615250,
+    "RogueBuffType": 122,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1525001
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615250,
+    "RogueBuffType": 122,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1525002
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615251,
+    "RogueBuffType": 122,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1525101
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615251,
+    "RogueBuffType": 122,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1525102
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615252,
+    "RogueBuffType": 122,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1525201
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615252,
+    "RogueBuffType": 122,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1525202
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615253,
+    "RogueBuffType": 122,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1525301
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615253,
+    "RogueBuffType": 122,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1525302
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615254,
+    "RogueBuffType": 122,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1525401
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615254,
+    "RogueBuffType": 122,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1525402
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615255,
+    "RogueBuffType": 122,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1525501
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615255,
+    "RogueBuffType": 122,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1525502
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615256,
+    "RogueBuffType": 122,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1525601
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615256,
+    "RogueBuffType": 122,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1525602
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615257,
+    "RogueBuffType": 122,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1525701
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615257,
+    "RogueBuffType": 122,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1525702
+  },
+  {
+    "ExtraEffectIDList": [
+      60000013
+    ],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Legendary",
+    "MazeBuffID": 615330,
+    "RogueBuffType": 123,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1533001
+  },
+  {
+    "ExtraEffectIDList": [
+      60000013
+    ],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Legendary",
+    "MazeBuffID": 615330,
+    "RogueBuffType": 123,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1533002
+  },
+  {
+    "ExtraEffectIDList": [
+      60000013
+    ],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Legendary",
+    "MazeBuffID": 615331,
+    "RogueBuffType": 123,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1533101
+  },
+  {
+    "ExtraEffectIDList": [
+      60000013
+    ],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Legendary",
+    "MazeBuffID": 615331,
+    "RogueBuffType": 123,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1533102
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Legendary",
+    "MazeBuffID": 615332,
+    "RogueBuffType": 123,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1533201
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Legendary",
+    "MazeBuffID": 615332,
+    "RogueBuffType": 123,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1533202
+  },
+  {
+    "ExtraEffectIDList": [
+      60000013
+    ],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615340,
+    "RogueBuffType": 123,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1534001
+  },
+  {
+    "ExtraEffectIDList": [
+      60000013
+    ],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615340,
+    "RogueBuffType": 123,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1534002
+  },
+  {
+    "ExtraEffectIDList": [
+      60000013
+    ],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615341,
+    "RogueBuffType": 123,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1534101
+  },
+  {
+    "ExtraEffectIDList": [
+      60000013
+    ],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615341,
+    "RogueBuffType": 123,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1534102
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615342,
+    "RogueBuffType": 123,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1534201
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615342,
+    "RogueBuffType": 123,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1534202
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615343,
+    "RogueBuffType": 123,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1534301
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615343,
+    "RogueBuffType": 123,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1534302
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615344,
+    "RogueBuffType": 123,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1534401
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615344,
+    "RogueBuffType": 123,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1534402
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615345,
+    "RogueBuffType": 123,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1534501
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615345,
+    "RogueBuffType": 123,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1534502
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615350,
+    "RogueBuffType": 123,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1535001
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615350,
+    "RogueBuffType": 123,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1535002
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615351,
+    "RogueBuffType": 123,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1535101
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615351,
+    "RogueBuffType": 123,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1535102
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615352,
+    "RogueBuffType": 123,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1535201
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615352,
+    "RogueBuffType": 123,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1535202
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615353,
+    "RogueBuffType": 123,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1535301
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615353,
+    "RogueBuffType": 123,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1535302
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615354,
+    "RogueBuffType": 123,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1535401
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615354,
+    "RogueBuffType": 123,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1535402
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615355,
+    "RogueBuffType": 123,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1535501
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615355,
+    "RogueBuffType": 123,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1535502
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615356,
+    "RogueBuffType": 123,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1535601
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615356,
+    "RogueBuffType": 123,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1535602
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615357,
+    "RogueBuffType": 123,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1535701
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615357,
+    "RogueBuffType": 123,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1535702
+  },
+  {
+    "ExtraEffectIDList": [
+      60000004
+    ],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Legendary",
+    "MazeBuffID": 615430,
+    "RogueBuffType": 124,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1543001
+  },
+  {
+    "ExtraEffectIDList": [
+      60000004
+    ],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Legendary",
+    "MazeBuffID": 615430,
+    "RogueBuffType": 124,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1543002
+  },
+  {
+    "ExtraEffectIDList": [
+      60000004
+    ],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Legendary",
+    "MazeBuffID": 615431,
+    "RogueBuffType": 124,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1543101
+  },
+  {
+    "ExtraEffectIDList": [
+      60000004
+    ],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Legendary",
+    "MazeBuffID": 615431,
+    "RogueBuffType": 124,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1543102
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Legendary",
+    "MazeBuffID": 615432,
+    "RogueBuffType": 124,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1543201
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Legendary",
+    "MazeBuffID": 615432,
+    "RogueBuffType": 124,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1543202
+  },
+  {
+    "ExtraEffectIDList": [
+      60000004
+    ],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615440,
+    "RogueBuffType": 124,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1544001
+  },
+  {
+    "ExtraEffectIDList": [
+      60000004
+    ],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615440,
+    "RogueBuffType": 124,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1544002
+  },
+  {
+    "ExtraEffectIDList": [
+      60000004
+    ],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615441,
+    "RogueBuffType": 124,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1544101
+  },
+  {
+    "ExtraEffectIDList": [
+      60000004
+    ],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615441,
+    "RogueBuffType": 124,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1544102
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615442,
+    "RogueBuffType": 124,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1544201
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615442,
+    "RogueBuffType": 124,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1544202
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615443,
+    "RogueBuffType": 124,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1544301
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615443,
+    "RogueBuffType": 124,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1544302
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615444,
+    "RogueBuffType": 124,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1544401
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615444,
+    "RogueBuffType": 124,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1544402
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615445,
+    "RogueBuffType": 124,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1544501
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615445,
+    "RogueBuffType": 124,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1544502
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615450,
+    "RogueBuffType": 124,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1545001
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615450,
+    "RogueBuffType": 124,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1545002
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615451,
+    "RogueBuffType": 124,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1545101
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615451,
+    "RogueBuffType": 124,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1545102
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615452,
+    "RogueBuffType": 124,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1545201
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615452,
+    "RogueBuffType": 124,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1545202
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615453,
+    "RogueBuffType": 124,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1545301
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615453,
+    "RogueBuffType": 124,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1545302
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615454,
+    "RogueBuffType": 124,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1545401
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615454,
+    "RogueBuffType": 124,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1545402
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615455,
+    "RogueBuffType": 124,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1545501
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615455,
+    "RogueBuffType": 124,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1545502
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615456,
+    "RogueBuffType": 124,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1545601
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615456,
+    "RogueBuffType": 124,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1545602
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615457,
+    "RogueBuffType": 124,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1545701
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615457,
+    "RogueBuffType": 124,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1545702
+  },
+  {
+    "ExtraEffectIDList": [
+      60000005
+    ],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Legendary",
+    "MazeBuffID": 615530,
+    "RogueBuffType": 125,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1553001
+  },
+  {
+    "ExtraEffectIDList": [
+      60000005
+    ],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Legendary",
+    "MazeBuffID": 615530,
+    "RogueBuffType": 125,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1553002
+  },
+  {
+    "ExtraEffectIDList": [
+      60000005
+    ],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Legendary",
+    "MazeBuffID": 615531,
+    "RogueBuffType": 125,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1553101
+  },
+  {
+    "ExtraEffectIDList": [
+      60000005
+    ],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Legendary",
+    "MazeBuffID": 615531,
+    "RogueBuffType": 125,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1553102
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Legendary",
+    "MazeBuffID": 615532,
+    "RogueBuffType": 125,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1553201
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Legendary",
+    "MazeBuffID": 615532,
+    "RogueBuffType": 125,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1553202
+  },
+  {
+    "ExtraEffectIDList": [
+      60000005
+    ],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615540,
+    "RogueBuffType": 125,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1554001
+  },
+  {
+    "ExtraEffectIDList": [
+      60000005
+    ],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615540,
+    "RogueBuffType": 125,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1554002
+  },
+  {
+    "ExtraEffectIDList": [
+      60000005
+    ],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615541,
+    "RogueBuffType": 125,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1554101
+  },
+  {
+    "ExtraEffectIDList": [
+      60000005
+    ],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615541,
+    "RogueBuffType": 125,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1554102
+  },
+  {
+    "ExtraEffectIDList": [
+      10000015
+    ],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615542,
+    "RogueBuffType": 125,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1554201
+  },
+  {
+    "ExtraEffectIDList": [
+      10000015
+    ],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615542,
+    "RogueBuffType": 125,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1554202
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615543,
+    "RogueBuffType": 125,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1554301
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615543,
+    "RogueBuffType": 125,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1554302
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615544,
+    "RogueBuffType": 125,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1554401
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615544,
+    "RogueBuffType": 125,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1554402
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615545,
+    "RogueBuffType": 125,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1554501
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615545,
+    "RogueBuffType": 125,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1554502
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615550,
+    "RogueBuffType": 125,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1555001
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615550,
+    "RogueBuffType": 125,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1555002
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615551,
+    "RogueBuffType": 125,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1555101
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615551,
+    "RogueBuffType": 125,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1555102
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615552,
+    "RogueBuffType": 125,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1555201
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615552,
+    "RogueBuffType": 125,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1555202
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615553,
+    "RogueBuffType": 125,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1555301
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615553,
+    "RogueBuffType": 125,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1555302
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615554,
+    "RogueBuffType": 125,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1555401
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615554,
+    "RogueBuffType": 125,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1555402
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615555,
+    "RogueBuffType": 125,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1555501
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615555,
+    "RogueBuffType": 125,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1555502
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615556,
+    "RogueBuffType": 125,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1555601
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615556,
+    "RogueBuffType": 125,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1555602
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615557,
+    "RogueBuffType": 125,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1555701
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615557,
+    "RogueBuffType": 125,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1555702
+  },
+  {
+    "ExtraEffectIDList": [
+      60000003
+    ],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Legendary",
+    "MazeBuffID": 615630,
+    "RogueBuffType": 126,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1563001
+  },
+  {
+    "ExtraEffectIDList": [
+      60000003
+    ],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Legendary",
+    "MazeBuffID": 615630,
+    "RogueBuffType": 126,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1563002
+  },
+  {
+    "ExtraEffectIDList": [
+      60000003
+    ],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Legendary",
+    "MazeBuffID": 615631,
+    "RogueBuffType": 126,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1563101
+  },
+  {
+    "ExtraEffectIDList": [
+      60000003
+    ],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Legendary",
+    "MazeBuffID": 615631,
+    "RogueBuffType": 126,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1563102
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Legendary",
+    "MazeBuffID": 615632,
+    "RogueBuffType": 126,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1563201
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Legendary",
+    "MazeBuffID": 615632,
+    "RogueBuffType": 126,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1563202
+  },
+  {
+    "ExtraEffectIDList": [
+      60000003
+    ],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615640,
+    "RogueBuffType": 126,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1564001
+  },
+  {
+    "ExtraEffectIDList": [
+      60000003
+    ],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615640,
+    "RogueBuffType": 126,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1564002
+  },
+  {
+    "ExtraEffectIDList": [
+      60000003
+    ],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615641,
+    "RogueBuffType": 126,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1564101
+  },
+  {
+    "ExtraEffectIDList": [
+      60000003
+    ],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615641,
+    "RogueBuffType": 126,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1564102
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615642,
+    "RogueBuffType": 126,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1564201
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615642,
+    "RogueBuffType": 126,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1564202
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615643,
+    "RogueBuffType": 126,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1564301
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615643,
+    "RogueBuffType": 126,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1564302
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615644,
+    "RogueBuffType": 126,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1564401
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615644,
+    "RogueBuffType": 126,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1564402
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615645,
+    "RogueBuffType": 126,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1564501
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615645,
+    "RogueBuffType": 126,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1564502
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615650,
+    "RogueBuffType": 126,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1565001
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615650,
+    "RogueBuffType": 126,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1565002
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615651,
+    "RogueBuffType": 126,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1565101
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615651,
+    "RogueBuffType": 126,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1565102
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615652,
+    "RogueBuffType": 126,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1565201
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615652,
+    "RogueBuffType": 126,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1565202
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615653,
+    "RogueBuffType": 126,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1565301
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615653,
+    "RogueBuffType": 126,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1565302
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615654,
+    "RogueBuffType": 126,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1565401
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615654,
+    "RogueBuffType": 126,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1565402
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615655,
+    "RogueBuffType": 126,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1565501
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615655,
+    "RogueBuffType": 126,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1565502
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615656,
+    "RogueBuffType": 126,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1565601
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615656,
+    "RogueBuffType": 126,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1565602
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615657,
+    "RogueBuffType": 126,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1565701
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615657,
+    "RogueBuffType": 126,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1565702
+  },
+  {
+    "ExtraEffectIDList": [
+      60000017
+    ],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Legendary",
+    "MazeBuffID": 615730,
+    "RogueBuffType": 127,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1573001
+  },
+  {
+    "ExtraEffectIDList": [
+      60000017
+    ],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Legendary",
+    "MazeBuffID": 615730,
+    "RogueBuffType": 127,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1573002
+  },
+  {
+    "ExtraEffectIDList": [
+      60000017
+    ],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Legendary",
+    "MazeBuffID": 615731,
+    "RogueBuffType": 127,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1573101
+  },
+  {
+    "ExtraEffectIDList": [
+      60000017
+    ],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Legendary",
+    "MazeBuffID": 615731,
+    "RogueBuffType": 127,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1573102
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Legendary",
+    "MazeBuffID": 615732,
+    "RogueBuffType": 127,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1573201
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Legendary",
+    "MazeBuffID": 615732,
+    "RogueBuffType": 127,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1573202
+  },
+  {
+    "ExtraEffectIDList": [
+      60000017
+    ],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615740,
+    "RogueBuffType": 127,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1574001
+  },
+  {
+    "ExtraEffectIDList": [
+      60000017
+    ],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615740,
+    "RogueBuffType": 127,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1574002
+  },
+  {
+    "ExtraEffectIDList": [
+      60000017
+    ],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615741,
+    "RogueBuffType": 127,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1574101
+  },
+  {
+    "ExtraEffectIDList": [
+      60000017
+    ],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615741,
+    "RogueBuffType": 127,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1574102
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615742,
+    "RogueBuffType": 127,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1574201
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615742,
+    "RogueBuffType": 127,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1574202
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615743,
+    "RogueBuffType": 127,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1574301
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615743,
+    "RogueBuffType": 127,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1574302
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615744,
+    "RogueBuffType": 127,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1574401
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615744,
+    "RogueBuffType": 127,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1574402
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615745,
+    "RogueBuffType": 127,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1574501
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615745,
+    "RogueBuffType": 127,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1574502
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615750,
+    "RogueBuffType": 127,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1575001
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615750,
+    "RogueBuffType": 127,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1575002
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615751,
+    "RogueBuffType": 127,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1575101
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615751,
+    "RogueBuffType": 127,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1575102
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615752,
+    "RogueBuffType": 127,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1575201
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615752,
+    "RogueBuffType": 127,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1575202
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615753,
+    "RogueBuffType": 127,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1575301
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615753,
+    "RogueBuffType": 127,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1575302
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615754,
+    "RogueBuffType": 127,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1575401
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615754,
+    "RogueBuffType": 127,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1575402
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615755,
+    "RogueBuffType": 127,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1575501
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615755,
+    "RogueBuffType": 127,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1575502
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615756,
+    "RogueBuffType": 127,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1575601
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615756,
+    "RogueBuffType": 127,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1575602
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615757,
+    "RogueBuffType": 127,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1575701
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615757,
+    "RogueBuffType": 127,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1575702
+  },
+  {
+    "ExtraEffectIDList": [
+      61000044
+    ],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Legendary",
+    "MazeBuffID": 615830,
+    "RogueBuffType": 128,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1583001
+  },
+  {
+    "ExtraEffectIDList": [
+      61000044
+    ],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Legendary",
+    "MazeBuffID": 615830,
+    "RogueBuffType": 128,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1583002
+  },
+  {
+    "ExtraEffectIDList": [
+      61000044
+    ],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Legendary",
+    "MazeBuffID": 615831,
+    "RogueBuffType": 128,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1583101
+  },
+  {
+    "ExtraEffectIDList": [
+      61000044
+    ],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Legendary",
+    "MazeBuffID": 615831,
+    "RogueBuffType": 128,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1583102
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Legendary",
+    "MazeBuffID": 615832,
+    "RogueBuffType": 128,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1583201
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Legendary",
+    "MazeBuffID": 615832,
+    "RogueBuffType": 128,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1583202
+  },
+  {
+    "ExtraEffectIDList": [
+      61000044
+    ],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615840,
+    "RogueBuffType": 128,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1584001
+  },
+  {
+    "ExtraEffectIDList": [
+      61000044
+    ],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615840,
+    "RogueBuffType": 128,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1584002
+  },
+  {
+    "ExtraEffectIDList": [
+      61000044
+    ],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615841,
+    "RogueBuffType": 128,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1584101
+  },
+  {
+    "ExtraEffectIDList": [
+      61000044
+    ],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615841,
+    "RogueBuffType": 128,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1584102
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615842,
+    "RogueBuffType": 128,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1584201
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615842,
+    "RogueBuffType": 128,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1584202
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615843,
+    "RogueBuffType": 128,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1584301
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615843,
+    "RogueBuffType": 128,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1584302
+  },
+  {
+    "ExtraEffectIDList": [
+      61000045
+    ],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615844,
+    "RogueBuffType": 128,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1584401
+  },
+  {
+    "ExtraEffectIDList": [
+      61000045
+    ],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615844,
+    "RogueBuffType": 128,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1584402
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615845,
+    "RogueBuffType": 128,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1584501
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615845,
+    "RogueBuffType": 128,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1584502
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615850,
+    "RogueBuffType": 128,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1585001
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615850,
+    "RogueBuffType": 128,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1585002
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615851,
+    "RogueBuffType": 128,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1585101
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615851,
+    "RogueBuffType": 128,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1585102
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615852,
+    "RogueBuffType": 128,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1585201
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615852,
+    "RogueBuffType": 128,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1585202
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615853,
+    "RogueBuffType": 128,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1585301
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615853,
+    "RogueBuffType": 128,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1585302
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615854,
+    "RogueBuffType": 128,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1585401
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615854,
+    "RogueBuffType": 128,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1585402
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615855,
+    "RogueBuffType": 128,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1585501
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615855,
+    "RogueBuffType": 128,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1585502
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615856,
+    "RogueBuffType": 128,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1585601
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615856,
+    "RogueBuffType": 128,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1585602
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615857,
+    "RogueBuffType": 128,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1585701
+  },
+  {
+    "ExtraEffectIDList": [],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Common",
+    "MazeBuffID": 615857,
+    "RogueBuffType": 128,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1585702
+  },
+  {
+    "ExtraEffectIDList": [
+      60000001
+    ],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615046,
+    "RogueBuffType": 120,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1504601
+  },
+  {
+    "ExtraEffectIDList": [
+      60000001
+    ],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615046,
+    "RogueBuffType": 120,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1504602
+  },
+  {
+    "ExtraEffectIDList": [
+      60000002
+    ],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615146,
+    "RogueBuffType": 121,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1514601
+  },
+  {
+    "ExtraEffectIDList": [
+      60000002
+    ],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615146,
+    "RogueBuffType": 121,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1514602
+  },
+  {
+    "ExtraEffectIDList": [
+      60000012
+    ],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615246,
+    "RogueBuffType": 122,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1524601
+  },
+  {
+    "ExtraEffectIDList": [
+      60000012
+    ],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615246,
+    "RogueBuffType": 122,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1524602
+  },
+  {
+    "ExtraEffectIDList": [
+      60000013
+    ],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615346,
+    "RogueBuffType": 123,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1534601
+  },
+  {
+    "ExtraEffectIDList": [
+      60000013
+    ],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615346,
+    "RogueBuffType": 123,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1534602
+  },
+  {
+    "ExtraEffectIDList": [
+      60000004
+    ],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615446,
+    "RogueBuffType": 124,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1544601
+  },
+  {
+    "ExtraEffectIDList": [
+      60000004
+    ],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615446,
+    "RogueBuffType": 124,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1544602
+  },
+  {
+    "ExtraEffectIDList": [
+      60000005
+    ],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615546,
+    "RogueBuffType": 125,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1554601
+  },
+  {
+    "ExtraEffectIDList": [
+      60000005
+    ],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615546,
+    "RogueBuffType": 125,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1554602
+  },
+  {
+    "ExtraEffectIDList": [
+      60000003
+    ],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615646,
+    "RogueBuffType": 126,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1564601
+  },
+  {
+    "ExtraEffectIDList": [
+      60000003
+    ],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615646,
+    "RogueBuffType": 126,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1564602
+  },
+  {
+    "ExtraEffectIDList": [
+      60000017
+    ],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615746,
+    "RogueBuffType": 127,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1574601
+  },
+  {
+    "ExtraEffectIDList": [
+      60000017
+    ],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615746,
+    "RogueBuffType": 127,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1574602
+  },
+  {
+    "ExtraEffectIDList": [
+      61000044
+    ],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615846,
+    "RogueBuffType": 128,
+    "MazeBuffLevel": 1,
+    "RogueBuffTag": 1584601
+  },
+  {
+    "ExtraEffectIDList": [
+      61000044
+    ],
+    "AeonID": 0,
+    "IsInHandbook": true,
+    "UnlockDisplay": 805,
+    "RogueBuffCategory": "Rare",
+    "MazeBuffID": 615846,
+    "RogueBuffType": 128,
+    "MazeBuffLevel": 2,
+    "RogueBuffTag": 1584602
+  }
+]

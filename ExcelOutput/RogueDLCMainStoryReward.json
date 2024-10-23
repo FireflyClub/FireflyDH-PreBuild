@@ -1,0 +1,100 @@
+[
+  {
+    "MainStoryReward": 1,
+    "QuestID": 6013301,
+    "Sort": 1,
+    "IsImportant": 1,
+    "MainStoryID": 0
+  },
+  {
+    "MainStoryReward": 2,
+    "QuestID": 6013302,
+    "Sort": 8,
+    "IsImportant": 0,
+    "MainStoryID": 1
+  },
+  {
+    "MainStoryReward": 3,
+    "QuestID": 6013303,
+    "Sort": 3,
+    "IsImportant": 0,
+    "MainStoryID": 2
+  },
+  {
+    "MainStoryReward": 4,
+    "QuestID": 6013304,
+    "Sort": 10,
+    "IsImportant": 0,
+    "MainStoryID": 3
+  },
+  {
+    "MainStoryReward": 5,
+    "QuestID": 6013305,
+    "Sort": 9,
+    "IsImportant": 0,
+    "MainStoryID": 4
+  },
+  {
+    "MainStoryReward": 6,
+    "QuestID": 6013306,
+    "Sort": 4,
+    "IsImportant": 0,
+    "MainStoryID": 5
+  },
+  {
+    "MainStoryReward": 7,
+    "QuestID": 6013307,
+    "Sort": 11,
+    "IsImportant": 0,
+    "MainStoryID": 6
+  },
+  {
+    "MainStoryReward": 8,
+    "QuestID": 6013308,
+    "Sort": 5,
+    "IsImportant": 0,
+    "MainStoryID": 7
+  },
+  {
+    "MainStoryReward": 9,
+    "QuestID": 6013309,
+    "Sort": 12,
+    "IsImportant": 0,
+    "MainStoryID": 8
+  },
+  {
+    "MainStoryReward": 10,
+    "QuestID": 6013310,
+    "Sort": 6,
+    "IsImportant": 0,
+    "MainStoryID": 9
+  },
+  {
+    "MainStoryReward": 11,
+    "QuestID": 6013311,
+    "Sort": 13,
+    "IsImportant": 0,
+    "MainStoryID": 10
+  },
+  {
+    "MainStoryReward": 12,
+    "QuestID": 6013312,
+    "Sort": 7,
+    "IsImportant": 0,
+    "MainStoryID": 11
+  },
+  {
+    "MainStoryReward": 13,
+    "QuestID": 6013313,
+    "Sort": 14,
+    "IsImportant": 0,
+    "MainStoryID": 12
+  },
+  {
+    "MainStoryReward": 14,
+    "QuestID": 6013314,
+    "Sort": 2,
+    "IsImportant": 0,
+    "MainStoryID": 13
+  }
+]

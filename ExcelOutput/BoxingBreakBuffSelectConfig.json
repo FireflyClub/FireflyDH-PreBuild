@@ -1,0 +1,197 @@
+[
+  {
+    "ExtraEffectIDList": [],
+    "BoxingClubNatureType": "Ice",
+    "BoxingClubBuffID": 3101051
+  },
+  {
+    "ExtraEffectIDList": [],
+    "BoxingClubNatureType": "Ice",
+    "BoxingClubBuffID": 3101052
+  },
+  {
+    "ExtraEffectIDList": [],
+    "BoxingClubNatureType": "Ice",
+    "BoxingClubBuffID": 3101053
+  },
+  {
+    "ExtraEffectIDList": [],
+    "BoxingClubNatureType": "Ice",
+    "BoxingClubBuffID": 3101054
+  },
+  {
+    "ExtraEffectIDList": [],
+    "BoxingClubNatureType": "Ice",
+    "BoxingClubBuffID": 3101055
+  },
+  {
+    "ExtraEffectIDList": [],
+    "BoxingClubNatureType": "Quantum",
+    "BoxingClubBuffID": 3101061
+  },
+  {
+    "ExtraEffectIDList": [],
+    "BoxingClubNatureType": "Quantum",
+    "BoxingClubBuffID": 3101062
+  },
+  {
+    "ExtraEffectIDList": [],
+    "BoxingClubNatureType": "Quantum",
+    "BoxingClubBuffID": 3101063
+  },
+  {
+    "ExtraEffectIDList": [],
+    "BoxingClubNatureType": "Quantum",
+    "BoxingClubBuffID": 3101064
+  },
+  {
+    "ExtraEffectIDList": [],
+    "BoxingClubNatureType": "Quantum",
+    "BoxingClubBuffID": 3101065
+  },
+  {
+    "ExtraEffectIDList": [
+      70000001
+    ],
+    "BoxingClubNatureType": "Wind",
+    "BoxingClubBuffID": 3101071
+  },
+  {
+    "ExtraEffectIDList": [],
+    "BoxingClubNatureType": "Wind",
+    "BoxingClubBuffID": 3101072
+  },
+  {
+    "ExtraEffectIDList": [
+      70000001
+    ],
+    "BoxingClubNatureType": "Wind",
+    "BoxingClubBuffID": 3101073
+  },
+  {
+    "ExtraEffectIDList": [
+      70000001
+    ],
+    "BoxingClubNatureType": "Wind",
+    "BoxingClubBuffID": 3101074
+  },
+  {
+    "ExtraEffectIDList": [
+      70000001
+    ],
+    "BoxingClubNatureType": "Wind",
+    "BoxingClubBuffID": 3101075
+  },
+  {
+    "ExtraEffectIDList": [
+      70000003
+    ],
+    "BoxingClubNatureType": "Fire",
+    "BoxingClubBuffID": 3101081
+  },
+  {
+    "ExtraEffectIDList": [],
+    "BoxingClubNatureType": "Fire",
+    "BoxingClubBuffID": 3101082
+  },
+  {
+    "ExtraEffectIDList": [],
+    "BoxingClubNatureType": "Fire",
+    "BoxingClubBuffID": 3101083
+  },
+  {
+    "ExtraEffectIDList": [
+      70000003
+    ],
+    "BoxingClubNatureType": "Fire",
+    "BoxingClubBuffID": 3101084
+  },
+  {
+    "ExtraEffectIDList": [
+      70000003
+    ],
+    "BoxingClubNatureType": "Fire",
+    "BoxingClubBuffID": 3101085
+  },
+  {
+    "ExtraEffectIDList": [],
+    "BoxingClubNatureType": "Physical",
+    "BoxingClubBuffID": 3101091
+  },
+  {
+    "ExtraEffectIDList": [],
+    "BoxingClubNatureType": "Physical",
+    "BoxingClubBuffID": 3101092
+  },
+  {
+    "ExtraEffectIDList": [],
+    "BoxingClubNatureType": "Physical",
+    "BoxingClubBuffID": 3101093
+  },
+  {
+    "ExtraEffectIDList": [],
+    "BoxingClubNatureType": "Physical",
+    "BoxingClubBuffID": 3101094
+  },
+  {
+    "ExtraEffectIDList": [],
+    "BoxingClubNatureType": "Physical",
+    "BoxingClubBuffID": 3101095
+  },
+  {
+    "ExtraEffectIDList": [],
+    "BoxingClubNatureType": "Imaginary",
+    "BoxingClubBuffID": 3101101
+  },
+  {
+    "ExtraEffectIDList": [],
+    "BoxingClubNatureType": "Imaginary",
+    "BoxingClubBuffID": 3101102
+  },
+  {
+    "ExtraEffectIDList": [],
+    "BoxingClubNatureType": "Imaginary",
+    "BoxingClubBuffID": 3101103
+  },
+  {
+    "ExtraEffectIDList": [],
+    "BoxingClubNatureType": "Imaginary",
+    "BoxingClubBuffID": 3101104
+  },
+  {
+    "ExtraEffectIDList": [],
+    "BoxingClubNatureType": "Imaginary",
+    "BoxingClubBuffID": 3101105
+  },
+  {
+    "ExtraEffectIDList": [
+      70000002
+    ],
+    "BoxingClubNatureType": "Thunder",
+    "BoxingClubBuffID": 3101111
+  },
+  {
+    "ExtraEffectIDList": [],
+    "BoxingClubNatureType": "Thunder",
+    "BoxingClubBuffID": 3101112
+  },
+  {
+    "ExtraEffectIDList": [],
+    "BoxingClubNatureType": "Thunder",
+    "BoxingClubBuffID": 3101113
+  },
+  {
+    "ExtraEffectIDList": [
+      70000002
+    ],
+    "BoxingClubNatureType": "Thunder",
+    "BoxingClubBuffID": 3101114
+  },
+  {
+    "ExtraEffectIDList": [
+      70000002
+    ],
+    "BoxingClubNatureType": "Thunder",
+    "BoxingClubBuffID": 3101115
+  }
+]

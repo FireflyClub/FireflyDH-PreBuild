@@ -1,0 +1,752 @@
+[
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/Billboard/IconBillboardNpc.png",
+    "Priority": 1,
+    "ID": 1
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/Billboard/IconBillboardShop.png",
+    "Priority": 2,
+    "ID": 2
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/Billboard/IconBillboardBox.png",
+    "Priority": 3,
+    "ID": 3
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/Billboard/IconBillboardPortal.png",
+    "Priority": 4,
+    "ID": 4
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/Billboard/IconBillboardControl.png",
+    "Priority": 5,
+    "ID": 5
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/Billboard/IconBillboardTalk.png",
+    "Priority": 6,
+    "ID": 6
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/NaviIcons/IconMapChallengeGameN.png",
+    "Priority": 7,
+    "ID": 7
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/Billboard/IconBillboardChallenge.png",
+    "Priority": 8,
+    "ID": 8
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/UI/Nature/IconAttribute/IconAttributeFire.png",
+    "Priority": 9,
+    "ID": 9
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/UI/Nature/IconAttribute/IconAttributeIce.png",
+    "Priority": 10,
+    "ID": 10
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/UI/Nature/IconAttribute/IconAttributeImaginary.png",
+    "Priority": 11,
+    "ID": 11
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/UI/Nature/IconAttribute/IconAttributePhysical.png",
+    "Priority": 12,
+    "ID": 12
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/UI/Nature/IconAttribute/IconAttributeQuantum.png",
+    "Priority": 13,
+    "ID": 13
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/UI/Nature/IconAttribute/IconAttributeThunder.png",
+    "Priority": 14,
+    "ID": 14
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/UI/Nature/IconAttribute/IconAttributeWind.png",
+    "Priority": 15,
+    "ID": 15
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/NaviIcons/IconMapMainMission04.png",
+    "Priority": 16,
+    "ID": 16
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/NaviIcons/IconMapSubStoryMission04.png",
+    "Priority": 17,
+    "ID": 17
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/NaviIcons/IconMapDailyMission04.png",
+    "Priority": 18,
+    "ID": 18
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/Billboard/IconBillboardPortal.png",
+    "Priority": 19,
+    "ID": 19
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/NaviIcons/IconMapNpc2.png",
+    "Priority": 20,
+    "ID": 20
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/NaviIcons/IconMapDownload.png",
+    "Priority": 21,
+    "ID": 21
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/NaviIcons/IconMapRogueIdentify.png",
+    "Priority": 22,
+    "ID": 22
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/NaviIcons/IconMapRogueShop.png",
+    "Priority": 23,
+    "ID": 23
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/Billboard/IconBillboardRandomTask.png",
+    "Priority": 24,
+    "ID": 24
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/Billboard/IconBillboardCapsuleShop.png",
+    "Priority": 25,
+    "ID": 25
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/NaviIcons/IconMapTask.png",
+    "Priority": 26,
+    "ID": 26
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/NaviIcons/IconMapPlay1.png",
+    "Priority": 27,
+    "ID": 27
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/NaviIcons/IconMapPlay2.png",
+    "Priority": 28,
+    "ID": 28
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/NaviIcons/IconMapPlay3.png",
+    "Priority": 29,
+    "ID": 29
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/NaviIcons/IconMapPlay6.png",
+    "Priority": 30,
+    "ID": 30
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/Billboard/IconBillboardMapRogue04.png",
+    "Priority": 31,
+    "ID": 31
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/Billboard/IconBillboardEntrance.png",
+    "Priority": 32,
+    "ID": 32
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/Billboard/IconBillboardExit.png",
+    "Priority": 33,
+    "ID": 33
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/Billboard/IconBillboardEntrance.png",
+    "Priority": 34,
+    "ID": 34
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/NaviIcons/IconMapJukebox.png",
+    "Priority": 35,
+    "ID": 35
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/Billboard/IconBillboardEntrance.png",
+    "Priority": 36,
+    "ID": 36
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/Billboard/IconBillboardPrestige.png",
+    "Priority": 37,
+    "ID": 37
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/NaviIcons/IconMapSynthesis.png",
+    "Priority": 38,
+    "ID": 38
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/NaviIcons/IconMapExit.png",
+    "Priority": 39,
+    "ID": 39
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/NaviIcons/IconMapMissionGrayTest.png",
+    "Priority": 40,
+    "ID": 40
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/Billboard/IconBillboardPickUp.png",
+    "Priority": 41,
+    "ID": 41
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/Billboard/IconBillboardCommonSign.png",
+    "Priority": 42,
+    "ID": 42
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/NaviIcons/IconMapNpc2.png",
+    "Priority": 43,
+    "ID": 43
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/NaviIcons/IconMapPlay9.png",
+    "Priority": 44,
+    "ID": 44
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/Billboard/IconBillboardFistClub.png",
+    "Priority": 45,
+    "ID": 45
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/Billboard/IconBillboardMonster.png",
+    "Priority": 46,
+    "ID": 46
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/Billboard/IconBillboardMapRogue01.png",
+    "Priority": 1001,
+    "ID": 47
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/Billboard/IconBillboardMapRogue02.png",
+    "Priority": 1002,
+    "ID": 48
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/Billboard/IconBillboardMapRogue03.png",
+    "Priority": 1003,
+    "ID": 49
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/Billboard/IconBillboardDailyMission01.png",
+    "Priority": 1011,
+    "ID": 50
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/Billboard/IconBillboardDailyMission02.png",
+    "Priority": 1012,
+    "ID": 51
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/Billboard/IconBillboardDailyMission03.png",
+    "Priority": 1013,
+    "ID": 52
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/Billboard/IconBillboardSubStoryMission01.png",
+    "Priority": 1021,
+    "ID": 53
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/Billboard/IconBillboardSubStoryMission02.png",
+    "Priority": 1022,
+    "ID": 54
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/Billboard/IconBillboardSubStoryMission03.png",
+    "Priority": 1023,
+    "ID": 55
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/Billboard/IconBillboardSubStoryMission01.png",
+    "Priority": 1024,
+    "ID": 56
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/Billboard/IconBillboardMapCompanion01.png",
+    "Priority": 1031,
+    "ID": 57
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/Billboard/IconBillboardMapCompanion02.png",
+    "Priority": 1032,
+    "ID": 58
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/Billboard/IconBillboardMapCompanion03.png",
+    "Priority": 1033,
+    "ID": 59
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/NaviIcons/IconMapCompanionMission04.png",
+    "Priority": 1034,
+    "ID": 60
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/Billboard/IconBillboardMainMission01.png",
+    "Priority": 1051,
+    "ID": 61
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/Billboard/IconBillboardMainMission02.png",
+    "Priority": 1052,
+    "ID": 62
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/Billboard/IconBillboardMainMission03.png",
+    "Priority": 1053,
+    "ID": 63
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/Billboard/IconBillboardBoxingClub.png",
+    "Priority": 2001,
+    "ID": 64
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/Billboard/IconBillboardTreasureTrotter.png",
+    "Priority": 2003,
+    "ID": 66
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/Billboard/IconBillboardMuseum.png",
+    "Priority": 2004,
+    "ID": 67
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/Billboard/IconBillboardTreasureDungeon.png",
+    "Priority": 2005,
+    "ID": 68
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/Billboard/IconBillboardAlley.png",
+    "Priority": 2006,
+    "ID": 69
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/Billboard/IconBillboardCheck.png",
+    "Priority": 47,
+    "ID": 70
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/Billboard/IconBillboardRobCrane.png",
+    "Priority": 48,
+    "ID": 72
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/Billboard/IconBillboardAlleyOrder.png",
+    "Priority": 2007,
+    "ID": 73
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/Billboard/IconBillboardAlleyMission.png",
+    "Priority": 2008,
+    "ID": 74
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/Billboard/IconBillboardFantasticStory.png",
+    "Priority": 2009,
+    "ID": 75
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/Billboard/IconBillboardHeliobusSNS.png",
+    "Priority": 2010,
+    "ID": 76
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/Quest/Heliobus/IconBillboardSuiGardenTower.png",
+    "Priority": 2011,
+    "ID": 77
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/UI/Maze/MiniGame/ClockBoy/BillBoardIcon/IconBubbleClockBoySpannerSilent.png",
+    "Priority": 2012,
+    "ID": 78
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/UI/Maze/MiniGame/ClockBoy/BillBoardIcon/IconBubbleClockBoySpannerAngry.png",
+    "Priority": 2013,
+    "ID": 79
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/UI/Maze/MiniGame/ClockBoy/BillBoardIcon/IconBubbleClockBoySpannerHappy.png",
+    "Priority": 2014,
+    "ID": 80
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/UI/Maze/MiniGame/ClockBoy/BillBoardIcon/IconBubbleClockBoySpannerCry.png",
+    "Priority": 2015,
+    "ID": 81
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/UI/Maze/MiniGame/ClockBoy/BillBoardIcon/IconBubbleClockBoyEvent.png",
+    "Priority": 2016,
+    "ID": 82
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/UI/Maze/MiniGame/ClockBoy/BillBoardIcon/IconBubbleClockBoySilent.png",
+    "Priority": 2017,
+    "ID": 83
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/UI/Maze/MiniGame/ClockBoy/BillBoardIcon/IconBubbleClockBoyAngry.png",
+    "Priority": 2018,
+    "ID": 84
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/UI/Maze/MiniGame/ClockBoy/BillBoardIcon/IconBubbleClockBoyHappy.png",
+    "Priority": 2019,
+    "ID": 85
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/UI/Maze/MiniGame/ClockBoy/BillBoardIcon/IconBubbleClockBoyCry.png",
+    "Priority": 2020,
+    "ID": 86
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/Billboard/IconBillboardAlleyShop110.png",
+    "Priority": 2011,
+    "ID": 87
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/Billboard/IconBillboardRogueEndless.png",
+    "Priority": 2021,
+    "ID": 88
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/Billboard/IconBillboardGapMission01.png",
+    "Priority": 1041,
+    "ID": 89
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/Billboard/IconBillboardGapMission02.png",
+    "Priority": 1042,
+    "ID": 90
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/Billboard/IconBillboardGapMission03.png",
+    "Priority": 1043,
+    "ID": 91
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/NaviIcons/IconMapGapMission04.png",
+    "Priority": 49,
+    "ID": 92
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/NaviIcons/IconMapSynthesis.png",
+    "Priority": 50,
+    "ID": 93
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/Billboard/IconBillboardOrigamiBird.png",
+    "Priority": 51,
+    "ID": 94
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/Billboard/IconBillboardMemoryBubble.png",
+    "Priority": 52,
+    "ID": 95
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/Billboard/IconBillboardChallengeStory.png",
+    "Priority": 8,
+    "ID": 96
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/Billboard/IconBillboardSpaceZoo.png",
+    "Priority": 2022,
+    "ID": 98
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/Billboard/IconActivityStrongChallenge.png",
+    "Priority": 2023,
+    "ID": 99
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/UI/Maze/MiniGame/ClockBoy/BillBoardIcon/IconBubbleClockBoyLocked.png",
+    "Priority": 2024,
+    "ID": 100
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/Billboard/IconBillboardDreamingDeviceEntrance.png",
+    "Priority": 101,
+    "ID": 101
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/NaviIcons/IconMapChangeMood.png",
+    "Priority": 2026,
+    "ID": 103
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/NaviIcons/IconMapMoodPoint.png",
+    "Priority": 2026,
+    "ID": 104
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/Billboard/IconBillboardTelevision.png",
+    "Priority": 2027,
+    "ID": 105
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/Billboard/IconBillboardClockBoyShop.png",
+    "Priority": 195,
+    "ID": 106
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/NaviIcons/IconMapRollShop.png",
+    "Priority": 200,
+    "ID": 107
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/NaviIcons/IconMapToken.png",
+    "Priority": 201,
+    "ID": 108
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/NaviIcons/IconMapWolfBro.png",
+    "Priority": 202,
+    "ID": 109
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/Billboard/IconBillboardGravityCharger.png",
+    "Priority": 110,
+    "ID": 110
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/Billboard/IconBillboardHeliobusMiniGame.png",
+    "Priority": 2028,
+    "ID": 111
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/Billboard/IconBillboardFramePortal.png",
+    "Priority": 112,
+    "ID": 112
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/Billboard/IconBillboardMakeFilm.png",
+    "Priority": 8,
+    "ID": 113
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/Billboard/IconFeverTime.png",
+    "Priority": 2395,
+    "ID": 114
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/Billboard/IconEvolveBuild.png",
+    "Priority": 2396,
+    "ID": 115
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/Billboard/IconBillboardMonopoly.png",
+    "Priority": 2005,
+    "ID": 116
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/Billboard/IconBillboarDrinkMaker.png",
+    "Priority": 2030,
+    "ID": 117
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/Billboard/IconBillboardClockPark.png",
+    "Priority": 2031,
+    "ID": 118
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/Billboard/IconMatchThree.png",
+    "Priority": 2032,
+    "ID": 119
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/Billboard/IconBillboardCarMove.png",
+    "Priority": 1,
+    "ID": 120
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/Billboard/IconBillboardClockParkStreetEvent.png",
+    "Priority": 2033,
+    "ID": 121
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/Billboard/IconBillboardClockParkRaid.png",
+    "Priority": 2034,
+    "ID": 122
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/Billboard/IconBillboardOpticalillusion.png",
+    "Priority": 2035,
+    "ID": 123
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/NaviIcons/IconMapPlay6.png",
+    "Priority": 2036,
+    "ID": 124
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/Billboard/IconBillboardEXLevel.png",
+    "Priority": 2037,
+    "ID": 125
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/Billboard/IconBillboardBoxingClub.png",
+    "Priority": 2038,
+    "ID": 126
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/Billboard/IconBillboardChallengeBoss.png",
+    "Priority": 8,
+    "ID": 127
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/UI/Maze/MiniGame/ClockBoy/BillBoardIcon/IconBubbleClockBoyOrder.png",
+    "Priority": 2039,
+    "ID": 128
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/Billboard/IconBillboardSword.png",
+    "Priority": 2040,
+    "ID": 129
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/Billboard/IconBillboardFightFest.png",
+    "Priority": 2041,
+    "ID": 130
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/Billboard/IconBillboardMainMission05.png",
+    "Priority": 1053,
+    "ID": 131
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/Billboard/IconBillboardGapMission05.png",
+    "Priority": 1043,
+    "ID": 132
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/Billboard/IconBillboardCompanionMission05.png",
+    "Priority": 1033,
+    "ID": 133
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/Billboard/IconBillboardSubStoryMission05.png",
+    "Priority": 1023,
+    "ID": 134
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/Billboard/IconBillboardDailyMission05.png",
+    "Priority": 1013,
+    "ID": 135
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/Billboard/IconBillboardTrashCanSummon.png",
+    "Priority": 2041,
+    "ID": 136
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/Billboard/IconBillboardTouringCarPhoto.png",
+    "Priority": 2042,
+    "ID": 137
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/NaviIcons/IconMapCucurbits.png",
+    "Priority": 2043,
+    "ID": 138
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/NaviIcons/IconMapPlay6.png",
+    "Priority": 2044,
+    "ID": 139
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/Billboard/IconSecondWorldRaidCollectionGame.png",
+    "Priority": 2045,
+    "ID": 140
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/Billboard/IconBillboardNirayaEntrance.png",
+    "Priority": 8,
+    "ID": 141
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/Billboard/IconBillboardMainMission06.png",
+    "Priority": 1053,
+    "ID": 142
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/Billboard/IconBillboardGapMission06.png",
+    "Priority": 1043,
+    "ID": 143
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/Billboard/IconBillboardCompanionMission06.png",
+    "Priority": 1033,
+    "ID": 144
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/Billboard/IconBillboardSubStoryMission06.png",
+    "Priority": 1023,
+    "ID": 145
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/Billboard/IconBillboardDailyMission06.png",
+    "Priority": 1013,
+    "ID": 146
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/Billboard/IconBillboardMusicRhythm.png",
+    "Priority": 2042,
+    "ID": 147
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/Billboard/IconBillboardMusicRhythmRaid.png",
+    "Priority": 2042,
+    "ID": 148
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/Billboard/IconBillboardBelobogSubmit.png",
+    "Priority": 2046,
+    "ID": 149
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/Billboard/IconBillboardTrainParty.png",
+    "Priority": 2040,
+    "ID": 152
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/Billboard/IconBillboardPamSkin.png",
+    "Priority": 153,
+    "ID": 153
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/Billboard/IconBillboardBedroom.png",
+    "Priority": 270,
+    "ID": 161
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/Billboard/IconBillboardPlayroom.png",
+    "Priority": 270,
+    "ID": 162
+  },
+  {
+    "BillboardIconPath": "SpriteOutput/MapPics/Billboard/IconBillboardShower.png",
+    "Priority": 270,
+    "ID": 163
+  }
+]

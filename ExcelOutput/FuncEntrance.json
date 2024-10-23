@@ -1,0 +1,1922 @@
+[
+  {
+    "RedDot": "",
+    "RedDotHud": "",
+    "UnLockIconPath": "SpriteOutput/PhoneAPPIcon/MapIcon.png",
+    "FuncIconPath": "SpriteOutput/PhoneAPPIcon/MapIcon.png",
+    "FuncHudIconPath": "SpriteOutput/PhoneAPPIcon/MapIcon.png",
+    "FirstWorldText": "",
+    "FuncName": {
+      "Hash": 1405076994
+    },
+    "GotoID": 200,
+    "ParentSystem": 0,
+    "ID": 2,
+    "UnlockPrompt": "Entrance",
+    "UnlockID": 200,
+    "UnlockDesc": {
+      "Hash": -693209280
+    },
+    "UnlockMainMission": 1010301,
+    "NotInScheduleToast": {
+      "Hash": 371857150
+    },
+    "IsLargeBtn": false
+  },
+  {
+    "RedDot": "",
+    "RedDotHud": "",
+    "UnLockIconPath": "SpriteOutput/PhoneAPPIcon/TeamIcon.png",
+    "FuncIconPath": "SpriteOutput/PhoneAPPIcon/TeamIcon.png",
+    "FuncHudIconPath": "SpriteOutput/PhoneAPPIcon/TeamIcon.png",
+    "FirstWorldText": "",
+    "FuncName": {
+      "Hash": -592780657
+    },
+    "GotoID": 300,
+    "ParentSystem": 0,
+    "ID": 3,
+    "UnlockPrompt": "Entrance",
+    "UnlockID": 300,
+    "UnlockDesc": {
+      "Hash": 2035674075
+    },
+    "UnlockMainMission": 1010401,
+    "NotInScheduleToast": {
+      "Hash": 371857150
+    },
+    "IsLargeBtn": false
+  },
+  {
+    "RedDot": "Avatar",
+    "RedDotHud": "Avatar",
+    "UnLockIconPath": "SpriteOutput/PhoneAPPIcon/AvatarIcon.png",
+    "FuncIconPath": "SpriteOutput/PhoneAPPIcon/AvatarIcon.png",
+    "FuncHudIconPath": "SpriteOutput/PhoneAPPIcon/AvatarIcon.png",
+    "FirstWorldText": "",
+    "FuncName": {
+      "Hash": -676993900
+    },
+    "GotoID": 400,
+    "ParentSystem": 0,
+    "ID": 4,
+    "UnlockPrompt": "Entrance",
+    "UnlockID": 400,
+    "UnlockDesc": {
+      "Hash": 469590134
+    },
+    "UnlockMainMission": 0,
+    "NotInScheduleToast": {
+      "Hash": 371857150
+    },
+    "IsLargeBtn": false
+  },
+  {
+    "RedDot": "Inventory_All",
+    "RedDotHud": "Inventory_All",
+    "UnLockIconPath": "SpriteOutput/PhoneAPPIcon/InventoryIcon.png",
+    "FuncIconPath": "SpriteOutput/PhoneAPPIcon/InventoryIcon.png",
+    "FuncHudIconPath": "SpriteOutput/PhoneAPPIcon/InventoryIcon.png",
+    "FirstWorldText": "",
+    "FuncName": {
+      "Hash": 888911468
+    },
+    "GotoID": 500,
+    "ParentSystem": 0,
+    "ID": 5,
+    "UnlockPrompt": "None",
+    "UnlockID": 500,
+    "UnlockDesc": {
+      "Hash": 371857150
+    },
+    "UnlockMainMission": 0,
+    "NotInScheduleToast": {
+      "Hash": 371857150
+    },
+    "IsLargeBtn": false
+  },
+  {
+    "RedDot": "",
+    "RedDotHud": "",
+    "UnLockIconPath": "SpriteOutput/PhoneAPPIcon/ShopIcon.png",
+    "FuncIconPath": "SpriteOutput/PhoneAPPIcon/ShopIcon.png",
+    "FuncHudIconPath": "SpriteOutput/PhoneAPPIcon/ShopIcon.png",
+    "FirstWorldText": "Store",
+    "FuncName": {
+      "Hash": -1868259488
+    },
+    "GotoID": 600,
+    "ParentSystem": 0,
+    "ID": 6,
+    "UnlockPrompt": "None",
+    "UnlockID": 600,
+    "UnlockDesc": {
+      "Hash": 1632389548
+    },
+    "UnlockMainMission": 1010401,
+    "NotInScheduleToast": {
+      "Hash": 371857150
+    },
+    "IsLargeBtn": true
+  },
+  {
+    "RedDot": "MissionTab_All",
+    "RedDotHud": "MissionTab_All",
+    "UnLockIconPath": "SpriteOutput/PhoneAPPIcon/QuestIcon.png",
+    "FuncIconPath": "SpriteOutput/PhoneAPPIcon/QuestIcon.png",
+    "FuncHudIconPath": "SpriteOutput/PhoneAPPIcon/QuestIcon.png",
+    "FirstWorldText": "",
+    "FuncName": {
+      "Hash": -1034393270
+    },
+    "GotoID": 700,
+    "ParentSystem": 0,
+    "ID": 7,
+    "UnlockPrompt": "Entrance",
+    "UnlockID": 0,
+    "UnlockDesc": {
+      "Hash": 371857150
+    },
+    "UnlockMainMission": 0,
+    "NotInScheduleToast": {
+      "Hash": 371857150
+    },
+    "IsLargeBtn": false
+  },
+  {
+    "RedDot": "ActivityQuest_All",
+    "RedDotHud": "ActivityQuest_All",
+    "UnLockIconPath": "SpriteOutput/PhoneAPPIcon/ActivityIcon.png",
+    "FuncIconPath": "SpriteOutput/PhoneAPPIcon/ActivityIcon.png",
+    "FuncHudIconPath": "SpriteOutput/PhoneAPPIcon/ActivityIcon.png",
+    "FirstWorldText": "Travel Log",
+    "FuncName": {
+      "Hash": -1927936373
+    },
+    "GotoID": 800,
+    "ParentSystem": 0,
+    "ID": 8,
+    "UnlockPrompt": "Entrance",
+    "UnlockID": 800,
+    "UnlockDesc": {
+      "Hash": -1499778334
+    },
+    "UnlockMainMission": 1010503,
+    "NotInScheduleToast": {
+      "Hash": 371857150
+    },
+    "IsLargeBtn": true
+  },
+  {
+    "RedDot": "Mail",
+    "RedDotHud": "",
+    "UnLockIconPath": "SpriteOutput/UI/MobilePhone/EnvelopeIcon.png",
+    "FuncIconPath": "SpriteOutput/UI/MobilePhone/EnvelopeIcon.png",
+    "FuncHudIconPath": "SpriteOutput/UI/MobilePhone/EnvelopeIcon.png",
+    "FirstWorldText": "",
+    "FuncName": {
+      "Hash": -617741829
+    },
+    "GotoID": 900,
+    "ParentSystem": 0,
+    "ID": 9,
+    "UnlockPrompt": "Entrance",
+    "UnlockID": 0,
+    "UnlockDesc": {
+      "Hash": 371857150
+    },
+    "UnlockMainMission": 0,
+    "NotInScheduleToast": {
+      "Hash": 371857150
+    },
+    "IsLargeBtn": false
+  },
+  {
+    "RedDot": "Notice_All",
+    "RedDotHud": "",
+    "UnLockIconPath": "SpriteOutput/UI/MobilePhone/NoticeIcon.png",
+    "FuncIconPath": "SpriteOutput/UI/MobilePhone/NoticeIcon.png",
+    "FuncHudIconPath": "SpriteOutput/UI/MobilePhone/NoticeIcon.png",
+    "FirstWorldText": "",
+    "FuncName": {
+      "Hash": 2050919576
+    },
+    "GotoID": 1000,
+    "ParentSystem": 0,
+    "ID": 10,
+    "UnlockPrompt": "Entrance",
+    "UnlockID": 0,
+    "UnlockDesc": {
+      "Hash": 371857150
+    },
+    "UnlockMainMission": 0,
+    "NotInScheduleToast": {
+      "Hash": 371857150
+    },
+    "IsLargeBtn": false
+  },
+  {
+    "RedDot": "Setting",
+    "RedDotHud": "",
+    "UnLockIconPath": "SpriteOutput/UI/MobilePhone/SetIcon.png",
+    "FuncIconPath": "SpriteOutput/UI/MobilePhone/SetIcon.png",
+    "FuncHudIconPath": "SpriteOutput/UI/MobilePhone/SetIcon.png",
+    "FirstWorldText": "",
+    "FuncName": {
+      "Hash": -1818257148
+    },
+    "GotoID": 1100,
+    "ParentSystem": 0,
+    "ID": 11,
+    "UnlockPrompt": "Entrance",
+    "UnlockID": 0,
+    "UnlockDesc": {
+      "Hash": 371857150
+    },
+    "UnlockMainMission": 0,
+    "NotInScheduleToast": {
+      "Hash": 371857150
+    },
+    "IsLargeBtn": false
+  },
+  {
+    "RedDot": "",
+    "RedDotHud": "",
+    "UnLockIconPath": "SpriteOutput/PhoneAPPIcon/FeedbackIcon.png",
+    "FuncIconPath": "SpriteOutput/PhoneAPPIcon/FeedbackIcon.png",
+    "FuncHudIconPath": "SpriteOutput/PhoneAPPIcon/FeedbackIcon.png",
+    "FirstWorldText": "",
+    "FuncName": {
+      "Hash": 1523911446
+    },
+    "GotoID": 1200,
+    "ParentSystem": 0,
+    "ID": 12,
+    "UnlockPrompt": "Entrance",
+    "UnlockID": 0,
+    "UnlockDesc": {
+      "Hash": 371857150
+    },
+    "UnlockMainMission": 0,
+    "NotInScheduleToast": {
+      "Hash": 371857150
+    },
+    "IsLargeBtn": false
+  },
+  {
+    "RedDot": "",
+    "RedDotHud": "",
+    "UnLockIconPath": "SpriteOutput/UI/MobilePhone/ShutdownIcon.png",
+    "FuncIconPath": "SpriteOutput/UI/MobilePhone/ShutdownIcon.png",
+    "FuncHudIconPath": "SpriteOutput/UI/MobilePhone/ShutdownIcon.png",
+    "FirstWorldText": "",
+    "FuncName": {
+      "Hash": 1835464452
+    },
+    "GotoID": 1300,
+    "ParentSystem": 0,
+    "ID": 13,
+    "UnlockPrompt": "Entrance",
+    "UnlockID": 0,
+    "UnlockDesc": {
+      "Hash": 371857150
+    },
+    "UnlockMainMission": 0,
+    "NotInScheduleToast": {
+      "Hash": 371857150
+    },
+    "IsLargeBtn": false
+  },
+  {
+    "RedDot": "",
+    "RedDotHud": "",
+    "UnLockIconPath": "SpriteOutput/PhoneAPPIcon/BookIcon.png",
+    "FuncIconPath": "SpriteOutput/PhoneAPPIcon/BookIcon.png",
+    "FuncHudIconPath": "SpriteOutput/PhoneAPPIcon/BookIcon.png",
+    "FirstWorldText": "",
+    "FuncName": {
+      "Hash": 1734708759
+    },
+    "GotoID": 1400,
+    "ParentSystem": 0,
+    "ID": 14,
+    "UnlockPrompt": "Entrance",
+    "UnlockID": 0,
+    "UnlockDesc": {
+      "Hash": 371857150
+    },
+    "UnlockMainMission": 0,
+    "NotInScheduleToast": {
+      "Hash": 371857150
+    },
+    "IsLargeBtn": false
+  },
+  {
+    "RedDot": "Activity",
+    "RedDotHud": "Activity",
+    "UnLockIconPath": "SpriteOutput/PhoneAPPIcon/DailyQuestIcon.png",
+    "FuncIconPath": "SpriteOutput/PhoneAPPIcon/DailyQuestIcon.png",
+    "FuncHudIconPath": "SpriteOutput/PhoneAPPIcon/DailyQuestIcon.png",
+    "FirstWorldText": "",
+    "FuncName": {
+      "Hash": -2133251693
+    },
+    "GotoID": 1500,
+    "ParentSystem": 0,
+    "ID": 15,
+    "UnlockPrompt": "Entrance",
+    "UnlockID": 1500,
+    "UnlockDesc": {
+      "Hash": 1306839696
+    },
+    "UnlockMainMission": 1010503,
+    "NotInScheduleToast": {
+      "Hash": 371857150
+    },
+    "IsLargeBtn": false
+  },
+  {
+    "RedDot": "",
+    "RedDotHud": "",
+    "UnLockIconPath": "SpriteOutput/PhoneAPPIcon/ActivityIcon.png",
+    "FuncIconPath": "SpriteOutput/PhoneAPPIcon/ActivityIcon.png",
+    "FuncHudIconPath": "SpriteOutput/PhoneAPPIcon/ActivityIcon.png",
+    "FirstWorldText": "",
+    "FuncName": {
+      "Hash": -37685941
+    },
+    "GotoID": 1600,
+    "ParentSystem": 0,
+    "ID": 16,
+    "UnlockPrompt": "Entrance",
+    "UnlockID": 0,
+    "UnlockDesc": {
+      "Hash": 371857150
+    },
+    "UnlockMainMission": 0,
+    "NotInScheduleToast": {
+      "Hash": 371857150
+    },
+    "IsLargeBtn": false
+  },
+  {
+    "RedDot": "",
+    "RedDotHud": "",
+    "UnLockIconPath": "SpriteOutput/TabIcon/Common/CommonTabIcon.png",
+    "FuncIconPath": "SpriteOutput/TabIcon/Common/CommonTabIcon.png",
+    "FuncHudIconPath": "SpriteOutput/TabIcon/Common/CommonTabIcon.png",
+    "FirstWorldText": "",
+    "FuncName": {
+      "Hash": 1263402164
+    },
+    "GotoID": 2100,
+    "ParentSystem": 0,
+    "ID": 21,
+    "UnlockPrompt": "None",
+    "UnlockID": 2100,
+    "UnlockDesc": {
+      "Hash": -259244241
+    },
+    "UnlockMainMission": 0,
+    "NotInScheduleToast": {
+      "Hash": 371857150
+    },
+    "IsLargeBtn": false
+  },
+  {
+    "RedDot": "Gacha",
+    "RedDotHud": "Gacha",
+    "UnLockIconPath": "SpriteOutput/PhoneAPPIcon/DrawcardIcon.png",
+    "FuncIconPath": "SpriteOutput/PhoneAPPIcon/DrawcardIcon.png",
+    "FuncHudIconPath": "SpriteOutput/PhoneAPPIcon/DrawcardIcon.png",
+    "FirstWorldText": "",
+    "FuncName": {
+      "Hash": 891994066
+    },
+    "GotoID": 2300,
+    "ParentSystem": 0,
+    "ID": 23,
+    "UnlockPrompt": "Entrance",
+    "UnlockID": 2300,
+    "UnlockDesc": {
+      "Hash": -259244243
+    },
+    "UnlockMainMission": 1010503,
+    "NotInScheduleToast": {
+      "Hash": 371857150
+    },
+    "IsLargeBtn": false
+  },
+  {
+    "RedDot": "TutorialOverview",
+    "RedDotHud": "TutorialOverview",
+    "UnLockIconPath": "SpriteOutput/PhoneAPPIcon/TeachIcon.png",
+    "FuncIconPath": "SpriteOutput/PhoneAPPIcon/TeachIcon.png",
+    "FuncHudIconPath": "UI/Atlas/AtlasRoot/Common/Icon/TeachIconBtn.png",
+    "FirstWorldText": "",
+    "FuncName": {
+      "Hash": 963639618
+    },
+    "GotoID": 2500,
+    "ParentSystem": 0,
+    "ID": 25,
+    "UnlockPrompt": "Entrance",
+    "UnlockID": 2500,
+    "UnlockDesc": {
+      "Hash": -259244245
+    },
+    "UnlockMainMission": 0,
+    "NotInScheduleToast": {
+      "Hash": 371857150
+    },
+    "IsLargeBtn": false
+  },
+  {
+    "RedDot": "",
+    "RedDotHud": "",
+    "UnLockIconPath": "SpriteOutput/PhoneAPPIcon/MapIcon.png",
+    "FuncIconPath": "SpriteOutput/PhoneAPPIcon/MapIcon.png",
+    "FuncHudIconPath": "SpriteOutput/PhoneAPPIcon/MapIcon.png",
+    "FirstWorldText": "",
+    "FuncName": {
+      "Hash": 1405076994
+    },
+    "GotoID": 200,
+    "ParentSystem": 0,
+    "ID": 201,
+    "UnlockPrompt": "Entrance",
+    "UnlockID": 201,
+    "UnlockDesc": {
+      "Hash": -809568549
+    },
+    "UnlockMainMission": 1010301,
+    "NotInScheduleToast": {
+      "Hash": 371857150
+    },
+    "IsLargeBtn": false
+  },
+  {
+    "RedDot": "",
+    "RedDotHud": "",
+    "UnLockIconPath": "SpriteOutput/PhoneAPPIcon/TeamIcon.png",
+    "FuncIconPath": "SpriteOutput/PhoneAPPIcon/TeamIcon.png",
+    "FuncHudIconPath": "SpriteOutput/PhoneAPPIcon/TeamIcon.png",
+    "FirstWorldText": "",
+    "FuncName": {
+      "Hash": 1485179821
+    },
+    "GotoID": 301,
+    "ParentSystem": 0,
+    "ID": 301,
+    "UnlockPrompt": "Entrance",
+    "UnlockID": 0,
+    "UnlockDesc": {
+      "Hash": 371857150
+    },
+    "UnlockMainMission": 0,
+    "NotInScheduleToast": {
+      "Hash": 371857150
+    },
+    "IsLargeBtn": false
+  },
+  {
+    "RedDot": "",
+    "RedDotHud": "",
+    "UnLockIconPath": "SpriteOutput/PhoneAPPIcon/TeamIcon.png",
+    "FuncIconPath": "SpriteOutput/PhoneAPPIcon/TeamIcon.png",
+    "FuncHudIconPath": "SpriteOutput/PhoneAPPIcon/TeamIcon.png",
+    "FirstWorldText": "",
+    "FuncName": {
+      "Hash": 1741094670
+    },
+    "GotoID": 302,
+    "ParentSystem": 0,
+    "ID": 302,
+    "UnlockPrompt": "Entrance",
+    "UnlockID": 0,
+    "UnlockDesc": {
+      "Hash": 371857150
+    },
+    "UnlockMainMission": 0,
+    "NotInScheduleToast": {
+      "Hash": 371857150
+    },
+    "IsLargeBtn": false
+  },
+  {
+    "RedDot": "",
+    "RedDotHud": "",
+    "UnLockIconPath": "SpriteOutput/PhoneAPPIcon/TeamIcon.png",
+    "FuncIconPath": "SpriteOutput/PhoneAPPIcon/TeamIcon.png",
+    "FuncHudIconPath": "SpriteOutput/PhoneAPPIcon/TeamIcon.png",
+    "FirstWorldText": "",
+    "FuncName": {
+      "Hash": 1485179821
+    },
+    "GotoID": 303,
+    "ParentSystem": 0,
+    "ID": 303,
+    "UnlockPrompt": "Entrance",
+    "UnlockID": 0,
+    "UnlockDesc": {
+      "Hash": 371857150
+    },
+    "UnlockMainMission": 0,
+    "NotInScheduleToast": {
+      "Hash": 371857150
+    },
+    "IsLargeBtn": false
+  },
+  {
+    "RedDot": "",
+    "RedDotHud": "",
+    "UnLockIconPath": "SpriteOutput/PhoneAPPIcon/TeamIcon.png",
+    "FuncIconPath": "SpriteOutput/PhoneAPPIcon/TeamIcon.png",
+    "FuncHudIconPath": "SpriteOutput/PhoneAPPIcon/TeamIcon.png",
+    "FirstWorldText": "",
+    "FuncName": {
+      "Hash": 260578379
+    },
+    "GotoID": 304,
+    "ParentSystem": 0,
+    "ID": 304,
+    "UnlockPrompt": "Entrance",
+    "UnlockID": 3040,
+    "UnlockDesc": {
+      "Hash": 371857150
+    },
+    "UnlockMainMission": 0,
+    "NotInScheduleToast": {
+      "Hash": 371857150
+    },
+    "IsLargeBtn": false
+  },
+  {
+    "RedDot": "",
+    "RedDotHud": "",
+    "UnLockIconPath": "SpriteOutput/PhoneAPPIcon/TeamIcon.png",
+    "FuncIconPath": "SpriteOutput/PhoneAPPIcon/TeamIcon.png",
+    "FuncHudIconPath": "SpriteOutput/PhoneAPPIcon/TeamIcon.png",
+    "FirstWorldText": "",
+    "FuncName": {
+      "Hash": 529931080
+    },
+    "GotoID": 305,
+    "ParentSystem": 0,
+    "ID": 305,
+    "UnlockPrompt": "Entrance",
+    "UnlockID": 0,
+    "UnlockDesc": {
+      "Hash": 371857150
+    },
+    "UnlockMainMission": 0,
+    "NotInScheduleToast": {
+      "Hash": 371857150
+    },
+    "IsLargeBtn": false
+  },
+  {
+    "RedDot": "",
+    "RedDotHud": "",
+    "UnLockIconPath": "SpriteOutput/PhoneAPPIcon/TeamIcon.png",
+    "FuncIconPath": "SpriteOutput/PhoneAPPIcon/TeamIcon.png",
+    "FuncHudIconPath": "SpriteOutput/PhoneAPPIcon/TeamIcon.png",
+    "FirstWorldText": "",
+    "FuncName": {
+      "Hash": 329182433
+    },
+    "GotoID": 306,
+    "ParentSystem": 0,
+    "ID": 306,
+    "UnlockPrompt": "Entrance",
+    "UnlockID": 0,
+    "UnlockDesc": {
+      "Hash": 371857150
+    },
+    "UnlockMainMission": 0,
+    "NotInScheduleToast": {
+      "Hash": 371857150
+    },
+    "IsLargeBtn": false
+  },
+  {
+    "RedDot": "",
+    "RedDotHud": "",
+    "UnLockIconPath": "SpriteOutput/UI/Avatar/IconAvatarLightCone.png",
+    "FuncIconPath": "SpriteOutput/PhoneAPPIcon/AvatarIcon.png",
+    "FuncHudIconPath": "SpriteOutput/PhoneAPPIcon/AvatarIcon.png",
+    "FirstWorldText": "",
+    "FuncName": {
+      "Hash": 582917607
+    },
+    "GotoID": 406,
+    "ParentSystem": 4,
+    "ID": 401,
+    "UnlockPrompt": "Equipment",
+    "UnlockID": 401,
+    "UnlockDesc": {
+      "Hash": -1091893551
+    },
+    "UnlockMainMission": 0,
+    "NotInScheduleToast": {
+      "Hash": 371857150
+    },
+    "IsLargeBtn": false
+  },
+  {
+    "RedDot": "",
+    "RedDotHud": "",
+    "UnLockIconPath": "SpriteOutput/UI/Avatar/IconAvatarPaths.png",
+    "FuncIconPath": "SpriteOutput/PhoneAPPIcon/AvatarIcon.png",
+    "FuncHudIconPath": "SpriteOutput/PhoneAPPIcon/AvatarIcon.png",
+    "FirstWorldText": "",
+    "FuncName": {
+      "Hash": 1252031000
+    },
+    "GotoID": 405,
+    "ParentSystem": 4,
+    "ID": 402,
+    "UnlockPrompt": "Equipment",
+    "UnlockID": 402,
+    "UnlockDesc": {
+      "Hash": 1636989804
+    },
+    "UnlockMainMission": 0,
+    "NotInScheduleToast": {
+      "Hash": 371857150
+    },
+    "IsLargeBtn": false
+  },
+  {
+    "RedDot": "",
+    "RedDotHud": "",
+    "UnLockIconPath": "SpriteOutput/UI/Avatar/IconAvatarRelic.png",
+    "FuncIconPath": "SpriteOutput/PhoneAPPIcon/AvatarIcon.png",
+    "FuncHudIconPath": "SpriteOutput/PhoneAPPIcon/AvatarIcon.png",
+    "FirstWorldText": "",
+    "FuncName": {
+      "Hash": 1336567611
+    },
+    "GotoID": 407,
+    "ParentSystem": 4,
+    "ID": 403,
+    "UnlockPrompt": "Equipment",
+    "UnlockID": 403,
+    "UnlockDesc": {
+      "Hash": 70905863
+    },
+    "UnlockMainMission": 0,
+    "NotInScheduleToast": {
+      "Hash": 371857150
+    },
+    "IsLargeBtn": false
+  },
+  {
+    "RedDot": "",
+    "RedDotHud": "",
+    "UnLockIconPath": "SpriteOutput/UI/Avatar/IconAvatarRelic.png",
+    "FuncIconPath": "SpriteOutput/PhoneAPPIcon/AvatarIcon.png",
+    "FuncHudIconPath": "SpriteOutput/PhoneAPPIcon/AvatarIcon.png",
+    "FirstWorldText": "",
+    "FuncName": {
+      "Hash": 1336567617
+    },
+    "GotoID": 407,
+    "ParentSystem": 4,
+    "ID": 404,
+    "UnlockPrompt": "Equipment",
+    "UnlockID": 404,
+    "UnlockDesc": {
+      "Hash": -1851408438
+    },
+    "UnlockMainMission": 0,
+    "NotInScheduleToast": {
+      "Hash": 371857150
+    },
+    "IsLargeBtn": false
+  },
+  {
+    "RedDot": "",
+    "RedDotHud": "Activity",
+    "UnLockIconPath": "SpriteOutput/PhoneAPPIcon/DailyQuestIcon.png",
+    "FuncIconPath": "SpriteOutput/PhoneAPPIcon/DailyQuestIcon.png",
+    "FuncHudIconPath": "SpriteOutput/PhoneAPPIcon/DailyQuestIcon.png",
+    "FirstWorldText": "",
+    "FuncName": {
+      "Hash": -1318200081
+    },
+    "GotoID": 9901,
+    "ParentSystem": 0,
+    "ID": 9901,
+    "UnlockPrompt": "None",
+    "UnlockID": 9901,
+    "UnlockDesc": {
+      "Hash": -240802427
+    },
+    "UnlockMainMission": 1010503,
+    "NotInScheduleToast": {
+      "Hash": 371857150
+    },
+    "IsLargeBtn": false
+  },
+  {
+    "RedDot": "",
+    "RedDotHud": "Activity",
+    "UnLockIconPath": "SpriteOutput/PhoneAPPIcon/DailyQuestIcon.png",
+    "FuncIconPath": "SpriteOutput/PhoneAPPIcon/DailyQuestIcon.png",
+    "FuncHudIconPath": "SpriteOutput/PhoneAPPIcon/DailyQuestIcon.png",
+    "FirstWorldText": "",
+    "FuncName": {
+      "Hash": -1318200079
+    },
+    "GotoID": 9903,
+    "ParentSystem": 0,
+    "ID": 9903,
+    "UnlockPrompt": "None",
+    "UnlockID": 9903,
+    "UnlockDesc": {
+      "Hash": -240802429
+    },
+    "UnlockMainMission": 1010503,
+    "NotInScheduleToast": {
+      "Hash": 371857150
+    },
+    "IsLargeBtn": false
+  },
+  {
+    "RedDot": "",
+    "RedDotHud": "",
+    "UnLockIconPath": "SpriteOutput/PhoneAPPIcon/MazeSkillIcon.png",
+    "FuncIconPath": "",
+    "FuncHudIconPath": "",
+    "FirstWorldText": "",
+    "FuncName": {
+      "Hash": -1318200078
+    },
+    "GotoID": 9904,
+    "ParentSystem": 0,
+    "ID": 9904,
+    "UnlockPrompt": "Entrance",
+    "UnlockID": 9904,
+    "UnlockDesc": {
+      "Hash": -240802432
+    },
+    "UnlockMainMission": 1010503,
+    "NotInScheduleToast": {
+      "Hash": 371857150
+    },
+    "IsLargeBtn": false
+  },
+  {
+    "RedDot": "CustomerIM",
+    "RedDotHud": "",
+    "UnLockIconPath": "SpriteOutput/PhoneAPPIcon/FeedbackIcon.png",
+    "FuncIconPath": "SpriteOutput/PhoneAPPIcon/FeedbackIcon.png",
+    "FuncHudIconPath": "SpriteOutput/PhoneAPPIcon/FeedbackIcon.png",
+    "FirstWorldText": "",
+    "FuncName": {
+      "Hash": -4577460
+    },
+    "GotoID": 2600,
+    "ParentSystem": 0,
+    "ID": 26,
+    "UnlockPrompt": "Entrance",
+    "UnlockID": 0,
+    "UnlockDesc": {
+      "Hash": 371857150
+    },
+    "UnlockMainMission": 0,
+    "NotInScheduleToast": {
+      "Hash": 371857150
+    },
+    "IsLargeBtn": false
+  },
+  {
+    "RedDot": "",
+    "RedDotHud": "",
+    "UnLockIconPath": "SpriteOutput/PhoneAPPIcon/MapIcon.png",
+    "FuncIconPath": "SpriteOutput/PhoneAPPIcon/MapIcon.png",
+    "FuncHudIconPath": "SpriteOutput/PhoneAPPIcon/MapIcon.png",
+    "FirstWorldText": "",
+    "FuncName": {
+      "Hash": 1405076994
+    },
+    "GotoID": 2700,
+    "ParentSystem": 0,
+    "ID": 27,
+    "UnlockPrompt": "None",
+    "UnlockID": 0,
+    "UnlockDesc": {
+      "Hash": 371857150
+    },
+    "UnlockMainMission": 0,
+    "NotInScheduleToast": {
+      "Hash": 371857150
+    },
+    "IsLargeBtn": false
+  },
+  {
+    "RedDot": "AchievementEnter",
+    "RedDotHud": "Activity",
+    "UnLockIconPath": "SpriteOutput/PhoneAPPIcon/AchievementIcon.png",
+    "FuncIconPath": "SpriteOutput/PhoneAPPIcon/AchievementIcon.png",
+    "FuncHudIconPath": "SpriteOutput/PhoneAPPIcon/AchievementIcon.png",
+    "FirstWorldText": "",
+    "FuncName": {
+      "Hash": 911331385
+    },
+    "GotoID": 2900,
+    "ParentSystem": 0,
+    "ID": 28,
+    "UnlockPrompt": "None",
+    "UnlockID": 2800,
+    "UnlockDesc": {
+      "Hash": 371857150
+    },
+    "UnlockMainMission": 0,
+    "NotInScheduleToast": {
+      "Hash": 371857150
+    },
+    "IsLargeBtn": false
+  },
+  {
+    "RedDot": "PhoneMessageEntrance",
+    "RedDotHud": "PhoneMessageEntrance",
+    "UnLockIconPath": "SpriteOutput/PhoneAPPIcon/MessagesIcon.png",
+    "FuncIconPath": "SpriteOutput/PhoneAPPIcon/MessagesIcon.png",
+    "FuncHudIconPath": "SpriteOutput/PhoneAPPIcon/MessagesIcon.png",
+    "FirstWorldText": "",
+    "FuncName": {
+      "Hash": -1219150119
+    },
+    "GotoID": 3000,
+    "ParentSystem": 0,
+    "ID": 29,
+    "UnlockPrompt": "None",
+    "UnlockID": 2900,
+    "UnlockDesc": {
+      "Hash": -259244249
+    },
+    "UnlockMainMission": 0,
+    "NotInScheduleToast": {
+      "Hash": 371857150
+    },
+    "IsLargeBtn": false
+  },
+  {
+    "RedDot": "",
+    "RedDotHud": "",
+    "UnLockIconPath": "SpriteOutput/TutorialPic/TutorialPage_510101.png",
+    "FuncIconPath": "SpriteOutput/TabIcon/DailyQuest/DailyQuestExploreIcon.png",
+    "FuncHudIconPath": "SpriteOutput/TabIcon/DailyQuest/DailyQuestExploreIcon.png",
+    "FirstWorldText": "",
+    "FuncName": {
+      "Hash": -335552697
+    },
+    "GotoID": 9913,
+    "ParentSystem": 0,
+    "ID": 9913,
+    "UnlockPrompt": "Cocoon",
+    "UnlockID": 9913,
+    "UnlockDesc": {
+      "Hash": 1325281512
+    },
+    "UnlockMainMission": 0,
+    "NotInScheduleToast": {
+      "Hash": 371857150
+    },
+    "IsLargeBtn": false
+  },
+  {
+    "RedDot": "",
+    "RedDotHud": "",
+    "UnLockIconPath": "SpriteOutput/TutorialPic/TutorialPage_510201.png",
+    "FuncIconPath": "SpriteOutput/TabIcon/DailyQuest/DailyQuestExploreIcon.png",
+    "FuncHudIconPath": "SpriteOutput/TabIcon/DailyQuest/DailyQuestExploreIcon.png",
+    "FirstWorldText": "",
+    "FuncName": {
+      "Hash": 1230531244
+    },
+    "GotoID": 9914,
+    "ParentSystem": 0,
+    "ID": 9914,
+    "UnlockPrompt": "Cocoon",
+    "UnlockID": 9914,
+    "UnlockDesc": {
+      "Hash": 1325281509
+    },
+    "UnlockMainMission": 0,
+    "NotInScheduleToast": {
+      "Hash": 371857150
+    },
+    "IsLargeBtn": false
+  },
+  {
+    "RedDot": "",
+    "RedDotHud": "",
+    "UnLockIconPath": "SpriteOutput/TutorialPic/TutorialPage_510301.png",
+    "FuncIconPath": "SpriteOutput/TabIcon/DailyQuest/DailyQuestExploreIcon.png",
+    "FuncHudIconPath": "SpriteOutput/TabIcon/DailyQuest/DailyQuestExploreIcon.png",
+    "FirstWorldText": "",
+    "FuncName": {
+      "Hash": -1024586405
+    },
+    "GotoID": 9915,
+    "ParentSystem": 0,
+    "ID": 9915,
+    "UnlockPrompt": "Cocoon",
+    "UnlockID": 9915,
+    "UnlockDesc": {
+      "Hash": 1325281510
+    },
+    "UnlockMainMission": 0,
+    "NotInScheduleToast": {
+      "Hash": 371857150
+    },
+    "IsLargeBtn": false
+  },
+  {
+    "RedDot": "",
+    "RedDotHud": "",
+    "UnLockIconPath": "SpriteOutput/TutorialPic/TutorialPage_510401.png",
+    "FuncIconPath": "SpriteOutput/TabIcon/DailyQuest/DailyQuestExploreIcon.png",
+    "FuncHudIconPath": "SpriteOutput/TabIcon/DailyQuest/DailyQuestExploreIcon.png",
+    "FirstWorldText": "",
+    "FuncName": {
+      "Hash": -1387144342
+    },
+    "GotoID": 9916,
+    "ParentSystem": 0,
+    "ID": 9916,
+    "UnlockPrompt": "Cocoon",
+    "UnlockID": 9916,
+    "UnlockDesc": {
+      "Hash": 1325281507
+    },
+    "UnlockMainMission": 0,
+    "NotInScheduleToast": {
+      "Hash": 371857150
+    },
+    "IsLargeBtn": false
+  },
+  {
+    "RedDot": "",
+    "RedDotHud": "",
+    "UnLockIconPath": "SpriteOutput/TutorialPic/TutorialPage_510501.png",
+    "FuncIconPath": "SpriteOutput/TabIcon/DailyQuest/DailyQuestExploreIcon.png",
+    "FuncHudIconPath": "SpriteOutput/TabIcon/DailyQuest/DailyQuestExploreIcon.png",
+    "FirstWorldText": "",
+    "FuncName": {
+      "Hash": -1498352111
+    },
+    "GotoID": 9917,
+    "ParentSystem": 0,
+    "ID": 9917,
+    "UnlockPrompt": "Cocoon",
+    "UnlockID": 9917,
+    "UnlockDesc": {
+      "Hash": 1325281508
+    },
+    "UnlockMainMission": 0,
+    "NotInScheduleToast": {
+      "Hash": 371857150
+    },
+    "IsLargeBtn": false
+  },
+  {
+    "RedDot": "",
+    "RedDotHud": "",
+    "UnLockIconPath": "",
+    "FuncIconPath": "",
+    "FuncHudIconPath": "",
+    "FirstWorldText": "",
+    "FuncName": {
+      "Hash": 371857150
+    },
+    "GotoID": 0,
+    "ParentSystem": 0,
+    "ID": 9918,
+    "UnlockPrompt": "Handbook",
+    "UnlockID": 9918,
+    "UnlockDesc": {
+      "Hash": 1357177962
+    },
+    "UnlockMainMission": 0,
+    "NotInScheduleToast": {
+      "Hash": 371857150
+    },
+    "IsLargeBtn": false
+  },
+  {
+    "RedDot": "",
+    "RedDotHud": "",
+    "UnLockIconPath": "",
+    "FuncIconPath": "",
+    "FuncHudIconPath": "",
+    "FirstWorldText": "",
+    "FuncName": {
+      "Hash": 371857150
+    },
+    "GotoID": 0,
+    "ParentSystem": 0,
+    "ID": 9919,
+    "UnlockPrompt": "Handbook",
+    "UnlockID": 9919,
+    "UnlockDesc": {
+      "Hash": -474835751
+    },
+    "UnlockMainMission": 0,
+    "NotInScheduleToast": {
+      "Hash": 371857150
+    },
+    "IsLargeBtn": false
+  },
+  {
+    "RedDot": "",
+    "RedDotHud": "",
+    "UnLockIconPath": "",
+    "FuncIconPath": "",
+    "FuncHudIconPath": "",
+    "FirstWorldText": "",
+    "FuncName": {
+      "Hash": 371857150
+    },
+    "GotoID": 0,
+    "ParentSystem": 0,
+    "ID": 9920,
+    "UnlockPrompt": "Handbook",
+    "UnlockID": 9941,
+    "UnlockDesc": {
+      "Hash": -1185560067
+    },
+    "UnlockMainMission": 0,
+    "NotInScheduleToast": {
+      "Hash": 371857150
+    },
+    "IsLargeBtn": false
+  },
+  {
+    "RedDot": "ExpeditionGroup_All",
+    "RedDotHud": "",
+    "UnLockIconPath": "SpriteOutput/PhoneAPPIcon/AssignmentIcon.png",
+    "FuncIconPath": "SpriteOutput/PhoneAPPIcon/AssignmentIcon.png",
+    "FuncHudIconPath": "SpriteOutput/PhoneAPPIcon/AssignmentIcon.png",
+    "FirstWorldText": "",
+    "FuncName": {
+      "Hash": -507333037
+    },
+    "GotoID": 3100,
+    "ParentSystem": 0,
+    "ID": 30,
+    "UnlockPrompt": "None",
+    "UnlockID": 3100,
+    "UnlockDesc": {
+      "Hash": -1825328181
+    },
+    "UnlockMainMission": 0,
+    "NotInScheduleToast": {
+      "Hash": 371857150
+    },
+    "IsLargeBtn": false
+  },
+  {
+    "RedDot": "",
+    "RedDotHud": "",
+    "UnLockIconPath": "SpriteOutput/UI/MobilePhone/PhotographIcon.png",
+    "FuncIconPath": "SpriteOutput/UI/MobilePhone/PhotographIcon.png",
+    "FuncHudIconPath": "SpriteOutput/UI/MobilePhone/PhotographIcon.png",
+    "FirstWorldText": "",
+    "FuncName": {
+      "Hash": 2113892508
+    },
+    "GotoID": 3200,
+    "ParentSystem": 0,
+    "ID": 32,
+    "UnlockPrompt": "Entrance",
+    "UnlockID": 3200,
+    "UnlockDesc": {
+      "Hash": 371857150
+    },
+    "UnlockMainMission": 0,
+    "NotInScheduleToast": {
+      "Hash": 371857150
+    },
+    "IsLargeBtn": false
+  },
+  {
+    "RedDot": "Friend",
+    "RedDotHud": "",
+    "UnLockIconPath": "SpriteOutput/TabIcon/Friend/FriendIcon.png",
+    "FuncIconPath": "SpriteOutput/TabIcon/Friend/FriendIcon.png",
+    "FuncHudIconPath": "SpriteOutput/TabIcon/Friend/FriendIcon.png",
+    "FirstWorldText": "",
+    "FuncName": {
+      "Hash": 1382123664
+    },
+    "GotoID": 3300,
+    "ParentSystem": 0,
+    "ID": 31,
+    "UnlockPrompt": "None",
+    "UnlockID": 3300,
+    "UnlockDesc": {
+      "Hash": -1825328182
+    },
+    "UnlockMainMission": 0,
+    "NotInScheduleToast": {
+      "Hash": 371857150
+    },
+    "IsLargeBtn": false
+  },
+  {
+    "RedDot": "BattlePass",
+    "RedDotHud": "BattlePass",
+    "UnLockIconPath": "SpriteOutput/TabIcon/BattlePass/BPiPhone.png",
+    "FuncIconPath": "SpriteOutput/TabIcon/BattlePass/BPiPhone.png",
+    "FuncHudIconPath": "SpriteOutput/TabIcon/BattlePass/BPiPhone.png",
+    "FirstWorldText": "",
+    "FuncName": {
+      "Hash": 1124787289
+    },
+    "GotoID": 3400,
+    "ParentSystem": 0,
+    "ID": 33,
+    "UnlockPrompt": "None",
+    "UnlockID": 10001,
+    "UnlockDesc": {
+      "Hash": -1825328184
+    },
+    "UnlockMainMission": 0,
+    "NotInScheduleToast": {
+      "Hash": 371857150
+    },
+    "IsLargeBtn": false
+  },
+  {
+    "RedDot": "",
+    "RedDotHud": "",
+    "UnLockIconPath": "SpriteOutput/TabIcon/Common/CommonTabIcon.png",
+    "FuncIconPath": "SpriteOutput/TabIcon/Common/CommonTabIcon.png",
+    "FuncHudIconPath": "SpriteOutput/TabIcon/Common/CommonTabIcon.png",
+    "FirstWorldText": "",
+    "FuncName": {
+      "Hash": 1143304365
+    },
+    "GotoID": 3500,
+    "ParentSystem": 0,
+    "ID": 34,
+    "UnlockPrompt": "None",
+    "UnlockID": 3400,
+    "UnlockDesc": {
+      "Hash": 371857150
+    },
+    "UnlockMainMission": 0,
+    "NotInScheduleToast": {
+      "Hash": 371857150
+    },
+    "IsLargeBtn": false
+  },
+  {
+    "RedDot": "",
+    "RedDotHud": "",
+    "UnLockIconPath": "",
+    "FuncIconPath": "",
+    "FuncHudIconPath": "",
+    "FirstWorldText": "",
+    "FuncName": {
+      "Hash": 291863303
+    },
+    "GotoID": 0,
+    "ParentSystem": 0,
+    "ID": 35,
+    "UnlockPrompt": "None",
+    "UnlockID": 0,
+    "UnlockDesc": {
+      "Hash": 371857150
+    },
+    "UnlockMainMission": 0,
+    "NotInScheduleToast": {
+      "Hash": 371857150
+    },
+    "IsLargeBtn": false
+  },
+  {
+    "RedDot": "",
+    "RedDotHud": "",
+    "UnLockIconPath": "SpriteOutput/Rogue/Tab/CapsuleShopIcon.png",
+    "FuncIconPath": "SpriteOutput/Rogue/Tab/CapsuleShopIcon.png",
+    "FuncHudIconPath": "SpriteOutput/Rogue/Tab/CapsuleShopIcon.png",
+    "FirstWorldText": "",
+    "FuncName": {
+      "Hash": 1593545815
+    },
+    "GotoID": 3700,
+    "ParentSystem": 0,
+    "ID": 37,
+    "UnlockPrompt": "None",
+    "UnlockID": 0,
+    "UnlockDesc": {
+      "Hash": 371857150
+    },
+    "UnlockMainMission": 0,
+    "NotInScheduleToast": {
+      "Hash": 371857150
+    },
+    "IsLargeBtn": false
+  },
+  {
+    "RedDot": "ItemComposeRedDot",
+    "RedDotHud": "",
+    "UnLockIconPath": "SpriteOutput/PhoneAPPIcon/SynthesisIcon.png",
+    "FuncIconPath": "SpriteOutput/PhoneAPPIcon/SynthesisIcon.png",
+    "FuncHudIconPath": "SpriteOutput/PhoneAPPIcon/SynthesisIcon.png",
+    "FirstWorldText": "",
+    "FuncName": {
+      "Hash": -72022017
+    },
+    "GotoID": 4100,
+    "ParentSystem": 0,
+    "ID": 41,
+    "UnlockPrompt": "None",
+    "UnlockID": 4100,
+    "UnlockDesc": {
+      "Hash": 1910134757
+    },
+    "UnlockMainMission": 0,
+    "NotInScheduleToast": {
+      "Hash": 371857150
+    },
+    "IsLargeBtn": false
+  },
+  {
+    "RedDot": "",
+    "RedDotHud": "",
+    "UnLockIconPath": "SpriteOutput/TabIcon/Inventory/InventoryFosterIcon.png",
+    "FuncIconPath": "",
+    "FuncHudIconPath": "",
+    "FirstWorldText": "",
+    "FuncName": {
+      "Hash": -1754298695
+    },
+    "GotoID": 0,
+    "ParentSystem": 0,
+    "ID": 10004,
+    "UnlockPrompt": "None",
+    "UnlockID": 10004,
+    "UnlockDesc": {
+      "Hash": 727272081
+    },
+    "UnlockMainMission": 0,
+    "NotInScheduleToast": {
+      "Hash": 371857150
+    },
+    "IsLargeBtn": false
+  },
+  {
+    "RedDot": "",
+    "RedDotHud": "",
+    "UnLockIconPath": "SpriteOutput/UI/Avatar/IconAvatarRelic.png",
+    "FuncIconPath": "",
+    "FuncHudIconPath": "",
+    "FirstWorldText": "",
+    "FuncName": {
+      "Hash": 980521143
+    },
+    "GotoID": 0,
+    "ParentSystem": 0,
+    "ID": 10005,
+    "UnlockPrompt": "None",
+    "UnlockID": 10005,
+    "UnlockDesc": {
+      "Hash": -2001611274
+    },
+    "UnlockMainMission": 0,
+    "NotInScheduleToast": {
+      "Hash": 371857150
+    },
+    "IsLargeBtn": false
+  },
+  {
+    "RedDot": "",
+    "RedDotHud": "",
+    "UnLockIconPath": "SpriteOutput/TabIcon/Common/CommonTabIcon.png",
+    "FuncIconPath": "",
+    "FuncHudIconPath": "",
+    "FirstWorldText": "",
+    "FuncName": {
+      "Hash": 1819584087
+    },
+    "GotoID": 0,
+    "ParentSystem": 0,
+    "ID": 50001,
+    "UnlockPrompt": "None",
+    "UnlockID": 50001,
+    "UnlockDesc": {
+      "Hash": -1485823754
+    },
+    "UnlockMainMission": 0,
+    "NotInScheduleToast": {
+      "Hash": 371857150
+    },
+    "IsLargeBtn": false
+  },
+  {
+    "RedDot": "",
+    "RedDotHud": "",
+    "UnLockIconPath": "SpriteOutput/TabIcon/Common/CommonTabIcon.png",
+    "FuncIconPath": "",
+    "FuncHudIconPath": "",
+    "FirstWorldText": "",
+    "FuncName": {
+      "Hash": 995906128
+    },
+    "GotoID": 0,
+    "ParentSystem": 0,
+    "ID": 50005,
+    "UnlockPrompt": "None",
+    "UnlockID": 50005,
+    "UnlockDesc": {
+      "Hash": 483544714
+    },
+    "UnlockMainMission": 0,
+    "NotInScheduleToast": {
+      "Hash": 371857150
+    },
+    "IsLargeBtn": false
+  },
+  {
+    "RedDot": "",
+    "RedDotHud": "",
+    "UnLockIconPath": "SpriteOutput/TabIcon/Common/CommonTabIcon.png",
+    "FuncIconPath": "",
+    "FuncHudIconPath": "",
+    "FirstWorldText": "",
+    "FuncName": {
+      "Hash": -700994938
+    },
+    "GotoID": 0,
+    "ParentSystem": 0,
+    "ID": 50006,
+    "UnlockPrompt": "None",
+    "UnlockID": 50006,
+    "UnlockDesc": {
+      "Hash": 80260187
+    },
+    "UnlockMainMission": 0,
+    "NotInScheduleToast": {
+      "Hash": 371857150
+    },
+    "IsLargeBtn": false
+  },
+  {
+    "RedDot": "Inventory_All",
+    "RedDotHud": "Inventory_All",
+    "UnLockIconPath": "SpriteOutput/PhoneAPPIcon/InventoryIcon.png",
+    "FuncIconPath": "SpriteOutput/PhoneAPPIcon/InventoryIcon.png",
+    "FuncHudIconPath": "SpriteOutput/PhoneAPPIcon/InventoryIcon.png",
+    "FirstWorldText": "",
+    "FuncName": {
+      "Hash": 888911468
+    },
+    "GotoID": 508,
+    "ParentSystem": 0,
+    "ID": 50007,
+    "UnlockPrompt": "None",
+    "UnlockID": 508,
+    "UnlockDesc": {
+      "Hash": 371857150
+    },
+    "UnlockMainMission": 0,
+    "NotInScheduleToast": {
+      "Hash": 371857150
+    },
+    "IsLargeBtn": false
+  },
+  {
+    "RedDot": "OfficialCommunity",
+    "RedDotHud": "",
+    "UnLockIconPath": "SpriteOutput/PhoneAPPIcon/CommunityIcon.png",
+    "FuncIconPath": "SpriteOutput/PhoneAPPIcon/CommunityIcon.png",
+    "FuncHudIconPath": "SpriteOutput/PhoneAPPIcon/CommunityIcon.png",
+    "FirstWorldText": "",
+    "FuncName": {
+      "Hash": 1847466976
+    },
+    "GotoID": 1201,
+    "ParentSystem": 0,
+    "ID": 1201,
+    "UnlockPrompt": "None",
+    "UnlockID": 0,
+    "UnlockDesc": {
+      "Hash": 371857150
+    },
+    "UnlockMainMission": 0,
+    "NotInScheduleToast": {
+      "Hash": 371857150
+    },
+    "IsLargeBtn": false
+  },
+  {
+    "RedDot": "CommunityActivity",
+    "RedDotHud": "",
+    "UnLockIconPath": "SpriteOutput/PhoneAPPIcon/H5ActivityIcon.png",
+    "FuncIconPath": "SpriteOutput/PhoneAPPIcon/H5ActivityIcon.png",
+    "FuncHudIconPath": "SpriteOutput/PhoneAPPIcon/H5ActivityIcon.png",
+    "FirstWorldText": "",
+    "FuncName": {
+      "Hash": 1847466975
+    },
+    "GotoID": 1202,
+    "ParentSystem": 0,
+    "ID": 1202,
+    "UnlockPrompt": "None",
+    "UnlockID": 1202,
+    "UnlockDesc": {
+      "Hash": 371857150
+    },
+    "UnlockMainMission": 0,
+    "NotInScheduleToast": {
+      "Hash": -869161907
+    },
+    "IsLargeBtn": false
+  },
+  {
+    "RedDot": "HotPoint",
+    "RedDotHud": "",
+    "UnLockIconPath": "SpriteOutput/PhoneAPPIcon/VersionHighlightsIcon.png",
+    "FuncIconPath": "SpriteOutput/PhoneAPPIcon/VersionHighlightsIcon.png",
+    "FuncHudIconPath": "SpriteOutput/PhoneAPPIcon/VersionHighlightsIcon.png",
+    "FirstWorldText": "",
+    "FuncName": {
+      "Hash": 1847466974
+    },
+    "GotoID": 1203,
+    "ParentSystem": 0,
+    "ID": 1203,
+    "UnlockPrompt": "None",
+    "UnlockID": 1203,
+    "UnlockDesc": {
+      "Hash": 371857150
+    },
+    "UnlockMainMission": 0,
+    "NotInScheduleToast": {
+      "Hash": 371857150
+    },
+    "IsLargeBtn": false
+  },
+  {
+    "RedDot": "CloudGame",
+    "RedDotHud": "",
+    "UnLockIconPath": "SpriteOutput/PhoneAPPIcon/CloudRabbitIcon.png",
+    "FuncIconPath": "SpriteOutput/PhoneAPPIcon/CloudRabbitIcon.png",
+    "FuncHudIconPath": "SpriteOutput/PhoneAPPIcon/CloudRabbitIcon.png",
+    "FirstWorldText": "",
+    "FuncName": {
+      "Hash": 1847466981
+    },
+    "GotoID": 1204,
+    "ParentSystem": 0,
+    "ID": 1204,
+    "UnlockPrompt": "None",
+    "UnlockID": 1204,
+    "UnlockDesc": {
+      "Hash": 371857150
+    },
+    "UnlockMainMission": 0,
+    "NotInScheduleToast": {
+      "Hash": 371857150
+    },
+    "IsLargeBtn": false
+  },
+  {
+    "RedDot": "WebTool",
+    "RedDotHud": "",
+    "UnLockIconPath": "SpriteOutput/PhoneAPPIcon/ToolEntryIcon.png",
+    "FuncIconPath": "SpriteOutput/PhoneAPPIcon/ToolEntryIcon.png",
+    "FuncHudIconPath": "SpriteOutput/PhoneAPPIcon/ToolEntryIcon.png",
+    "FirstWorldText": "",
+    "FuncName": {
+      "Hash": 1847466980
+    },
+    "GotoID": 1205,
+    "ParentSystem": 0,
+    "ID": 1205,
+    "UnlockPrompt": "None",
+    "UnlockID": 1205,
+    "UnlockDesc": {
+      "Hash": 371857150
+    },
+    "UnlockMainMission": 0,
+    "NotInScheduleToast": {
+      "Hash": 371857150
+    },
+    "IsLargeBtn": false
+  },
+  {
+    "RedDot": "ArchiveEntry",
+    "RedDotHud": "ArchiveEntry",
+    "UnLockIconPath": "SpriteOutput/PhoneAPPIcon/DataBankIcon.png",
+    "FuncIconPath": "SpriteOutput/PhoneAPPIcon/DataBankIcon.png",
+    "FuncHudIconPath": "SpriteOutput/PhoneAPPIcon/DataBankIcon.png",
+    "FirstWorldText": "",
+    "FuncName": {
+      "Hash": 560357873
+    },
+    "GotoID": 4300,
+    "ParentSystem": 0,
+    "ID": 43,
+    "UnlockPrompt": "None",
+    "UnlockID": 4300,
+    "UnlockDesc": {
+      "Hash": 371857150
+    },
+    "UnlockMainMission": 0,
+    "NotInScheduleToast": {
+      "Hash": 371857150
+    },
+    "IsLargeBtn": false
+  },
+  {
+    "RedDot": "",
+    "RedDotHud": "",
+    "UnLockIconPath": "",
+    "FuncIconPath": "",
+    "FuncHudIconPath": "",
+    "FirstWorldText": "",
+    "FuncName": {
+      "Hash": 107920052
+    },
+    "GotoID": 0,
+    "ParentSystem": 0,
+    "ID": 44,
+    "UnlockPrompt": "None",
+    "UnlockID": 0,
+    "UnlockDesc": {
+      "Hash": 371857150
+    },
+    "UnlockMainMission": 0,
+    "NotInScheduleToast": {
+      "Hash": 371857150
+    },
+    "IsLargeBtn": false
+  },
+  {
+    "RedDot": "",
+    "RedDotHud": "",
+    "UnLockIconPath": "SpriteOutput/UI/MobilePhone/FeedbacksIcon.png",
+    "FuncIconPath": "SpriteOutput/UI/MobilePhone/FeedbacksIcon.png",
+    "FuncHudIconPath": "SpriteOutput/UI/MobilePhone/FeedbacksIcon.png",
+    "FirstWorldText": "",
+    "FuncName": {
+      "Hash": 1523911446
+    },
+    "GotoID": 1200,
+    "ParentSystem": 0,
+    "ID": 10012,
+    "UnlockPrompt": "Entrance",
+    "UnlockID": 0,
+    "UnlockDesc": {
+      "Hash": 371857150
+    },
+    "UnlockMainMission": 0,
+    "NotInScheduleToast": {
+      "Hash": 371857150
+    },
+    "IsLargeBtn": false
+  },
+  {
+    "RedDot": "CustomerIM",
+    "RedDotHud": "",
+    "UnLockIconPath": "SpriteOutput/UI/MobilePhone/FeedbacksIcon.png",
+    "FuncIconPath": "SpriteOutput/UI/MobilePhone/FeedbacksIcon.png",
+    "FuncHudIconPath": "SpriteOutput/UI/MobilePhone/FeedbacksIcon.png",
+    "FirstWorldText": "",
+    "FuncName": {
+      "Hash": -4577460
+    },
+    "GotoID": 2600,
+    "ParentSystem": 0,
+    "ID": 10026,
+    "UnlockPrompt": "Entrance",
+    "UnlockID": 0,
+    "UnlockDesc": {
+      "Hash": 371857150
+    },
+    "UnlockMainMission": 0,
+    "NotInScheduleToast": {
+      "Hash": 371857150
+    },
+    "IsLargeBtn": false
+  },
+  {
+    "RedDot": "",
+    "RedDotHud": "",
+    "UnLockIconPath": "SpriteOutput/TabIcon/Activity/AetherDivideIconAtlas.png",
+    "FuncIconPath": "SpriteOutput/TabIcon/Activity/AetherDivideIconAtlas.png",
+    "FuncHudIconPath": "SpriteOutput/TabIcon/Activity/AetherDivideIconAtlas.png",
+    "FirstWorldText": "",
+    "FuncName": {
+      "Hash": 426011988
+    },
+    "GotoID": 4500,
+    "ParentSystem": 0,
+    "ID": 20001,
+    "UnlockPrompt": "None",
+    "UnlockID": 0,
+    "UnlockDesc": {
+      "Hash": 371857150
+    },
+    "UnlockMainMission": 1010503,
+    "NotInScheduleToast": {
+      "Hash": 371857150
+    },
+    "IsLargeBtn": false
+  },
+  {
+    "RedDot": "",
+    "RedDotHud": "",
+    "UnLockIconPath": "SpriteOutput/PhoneAPPIcon/TeamIcon.png",
+    "FuncIconPath": "SpriteOutput/PhoneAPPIcon/TeamIcon.png",
+    "FuncHudIconPath": "SpriteOutput/PhoneAPPIcon/TeamIcon.png",
+    "FirstWorldText": "",
+    "FuncName": {
+      "Hash": -1315302064
+    },
+    "GotoID": 4700,
+    "ParentSystem": 0,
+    "ID": 20003,
+    "UnlockPrompt": "None",
+    "UnlockID": 0,
+    "UnlockDesc": {
+      "Hash": 371857150
+    },
+    "UnlockMainMission": 1010401,
+    "NotInScheduleToast": {
+      "Hash": 371857150
+    },
+    "IsLargeBtn": false
+  },
+  {
+    "RedDot": "AetherSpiritAll",
+    "RedDotHud": "AetherSpiritAll",
+    "UnLockIconPath": "SpriteOutput/TabIcon/Activity/AetherDivideIconMonster.png",
+    "FuncIconPath": "SpriteOutput/TabIcon/Activity/AetherDivideIconMonster.png",
+    "FuncHudIconPath": "SpriteOutput/TabIcon/Activity/AetherDivideIconMonster.png",
+    "FirstWorldText": "",
+    "FuncName": {
+      "Hash": 644574048
+    },
+    "GotoID": 4800,
+    "ParentSystem": 0,
+    "ID": 20004,
+    "UnlockPrompt": "None",
+    "UnlockID": 0,
+    "UnlockDesc": {
+      "Hash": 371857150
+    },
+    "UnlockMainMission": 0,
+    "NotInScheduleToast": {
+      "Hash": 371857150
+    },
+    "IsLargeBtn": false
+  },
+  {
+    "RedDot": "",
+    "RedDotHud": "",
+    "UnLockIconPath": "SpriteOutput/PhoneAPPIcon/AvatarIcon.png",
+    "FuncIconPath": "SpriteOutput/PhoneAPPIcon/AvatarIcon.png",
+    "FuncHudIconPath": "SpriteOutput/PhoneAPPIcon/AvatarIcon.png",
+    "FirstWorldText": "",
+    "FuncName": {
+      "Hash": -676993900
+    },
+    "GotoID": 401,
+    "ParentSystem": 0,
+    "ID": 45,
+    "UnlockPrompt": "None",
+    "UnlockID": 400,
+    "UnlockDesc": {
+      "Hash": 469590134
+    },
+    "UnlockMainMission": 0,
+    "NotInScheduleToast": {
+      "Hash": 371857150
+    },
+    "IsLargeBtn": false
+  },
+  {
+    "RedDot": "",
+    "RedDotHud": "",
+    "UnLockIconPath": "",
+    "FuncIconPath": "",
+    "FuncHudIconPath": "",
+    "FirstWorldText": "",
+    "FuncName": {
+      "Hash": -1287638688
+    },
+    "GotoID": 0,
+    "ParentSystem": 0,
+    "ID": 46,
+    "UnlockPrompt": "None",
+    "UnlockID": 4600,
+    "UnlockDesc": {
+      "Hash": 371857150
+    },
+    "UnlockMainMission": 0,
+    "NotInScheduleToast": {
+      "Hash": 371857150
+    },
+    "IsLargeBtn": false
+  },
+  {
+    "RedDot": "",
+    "RedDotHud": "",
+    "UnLockIconPath": "",
+    "FuncIconPath": "",
+    "FuncHudIconPath": "",
+    "FirstWorldText": "",
+    "FuncName": {
+      "Hash": -1413900245
+    },
+    "GotoID": 0,
+    "ParentSystem": 0,
+    "ID": 47,
+    "UnlockPrompt": "None",
+    "UnlockID": 4700,
+    "UnlockDesc": {
+      "Hash": 371857150
+    },
+    "UnlockMainMission": 0,
+    "NotInScheduleToast": {
+      "Hash": 371857150
+    },
+    "IsLargeBtn": false
+  },
+  {
+    "RedDot": "",
+    "RedDotHud": "",
+    "UnLockIconPath": "SpriteOutput/PhoneAPPIcon/SettingsAccountIcon.png",
+    "FuncIconPath": "SpriteOutput/PhoneAPPIcon/SettingsAccountIcon.png",
+    "FuncHudIconPath": "SpriteOutput/PhoneAPPIcon/SettingsAccountIcon.png",
+    "FirstWorldText": "",
+    "FuncName": {
+      "Hash": 1847466943
+    },
+    "GotoID": 1101,
+    "ParentSystem": 0,
+    "ID": 1101,
+    "UnlockPrompt": "None",
+    "UnlockID": 0,
+    "UnlockDesc": {
+      "Hash": 371857150
+    },
+    "UnlockMainMission": 0,
+    "NotInScheduleToast": {
+      "Hash": 371857150
+    },
+    "IsLargeBtn": false
+  },
+  {
+    "RedDot": "",
+    "RedDotHud": "",
+    "UnLockIconPath": "SpriteOutput/Rogue/Tab/DiceSkillPageIcon.png",
+    "FuncIconPath": "SpriteOutput/Rogue/Tab/DiceSkillPageIcon.png",
+    "FuncHudIconPath": "SpriteOutput/Rogue/Tab/DiceSkillPageIcon.png",
+    "FirstWorldText": "",
+    "FuncName": {
+      "Hash": -516302526
+    },
+    "GotoID": 5000,
+    "ParentSystem": 0,
+    "ID": 51001,
+    "UnlockPrompt": "None",
+    "UnlockID": 50013,
+    "UnlockDesc": {
+      "Hash": 371857150
+    },
+    "UnlockMainMission": 0,
+    "NotInScheduleToast": {
+      "Hash": 371857150
+    },
+    "IsLargeBtn": false
+  },
+  {
+    "RedDot": "",
+    "RedDotHud": "",
+    "UnLockIconPath": "SpriteOutput/Rogue/Tab/MissionTreeOverIcon.png",
+    "FuncIconPath": "SpriteOutput/Rogue/Tab/MissionTreeOverIcon.png",
+    "FuncHudIconPath": "SpriteOutput/Rogue/Tab/MissionTreeOverIcon.png",
+    "FirstWorldText": "",
+    "FuncName": {
+      "Hash": -1153569146
+    },
+    "GotoID": 5100,
+    "ParentSystem": 0,
+    "ID": 51002,
+    "UnlockPrompt": "None",
+    "UnlockID": 50014,
+    "UnlockDesc": {
+      "Hash": 371857150
+    },
+    "UnlockMainMission": 0,
+    "NotInScheduleToast": {
+      "Hash": 371857150
+    },
+    "IsLargeBtn": false
+  },
+  {
+    "RedDot": "",
+    "RedDotHud": "",
+    "UnLockIconPath": "SpriteOutput/Rogue/Tab/GenreBuffIcon.png",
+    "FuncIconPath": "SpriteOutput/Rogue/Tab/GenreBuffIcon.png",
+    "FuncHudIconPath": "SpriteOutput/Rogue/Tab/GenreBuffIcon.png",
+    "FirstWorldText": "",
+    "FuncName": {
+      "Hash": 1037536874
+    },
+    "GotoID": 5200,
+    "ParentSystem": 0,
+    "ID": 51003,
+    "UnlockPrompt": "None",
+    "UnlockID": 0,
+    "UnlockDesc": {
+      "Hash": 371857150
+    },
+    "UnlockMainMission": 0,
+    "NotInScheduleToast": {
+      "Hash": 371857150
+    },
+    "IsLargeBtn": false
+  },
+  {
+    "RedDot": "",
+    "RedDotHud": "",
+    "UnLockIconPath": "SpriteOutput/PhoneAPPIcon/MapIcon.png",
+    "FuncIconPath": "SpriteOutput/PhoneAPPIcon/MapIcon.png",
+    "FuncHudIconPath": "SpriteOutput/PhoneAPPIcon/MapIcon.png",
+    "FirstWorldText": "",
+    "FuncName": {
+      "Hash": 1405076994
+    },
+    "GotoID": 5300,
+    "ParentSystem": 0,
+    "ID": 20005,
+    "UnlockPrompt": "None",
+    "UnlockID": 0,
+    "UnlockDesc": {
+      "Hash": 371857150
+    },
+    "UnlockMainMission": 0,
+    "NotInScheduleToast": {
+      "Hash": 371857150
+    },
+    "IsLargeBtn": false
+  },
+  {
+    "RedDot": "",
+    "RedDotHud": "",
+    "UnLockIconPath": "SpriteOutput/PhoneAPPIcon/MapIcon.png",
+    "FuncIconPath": "SpriteOutput/PhoneAPPIcon/MapIcon.png",
+    "FuncHudIconPath": "SpriteOutput/PhoneAPPIcon/MapIcon.png",
+    "FirstWorldText": "",
+    "FuncName": {
+      "Hash": 1405076994
+    },
+    "GotoID": 5800,
+    "ParentSystem": 0,
+    "ID": 48,
+    "UnlockPrompt": "None",
+    "UnlockID": 0,
+    "UnlockDesc": {
+      "Hash": 371857150
+    },
+    "UnlockMainMission": 0,
+    "NotInScheduleToast": {
+      "Hash": 371857150
+    },
+    "IsLargeBtn": false
+  },
+  {
+    "RedDot": "",
+    "RedDotHud": "",
+    "UnLockIconPath": "",
+    "FuncIconPath": "",
+    "FuncHudIconPath": "",
+    "FirstWorldText": "",
+    "FuncName": {
+      "Hash": 1499780633
+    },
+    "GotoID": 5900,
+    "ParentSystem": 0,
+    "ID": 49,
+    "UnlockPrompt": "None",
+    "UnlockID": 9920,
+    "UnlockDesc": {
+      "Hash": 371857150
+    },
+    "UnlockMainMission": 0,
+    "NotInScheduleToast": {
+      "Hash": 371857150
+    },
+    "IsLargeBtn": false
+  }
+]

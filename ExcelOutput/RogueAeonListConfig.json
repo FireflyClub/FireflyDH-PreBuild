@@ -1,0 +1,86 @@
+[
+  {
+    "ActivityModuleID": 0,
+    "RogueAeonID": 1,
+    "Sort": 1,
+    "DisplayID": 1
+  },
+  {
+    "ActivityModuleID": 0,
+    "RogueAeonID": 2,
+    "Sort": 2,
+    "DisplayID": 2
+  },
+  {
+    "ActivityModuleID": 0,
+    "RogueAeonID": 3,
+    "Sort": 6,
+    "DisplayID": 3
+  },
+  {
+    "ActivityModuleID": 0,
+    "RogueAeonID": 4,
+    "Sort": 7,
+    "DisplayID": 4
+  },
+  {
+    "ActivityModuleID": 0,
+    "RogueAeonID": 5,
+    "Sort": 4,
+    "DisplayID": 5
+  },
+  {
+    "ActivityModuleID": 0,
+    "RogueAeonID": 6,
+    "Sort": 5,
+    "DisplayID": 6
+  },
+  {
+    "ActivityModuleID": 0,
+    "RogueAeonID": 7,
+    "Sort": 3,
+    "DisplayID": 7
+  },
+  {
+    "ActivityModuleID": 6000302,
+    "RogueAeonID": 8,
+    "Sort": 8,
+    "DisplayID": 8
+  },
+  {
+    "ActivityModuleID": 6000901,
+    "RogueAeonID": 9,
+    "Sort": 9,
+    "DisplayID": 9
+  },
+  {
+    "ActivityModuleID": 6000302,
+    "RogueAeonID": 10,
+    "Sort": 10,
+    "DisplayID": 10
+  },
+  {
+    "ActivityModuleID": 6000302,
+    "RogueAeonID": 11,
+    "Sort": 11,
+    "DisplayID": 11
+  },
+  {
+    "ActivityModuleID": 6000302,
+    "RogueAeonID": 12,
+    "Sort": 12,
+    "DisplayID": 12
+  },
+  {
+    "ActivityModuleID": 6000901,
+    "RogueAeonID": 13,
+    "Sort": 13,
+    "DisplayID": 13
+  },
+  {
+    "ActivityModuleID": 6000901,
+    "RogueAeonID": 14,
+    "Sort": 14,
+    "DisplayID": 14
+  }
+]

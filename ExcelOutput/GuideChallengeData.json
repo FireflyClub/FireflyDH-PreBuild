@@ -1,0 +1,920 @@
+[
+  {
+    "UnlockConditions": [
+      {
+        "Param": "21",
+        "Type": "PlayerLevel"
+      }
+    ],
+    "TabIconPath": "",
+    "IconPath": "",
+    "ID": 9999,
+    "Name": {
+      "Hash": 1848400260
+    },
+    "RelatedID": 0,
+    "MapEntranceID": 0,
+    "TabID": 1001
+  },
+  {
+    "UnlockConditions": [
+      {
+        "Param": "4010105",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "TabIconPath": "",
+    "IconPath": "SpriteOutput/ChallengeTheme/ThemeIcon/World01Icon.png",
+    "ID": 10000,
+    "Name": {
+      "Hash": -1394745005
+    },
+    "RelatedID": 100,
+    "MapEntranceID": 801120102,
+    "TabID": 1002
+  },
+  {
+    "UnlockConditions": [
+      {
+        "Param": "4010105",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "TabIconPath": "",
+    "IconPath": "SpriteOutput/ChallengeTheme/ThemeIcon/World02Icon.png",
+    "ID": 10900,
+    "Name": {
+      "Hash": -1394744772
+    },
+    "RelatedID": 900,
+    "MapEntranceID": 801120102,
+    "TabID": 1002
+  },
+  {
+    "UnlockConditions": [
+      {
+        "Param": "4010105",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "TabIconPath": "",
+    "IconPath": "SpriteOutput/ChallengeTheme/ThemeIcon/AbyssIcon02.png",
+    "ID": 10001,
+    "Name": {
+      "Hash": -1394745004
+    },
+    "RelatedID": 101,
+    "MapEntranceID": 801120102,
+    "TabID": 1002
+  },
+  {
+    "UnlockConditions": [
+      {
+        "Param": "4010105",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "TabIconPath": "",
+    "IconPath": "SpriteOutput/ChallengeTheme/ThemeIcon/AbyssIcon02.png",
+    "ID": 10002,
+    "Name": {
+      "Hash": -1394745007
+    },
+    "RelatedID": 102,
+    "MapEntranceID": 801120102,
+    "TabID": 1002
+  },
+  {
+    "UnlockConditions": [
+      {
+        "Param": "4010105",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "TabIconPath": "",
+    "IconPath": "SpriteOutput/ChallengeTheme/ThemeIcon/AbyssIcon02.png",
+    "ID": 10003,
+    "Name": {
+      "Hash": -1394745006
+    },
+    "RelatedID": 103,
+    "MapEntranceID": 801120102,
+    "TabID": 1002
+  },
+  {
+    "UnlockConditions": [
+      {
+        "Param": "4010105",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "TabIconPath": "",
+    "IconPath": "SpriteOutput/ChallengeTheme/ThemeIcon/AbyssIcon02.png",
+    "ID": 10004,
+    "Name": {
+      "Hash": -1394745001
+    },
+    "RelatedID": 104,
+    "MapEntranceID": 801120102,
+    "TabID": 1002
+  },
+  {
+    "UnlockConditions": [
+      {
+        "Param": "4010105",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "TabIconPath": "",
+    "IconPath": "SpriteOutput/ChallengeTheme/ThemeIcon/AbyssIcon02.png",
+    "ID": 10005,
+    "Name": {
+      "Hash": -1394745000
+    },
+    "RelatedID": 105,
+    "MapEntranceID": 801120102,
+    "TabID": 1002
+  },
+  {
+    "UnlockConditions": [
+      {
+        "Param": "4010105",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "TabIconPath": "",
+    "IconPath": "SpriteOutput/ChallengeTheme/ThemeIcon/AbyssIcon02.png",
+    "ID": 10006,
+    "Name": {
+      "Hash": -1394745003
+    },
+    "RelatedID": 106,
+    "MapEntranceID": 801120102,
+    "TabID": 1002
+  },
+  {
+    "UnlockConditions": [
+      {
+        "Param": "4010105",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "TabIconPath": "",
+    "IconPath": "SpriteOutput/ChallengeTheme/ThemeIcon/AbyssIcon02.png",
+    "ID": 10007,
+    "Name": {
+      "Hash": -1394745002
+    },
+    "RelatedID": 107,
+    "MapEntranceID": 801120102,
+    "TabID": 1002
+  },
+  {
+    "UnlockConditions": [
+      {
+        "Param": "4010105",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "TabIconPath": "",
+    "IconPath": "SpriteOutput/ChallengeTheme/ThemeIcon/AbyssIcon02.png",
+    "ID": 10008,
+    "Name": {
+      "Hash": -1394744997
+    },
+    "RelatedID": 108,
+    "MapEntranceID": 801120102,
+    "TabID": 1002
+  },
+  {
+    "UnlockConditions": [
+      {
+        "Param": "4010105",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "TabIconPath": "",
+    "IconPath": "SpriteOutput/ChallengeTheme/ThemeIcon/AbyssIcon02.png",
+    "ID": 10009,
+    "Name": {
+      "Hash": -1394744996
+    },
+    "RelatedID": 109,
+    "MapEntranceID": 801120102,
+    "TabID": 1002
+  },
+  {
+    "UnlockConditions": [
+      {
+        "Param": "4010105",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "TabIconPath": "",
+    "IconPath": "SpriteOutput/ChallengeTheme/ThemeIcon/AbyssIcon02.png",
+    "ID": 10010,
+    "Name": {
+      "Hash": 1334138350
+    },
+    "RelatedID": 110,
+    "MapEntranceID": 801120102,
+    "TabID": 1002
+  },
+  {
+    "UnlockConditions": [
+      {
+        "Param": "4010105",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "TabIconPath": "",
+    "IconPath": "SpriteOutput/ChallengeTheme/ThemeIcon/AbyssIcon02.png",
+    "ID": 10011,
+    "Name": {
+      "Hash": 1334138351
+    },
+    "RelatedID": 111,
+    "MapEntranceID": 801120102,
+    "TabID": 1002
+  },
+  {
+    "UnlockConditions": [
+      {
+        "Param": "4010105",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "TabIconPath": "",
+    "IconPath": "SpriteOutput/ChallengeTheme/ThemeIcon/AbyssIcon02.png",
+    "ID": 10012,
+    "Name": {
+      "Hash": 1334138348
+    },
+    "RelatedID": 112,
+    "MapEntranceID": 801120102,
+    "TabID": 1002
+  },
+  {
+    "UnlockConditions": [
+      {
+        "Param": "4010105",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "TabIconPath": "",
+    "IconPath": "SpriteOutput/ChallengeTheme/ThemeIcon/AbyssIcon02.png",
+    "ID": 10013,
+    "Name": {
+      "Hash": 1334138349
+    },
+    "RelatedID": 113,
+    "MapEntranceID": 801120102,
+    "TabID": 1002
+  },
+  {
+    "UnlockConditions": [
+      {
+        "Param": "4010105",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "TabIconPath": "",
+    "IconPath": "SpriteOutput/ChallengeTheme/ThemeIcon/AbyssIcon02.png",
+    "ID": 10014,
+    "Name": {
+      "Hash": 1334138354
+    },
+    "RelatedID": 114,
+    "MapEntranceID": 801120102,
+    "TabID": 1002
+  },
+  {
+    "UnlockConditions": [
+      {
+        "Param": "4010105",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "TabIconPath": "",
+    "IconPath": "SpriteOutput/ChallengeTheme/ThemeIcon/AbyssIcon02.png",
+    "ID": 10015,
+    "Name": {
+      "Hash": 1334138355
+    },
+    "RelatedID": 115,
+    "MapEntranceID": 801120102,
+    "TabID": 1002
+  },
+  {
+    "UnlockConditions": [
+      {
+        "Param": "4010105",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "TabIconPath": "",
+    "IconPath": "SpriteOutput/ChallengeTheme/ThemeIcon/AbyssIcon02.png",
+    "ID": 10016,
+    "Name": {
+      "Hash": 1334138352
+    },
+    "RelatedID": 1001,
+    "MapEntranceID": 801120102,
+    "TabID": 1002
+  },
+  {
+    "UnlockConditions": [
+      {
+        "Param": "4010105",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "TabIconPath": "",
+    "IconPath": "SpriteOutput/ChallengeTheme/ThemeIcon/AbyssIcon02.png",
+    "ID": 10017,
+    "Name": {
+      "Hash": 1334138353
+    },
+    "RelatedID": 1002,
+    "MapEntranceID": 801120102,
+    "TabID": 1002
+  },
+  {
+    "UnlockConditions": [
+      {
+        "Param": "4010105",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "TabIconPath": "",
+    "IconPath": "SpriteOutput/ChallengeTheme/ThemeIcon/AbyssIcon02.png",
+    "ID": 10018,
+    "Name": {
+      "Hash": 1334138358
+    },
+    "RelatedID": 1003,
+    "MapEntranceID": 801120102,
+    "TabID": 1002
+  },
+  {
+    "UnlockConditions": [
+      {
+        "Param": "4010105",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "TabIconPath": "",
+    "IconPath": "SpriteOutput/ChallengeTheme/ThemeIcon/AbyssIcon02.png",
+    "ID": 10019,
+    "Name": {
+      "Hash": 1334138359
+    },
+    "RelatedID": 1004,
+    "MapEntranceID": 801120102,
+    "TabID": 1002
+  },
+  {
+    "UnlockConditions": [
+      {
+        "Param": "4010105",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "TabIconPath": "",
+    "IconPath": "SpriteOutput/ChallengeTheme/ThemeIcon/AbyssIcon02.png",
+    "ID": 10020,
+    "Name": {
+      "Hash": 1737422877
+    },
+    "RelatedID": 1005,
+    "MapEntranceID": 801120102,
+    "TabID": 1002
+  },
+  {
+    "UnlockConditions": [
+      {
+        "Param": "4010105",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "TabIconPath": "",
+    "IconPath": "SpriteOutput/ChallengeTheme/ThemeIcon/AbyssIcon02.png",
+    "ID": 10021,
+    "Name": {
+      "Hash": 1737422878
+    },
+    "RelatedID": 1006,
+    "MapEntranceID": 801120102,
+    "TabID": 1002
+  },
+  {
+    "UnlockConditions": [
+      {
+        "Param": "4010105",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "TabIconPath": "",
+    "IconPath": "SpriteOutput/ChallengeTheme/ThemeIcon/AbyssIcon02.png",
+    "ID": 10022,
+    "Name": {
+      "Hash": 1737422875
+    },
+    "RelatedID": 1007,
+    "MapEntranceID": 801120102,
+    "TabID": 1002
+  },
+  {
+    "UnlockConditions": [
+      {
+        "Param": "4010105",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "TabIconPath": "",
+    "IconPath": "SpriteOutput/ChallengeTheme/ThemeIcon/AbyssIcon02.png",
+    "ID": 10023,
+    "Name": {
+      "Hash": 1737422876
+    },
+    "RelatedID": 1008,
+    "MapEntranceID": 801120102,
+    "TabID": 1002
+  },
+  {
+    "UnlockConditions": [
+      {
+        "Param": "4010105",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "TabIconPath": "",
+    "IconPath": "SpriteOutput/ChallengeTheme/ThemeIcon/AbyssIcon02.png",
+    "ID": 10024,
+    "Name": {
+      "Hash": 1737422881
+    },
+    "RelatedID": 1009,
+    "MapEntranceID": 801120102,
+    "TabID": 1002
+  },
+  {
+    "UnlockConditions": [
+      {
+        "Param": "4010105",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "TabIconPath": "",
+    "IconPath": "SpriteOutput/ChallengeTheme/ThemeIcon/AbyssIcon02.png",
+    "ID": 10025,
+    "Name": {
+      "Hash": 1737422882
+    },
+    "RelatedID": 1010,
+    "MapEntranceID": 801120102,
+    "TabID": 1002
+  },
+  {
+    "UnlockConditions": [
+      {
+        "Param": "4010105",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "TabIconPath": "",
+    "IconPath": "SpriteOutput/ChallengeTheme/ThemeIcon/AbyssIcon02.png",
+    "ID": 10026,
+    "Name": {
+      "Hash": 1737422879
+    },
+    "RelatedID": 1011,
+    "MapEntranceID": 801120102,
+    "TabID": 1002
+  },
+  {
+    "UnlockConditions": [
+      {
+        "Param": "4010105",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "TabIconPath": "",
+    "IconPath": "SpriteOutput/ChallengeTheme/ThemeIcon/AbyssIcon02.png",
+    "ID": 10027,
+    "Name": {
+      "Hash": 1737422880
+    },
+    "RelatedID": 1012,
+    "MapEntranceID": 801120102,
+    "TabID": 1002
+  },
+  {
+    "UnlockConditions": [
+      {
+        "Param": "4010105",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "TabIconPath": "",
+    "IconPath": "SpriteOutput/ChallengeTheme/ThemeIcon/AbyssIcon02.png",
+    "ID": 10028,
+    "Name": {
+      "Hash": 1737422885
+    },
+    "RelatedID": 1013,
+    "MapEntranceID": 801120102,
+    "TabID": 1002
+  },
+  {
+    "UnlockConditions": [
+      {
+        "Param": "4010105",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "TabIconPath": "",
+    "IconPath": "SpriteOutput/ChallengeTheme/ThemeIcon/AbyssIcon02.png",
+    "ID": 10029,
+    "Name": {
+      "Hash": 1737422886
+    },
+    "RelatedID": 1014,
+    "MapEntranceID": 801120102,
+    "TabID": 1002
+  },
+  {
+    "UnlockConditions": [
+      {
+        "Param": "4010105",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "TabIconPath": "",
+    "IconPath": "SpriteOutput/ChallengeTheme/ThemeIcon/AbyssIcon02.png",
+    "ID": 10030,
+    "Name": {
+      "Hash": 171338936
+    },
+    "RelatedID": 1015,
+    "MapEntranceID": 801120102,
+    "TabID": 1002
+  },
+  {
+    "UnlockConditions": [
+      {
+        "Param": "4010105",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "TabIconPath": "",
+    "IconPath": "SpriteOutput/ChallengeTheme/ThemeIcon/AbyssIcon02.png",
+    "ID": 10031,
+    "Name": {
+      "Hash": 171338937
+    },
+    "RelatedID": 1016,
+    "MapEntranceID": 801120102,
+    "TabID": 1002
+  },
+  {
+    "UnlockConditions": [
+      {
+        "Param": "4010105",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "TabIconPath": "",
+    "IconPath": "SpriteOutput/ChallengeTheme/ThemeIcon/AbyssIcon02.png",
+    "ID": 10032,
+    "Name": {
+      "Hash": 171338934
+    },
+    "RelatedID": 1017,
+    "MapEntranceID": 801120102,
+    "TabID": 1002
+  },
+  {
+    "UnlockConditions": [
+      {
+        "Param": "4010105",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "TabIconPath": "",
+    "IconPath": "SpriteOutput/ChallengeTheme/ThemeIcon/AbyssIcon02.png",
+    "ID": 10033,
+    "Name": {
+      "Hash": 171338935
+    },
+    "RelatedID": 1018,
+    "MapEntranceID": 801120102,
+    "TabID": 1002
+  },
+  {
+    "UnlockConditions": [
+      {
+        "Param": "4010105",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "TabIconPath": "",
+    "IconPath": "SpriteOutput/ChallengeTheme/ThemeIcon/AbyssIcon02.png",
+    "ID": 10034,
+    "Name": {
+      "Hash": 171338940
+    },
+    "RelatedID": 1019,
+    "MapEntranceID": 801120102,
+    "TabID": 1002
+  },
+  {
+    "UnlockConditions": [
+      {
+        "Param": "4010105",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "TabIconPath": "",
+    "IconPath": "SpriteOutput/ChallengeTheme/ThemeIcon/AbyssIcon02.png",
+    "ID": 10035,
+    "Name": {
+      "Hash": 171338941
+    },
+    "RelatedID": 1020,
+    "MapEntranceID": 801120102,
+    "TabID": 1002
+  },
+  {
+    "UnlockConditions": [
+      {
+        "Param": "4020103",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "TabIconPath": "",
+    "IconPath": "SpriteOutput/ChallengeTheme/ThemeIcon/ChallengeThemeIcon_2001.png",
+    "ID": 20001,
+    "Name": {
+      "Hash": -1394743983
+    },
+    "RelatedID": 2001,
+    "MapEntranceID": 801120102,
+    "TabID": 1003
+  },
+  {
+    "UnlockConditions": [
+      {
+        "Param": "4020103",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "TabIconPath": "",
+    "IconPath": "SpriteOutput/ChallengeTheme/ThemeIcon/ChallengeThemeIcon_2002.png",
+    "ID": 20002,
+    "Name": {
+      "Hash": -1394743980
+    },
+    "RelatedID": 2002,
+    "MapEntranceID": 801120102,
+    "TabID": 1003
+  },
+  {
+    "UnlockConditions": [
+      {
+        "Param": "4020103",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "TabIconPath": "",
+    "IconPath": "SpriteOutput/ChallengeTheme/ThemeIcon/ChallengeThemeIcon_2003.png",
+    "ID": 20003,
+    "Name": {
+      "Hash": -1394743981
+    },
+    "RelatedID": 2003,
+    "MapEntranceID": 801120102,
+    "TabID": 1003
+  },
+  {
+    "UnlockConditions": [
+      {
+        "Param": "4020103",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "TabIconPath": "",
+    "IconPath": "SpriteOutput/ChallengeTheme/ThemeIcon/ChallengeThemeIcon_2001.png",
+    "ID": 20004,
+    "Name": {
+      "Hash": -1394743978
+    },
+    "RelatedID": 2004,
+    "MapEntranceID": 801120102,
+    "TabID": 1003
+  },
+  {
+    "UnlockConditions": [
+      {
+        "Param": "4020103",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "TabIconPath": "",
+    "IconPath": "SpriteOutput/ChallengeTheme/ThemeIcon/ChallengeThemeIcon_2004.png",
+    "ID": 20005,
+    "Name": {
+      "Hash": -1394743979
+    },
+    "RelatedID": 2005,
+    "MapEntranceID": 801120102,
+    "TabID": 1003
+  },
+  {
+    "UnlockConditions": [
+      {
+        "Param": "4020103",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "TabIconPath": "",
+    "IconPath": "SpriteOutput/ChallengeTheme/ThemeIcon/ChallengeThemeIcon_2005.png",
+    "ID": 20006,
+    "Name": {
+      "Hash": -1394743976
+    },
+    "RelatedID": 2006,
+    "MapEntranceID": 801120102,
+    "TabID": 1003
+  },
+  {
+    "UnlockConditions": [
+      {
+        "Param": "4020103",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "TabIconPath": "",
+    "IconPath": "SpriteOutput/ChallengeTheme/ThemeIcon/ChallengeThemeIcon_2006.png",
+    "ID": 20007,
+    "Name": {
+      "Hash": -1394743977
+    },
+    "RelatedID": 2007,
+    "MapEntranceID": 801120102,
+    "TabID": 1003
+  },
+  {
+    "UnlockConditions": [
+      {
+        "Param": "4020103",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "TabIconPath": "",
+    "IconPath": "SpriteOutput/ChallengeTheme/ThemeIcon/ChallengeThemeIcon_2001.png",
+    "ID": 20008,
+    "Name": {
+      "Hash": -1394743974
+    },
+    "RelatedID": 2008,
+    "MapEntranceID": 801120102,
+    "TabID": 1003
+  },
+  {
+    "UnlockConditions": [
+      {
+        "Param": "4020103",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "TabIconPath": "",
+    "IconPath": "SpriteOutput/ChallengeTheme/ThemeIcon/ChallengeThemeIcon_2007.png",
+    "ID": 20009,
+    "Name": {
+      "Hash": -1394743975
+    },
+    "RelatedID": 2009,
+    "MapEntranceID": 801120102,
+    "TabID": 1003
+  },
+  {
+    "UnlockConditions": [
+      {
+        "Param": "4020103",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "TabIconPath": "",
+    "IconPath": "SpriteOutput/ChallengeTheme/ThemeIcon/ChallengeThemeIcon_2008.png",
+    "ID": 20010,
+    "Name": {
+      "Hash": 1334139373
+    },
+    "RelatedID": 2010,
+    "MapEntranceID": 801120102,
+    "TabID": 1003
+  },
+  {
+    "UnlockConditions": [
+      {
+        "Param": "4020103",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "TabIconPath": "",
+    "IconPath": "SpriteOutput/ChallengeTheme/ThemeIcon/ChallengeThemeIcon_2006.png",
+    "ID": 20011,
+    "Name": {
+      "Hash": 1334139372
+    },
+    "RelatedID": 2011,
+    "MapEntranceID": 801120102,
+    "TabID": 1003
+  },
+  {
+    "UnlockConditions": [
+      {
+        "Param": "4020103",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "TabIconPath": "",
+    "IconPath": "SpriteOutput/ChallengeBoss/ChallengeBossIcon_3001.png",
+    "ID": 30001,
+    "Name": {
+      "Hash": -1394747182
+    },
+    "RelatedID": 3001,
+    "MapEntranceID": 801120102,
+    "TabID": 1004
+  },
+  {
+    "UnlockConditions": [
+      {
+        "Param": "4020103",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "TabIconPath": "",
+    "IconPath": "SpriteOutput/ChallengeBoss/ChallengeBossIcon_3002.png",
+    "ID": 30002,
+    "Name": {
+      "Hash": -1394747181
+    },
+    "RelatedID": 3002,
+    "MapEntranceID": 801120102,
+    "TabID": 1004
+  },
+  {
+    "UnlockConditions": [
+      {
+        "Param": "4020103",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "TabIconPath": "",
+    "IconPath": "SpriteOutput/ChallengeBoss/ChallengeBossIcon_3003.png",
+    "ID": 30003,
+    "Name": {
+      "Hash": -1394747180
+    },
+    "RelatedID": 3003,
+    "MapEntranceID": 801120102,
+    "TabID": 1004
+  },
+  {
+    "UnlockConditions": [
+      {
+        "Param": "4020103",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "TabIconPath": "",
+    "IconPath": "SpriteOutput/ChallengeBoss/ChallengeBossIcon_3004.png",
+    "ID": 30004,
+    "Name": {
+      "Hash": -1394747179
+    },
+    "RelatedID": 3004,
+    "MapEntranceID": 801120102,
+    "TabID": 1004
+  },
+  {
+    "UnlockConditions": [
+      {
+        "Param": "4020103",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "TabIconPath": "",
+    "IconPath": "SpriteOutput/ChallengeBoss/ChallengeBossIcon_3005.png",
+    "ID": 30005,
+    "Name": {
+      "Hash": -1394747178
+    },
+    "RelatedID": 3005,
+    "MapEntranceID": 801120102,
+    "TabID": 1004
+  }
+]

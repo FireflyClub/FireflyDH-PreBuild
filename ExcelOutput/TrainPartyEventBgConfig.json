@@ -1,0 +1,716 @@
+[
+  {
+    "TriggerAnimationName": "",
+    "BgConfigJsonPath": "",
+    "BgImage": "",
+    "BgID": 1
+  },
+  {
+    "TriggerAnimationName": "TrainParty_Act_AkimboHand",
+    "BgConfigJsonPath": "Config/Level/TrainParty/TrainPartyPerformance/TP_CardBGPerformance/TrainParty_Player_EventBg.json",
+    "BgImage": "",
+    "BgID": 10011
+  },
+  {
+    "TriggerAnimationName": "TrainParty_Act_Akimbo",
+    "BgConfigJsonPath": "Config/Level/TrainParty/TrainPartyPerformance/TP_CardBGPerformance/TrainParty_Player_EventBg.json",
+    "BgImage": "",
+    "BgID": 10012
+  },
+  {
+    "TriggerAnimationName": "TrainParty_Act_Think",
+    "BgConfigJsonPath": "Config/Level/TrainParty/TrainPartyPerformance/TP_CardBGPerformance/TrainParty_Player_EventBg.json",
+    "BgImage": "",
+    "BgID": 10013
+  },
+  {
+    "TriggerAnimationName": "TrainParty_Act_HoldHead",
+    "BgConfigJsonPath": "Config/Level/TrainParty/TrainPartyPerformance/TP_CardBGPerformance/TrainParty_Player_EventBg.json",
+    "BgImage": "",
+    "BgID": 10014
+  },
+  {
+    "TriggerAnimationName": "TrainParty_Act_AkimboHand",
+    "BgConfigJsonPath": "Config/Level/TrainParty/TrainPartyPerformance/TP_CardBGPerformance/TrainParty_Mar_7th_EventBg.json",
+    "BgImage": "",
+    "BgID": 10021
+  },
+  {
+    "TriggerAnimationName": "TrainParty_Act_Akimbo",
+    "BgConfigJsonPath": "Config/Level/TrainParty/TrainPartyPerformance/TP_CardBGPerformance/TrainParty_Mar_7th_EventBg.json",
+    "BgImage": "",
+    "BgID": 10022
+  },
+  {
+    "TriggerAnimationName": "TrainParty_Act_Encourage",
+    "BgConfigJsonPath": "Config/Level/TrainParty/TrainPartyPerformance/TP_CardBGPerformance/TrainParty_Mar_7th_EventBg.json",
+    "BgImage": "",
+    "BgID": 10023
+  },
+  {
+    "TriggerAnimationName": "TrainParty_Act_Injured",
+    "BgConfigJsonPath": "Config/Level/TrainParty/TrainPartyPerformance/TP_CardBGPerformance/TrainParty_Mar_7th_EventBg.json",
+    "BgImage": "",
+    "BgID": 10024
+  },
+  {
+    "TriggerAnimationName": "TrainParty_Act_HoldHead",
+    "BgConfigJsonPath": "Config/Level/TrainParty/TrainPartyPerformance/TP_CardBGPerformance/TrainParty_Mar_7th_EventBg.json",
+    "BgImage": "",
+    "BgID": 10025
+  },
+  {
+    "TriggerAnimationName": "TrainParty_Act_Think",
+    "BgConfigJsonPath": "Config/Level/TrainParty/TrainPartyPerformance/TP_CardBGPerformance/TrainParty_Mar_7th_EventBg.json",
+    "BgImage": "",
+    "BgID": 10026
+  },
+  {
+    "TriggerAnimationName": "TrainParty_Act_UseProp",
+    "BgConfigJsonPath": "Config/Level/TrainParty/TrainPartyPerformance/TP_CardBGPerformance/TrainParty_DanHeng_EventBg.json",
+    "BgImage": "",
+    "BgID": 10031
+  },
+  {
+    "TriggerAnimationName": "TrainParty_Act_Alert",
+    "BgConfigJsonPath": "Config/Level/TrainParty/TrainPartyPerformance/TP_CardBGPerformance/TrainParty_DanHeng_EventBg.json",
+    "BgImage": "",
+    "BgID": 10032
+  },
+  {
+    "TriggerAnimationName": "TrainParty_Act_AkimboHand",
+    "BgConfigJsonPath": "Config/Level/TrainParty/TrainPartyPerformance/TP_CardBGPerformance/TrainParty_DanHeng_EventBg.json",
+    "BgImage": "",
+    "BgID": 10033
+  },
+  {
+    "TriggerAnimationName": "TrainParty_Act_HoldArm",
+    "BgConfigJsonPath": "Config/Level/TrainParty/TrainPartyPerformance/TP_CardBGPerformance/TrainParty_DanHeng_EventBg.json",
+    "BgImage": "",
+    "BgID": 10034
+  },
+  {
+    "TriggerAnimationName": "TrainParty_Act_HoldHead",
+    "BgConfigJsonPath": "Config/Level/TrainParty/TrainPartyPerformance/TP_CardBGPerformance/TrainParty_DanHeng_EventBg.json",
+    "BgImage": "",
+    "BgID": 10035
+  },
+  {
+    "TriggerAnimationName": "TrainParty_Act_Akimbo",
+    "BgConfigJsonPath": "Config/Level/TrainParty/TrainPartyPerformance/TP_CardBGPerformance/TrainParty_DanHeng_EventBg.json",
+    "BgImage": "",
+    "BgID": 10036
+  },
+  {
+    "TriggerAnimationName": "TrainParty_Act_Think",
+    "BgConfigJsonPath": "Config/Level/TrainParty/TrainPartyPerformance/TP_CardBGPerformance/TrainParty_DanHeng_EventBg.json",
+    "BgImage": "",
+    "BgID": 10037
+  },
+  {
+    "TriggerAnimationName": "TrainParty_Act_HoldArm",
+    "BgConfigJsonPath": "Config/Level/TrainParty/TrainPartyPerformance/TP_CardBGPerformance/TrainParty_Himeko_EventBg.json",
+    "BgImage": "",
+    "BgID": 10041
+  },
+  {
+    "TriggerAnimationName": "TrainParty_Act_AkimboHand",
+    "BgConfigJsonPath": "Config/Level/TrainParty/TrainPartyPerformance/TP_CardBGPerformance/TrainParty_Himeko_EventBg.json",
+    "BgImage": "",
+    "BgID": 10042
+  },
+  {
+    "TriggerAnimationName": "TrainParty_Act_HoldHead",
+    "BgConfigJsonPath": "Config/Level/TrainParty/TrainPartyPerformance/TP_CardBGPerformance/TrainParty_Himeko_EventBg.json",
+    "BgImage": "",
+    "BgID": 10043
+  },
+  {
+    "TriggerAnimationName": "TrainParty_Act_Akimbo",
+    "BgConfigJsonPath": "Config/Level/TrainParty/TrainPartyPerformance/TP_CardBGPerformance/TrainParty_Himeko_EventBg.json",
+    "BgImage": "",
+    "BgID": 10044
+  },
+  {
+    "TriggerAnimationName": "TrainParty_Act_Think",
+    "BgConfigJsonPath": "Config/Level/TrainParty/TrainPartyPerformance/TP_CardBGPerformance/TrainParty_Himeko_EventBg.json",
+    "BgImage": "",
+    "BgID": 10045
+  },
+  {
+    "TriggerAnimationName": "TrainParty_Act_UseProp",
+    "BgConfigJsonPath": "Config/Level/TrainParty/TrainPartyPerformance/TP_CardBGPerformance/TrainParty_Welt_EventBg.json",
+    "BgImage": "",
+    "BgID": 10051
+  },
+  {
+    "TriggerAnimationName": "TrainParty_Act_UseProp",
+    "BgConfigJsonPath": "Config/Level/TrainParty/TrainPartyPerformance/TP_CardBGPerformance/TrainParty_Welt_EventBg.json",
+    "BgImage": "",
+    "BgID": 10052
+  },
+  {
+    "TriggerAnimationName": "TrainParty_Act_Happy",
+    "BgConfigJsonPath": "Config/Level/TrainParty/TrainPartyPerformance/TP_CardBGPerformance/TrainParty_Welt_EventBg.json",
+    "BgImage": "",
+    "BgID": 10053
+  },
+  {
+    "TriggerAnimationName": "TrainParty_Act_HoldHead",
+    "BgConfigJsonPath": "Config/Level/TrainParty/TrainPartyPerformance/TP_CardBGPerformance/TrainParty_Welt_EventBg.json",
+    "BgImage": "",
+    "BgID": 10054
+  },
+  {
+    "TriggerAnimationName": "TrainParty_Act_Akimbo",
+    "BgConfigJsonPath": "Config/Level/TrainParty/TrainPartyPerformance/TP_CardBGPerformance/TrainParty_Welt_EventBg.json",
+    "BgImage": "",
+    "BgID": 10055
+  },
+  {
+    "TriggerAnimationName": "TrainParty_Act_Think",
+    "BgConfigJsonPath": "Config/Level/TrainParty/TrainPartyPerformance/TP_CardBGPerformance/TrainParty_Welt_EventBg.json",
+    "BgImage": "",
+    "BgID": 10056
+  },
+  {
+    "TriggerAnimationName": "TrainParty_Act_Happy",
+    "BgConfigJsonPath": "Config/Level/TrainParty/TrainPartyPerformance/TP_CardBGPerformance/TrainParty_Peppy_EventBg.json",
+    "BgImage": "",
+    "BgID": 10061
+  },
+  {
+    "TriggerAnimationName": "TrainParty_Act_HeadTit",
+    "BgConfigJsonPath": "Config/Level/TrainParty/TrainPartyPerformance/TP_CardBGPerformance/TrainParty_Peppy_EventBg.json",
+    "BgImage": "",
+    "BgID": 10062
+  },
+  {
+    "TriggerAnimationName": "TrainParty_Act_Repair",
+    "BgConfigJsonPath": "Config/Level/TrainParty/TrainPartyPerformance/TP_CardBGPerformance/TrainParty_Robo_EventBg.json",
+    "BgImage": "",
+    "BgID": 10071
+  },
+  {
+    "TriggerAnimationName": "TrainParty_Act_Talk",
+    "BgConfigJsonPath": "Config/Level/TrainParty/TrainPartyPerformance/TP_CardBGPerformance/TrainParty_Robo_EventBg.json",
+    "BgImage": "",
+    "BgID": 10072
+  },
+  {
+    "TriggerAnimationName": "TrainParty_Act_Great",
+    "BgConfigJsonPath": "Config/Level/TrainParty/TrainPartyPerformance/TP_CardBGPerformance/TrainParty_Robo_EventBg.json",
+    "BgImage": "",
+    "BgID": 10073
+  },
+  {
+    "TriggerAnimationName": "TrainParty_Act_",
+    "BgConfigJsonPath": "Config/Level/TrainParty/TrainPartyPerformance/TP_CardBGPerformance/TrainParty_SparkleBomb_EventBg.json",
+    "BgImage": "",
+    "BgID": 10081
+  },
+  {
+    "TriggerAnimationName": "TrainParty_Act_Talk",
+    "BgConfigJsonPath": "Config/Level/TrainParty/TrainPartyPerformance/TP_CardBGPerformance/TrainParty_RuanMadeCake_EventBg.json",
+    "BgImage": "",
+    "BgID": 10091
+  },
+  {
+    "TriggerAnimationName": "TrainParty_Act_Recording",
+    "BgConfigJsonPath": "Config/Level/TrainParty/TrainPartyPerformance/TP_CardBGPerformance/TrainParty_Pam_EventBg.json",
+    "BgImage": "",
+    "BgID": 20011
+  },
+  {
+    "TriggerAnimationName": "TrainParty_Act_Encourage",
+    "BgConfigJsonPath": "Config/Level/TrainParty/TrainPartyPerformance/TP_CardBGPerformance/TrainParty_Pam_EventBg.json",
+    "BgImage": "",
+    "BgID": 20012
+  },
+  {
+    "TriggerAnimationName": "TrainParty_Act_Pleasure",
+    "BgConfigJsonPath": "Config/Level/TrainParty/TrainPartyPerformance/TP_CardBGPerformance/TrainParty_Pam_EventBg.json",
+    "BgImage": "",
+    "BgID": 20013
+  },
+  {
+    "TriggerAnimationName": "TrainParty_Act_Happy",
+    "BgConfigJsonPath": "Config/Level/TrainParty/TrainPartyPerformance/TP_CardBGPerformance/TrainParty_Pam_EventBg.json",
+    "BgImage": "",
+    "BgID": 20014
+  },
+  {
+    "TriggerAnimationName": "TrainParty_Act_Sad",
+    "BgConfigJsonPath": "Config/Level/TrainParty/TrainPartyPerformance/TP_CardBGPerformance/TrainParty_Pam_EventBg.json",
+    "BgImage": "",
+    "BgID": 20015
+  },
+  {
+    "TriggerAnimationName": "TrainParty_Act_StrikeChest",
+    "BgConfigJsonPath": "Config/Level/TrainParty/TrainPartyPerformance/TP_CardBGPerformance/TrainParty_Pam_EventBg.json",
+    "BgImage": "",
+    "BgID": 20016
+  },
+  {
+    "TriggerAnimationName": "",
+    "BgConfigJsonPath": "",
+    "BgImage": "",
+    "BgID": 20021
+  },
+  {
+    "TriggerAnimationName": "",
+    "BgConfigJsonPath": "",
+    "BgImage": "",
+    "BgID": 20022
+  },
+  {
+    "TriggerAnimationName": "",
+    "BgConfigJsonPath": "",
+    "BgImage": "SpriteOutput/Quest/TrainParty/EventBg/CardPic_101.png",
+    "BgID": 101010
+  },
+  {
+    "TriggerAnimationName": "",
+    "BgConfigJsonPath": "",
+    "BgImage": "SpriteOutput/Quest/TrainParty/EventBg/CardPic_103.png",
+    "BgID": 101030
+  },
+  {
+    "TriggerAnimationName": "",
+    "BgConfigJsonPath": "",
+    "BgImage": "SpriteOutput/Quest/TrainParty/EventBg/CardPic_107.png",
+    "BgID": 101070
+  },
+  {
+    "TriggerAnimationName": "",
+    "BgConfigJsonPath": "",
+    "BgImage": "SpriteOutput/Quest/TrainParty/EventBg/CardPic_108.png",
+    "BgID": 101080
+  },
+  {
+    "TriggerAnimationName": "",
+    "BgConfigJsonPath": "",
+    "BgImage": "SpriteOutput/Quest/TrainParty/EventBg/CardPic_109f.png",
+    "BgID": 101090
+  },
+  {
+    "TriggerAnimationName": "",
+    "BgConfigJsonPath": "",
+    "BgImage": "SpriteOutput/Quest/TrainParty/EventBg/CardPic_109m.png",
+    "BgID": 101091
+  },
+  {
+    "TriggerAnimationName": "",
+    "BgConfigJsonPath": "",
+    "BgImage": "SpriteOutput/Quest/TrainParty/EventBg/CardPic_201f.png",
+    "BgID": 102010
+  },
+  {
+    "TriggerAnimationName": "",
+    "BgConfigJsonPath": "",
+    "BgImage": "SpriteOutput/Quest/TrainParty/EventBg/CardPic_201m.png",
+    "BgID": 102011
+  },
+  {
+    "TriggerAnimationName": "",
+    "BgConfigJsonPath": "",
+    "BgImage": "SpriteOutput/Quest/TrainParty/EventBg/CardPic_202.png",
+    "BgID": 102020
+  },
+  {
+    "TriggerAnimationName": "",
+    "BgConfigJsonPath": "",
+    "BgImage": "SpriteOutput/Quest/TrainParty/EventBg/CardPic_203.png",
+    "BgID": 102030
+  },
+  {
+    "TriggerAnimationName": "",
+    "BgConfigJsonPath": "",
+    "BgImage": "SpriteOutput/Quest/TrainParty/EventBg/CardPic_204.png",
+    "BgID": 102040
+  },
+  {
+    "TriggerAnimationName": "",
+    "BgConfigJsonPath": "",
+    "BgImage": "SpriteOutput/Quest/TrainParty/EventBg/CardPic_205.png",
+    "BgID": 102050
+  },
+  {
+    "TriggerAnimationName": "",
+    "BgConfigJsonPath": "",
+    "BgImage": "SpriteOutput/Quest/TrainParty/EventBg/CardPic_206.png",
+    "BgID": 102060
+  },
+  {
+    "TriggerAnimationName": "",
+    "BgConfigJsonPath": "",
+    "BgImage": "SpriteOutput/Quest/TrainParty/EventBg/CardPic_207.png",
+    "BgID": 102070
+  },
+  {
+    "TriggerAnimationName": "",
+    "BgConfigJsonPath": "",
+    "BgImage": "SpriteOutput/Quest/TrainParty/EventBg/CardPic_208.png",
+    "BgID": 102080
+  },
+  {
+    "TriggerAnimationName": "",
+    "BgConfigJsonPath": "",
+    "BgImage": "SpriteOutput/Quest/TrainParty/EventBg/CardPic_209.png",
+    "BgID": 102090
+  },
+  {
+    "TriggerAnimationName": "",
+    "BgConfigJsonPath": "",
+    "BgImage": "SpriteOutput/Quest/TrainParty/EventBg/CardPic_301f.png",
+    "BgID": 103010
+  },
+  {
+    "TriggerAnimationName": "",
+    "BgConfigJsonPath": "",
+    "BgImage": "SpriteOutput/Quest/TrainParty/EventBg/CardPic_301m.png",
+    "BgID": 103011
+  },
+  {
+    "TriggerAnimationName": "",
+    "BgConfigJsonPath": "",
+    "BgImage": "SpriteOutput/Quest/TrainParty/EventBg/CardPic_302.png",
+    "BgID": 103020
+  },
+  {
+    "TriggerAnimationName": "",
+    "BgConfigJsonPath": "",
+    "BgImage": "SpriteOutput/Quest/TrainParty/EventBg/CardPic_303.png",
+    "BgID": 103030
+  },
+  {
+    "TriggerAnimationName": "",
+    "BgConfigJsonPath": "",
+    "BgImage": "SpriteOutput/Quest/TrainParty/EventBg/CardPic_304.png",
+    "BgID": 103040
+  },
+  {
+    "TriggerAnimationName": "",
+    "BgConfigJsonPath": "",
+    "BgImage": "SpriteOutput/Quest/TrainParty/EventBg/CardPic_305.png",
+    "BgID": 103050
+  },
+  {
+    "TriggerAnimationName": "",
+    "BgConfigJsonPath": "",
+    "BgImage": "SpriteOutput/Quest/TrainParty/EventBg/CardPic_306.png",
+    "BgID": 103060
+  },
+  {
+    "TriggerAnimationName": "",
+    "BgConfigJsonPath": "",
+    "BgImage": "SpriteOutput/Quest/TrainParty/EventBg/CardPic_307.png",
+    "BgID": 103070
+  },
+  {
+    "TriggerAnimationName": "",
+    "BgConfigJsonPath": "",
+    "BgImage": "SpriteOutput/Quest/TrainParty/EventBg/CardPic_308.png",
+    "BgID": 103080
+  },
+  {
+    "TriggerAnimationName": "",
+    "BgConfigJsonPath": "",
+    "BgImage": "SpriteOutput/Quest/TrainParty/EventBg/CardPic_309.png",
+    "BgID": 103090
+  },
+  {
+    "TriggerAnimationName": "",
+    "BgConfigJsonPath": "",
+    "BgImage": "SpriteOutput/Quest/TrainParty/EventBg/CardPic_401f.png",
+    "BgID": 104010
+  },
+  {
+    "TriggerAnimationName": "",
+    "BgConfigJsonPath": "",
+    "BgImage": "SpriteOutput/Quest/TrainParty/EventBg/CardPic_401m.png",
+    "BgID": 104011
+  },
+  {
+    "TriggerAnimationName": "",
+    "BgConfigJsonPath": "",
+    "BgImage": "SpriteOutput/Quest/TrainParty/EventBg/CardPic_402.png",
+    "BgID": 104020
+  },
+  {
+    "TriggerAnimationName": "",
+    "BgConfigJsonPath": "",
+    "BgImage": "SpriteOutput/Quest/TrainParty/EventBg/CardPic_403.png",
+    "BgID": 104030
+  },
+  {
+    "TriggerAnimationName": "",
+    "BgConfigJsonPath": "",
+    "BgImage": "SpriteOutput/Quest/TrainParty/EventBg/CardPic_404.png",
+    "BgID": 104040
+  },
+  {
+    "TriggerAnimationName": "",
+    "BgConfigJsonPath": "",
+    "BgImage": "SpriteOutput/Quest/TrainParty/EventBg/CardPic_405.png",
+    "BgID": 104050
+  },
+  {
+    "TriggerAnimationName": "",
+    "BgConfigJsonPath": "",
+    "BgImage": "SpriteOutput/Quest/TrainParty/EventBg/CardPic_406.png",
+    "BgID": 104060
+  },
+  {
+    "TriggerAnimationName": "",
+    "BgConfigJsonPath": "",
+    "BgImage": "SpriteOutput/Quest/TrainParty/EventBg/CardPic_407.png",
+    "BgID": 104070
+  },
+  {
+    "TriggerAnimationName": "",
+    "BgConfigJsonPath": "",
+    "BgImage": "SpriteOutput/Quest/TrainParty/EventBg/CardPic_408.png",
+    "BgID": 104080
+  },
+  {
+    "TriggerAnimationName": "",
+    "BgConfigJsonPath": "",
+    "BgImage": "SpriteOutput/Quest/TrainParty/EventBg/CardPic_409.png",
+    "BgID": 104090
+  },
+  {
+    "TriggerAnimationName": "",
+    "BgConfigJsonPath": "",
+    "BgImage": "SpriteOutput/Quest/TrainParty/EventBg/EventPic_10001.png",
+    "BgID": 1100010
+  },
+  {
+    "TriggerAnimationName": "",
+    "BgConfigJsonPath": "",
+    "BgImage": "SpriteOutput/Quest/TrainParty/EventBg/EventPic_10001.png",
+    "BgID": 1100011
+  },
+  {
+    "TriggerAnimationName": "",
+    "BgConfigJsonPath": "",
+    "BgImage": "SpriteOutput/Quest/TrainParty/EventBg/EventPic_10002.png",
+    "BgID": 1100020
+  },
+  {
+    "TriggerAnimationName": "",
+    "BgConfigJsonPath": "",
+    "BgImage": "SpriteOutput/Quest/TrainParty/EventBg/EventPic_10003.png",
+    "BgID": 1100030
+  },
+  {
+    "TriggerAnimationName": "",
+    "BgConfigJsonPath": "",
+    "BgImage": "SpriteOutput/Quest/TrainParty/EventBg/EventPic_10004.png",
+    "BgID": 1100040
+  },
+  {
+    "TriggerAnimationName": "",
+    "BgConfigJsonPath": "",
+    "BgImage": "SpriteOutput/Quest/TrainParty/EventBg/EventPic_10005.png",
+    "BgID": 1100050
+  },
+  {
+    "TriggerAnimationName": "",
+    "BgConfigJsonPath": "",
+    "BgImage": "SpriteOutput/Quest/TrainParty/EventBg/EventPic_10006.png",
+    "BgID": 1100060
+  },
+  {
+    "TriggerAnimationName": "",
+    "BgConfigJsonPath": "",
+    "BgImage": "SpriteOutput/Quest/TrainParty/EventBg/EventPic_10007.png",
+    "BgID": 1100070
+  },
+  {
+    "TriggerAnimationName": "",
+    "BgConfigJsonPath": "",
+    "BgImage": "SpriteOutput/Quest/TrainParty/EventBg/EventPic_10008f.png",
+    "BgID": 1100080
+  },
+  {
+    "TriggerAnimationName": "",
+    "BgConfigJsonPath": "",
+    "BgImage": "SpriteOutput/Quest/TrainParty/EventBg/EventPic_10008m.png",
+    "BgID": 1100081
+  },
+  {
+    "TriggerAnimationName": "",
+    "BgConfigJsonPath": "",
+    "BgImage": "SpriteOutput/Quest/TrainParty/EventBg/EventPic_10009.png",
+    "BgID": 1100090
+  },
+  {
+    "TriggerAnimationName": "",
+    "BgConfigJsonPath": "",
+    "BgImage": "SpriteOutput/Quest/TrainParty/EventBg/EventPic_10010.png",
+    "BgID": 1100100
+  },
+  {
+    "TriggerAnimationName": "",
+    "BgConfigJsonPath": "",
+    "BgImage": "SpriteOutput/Quest/TrainParty/EventBg/EventPic_10011f.png",
+    "BgID": 1100110
+  },
+  {
+    "TriggerAnimationName": "",
+    "BgConfigJsonPath": "",
+    "BgImage": "SpriteOutput/Quest/TrainParty/EventBg/EventPic_10011m.png",
+    "BgID": 1100111
+  },
+  {
+    "TriggerAnimationName": "",
+    "BgConfigJsonPath": "",
+    "BgImage": "SpriteOutput/Quest/TrainParty/EventBg/EventPic_10012.png",
+    "BgID": 1100120
+  },
+  {
+    "TriggerAnimationName": "",
+    "BgConfigJsonPath": "",
+    "BgImage": "SpriteOutput/Quest/TrainParty/EventBg/EventPic_10013.png",
+    "BgID": 1100130
+  },
+  {
+    "TriggerAnimationName": "",
+    "BgConfigJsonPath": "",
+    "BgImage": "SpriteOutput/Quest/TrainParty/EventBg/EventPic_10014.png",
+    "BgID": 1100140
+  },
+  {
+    "TriggerAnimationName": "",
+    "BgConfigJsonPath": "",
+    "BgImage": "SpriteOutput/Quest/TrainParty/EventBg/EventPic_10015.png",
+    "BgID": 1100150
+  },
+  {
+    "TriggerAnimationName": "",
+    "BgConfigJsonPath": "",
+    "BgImage": "SpriteOutput/Quest/TrainParty/EventBg/EventPic_10016.png",
+    "BgID": 1100160
+  },
+  {
+    "TriggerAnimationName": "",
+    "BgConfigJsonPath": "",
+    "BgImage": "SpriteOutput/Quest/TrainParty/EventBg/EventPic_10017.png",
+    "BgID": 1100170
+  },
+  {
+    "TriggerAnimationName": "",
+    "BgConfigJsonPath": "",
+    "BgImage": "SpriteOutput/Quest/TrainParty/EventBg/EventPic_10018f.png",
+    "BgID": 1100180
+  },
+  {
+    "TriggerAnimationName": "",
+    "BgConfigJsonPath": "",
+    "BgImage": "SpriteOutput/Quest/TrainParty/EventBg/EventPic_10018m.png",
+    "BgID": 1100181
+  },
+  {
+    "TriggerAnimationName": "",
+    "BgConfigJsonPath": "",
+    "BgImage": "SpriteOutput/Quest/TrainParty/EventBg/EventPic_10019.png",
+    "BgID": 1100190
+  },
+  {
+    "TriggerAnimationName": "",
+    "BgConfigJsonPath": "",
+    "BgImage": "SpriteOutput/Quest/TrainParty/EventBg/EventPic_10021.png",
+    "BgID": 1100210
+  },
+  {
+    "TriggerAnimationName": "",
+    "BgConfigJsonPath": "",
+    "BgImage": "SpriteOutput/Quest/TrainParty/EventBg/EventPic_10022.png",
+    "BgID": 1100220
+  },
+  {
+    "TriggerAnimationName": "",
+    "BgConfigJsonPath": "",
+    "BgImage": "SpriteOutput/Quest/TrainParty/EventBg/EventPic_10023.png",
+    "BgID": 1100230
+  },
+  {
+    "TriggerAnimationName": "",
+    "BgConfigJsonPath": "",
+    "BgImage": "SpriteOutput/Quest/TrainParty/EventBg/EventPic_10024.png",
+    "BgID": 1100240
+  },
+  {
+    "TriggerAnimationName": "",
+    "BgConfigJsonPath": "",
+    "BgImage": "SpriteOutput/Quest/TrainParty/EventBg/EventPic_20001.png",
+    "BgID": 1200010
+  },
+  {
+    "TriggerAnimationName": "",
+    "BgConfigJsonPath": "",
+    "BgImage": "SpriteOutput/Quest/TrainParty/EventBg/EventPic_20002.png",
+    "BgID": 1200020
+  },
+  {
+    "TriggerAnimationName": "",
+    "BgConfigJsonPath": "",
+    "BgImage": "SpriteOutput/Quest/TrainParty/EventBg/EventPic_20003f.png",
+    "BgID": 1200030
+  },
+  {
+    "TriggerAnimationName": "",
+    "BgConfigJsonPath": "",
+    "BgImage": "SpriteOutput/Quest/TrainParty/EventBg/EventPic_20003m.png",
+    "BgID": 1200031
+  },
+  {
+    "TriggerAnimationName": "",
+    "BgConfigJsonPath": "",
+    "BgImage": "SpriteOutput/Quest/TrainParty/EventBg/EventPic_20004.png",
+    "BgID": 1200040
+  },
+  {
+    "TriggerAnimationName": "",
+    "BgConfigJsonPath": "",
+    "BgImage": "SpriteOutput/Quest/TrainParty/EventBg/EventPic_20005.png",
+    "BgID": 1200050
+  },
+  {
+    "TriggerAnimationName": "",
+    "BgConfigJsonPath": "",
+    "BgImage": "SpriteOutput/Quest/TrainParty/EventBg/EventPic_20006.png",
+    "BgID": 1200060
+  },
+  {
+    "TriggerAnimationName": "",
+    "BgConfigJsonPath": "",
+    "BgImage": "SpriteOutput/Quest/TrainParty/EventBg/EventPic_20007.png",
+    "BgID": 1200070
+  },
+  {
+    "TriggerAnimationName": "",
+    "BgConfigJsonPath": "",
+    "BgImage": "SpriteOutput/Quest/TrainParty/EventBg/EventPic_20008.png",
+    "BgID": 1200080
+  },
+  {
+    "TriggerAnimationName": "",
+    "BgConfigJsonPath": "",
+    "BgImage": "SpriteOutput/Quest/TrainParty/EventBg/EventPic_20009.png",
+    "BgID": 1200090
+  },
+  {
+    "TriggerAnimationName": "",
+    "BgConfigJsonPath": "",
+    "BgImage": "SpriteOutput/Quest/TrainParty/EventBg/EventPic_20010f.png",
+    "BgID": 1200100
+  },
+  {
+    "TriggerAnimationName": "",
+    "BgConfigJsonPath": "",
+    "BgImage": "SpriteOutput/Quest/TrainParty/EventBg/EventPic_20010m.png",
+    "BgID": 1200101
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "ChallengeGroupList": [
+      1001
+    ],
+    "MappingInfoID": 2310,
+    "MapEntranceID": 2022301,
+    "ChallengePhaseUnlock": {
+      "Hash": 1580872339
+    },
+    "ChallengePhaseID": 1001,
+    "ChallengePhaseName": {
+      "Hash": 1868026170
+    },
+    "UnlockMissionID": 8015101
+  },
+  {
+    "ChallengeGroupList": [
+      1002
+    ],
+    "MappingInfoID": 2311,
+    "MapEntranceID": 2022301,
+    "ChallengePhaseUnlock": {
+      "Hash": 1984156866
+    },
+    "ChallengePhaseID": 1002,
+    "ChallengePhaseName": {
+      "Hash": -860857185
+    },
+    "UnlockMissionID": 8015102
+  },
+  {
+    "ChallengeGroupList": [
+      1003
+    ],
+    "MappingInfoID": 2312,
+    "MapEntranceID": 2022301,
+    "ChallengePhaseUnlock": {
+      "Hash": 418072925
+    },
+    "ChallengePhaseID": 1003,
+    "ChallengePhaseName": {
+      "Hash": 705226756
+    },
+    "UnlockMissionID": 8015103
+  },
+  {
+    "ChallengeGroupList": [
+      1004
+    ],
+    "MappingInfoID": 2313,
+    "MapEntranceID": 2022301,
+    "ChallengePhaseUnlock": {
+      "Hash": 821357452
+    },
+    "ChallengePhaseID": 1004,
+    "ChallengePhaseName": {
+      "Hash": -2023656599
+    },
+    "UnlockMissionID": 8015104
+  }
+]

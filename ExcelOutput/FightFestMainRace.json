@@ -1,0 +1,98 @@
+[
+  {
+    "RaceBgFigurePath": "SpriteOutput/UI/Quest/AetherDivide/ADIcon04.png",
+    "FightPhaseID": 101,
+    "BlueAvatarID": 1,
+    "RewardID": 250000,
+    "MainRaceID": 101,
+    "TutorialID": 8182,
+    "RedAvatarID": 16,
+    "StageEndDesc": {
+      "Hash": 208601782
+    },
+    "EventID": 419000,
+    "StageName": {
+      "Hash": -414112403
+    }
+  },
+  {
+    "RaceBgFigurePath": "SpriteOutput/UI/Quest/AetherDivide/ADIcon04.png",
+    "FightPhaseID": 101,
+    "BlueAvatarID": 1,
+    "RewardID": 250001,
+    "MainRaceID": 1001,
+    "TutorialID": 8183,
+    "RedAvatarID": 2,
+    "StageEndDesc": {
+      "Hash": -336016160
+    },
+    "EventID": 419001,
+    "StageName": {
+      "Hash": 944033345
+    }
+  },
+  {
+    "RaceBgFigurePath": "SpriteOutput/UI/Quest/AetherDivide/ADIcon04.png",
+    "FightPhaseID": 102,
+    "BlueAvatarID": 1,
+    "RewardID": 250002,
+    "MainRaceID": 1002,
+    "TutorialID": 8184,
+    "RedAvatarID": 3,
+    "StageEndDesc": {
+      "Hash": -336016161
+    },
+    "EventID": 419002,
+    "StageName": {
+      "Hash": -1784850010
+    }
+  },
+  {
+    "RaceBgFigurePath": "SpriteOutput/UI/Quest/AetherDivide/ADIcon04.png",
+    "FightPhaseID": 103,
+    "BlueAvatarID": 1,
+    "RewardID": 250003,
+    "MainRaceID": 1003,
+    "TutorialID": 8185,
+    "RedAvatarID": 4,
+    "StageEndDesc": {
+      "Hash": -336016162
+    },
+    "EventID": 419003,
+    "StageName": {
+      "Hash": -218766069
+    }
+  },
+  {
+    "RaceBgFigurePath": "SpriteOutput/UI/Quest/AetherDivide/ADIcon04.png",
+    "FightPhaseID": 104,
+    "BlueAvatarID": 1,
+    "RewardID": 250004,
+    "MainRaceID": 1004,
+    "TutorialID": 8186,
+    "RedAvatarID": 5,
+    "StageEndDesc": {
+      "Hash": -336016155
+    },
+    "EventID": 419004,
+    "StageName": {
+      "Hash": 1703548232
+    }
+  },
+  {
+    "RaceBgFigurePath": "SpriteOutput/UI/Quest/AetherDivide/ADIcon04.png",
+    "FightPhaseID": 105,
+    "BlueAvatarID": 1,
+    "RewardID": 250005,
+    "MainRaceID": 1005,
+    "TutorialID": 8187,
+    "RedAvatarID": 6,
+    "StageEndDesc": {
+      "Hash": -336016156
+    },
+    "EventID": 419005,
+    "StageName": {
+      "Hash": -1025335123
+    }
+  }
+]

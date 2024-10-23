@@ -1,0 +1,155 @@
+[
+  {
+    "AvatarCardPrefabPath": "UI/Quest/TrainParty/Widget/MeetingCard/TPAvatarCardItemBg_Type3.prefab",
+    "MeetingIconPath": "UI/Quest/TrainParty/Widget/MeetingCard/MeetingCard_Type3.prefab",
+    "MiniIconPath": "SpriteOutput/AvatarMiniIcon/8001.png",
+    "AvatarRoundIconBgPath": "SpriteOutput/UI/Quest/TrainParty/MeetingGamePlay/TPMeetingGameplayGra1.png",
+    "AvatarRoundIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/8001.png",
+    "IconPath": "SpriteOutput/AvatarShopIcon/Avatar/8001.png",
+    "PassengerQuest": 6029321,
+    "PassengerID": 1001,
+    "Name": {
+      "Hash": -574292971
+    },
+    "UnlcokDesc": {
+      "Hash": 1986854855
+    },
+    "DiaryOrder": 5
+  },
+  {
+    "AvatarCardPrefabPath": "UI/Quest/TrainParty/Widget/MeetingCard/TPAvatarCardItemBg_Type4.prefab",
+    "MeetingIconPath": "UI/Quest/TrainParty/Widget/MeetingCard/MeetingCard_Type4.prefab",
+    "MiniIconPath": "SpriteOutput/AvatarMiniIcon/1001.png",
+    "AvatarRoundIconBgPath": "SpriteOutput/UI/Quest/TrainParty/MeetingGamePlay/TPMeetingGameplayGra2.png",
+    "AvatarRoundIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1001.png",
+    "IconPath": "SpriteOutput/AvatarShopIcon/Avatar/1001.png",
+    "PassengerQuest": 6029322,
+    "PassengerID": 1002,
+    "Name": {
+      "Hash": -574292974
+    },
+    "UnlcokDesc": {
+      "Hash": 1986854856
+    },
+    "DiaryOrder": 2
+  },
+  {
+    "AvatarCardPrefabPath": "UI/Quest/TrainParty/Widget/MeetingCard/TPAvatarCardItemBg_Type6.prefab",
+    "MeetingIconPath": "UI/Quest/TrainParty/Widget/MeetingCard/MeetingCard_Type6.prefab",
+    "MiniIconPath": "SpriteOutput/AvatarMiniIcon/1002.png",
+    "AvatarRoundIconBgPath": "SpriteOutput/UI/Quest/TrainParty/MeetingGamePlay/TPMeetingGameplayGra4.png",
+    "AvatarRoundIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1002.png",
+    "IconPath": "SpriteOutput/AvatarShopIcon/Avatar/1002.png",
+    "PassengerQuest": 6029323,
+    "PassengerID": 1003,
+    "Name": {
+      "Hash": -574292973
+    },
+    "UnlcokDesc": {
+      "Hash": 1986854857
+    },
+    "DiaryOrder": 3
+  },
+  {
+    "AvatarCardPrefabPath": "UI/Quest/TrainParty/Widget/MeetingCard/TPAvatarCardItemBg_Type5.prefab",
+    "MeetingIconPath": "UI/Quest/TrainParty/Widget/MeetingCard/MeetingCard_Type5.prefab",
+    "MiniIconPath": "SpriteOutput/AvatarMiniIcon/1003.png",
+    "AvatarRoundIconBgPath": "SpriteOutput/UI/Quest/TrainParty/MeetingGamePlay/TPMeetingGameplayGra3.png",
+    "AvatarRoundIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1003.png",
+    "IconPath": "SpriteOutput/AvatarShopIcon/Avatar/1003.png",
+    "PassengerQuest": 6029324,
+    "PassengerID": 1004,
+    "Name": {
+      "Hash": -574292968
+    },
+    "UnlcokDesc": {
+      "Hash": 1986854858
+    },
+    "DiaryOrder": 1
+  },
+  {
+    "AvatarCardPrefabPath": "UI/Quest/TrainParty/Widget/MeetingCard/TPAvatarCardItemBg_Type8.prefab",
+    "MeetingIconPath": "UI/Quest/TrainParty/Widget/MeetingCard/MeetingCard_Type8.prefab",
+    "MiniIconPath": "SpriteOutput/AvatarMiniIcon/1004.png",
+    "AvatarRoundIconBgPath": "SpriteOutput/UI/Quest/TrainParty/MeetingGamePlay/TPMeetingGameplayGra5.png",
+    "AvatarRoundIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1004.png",
+    "IconPath": "SpriteOutput/AvatarShopIcon/Avatar/1004.png",
+    "PassengerQuest": 6029325,
+    "PassengerID": 1005,
+    "Name": {
+      "Hash": -574292967
+    },
+    "UnlcokDesc": {
+      "Hash": 1986854859
+    },
+    "DiaryOrder": 4
+  },
+  {
+    "AvatarCardPrefabPath": "UI/Quest/TrainParty/Widget/MeetingCard/TPAvatarCardItemBg_Type7.prefab",
+    "MeetingIconPath": "UI/Quest/TrainParty/Widget/MeetingCard/MeetingCard_Type7.prefab",
+    "MiniIconPath": "SpriteOutput/Quest/TrainParty/Avatar/AvatarMiniIcon/AvatarIcon7.png",
+    "AvatarRoundIconBgPath": "SpriteOutput/UI/Quest/TrainParty/MeetingGamePlay/TPMeetingGameplayGra1.png",
+    "AvatarRoundIconPath": "SpriteOutput/Quest/TrainParty/Avatar/AvatarIcon/AvatarIcon7.png",
+    "IconPath": "SpriteOutput/Quest/TrainParty/Avatar/AvatarFigure/AvatarIcon7.png",
+    "PassengerQuest": 6029326,
+    "PassengerID": 1006,
+    "Name": {
+      "Hash": -574292970
+    },
+    "UnlcokDesc": {
+      "Hash": 1986854860
+    },
+    "DiaryOrder": 6
+  },
+  {
+    "AvatarCardPrefabPath": "UI/Quest/TrainParty/Widget/MeetingCard/TPAvatarCardItemBg_Type2.prefab",
+    "MeetingIconPath": "UI/Quest/TrainParty/Widget/MeetingCard/MeetingCard_Type2.prefab",
+    "MiniIconPath": "SpriteOutput/Quest/TrainParty/Avatar/AvatarMiniIcon/AvatarIcon2.png",
+    "AvatarRoundIconBgPath": "SpriteOutput/UI/Quest/TrainParty/MeetingGamePlay/TPMeetingGameplayGra1.png",
+    "AvatarRoundIconPath": "SpriteOutput/Quest/TrainParty/Avatar/AvatarIcon/AvatarIcon2.png",
+    "IconPath": "SpriteOutput/Quest/TrainParty/Avatar/AvatarFigure/AvatarIcon2.png",
+    "PassengerQuest": 6029327,
+    "PassengerID": 1007,
+    "Name": {
+      "Hash": -574292969
+    },
+    "UnlcokDesc": {
+      "Hash": 1986854861
+    },
+    "DiaryOrder": 7
+  },
+  {
+    "AvatarCardPrefabPath": "UI/Quest/TrainParty/Widget/MeetingCard/TPAvatarCardItemBg_Type9.prefab",
+    "MeetingIconPath": "UI/Quest/TrainParty/Widget/MeetingCard/MeetingCard_Type9.prefab",
+    "MiniIconPath": "SpriteOutput/Quest/TrainParty/Avatar/AvatarMiniIcon/AvatarIcon9.png",
+    "AvatarRoundIconBgPath": "SpriteOutput/UI/Quest/TrainParty/MeetingGamePlay/TPMeetingGameplayGra1.png",
+    "AvatarRoundIconPath": "SpriteOutput/Quest/TrainParty/Avatar/AvatarIcon/AvatarIcon9.png",
+    "IconPath": "SpriteOutput/Quest/TrainParty/Avatar/AvatarFigure/AvatarIcon9.png",
+    "PassengerQuest": 6029328,
+    "PassengerID": 1008,
+    "Name": {
+      "Hash": -574292980
+    },
+    "UnlcokDesc": {
+      "Hash": 1986854846
+    },
+    "DiaryOrder": 8
+  },
+  {
+    "AvatarCardPrefabPath": "UI/Quest/TrainParty/Widget/MeetingCard/TPAvatarCardItemBg_Type1.prefab",
+    "MeetingIconPath": "UI/Quest/TrainParty/Widget/MeetingCard/MeetingCard_Type1.prefab",
+    "MiniIconPath": "SpriteOutput/Quest/TrainParty/Avatar/AvatarMiniIcon/AvatarIcon1.png",
+    "AvatarRoundIconBgPath": "SpriteOutput/UI/Quest/TrainParty/MeetingGamePlay/TPMeetingGameplayGra1.png",
+    "AvatarRoundIconPath": "SpriteOutput/Quest/TrainParty/Avatar/AvatarIcon/AvatarIcon1.png",
+    "IconPath": "SpriteOutput/Quest/TrainParty/Avatar/AvatarFigure/AvatarIcon1.png",
+    "PassengerQuest": 6029329,
+    "PassengerID": 1009,
+    "Name": {
+      "Hash": -574292979
+    },
+    "UnlcokDesc": {
+      "Hash": 1986854847
+    },
+    "DiaryOrder": 9
+  }
+]

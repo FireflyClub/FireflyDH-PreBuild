@@ -1,0 +1,272 @@
+[
+  {
+    "RotateAudioEvent": "Ev_sfx_alleycargo_woodbox_switch",
+    "SettleAudioEvent": "Ev_sfx_alleycargo_woodbox_drop",
+    "GoodsPicLocked": "SpriteOutput/Quest/Alley/AlleyCargoIcon/AlleyCargoIconLock_101.png",
+    "GoodsConfig": "Config/Gameplays/Alley/AlleyShipment/AlleyShipment_Goods_Box_03b.json",
+    "GoodsPic": "SpriteOutput/Quest/Alley/AlleyCargoIcon/AlleyCargoIcon_101.png",
+    "GoodsID": 101,
+    "GoodsProfit": 200
+  },
+  {
+    "RotateAudioEvent": "Ev_sfx_alleycargo_woodbox_switch",
+    "SettleAudioEvent": "Ev_sfx_alleycargo_woodbox_drop",
+    "GoodsPicLocked": "SpriteOutput/Quest/Alley/AlleyCargoIcon/AlleyCargoIconLock_102.png",
+    "GoodsConfig": "Config/Gameplays/Alley/AlleyShipment/AlleyShipment_Goods_Box_03a.json",
+    "GoodsPic": "SpriteOutput/Quest/Alley/AlleyCargoIcon/AlleyCargoIcon_102.png",
+    "GoodsID": 102,
+    "GoodsProfit": 500
+  },
+  {
+    "RotateAudioEvent": "Ev_sfx_alleycargo_woodbox_switch",
+    "SettleAudioEvent": "Ev_sfx_alleycargo_woodbox_drop",
+    "GoodsPicLocked": "SpriteOutput/Quest/Alley/AlleyCargoIcon/AlleyCargoIconLock_103.png",
+    "GoodsConfig": "Config/Gameplays/Alley/AlleyShipment/AlleyShipment_Goods_Carton_01a.json",
+    "GoodsPic": "SpriteOutput/Quest/Alley/AlleyCargoIcon/AlleyCargoIcon_103.png",
+    "GoodsID": 103,
+    "GoodsProfit": 250
+  },
+  {
+    "RotateAudioEvent": "Ev_sfx_alleycargo_pottery_switch",
+    "SettleAudioEvent": "Ev_sfx_alleycargo_pottery_drop",
+    "GoodsPicLocked": "SpriteOutput/Quest/Alley/AlleyCargoIcon/AlleyCargoIconLock_201.png",
+    "GoodsConfig": "Config/Gameplays/Alley/AlleyShipment/AlleyShipment_Goods_Vase_08.json",
+    "GoodsPic": "SpriteOutput/Quest/Alley/AlleyCargoIcon/AlleyCargoIcon_201.png",
+    "GoodsID": 201,
+    "GoodsProfit": 150
+  },
+  {
+    "RotateAudioEvent": "Ev_sfx_alleycargo_pottery_switch",
+    "SettleAudioEvent": "Ev_sfx_alleycargo_pottery_drop",
+    "GoodsPicLocked": "SpriteOutput/Quest/Alley/AlleyCargoIcon/AlleyCargoIconLock_202.png",
+    "GoodsConfig": "Config/Gameplays/Alley/AlleyShipment/AlleyShipment_Goods_Bush_01.json",
+    "GoodsPic": "SpriteOutput/Quest/Alley/AlleyCargoIcon/AlleyCargoIcon_202.png",
+    "GoodsID": 202,
+    "GoodsProfit": 300
+  },
+  {
+    "RotateAudioEvent": "Ev_sfx_alleycargo_carpet_switch",
+    "SettleAudioEvent": "Ev_sfx_alleycargo_carpet_drop",
+    "GoodsPicLocked": "SpriteOutput/Quest/Alley/AlleyCargoIcon/AlleyCargoIconLock_203.png",
+    "GoodsConfig": "Config/Gameplays/Alley/AlleyShipment/AlleyShipment_Goods_Carpet_06a_01.json",
+    "GoodsPic": "SpriteOutput/Quest/Alley/AlleyCargoIcon/AlleyCargoIcon_203.png",
+    "GoodsID": 203,
+    "GoodsProfit": 150
+  },
+  {
+    "RotateAudioEvent": "Ev_sfx_alleycargo_woodbox_switch",
+    "SettleAudioEvent": "Ev_sfx_alleycargo_woodbox_drop",
+    "GoodsPicLocked": "SpriteOutput/Quest/Alley/AlleyCargoIcon/AlleyCargoIconLock_301.png",
+    "GoodsConfig": "Config/Gameplays/Alley/AlleyShipment/AlleyShipment_Goods_SteamedBuns_01.json",
+    "GoodsPic": "SpriteOutput/Quest/Alley/AlleyCargoIcon/AlleyCargoIcon_301.png",
+    "GoodsID": 301,
+    "GoodsProfit": 200
+  },
+  {
+    "RotateAudioEvent": "Ev_sfx_alleycargo_woodchair_switch",
+    "SettleAudioEvent": "Ev_sfx_alleycargo_woodchair_drop",
+    "GoodsPicLocked": "SpriteOutput/Quest/Alley/AlleyCargoIcon/AlleyCargoIconLock_302.png",
+    "GoodsConfig": "Config/Gameplays/Alley/AlleyShipment/AlleyShipment_Goods_Chair_04.json",
+    "GoodsPic": "SpriteOutput/Quest/Alley/AlleyCargoIcon/AlleyCargoIcon_302.png",
+    "GoodsID": 302,
+    "GoodsProfit": 400
+  },
+  {
+    "RotateAudioEvent": "Ev_sfx_alleycargo_woodchair_switch",
+    "SettleAudioEvent": "Ev_sfx_alleycargo_woodchair_drop",
+    "GoodsPicLocked": "SpriteOutput/Quest/Alley/AlleyCargoIcon/AlleyCargoIconLock_303.png",
+    "GoodsConfig": "Config/Gameplays/Alley/AlleyShipment/AlleyShipment_Goods_Table_03.json",
+    "GoodsPic": "SpriteOutput/Quest/Alley/AlleyCargoIcon/AlleyCargoIcon_303.png",
+    "GoodsID": 303,
+    "GoodsProfit": 1200
+  },
+  {
+    "RotateAudioEvent": "Ev_sfx_alleycargo_seismograph_switch",
+    "SettleAudioEvent": "Ev_sfx_alleycargo_seismograph_drop",
+    "GoodsPicLocked": "SpriteOutput/Quest/Alley/AlleyCargoIcon/AlleyCargoIconLock_401.png",
+    "GoodsConfig": "Config/Gameplays/Alley/AlleyShipment/AlleyShipment_Goods_QiongGuan_01.json",
+    "GoodsPic": "SpriteOutput/Quest/Alley/AlleyCargoIcon/AlleyCargoIcon_401.png",
+    "GoodsID": 401,
+    "GoodsProfit": 750
+  },
+  {
+    "RotateAudioEvent": "Ev_sfx_alleycargo_jinren_switch",
+    "SettleAudioEvent": "Ev_sfx_alleycargo_jinren_drop",
+    "GoodsPicLocked": "SpriteOutput/Quest/Alley/AlleyCargoIcon/AlleyCargoIconLock_402.png",
+    "GoodsConfig": "Config/Gameplays/Alley/AlleyShipment/AlleyShipment_Goods_Mecha_03.json",
+    "GoodsPic": "SpriteOutput/Quest/Alley/AlleyCargoIcon/AlleyCargoIcon_402.png",
+    "GoodsID": 402,
+    "GoodsProfit": 1600
+  },
+  {
+    "RotateAudioEvent": "Ev_sfx_alleycargo_carpet_switch",
+    "SettleAudioEvent": "Ev_sfx_alleycargo_carpet_drop",
+    "GoodsPicLocked": "SpriteOutput/Quest/Alley/AlleyCargoIcon/AlleyCargoIconLock_403.png",
+    "GoodsConfig": "Config/Gameplays/Alley/AlleyShipment/AlleyShipment_Goods_Carpet_06b_01.json",
+    "GoodsPic": "SpriteOutput/Quest/Alley/AlleyCargoIcon/AlleyCargoIcon_403.png",
+    "GoodsID": 403,
+    "GoodsProfit": 1100
+  },
+  {
+    "RotateAudioEvent": "Ev_sfx_alleycargo_woodbox_switch",
+    "SettleAudioEvent": "Ev_sfx_alleycargo_woodbox_drop",
+    "GoodsPicLocked": "SpriteOutput/Quest/Alley/AlleyCargoIcon/AlleyCargoIconLock_501.png",
+    "GoodsConfig": "Config/Gameplays/Alley/AlleyShipment/AlleyShipment_Goods_Carton_01e.json",
+    "GoodsPic": "SpriteOutput/Quest/Alley/AlleyCargoIcon/AlleyCargoIcon_501.png",
+    "GoodsID": 501,
+    "GoodsProfit": 550
+  },
+  {
+    "RotateAudioEvent": "Ev_sfx_alleycargo_woodbox_switch",
+    "SettleAudioEvent": "Ev_sfx_alleycargo_woodbox_drop",
+    "GoodsPicLocked": "SpriteOutput/Quest/Alley/AlleyCargoIcon/AlleyCargoIconLock_502.png",
+    "GoodsConfig": "Config/Gameplays/Alley/AlleyShipment/AlleyShipment_Goods_Desk_01.json",
+    "GoodsPic": "SpriteOutput/Quest/Alley/AlleyCargoIcon/AlleyCargoIcon_502.png",
+    "GoodsID": 502,
+    "GoodsProfit": 900
+  },
+  {
+    "RotateAudioEvent": "Ev_sfx_alleycargo_woodchair_switch",
+    "SettleAudioEvent": "Ev_sfx_alleycargo_woodchair_drop",
+    "GoodsPicLocked": "SpriteOutput/Quest/Alley/AlleyCargoIcon/AlleyCargoIconLock_503.png",
+    "GoodsConfig": "Config/Gameplays/Alley/AlleyShipment/AlleyShipment_Goods_Stretcher_01a.json",
+    "GoodsPic": "SpriteOutput/Quest/Alley/AlleyCargoIcon/AlleyCargoIcon_503.png",
+    "GoodsID": 503,
+    "GoodsProfit": 350
+  },
+  {
+    "RotateAudioEvent": "Ev_sfx_alleycargo_woodbox_switch",
+    "SettleAudioEvent": "Ev_sfx_alleycargo_woodbox_drop",
+    "GoodsPicLocked": "SpriteOutput/Quest/Alley/AlleyCargoIcon/AlleyCargoIconLock_601.png",
+    "GoodsConfig": "Config/Gameplays/Alley/AlleyShipment/AlleyShipment_Goods_CargoFruit_03.json",
+    "GoodsPic": "SpriteOutput/Quest/Alley/AlleyCargoIcon/AlleyCargoIcon_601.png",
+    "GoodsID": 601,
+    "GoodsProfit": 450
+  },
+  {
+    "RotateAudioEvent": "Ev_sfx_alleycargo_woodbox_switch",
+    "SettleAudioEvent": "Ev_sfx_alleycargo_woodbox_drop",
+    "GoodsPicLocked": "SpriteOutput/Quest/Alley/AlleyCargoIcon/AlleyCargoIconLock_602.png",
+    "GoodsConfig": "Config/Gameplays/Alley/AlleyShipment/AlleyShipment_Goods_CargoFruit_01.json",
+    "GoodsPic": "SpriteOutput/Quest/Alley/AlleyCargoIcon/AlleyCargoIcon_602.png",
+    "GoodsID": 602,
+    "GoodsProfit": 500
+  },
+  {
+    "RotateAudioEvent": "Ev_sfx_alleycargo_woodchair_switch",
+    "SettleAudioEvent": "Ev_sfx_alleycargo_woodchair_drop",
+    "GoodsPicLocked": "SpriteOutput/Quest/Alley/AlleyCargoIcon/AlleyCargoIconLock_603.png",
+    "GoodsConfig": "Config/Gameplays/Alley/AlleyShipment/AlleyShipment_Goods_ShenCe_Table_02.json",
+    "GoodsPic": "SpriteOutput/Quest/Alley/AlleyCargoIcon/AlleyCargoIcon_603.png",
+    "GoodsID": 603,
+    "GoodsProfit": 700
+  },
+  {
+    "RotateAudioEvent": "Ev_sfx_alleycargo_woodchair_switch",
+    "SettleAudioEvent": "Ev_sfx_alleycargo_woodchair_drop",
+    "GoodsPicLocked": "SpriteOutput/Quest/Alley/AlleyCargoIcon/AlleyCargoIconLock_701.png",
+    "GoodsConfig": "Config/Gameplays/Alley/AlleyShipment/AlleyShipment_Goods_Box_02.json",
+    "GoodsPic": "SpriteOutput/Quest/Alley/AlleyCargoIcon/AlleyCargoIcon_701.png",
+    "GoodsID": 701,
+    "GoodsProfit": 250
+  },
+  {
+    "RotateAudioEvent": "Ev_sfx_alleycargo_woodbox_switch",
+    "SettleAudioEvent": "Ev_sfx_alleycargo_woodbox_drop",
+    "GoodsPicLocked": "SpriteOutput/Quest/Alley/AlleyCargoIcon/AlleyCargoIconLock_702.png",
+    "GoodsConfig": "Config/Gameplays/Alley/AlleyShipment/AlleyShipment_Goods_Table_05.json",
+    "GoodsPic": "SpriteOutput/Quest/Alley/AlleyCargoIcon/AlleyCargoIcon_702.png",
+    "GoodsID": 702,
+    "GoodsProfit": 800
+  },
+  {
+    "RotateAudioEvent": "Ev_sfx_alleycargo_carpet_switch",
+    "SettleAudioEvent": "Ev_sfx_alleycargo_carpet_drop",
+    "GoodsPicLocked": "SpriteOutput/Quest/Alley/AlleyCargoIcon/AlleyCargoIconLock_703.png",
+    "GoodsConfig": "Config/Gameplays/Alley/AlleyShipment/AlleyShipment_Goods_Carpet_01.json",
+    "GoodsPic": "SpriteOutput/Quest/Alley/AlleyCargoIcon/AlleyCargoIcon_703.png",
+    "GoodsID": 703,
+    "GoodsProfit": 350
+  },
+  {
+    "RotateAudioEvent": "Ev_sfx_alleycargo_woodchair_switch",
+    "SettleAudioEvent": "Ev_sfx_alleycargo_woodchair_drop",
+    "GoodsPicLocked": "SpriteOutput/Quest/Alley/AlleyCargoIcon/AlleyCargoIconLock_801.png",
+    "GoodsConfig": "Config/Gameplays/Alley/AlleyShipment/AlleyShipment_Goods_Shelf_01.json",
+    "GoodsPic": "SpriteOutput/Quest/Alley/AlleyCargoIcon/AlleyCargoIcon_801.png",
+    "GoodsID": 801,
+    "GoodsProfit": 750
+  },
+  {
+    "RotateAudioEvent": "Ev_sfx_alleycargo_woodchair_switch",
+    "SettleAudioEvent": "Ev_sfx_alleycargo_woodchair_drop",
+    "GoodsPicLocked": "SpriteOutput/Quest/Alley/AlleyCargoIcon/AlleyCargoIconLock_802.png",
+    "GoodsConfig": "Config/Gameplays/Alley/AlleyShipment/AlleyShipment_Goods_ShenCe_Throne_01.json",
+    "GoodsPic": "SpriteOutput/Quest/Alley/AlleyCargoIcon/AlleyCargoIcon_802.png",
+    "GoodsID": 802,
+    "GoodsProfit": 1100
+  },
+  {
+    "RotateAudioEvent": "Ev_sfx_alleycargo_stele_switch",
+    "SettleAudioEvent": "Ev_sfx_alleycargo_stele_drop",
+    "GoodsPicLocked": "SpriteOutput/Quest/Alley/AlleyCargoIcon/AlleyCargoIconLock_803.png",
+    "GoodsConfig": "Config/Gameplays/Alley/AlleyShipment/AlleyShipment_Goods_StoneLion_01.json",
+    "GoodsPic": "SpriteOutput/Quest/Alley/AlleyCargoIcon/AlleyCargoIcon_803.png",
+    "GoodsID": 803,
+    "GoodsProfit": 2500
+  },
+  {
+    "RotateAudioEvent": "Ev_sfx_alleycargo_pottery_switch",
+    "SettleAudioEvent": "Ev_sfx_alleycargo_pottery_drop",
+    "GoodsPicLocked": "SpriteOutput/Quest/Alley/AlleyCargoIcon/AlleyCargoIconLock_901.png",
+    "GoodsConfig": "Config/Gameplays/Alley/AlleyShipment/AlleyShipment_Goods_WinePot_02b.json",
+    "GoodsPic": "SpriteOutput/Quest/Alley/AlleyCargoIcon/AlleyCargoIcon_901.png",
+    "GoodsID": 901,
+    "GoodsProfit": 300
+  },
+  {
+    "RotateAudioEvent": "Ev_sfx_alleycargo_pottery_switch",
+    "SettleAudioEvent": "Ev_sfx_alleycargo_pottery_drop",
+    "GoodsPicLocked": "SpriteOutput/Quest/Alley/AlleyCargoIcon/AlleyCargoIconLock_902.png",
+    "GoodsConfig": "Config/Gameplays/Alley/AlleyShipment/AlleyShipment_Goods_WinePot_01a.json",
+    "GoodsPic": "SpriteOutput/Quest/Alley/AlleyCargoIcon/AlleyCargoIcon_902.png",
+    "GoodsID": 902,
+    "GoodsProfit": 300
+  },
+  {
+    "RotateAudioEvent": "Ev_sfx_alleycargo_woodbox_switch",
+    "SettleAudioEvent": "Ev_sfx_alleycargo_woodbox_drop",
+    "GoodsPicLocked": "SpriteOutput/Quest/Alley/AlleyCargoIcon/AlleyCargoIconLock_903.png",
+    "GoodsConfig": "Config/Gameplays/Alley/AlleyShipment/AlleyShipment_Goods_MedicalCabinet_01a.json",
+    "GoodsPic": "SpriteOutput/Quest/Alley/AlleyCargoIcon/AlleyCargoIcon_903.png",
+    "GoodsID": 903,
+    "GoodsProfit": 900
+  },
+  {
+    "RotateAudioEvent": "Ev_sfx_alleycargo_container_switch",
+    "SettleAudioEvent": "Ev_sfx_alleycargo_container_drop",
+    "GoodsPicLocked": "SpriteOutput/Quest/Alley/AlleyCargoIcon/AlleyCargoIconLock_1001.png",
+    "GoodsConfig": "Config/Gameplays/Alley/AlleyShipment/AlleyShipment_Goods_Container_03_Red_01.json",
+    "GoodsPic": "SpriteOutput/Quest/Alley/AlleyCargoIcon/AlleyCargoIcon_1001.png",
+    "GoodsID": 1001,
+    "GoodsProfit": 1
+  },
+  {
+    "RotateAudioEvent": "Ev_sfx_alleycargo_container_switch",
+    "SettleAudioEvent": "Ev_sfx_alleycargo_container_drop",
+    "GoodsPicLocked": "SpriteOutput/Quest/Alley/AlleyCargoIcon/AlleyCargoIconLock_1001.png",
+    "GoodsConfig": "Config/Gameplays/Alley/AlleyShipment/AlleyShipment_Goods_Container_03_Red_01.json",
+    "GoodsPic": "SpriteOutput/Quest/Alley/AlleyCargoIcon/AlleyCargoIcon_1001.png",
+    "GoodsID": 1002,
+    "GoodsProfit": 1
+  },
+  {
+    "RotateAudioEvent": "Ev_sfx_alleycargo_container_switch",
+    "SettleAudioEvent": "Ev_sfx_alleycargo_container_drop",
+    "GoodsPicLocked": "SpriteOutput/Quest/Alley/AlleyCargoIcon/AlleyCargoIconLock_1001.png",
+    "GoodsConfig": "Config/Gameplays/Alley/AlleyShipment/AlleyShipment_Goods_Container_03_Red_01.json",
+    "GoodsPic": "SpriteOutput/Quest/Alley/AlleyCargoIcon/AlleyCargoIcon_1001.png",
+    "GoodsID": 1003,
+    "GoodsProfit": 1
+  }
+]

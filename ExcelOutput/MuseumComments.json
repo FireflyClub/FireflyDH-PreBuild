@@ -1,0 +1,1046 @@
+[
+  {
+    "CommentIconPath": "SpriteOutput/AvatarIcon/NPC/11115.png",
+    "IsPositive": true,
+    "CommentContent": {
+      "Hash": 373182238
+    },
+    "CommentID": 1,
+    "AreaID": 1,
+    "CommentName": {
+      "Hash": 1109551572
+    }
+  },
+  {
+    "CommentIconPath": "SpriteOutput/AvatarIcon/NPC/11402.png",
+    "IsPositive": true,
+    "CommentContent": {
+      "Hash": -1192901703
+    },
+    "CommentID": 2,
+    "AreaID": 1,
+    "CommentName": {
+      "Hash": 1109551572
+    }
+  },
+  {
+    "CommentIconPath": "SpriteOutput/AvatarIcon/NPC/11228.png",
+    "IsPositive": true,
+    "CommentContent": {
+      "Hash": 1535981652
+    },
+    "CommentID": 3,
+    "AreaID": 1,
+    "CommentName": {
+      "Hash": 1109551572
+    }
+  },
+  {
+    "CommentIconPath": "SpriteOutput/AvatarIcon/NPC/11206.png",
+    "IsPositive": true,
+    "CommentContent": {
+      "Hash": -386332649
+    },
+    "CommentID": 4,
+    "AreaID": 1,
+    "CommentName": {
+      "Hash": 1109551572
+    }
+  },
+  {
+    "CommentIconPath": "SpriteOutput/AvatarIcon/NPC/11302.png",
+    "IsPositive": true,
+    "CommentContent": {
+      "Hash": -1952416590
+    },
+    "CommentID": 5,
+    "AreaID": 1,
+    "CommentName": {
+      "Hash": 1109551572
+    }
+  },
+  {
+    "CommentIconPath": "SpriteOutput/AvatarIcon/NPC/11212.png",
+    "IsPositive": true,
+    "CommentContent": {
+      "Hash": 776466765
+    },
+    "CommentID": 6,
+    "AreaID": 1,
+    "CommentName": {
+      "Hash": 1109551572
+    }
+  },
+  {
+    "CommentIconPath": "SpriteOutput/AvatarIcon/NPC/11214.png",
+    "IsPositive": true,
+    "CommentContent": {
+      "Hash": -789617176
+    },
+    "CommentID": 7,
+    "AreaID": 1,
+    "CommentName": {
+      "Hash": 1109551572
+    }
+  },
+  {
+    "CommentIconPath": "SpriteOutput/AvatarIcon/NPC/11306.png",
+    "IsPositive": true,
+    "CommentContent": {
+      "Hash": 1583035819
+    },
+    "CommentID": 8,
+    "AreaID": 1,
+    "CommentName": {
+      "Hash": 1109551572
+    }
+  },
+  {
+    "CommentIconPath": "SpriteOutput/AvatarIcon/NPC/11212.png",
+    "IsPositive": false,
+    "CommentContent": {
+      "Hash": -127358304
+    },
+    "CommentID": 13,
+    "AreaID": 1,
+    "CommentName": {
+      "Hash": 1109551572
+    }
+  },
+  {
+    "CommentIconPath": "SpriteOutput/AvatarIcon/NPC/11213.png",
+    "IsPositive": false,
+    "CommentContent": {
+      "Hash": -127358305
+    },
+    "CommentID": 14,
+    "AreaID": 1,
+    "CommentName": {
+      "Hash": 1109551572
+    }
+  },
+  {
+    "CommentIconPath": "SpriteOutput/AvatarIcon/NPC/11214.png",
+    "IsPositive": false,
+    "CommentContent": {
+      "Hash": -127358306
+    },
+    "CommentID": 15,
+    "AreaID": 1,
+    "CommentName": {
+      "Hash": 1109551572
+    }
+  },
+  {
+    "CommentIconPath": "SpriteOutput/AvatarIcon/NPC/11104.png",
+    "IsPositive": false,
+    "CommentContent": {
+      "Hash": -127358299
+    },
+    "CommentID": 16,
+    "AreaID": 1,
+    "CommentName": {
+      "Hash": 1109551572
+    }
+  },
+  {
+    "CommentIconPath": "SpriteOutput/AvatarIcon/NPC/11114.png",
+    "IsPositive": false,
+    "CommentContent": {
+      "Hash": -127358300
+    },
+    "CommentID": 17,
+    "AreaID": 1,
+    "CommentName": {
+      "Hash": 1109551572
+    }
+  },
+  {
+    "CommentIconPath": "SpriteOutput/AvatarIcon/NPC/11115.png",
+    "IsPositive": false,
+    "CommentContent": {
+      "Hash": -127358301
+    },
+    "CommentID": 18,
+    "AreaID": 1,
+    "CommentName": {
+      "Hash": 1109551572
+    }
+  },
+  {
+    "CommentIconPath": "SpriteOutput/AvatarIcon/NPC/11203.png",
+    "IsPositive": false,
+    "CommentContent": {
+      "Hash": -127358302
+    },
+    "CommentID": 19,
+    "AreaID": 1,
+    "CommentName": {
+      "Hash": 1109551572
+    }
+  },
+  {
+    "CommentIconPath": "SpriteOutput/AvatarIcon/NPC/11206.png",
+    "IsPositive": false,
+    "CommentContent": {
+      "Hash": -127358295
+    },
+    "CommentID": 20,
+    "AreaID": 1,
+    "CommentName": {
+      "Hash": 1109551572
+    }
+  },
+  {
+    "CommentIconPath": "SpriteOutput/AvatarIcon/NPC/11218.png",
+    "IsPositive": false,
+    "CommentContent": {
+      "Hash": -127358296
+    },
+    "CommentID": 21,
+    "AreaID": 1,
+    "CommentName": {
+      "Hash": 1109551572
+    }
+  },
+  {
+    "CommentIconPath": "SpriteOutput/AvatarIcon/NPC/11228.png",
+    "IsPositive": false,
+    "CommentContent": {
+      "Hash": -537767600
+    },
+    "CommentID": 22,
+    "AreaID": 1,
+    "CommentName": {
+      "Hash": 1109551572
+    }
+  },
+  {
+    "CommentIconPath": "SpriteOutput/AvatarIcon/NPC/11301.png",
+    "IsPositive": false,
+    "CommentContent": {
+      "Hash": 1028316341
+    },
+    "CommentID": 23,
+    "AreaID": 1,
+    "CommentName": {
+      "Hash": 1109551572
+    }
+  },
+  {
+    "CommentIconPath": "SpriteOutput/AvatarIcon/NPC/11402.png",
+    "IsPositive": false,
+    "CommentContent": {
+      "Hash": 625031814
+    },
+    "CommentID": 24,
+    "AreaID": 1,
+    "CommentName": {
+      "Hash": 1109551572
+    }
+  },
+  {
+    "CommentIconPath": "SpriteOutput/AvatarIcon/NPC/11115.png",
+    "IsPositive": true,
+    "CommentContent": {
+      "Hash": 1636738201
+    },
+    "CommentID": 25,
+    "AreaID": 2,
+    "CommentName": {
+      "Hash": 1109551572
+    }
+  },
+  {
+    "CommentIconPath": "SpriteOutput/AvatarIcon/NPC/11203.png",
+    "IsPositive": true,
+    "CommentContent": {
+      "Hash": -1092145154
+    },
+    "CommentID": 26,
+    "AreaID": 2,
+    "CommentName": {
+      "Hash": 1109551572
+    }
+  },
+  {
+    "CommentIconPath": "SpriteOutput/AvatarIcon/NPC/11228.png",
+    "IsPositive": true,
+    "CommentContent": {
+      "Hash": 473938787
+    },
+    "CommentID": 27,
+    "AreaID": 2,
+    "CommentName": {
+      "Hash": 1109551572
+    }
+  },
+  {
+    "CommentIconPath": "SpriteOutput/AvatarIcon/NPC/11206.png",
+    "IsPositive": true,
+    "CommentContent": {
+      "Hash": 2040022728
+    },
+    "CommentID": 28,
+    "AreaID": 2,
+    "CommentName": {
+      "Hash": 1109551572
+    }
+  },
+  {
+    "CommentIconPath": "SpriteOutput/AvatarIcon/NPC/11402.png",
+    "IsPositive": true,
+    "CommentContent": {
+      "Hash": -688860627
+    },
+    "CommentID": 29,
+    "AreaID": 2,
+    "CommentName": {
+      "Hash": 1109551572
+    }
+  },
+  {
+    "CommentIconPath": "SpriteOutput/AvatarIcon/NPC/11114.png",
+    "IsPositive": true,
+    "CommentContent": {
+      "Hash": 877223314
+    },
+    "CommentID": 30,
+    "AreaID": 2,
+    "CommentName": {
+      "Hash": 1109551572
+    }
+  },
+  {
+    "CommentIconPath": "SpriteOutput/AvatarIcon/NPC/11214.png",
+    "IsPositive": true,
+    "CommentContent": {
+      "Hash": -1851660041
+    },
+    "CommentID": 31,
+    "AreaID": 2,
+    "CommentName": {
+      "Hash": 1109551572
+    }
+  },
+  {
+    "CommentIconPath": "SpriteOutput/AvatarIcon/NPC/11306.png",
+    "IsPositive": true,
+    "CommentContent": {
+      "Hash": -285576100
+    },
+    "CommentID": 32,
+    "AreaID": 2,
+    "CommentName": {
+      "Hash": 1109551572
+    }
+  },
+  {
+    "CommentIconPath": "SpriteOutput/AvatarIcon/NPC/11212.png",
+    "IsPositive": false,
+    "CommentContent": {
+      "Hash": -127358304
+    },
+    "CommentID": 37,
+    "AreaID": 2,
+    "CommentName": {
+      "Hash": 1109551572
+    }
+  },
+  {
+    "CommentIconPath": "SpriteOutput/AvatarIcon/NPC/11213.png",
+    "IsPositive": false,
+    "CommentContent": {
+      "Hash": -127358305
+    },
+    "CommentID": 38,
+    "AreaID": 2,
+    "CommentName": {
+      "Hash": 1109551572
+    }
+  },
+  {
+    "CommentIconPath": "SpriteOutput/AvatarIcon/NPC/11214.png",
+    "IsPositive": false,
+    "CommentContent": {
+      "Hash": -127358306
+    },
+    "CommentID": 39,
+    "AreaID": 2,
+    "CommentName": {
+      "Hash": 1109551572
+    }
+  },
+  {
+    "CommentIconPath": "SpriteOutput/AvatarIcon/NPC/11104.png",
+    "IsPositive": false,
+    "CommentContent": {
+      "Hash": -127358299
+    },
+    "CommentID": 40,
+    "AreaID": 2,
+    "CommentName": {
+      "Hash": 1109551572
+    }
+  },
+  {
+    "CommentIconPath": "SpriteOutput/AvatarIcon/NPC/11114.png",
+    "IsPositive": false,
+    "CommentContent": {
+      "Hash": -127358300
+    },
+    "CommentID": 41,
+    "AreaID": 2,
+    "CommentName": {
+      "Hash": 1109551572
+    }
+  },
+  {
+    "CommentIconPath": "SpriteOutput/AvatarIcon/NPC/11115.png",
+    "IsPositive": false,
+    "CommentContent": {
+      "Hash": -127358301
+    },
+    "CommentID": 42,
+    "AreaID": 2,
+    "CommentName": {
+      "Hash": 1109551572
+    }
+  },
+  {
+    "CommentIconPath": "SpriteOutput/AvatarIcon/NPC/11203.png",
+    "IsPositive": false,
+    "CommentContent": {
+      "Hash": -127358302
+    },
+    "CommentID": 43,
+    "AreaID": 2,
+    "CommentName": {
+      "Hash": 1109551572
+    }
+  },
+  {
+    "CommentIconPath": "SpriteOutput/AvatarIcon/NPC/11206.png",
+    "IsPositive": false,
+    "CommentContent": {
+      "Hash": -127358295
+    },
+    "CommentID": 44,
+    "AreaID": 2,
+    "CommentName": {
+      "Hash": 1109551572
+    }
+  },
+  {
+    "CommentIconPath": "SpriteOutput/AvatarIcon/NPC/11218.png",
+    "IsPositive": false,
+    "CommentContent": {
+      "Hash": -127358296
+    },
+    "CommentID": 45,
+    "AreaID": 2,
+    "CommentName": {
+      "Hash": 1109551572
+    }
+  },
+  {
+    "CommentIconPath": "SpriteOutput/AvatarIcon/NPC/11228.png",
+    "IsPositive": false,
+    "CommentContent": {
+      "Hash": -537767600
+    },
+    "CommentID": 46,
+    "AreaID": 2,
+    "CommentName": {
+      "Hash": 1109551572
+    }
+  },
+  {
+    "CommentIconPath": "SpriteOutput/AvatarIcon/NPC/11301.png",
+    "IsPositive": false,
+    "CommentContent": {
+      "Hash": 1028316341
+    },
+    "CommentID": 47,
+    "AreaID": 2,
+    "CommentName": {
+      "Hash": 1109551572
+    }
+  },
+  {
+    "CommentIconPath": "SpriteOutput/AvatarIcon/NPC/11402.png",
+    "IsPositive": false,
+    "CommentContent": {
+      "Hash": 625031814
+    },
+    "CommentID": 48,
+    "AreaID": 2,
+    "CommentName": {
+      "Hash": 1109551572
+    }
+  },
+  {
+    "CommentIconPath": "SpriteOutput/AvatarIcon/NPC/11114.png",
+    "IsPositive": true,
+    "CommentContent": {
+      "Hash": 90857236
+    },
+    "CommentID": 49,
+    "AreaID": 3,
+    "CommentName": {
+      "Hash": 1109551572
+    }
+  },
+  {
+    "CommentIconPath": "SpriteOutput/AvatarIcon/NPC/11402.png",
+    "IsPositive": true,
+    "CommentContent": {
+      "Hash": 494141763
+    },
+    "CommentID": 50,
+    "AreaID": 3,
+    "CommentName": {
+      "Hash": 1109551572
+    }
+  },
+  {
+    "CommentIconPath": "SpriteOutput/AvatarIcon/NPC/11228.png",
+    "IsPositive": true,
+    "CommentContent": {
+      "Hash": -1071942178
+    },
+    "CommentID": 51,
+    "AreaID": 3,
+    "CommentName": {
+      "Hash": 1109551572
+    }
+  },
+  {
+    "CommentIconPath": "SpriteOutput/AvatarIcon/NPC/11206.png",
+    "IsPositive": true,
+    "CommentContent": {
+      "Hash": -668657651
+    },
+    "CommentID": 52,
+    "AreaID": 3,
+    "CommentName": {
+      "Hash": 1109551572
+    }
+  },
+  {
+    "CommentIconPath": "SpriteOutput/AvatarIcon/NPC/11302.png",
+    "IsPositive": true,
+    "CommentContent": {
+      "Hash": 2060225704
+    },
+    "CommentID": 53,
+    "AreaID": 3,
+    "CommentName": {
+      "Hash": 1109551572
+    }
+  },
+  {
+    "CommentIconPath": "SpriteOutput/AvatarIcon/NPC/11212.png",
+    "IsPositive": true,
+    "CommentContent": {
+      "Hash": -1831457065
+    },
+    "CommentID": 54,
+    "AreaID": 3,
+    "CommentName": {
+      "Hash": 1109551572
+    }
+  },
+  {
+    "CommentIconPath": "SpriteOutput/AvatarIcon/NPC/11115.png",
+    "IsPositive": true,
+    "CommentContent": {
+      "Hash": 897426290
+    },
+    "CommentID": 55,
+    "AreaID": 3,
+    "CommentName": {
+      "Hash": 1109551572
+    }
+  },
+  {
+    "CommentIconPath": "SpriteOutput/AvatarIcon/NPC/11306.png",
+    "IsPositive": true,
+    "CommentContent": {
+      "Hash": 1300710817
+    },
+    "CommentID": 56,
+    "AreaID": 3,
+    "CommentName": {
+      "Hash": 1109551572
+    }
+  },
+  {
+    "CommentIconPath": "SpriteOutput/AvatarIcon/NPC/11213.png",
+    "IsPositive": true,
+    "CommentContent": {
+      "Hash": -265373124
+    },
+    "CommentID": 57,
+    "AreaID": 3,
+    "CommentName": {
+      "Hash": 1109551572
+    }
+  },
+  {
+    "CommentIconPath": "SpriteOutput/AvatarIcon/NPC/11218.png",
+    "IsPositive": true,
+    "CommentContent": {
+      "Hash": -1416785020
+    },
+    "CommentID": 58,
+    "AreaID": 3,
+    "CommentName": {
+      "Hash": 1109551572
+    }
+  },
+  {
+    "CommentIconPath": "SpriteOutput/AvatarIcon/NPC/11104.png",
+    "IsPositive": true,
+    "CommentContent": {
+      "Hash": -1416785019
+    },
+    "CommentID": 59,
+    "AreaID": 3,
+    "CommentName": {
+      "Hash": 1109551572
+    }
+  },
+  {
+    "CommentIconPath": "SpriteOutput/AvatarIcon/NPC/11212.png",
+    "IsPositive": false,
+    "CommentContent": {
+      "Hash": -127358304
+    },
+    "CommentID": 60,
+    "AreaID": 3,
+    "CommentName": {
+      "Hash": 1109551572
+    }
+  },
+  {
+    "CommentIconPath": "SpriteOutput/AvatarIcon/NPC/11213.png",
+    "IsPositive": false,
+    "CommentContent": {
+      "Hash": -127358305
+    },
+    "CommentID": 61,
+    "AreaID": 3,
+    "CommentName": {
+      "Hash": 1109551572
+    }
+  },
+  {
+    "CommentIconPath": "SpriteOutput/AvatarIcon/NPC/11214.png",
+    "IsPositive": false,
+    "CommentContent": {
+      "Hash": -127358306
+    },
+    "CommentID": 62,
+    "AreaID": 3,
+    "CommentName": {
+      "Hash": 1109551572
+    }
+  },
+  {
+    "CommentIconPath": "SpriteOutput/AvatarIcon/NPC/11104.png",
+    "IsPositive": false,
+    "CommentContent": {
+      "Hash": -127358299
+    },
+    "CommentID": 63,
+    "AreaID": 3,
+    "CommentName": {
+      "Hash": 1109551572
+    }
+  },
+  {
+    "CommentIconPath": "SpriteOutput/AvatarIcon/NPC/11114.png",
+    "IsPositive": false,
+    "CommentContent": {
+      "Hash": -127358300
+    },
+    "CommentID": 64,
+    "AreaID": 3,
+    "CommentName": {
+      "Hash": 1109551572
+    }
+  },
+  {
+    "CommentIconPath": "SpriteOutput/AvatarIcon/NPC/11115.png",
+    "IsPositive": false,
+    "CommentContent": {
+      "Hash": -127358301
+    },
+    "CommentID": 65,
+    "AreaID": 3,
+    "CommentName": {
+      "Hash": 1109551572
+    }
+  },
+  {
+    "CommentIconPath": "SpriteOutput/AvatarIcon/NPC/11203.png",
+    "IsPositive": false,
+    "CommentContent": {
+      "Hash": -127358302
+    },
+    "CommentID": 66,
+    "AreaID": 3,
+    "CommentName": {
+      "Hash": 1109551572
+    }
+  },
+  {
+    "CommentIconPath": "SpriteOutput/AvatarIcon/NPC/11206.png",
+    "IsPositive": false,
+    "CommentContent": {
+      "Hash": -127358295
+    },
+    "CommentID": 67,
+    "AreaID": 3,
+    "CommentName": {
+      "Hash": 1109551572
+    }
+  },
+  {
+    "CommentIconPath": "SpriteOutput/AvatarIcon/NPC/11218.png",
+    "IsPositive": false,
+    "CommentContent": {
+      "Hash": -127358296
+    },
+    "CommentID": 68,
+    "AreaID": 3,
+    "CommentName": {
+      "Hash": 1109551572
+    }
+  },
+  {
+    "CommentIconPath": "SpriteOutput/AvatarIcon/NPC/11228.png",
+    "IsPositive": false,
+    "CommentContent": {
+      "Hash": -537767600
+    },
+    "CommentID": 69,
+    "AreaID": 3,
+    "CommentName": {
+      "Hash": 1109551572
+    }
+  },
+  {
+    "CommentIconPath": "SpriteOutput/AvatarIcon/NPC/11301.png",
+    "IsPositive": false,
+    "CommentContent": {
+      "Hash": 1028316341
+    },
+    "CommentID": 70,
+    "AreaID": 3,
+    "CommentName": {
+      "Hash": 1109551572
+    }
+  },
+  {
+    "CommentIconPath": "SpriteOutput/AvatarIcon/NPC/11402.png",
+    "IsPositive": false,
+    "CommentContent": {
+      "Hash": 625031814
+    },
+    "CommentID": 71,
+    "AreaID": 3,
+    "CommentName": {
+      "Hash": 1109551572
+    }
+  },
+  {
+    "CommentIconPath": "SpriteOutput/AvatarIcon/NPC/11115.png",
+    "IsPositive": true,
+    "CommentContent": {
+      "Hash": -1811254089
+    },
+    "CommentID": 72,
+    "AreaID": 4,
+    "CommentName": {
+      "Hash": 1109551572
+    }
+  },
+  {
+    "CommentIconPath": "SpriteOutput/AvatarIcon/NPC/11402.png",
+    "IsPositive": true,
+    "CommentContent": {
+      "Hash": 2080428680
+    },
+    "CommentID": 73,
+    "AreaID": 4,
+    "CommentName": {
+      "Hash": 1109551572
+    }
+  },
+  {
+    "CommentIconPath": "SpriteOutput/AvatarIcon/NPC/11228.png",
+    "IsPositive": true,
+    "CommentContent": {
+      "Hash": -648454675
+    },
+    "CommentID": 74,
+    "AreaID": 4,
+    "CommentName": {
+      "Hash": 1109551572
+    }
+  },
+  {
+    "CommentIconPath": "SpriteOutput/AvatarIcon/NPC/11206.png",
+    "IsPositive": true,
+    "CommentContent": {
+      "Hash": -1051739202
+    },
+    "CommentID": 75,
+    "AreaID": 4,
+    "CommentName": {
+      "Hash": 1109551572
+    }
+  },
+  {
+    "CommentIconPath": "SpriteOutput/AvatarIcon/NPC/11302.png",
+    "IsPositive": true,
+    "CommentContent": {
+      "Hash": 514344739
+    },
+    "CommentID": 76,
+    "AreaID": 4,
+    "CommentName": {
+      "Hash": 1109551572
+    }
+  },
+  {
+    "CommentIconPath": "SpriteOutput/AvatarIcon/NPC/11212.png",
+    "IsPositive": true,
+    "CommentContent": {
+      "Hash": 111060212
+    },
+    "CommentID": 77,
+    "AreaID": 4,
+    "CommentName": {
+      "Hash": 1109551572
+    }
+  },
+  {
+    "CommentIconPath": "SpriteOutput/AvatarIcon/NPC/11214.png",
+    "IsPositive": true,
+    "CommentContent": {
+      "Hash": 1677144153
+    },
+    "CommentID": 78,
+    "AreaID": 4,
+    "CommentName": {
+      "Hash": 1109551572
+    }
+  },
+  {
+    "CommentIconPath": "SpriteOutput/AvatarIcon/NPC/11306.png",
+    "IsPositive": true,
+    "CommentContent": {
+      "Hash": 561398906
+    },
+    "CommentID": 79,
+    "AreaID": 4,
+    "CommentName": {
+      "Hash": 1109551572
+    }
+  },
+  {
+    "CommentIconPath": "SpriteOutput/AvatarIcon/NPC/11213.png",
+    "IsPositive": true,
+    "CommentContent": {
+      "Hash": 2127482847
+    },
+    "CommentID": 80,
+    "AreaID": 4,
+    "CommentName": {
+      "Hash": 1109551572
+    }
+  },
+  {
+    "CommentIconPath": "SpriteOutput/AvatarIcon/NPC/11218.png",
+    "IsPositive": true,
+    "CommentContent": {
+      "Hash": 976070951
+    },
+    "CommentID": 81,
+    "AreaID": 4,
+    "CommentName": {
+      "Hash": 1109551572
+    }
+  },
+  {
+    "CommentIconPath": "SpriteOutput/AvatarIcon/NPC/11104.png",
+    "IsPositive": true,
+    "CommentContent": {
+      "Hash": 976070952
+    },
+    "CommentID": 82,
+    "AreaID": 4,
+    "CommentName": {
+      "Hash": 1109551572
+    }
+  },
+  {
+    "CommentIconPath": "SpriteOutput/AvatarIcon/NPC/11209.png",
+    "IsPositive": true,
+    "CommentContent": {
+      "Hash": 976070953
+    },
+    "CommentID": 83,
+    "AreaID": 4,
+    "CommentName": {
+      "Hash": 1109551572
+    }
+  },
+  {
+    "CommentIconPath": "SpriteOutput/AvatarIcon/NPC/11212.png",
+    "IsPositive": false,
+    "CommentContent": {
+      "Hash": -127358304
+    },
+    "CommentID": 84,
+    "AreaID": 4,
+    "CommentName": {
+      "Hash": 1109551572
+    }
+  },
+  {
+    "CommentIconPath": "SpriteOutput/AvatarIcon/NPC/11213.png",
+    "IsPositive": false,
+    "CommentContent": {
+      "Hash": -127358305
+    },
+    "CommentID": 85,
+    "AreaID": 4,
+    "CommentName": {
+      "Hash": 1109551572
+    }
+  },
+  {
+    "CommentIconPath": "SpriteOutput/AvatarIcon/NPC/11214.png",
+    "IsPositive": false,
+    "CommentContent": {
+      "Hash": -127358306
+    },
+    "CommentID": 86,
+    "AreaID": 4,
+    "CommentName": {
+      "Hash": 1109551572
+    }
+  },
+  {
+    "CommentIconPath": "SpriteOutput/AvatarIcon/NPC/11104.png",
+    "IsPositive": false,
+    "CommentContent": {
+      "Hash": -127358299
+    },
+    "CommentID": 87,
+    "AreaID": 4,
+    "CommentName": {
+      "Hash": 1109551572
+    }
+  },
+  {
+    "CommentIconPath": "SpriteOutput/AvatarIcon/NPC/11114.png",
+    "IsPositive": false,
+    "CommentContent": {
+      "Hash": -127358300
+    },
+    "CommentID": 88,
+    "AreaID": 4,
+    "CommentName": {
+      "Hash": 1109551572
+    }
+  },
+  {
+    "CommentIconPath": "SpriteOutput/AvatarIcon/NPC/11115.png",
+    "IsPositive": false,
+    "CommentContent": {
+      "Hash": -127358301
+    },
+    "CommentID": 89,
+    "AreaID": 4,
+    "CommentName": {
+      "Hash": 1109551572
+    }
+  },
+  {
+    "CommentIconPath": "SpriteOutput/AvatarIcon/NPC/11203.png",
+    "IsPositive": false,
+    "CommentContent": {
+      "Hash": -127358302
+    },
+    "CommentID": 90,
+    "AreaID": 4,
+    "CommentName": {
+      "Hash": 1109551572
+    }
+  },
+  {
+    "CommentIconPath": "SpriteOutput/AvatarIcon/NPC/11206.png",
+    "IsPositive": false,
+    "CommentContent": {
+      "Hash": -127358295
+    },
+    "CommentID": 91,
+    "AreaID": 4,
+    "CommentName": {
+      "Hash": 1109551572
+    }
+  },
+  {
+    "CommentIconPath": "SpriteOutput/AvatarIcon/NPC/11218.png",
+    "IsPositive": false,
+    "CommentContent": {
+      "Hash": -127358296
+    },
+    "CommentID": 92,
+    "AreaID": 4,
+    "CommentName": {
+      "Hash": 1109551572
+    }
+  },
+  {
+    "CommentIconPath": "SpriteOutput/AvatarIcon/NPC/11228.png",
+    "IsPositive": false,
+    "CommentContent": {
+      "Hash": -537767600
+    },
+    "CommentID": 93,
+    "AreaID": 4,
+    "CommentName": {
+      "Hash": 1109551572
+    }
+  },
+  {
+    "CommentIconPath": "SpriteOutput/AvatarIcon/NPC/11301.png",
+    "IsPositive": false,
+    "CommentContent": {
+      "Hash": 1028316341
+    },
+    "CommentID": 94,
+    "AreaID": 4,
+    "CommentName": {
+      "Hash": 1109551572
+    }
+  },
+  {
+    "CommentIconPath": "SpriteOutput/AvatarIcon/NPC/11402.png",
+    "IsPositive": false,
+    "CommentContent": {
+      "Hash": 625031814
+    },
+    "CommentID": 95,
+    "AreaID": 4,
+    "CommentName": {
+      "Hash": 1109551572
+    }
+  }
+]

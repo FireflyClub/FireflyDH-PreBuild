@@ -1,0 +1,74 @@
+[
+  {
+    "IconPath": "SpriteOutput/UI/Quest/AetherDivide/Level/AetherDivideLevelTab01.png",
+    "ActivityModuleID": 5000501,
+    "FunctionUnlockID": 100005,
+    "PreRank": 0,
+    "IsHard": false,
+    "ChallengeRank": 1,
+    "TrainerLevel": 1,
+    "UnlockText": {
+      "Hash": 234402333
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/UI/Quest/AetherDivide/Level/AetherDivideLevelTab02.png",
+    "ActivityModuleID": 5000501,
+    "FunctionUnlockID": 100005,
+    "PreRank": 1,
+    "IsHard": false,
+    "ChallengeRank": 2,
+    "TrainerLevel": 1,
+    "UnlockText": {
+      "Hash": -378286366
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/UI/Quest/AetherDivide/Level/AetherDivideLevelTab03.png",
+    "ActivityModuleID": 5000501,
+    "FunctionUnlockID": 100005,
+    "PreRank": 2,
+    "IsHard": false,
+    "ChallengeRank": 3,
+    "TrainerLevel": 1,
+    "UnlockText": {
+      "Hash": -378286366
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/UI/Quest/AetherDivide/Level/AetherDivideLevelTab04.png",
+    "ActivityModuleID": 5000501,
+    "FunctionUnlockID": 100005,
+    "PreRank": 3,
+    "IsHard": false,
+    "ChallengeRank": 4,
+    "TrainerLevel": 1,
+    "UnlockText": {
+      "Hash": -378286366
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/UI/Quest/AetherDivide/Level/AetherDivideLevelTab05.png",
+    "ActivityModuleID": 5000501,
+    "FunctionUnlockID": 100015,
+    "PreRank": 4,
+    "IsHard": false,
+    "ChallengeRank": 5,
+    "TrainerLevel": 1,
+    "UnlockText": {
+      "Hash": 741971299
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/UI/Quest/AetherDivide/Level/AetherDivideLevelTab07.png",
+    "ActivityModuleID": 5000501,
+    "FunctionUnlockID": 100014,
+    "PreRank": 5,
+    "IsHard": true,
+    "ChallengeRank": 6,
+    "TrainerLevel": 1,
+    "UnlockText": {
+      "Hash": 741971299
+    }
+  }
+]

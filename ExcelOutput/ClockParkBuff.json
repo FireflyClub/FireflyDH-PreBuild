@@ -1,0 +1,590 @@
+[
+  {
+    "Times": 1,
+    "BuffTitle": {
+      "Hash": 371857150
+    },
+    "Param1": 2,
+    "Param3": 0,
+    "Param2": 0,
+    "BuffDesc": {
+      "Hash": -1555437359
+    },
+    "BuffType": "ThirdAttributeGainRate",
+    "BuffID": 4
+  },
+  {
+    "Times": 1,
+    "BuffTitle": {
+      "Hash": 371857150
+    },
+    "Param1": 2,
+    "Param3": 0,
+    "Param2": 0,
+    "BuffDesc": {
+      "Hash": 10646582
+    },
+    "BuffType": "FirstAttributeGainRate",
+    "BuffID": 5
+  },
+  {
+    "Times": 1,
+    "BuffTitle": {
+      "Hash": 371857150
+    },
+    "Param1": 2,
+    "Param3": 0,
+    "Param2": 0,
+    "BuffDesc": {
+      "Hash": -392637945
+    },
+    "BuffType": "SecondAttributeGainRate",
+    "BuffID": 6
+  },
+  {
+    "Times": 1,
+    "BuffTitle": {
+      "Hash": 371857150
+    },
+    "Param1": 3,
+    "Param3": 0,
+    "Param2": 0,
+    "BuffDesc": {
+      "Hash": 1173445996
+    },
+    "BuffType": "FirstAttributeGainRate",
+    "BuffID": 7
+  },
+  {
+    "Times": 1,
+    "BuffTitle": {
+      "Hash": 371857150
+    },
+    "Param1": 3,
+    "Param3": 0,
+    "Param2": 0,
+    "BuffDesc": {
+      "Hash": -1231119244
+    },
+    "BuffType": "SecondAttributeGainRate",
+    "BuffID": 16
+  },
+  {
+    "Times": 1,
+    "BuffTitle": {
+      "Hash": 371857150
+    },
+    "Param1": 3,
+    "Param3": 0,
+    "Param2": 0,
+    "BuffDesc": {
+      "Hash": -1231119245
+    },
+    "BuffType": "ThirdAttributeGainRate",
+    "BuffID": 17
+  },
+  {
+    "Times": 1,
+    "BuffTitle": {
+      "Hash": 371857150
+    },
+    "Param1": 1,
+    "Param3": 0,
+    "Param2": 0,
+    "BuffDesc": {
+      "Hash": -99001536
+    },
+    "BuffType": "FirstAttributeGainRate",
+    "BuffID": 201
+  },
+  {
+    "Times": 1,
+    "BuffTitle": {
+      "Hash": 371857150
+    },
+    "Param1": 2,
+    "Param3": 0,
+    "Param2": 0,
+    "BuffDesc": {
+      "Hash": 1467082405
+    },
+    "BuffType": "FirstAttributeGainRate",
+    "BuffID": 202
+  },
+  {
+    "Times": 1,
+    "BuffTitle": {
+      "Hash": 371857150
+    },
+    "Param1": 3,
+    "Param3": 0,
+    "Param2": 0,
+    "BuffDesc": {
+      "Hash": -1261800950
+    },
+    "BuffType": "FirstAttributeGainRate",
+    "BuffID": 203
+  },
+  {
+    "Times": 1,
+    "BuffTitle": {
+      "Hash": 371857150
+    },
+    "Param1": 4,
+    "Param3": 0,
+    "Param2": 0,
+    "BuffDesc": {
+      "Hash": 660513351
+    },
+    "BuffType": "FirstAttributeGainRate",
+    "BuffID": 204
+  },
+  {
+    "Times": 1,
+    "BuffTitle": {
+      "Hash": 371857150
+    },
+    "Param1": 5,
+    "Param3": 0,
+    "Param2": 0,
+    "BuffDesc": {
+      "Hash": -2068370004
+    },
+    "BuffType": "FirstAttributeGainRate",
+    "BuffID": 205
+  },
+  {
+    "Times": 1,
+    "BuffTitle": {
+      "Hash": 371857150
+    },
+    "Param1": 6,
+    "Param3": 0,
+    "Param2": 0,
+    "BuffDesc": {
+      "Hash": -502286063
+    },
+    "BuffType": "FirstAttributeGainRate",
+    "BuffID": 206
+  },
+  {
+    "Times": 1,
+    "BuffTitle": {
+      "Hash": 371857150
+    },
+    "Param1": 7,
+    "Param3": 0,
+    "Param2": 0,
+    "BuffDesc": {
+      "Hash": 1063797878
+    },
+    "BuffType": "FirstAttributeGainRate",
+    "BuffID": 207
+  },
+  {
+    "Times": 1,
+    "BuffTitle": {
+      "Hash": 371857150
+    },
+    "Param1": 8,
+    "Param3": 0,
+    "Param2": 0,
+    "BuffDesc": {
+      "Hash": -2021315837
+    },
+    "BuffType": "FirstAttributeGainRate",
+    "BuffID": 208
+  },
+  {
+    "Times": 1,
+    "BuffTitle": {
+      "Hash": 371857150
+    },
+    "Param1": 9,
+    "Param3": 0,
+    "Param2": 0,
+    "BuffDesc": {
+      "Hash": -455231896
+    },
+    "BuffType": "FirstAttributeGainRate",
+    "BuffID": 209
+  },
+  {
+    "Times": 1,
+    "BuffTitle": {
+      "Hash": 371857150
+    },
+    "Param1": 10,
+    "Param3": 0,
+    "Param2": 0,
+    "BuffDesc": {
+      "Hash": -1665085478
+    },
+    "BuffType": "FirstAttributeGainRate",
+    "BuffID": 210
+  },
+  {
+    "Times": 1,
+    "BuffTitle": {
+      "Hash": 371857150
+    },
+    "Param1": 11,
+    "Param3": 0,
+    "Param2": 0,
+    "BuffDesc": {
+      "Hash": -99001537
+    },
+    "BuffType": "FirstAttributeGainRate",
+    "BuffID": 211
+  },
+  {
+    "Times": 1,
+    "BuffTitle": {
+      "Hash": 371857150
+    },
+    "Param1": 12,
+    "Param3": 0,
+    "Param2": 0,
+    "BuffDesc": {
+      "Hash": 1467082404
+    },
+    "BuffType": "FirstAttributeGainRate",
+    "BuffID": 212
+  },
+  {
+    "Times": 1,
+    "BuffTitle": {
+      "Hash": 371857150
+    },
+    "Param1": 1,
+    "Param3": 0,
+    "Param2": 0,
+    "BuffDesc": {
+      "Hash": -1644882501
+    },
+    "BuffType": "SecondAttributeGainRate",
+    "BuffID": 301
+  },
+  {
+    "Times": 1,
+    "BuffTitle": {
+      "Hash": 371857150
+    },
+    "Param1": 2,
+    "Param3": 0,
+    "Param2": 0,
+    "BuffDesc": {
+      "Hash": -1241597974
+    },
+    "BuffType": "SecondAttributeGainRate",
+    "BuffID": 302
+  },
+  {
+    "Times": 1,
+    "BuffTitle": {
+      "Hash": 371857150
+    },
+    "Param1": 3,
+    "Param3": 0,
+    "Param2": 0,
+    "BuffDesc": {
+      "Hash": 1487285381
+    },
+    "BuffType": "SecondAttributeGainRate",
+    "BuffID": 303
+  },
+  {
+    "Times": 1,
+    "BuffTitle": {
+      "Hash": 371857150
+    },
+    "Param1": 4,
+    "Param3": 0,
+    "Param2": 0,
+    "BuffDesc": {
+      "Hash": -2048167028
+    },
+    "BuffType": "SecondAttributeGainRate",
+    "BuffID": 304
+  },
+  {
+    "Times": 1,
+    "BuffTitle": {
+      "Hash": 371857150
+    },
+    "Param1": 5,
+    "Param3": 0,
+    "Param2": 0,
+    "BuffDesc": {
+      "Hash": 680716327
+    },
+    "BuffType": "SecondAttributeGainRate",
+    "BuffID": 305
+  },
+  {
+    "Times": 1,
+    "BuffTitle": {
+      "Hash": 371857150
+    },
+    "Param1": 6,
+    "Param3": 0,
+    "Param2": 0,
+    "BuffDesc": {
+      "Hash": 1084000854
+    },
+    "BuffType": "SecondAttributeGainRate",
+    "BuffID": 306
+  },
+  {
+    "Times": 1,
+    "BuffTitle": {
+      "Hash": 371857150
+    },
+    "Param1": 7,
+    "Param3": 0,
+    "Param2": 0,
+    "BuffDesc": {
+      "Hash": -482083087
+    },
+    "BuffType": "SecondAttributeGainRate",
+    "BuffID": 307
+  },
+  {
+    "Times": 1,
+    "BuffTitle": {
+      "Hash": 371857150
+    },
+    "Param1": 8,
+    "Param3": 0,
+    "Param2": 0,
+    "BuffDesc": {
+      "Hash": -435028920
+    },
+    "BuffType": "SecondAttributeGainRate",
+    "BuffID": 308
+  },
+  {
+    "Times": 1,
+    "BuffTitle": {
+      "Hash": 371857150
+    },
+    "Param1": 9,
+    "Param3": 0,
+    "Param2": 0,
+    "BuffDesc": {
+      "Hash": -2001112861
+    },
+    "BuffType": "SecondAttributeGainRate",
+    "BuffID": 309
+  },
+  {
+    "Times": 1,
+    "BuffTitle": {
+      "Hash": 371857150
+    },
+    "Param1": 10,
+    "Param3": 0,
+    "Param2": 0,
+    "BuffDesc": {
+      "Hash": -78798561
+    },
+    "BuffType": "SecondAttributeGainRate",
+    "BuffID": 310
+  },
+  {
+    "Times": 1,
+    "BuffTitle": {
+      "Hash": 371857150
+    },
+    "Param1": 11,
+    "Param3": 0,
+    "Param2": 0,
+    "BuffDesc": {
+      "Hash": -1644882502
+    },
+    "BuffType": "SecondAttributeGainRate",
+    "BuffID": 311
+  },
+  {
+    "Times": 1,
+    "BuffTitle": {
+      "Hash": 371857150
+    },
+    "Param1": 12,
+    "Param3": 0,
+    "Param2": 0,
+    "BuffDesc": {
+      "Hash": -1241597975
+    },
+    "BuffType": "SecondAttributeGainRate",
+    "BuffID": 312
+  },
+  {
+    "Times": 1,
+    "BuffTitle": {
+      "Hash": 371857150
+    },
+    "Param1": 1,
+    "Param3": 0,
+    "Param2": 0,
+    "BuffDesc": {
+      "Hash": -381326538
+    },
+    "BuffType": "ThirdAttributeGainRate",
+    "BuffID": 401
+  },
+  {
+    "Times": 1,
+    "BuffTitle": {
+      "Hash": 371857150
+    },
+    "Param1": 2,
+    "Param3": 0,
+    "Param2": 0,
+    "BuffDesc": {
+      "Hash": -784611065
+    },
+    "BuffType": "ThirdAttributeGainRate",
+    "BuffID": 402
+  },
+  {
+    "Times": 1,
+    "BuffTitle": {
+      "Hash": 371857150
+    },
+    "Param1": 3,
+    "Param3": 0,
+    "Param2": 0,
+    "BuffDesc": {
+      "Hash": 781472876
+    },
+    "BuffType": "ThirdAttributeGainRate",
+    "BuffID": 403
+  },
+  {
+    "Times": 1,
+    "BuffTitle": {
+      "Hash": 371857150
+    },
+    "Param1": 4,
+    "Param3": 0,
+    "Param2": 0,
+    "BuffDesc": {
+      "Hash": 21957989
+    },
+    "BuffType": "ThirdAttributeGainRate",
+    "BuffID": 404
+  },
+  {
+    "Times": 1,
+    "BuffTitle": {
+      "Hash": 371857150
+    },
+    "Param1": 5,
+    "Param3": 0,
+    "Param2": 0,
+    "BuffDesc": {
+      "Hash": 1588041930
+    },
+    "BuffType": "ThirdAttributeGainRate",
+    "BuffID": 405
+  },
+  {
+    "Times": 1,
+    "BuffTitle": {
+      "Hash": 371857150
+    },
+    "Param1": 6,
+    "Param3": 0,
+    "Param2": 0,
+    "BuffDesc": {
+      "Hash": 1184757403
+    },
+    "BuffType": "ThirdAttributeGainRate",
+    "BuffID": 406
+  },
+  {
+    "Times": 1,
+    "BuffTitle": {
+      "Hash": 371857150
+    },
+    "Param1": 7,
+    "Param3": 0,
+    "Param2": 0,
+    "BuffDesc": {
+      "Hash": -1544125952
+    },
+    "BuffType": "ThirdAttributeGainRate",
+    "BuffID": 407
+  },
+  {
+    "Times": 1,
+    "BuffTitle": {
+      "Hash": 371857150
+    },
+    "Param1": 8,
+    "Param3": 0,
+    "Param2": 0,
+    "BuffDesc": {
+      "Hash": 1991326457
+    },
+    "BuffType": "ThirdAttributeGainRate",
+    "BuffID": 408
+  },
+  {
+    "Times": 1,
+    "BuffTitle": {
+      "Hash": 371857150
+    },
+    "Param1": 9,
+    "Param3": 0,
+    "Param2": 0,
+    "BuffDesc": {
+      "Hash": -737556898
+    },
+    "BuffType": "ThirdAttributeGainRate",
+    "BuffID": 409
+  },
+  {
+    "Times": 1,
+    "BuffTitle": {
+      "Hash": 371857150
+    },
+    "Param1": 10,
+    "Param3": 0,
+    "Param2": 0,
+    "BuffDesc": {
+      "Hash": -1947410480
+    },
+    "BuffType": "ThirdAttributeGainRate",
+    "BuffID": 410
+  },
+  {
+    "Times": 1,
+    "BuffTitle": {
+      "Hash": 371857150
+    },
+    "Param1": 11,
+    "Param3": 0,
+    "Param2": 0,
+    "BuffDesc": {
+      "Hash": -381326539
+    },
+    "BuffType": "ThirdAttributeGainRate",
+    "BuffID": 411
+  },
+  {
+    "Times": 1,
+    "BuffTitle": {
+      "Hash": 371857150
+    },
+    "Param1": 12,
+    "Param3": 0,
+    "Param2": 0,
+    "BuffDesc": {
+      "Hash": -784611066
+    },
+    "BuffType": "ThirdAttributeGainRate",
+    "BuffID": 412
+  }
+]

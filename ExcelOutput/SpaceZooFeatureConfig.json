@@ -1,0 +1,398 @@
+[
+  {
+    "ImagePath": "",
+    "FeatureKey": "",
+    "LargeImagePath": "",
+    "FeatureID": 100,
+    "Channel": "BodyDecal",
+    "Name": {
+      "Hash": 371857150
+    },
+    "UnlockMissionID": 0,
+    "ResearchPoint": 0
+  },
+  {
+    "ImagePath": "SpriteOutput/Quest/SpaceZoo/SpaceZooCakeIcon128/CakeIcon_BodyDecal_01.png",
+    "FeatureKey": "Decal1_00",
+    "LargeImagePath": "SpriteOutput/Quest/SpaceZoo/SpaceZooCakeIcon512/CakeIcon_BodyDecal_01.png",
+    "FeatureID": 101,
+    "Channel": "BodyDecal",
+    "Name": {
+      "Hash": 371857150
+    },
+    "UnlockMissionID": 0,
+    "ResearchPoint": 10
+  },
+  {
+    "ImagePath": "SpriteOutput/Quest/SpaceZoo/SpaceZooCakeIcon128/CakeIcon_BodyDecal_02.png",
+    "FeatureKey": "Decal1_01",
+    "LargeImagePath": "SpriteOutput/Quest/SpaceZoo/SpaceZooCakeIcon512/CakeIcon_BodyDecal_02.png",
+    "FeatureID": 102,
+    "Channel": "BodyDecal",
+    "Name": {
+      "Hash": 371857150
+    },
+    "UnlockMissionID": 0,
+    "ResearchPoint": 10
+  },
+  {
+    "ImagePath": "SpriteOutput/Quest/SpaceZoo/SpaceZooCakeIcon128/CakeIcon_BodyDecal_03.png",
+    "FeatureKey": "Decal1_02",
+    "LargeImagePath": "SpriteOutput/Quest/SpaceZoo/SpaceZooCakeIcon512/CakeIcon_BodyDecal_03.png",
+    "FeatureID": 103,
+    "Channel": "BodyDecal",
+    "Name": {
+      "Hash": 371857150
+    },
+    "UnlockMissionID": 0,
+    "ResearchPoint": 10
+  },
+  {
+    "ImagePath": "SpriteOutput/Quest/SpaceZoo/SpaceZooCakeIcon128/CakeIcon_BodyDecal_04.png",
+    "FeatureKey": "Decal1_03",
+    "LargeImagePath": "SpriteOutput/Quest/SpaceZoo/SpaceZooCakeIcon512/CakeIcon_BodyDecal_04.png",
+    "FeatureID": 104,
+    "Channel": "BodyDecal",
+    "Name": {
+      "Hash": 371857150
+    },
+    "UnlockMissionID": 0,
+    "ResearchPoint": 10
+  },
+  {
+    "ImagePath": "SpriteOutput/Quest/SpaceZoo/SpaceZooCakeIcon128/CakeIcon_BodyColor_01.png",
+    "FeatureKey": "Body1_01",
+    "LargeImagePath": "SpriteOutput/Quest/SpaceZoo/SpaceZooCakeIcon512/CakeIcon_BodyColor_01.png",
+    "FeatureID": 201,
+    "Channel": "BodyColor",
+    "Name": {
+      "Hash": -479569868
+    },
+    "UnlockMissionID": 0,
+    "ResearchPoint": 10
+  },
+  {
+    "ImagePath": "SpriteOutput/Quest/SpaceZoo/SpaceZooCakeIcon128/CakeIcon_BodyColor_02.png",
+    "FeatureKey": "Body1_02",
+    "LargeImagePath": "SpriteOutput/Quest/SpaceZoo/SpaceZooCakeIcon512/CakeIcon_BodyColor_02.png",
+    "FeatureID": 202,
+    "Channel": "BodyColor",
+    "Name": {
+      "Hash": -76285341
+    },
+    "UnlockMissionID": 0,
+    "ResearchPoint": 10
+  },
+  {
+    "ImagePath": "SpriteOutput/Quest/SpaceZoo/SpaceZooCakeIcon128/CakeIcon_BodyColor_04.png",
+    "FeatureKey": "Body1_04",
+    "LargeImagePath": "SpriteOutput/Quest/SpaceZoo/SpaceZooCakeIcon512/CakeIcon_BodyColor_04.png",
+    "FeatureID": 204,
+    "Channel": "BodyColor",
+    "Name": {
+      "Hash": -882854395
+    },
+    "UnlockMissionID": 0,
+    "ResearchPoint": 10
+  },
+  {
+    "ImagePath": "SpriteOutput/Quest/SpaceZoo/SpaceZooCakeIcon128/CakeIcon_BodyColor_05.png",
+    "FeatureKey": "Body1_05",
+    "LargeImagePath": "SpriteOutput/Quest/SpaceZoo/SpaceZooCakeIcon512/CakeIcon_BodyColor_05.png",
+    "FeatureID": 205,
+    "Channel": "BodyColor",
+    "Name": {
+      "Hash": 1846028960
+    },
+    "UnlockMissionID": 0,
+    "ResearchPoint": 10
+  },
+  {
+    "ImagePath": "SpriteOutput/Quest/SpaceZoo/SpaceZooCakeIcon128/CakeIcon_BodyColor_06.png",
+    "FeatureKey": "Body1_06",
+    "LargeImagePath": "SpriteOutput/Quest/SpaceZoo/SpaceZooCakeIcon512/CakeIcon_BodyColor_06.png",
+    "FeatureID": 206,
+    "Channel": "BodyColor",
+    "Name": {
+      "Hash": -2045653809
+    },
+    "UnlockMissionID": 0,
+    "ResearchPoint": 10
+  },
+  {
+    "ImagePath": "SpriteOutput/Quest/SpaceZoo/SpaceZooCakeIcon128/CakeIcon_HatColor_01.png",
+    "FeatureKey": "Body2_01",
+    "LargeImagePath": "SpriteOutput/Quest/SpaceZoo/SpaceZooCakeIcon512/CakeIcon_HatColor_01.png",
+    "FeatureID": 301,
+    "Channel": "HatColor",
+    "Name": {
+      "Hash": -338407367
+    },
+    "UnlockMissionID": 0,
+    "ResearchPoint": 10
+  },
+  {
+    "ImagePath": "SpriteOutput/Quest/SpaceZoo/SpaceZooCakeIcon128/CakeIcon_HatColor_07.png",
+    "FeatureKey": "Body2_07",
+    "LargeImagePath": "SpriteOutput/Quest/SpaceZoo/SpaceZooCakeIcon512/CakeIcon_HatColor_07.png",
+    "FeatureID": 302,
+    "Channel": "HatColor",
+    "Name": {
+      "Hash": 1227676574
+    },
+    "UnlockMissionID": 0,
+    "ResearchPoint": 10
+  },
+  {
+    "ImagePath": "SpriteOutput/Quest/SpaceZoo/SpaceZooCakeIcon128/CakeIcon_HatColor_03.png",
+    "FeatureKey": "Body2_03",
+    "LargeImagePath": "SpriteOutput/Quest/SpaceZoo/SpaceZooCakeIcon512/CakeIcon_HatColor_03.png",
+    "FeatureID": 303,
+    "Channel": "HatColor",
+    "Name": {
+      "Hash": -1501206781
+    },
+    "UnlockMissionID": 0,
+    "ResearchPoint": 10
+  },
+  {
+    "ImagePath": "SpriteOutput/Quest/SpaceZoo/SpaceZooCakeIcon128/CakeIcon_HatColor_04.png",
+    "FeatureKey": "Body2_04",
+    "LargeImagePath": "SpriteOutput/Quest/SpaceZoo/SpaceZooCakeIcon512/CakeIcon_HatColor_04.png",
+    "FeatureID": 304,
+    "Channel": "HatColor",
+    "Name": {
+      "Hash": 421107520
+    },
+    "UnlockMissionID": 0,
+    "ResearchPoint": 10
+  },
+  {
+    "ImagePath": "SpriteOutput/Quest/SpaceZoo/SpaceZooCakeIcon128/CakeIcon_HatColor_05.png",
+    "FeatureKey": "Body2_05",
+    "LargeImagePath": "SpriteOutput/Quest/SpaceZoo/SpaceZooCakeIcon512/CakeIcon_HatColor_05.png",
+    "FeatureID": 305,
+    "Channel": "HatColor",
+    "Name": {
+      "Hash": 1987191461
+    },
+    "UnlockMissionID": 0,
+    "ResearchPoint": 10
+  },
+  {
+    "ImagePath": "",
+    "FeatureKey": "",
+    "LargeImagePath": "",
+    "FeatureID": 400,
+    "Channel": "TailDecal",
+    "Name": {
+      "Hash": 371857150
+    },
+    "UnlockMissionID": 0,
+    "ResearchPoint": 0
+  },
+  {
+    "ImagePath": "SpriteOutput/Quest/SpaceZoo/SpaceZooCakeIcon128/CakeIcon_TailDecal_01.png",
+    "FeatureKey": "Decal3_00",
+    "LargeImagePath": "SpriteOutput/Quest/SpaceZoo/SpaceZooCakeIcon512/CakeIcon_TailDecal_01.png",
+    "FeatureID": 401,
+    "Channel": "TailDecal",
+    "Name": {
+      "Hash": 371857150
+    },
+    "UnlockMissionID": 0,
+    "ResearchPoint": 20
+  },
+  {
+    "ImagePath": "SpriteOutput/Quest/SpaceZoo/SpaceZooCakeIcon128/CakeIcon_TailDecal_02.png",
+    "FeatureKey": "Decal3_01",
+    "LargeImagePath": "SpriteOutput/Quest/SpaceZoo/SpaceZooCakeIcon512/CakeIcon_TailDecal_02.png",
+    "FeatureID": 402,
+    "Channel": "TailDecal",
+    "Name": {
+      "Hash": 371857150
+    },
+    "UnlockMissionID": 0,
+    "ResearchPoint": 20
+  },
+  {
+    "ImagePath": "SpriteOutput/Quest/SpaceZoo/SpaceZooCakeIcon128/CakeIcon_TailDecal_03.png",
+    "FeatureKey": "Decal3_02",
+    "LargeImagePath": "SpriteOutput/Quest/SpaceZoo/SpaceZooCakeIcon512/CakeIcon_TailDecal_03.png",
+    "FeatureID": 403,
+    "Channel": "TailDecal",
+    "Name": {
+      "Hash": 371857150
+    },
+    "UnlockMissionID": 0,
+    "ResearchPoint": 20
+  },
+  {
+    "ImagePath": "SpriteOutput/Quest/SpaceZoo/SpaceZooCakeIcon128/CakeIcon_TailDecal_04.png",
+    "FeatureKey": "Decal3_03",
+    "LargeImagePath": "SpriteOutput/Quest/SpaceZoo/SpaceZooCakeIcon512/CakeIcon_TailDecal_04.png",
+    "FeatureID": 404,
+    "Channel": "TailDecal",
+    "Name": {
+      "Hash": 371857150
+    },
+    "UnlockMissionID": 0,
+    "ResearchPoint": 20
+  },
+  {
+    "ImagePath": "SpriteOutput/Quest/SpaceZoo/SpaceZooCakeIcon128/CakeIcon_TailDecal_05.png",
+    "FeatureKey": "Decal3_04",
+    "LargeImagePath": "SpriteOutput/Quest/SpaceZoo/SpaceZooCakeIcon512/CakeIcon_TailDecal_05.png",
+    "FeatureID": 405,
+    "Channel": "TailDecal",
+    "Name": {
+      "Hash": 371857150
+    },
+    "UnlockMissionID": 0,
+    "ResearchPoint": 20
+  },
+  {
+    "ImagePath": "",
+    "FeatureKey": "",
+    "LargeImagePath": "",
+    "FeatureID": 500,
+    "Channel": "HatDecal",
+    "Name": {
+      "Hash": 371857150
+    },
+    "UnlockMissionID": 0,
+    "ResearchPoint": 0
+  },
+  {
+    "ImagePath": "SpriteOutput/Quest/SpaceZoo/SpaceZooCakeIcon128/CakeIcon_HatDecal_01.png",
+    "FeatureKey": "Decal2_00",
+    "LargeImagePath": "SpriteOutput/Quest/SpaceZoo/SpaceZooCakeIcon512/CakeIcon_HatDecal_01.png",
+    "FeatureID": 501,
+    "Channel": "HatDecal",
+    "Name": {
+      "Hash": 371857150
+    },
+    "UnlockMissionID": 0,
+    "ResearchPoint": 20
+  },
+  {
+    "ImagePath": "SpriteOutput/Quest/SpaceZoo/SpaceZooCakeIcon128/CakeIcon_HatDecal_02.png",
+    "FeatureKey": "Decal2_01",
+    "LargeImagePath": "SpriteOutput/Quest/SpaceZoo/SpaceZooCakeIcon512/CakeIcon_HatDecal_02.png",
+    "FeatureID": 502,
+    "Channel": "HatDecal",
+    "Name": {
+      "Hash": 371857150
+    },
+    "UnlockMissionID": 0,
+    "ResearchPoint": 20
+  },
+  {
+    "ImagePath": "SpriteOutput/Quest/SpaceZoo/SpaceZooCakeIcon128/CakeIcon_HatDecal_03.png",
+    "FeatureKey": "Decal2_02",
+    "LargeImagePath": "SpriteOutput/Quest/SpaceZoo/SpaceZooCakeIcon512/CakeIcon_HatDecal_03.png",
+    "FeatureID": 503,
+    "Channel": "HatDecal",
+    "Name": {
+      "Hash": 371857150
+    },
+    "UnlockMissionID": 0,
+    "ResearchPoint": 20
+  },
+  {
+    "ImagePath": "SpriteOutput/Quest/SpaceZoo/SpaceZooCakeIcon128/CakeIcon_HatDecal_04.png",
+    "FeatureKey": "Decal2_03",
+    "LargeImagePath": "SpriteOutput/Quest/SpaceZoo/SpaceZooCakeIcon512/CakeIcon_HatDecal_04.png",
+    "FeatureID": 504,
+    "Channel": "HatDecal",
+    "Name": {
+      "Hash": 371857150
+    },
+    "UnlockMissionID": 0,
+    "ResearchPoint": 20
+  },
+  {
+    "ImagePath": "SpriteOutput/Quest/SpaceZoo/SpaceZooCakeIcon128/CakeIcon_HatDecal_05.png",
+    "FeatureKey": "Decal2_04",
+    "LargeImagePath": "SpriteOutput/Quest/SpaceZoo/SpaceZooCakeIcon512/CakeIcon_HatDecal_05.png",
+    "FeatureID": 505,
+    "Channel": "HatDecal",
+    "Name": {
+      "Hash": 371857150
+    },
+    "UnlockMissionID": 0,
+    "ResearchPoint": 20
+  },
+  {
+    "ImagePath": "SpriteOutput/Quest/SpaceZoo/SpaceZooCakeIcon128/CakeIcon_EyeDecal_00.png",
+    "FeatureKey": "Decal4_00",
+    "LargeImagePath": "SpriteOutput/Quest/SpaceZoo/SpaceZooCakeIcon512/CakeIcon_EyeDecal_00.png",
+    "FeatureID": 600,
+    "Channel": "EyeDecal",
+    "Name": {
+      "Hash": 521864069
+    },
+    "UnlockMissionID": 0,
+    "ResearchPoint": 0
+  },
+  {
+    "ImagePath": "SpriteOutput/Quest/SpaceZoo/SpaceZooCakeIcon128/CakeIcon_EyeDecal_01.png",
+    "FeatureKey": "Decal4_01",
+    "LargeImagePath": "SpriteOutput/Quest/SpaceZoo/SpaceZooCakeIcon512/CakeIcon_EyeDecal_01.png",
+    "FeatureID": 601,
+    "Channel": "EyeDecal",
+    "Name": {
+      "Hash": -1044219872
+    },
+    "UnlockMissionID": 0,
+    "ResearchPoint": 20
+  },
+  {
+    "ImagePath": "SpriteOutput/Quest/SpaceZoo/SpaceZooCakeIcon128/CakeIcon_EyeDecal_02.png",
+    "FeatureKey": "Decal4_02",
+    "LargeImagePath": "SpriteOutput/Quest/SpaceZoo/SpaceZooCakeIcon512/CakeIcon_EyeDecal_02.png",
+    "FeatureID": 602,
+    "Channel": "EyeDecal",
+    "Name": {
+      "Hash": -640935345
+    },
+    "UnlockMissionID": 0,
+    "ResearchPoint": 20
+  },
+  {
+    "ImagePath": "SpriteOutput/Quest/SpaceZoo/SpaceZooCakeIcon128/CakeIcon_EyeDecal_03.png",
+    "FeatureKey": "Decal4_03",
+    "LargeImagePath": "SpriteOutput/Quest/SpaceZoo/SpaceZooCakeIcon512/CakeIcon_EyeDecal_03.png",
+    "FeatureID": 603,
+    "Channel": "EyeDecal",
+    "Name": {
+      "Hash": 2087948010
+    },
+    "UnlockMissionID": 0,
+    "ResearchPoint": 20
+  },
+  {
+    "ImagePath": "SpriteOutput/Quest/SpaceZoo/SpaceZooCakeIcon128/CakeIcon_EyeDecal_04.png",
+    "FeatureKey": "Decal4_04",
+    "LargeImagePath": "SpriteOutput/Quest/SpaceZoo/SpaceZooCakeIcon512/CakeIcon_EyeDecal_04.png",
+    "FeatureID": 604,
+    "Channel": "EyeDecal",
+    "Name": {
+      "Hash": -1803734759
+    },
+    "UnlockMissionID": 0,
+    "ResearchPoint": 20
+  },
+  {
+    "ImagePath": "SpriteOutput/Quest/SpaceZoo/SpaceZooCakeIcon128/CakeIcon_EyeDecal_05.png",
+    "FeatureKey": "Decal4_05",
+    "LargeImagePath": "SpriteOutput/Quest/SpaceZoo/SpaceZooCakeIcon512/CakeIcon_EyeDecal_05.png",
+    "FeatureID": 605,
+    "Channel": "EyeDecal",
+    "Name": {
+      "Hash": 925148596
+    },
+    "UnlockMissionID": 0,
+    "ResearchPoint": 20
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "PerformancePath": "Config/Level/Mission/1000101/CS100010102.json",
+    "EndWithCrack": true,
+    "FloorID": 20001001,
+    "IsSkip": "AfterSeen",
+    "StartBlack": "NoPre",
+    "EndBlack": "None",
+    "PlaneID": 20001,
+    "PerformanceID": 100010102
+  },
+  {
+    "PerformancePath": "Config/Level/Mission/1000101/CS100010103.json",
+    "EndWithCrack": false,
+    "FloorID": 20001001,
+    "IsSkip": "AfterSeen",
+    "StartBlack": "NoPre",
+    "EndBlack": "NoPost",
+    "PlaneID": 20001,
+    "PerformanceID": 100010103
+  },
+  {
+    "PerformancePath": "Config/Level/Mission/1000101/CS100010115.json",
+    "EndWithCrack": false,
+    "FloorID": 20001001,
+    "IsSkip": "Never",
+    "StartBlack": "NoPre",
+    "EndBlack": "None",
+    "PlaneID": 20001,
+    "PerformanceID": 100010115
+  },
+  {
+    "PerformancePath": "Config/Level/Mission/1000101/CS100010116.json",
+    "EndWithCrack": false,
+    "FloorID": 20001001,
+    "IsSkip": "AfterSeen",
+    "StartBlack": "None",
+    "EndBlack": "None",
+    "PlaneID": 20001,
+    "PerformanceID": 100010116
+  },
+  {
+    "PerformancePath": "Config/Level/Mission/1000201/CS100020101.json",
+    "EndWithCrack": false,
+    "FloorID": 20002001,
+    "IsSkip": "AfterSeen",
+    "StartBlack": "NoPre",
+    "EndBlack": "NoPost",
+    "PlaneID": 20002,
+    "PerformanceID": 100020101
+  },
+  {
+    "PerformancePath": "Config/Level/Mission/1000201/CS100020116.json",
+    "EndWithCrack": true,
+    "FloorID": 20002001,
+    "IsSkip": "AfterSeen",
+    "StartBlack": "Full",
+    "EndBlack": "NoPost",
+    "PlaneID": 20002,
+    "PerformanceID": 100020116
+  },
+  {
+    "PerformancePath": "Config/Level/Mission/1000301/CS100030102.json",
+    "EndWithCrack": false,
+    "FloorID": 10001001,
+    "IsSkip": "AfterSeen",
+    "StartBlack": "Full",
+    "EndBlack": "NoPost",
+    "PlaneID": 10001,
+    "PerformanceID": 100030203
+  },
+  {
+    "PerformancePath": "Config/Level/Mission/1000401/CS100040110.json",
+    "EndWithCrack": true,
+    "FloorID": 20003001,
+    "IsSkip": "AfterSeen",
+    "StartBlack": "Full",
+    "EndBlack": "None",
+    "PlaneID": 20003,
+    "PerformanceID": 100040110
+  },
+  {
+    "PerformancePath": "Config/Level/Mission/1000401/CS100040110.json",
+    "EndWithCrack": true,
+    "FloorID": 20003001,
+    "IsSkip": "AfterSeen",
+    "StartBlack": "Full",
+    "EndBlack": "NoPost",
+    "PlaneID": 20003,
+    "PerformanceID": 100040130
+  },
+  {
+    "PerformancePath": "Config/Level/Mission/1010101/CS101010112.json",
+    "EndWithCrack": true,
+    "FloorID": 20101001,
+    "IsSkip": "AfterSeen",
+    "StartBlack": "NoPre",
+    "EndBlack": "None",
+    "PlaneID": 20101,
+    "PerformanceID": 101010115
+  },
+  {
+    "PerformancePath": "Config/Level/Mission/1010202/CS101020207.json",
+    "EndWithCrack": false,
+    "FloorID": 10101001,
+    "IsSkip": "AfterSeen",
+    "StartBlack": "NoPre",
+    "EndBlack": "NoPost",
+    "PlaneID": 10101,
+    "PerformanceID": 101020207
+  },
+  {
+    "PerformancePath": "Config/Level/Mission/1010302/CS101030204.json",
+    "EndWithCrack": false,
+    "FloorID": 20111001,
+    "IsSkip": "AfterSeen",
+    "StartBlack": "Full",
+    "EndBlack": "NoPost",
+    "PlaneID": 20111,
+    "PerformanceID": 101030204
+  },
+  {
+    "PerformancePath": "Config/Level/Mission/1010302/CS101030206.json",
+    "EndWithCrack": true,
+    "FloorID": 20111001,
+    "IsSkip": "AfterSeen",
+    "StartBlack": "NoPre",
+    "EndBlack": "None",
+    "PlaneID": 20111,
+    "PerformanceID": 101030205
+  },
+  {
+    "PerformancePath": "Config/Level/Mission/1010302/CS101030208.json",
+    "EndWithCrack": false,
+    "FloorID": 20111001,
+    "IsSkip": "AfterSeen",
+    "StartBlack": "NoPre",
+    "EndBlack": "NoPost",
+    "PlaneID": 20111,
+    "PerformanceID": 101030206
+  },
+  {
+    "PerformancePath": "Config/Level/Mission/1010403/CS101040305.json",
+    "EndWithCrack": false,
+    "FloorID": 10102001,
+    "IsSkip": "AfterSeen",
+    "StartBlack": "NoPre",
+    "EndBlack": "NoPost",
+    "PlaneID": 10102,
+    "PerformanceID": 101040305
+  },
+  {
+    "PerformancePath": "Config/Level/Mission/1010902/CS101090227.json",
+    "EndWithCrack": false,
+    "FloorID": 20123001,
+    "IsSkip": "AfterSeen",
+    "StartBlack": "NoPre",
+    "EndBlack": "NoPost",
+    "PlaneID": 20123,
+    "PerformanceID": 101090227
+  },
+  {
+    "PerformancePath": "Config/Level/Mission/1011401/Act/CS101140106.json",
+    "EndWithCrack": false,
+    "FloorID": 20133001,
+    "IsSkip": "AfterSeen",
+    "StartBlack": "NoPrePost",
+    "EndBlack": "NoPrePost",
+    "PlaneID": 20133,
+    "PerformanceID": 101140106
+  },
+  {
+    "PerformancePath": "Config/Level/Mission/1020101/CS102010112.json",
+    "EndWithCrack": false,
+    "FloorID": 10000000,
+    "IsSkip": "AfterSeen",
+    "StartBlack": "NoPre",
+    "EndBlack": "NoPost",
+    "PlaneID": 10000,
+    "PerformanceID": 102010113
+  },
+  {
+    "PerformancePath": "Config/Level/Mission/1020101/CS102010102.json",
+    "EndWithCrack": false,
+    "FloorID": 10000002,
+    "IsSkip": "AfterSeen",
+    "StartBlack": "NoPre",
+    "EndBlack": "NoPost",
+    "PlaneID": 10000,
+    "PerformanceID": 102010102
+  },
+  {
+    "PerformancePath": "Config/Level/Mission/1020402/CS102040211.json",
+    "EndWithCrack": true,
+    "FloorID": 20213001,
+    "IsSkip": "AfterSeen",
+    "StartBlack": "NoPre",
+    "EndBlack": "None",
+    "PlaneID": 20213,
+    "PerformanceID": 102040211
+  },
+  {
+    "PerformancePath": "Config/Level/Mission/1020801/CS102080101.json",
+    "EndWithCrack": false,
+    "FloorID": 20221001,
+    "IsSkip": "AfterSeen",
+    "StartBlack": "NoPre",
+    "EndBlack": "NoPost",
+    "PlaneID": 20221,
+    "PerformanceID": 102080123
+  },
+  {
+    "PerformancePath": "Config/Level/Mission/1021101/CS102110102.json",
+    "EndWithCrack": false,
+    "FloorID": 20222001,
+    "IsSkip": "AfterSeen",
+    "StartBlack": "NoPre",
+    "EndBlack": "NoPost",
+    "PlaneID": 20222,
+    "PerformanceID": 102110113
+  },
+  {
+    "PerformancePath": "Config/Level/Mission/2020315/Act/CS202031506.json",
+    "EndWithCrack": false,
+    "FloorID": 40222002,
+    "IsSkip": "AfterSeen",
+    "StartBlack": "NoPre",
+    "EndBlack": "NoPre",
+    "PlaneID": 40222,
+    "PerformanceID": 202031506
+  },
+  {
+    "PerformancePath": "Config/Level/Mission/1021201/CS102120124.json",
+    "EndWithCrack": true,
+    "FloorID": 20231001,
+    "IsSkip": "AfterSeen",
+    "StartBlack": "NoPre",
+    "EndBlack": "None",
+    "PlaneID": 20231,
+    "PerformanceID": 102120124
+  },
+  {
+    "PerformancePath": "Config/Level/Mission/Common/Act_ForBeta_A.json",
+    "EndWithCrack": false,
+    "FloorID": 20232001,
+    "IsSkip": "AfterSeen",
+    "StartBlack": "None",
+    "EndBlack": "NoPost",
+    "PlaneID": 20232,
+    "PerformanceID": 102150109
+  },
+  {
+    "PerformancePath": "Config/Level/Mission/1021301/CS102130110.json",
+    "EndWithCrack": false,
+    "FloorID": 40231004,
+    "IsSkip": "AfterSeen",
+    "StartBlack": "NoPre",
+    "EndBlack": "NoPost",
+    "PlaneID": 40231,
+    "PerformanceID": 102130110
+  },
+  {
+    "PerformancePath": "Config/Level/Mission/2021002/CS202110241.json",
+    "EndWithCrack": false,
+    "FloorID": 43202006,
+    "IsSkip": "AfterSeen",
+    "StartBlack": "NoPre",
+    "EndBlack": "Full",
+    "PlaneID": 43202,
+    "PerformanceID": 202110241
+  },
+  {
+    "PerformancePath": "Config/Level/Mission/2021701/Act/CS202170100.json",
+    "EndWithCrack": false,
+    "FloorID": 0,
+    "IsSkip": "AfterSeen",
+    "StartBlack": "Full",
+    "EndBlack": "Full",
+    "PlaneID": 0,
+    "PerformanceID": 202170100
+  }
+]

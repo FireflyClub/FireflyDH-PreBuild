@@ -1,0 +1,200 @@
+[
+  {
+    "ActivityFightGroupIconPath": "",
+    "SpecialAvatarID": 0,
+    "FightStageTitle": {
+      "Hash": 36260422
+    },
+    "PlaneID": 20111,
+    "FloorID": 20111001,
+    "ActivityFightGroupID": 10003,
+    "BattleAreaID": 1,
+    "BattleAreaGroupID": 2,
+    "FightStageLimitDesc": {
+      "Hash": 371857150
+    },
+    "FightStageDesc": {
+      "Hash": -830767387
+    }
+  },
+  {
+    "ActivityFightGroupIconPath": "",
+    "SpecialAvatarID": 0,
+    "FightStageTitle": {
+      "Hash": 371857150
+    },
+    "PlaneID": 20111,
+    "FloorID": 20111001,
+    "ActivityFightGroupID": 10007,
+    "BattleAreaID": 1,
+    "BattleAreaGroupID": 2,
+    "FightStageLimitDesc": {
+      "Hash": 371857150
+    },
+    "FightStageDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "ActivityFightGroupIconPath": "SpriteOutput/Quest/Challenge/StarIcon5.png",
+    "SpecialAvatarID": 3021108,
+    "FightStageTitle": {
+      "Hash": -723254465
+    },
+    "PlaneID": 20111,
+    "FloorID": 20111001,
+    "ActivityFightGroupID": 10008,
+    "BattleAreaID": 1,
+    "BattleAreaGroupID": 2,
+    "FightStageLimitDesc": {
+      "Hash": 371857150
+    },
+    "FightStageDesc": {
+      "Hash": -830767394
+    }
+  },
+  {
+    "ActivityFightGroupIconPath": "SpriteOutput/Quest/Challenge/StarIcon8.png",
+    "SpecialAvatarID": 3021103,
+    "FightStageTitle": {
+      "Hash": 842829476
+    },
+    "PlaneID": 20111,
+    "FloorID": 20111001,
+    "ActivityFightGroupID": 10009,
+    "BattleAreaID": 1,
+    "BattleAreaGroupID": 2,
+    "FightStageLimitDesc": {
+      "Hash": 371857150
+    },
+    "FightStageDesc": {
+      "Hash": -830767393
+    }
+  },
+  {
+    "ActivityFightGroupIconPath": "",
+    "SpecialAvatarID": 0,
+    "FightStageTitle": {
+      "Hash": -367024106
+    },
+    "PlaneID": 20111,
+    "FloorID": 20111001,
+    "ActivityFightGroupID": 10010,
+    "BattleAreaID": 1,
+    "BattleAreaGroupID": 2,
+    "FightStageLimitDesc": {
+      "Hash": 371857150
+    },
+    "FightStageDesc": {
+      "Hash": 735316555
+    }
+  },
+  {
+    "ActivityFightGroupIconPath": "SpriteOutput/Quest/Challenge/StarIcon6.png",
+    "SpecialAvatarID": 3021202,
+    "FightStageTitle": {
+      "Hash": 1199059836
+    },
+    "PlaneID": 20111,
+    "FloorID": 20111001,
+    "ActivityFightGroupID": 10001,
+    "BattleAreaID": 1,
+    "BattleAreaGroupID": 2,
+    "FightStageLimitDesc": {
+      "Hash": 371857150
+    },
+    "FightStageDesc": {
+      "Hash": -830767385
+    }
+  },
+  {
+    "ActivityFightGroupIconPath": "SpriteOutput/Quest/Challenge/StarIcon3.png",
+    "SpecialAvatarID": 3021003,
+    "FightStageTitle": {
+      "Hash": -1529823519
+    },
+    "PlaneID": 20111,
+    "FloorID": 20111001,
+    "ActivityFightGroupID": 10002,
+    "BattleAreaID": 1,
+    "BattleAreaGroupID": 2,
+    "FightStageLimitDesc": {
+      "Hash": 371857150
+    },
+    "FightStageDesc": {
+      "Hash": -830767388
+    }
+  },
+  {
+    "ActivityFightGroupIconPath": "SpriteOutput/Quest/Challenge/StarIcon4.png",
+    "SpecialAvatarID": 3021201,
+    "FightStageTitle": {
+      "Hash": 1958574723
+    },
+    "PlaneID": 20111,
+    "FloorID": 20111001,
+    "ActivityFightGroupID": 10004,
+    "BattleAreaID": 1,
+    "BattleAreaGroupID": 2,
+    "FightStageLimitDesc": {
+      "Hash": 371857150
+    },
+    "FightStageDesc": {
+      "Hash": -830767390
+    }
+  },
+  {
+    "ActivityFightGroupIconPath": "SpriteOutput/Quest/Challenge/StarIcon1.png",
+    "SpecialAvatarID": 3021008,
+    "FightStageTitle": {
+      "Hash": -770308632
+    },
+    "PlaneID": 20111,
+    "FloorID": 20111001,
+    "ActivityFightGroupID": 10005,
+    "BattleAreaID": 1,
+    "BattleAreaGroupID": 2,
+    "FightStageLimitDesc": {
+      "Hash": 371857150
+    },
+    "FightStageDesc": {
+      "Hash": -830767389
+    }
+  },
+  {
+    "ActivityFightGroupIconPath": "SpriteOutput/Quest/Challenge/StarIcon7.png",
+    "SpecialAvatarID": 3021004,
+    "FightStageTitle": {
+      "Hash": 795775309
+    },
+    "PlaneID": 20111,
+    "FloorID": 20111001,
+    "ActivityFightGroupID": 10006,
+    "BattleAreaID": 1,
+    "BattleAreaGroupID": 2,
+    "FightStageLimitDesc": {
+      "Hash": 371857150
+    },
+    "FightStageDesc": {
+      "Hash": -830767392
+    }
+  },
+  {
+    "ActivityFightGroupIconPath": "SpriteOutput/Quest/Challenge/StarIcon9.png",
+    "SpecialAvatarID": 3021203,
+    "FightStageTitle": {
+      "Hash": 1199059835
+    },
+    "PlaneID": 20111,
+    "FloorID": 20111001,
+    "ActivityFightGroupID": 10011,
+    "BattleAreaID": 1,
+    "BattleAreaGroupID": 2,
+    "FightStageLimitDesc": {
+      "Hash": 371857150
+    },
+    "FightStageDesc": {
+      "Hash": 735316556
+    }
+  }
+]

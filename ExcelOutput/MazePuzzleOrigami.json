@@ -1,0 +1,2542 @@
+[
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 1,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400002,
+    "FloorID": 20311001,
+    "GroupID": 168,
+    "NpcGroupID": 159
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 1,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400003,
+    "FloorID": 20311001,
+    "GroupID": 169,
+    "NpcGroupID": 159
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 1,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400004,
+    "FloorID": 20311001,
+    "GroupID": 172,
+    "NpcGroupID": 159
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 1,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400019,
+    "FloorID": 20311001,
+    "GroupID": 156,
+    "NpcGroupID": 159
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 1,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400006,
+    "FloorID": 20311001,
+    "GroupID": 184,
+    "NpcGroupID": 159
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 1,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400010,
+    "FloorID": 20311001,
+    "GroupID": 185,
+    "NpcGroupID": 159
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 1,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400008,
+    "FloorID": 20311001,
+    "GroupID": 188,
+    "NpcGroupID": 159
+  },
+  {
+    "MainPropStateList": [
+      "Closed",
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300004,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 1,
+    "MainPropID": 300003,
+    "NpcInstanceID": 400009,
+    "FloorID": 20311001,
+    "GroupID": 187,
+    "NpcGroupID": 159
+  },
+  {
+    "MainPropStateList": [
+      "Closed",
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300004,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 1,
+    "MainPropID": 300003,
+    "NpcInstanceID": 400011,
+    "FloorID": 20311001,
+    "GroupID": 183,
+    "NpcGroupID": 159
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 1,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400007,
+    "FloorID": 20311001,
+    "GroupID": 189,
+    "NpcGroupID": 159
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 1,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400012,
+    "FloorID": 20311001,
+    "GroupID": 266,
+    "NpcGroupID": 159
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 1,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400013,
+    "FloorID": 20311001,
+    "GroupID": 268,
+    "NpcGroupID": 159
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 1,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400014,
+    "FloorID": 20311001,
+    "GroupID": 279,
+    "NpcGroupID": 159
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 1,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400015,
+    "FloorID": 20311001,
+    "GroupID": 280,
+    "NpcGroupID": 159
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 1,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400016,
+    "FloorID": 20311001,
+    "GroupID": 282,
+    "NpcGroupID": 159
+  },
+  {
+    "MainPropStateList": [
+      "Closed",
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300004,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 1,
+    "MainPropID": 300003,
+    "NpcInstanceID": 400017,
+    "FloorID": 20311001,
+    "GroupID": 269,
+    "NpcGroupID": 159
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 1,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400018,
+    "FloorID": 20311001,
+    "GroupID": 421,
+    "NpcGroupID": 159
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 1,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400005,
+    "FloorID": 20311001,
+    "GroupID": 271,
+    "NpcGroupID": 159
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 1,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400020,
+    "FloorID": 20311001,
+    "GroupID": 292,
+    "NpcGroupID": 159
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 1,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400021,
+    "FloorID": 20311001,
+    "GroupID": 281,
+    "NpcGroupID": 159
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 2,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400002,
+    "FloorID": 10301001,
+    "GroupID": 116,
+    "NpcGroupID": 40
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 2,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400003,
+    "FloorID": 10301001,
+    "GroupID": 35,
+    "NpcGroupID": 40
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 2,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400004,
+    "FloorID": 10301001,
+    "GroupID": 37,
+    "NpcGroupID": 40
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 2,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400005,
+    "FloorID": 10301001,
+    "GroupID": 38,
+    "NpcGroupID": 40
+  },
+  {
+    "MainPropStateList": [
+      "Closed",
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300004,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 2,
+    "MainPropID": 300003,
+    "NpcInstanceID": 400006,
+    "FloorID": 10301001,
+    "GroupID": 36,
+    "NpcGroupID": 40
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 2,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400007,
+    "FloorID": 10301001,
+    "GroupID": 198,
+    "NpcGroupID": 40
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 2,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400008,
+    "FloorID": 10301001,
+    "GroupID": 202,
+    "NpcGroupID": 40
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 2,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400009,
+    "FloorID": 10301001,
+    "GroupID": 41,
+    "NpcGroupID": 40
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300005,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 2,
+    "MainPropID": 300004,
+    "NpcInstanceID": 400010,
+    "FloorID": 10301001,
+    "GroupID": 39,
+    "NpcGroupID": 40
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 2,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400011,
+    "FloorID": 10301001,
+    "GroupID": 42,
+    "NpcGroupID": 40
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 2,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400012,
+    "FloorID": 10301001,
+    "GroupID": 43,
+    "NpcGroupID": 40
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 2,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400013,
+    "FloorID": 10301001,
+    "GroupID": 118,
+    "NpcGroupID": 40
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 2,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400015,
+    "FloorID": 10301001,
+    "GroupID": 200,
+    "NpcGroupID": 40
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 2,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400014,
+    "FloorID": 10301001,
+    "GroupID": 188,
+    "NpcGroupID": 40
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 2,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400016,
+    "FloorID": 10301001,
+    "GroupID": 186,
+    "NpcGroupID": 40
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 2,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400017,
+    "FloorID": 10301001,
+    "GroupID": 190,
+    "NpcGroupID": 40
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 2,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400018,
+    "FloorID": 10301001,
+    "GroupID": 193,
+    "NpcGroupID": 40
+  },
+  {
+    "MainPropStateList": [
+      "Closed",
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300004,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 2,
+    "MainPropID": 300003,
+    "NpcInstanceID": 400019,
+    "FloorID": 10301001,
+    "GroupID": 194,
+    "NpcGroupID": 40
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 2,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400020,
+    "FloorID": 10301001,
+    "GroupID": 173,
+    "NpcGroupID": 40
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 2,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400021,
+    "FloorID": 10301001,
+    "GroupID": 199,
+    "NpcGroupID": 40
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 3,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400002,
+    "FloorID": 20312001,
+    "GroupID": 152,
+    "NpcGroupID": 163
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 3,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400003,
+    "FloorID": 20312001,
+    "GroupID": 164,
+    "NpcGroupID": 163
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 3,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400010,
+    "FloorID": 20312001,
+    "GroupID": 165,
+    "NpcGroupID": 163
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 3,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400011,
+    "FloorID": 20312001,
+    "GroupID": 179,
+    "NpcGroupID": 163
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 3,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400006,
+    "FloorID": 20312001,
+    "GroupID": 182,
+    "NpcGroupID": 163
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300005,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 3,
+    "MainPropID": 300004,
+    "NpcInstanceID": 400007,
+    "FloorID": 20312001,
+    "GroupID": 178,
+    "NpcGroupID": 163
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 3,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400008,
+    "FloorID": 20312001,
+    "GroupID": 180,
+    "NpcGroupID": 163
+  },
+  {
+    "MainPropStateList": [
+      "Closed",
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300004,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 3,
+    "MainPropID": 300003,
+    "NpcInstanceID": 400004,
+    "FloorID": 20312001,
+    "GroupID": 181,
+    "NpcGroupID": 163
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 3,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400009,
+    "FloorID": 20312001,
+    "GroupID": 218,
+    "NpcGroupID": 163
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 3,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400005,
+    "FloorID": 20312001,
+    "GroupID": 171,
+    "NpcGroupID": 163
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 4,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400002,
+    "FloorID": 20313001,
+    "GroupID": 149,
+    "NpcGroupID": 185
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300005,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 4,
+    "MainPropID": 300004,
+    "NpcInstanceID": 400004,
+    "FloorID": 20313001,
+    "GroupID": 151,
+    "NpcGroupID": 185
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 4,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400003,
+    "FloorID": 20313001,
+    "GroupID": 150,
+    "NpcGroupID": 185
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 4,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400005,
+    "FloorID": 20313001,
+    "GroupID": 152,
+    "NpcGroupID": 185
+  },
+  {
+    "MainPropStateList": [
+      "Closed",
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300004,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 4,
+    "MainPropID": 300003,
+    "NpcInstanceID": 400006,
+    "FloorID": 20313001,
+    "GroupID": 153,
+    "NpcGroupID": 185
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 4,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400007,
+    "FloorID": 20313001,
+    "GroupID": 154,
+    "NpcGroupID": 185
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 4,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400008,
+    "FloorID": 20313001,
+    "GroupID": 155,
+    "NpcGroupID": 185
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 4,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400009,
+    "FloorID": 20313001,
+    "GroupID": 156,
+    "NpcGroupID": 185
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 4,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400010,
+    "FloorID": 20313001,
+    "GroupID": 157,
+    "NpcGroupID": 185
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 4,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400011,
+    "FloorID": 20313001,
+    "GroupID": 158,
+    "NpcGroupID": 185
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 5,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400002,
+    "FloorID": 20322001,
+    "GroupID": 155,
+    "NpcGroupID": 154
+  },
+  {
+    "MainPropStateList": [
+      "Closed",
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300004,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 5,
+    "MainPropID": 300003,
+    "NpcInstanceID": 400003,
+    "FloorID": 20322001,
+    "GroupID": 156,
+    "NpcGroupID": 154
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 5,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400004,
+    "FloorID": 20322001,
+    "GroupID": 157,
+    "NpcGroupID": 154
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300005,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 5,
+    "MainPropID": 300004,
+    "NpcInstanceID": 400005,
+    "FloorID": 20322001,
+    "GroupID": 158,
+    "NpcGroupID": 154
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 5,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400006,
+    "FloorID": 20322001,
+    "GroupID": 159,
+    "NpcGroupID": 154
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 5,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400007,
+    "FloorID": 20322001,
+    "GroupID": 160,
+    "NpcGroupID": 154
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 5,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400008,
+    "FloorID": 20322001,
+    "GroupID": 161,
+    "NpcGroupID": 154
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 5,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400009,
+    "FloorID": 20322001,
+    "GroupID": 162,
+    "NpcGroupID": 154
+  },
+  {
+    "MainPropStateList": [
+      "Closed",
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300004,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 5,
+    "MainPropID": 300003,
+    "NpcInstanceID": 400010,
+    "FloorID": 20322001,
+    "GroupID": 163,
+    "NpcGroupID": 154
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300005,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 5,
+    "MainPropID": 300004,
+    "NpcInstanceID": 400011,
+    "FloorID": 20322001,
+    "GroupID": 315,
+    "NpcGroupID": 154
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 6,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400002,
+    "FloorID": 20321001,
+    "GroupID": 131,
+    "NpcGroupID": 130
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 6,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400003,
+    "FloorID": 20321001,
+    "GroupID": 132,
+    "NpcGroupID": 130
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 6,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400004,
+    "FloorID": 20321001,
+    "GroupID": 133,
+    "NpcGroupID": 130
+  },
+  {
+    "MainPropStateList": [
+      "Closed",
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300004,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 6,
+    "MainPropID": 300003,
+    "NpcInstanceID": 400005,
+    "FloorID": 20321001,
+    "GroupID": 144,
+    "NpcGroupID": 130
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 6,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400006,
+    "FloorID": 20321001,
+    "GroupID": 134,
+    "NpcGroupID": 130
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 6,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400007,
+    "FloorID": 20321001,
+    "GroupID": 135,
+    "NpcGroupID": 130
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 6,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400008,
+    "FloorID": 20321001,
+    "GroupID": 136,
+    "NpcGroupID": 130
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 6,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400009,
+    "FloorID": 20321001,
+    "GroupID": 137,
+    "NpcGroupID": 130
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 6,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400010,
+    "FloorID": 20321001,
+    "GroupID": 138,
+    "NpcGroupID": 130
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300005,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 6,
+    "MainPropID": 300004,
+    "NpcInstanceID": 400011,
+    "FloorID": 20321001,
+    "GroupID": 145,
+    "NpcGroupID": 130
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 6,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400012,
+    "FloorID": 20321001,
+    "GroupID": 146,
+    "NpcGroupID": 130
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 6,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400013,
+    "FloorID": 20321001,
+    "GroupID": 139,
+    "NpcGroupID": 130
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 6,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400015,
+    "FloorID": 20321001,
+    "GroupID": 140,
+    "NpcGroupID": 130
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 6,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400014,
+    "FloorID": 20321001,
+    "GroupID": 147,
+    "NpcGroupID": 130
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 6,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400016,
+    "FloorID": 20321001,
+    "GroupID": 141,
+    "NpcGroupID": 130
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 6,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400017,
+    "FloorID": 20321001,
+    "GroupID": 142,
+    "NpcGroupID": 130
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 6,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400018,
+    "FloorID": 20321001,
+    "GroupID": 143,
+    "NpcGroupID": 130
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 6,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400019,
+    "FloorID": 20321001,
+    "GroupID": 148,
+    "NpcGroupID": 130
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 6,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400020,
+    "FloorID": 20321001,
+    "GroupID": 149,
+    "NpcGroupID": 130
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 6,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400021,
+    "FloorID": 20321001,
+    "GroupID": 150,
+    "NpcGroupID": 130
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 7,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400002,
+    "FloorID": 10304001,
+    "GroupID": 44,
+    "NpcGroupID": 64
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 7,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400003,
+    "FloorID": 10304001,
+    "GroupID": 45,
+    "NpcGroupID": 64
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 7,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400004,
+    "FloorID": 10304001,
+    "GroupID": 46,
+    "NpcGroupID": 64
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 7,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400005,
+    "FloorID": 10304001,
+    "GroupID": 47,
+    "NpcGroupID": 64
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 7,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400006,
+    "FloorID": 10304001,
+    "GroupID": 48,
+    "NpcGroupID": 64
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 7,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400007,
+    "FloorID": 10304001,
+    "GroupID": 49,
+    "NpcGroupID": 64
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 7,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400008,
+    "FloorID": 10304001,
+    "GroupID": 50,
+    "NpcGroupID": 64
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 7,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400009,
+    "FloorID": 10304001,
+    "GroupID": 51,
+    "NpcGroupID": 64
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 7,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400010,
+    "FloorID": 10304001,
+    "GroupID": 52,
+    "NpcGroupID": 64
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 7,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400011,
+    "FloorID": 10304001,
+    "GroupID": 53,
+    "NpcGroupID": 64
+  },
+  {
+    "MainPropStateList": [
+      "Closed",
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300004,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 7,
+    "MainPropID": 300003,
+    "NpcInstanceID": 400012,
+    "FloorID": 10304001,
+    "GroupID": 54,
+    "NpcGroupID": 64
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 7,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400013,
+    "FloorID": 10304001,
+    "GroupID": 55,
+    "NpcGroupID": 64
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 7,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400015,
+    "FloorID": 10304001,
+    "GroupID": 56,
+    "NpcGroupID": 64
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 7,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400014,
+    "FloorID": 10304001,
+    "GroupID": 57,
+    "NpcGroupID": 64
+  },
+  {
+    "MainPropStateList": [
+      "Closed",
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300004,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 7,
+    "MainPropID": 300003,
+    "NpcInstanceID": 400016,
+    "FloorID": 10304001,
+    "GroupID": 58,
+    "NpcGroupID": 64
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 7,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400017,
+    "FloorID": 10304001,
+    "GroupID": 59,
+    "NpcGroupID": 64
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300005,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 7,
+    "MainPropID": 300004,
+    "NpcInstanceID": 400018,
+    "FloorID": 10304001,
+    "GroupID": 60,
+    "NpcGroupID": 64
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 7,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400019,
+    "FloorID": 10304001,
+    "GroupID": 61,
+    "NpcGroupID": 64
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 7,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400020,
+    "FloorID": 10304001,
+    "GroupID": 62,
+    "NpcGroupID": 64
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 7,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400021,
+    "FloorID": 10304001,
+    "GroupID": 63,
+    "NpcGroupID": 64
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300005,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 8,
+    "MainPropID": 300004,
+    "NpcInstanceID": 400002,
+    "FloorID": 20331001,
+    "GroupID": 176,
+    "NpcGroupID": 175
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 8,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400003,
+    "FloorID": 20331001,
+    "GroupID": 177,
+    "NpcGroupID": 175
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 8,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400004,
+    "FloorID": 20331001,
+    "GroupID": 178,
+    "NpcGroupID": 175
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 8,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400005,
+    "FloorID": 20331001,
+    "GroupID": 179,
+    "NpcGroupID": 175
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 8,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400006,
+    "FloorID": 20331001,
+    "GroupID": 180,
+    "NpcGroupID": 175
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 8,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400012,
+    "FloorID": 20331001,
+    "GroupID": 181,
+    "NpcGroupID": 175
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 8,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400013,
+    "FloorID": 20331001,
+    "GroupID": 182,
+    "NpcGroupID": 175
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 8,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400014,
+    "FloorID": 20331001,
+    "GroupID": 183,
+    "NpcGroupID": 175
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 8,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400010,
+    "FloorID": 20331001,
+    "GroupID": 184,
+    "NpcGroupID": 175
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 8,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400011,
+    "FloorID": 20331001,
+    "GroupID": 185,
+    "NpcGroupID": 175
+  },
+  {
+    "MainPropStateList": [
+      "Closed",
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 8,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400007,
+    "FloorID": 20331001,
+    "GroupID": 186,
+    "NpcGroupID": 175
+  },
+  {
+    "MainPropStateList": [
+      "Closed",
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 8,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400008,
+    "FloorID": 20331001,
+    "GroupID": 187,
+    "NpcGroupID": 175
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 8,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400009,
+    "FloorID": 20331001,
+    "GroupID": 188,
+    "NpcGroupID": 175
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300005,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 8,
+    "MainPropID": 300004,
+    "NpcInstanceID": 400015,
+    "FloorID": 20331001,
+    "GroupID": 189,
+    "NpcGroupID": 175
+  },
+  {
+    "MainPropStateList": [
+      "Closed",
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300004,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 8,
+    "MainPropID": 300003,
+    "NpcInstanceID": 400016,
+    "FloorID": 20331001,
+    "GroupID": 190,
+    "NpcGroupID": 175
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 8,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400017,
+    "FloorID": 20331001,
+    "GroupID": 191,
+    "NpcGroupID": 175
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 8,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400018,
+    "FloorID": 20331001,
+    "GroupID": 192,
+    "NpcGroupID": 175
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 8,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400019,
+    "FloorID": 20331001,
+    "GroupID": 193,
+    "NpcGroupID": 175
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 8,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400020,
+    "FloorID": 20331001,
+    "GroupID": 194,
+    "NpcGroupID": 175
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 8,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400021,
+    "FloorID": 20331001,
+    "GroupID": 195,
+    "NpcGroupID": 175
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 9,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400002,
+    "FloorID": 20332001,
+    "GroupID": 298,
+    "NpcGroupID": 297
+  },
+  {
+    "MainPropStateList": [
+      "Closed",
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300004,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 9,
+    "MainPropID": 300003,
+    "NpcInstanceID": 400003,
+    "FloorID": 20332001,
+    "GroupID": 299,
+    "NpcGroupID": 297
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 9,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400004,
+    "FloorID": 20332001,
+    "GroupID": 300,
+    "NpcGroupID": 297
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 9,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400005,
+    "FloorID": 20332001,
+    "GroupID": 301,
+    "NpcGroupID": 297
+  },
+  {
+    "MainPropStateList": [
+      "Closed",
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300004,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 9,
+    "MainPropID": 300003,
+    "NpcInstanceID": 400006,
+    "FloorID": 20332001,
+    "GroupID": 302,
+    "NpcGroupID": 297
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 9,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400007,
+    "FloorID": 20332001,
+    "GroupID": 303,
+    "NpcGroupID": 297
+  },
+  {
+    "MainPropStateList": [
+      "Closed",
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300004,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 9,
+    "MainPropID": 300003,
+    "NpcInstanceID": 400008,
+    "FloorID": 20332001,
+    "GroupID": 304,
+    "NpcGroupID": 297
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300005,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 9,
+    "MainPropID": 300004,
+    "NpcInstanceID": 400009,
+    "FloorID": 20332001,
+    "GroupID": 305,
+    "NpcGroupID": 297
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 9,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400010,
+    "FloorID": 20332001,
+    "GroupID": 306,
+    "NpcGroupID": 297
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 9,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400011,
+    "FloorID": 20332001,
+    "GroupID": 307,
+    "NpcGroupID": 297
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 9,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400012,
+    "FloorID": 20332001,
+    "GroupID": 308,
+    "NpcGroupID": 297
+  },
+  {
+    "MainPropStateList": [
+      "Closed",
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 9,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400013,
+    "FloorID": 20332001,
+    "GroupID": 309,
+    "NpcGroupID": 297
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 9,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400015,
+    "FloorID": 20332001,
+    "GroupID": 310,
+    "NpcGroupID": 297
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 9,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400014,
+    "FloorID": 20332001,
+    "GroupID": 311,
+    "NpcGroupID": 297
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 9,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400016,
+    "FloorID": 20332001,
+    "GroupID": 312,
+    "NpcGroupID": 297
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 9,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400017,
+    "FloorID": 20332001,
+    "GroupID": 313,
+    "NpcGroupID": 297
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 9,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400018,
+    "FloorID": 20332001,
+    "GroupID": 314,
+    "NpcGroupID": 297
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 9,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400019,
+    "FloorID": 20332001,
+    "GroupID": 315,
+    "NpcGroupID": 297
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 9,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400020,
+    "FloorID": 20332001,
+    "GroupID": 316,
+    "NpcGroupID": 297
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 9,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400021,
+    "FloorID": 20332001,
+    "GroupID": 317,
+    "NpcGroupID": 297
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 10,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400002,
+    "FloorID": 10341001,
+    "GroupID": 93,
+    "NpcGroupID": 92
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 10,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400003,
+    "FloorID": 10341001,
+    "GroupID": 94,
+    "NpcGroupID": 92
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 10,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400004,
+    "FloorID": 10341001,
+    "GroupID": 95,
+    "NpcGroupID": 92
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 10,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400005,
+    "FloorID": 10341001,
+    "GroupID": 96,
+    "NpcGroupID": 92
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 10,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400006,
+    "FloorID": 10341001,
+    "GroupID": 97,
+    "NpcGroupID": 92
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 10,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400007,
+    "FloorID": 10341001,
+    "GroupID": 98,
+    "NpcGroupID": 92
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 10,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400008,
+    "FloorID": 10341001,
+    "GroupID": 99,
+    "NpcGroupID": 92
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 10,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400009,
+    "FloorID": 10341001,
+    "GroupID": 100,
+    "NpcGroupID": 92
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 10,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400010,
+    "FloorID": 10341001,
+    "GroupID": 101,
+    "NpcGroupID": 92
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 10,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400011,
+    "FloorID": 10341001,
+    "GroupID": 102,
+    "NpcGroupID": 92
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300005,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 11,
+    "MainPropID": 300004,
+    "NpcInstanceID": 400007,
+    "FloorID": 10306001,
+    "GroupID": 64,
+    "NpcGroupID": 63
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 11,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400006,
+    "FloorID": 10306001,
+    "GroupID": 65,
+    "NpcGroupID": 63
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 11,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400013,
+    "FloorID": 10306001,
+    "GroupID": 66,
+    "NpcGroupID": 63
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 11,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400002,
+    "FloorID": 10306001,
+    "GroupID": 67,
+    "NpcGroupID": 63
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 11,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400014,
+    "FloorID": 10306001,
+    "GroupID": 68,
+    "NpcGroupID": 63
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 11,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400010,
+    "FloorID": 10306001,
+    "GroupID": 69,
+    "NpcGroupID": 63
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 11,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400003,
+    "FloorID": 10306001,
+    "GroupID": 70,
+    "NpcGroupID": 63
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 11,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400008,
+    "FloorID": 10306001,
+    "GroupID": 71,
+    "NpcGroupID": 63
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 11,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400016,
+    "FloorID": 10306001,
+    "GroupID": 72,
+    "NpcGroupID": 63
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 11,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400015,
+    "FloorID": 10306001,
+    "GroupID": 73,
+    "NpcGroupID": 63
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 11,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400021,
+    "FloorID": 10306001,
+    "GroupID": 74,
+    "NpcGroupID": 63
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 11,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400011,
+    "FloorID": 10306001,
+    "GroupID": 75,
+    "NpcGroupID": 63
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 11,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400018,
+    "FloorID": 10306001,
+    "GroupID": 76,
+    "NpcGroupID": 63
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 11,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400009,
+    "FloorID": 10306001,
+    "GroupID": 77,
+    "NpcGroupID": 63
+  },
+  {
+    "MainPropStateList": [
+      "Closed",
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300004,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 11,
+    "MainPropID": 300003,
+    "NpcInstanceID": 400020,
+    "FloorID": 10306001,
+    "GroupID": 78,
+    "NpcGroupID": 63
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 11,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400012,
+    "FloorID": 10306001,
+    "GroupID": 79,
+    "NpcGroupID": 63
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 11,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400004,
+    "FloorID": 10306001,
+    "GroupID": 80,
+    "NpcGroupID": 63
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 11,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400005,
+    "FloorID": 10306001,
+    "GroupID": 81,
+    "NpcGroupID": 63
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 11,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400017,
+    "FloorID": 10306001,
+    "GroupID": 82,
+    "NpcGroupID": 63
+  },
+  {
+    "MainPropStateList": [
+      "EventClose"
+    ],
+    "CreateNpcPropState": "EventOpen",
+    "SubPropID": 300002,
+    "TargetSubPropState": "Closed",
+    "ColonyID": 11,
+    "MainPropID": 300001,
+    "NpcInstanceID": 400019,
+    "FloorID": 10306001,
+    "GroupID": 83,
+    "NpcGroupID": 63
+  }
+]

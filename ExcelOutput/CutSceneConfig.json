@@ -1,0 +1,742 @@
+[
+  {
+    "HideBlockList": [],
+    "CutSceneName": "CS_Chap01_Act010",
+    "PosOffSet": [
+      0,
+      0,
+      0
+    ],
+    "CutSceneBGMStateName": "State_Cutscene_010",
+    "CaptionPath": "",
+    "CutScenePath": "CutScene/_Timeline/CS_Chap01_Act010_Timeline.playable",
+    "CutSceneSFXJsonPath": "",
+    "MazeFloorID": 10000000,
+    "SFXID": 0,
+    "VoiceID": 0,
+    "MazePlaneID": 10000,
+    "IsPlayerInvolved": true
+  },
+  {
+    "HideBlockList": [],
+    "CutSceneName": "CS_Chap01_Act020",
+    "PosOffSet": [
+      0,
+      0,
+      0
+    ],
+    "CutSceneBGMStateName": "State_Cutscene_020",
+    "CaptionPath": "",
+    "CutScenePath": "CutScene/_Timeline/CS_Chap01_Act020_Timeline.playable",
+    "CutSceneSFXJsonPath": "",
+    "MazeFloorID": 10000000,
+    "SFXID": 0,
+    "VoiceID": 0,
+    "MazePlaneID": 10000,
+    "IsPlayerInvolved": true
+  },
+  {
+    "HideBlockList": [],
+    "CutSceneName": "CS_Chap01_Act030",
+    "PosOffSet": [
+      0,
+      18.75,
+      0
+    ],
+    "CutSceneBGMStateName": "State_Cutscene_030",
+    "CaptionPath": "",
+    "CutScenePath": "CutScene/_Timeline/CS_Chap01_Act030_Timeline.playable",
+    "CutSceneSFXJsonPath": "",
+    "MazeFloorID": 20101001,
+    "SFXID": 10030,
+    "VoiceID": 10030,
+    "MazePlaneID": 20101,
+    "IsPlayerInvolved": true
+  },
+  {
+    "HideBlockList": [
+      "SquareBlock"
+    ],
+    "CutSceneName": "CS_Chap01_Act040",
+    "PosOffSet": [
+      -100,
+      0,
+      -150
+    ],
+    "CutSceneBGMStateName": "State_Cutscene_040",
+    "CaptionPath": "Config/CutSceneCaption/CS_Chap01_Act040_Caption.json",
+    "CutScenePath": "CutScene/_Timeline/CS_Chap01_Act040_Timeline.playable",
+    "CutSceneSFXJsonPath": "",
+    "MazeFloorID": 10101001,
+    "SFXID": 10040,
+    "VoiceID": 10040,
+    "MazePlaneID": 10101,
+    "IsPlayerInvolved": true
+  },
+  {
+    "HideBlockList": [],
+    "CutSceneName": "CS_Chap01_Act050",
+    "PosOffSet": [
+      -30,
+      0,
+      -170
+    ],
+    "CutSceneBGMStateName": "State_Cutscene_050",
+    "CaptionPath": "Config/CutSceneCaption/CS_Chap01_Act050_Caption.json",
+    "CutScenePath": "CutScene/_Timeline/CS_Chap01_Act050_Timeline.playable",
+    "CutSceneSFXJsonPath": "",
+    "MazeFloorID": 20111001,
+    "SFXID": 10050,
+    "VoiceID": 10050,
+    "MazePlaneID": 20111,
+    "IsPlayerInvolved": true
+  },
+  {
+    "HideBlockList": [],
+    "CutSceneName": "CS_Chap01_Act060",
+    "PosOffSet": [
+      -30,
+      0,
+      -170
+    ],
+    "CutSceneBGMStateName": "State_Cutscene_060",
+    "CaptionPath": "Config/CutSceneCaption/CS_Chap01_Act060_Caption.json",
+    "CutScenePath": "CutScene/_Timeline/CS_Chap01_Act060_Timeline.playable",
+    "CutSceneSFXJsonPath": "",
+    "MazeFloorID": 20111001,
+    "SFXID": 10060,
+    "VoiceID": 10060,
+    "MazePlaneID": 20111,
+    "IsPlayerInvolved": false
+  },
+  {
+    "HideBlockList": [],
+    "CutSceneName": "CS_Chap01_Act070",
+    "PosOffSet": [
+      -30,
+      0,
+      -170
+    ],
+    "CutSceneBGMStateName": "State_Cutscene_070",
+    "CaptionPath": "Config/CutSceneCaption/CS_Chap01_Act070_Caption.json",
+    "CutScenePath": "CutScene/_Timeline/CS_Chap01_Act070_Timeline.playable",
+    "CutSceneSFXJsonPath": "",
+    "MazeFloorID": 20111001,
+    "SFXID": 10070,
+    "VoiceID": 10070,
+    "MazePlaneID": 20111,
+    "IsPlayerInvolved": true
+  },
+  {
+    "HideBlockList": [],
+    "CutSceneName": "CS_Chap01_Act080",
+    "PosOffSet": [
+      0,
+      -10,
+      -5
+    ],
+    "CutSceneBGMStateName": "State_Cutscene_080",
+    "CaptionPath": "Config/CutSceneCaption/CS_Chap01_Act080_Caption.json",
+    "CutScenePath": "CutScene/_Timeline/CS_Chap01_Act080_Timeline.playable",
+    "CutSceneSFXJsonPath": "",
+    "MazeFloorID": 10102001,
+    "SFXID": 10080,
+    "VoiceID": 10080,
+    "MazePlaneID": 10102,
+    "IsPlayerInvolved": false
+  },
+  {
+    "HideBlockList": [],
+    "CutSceneName": "CS_Chap01_Act100",
+    "PosOffSet": [
+      6,
+      20,
+      -49
+    ],
+    "CutSceneBGMStateName": "State_belobog_cutscene_100",
+    "CaptionPath": "Config/CutSceneCaption/CS_Chap01_Act100_Caption.json",
+    "CutScenePath": "CutScene/_Timeline/CS_Chap01_Act100_Timeline.playable",
+    "CutSceneSFXJsonPath": "",
+    "MazeFloorID": 20123001,
+    "SFXID": 10100,
+    "VoiceID": 10100,
+    "MazePlaneID": 20123,
+    "IsPlayerInvolved": true
+  },
+  {
+    "HideBlockList": [],
+    "CutSceneName": "CS_Chap01_Act140",
+    "PosOffSet": [
+      -8.38,
+      -5.05,
+      -11.72
+    ],
+    "CutSceneBGMStateName": "State_Cutscene_140",
+    "CaptionPath": "",
+    "CutScenePath": "CutScene/_Timeline/CS_Chap01_Act140_Timeline.playable",
+    "CutSceneSFXJsonPath": "",
+    "MazeFloorID": 20133001,
+    "SFXID": 10140,
+    "VoiceID": 10140,
+    "MazePlaneID": 20133,
+    "IsPlayerInvolved": true
+  },
+  {
+    "HideBlockList": [],
+    "CutSceneName": "CS_Chap01_Act160",
+    "PosOffSet": [
+      0,
+      0,
+      0
+    ],
+    "CutSceneBGMStateName": "",
+    "CaptionPath": "Config/CutSceneCaption/CS_Chap01_Act160_Caption.json",
+    "CutScenePath": "CutScene/_Timeline/CS_Chap01_Act160_Timeline.playable",
+    "CutSceneSFXJsonPath": "",
+    "MazeFloorID": 20133001,
+    "SFXID": 0,
+    "VoiceID": 0,
+    "MazePlaneID": 20133,
+    "IsPlayerInvolved": false
+  },
+  {
+    "HideBlockList": [],
+    "CutSceneName": "CS_Chap00_Act220",
+    "PosOffSet": [
+      0,
+      0,
+      0
+    ],
+    "CutSceneBGMStateName": "State_Herta_Space_Station_Cutscene_220",
+    "CaptionPath": "Config/CutSceneCaption/CS_Chap00_Act220_Caption.json",
+    "CutScenePath": "CutScene/_Timeline/CS_Chap00_Act220_Timeline.playable",
+    "CutSceneSFXJsonPath": "",
+    "MazeFloorID": 20001001,
+    "SFXID": 10220,
+    "VoiceID": 10220,
+    "MazePlaneID": 20001,
+    "IsPlayerInvolved": false
+  },
+  {
+    "HideBlockList": [],
+    "CutSceneName": "CS_Chap00_Act230",
+    "PosOffSet": [
+      0,
+      0.147,
+      117.3999
+    ],
+    "CutSceneBGMStateName": "State_Herta_Space_Station_Cutscene_230",
+    "CaptionPath": "Config/CutSceneCaption/CS_Chap00_Act230_Caption.json",
+    "CutScenePath": "CutScene/_Timeline/CS_Chap00_Act230_Timeline.playable",
+    "CutSceneSFXJsonPath": "",
+    "MazeFloorID": 20001001,
+    "SFXID": 10230,
+    "VoiceID": 10230,
+    "MazePlaneID": 20001,
+    "IsPlayerInvolved": false
+  },
+  {
+    "HideBlockList": [],
+    "CutSceneName": "CS_Chap00_Act240",
+    "PosOffSet": [
+      0,
+      0,
+      0
+    ],
+    "CutSceneBGMStateName": "",
+    "CaptionPath": "Config/CutSceneCaption/CS_Chap00_Act240_Caption.json",
+    "CutScenePath": "CutScene/_Timeline/CS_Chap00_Act240_Timeline.playable",
+    "CutSceneSFXJsonPath": "",
+    "MazeFloorID": 20001001,
+    "SFXID": 10240,
+    "VoiceID": 10240,
+    "MazePlaneID": 20001,
+    "IsPlayerInvolved": true
+  },
+  {
+    "HideBlockList": [],
+    "CutSceneName": "CS_Chap00_Act245",
+    "PosOffSet": [
+      0,
+      0,
+      0
+    ],
+    "CutSceneBGMStateName": "State_Herta_Space_Station_Cutscene_245",
+    "CaptionPath": "Config/CutSceneCaption/CS_Chap00_Act245_Caption.json",
+    "CutScenePath": "CutScene/_Timeline/CS_Chap00_Act245_Timeline.playable",
+    "CutSceneSFXJsonPath": "",
+    "MazeFloorID": 20001001,
+    "SFXID": 10245,
+    "VoiceID": 10245,
+    "MazePlaneID": 20001,
+    "IsPlayerInvolved": true
+  },
+  {
+    "HideBlockList": [],
+    "CutSceneName": "CS_Chap00_Act250",
+    "PosOffSet": [
+      -76.0855,
+      -65.7495,
+      -73.59116
+    ],
+    "CutSceneBGMStateName": "State_Herta_Space_Station_Cutscene_250",
+    "CaptionPath": "Config/CutSceneCaption/CS_Chap00_Act250_Caption.json",
+    "CutScenePath": "CutScene/_Timeline/CS_Chap00_Act250_Timeline.playable",
+    "CutSceneSFXJsonPath": "",
+    "MazeFloorID": 20002001,
+    "SFXID": 10250,
+    "VoiceID": 10250,
+    "MazePlaneID": 20002,
+    "IsPlayerInvolved": true
+  },
+  {
+    "HideBlockList": [],
+    "CutSceneName": "CS_Chap00_Act260",
+    "PosOffSet": [
+      -76.185,
+      -65.74,
+      -73.57
+    ],
+    "CutSceneBGMStateName": "State_Herta_Space_Station_Cutscene_260",
+    "CaptionPath": "",
+    "CutScenePath": "CutScene/_Timeline/CS_Chap00_Act260_Timeline.playable",
+    "CutSceneSFXJsonPath": "",
+    "MazeFloorID": 20002001,
+    "SFXID": 10260,
+    "VoiceID": 10260,
+    "MazePlaneID": 20002,
+    "IsPlayerInvolved": true
+  },
+  {
+    "HideBlockList": [],
+    "CutSceneName": "CS_Chap00_Act280",
+    "PosOffSet": [
+      0,
+      0,
+      0
+    ],
+    "CutSceneBGMStateName": "State_Herta_Space_Station_Cutscene_280",
+    "CaptionPath": "Config/CutSceneCaption/CS_Chap00_Act280_Caption.json",
+    "CutScenePath": "CutScene/_Timeline/CS_Chap00_Act280_Timeline.playable",
+    "CutSceneSFXJsonPath": "",
+    "MazeFloorID": 10001001,
+    "SFXID": 10280,
+    "VoiceID": 10280,
+    "MazePlaneID": 10001,
+    "IsPlayerInvolved": true
+  },
+  {
+    "HideBlockList": [],
+    "CutSceneName": "CS_Chap00_Act290",
+    "PosOffSet": [
+      0,
+      0,
+      0
+    ],
+    "CutSceneBGMStateName": "State_Herta_Space_Station_Cutscene_290",
+    "CaptionPath": "Config/CutSceneCaption/CS_Chap00_Act290_Caption.json",
+    "CutScenePath": "CutScene/_Timeline/CS_Chap00_Act290_Timeline.playable",
+    "CutSceneSFXJsonPath": "",
+    "MazeFloorID": 20003001,
+    "SFXID": 10290,
+    "VoiceID": 10290,
+    "MazePlaneID": 20003,
+    "IsPlayerInvolved": true
+  },
+  {
+    "HideBlockList": [],
+    "CutSceneName": "CS_Chap00_Act310",
+    "PosOffSet": [
+      0,
+      0,
+      0
+    ],
+    "CutSceneBGMStateName": "",
+    "CaptionPath": "Config/CutSceneCaption/CS_Chap00_Act310_Caption.json",
+    "CutScenePath": "CutScene/_Timeline/CS_Chap00_Act310_Timeline.playable",
+    "CutSceneSFXJsonPath": "",
+    "MazeFloorID": 20003001,
+    "SFXID": 0,
+    "VoiceID": 0,
+    "MazePlaneID": 20003,
+    "IsPlayerInvolved": true
+  },
+  {
+    "HideBlockList": [],
+    "CutSceneName": "CS_ChapGacha_Act010",
+    "PosOffSet": [
+      0,
+      0,
+      0
+    ],
+    "CutSceneBGMStateName": "",
+    "CaptionPath": "",
+    "CutScenePath": "CutScene/_Timeline/CS_ChapGacha_Act010_Timeline.playable",
+    "CutSceneSFXJsonPath": "",
+    "MazeFloorID": 0,
+    "SFXID": 0,
+    "VoiceID": 0,
+    "MazePlaneID": 0,
+    "IsPlayerInvolved": false
+  },
+  {
+    "HideBlockList": [],
+    "CutSceneName": "CS_ChapGacha_Act020",
+    "PosOffSet": [
+      0,
+      0,
+      0
+    ],
+    "CutSceneBGMStateName": "",
+    "CaptionPath": "",
+    "CutScenePath": "CutScene/_Timeline/CS_ChapGacha_Act020_Timeline.playable",
+    "CutSceneSFXJsonPath": "",
+    "MazeFloorID": 0,
+    "SFXID": 0,
+    "VoiceID": 0,
+    "MazePlaneID": 0,
+    "IsPlayerInvolved": false
+  },
+  {
+    "HideBlockList": [],
+    "CutSceneName": "CS_Chap02_Act410",
+    "PosOffSet": [
+      0,
+      0,
+      0
+    ],
+    "CutSceneBGMStateName": "State_Spacetrain_Cutscene_410",
+    "CaptionPath": "Config/CutSceneCaption/CS_Chap02_Act410_Caption.json",
+    "CutScenePath": "CutScene/_Timeline/CS_Chap02_Act410_Timeline.playable",
+    "CutSceneSFXJsonPath": "",
+    "MazeFloorID": 10000000,
+    "SFXID": 10410,
+    "VoiceID": 10410,
+    "MazePlaneID": 10000,
+    "IsPlayerInvolved": true
+  },
+  {
+    "HideBlockList": [],
+    "CutSceneName": "CS_Chap02_Act430",
+    "PosOffSet": [
+      0,
+      0,
+      0
+    ],
+    "CutSceneBGMStateName": "State_Xianzhou_Alliance_Cutscene_430",
+    "CaptionPath": "Config/CutSceneCaption/CS_Chap02_Act430_Caption.json",
+    "CutScenePath": "CutScene/_Timeline/CS_Chap02_Act430_Timeline.playable",
+    "CutSceneSFXJsonPath": "",
+    "MazeFloorID": 10000002,
+    "SFXID": 10430,
+    "VoiceID": 10430,
+    "MazePlaneID": 10000,
+    "IsPlayerInvolved": false
+  },
+  {
+    "HideBlockList": [],
+    "CutSceneName": "CS_Chap02_Act470",
+    "PosOffSet": [
+      -15.18,
+      -0.96,
+      42.6
+    ],
+    "CutSceneBGMStateName": "State_Xianzhou_Cutscene_470",
+    "CaptionPath": "Config/CutSceneCaption/CS_Chap02_Act470_Caption.json",
+    "CutScenePath": "CutScene/_Timeline/CS_Chap02_Act470_Timeline.playable",
+    "CutSceneSFXJsonPath": "",
+    "MazeFloorID": 20221001,
+    "SFXID": 10470,
+    "VoiceID": 10470,
+    "MazePlaneID": 20221,
+    "IsPlayerInvolved": true
+  },
+  {
+    "HideBlockList": [],
+    "CutSceneName": "CS_Chap02_Act510",
+    "PosOffSet": [
+      0,
+      0,
+      -0.1
+    ],
+    "CutSceneBGMStateName": "State_Xianzhou_Cutscene_510",
+    "CaptionPath": "Config/CutSceneCaption/CS_Chap02_Act510_Caption.json",
+    "CutScenePath": "CutScene/_Timeline/CS_Chap02_Act510_Timeline.playable",
+    "CutSceneSFXJsonPath": "",
+    "MazeFloorID": 20213001,
+    "SFXID": 10510,
+    "VoiceID": 10510,
+    "MazePlaneID": 20213,
+    "IsPlayerInvolved": false
+  },
+  {
+    "HideBlockList": [],
+    "CutSceneName": "CS_Chap02_Act500",
+    "PosOffSet": [
+      0,
+      47.32,
+      0
+    ],
+    "CutSceneBGMStateName": "State_Xianzhou_Cutscene_500",
+    "CaptionPath": "",
+    "CutScenePath": "CutScene/_Timeline/CS_Chap02_Act500_Timeline.playable",
+    "CutSceneSFXJsonPath": "",
+    "MazeFloorID": 20222001,
+    "SFXID": 10500,
+    "VoiceID": 0,
+    "MazePlaneID": 20222,
+    "IsPlayerInvolved": true
+  },
+  {
+    "HideBlockList": [],
+    "CutSceneName": "CS_Chap02_Act540",
+    "PosOffSet": [
+      0,
+      0,
+      0
+    ],
+    "CutSceneBGMStateName": "State_Xianzhou_Cutscene_540",
+    "CaptionPath": "Config/CutSceneCaption/CS_Chap02_Act540_Caption.json",
+    "CutScenePath": "CutScene/_Timeline/CS_Chap02_Act540_Timeline.playable",
+    "CutSceneSFXJsonPath": "",
+    "MazeFloorID": 20231001,
+    "SFXID": 10511,
+    "VoiceID": 10540,
+    "MazePlaneID": 20231,
+    "IsPlayerInvolved": true
+  },
+  {
+    "HideBlockList": [],
+    "CutSceneName": "CS_Chap02_Act570",
+    "PosOffSet": [
+      0,
+      0,
+      0
+    ],
+    "CutSceneBGMStateName": "",
+    "CaptionPath": "",
+    "CutScenePath": "CutScene/_Timeline/CS_Chap02_Act570_Timeline.playable",
+    "CutSceneSFXJsonPath": "",
+    "MazeFloorID": 20233001,
+    "SFXID": 0,
+    "VoiceID": 0,
+    "MazePlaneID": 20233,
+    "IsPlayerInvolved": true
+  },
+  {
+    "HideBlockList": [],
+    "CutSceneName": "CS_Chap02_Act590",
+    "PosOffSet": [
+      0,
+      0,
+      0
+    ],
+    "CutSceneBGMStateName": "State_Xianzhou_Cutscene_590",
+    "CaptionPath": "",
+    "CutScenePath": "CutScene/_Timeline/CS_Chap02_Act590_Timeline.playable",
+    "CutSceneSFXJsonPath": "",
+    "MazeFloorID": 20231001,
+    "SFXID": 10512,
+    "VoiceID": 0,
+    "MazePlaneID": 20231,
+    "IsPlayerInvolved": false
+  },
+  {
+    "HideBlockList": [],
+    "CutSceneName": "CS_Chap02_Act600",
+    "PosOffSet": [
+      0,
+      0,
+      0
+    ],
+    "CutSceneBGMStateName": "State_Xianzhou_Cutscene_600",
+    "CaptionPath": "",
+    "CutScenePath": "CutScene/_Timeline/CS_Chap02_Act600_Timeline.playable",
+    "CutSceneSFXJsonPath": "",
+    "MazeFloorID": 20232001,
+    "SFXID": 10513,
+    "VoiceID": 0,
+    "MazePlaneID": 20232,
+    "IsPlayerInvolved": false
+  },
+  {
+    "HideBlockList": [],
+    "CutSceneName": "CS_Chap02_Act640",
+    "PosOffSet": [
+      0,
+      0,
+      0
+    ],
+    "CutSceneBGMStateName": "",
+    "CaptionPath": "",
+    "CutScenePath": "CutScene/_Timeline/CS_Chap02_Act640_Timeline.playable",
+    "CutSceneSFXJsonPath": "",
+    "MazeFloorID": 20232001,
+    "SFXID": 0,
+    "VoiceID": 0,
+    "MazePlaneID": 20232,
+    "IsPlayerInvolved": false
+  },
+  {
+    "HideBlockList": [],
+    "CutSceneName": "CS_Chap02_Act650",
+    "PosOffSet": [
+      0,
+      0,
+      0
+    ],
+    "CutSceneBGMStateName": "State_Xianzhou_Cutscene_650",
+    "CaptionPath": "",
+    "CutScenePath": "CutScene/_Timeline/CS_Chap02_Act650_Timeline.playable",
+    "CutSceneSFXJsonPath": "",
+    "MazeFloorID": 20232001,
+    "SFXID": 10514,
+    "VoiceID": 10650,
+    "MazePlaneID": 20232,
+    "IsPlayerInvolved": false
+  },
+  {
+    "HideBlockList": [],
+    "CutSceneName": "CS_Chap02_Act710",
+    "PosOffSet": [
+      0,
+      0,
+      0
+    ],
+    "CutSceneBGMStateName": "",
+    "CaptionPath": "",
+    "CutScenePath": "CutScene/_Timeline/CS_Chap02_Act710_Timeline.playable",
+    "CutSceneSFXJsonPath": "",
+    "MazeFloorID": 20223001,
+    "SFXID": 0,
+    "VoiceID": 0,
+    "MazePlaneID": 20223,
+    "IsPlayerInvolved": false
+  },
+  {
+    "HideBlockList": [],
+    "CutSceneName": "CS_ActivityHeliobus_Gourd",
+    "PosOffSet": [
+      0,
+      0,
+      0
+    ],
+    "CutSceneBGMStateName": "",
+    "CaptionPath": "",
+    "CutScenePath": "CutScene/_Timeline/CS_ActivityHeliobus_Gourd_Timeline.playable",
+    "CutSceneSFXJsonPath": "",
+    "MazeFloorID": 20111001,
+    "SFXID": 0,
+    "VoiceID": 0,
+    "MazePlaneID": 20111,
+    "IsPlayerInvolved": false
+  },
+  {
+    "HideBlockList": [],
+    "CutSceneName": "CS_Chap00_Act330",
+    "PosOffSet": [
+      272.45,
+      79.94,
+      77.09
+    ],
+    "CutSceneBGMStateName": "",
+    "CaptionPath": "",
+    "CutScenePath": "CutScene/_Timeline/CS_Chap00_Act330_Timeline.playable",
+    "CutSceneSFXJsonPath": "",
+    "MazeFloorID": 20003001,
+    "SFXID": 0,
+    "VoiceID": 0,
+    "MazePlaneID": 20003,
+    "IsPlayerInvolved": true
+  },
+  {
+    "HideBlockList": [],
+    "CutSceneName": "CS_Chap00_Act340",
+    "PosOffSet": [
+      0,
+      0,
+      0
+    ],
+    "CutSceneBGMStateName": "",
+    "CaptionPath": "",
+    "CutScenePath": "CutScene/_Timeline/CS_Chap00_Act340_Timeline.playable",
+    "CutSceneSFXJsonPath": "",
+    "MazeFloorID": 20004001,
+    "SFXID": 0,
+    "VoiceID": 0,
+    "MazePlaneID": 20004,
+    "IsPlayerInvolved": true
+  },
+  {
+    "HideBlockList": [],
+    "CutSceneName": "CS_Chap00_Act350",
+    "PosOffSet": [
+      -68,
+      412.01,
+      6.68476
+    ],
+    "CutSceneBGMStateName": "",
+    "CaptionPath": "",
+    "CutScenePath": "CutScene/_Timeline/CS_Chap00_Act350_Timeline.playable",
+    "CutSceneSFXJsonPath": "",
+    "MazeFloorID": 20004001,
+    "SFXID": 0,
+    "VoiceID": 0,
+    "MazePlaneID": 20004,
+    "IsPlayerInvolved": true
+  },
+  {
+    "HideBlockList": [],
+    "CutSceneName": "CS_Chap00_Act360",
+    "PosOffSet": [
+      0,
+      0,
+      0
+    ],
+    "CutSceneBGMStateName": "",
+    "CaptionPath": "",
+    "CutScenePath": "CutScene/_Timeline/CS_Chap00_Act360_Timeline.playable",
+    "CutSceneSFXJsonPath": "",
+    "MazeFloorID": 20004001,
+    "SFXID": 0,
+    "VoiceID": 0,
+    "MazePlaneID": 20004,
+    "IsPlayerInvolved": true
+  },
+  {
+    "HideBlockList": [],
+    "CutSceneName": "CS_Chap00_Act361",
+    "PosOffSet": [
+      0,
+      0,
+      0
+    ],
+    "CutSceneBGMStateName": "",
+    "CaptionPath": "",
+    "CutScenePath": "CutScene/_Timeline/CS_Chap00_Act361_Timeline.playable",
+    "CutSceneSFXJsonPath": "",
+    "MazeFloorID": 20004001,
+    "SFXID": 0,
+    "VoiceID": 0,
+    "MazePlaneID": 20004,
+    "IsPlayerInvolved": true
+  },
+  {
+    "HideBlockList": [],
+    "CutSceneName": "CS_Chap00_Act370",
+    "PosOffSet": [
+      -63.96,
+      177.52,
+      33.29
+    ],
+    "CutSceneBGMStateName": "",
+    "CaptionPath": "",
+    "CutScenePath": "CutScene/_Timeline/CS_Chap00_Act370_Timeline.playable",
+    "CutSceneSFXJsonPath": "",
+    "MazeFloorID": 20004001,
+    "SFXID": 0,
+    "VoiceID": 0,
+    "MazePlaneID": 20004,
+    "IsPlayerInvolved": true
+  }
+]

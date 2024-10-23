@@ -1,0 +1,16 @@
+[
+  {
+    "TrialRoleAvatarPath": "SpriteOutput/TrialRole/TrialRoleBg/TrialRoleAvatar_8005.png",
+    "TrialRoleAvatarFrontPath": "SpriteOutput/TrialRole/TrialRoleBg/TrialRoleAvatar_8005_Front.png",
+    "TrialRoleAvatarBackPath": "SpriteOutput/TrialRole/TrialRoleBg/TrialRoleAvatar_8005_Back.png",
+    "StageID": 380050,
+    "AvatarID": 8005
+  },
+  {
+    "TrialRoleAvatarPath": "SpriteOutput/TrialRole/TrialRoleBg/TrialRoleAvatar_8006.png",
+    "TrialRoleAvatarFrontPath": "SpriteOutput/TrialRole/TrialRoleBg/TrialRoleAvatar_8005_Front.png",
+    "TrialRoleAvatarBackPath": "SpriteOutput/TrialRole/TrialRoleBg/TrialRoleAvatar_8005_Back.png",
+    "StageID": 380060,
+    "AvatarID": 8006
+  }
+]

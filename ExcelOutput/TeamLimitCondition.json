@@ -1,0 +1,382 @@
+[
+  {
+    "ParamIntList": [],
+    "ID": 1,
+    "LimitDesc": {
+      "Hash": 1006517534
+    },
+    "ParamInt2": 0,
+    "ParamInt1": 8001,
+    "LimitType": "IncludeAvatar"
+  },
+  {
+    "ParamIntList": [],
+    "ID": 2,
+    "LimitDesc": {
+      "Hash": 1409802061
+    },
+    "ParamInt2": 0,
+    "ParamInt1": 30,
+    "LimitType": "TeamLevel"
+  },
+  {
+    "ParamIntList": [],
+    "ID": 3,
+    "LimitDesc": {
+      "Hash": -156281880
+    },
+    "ParamInt2": 0,
+    "ParamInt1": 1209,
+    "LimitType": "IncludeAvatar"
+  },
+  {
+    "ParamIntList": [],
+    "ID": 4,
+    "LimitDesc": {
+      "Hash": 603233007
+    },
+    "ParamInt2": 0,
+    "ParamInt1": 1002,
+    "LimitType": "IncludeAvatar"
+  },
+  {
+    "ParamIntList": [],
+    "ID": 5,
+    "LimitDesc": {
+      "Hash": -962850934
+    },
+    "ParamInt2": 0,
+    "ParamInt1": 4,
+    "LimitType": "TeamAvatarMinCount"
+  },
+  {
+    "ParamIntList": [],
+    "ID": 6,
+    "LimitDesc": {
+      "Hash": -559566407
+    },
+    "ParamInt2": 0,
+    "ParamInt1": 1204,
+    "LimitType": "IncludeAvatar"
+  },
+  {
+    "ParamIntList": [],
+    "ID": 7,
+    "LimitDesc": {
+      "Hash": -2125650348
+    },
+    "ParamInt2": 0,
+    "ParamInt1": 1208,
+    "LimitType": "IncludeAvatar"
+  },
+  {
+    "ParamIntList": [],
+    "ID": 8,
+    "LimitDesc": {
+      "Hash": -1366135461
+    },
+    "ParamInt2": 0,
+    "ParamInt1": 1213,
+    "LimitType": "IncludeAvatar"
+  },
+  {
+    "ParamIntList": [],
+    "ID": 9,
+    "LimitDesc": {
+      "Hash": 1362747894
+    },
+    "ParamInt2": 0,
+    "ParamInt1": 1212,
+    "LimitType": "IncludeAvatar"
+  },
+  {
+    "ParamIntList": [],
+    "ID": 10,
+    "LimitDesc": {
+      "Hash": 1543211342
+    },
+    "ParamInt2": 0,
+    "ParamInt1": 1217,
+    "LimitType": "IncludeAvatar"
+  },
+  {
+    "ParamIntList": [],
+    "ID": 11,
+    "LimitDesc": {
+      "Hash": 1543211343
+    },
+    "ParamInt2": 0,
+    "ParamInt1": 1305,
+    "LimitType": "IncludeAvatar"
+  },
+  {
+    "ParamIntList": [],
+    "ID": 12,
+    "LimitDesc": {
+      "Hash": 1543211340
+    },
+    "ParamInt2": 0,
+    "ParamInt1": 1307,
+    "LimitType": "IncludeAvatar"
+  },
+  {
+    "ParamIntList": [],
+    "ID": 13,
+    "LimitDesc": {
+      "Hash": 1543211341
+    },
+    "ParamInt2": 0,
+    "ParamInt1": 8005,
+    "LimitType": "IncludeMultiPathAvatar"
+  },
+  {
+    "ParamIntList": [],
+    "ID": 14,
+    "LimitDesc": {
+      "Hash": 371857150
+    },
+    "ParamInt2": 0,
+    "ParamInt1": 0,
+    "LimitType": "ForbidReplace"
+  },
+  {
+    "ParamIntList": [],
+    "ID": 15,
+    "LimitDesc": {
+      "Hash": 1543211347
+    },
+    "ParamInt2": 0,
+    "ParamInt1": 1224,
+    "LimitType": "IncludeMultiPathAvatar"
+  },
+  {
+    "ParamIntList": [],
+    "ID": 16,
+    "LimitDesc": {
+      "Hash": 371857150
+    },
+    "ParamInt2": 0,
+    "ParamInt1": 1203,
+    "LimitType": "IncludeAvatar"
+  },
+  {
+    "ParamIntList": [],
+    "ID": 17,
+    "LimitDesc": {
+      "Hash": 371857150
+    },
+    "ParamInt2": 0,
+    "ParamInt1": 1006,
+    "LimitType": "IncludeAvatar"
+  },
+  {
+    "ParamIntList": [],
+    "ID": 18,
+    "LimitDesc": {
+      "Hash": 371857150
+    },
+    "ParamInt2": 0,
+    "ParamInt1": 1111,
+    "LimitType": "IncludeAvatar"
+  },
+  {
+    "ParamIntList": [],
+    "ID": 19,
+    "LimitDesc": {
+      "Hash": 371857150
+    },
+    "ParamInt2": 0,
+    "ParamInt1": 1304,
+    "LimitType": "IncludeAvatar"
+  },
+  {
+    "ParamIntList": [],
+    "ID": 20,
+    "LimitDesc": {
+      "Hash": 371857150
+    },
+    "ParamInt2": 0,
+    "ParamInt1": 1308,
+    "LimitType": "IncludeAvatar"
+  },
+  {
+    "ParamIntList": [],
+    "ID": 21,
+    "LimitDesc": {
+      "Hash": 371857150
+    },
+    "ParamInt2": 0,
+    "ParamInt1": 1309,
+    "LimitType": "IncludeAvatar"
+  },
+  {
+    "ParamIntList": [],
+    "ID": 22,
+    "LimitDesc": {
+      "Hash": 371857150
+    },
+    "ParamInt2": 0,
+    "ParamInt1": 1315,
+    "LimitType": "IncludeAvatar"
+  },
+  {
+    "ParamIntList": [],
+    "ID": 23,
+    "LimitDesc": {
+      "Hash": 371857150
+    },
+    "ParamInt2": 0,
+    "ParamInt1": 1112,
+    "LimitType": "IncludeAvatar"
+  },
+  {
+    "ParamIntList": [],
+    "ID": 24,
+    "LimitDesc": {
+      "Hash": 371857150
+    },
+    "ParamInt2": 0,
+    "ParamInt1": 1314,
+    "LimitType": "IncludeAvatar"
+  },
+  {
+    "ParamIntList": [],
+    "ID": 25,
+    "LimitDesc": {
+      "Hash": 371857150
+    },
+    "ParamInt2": 0,
+    "ParamInt1": 1310,
+    "LimitType": "IncludeAvatar"
+  },
+  {
+    "ParamIntList": [],
+    "ID": 26,
+    "LimitDesc": {
+      "Hash": 371857150
+    },
+    "ParamInt2": 0,
+    "ParamInt1": 1218,
+    "LimitType": "IncludeAvatar"
+  },
+  {
+    "ParamIntList": [],
+    "ID": 27,
+    "LimitDesc": {
+      "Hash": 371857150
+    },
+    "ParamInt2": 0,
+    "ParamInt1": 1222,
+    "LimitType": "IncludeAvatar"
+  },
+  {
+    "ParamIntList": [],
+    "ID": 28,
+    "LimitDesc": {
+      "Hash": 371857150
+    },
+    "ParamInt2": 0,
+    "ParamInt1": 1220,
+    "LimitType": "IncludeAvatar"
+  },
+  {
+    "ParamIntList": [],
+    "ID": 29,
+    "LimitDesc": {
+      "Hash": 371857150
+    },
+    "ParamInt2": 0,
+    "ParamInt1": 1221,
+    "LimitType": "IncludeAvatar"
+  },
+  {
+    "ParamIntList": [],
+    "ID": 30,
+    "LimitDesc": {
+      "Hash": 371857150
+    },
+    "ParamInt2": 0,
+    "ParamInt1": 1315,
+    "LimitType": "IncludeAvatar"
+  },
+  {
+    "ParamIntList": [],
+    "ID": 31,
+    "LimitDesc": {
+      "Hash": 371857150
+    },
+    "ParamInt2": 0,
+    "ParamInt1": 1003,
+    "LimitType": "IncludeAvatar"
+  },
+  {
+    "ParamIntList": [],
+    "ID": 32,
+    "LimitDesc": {
+      "Hash": 371857150
+    },
+    "ParamInt2": 0,
+    "ParamInt1": 8003,
+    "LimitType": "IncludeMultiPathAvatar"
+  },
+  {
+    "ParamIntList": [],
+    "ID": 33,
+    "LimitDesc": {
+      "Hash": 371857150
+    },
+    "ParamInt2": 0,
+    "ParamInt1": 1317,
+    "LimitType": "IncludeAvatar"
+  },
+  {
+    "ParamIntList": [],
+    "ID": 34,
+    "LimitDesc": {
+      "Hash": 371857150
+    },
+    "ParamInt2": 0,
+    "ParamInt1": 0,
+    "LimitType": "ForbidReplace"
+  },
+  {
+    "ParamIntList": [],
+    "ID": 35,
+    "LimitDesc": {
+      "Hash": 371857150
+    },
+    "ParamInt2": 0,
+    "ParamInt1": 1313,
+    "LimitType": "IncludeAvatar"
+  },
+  {
+    "ParamIntList": [],
+    "ID": 36,
+    "LimitDesc": {
+      "Hash": 371857150
+    },
+    "ParamInt2": 0,
+    "ParamInt1": 1004,
+    "LimitType": "IncludeAvatar"
+  },
+  {
+    "ParamIntList": [],
+    "ID": 37,
+    "LimitDesc": {
+      "Hash": 371857150
+    },
+    "ParamInt2": 0,
+    "ParamInt1": 1002,
+    "LimitType": "IncludeAvatar"
+  },
+  {
+    "ParamIntList": [],
+    "ID": 38,
+    "LimitDesc": {
+      "Hash": 371857150
+    },
+    "ParamInt2": 0,
+    "ParamInt1": 1225,
+    "LimitType": "IncludeAvatar"
+  }
+]

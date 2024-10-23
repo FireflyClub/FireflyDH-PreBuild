@@ -1,0 +1,5090 @@
+[
+  {
+    "BookSeriesID": 1,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 1700585659
+    },
+    "BookSeriesWorld": 2,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -125090401
+    }
+  },
+  {
+    "BookSeriesID": 2,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 1700585660
+    },
+    "BookSeriesWorld": 2,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -125090402
+    }
+  },
+  {
+    "BookSeriesID": 3,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 1700585661
+    },
+    "BookSeriesWorld": 2,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -125090403
+    }
+  },
+  {
+    "BookSeriesID": 4,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 1700585654
+    },
+    "BookSeriesWorld": 2,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -125090396
+    }
+  },
+  {
+    "BookSeriesID": 5,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 1700585655
+    },
+    "BookSeriesWorld": 2,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -125090397
+    }
+  },
+  {
+    "BookSeriesID": 6,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 1700585656
+    },
+    "BookSeriesWorld": 2,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -125090398
+    }
+  },
+  {
+    "BookSeriesID": 7,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 1700585657
+    },
+    "BookSeriesWorld": 2,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -125090399
+    }
+  },
+  {
+    "BookSeriesID": 8,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 1700585650
+    },
+    "BookSeriesWorld": 2,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -125090392
+    }
+  },
+  {
+    "BookSeriesID": 9,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 1700585651
+    },
+    "BookSeriesWorld": 2,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -125090393
+    }
+  },
+  {
+    "BookSeriesID": 10,
+    "BookSeriesNum": 3,
+    "BookSeries": {
+      "Hash": -1013848213
+    },
+    "BookSeriesWorld": 2,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1550414257
+    }
+  },
+  {
+    "BookSeriesID": 11,
+    "BookSeriesNum": 3,
+    "BookSeries": {
+      "Hash": 552235728
+    },
+    "BookSeriesWorld": 2,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 1178469098
+    }
+  },
+  {
+    "BookSeriesID": 12,
+    "BookSeriesNum": 3,
+    "BookSeries": {
+      "Hash": 148951201
+    },
+    "BookSeriesWorld": 2,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 1581753625
+    }
+  },
+  {
+    "BookSeriesID": 13,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 1715035142
+    },
+    "BookSeriesWorld": 2,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 15669684
+    }
+  },
+  {
+    "BookSeriesID": 14,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 1311750615
+    },
+    "BookSeriesWorld": 2,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 418954211
+    }
+  },
+  {
+    "BookSeriesID": 15,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -1417132740
+    },
+    "BookSeriesWorld": 2,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1147129730
+    }
+  },
+  {
+    "BookSeriesID": 16,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -1820417267
+    },
+    "BookSeriesWorld": 2,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -743845203
+    }
+  },
+  {
+    "BookSeriesID": 17,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -254333326
+    },
+    "BookSeriesWorld": 2,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 1985038152
+    }
+  },
+  {
+    "BookSeriesID": 18,
+    "BookSeriesNum": 2,
+    "BookSeries": {
+      "Hash": -1370078573
+    },
+    "BookSeriesWorld": 2,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1194183897
+    }
+  },
+  {
+    "BookSeriesID": 19,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 196005368
+    },
+    "BookSeriesWorld": 2,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 1534699458
+    }
+  },
+  {
+    "BookSeriesID": 20,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -1013848212
+    },
+    "BookSeriesWorld": 2,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1550414258
+    }
+  },
+  {
+    "BookSeriesID": 21,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 552235729
+    },
+    "BookSeriesWorld": 2,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 1178469097
+    }
+  },
+  {
+    "BookSeriesID": 22,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 148951202
+    },
+    "BookSeriesWorld": 2,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 1581753624
+    }
+  },
+  {
+    "BookSeriesID": 23,
+    "BookSeriesNum": 4,
+    "BookSeries": {
+      "Hash": 1715035143
+    },
+    "BookSeriesWorld": 2,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 15669683
+    }
+  },
+  {
+    "BookSeriesID": 24,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 1311750616
+    },
+    "BookSeriesWorld": 2,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 418954210
+    }
+  },
+  {
+    "BookSeriesID": 25,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -1417132739
+    },
+    "BookSeriesWorld": 2,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1147129731
+    }
+  },
+  {
+    "BookSeriesID": 26,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -1820417266
+    },
+    "BookSeriesWorld": 2,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -743845204
+    }
+  },
+  {
+    "BookSeriesID": 27,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -254333325
+    },
+    "BookSeriesWorld": 2,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 1985038151
+    }
+  },
+  {
+    "BookSeriesID": 28,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -1370078572
+    },
+    "BookSeriesWorld": 2,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1194183898
+    }
+  },
+  {
+    "BookSeriesID": 29,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 196005369
+    },
+    "BookSeriesWorld": 2,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 1534699457
+    }
+  },
+  {
+    "BookSeriesID": 30,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -1013848211
+    },
+    "BookSeriesWorld": 2,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1550414259
+    }
+  },
+  {
+    "BookSeriesID": 31,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 552235730
+    },
+    "BookSeriesWorld": 2,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 1178469096
+    }
+  },
+  {
+    "BookSeriesID": 32,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 148951203
+    },
+    "BookSeriesWorld": 2,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 1581753623
+    }
+  },
+  {
+    "BookSeriesID": 33,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 1715035144
+    },
+    "BookSeriesWorld": 2,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 15669682
+    }
+  },
+  {
+    "BookSeriesID": 34,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 1311750617
+    },
+    "BookSeriesWorld": 2,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 418954209
+    }
+  },
+  {
+    "BookSeriesID": 35,
+    "BookSeriesNum": 2,
+    "BookSeries": {
+      "Hash": -1417132738
+    },
+    "BookSeriesWorld": 2,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1147129732
+    }
+  },
+  {
+    "BookSeriesID": 36,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -1820417265
+    },
+    "BookSeriesWorld": 2,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -743845205
+    }
+  },
+  {
+    "BookSeriesID": 37,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -254333324
+    },
+    "BookSeriesWorld": 2,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 1985038150
+    }
+  },
+  {
+    "BookSeriesID": 38,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -1370078571
+    },
+    "BookSeriesWorld": 1,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1194183899
+    }
+  },
+  {
+    "BookSeriesID": 39,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 196005370
+    },
+    "BookSeriesWorld": 1,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 1534699456
+    }
+  },
+  {
+    "BookSeriesID": 40,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -1013848218
+    },
+    "BookSeriesWorld": 1,
+    "IsShowInBookshelf": false,
+    "BookSeriesComments": {
+      "Hash": -1550414252
+    }
+  },
+  {
+    "BookSeriesID": 41,
+    "BookSeriesNum": 3,
+    "BookSeries": {
+      "Hash": 552235723
+    },
+    "BookSeriesWorld": 1,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 1178469103
+    }
+  },
+  {
+    "BookSeriesID": 42,
+    "BookSeriesNum": 4,
+    "BookSeries": {
+      "Hash": 148951196
+    },
+    "BookSeriesWorld": 1,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 1581753630
+    }
+  },
+  {
+    "BookSeriesID": 43,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 1715035137
+    },
+    "BookSeriesWorld": 1,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 15669689
+    }
+  },
+  {
+    "BookSeriesID": 44,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 1311750610
+    },
+    "BookSeriesWorld": 1,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 418954216
+    }
+  },
+  {
+    "BookSeriesID": 45,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -1417132745
+    },
+    "BookSeriesWorld": 1,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1147129725
+    }
+  },
+  {
+    "BookSeriesID": 46,
+    "BookSeriesNum": 14,
+    "BookSeries": {
+      "Hash": -1820417272
+    },
+    "BookSeriesWorld": 1,
+    "IsShowInBookshelf": false,
+    "BookSeriesComments": {
+      "Hash": -743845198
+    }
+  },
+  {
+    "BookSeriesID": 47,
+    "BookSeriesNum": 22,
+    "BookSeries": {
+      "Hash": -254333331
+    },
+    "BookSeriesWorld": 1,
+    "IsShowInBookshelf": false,
+    "BookSeriesComments": {
+      "Hash": 1985038157
+    }
+  },
+  {
+    "BookSeriesID": 48,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -1370078578
+    },
+    "BookSeriesWorld": 1,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1194183892
+    }
+  },
+  {
+    "BookSeriesID": 49,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 196005363
+    },
+    "BookSeriesWorld": 1,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 1534699463
+    }
+  },
+  {
+    "BookSeriesID": 50,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -1013848217
+    },
+    "BookSeriesWorld": 1,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1550414253
+    }
+  },
+  {
+    "BookSeriesID": 51,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 552235724
+    },
+    "BookSeriesWorld": 1,
+    "IsShowInBookshelf": false,
+    "BookSeriesComments": {
+      "Hash": 1178469102
+    }
+  },
+  {
+    "BookSeriesID": 52,
+    "BookSeriesNum": 7,
+    "BookSeries": {
+      "Hash": 148951197
+    },
+    "BookSeriesWorld": 2,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 1581753629
+    }
+  },
+  {
+    "BookSeriesID": 53,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 1715035138
+    },
+    "BookSeriesWorld": 1,
+    "IsShowInBookshelf": false,
+    "BookSeriesComments": {
+      "Hash": 15669688
+    }
+  },
+  {
+    "BookSeriesID": 54,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 1311750611
+    },
+    "BookSeriesWorld": 1,
+    "IsShowInBookshelf": false,
+    "BookSeriesComments": {
+      "Hash": 418954215
+    }
+  },
+  {
+    "BookSeriesID": 55,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -1417132744
+    },
+    "BookSeriesWorld": 1,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1147129726
+    }
+  },
+  {
+    "BookSeriesID": 56,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -1820417271
+    },
+    "BookSeriesWorld": 1,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -743845199
+    }
+  },
+  {
+    "BookSeriesID": 57,
+    "BookSeriesNum": 4,
+    "BookSeries": {
+      "Hash": -254333330
+    },
+    "BookSeriesWorld": 1,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 1985038156
+    }
+  },
+  {
+    "BookSeriesID": 61,
+    "BookSeriesNum": 3,
+    "BookSeries": {
+      "Hash": 552235725
+    },
+    "BookSeriesWorld": 1,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 1178469101
+    }
+  },
+  {
+    "BookSeriesID": 62,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 148951198
+    },
+    "BookSeriesWorld": 1,
+    "IsShowInBookshelf": false,
+    "BookSeriesComments": {
+      "Hash": 1581753628
+    }
+  },
+  {
+    "BookSeriesID": 63,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 1715035139
+    },
+    "BookSeriesWorld": 1,
+    "IsShowInBookshelf": false,
+    "BookSeriesComments": {
+      "Hash": 15669687
+    }
+  },
+  {
+    "BookSeriesID": 64,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 1311750612
+    },
+    "BookSeriesWorld": 1,
+    "IsShowInBookshelf": false,
+    "BookSeriesComments": {
+      "Hash": 418954214
+    }
+  },
+  {
+    "BookSeriesID": 65,
+    "BookSeriesNum": 9,
+    "BookSeries": {
+      "Hash": -1417132743
+    },
+    "BookSeriesWorld": 2,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1147129727
+    }
+  },
+  {
+    "BookSeriesID": 66,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -1820417270
+    },
+    "BookSeriesWorld": 2,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -743845200
+    }
+  },
+  {
+    "BookSeriesID": 67,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -254333329
+    },
+    "BookSeriesWorld": 2,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 1985038155
+    }
+  },
+  {
+    "BookSeriesID": 68,
+    "BookSeriesNum": 2,
+    "BookSeries": {
+      "Hash": -1370078576
+    },
+    "BookSeriesWorld": 2,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1194183894
+    }
+  },
+  {
+    "BookSeriesID": 69,
+    "BookSeriesNum": 2,
+    "BookSeries": {
+      "Hash": 196005365
+    },
+    "BookSeriesWorld": 2,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 1534699461
+    }
+  },
+  {
+    "BookSeriesID": 70,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -1013848215
+    },
+    "BookSeriesWorld": 2,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1550414255
+    }
+  },
+  {
+    "BookSeriesID": 71,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 552235726
+    },
+    "BookSeriesWorld": 2,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 1178469100
+    }
+  },
+  {
+    "BookSeriesID": 72,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 148951199
+    },
+    "BookSeriesWorld": 2,
+    "IsShowInBookshelf": false,
+    "BookSeriesComments": {
+      "Hash": 1581753627
+    }
+  },
+  {
+    "BookSeriesID": 73,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 1715035140
+    },
+    "BookSeriesWorld": 2,
+    "IsShowInBookshelf": false,
+    "BookSeriesComments": {
+      "Hash": 15669686
+    }
+  },
+  {
+    "BookSeriesID": 74,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 1311750613
+    },
+    "BookSeriesWorld": 2,
+    "IsShowInBookshelf": false,
+    "BookSeriesComments": {
+      "Hash": 418954213
+    }
+  },
+  {
+    "BookSeriesID": 75,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -1417132742
+    },
+    "BookSeriesWorld": 2,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1147129728
+    }
+  },
+  {
+    "BookSeriesID": 76,
+    "BookSeriesNum": 2,
+    "BookSeries": {
+      "Hash": -1820417269
+    },
+    "BookSeriesWorld": 2,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -743845201
+    }
+  },
+  {
+    "BookSeriesID": 77,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -254333328
+    },
+    "BookSeriesWorld": 1,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 1985038154
+    }
+  },
+  {
+    "BookSeriesID": 78,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -1370078575
+    },
+    "BookSeriesWorld": 1,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1194183895
+    }
+  },
+  {
+    "BookSeriesID": 79,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 196005366
+    },
+    "BookSeriesWorld": 1,
+    "IsShowInBookshelf": false,
+    "BookSeriesComments": {
+      "Hash": 1534699460
+    }
+  },
+  {
+    "BookSeriesID": 80,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -1013848222
+    },
+    "BookSeriesWorld": 1,
+    "IsShowInBookshelf": false,
+    "BookSeriesComments": {
+      "Hash": -1550414248
+    }
+  },
+  {
+    "BookSeriesID": 81,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 552235719
+    },
+    "BookSeriesWorld": 1,
+    "IsShowInBookshelf": false,
+    "BookSeriesComments": {
+      "Hash": 1178469107
+    }
+  },
+  {
+    "BookSeriesID": 82,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 148951192
+    },
+    "BookSeriesWorld": 1,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 1581753634
+    }
+  },
+  {
+    "BookSeriesID": 83,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 1715035133
+    },
+    "BookSeriesWorld": 1,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 15669693
+    }
+  },
+  {
+    "BookSeriesID": 84,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 1311750606
+    },
+    "BookSeriesWorld": 1,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 418954220
+    }
+  },
+  {
+    "BookSeriesID": 85,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -1417132749
+    },
+    "BookSeriesWorld": 1,
+    "IsShowInBookshelf": false,
+    "BookSeriesComments": {
+      "Hash": -1147129721
+    }
+  },
+  {
+    "BookSeriesID": 86,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -1820417276
+    },
+    "BookSeriesWorld": 2,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -743845194
+    }
+  },
+  {
+    "BookSeriesID": 87,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -254333335
+    },
+    "BookSeriesWorld": 2,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 1985038161
+    }
+  },
+  {
+    "BookSeriesID": 89,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 196005359
+    },
+    "BookSeriesWorld": 2,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 1534699467
+    }
+  },
+  {
+    "BookSeriesID": 90,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -1013848221
+    },
+    "BookSeriesWorld": 2,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1550414249
+    }
+  },
+  {
+    "BookSeriesID": 91,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 552235720
+    },
+    "BookSeriesWorld": 2,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 1178469106
+    }
+  },
+  {
+    "BookSeriesID": 92,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 148951193
+    },
+    "BookSeriesWorld": 2,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 1581753633
+    }
+  },
+  {
+    "BookSeriesID": 93,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 1715035134
+    },
+    "BookSeriesWorld": 2,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 15669692
+    }
+  },
+  {
+    "BookSeriesID": 94,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 1311750607
+    },
+    "BookSeriesWorld": 2,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 418954219
+    }
+  },
+  {
+    "BookSeriesID": 95,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -1417132748
+    },
+    "BookSeriesWorld": 2,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1147129722
+    }
+  },
+  {
+    "BookSeriesID": 96,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -1820417275
+    },
+    "BookSeriesWorld": 2,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -743845195
+    }
+  },
+  {
+    "BookSeriesID": 97,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -254333334
+    },
+    "BookSeriesWorld": 2,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 1985038160
+    }
+  },
+  {
+    "BookSeriesID": 98,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -1370078581
+    },
+    "BookSeriesWorld": 2,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1194183889
+    }
+  },
+  {
+    "BookSeriesID": 99,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 196005360
+    },
+    "BookSeriesWorld": 2,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 1534699466
+    }
+  },
+  {
+    "BookSeriesID": 100,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -1852630309
+    },
+    "BookSeriesWorld": 2,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1990601025
+    }
+  },
+  {
+    "BookSeriesID": 101,
+    "BookSeriesNum": 7,
+    "BookSeries": {
+      "Hash": -1852630310
+    },
+    "BookSeriesWorld": 2,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1990601024
+    }
+  },
+  {
+    "BookSeriesID": 102,
+    "BookSeriesNum": 2,
+    "BookSeries": {
+      "Hash": -1852630307
+    },
+    "BookSeriesWorld": 2,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1990601027
+    }
+  },
+  {
+    "BookSeriesID": 103,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -1852630308
+    },
+    "BookSeriesWorld": 2,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1990601026
+    }
+  },
+  {
+    "BookSeriesID": 104,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -1852630313
+    },
+    "BookSeriesWorld": 2,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1990601021
+    }
+  },
+  {
+    "BookSeriesID": 105,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -1852630314
+    },
+    "BookSeriesWorld": 2,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1990601020
+    }
+  },
+  {
+    "BookSeriesID": 106,
+    "BookSeriesNum": 3,
+    "BookSeries": {
+      "Hash": -1852630311
+    },
+    "BookSeriesWorld": 2,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1990601023
+    }
+  },
+  {
+    "BookSeriesID": 107,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -1852630312
+    },
+    "BookSeriesWorld": 2,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1990601022
+    }
+  },
+  {
+    "BookSeriesID": 108,
+    "BookSeriesNum": 3,
+    "BookSeries": {
+      "Hash": -1852630317
+    },
+    "BookSeriesWorld": 2,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1990601017
+    }
+  },
+  {
+    "BookSeriesID": 109,
+    "BookSeriesNum": 3,
+    "BookSeries": {
+      "Hash": -1852630318
+    },
+    "BookSeriesWorld": 2,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1990601016
+    }
+  },
+  {
+    "BookSeriesID": 110,
+    "BookSeriesNum": 3,
+    "BookSeries": {
+      "Hash": -286546368
+    },
+    "BookSeriesWorld": 2,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 738282330
+    }
+  },
+  {
+    "BookSeriesID": 111,
+    "BookSeriesNum": 3,
+    "BookSeries": {
+      "Hash": -286546369
+    },
+    "BookSeriesWorld": 2,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 738282331
+    }
+  },
+  {
+    "BookSeriesID": 112,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -286546366
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 738282328
+    }
+  },
+  {
+    "BookSeriesID": 113,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -286546367
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": false,
+    "BookSeriesComments": {
+      "Hash": 738282329
+    }
+  },
+  {
+    "BookSeriesID": 114,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -286546372
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 738282334
+    }
+  },
+  {
+    "BookSeriesID": 115,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -286546373
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 738282335
+    }
+  },
+  {
+    "BookSeriesID": 116,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -286546370
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 738282332
+    }
+  },
+  {
+    "BookSeriesID": 117,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -286546371
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 738282333
+    }
+  },
+  {
+    "BookSeriesID": 118,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -286546376
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 738282338
+    }
+  },
+  {
+    "BookSeriesID": 119,
+    "BookSeriesNum": 3,
+    "BookSeries": {
+      "Hash": -286546377
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 738282339
+    }
+  },
+  {
+    "BookSeriesID": 120,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -689830895
+    },
+    "BookSeriesWorld": 2,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 1141566857
+    }
+  },
+  {
+    "BookSeriesID": 121,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -689830896
+    },
+    "BookSeriesWorld": 2,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 1141566858
+    }
+  },
+  {
+    "BookSeriesID": 122,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -689830893
+    },
+    "BookSeriesWorld": 2,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 1141566855
+    }
+  },
+  {
+    "BookSeriesID": 123,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -689830894
+    },
+    "BookSeriesWorld": 2,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 1141566856
+    }
+  },
+  {
+    "BookSeriesID": 124,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -689830899
+    },
+    "BookSeriesWorld": 2,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 1141566861
+    }
+  },
+  {
+    "BookSeriesID": 125,
+    "BookSeriesNum": 3,
+    "BookSeries": {
+      "Hash": -689830900
+    },
+    "BookSeriesWorld": 2,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 1141566862
+    }
+  },
+  {
+    "BookSeriesID": 126,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -689830897
+    },
+    "BookSeriesWorld": 2,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 1141566859
+    }
+  },
+  {
+    "BookSeriesID": 127,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -689830898
+    },
+    "BookSeriesWorld": 2,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 1141566860
+    }
+  },
+  {
+    "BookSeriesID": 128,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -689830903
+    },
+    "BookSeriesWorld": 2,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 1141566865
+    }
+  },
+  {
+    "BookSeriesID": 129,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -689830904
+    },
+    "BookSeriesWorld": 2,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 1141566866
+    }
+  },
+  {
+    "BookSeriesID": 130,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 876253046
+    },
+    "BookSeriesWorld": 1,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -424517084
+    }
+  },
+  {
+    "BookSeriesID": 131,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 876253045
+    },
+    "BookSeriesWorld": 1,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -424517083
+    }
+  },
+  {
+    "BookSeriesID": 132,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 876253048
+    },
+    "BookSeriesWorld": 1,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -424517086
+    }
+  },
+  {
+    "BookSeriesID": 133,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 876253047
+    },
+    "BookSeriesWorld": 1,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -424517085
+    }
+  },
+  {
+    "BookSeriesID": 134,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 876253042
+    },
+    "BookSeriesWorld": 1,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -424517080
+    }
+  },
+  {
+    "BookSeriesID": 135,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 876253041
+    },
+    "BookSeriesWorld": 1,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -424517079
+    }
+  },
+  {
+    "BookSeriesID": 136,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 876253044
+    },
+    "BookSeriesWorld": 1,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -424517082
+    }
+  },
+  {
+    "BookSeriesID": 137,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 876253043
+    },
+    "BookSeriesWorld": 1,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -424517081
+    }
+  },
+  {
+    "BookSeriesID": 138,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 876253038
+    },
+    "BookSeriesWorld": 1,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -424517076
+    }
+  },
+  {
+    "BookSeriesID": 139,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 876253037
+    },
+    "BookSeriesWorld": 1,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -424517075
+    }
+  },
+  {
+    "BookSeriesID": 140,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 472968519
+    },
+    "BookSeriesWorld": 1,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -21232557
+    }
+  },
+  {
+    "BookSeriesID": 141,
+    "BookSeriesNum": 6,
+    "BookSeries": {
+      "Hash": 472968518
+    },
+    "BookSeriesWorld": 1,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -21232556
+    }
+  },
+  {
+    "BookSeriesID": 142,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 472968521
+    },
+    "BookSeriesWorld": 1,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -21232559
+    }
+  },
+  {
+    "BookSeriesID": 143,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 472968520
+    },
+    "BookSeriesWorld": 1,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -21232558
+    }
+  },
+  {
+    "BookSeriesID": 144,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 472968515
+    },
+    "BookSeriesWorld": 1,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -21232553
+    }
+  },
+  {
+    "BookSeriesID": 145,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 472968514
+    },
+    "BookSeriesWorld": 1,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -21232552
+    }
+  },
+  {
+    "BookSeriesID": 146,
+    "BookSeriesNum": 3,
+    "BookSeries": {
+      "Hash": 472968517
+    },
+    "BookSeriesWorld": 2,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -21232555
+    }
+  },
+  {
+    "BookSeriesID": 147,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 472968516
+    },
+    "BookSeriesWorld": 1,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -21232554
+    }
+  },
+  {
+    "BookSeriesID": 148,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 472968511
+    },
+    "BookSeriesWorld": 1,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -21232549
+    }
+  },
+  {
+    "BookSeriesID": 149,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 472968510
+    },
+    "BookSeriesWorld": 1,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -21232548
+    }
+  },
+  {
+    "BookSeriesID": 150,
+    "BookSeriesNum": 8,
+    "BookSeries": {
+      "Hash": 2039052460
+    },
+    "BookSeriesWorld": 2,
+    "IsShowInBookshelf": false,
+    "BookSeriesComments": {
+      "Hash": -1587316498
+    }
+  },
+  {
+    "BookSeriesID": 151,
+    "BookSeriesNum": 2,
+    "BookSeries": {
+      "Hash": 2039052459
+    },
+    "BookSeriesWorld": 2,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1587316497
+    }
+  },
+  {
+    "BookSeriesID": 152,
+    "BookSeriesNum": 3,
+    "BookSeries": {
+      "Hash": 2039052462
+    },
+    "BookSeriesWorld": 2,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1587316500
+    }
+  },
+  {
+    "BookSeriesID": 153,
+    "BookSeriesNum": 3,
+    "BookSeries": {
+      "Hash": 2039052461
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1587316499
+    }
+  },
+  {
+    "BookSeriesID": 154,
+    "BookSeriesNum": 3,
+    "BookSeries": {
+      "Hash": 2039052456
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1587316494
+    }
+  },
+  {
+    "BookSeriesID": 155,
+    "BookSeriesNum": 7,
+    "BookSeries": {
+      "Hash": 2039052455
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1587316493
+    }
+  },
+  {
+    "BookSeriesID": 156,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 2039052458
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1587316496
+    }
+  },
+  {
+    "BookSeriesID": 157,
+    "BookSeriesNum": 7,
+    "BookSeries": {
+      "Hash": 2039052457
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": false,
+    "BookSeriesComments": {
+      "Hash": -1587316495
+    }
+  },
+  {
+    "BookSeriesID": 158,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 2039052452
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1587316490
+    }
+  },
+  {
+    "BookSeriesID": 159,
+    "BookSeriesNum": 4,
+    "BookSeries": {
+      "Hash": 2039052451
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1587316489
+    }
+  },
+  {
+    "BookSeriesID": 160,
+    "BookSeriesNum": 5,
+    "BookSeries": {
+      "Hash": 1635767933
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1184031971
+    }
+  },
+  {
+    "BookSeriesID": 161,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 1635767932
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": false,
+    "BookSeriesComments": {
+      "Hash": -1184031970
+    }
+  },
+  {
+    "BookSeriesID": 162,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 1635767935
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": false,
+    "BookSeriesComments": {
+      "Hash": -1184031973
+    }
+  },
+  {
+    "BookSeriesID": 163,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 1635767934
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": false,
+    "BookSeriesComments": {
+      "Hash": -1184031972
+    }
+  },
+  {
+    "BookSeriesID": 164,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 1635767929
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": false,
+    "BookSeriesComments": {
+      "Hash": -1184031967
+    }
+  },
+  {
+    "BookSeriesID": 165,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 1635767928
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": false,
+    "BookSeriesComments": {
+      "Hash": -1184031966
+    }
+  },
+  {
+    "BookSeriesID": 166,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 1635767931
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": false,
+    "BookSeriesComments": {
+      "Hash": -1184031969
+    }
+  },
+  {
+    "BookSeriesID": 167,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 1635767930
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": false,
+    "BookSeriesComments": {
+      "Hash": -1184031968
+    }
+  },
+  {
+    "BookSeriesID": 168,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 1635767925
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1184031963
+    }
+  },
+  {
+    "BookSeriesID": 169,
+    "BookSeriesNum": 9,
+    "BookSeries": {
+      "Hash": 1635767924
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1184031962
+    }
+  },
+  {
+    "BookSeriesID": 170,
+    "BookSeriesNum": 3,
+    "BookSeries": {
+      "Hash": -1093115422
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 1544851384
+    }
+  },
+  {
+    "BookSeriesID": 171,
+    "BookSeriesNum": 3,
+    "BookSeries": {
+      "Hash": -1093115423
+    },
+    "BookSeriesWorld": 1,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 1544851385
+    }
+  },
+  {
+    "BookSeriesID": 172,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -1093115420
+    },
+    "BookSeriesWorld": 2,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 1544851382
+    }
+  },
+  {
+    "BookSeriesID": 173,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -1093115421
+    },
+    "BookSeriesWorld": 2,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 1544851383
+    }
+  },
+  {
+    "BookSeriesID": 174,
+    "BookSeriesNum": 3,
+    "BookSeries": {
+      "Hash": -1093115426
+    },
+    "BookSeriesWorld": 1,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 1544851388
+    }
+  },
+  {
+    "BookSeriesID": 175,
+    "BookSeriesNum": 10,
+    "BookSeries": {
+      "Hash": -1093115427
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 1544851389
+    }
+  },
+  {
+    "BookSeriesID": 176,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -1093115424
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": false,
+    "BookSeriesComments": {
+      "Hash": 1544851386
+    }
+  },
+  {
+    "BookSeriesID": 177,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -1093115425
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 1544851387
+    }
+  },
+  {
+    "BookSeriesID": 178,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -1093115430
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 1544851392
+    }
+  },
+  {
+    "BookSeriesID": 179,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -1093115431
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 1544851393
+    }
+  },
+  {
+    "BookSeriesID": 180,
+    "BookSeriesNum": 4,
+    "BookSeries": {
+      "Hash": 2086106627
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1634370665
+    }
+  },
+  {
+    "BookSeriesID": 181,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 2086106626
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": false,
+    "BookSeriesComments": {
+      "Hash": -1634370664
+    }
+  },
+  {
+    "BookSeriesID": 182,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 2086106629
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": false,
+    "BookSeriesComments": {
+      "Hash": -1634370667
+    }
+  },
+  {
+    "BookSeriesID": 183,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 2086106628
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": false,
+    "BookSeriesComments": {
+      "Hash": -1634370666
+    }
+  },
+  {
+    "BookSeriesID": 184,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 2086106623
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1634370661
+    }
+  },
+  {
+    "BookSeriesID": 185,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 2086106622
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": false,
+    "BookSeriesComments": {
+      "Hash": -1634370660
+    }
+  },
+  {
+    "BookSeriesID": 186,
+    "BookSeriesNum": 2,
+    "BookSeries": {
+      "Hash": 2086106625
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1634370663
+    }
+  },
+  {
+    "BookSeriesID": 187,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 2086106624
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1634370662
+    }
+  },
+  {
+    "BookSeriesID": 188,
+    "BookSeriesNum": 4,
+    "BookSeries": {
+      "Hash": 2086106619
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1634370657
+    }
+  },
+  {
+    "BookSeriesID": 189,
+    "BookSeriesNum": 2,
+    "BookSeries": {
+      "Hash": 2086106618
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1634370656
+    }
+  },
+  {
+    "BookSeriesID": 190,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -642776728
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 1094512690
+    }
+  },
+  {
+    "BookSeriesID": 191,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -642776729
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 1094512691
+    }
+  },
+  {
+    "BookSeriesID": 192,
+    "BookSeriesNum": 4,
+    "BookSeries": {
+      "Hash": -642776726
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 1094512688
+    }
+  },
+  {
+    "BookSeriesID": 193,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -642776727
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 1094512689
+    }
+  },
+  {
+    "BookSeriesID": 194,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -642776732
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": false,
+    "BookSeriesComments": {
+      "Hash": 1094512694
+    }
+  },
+  {
+    "BookSeriesID": 195,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -642776733
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": false,
+    "BookSeriesComments": {
+      "Hash": 1094512695
+    }
+  },
+  {
+    "BookSeriesID": 196,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -642776730
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 1094512692
+    }
+  },
+  {
+    "BookSeriesID": 197,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -642776731
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": false,
+    "BookSeriesComments": {
+      "Hash": 1094512693
+    }
+  },
+  {
+    "BookSeriesID": 198,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -642776736
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": false,
+    "BookSeriesComments": {
+      "Hash": 1094512698
+    }
+  },
+  {
+    "BookSeriesID": 199,
+    "BookSeriesNum": 2,
+    "BookSeries": {
+      "Hash": -642776737
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 1094512699
+    }
+  },
+  {
+    "BookSeriesID": 200,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -1852630212
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": false,
+    "BookSeriesComments": {
+      "Hash": -1990601122
+    }
+  },
+  {
+    "BookSeriesID": 201,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -1852630211
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": false,
+    "BookSeriesComments": {
+      "Hash": -1990601123
+    }
+  },
+  {
+    "BookSeriesID": 202,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -1852630214
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": false,
+    "BookSeriesComments": {
+      "Hash": -1990601120
+    }
+  },
+  {
+    "BookSeriesID": 203,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -1852630213
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1990601121
+    }
+  },
+  {
+    "BookSeriesID": 204,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -1852630216
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": false,
+    "BookSeriesComments": {
+      "Hash": -1990601118
+    }
+  },
+  {
+    "BookSeriesID": 205,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -1852630215
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": false,
+    "BookSeriesComments": {
+      "Hash": -1990601119
+    }
+  },
+  {
+    "BookSeriesID": 206,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -1852630218
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1990601116
+    }
+  },
+  {
+    "BookSeriesID": 207,
+    "BookSeriesNum": 2,
+    "BookSeries": {
+      "Hash": -1852630217
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1990601117
+    }
+  },
+  {
+    "BookSeriesID": 208,
+    "BookSeriesNum": 4,
+    "BookSeries": {
+      "Hash": -1852630220
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1990601114
+    }
+  },
+  {
+    "BookSeriesID": 209,
+    "BookSeriesNum": 2,
+    "BookSeries": {
+      "Hash": -1852630219
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1990601115
+    }
+  },
+  {
+    "BookSeriesID": 210,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -286546271
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 738282233
+    }
+  },
+  {
+    "BookSeriesID": 211,
+    "BookSeriesNum": 2,
+    "BookSeries": {
+      "Hash": -286546270
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 738282232
+    }
+  },
+  {
+    "BookSeriesID": 212,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -286546273
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": false,
+    "BookSeriesComments": {
+      "Hash": 738282235
+    }
+  },
+  {
+    "BookSeriesID": 213,
+    "BookSeriesNum": 2,
+    "BookSeries": {
+      "Hash": -286546272
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 738282234
+    }
+  },
+  {
+    "BookSeriesID": 214,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -286546275
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 738282237
+    }
+  },
+  {
+    "BookSeriesID": 215,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -286546274
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 738282236
+    }
+  },
+  {
+    "BookSeriesID": 216,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -286546277
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 738282239
+    }
+  },
+  {
+    "BookSeriesID": 217,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -286546276
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 738282238
+    }
+  },
+  {
+    "BookSeriesID": 218,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -286546279
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": false,
+    "BookSeriesComments": {
+      "Hash": 738282241
+    }
+  },
+  {
+    "BookSeriesID": 219,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -286546278
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 738282240
+    }
+  },
+  {
+    "BookSeriesID": 220,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -689830798
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": false,
+    "BookSeriesComments": {
+      "Hash": 1141566760
+    }
+  },
+  {
+    "BookSeriesID": 221,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -689830797
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": false,
+    "BookSeriesComments": {
+      "Hash": 1141566759
+    }
+  },
+  {
+    "BookSeriesID": 222,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -689830800
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": false,
+    "BookSeriesComments": {
+      "Hash": 1141566762
+    }
+  },
+  {
+    "BookSeriesID": 223,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -689830799
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": false,
+    "BookSeriesComments": {
+      "Hash": 1141566761
+    }
+  },
+  {
+    "BookSeriesID": 224,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -689830802
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": false,
+    "BookSeriesComments": {
+      "Hash": 1141566764
+    }
+  },
+  {
+    "BookSeriesID": 225,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -689830801
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 1141566763
+    }
+  },
+  {
+    "BookSeriesID": 226,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -689830804
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 1141566766
+    }
+  },
+  {
+    "BookSeriesID": 227,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -689830803
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 1141566765
+    }
+  },
+  {
+    "BookSeriesID": 228,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -689830806
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 1141566768
+    }
+  },
+  {
+    "BookSeriesID": 229,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -689830805
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 1141566767
+    }
+  },
+  {
+    "BookSeriesID": 230,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 876253143
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -424517181
+    }
+  },
+  {
+    "BookSeriesID": 231,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 876253144
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -424517182
+    }
+  },
+  {
+    "BookSeriesID": 232,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 876253141
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -424517179
+    }
+  },
+  {
+    "BookSeriesID": 233,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 876253142
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -424517180
+    }
+  },
+  {
+    "BookSeriesID": 234,
+    "BookSeriesNum": 8,
+    "BookSeries": {
+      "Hash": 876253139
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -424517177
+    }
+  },
+  {
+    "BookSeriesID": 235,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 876253140
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -424517178
+    }
+  },
+  {
+    "BookSeriesID": 236,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 876253137
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -424517175
+    }
+  },
+  {
+    "BookSeriesID": 237,
+    "BookSeriesNum": 3,
+    "BookSeries": {
+      "Hash": 876253138
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -424517176
+    }
+  },
+  {
+    "BookSeriesID": 238,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 876253135
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -424517173
+    }
+  },
+  {
+    "BookSeriesID": 239,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 876253136
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -424517174
+    }
+  },
+  {
+    "BookSeriesID": 240,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 472968616
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -21232654
+    }
+  },
+  {
+    "BookSeriesID": 241,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 472968617
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -21232655
+    }
+  },
+  {
+    "BookSeriesID": 242,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 472968614
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -21232652
+    }
+  },
+  {
+    "BookSeriesID": 243,
+    "BookSeriesNum": 2,
+    "BookSeries": {
+      "Hash": 472968615
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -21232653
+    }
+  },
+  {
+    "BookSeriesID": 244,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 472968612
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -21232650
+    }
+  },
+  {
+    "BookSeriesID": 245,
+    "BookSeriesNum": 4,
+    "BookSeries": {
+      "Hash": 472968613
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -21232651
+    }
+  },
+  {
+    "BookSeriesID": 246,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 472968610
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -21232648
+    }
+  },
+  {
+    "BookSeriesID": 247,
+    "BookSeriesNum": 5,
+    "BookSeries": {
+      "Hash": 472968611
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": false,
+    "BookSeriesComments": {
+      "Hash": -21232649
+    }
+  },
+  {
+    "BookSeriesID": 248,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 472968608
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": false,
+    "BookSeriesComments": {
+      "Hash": -21232646
+    }
+  },
+  {
+    "BookSeriesID": 249,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 472968609
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": false,
+    "BookSeriesComments": {
+      "Hash": -21232647
+    }
+  },
+  {
+    "BookSeriesID": 250,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 2039052557
+    },
+    "BookSeriesWorld": 2,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1587316595
+    }
+  },
+  {
+    "BookSeriesID": 251,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 2039052558
+    },
+    "BookSeriesWorld": 2,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1587316596
+    }
+  },
+  {
+    "BookSeriesID": 252,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 2039052555
+    },
+    "BookSeriesWorld": 2,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1587316593
+    }
+  },
+  {
+    "BookSeriesID": 253,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 2039052556
+    },
+    "BookSeriesWorld": 2,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1587316594
+    }
+  },
+  {
+    "BookSeriesID": 254,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 2039052553
+    },
+    "BookSeriesWorld": 2,
+    "IsShowInBookshelf": false,
+    "BookSeriesComments": {
+      "Hash": -1587316591
+    }
+  },
+  {
+    "BookSeriesID": 255,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 2039052554
+    },
+    "BookSeriesWorld": 2,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1587316592
+    }
+  },
+  {
+    "BookSeriesID": 256,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 2039052551
+    },
+    "BookSeriesWorld": 2,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1587316589
+    }
+  },
+  {
+    "BookSeriesID": 257,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 2039052552
+    },
+    "BookSeriesWorld": 2,
+    "IsShowInBookshelf": false,
+    "BookSeriesComments": {
+      "Hash": -1587316590
+    }
+  },
+  {
+    "BookSeriesID": 258,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 2039052549
+    },
+    "BookSeriesWorld": 2,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1587316587
+    }
+  },
+  {
+    "BookSeriesID": 259,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 2039052550
+    },
+    "BookSeriesWorld": 2,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1587316588
+    }
+  },
+  {
+    "BookSeriesID": 260,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 1635768030
+    },
+    "BookSeriesWorld": 2,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1184032068
+    }
+  },
+  {
+    "BookSeriesID": 261,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 1635768031
+    },
+    "BookSeriesWorld": 2,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1184032069
+    }
+  },
+  {
+    "BookSeriesID": 262,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 1635768028
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": false,
+    "BookSeriesComments": {
+      "Hash": -1184032066
+    }
+  },
+  {
+    "BookSeriesID": 263,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 1635768029
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": false,
+    "BookSeriesComments": {
+      "Hash": -1184032067
+    }
+  },
+  {
+    "BookSeriesID": 264,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 1635768026
+    },
+    "BookSeriesWorld": 1,
+    "IsShowInBookshelf": false,
+    "BookSeriesComments": {
+      "Hash": -1184032064
+    }
+  },
+  {
+    "BookSeriesID": 265,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 1635768027
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1184032065
+    }
+  },
+  {
+    "BookSeriesID": 266,
+    "BookSeriesNum": 2,
+    "BookSeries": {
+      "Hash": 1635768024
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": false,
+    "BookSeriesComments": {
+      "Hash": -1184032062
+    }
+  },
+  {
+    "BookSeriesID": 267,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 1635768025
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": false,
+    "BookSeriesComments": {
+      "Hash": -1184032063
+    }
+  },
+  {
+    "BookSeriesID": 268,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 1635768022
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1184032060
+    }
+  },
+  {
+    "BookSeriesID": 269,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 1635768023
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1184032061
+    }
+  },
+  {
+    "BookSeriesID": 270,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -1093115325
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 1544851287
+    }
+  },
+  {
+    "BookSeriesID": 271,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -1093115324
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 1544851286
+    }
+  },
+  {
+    "BookSeriesID": 272,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -1093115327
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 1544851289
+    }
+  },
+  {
+    "BookSeriesID": 273,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -1093115326
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 1544851288
+    }
+  },
+  {
+    "BookSeriesID": 274,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -1093115329
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 1544851291
+    }
+  },
+  {
+    "BookSeriesID": 275,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -1093115328
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 1544851290
+    }
+  },
+  {
+    "BookSeriesID": 276,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -1093115331
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 1544851293
+    }
+  },
+  {
+    "BookSeriesID": 277,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -1093115330
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 1544851292
+    }
+  },
+  {
+    "BookSeriesID": 278,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -1093115333
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 1544851295
+    }
+  },
+  {
+    "BookSeriesID": 279,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -1093115332
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 1544851294
+    }
+  },
+  {
+    "BookSeriesID": 280,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 2086106724
+    },
+    "BookSeriesWorld": 1,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1634370762
+    }
+  },
+  {
+    "BookSeriesID": 281,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 2086106725
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": false,
+    "BookSeriesComments": {
+      "Hash": -1634370763
+    }
+  },
+  {
+    "BookSeriesID": 282,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 2086106722
+    },
+    "BookSeriesWorld": 1,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1634370760
+    }
+  },
+  {
+    "BookSeriesID": 283,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 2086106723
+    },
+    "BookSeriesWorld": 1,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1634370761
+    }
+  },
+  {
+    "BookSeriesID": 284,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 2086106720
+    },
+    "BookSeriesWorld": 1,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1634370758
+    }
+  },
+  {
+    "BookSeriesID": 285,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 2086106721
+    },
+    "BookSeriesWorld": 1,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1634370759
+    }
+  },
+  {
+    "BookSeriesID": 286,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 2086106718
+    },
+    "BookSeriesWorld": 1,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1634370756
+    }
+  },
+  {
+    "BookSeriesID": 287,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 2086106719
+    },
+    "BookSeriesWorld": 1,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1634370757
+    }
+  },
+  {
+    "BookSeriesID": 288,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 2086106716
+    },
+    "BookSeriesWorld": 1,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1634370754
+    }
+  },
+  {
+    "BookSeriesID": 289,
+    "BookSeriesNum": 4,
+    "BookSeries": {
+      "Hash": 2086106717
+    },
+    "BookSeriesWorld": 1,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1634370755
+    }
+  },
+  {
+    "BookSeriesID": 290,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -642776631
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 1094512593
+    }
+  },
+  {
+    "BookSeriesID": 291,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -642776630
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 1094512592
+    }
+  },
+  {
+    "BookSeriesID": 292,
+    "BookSeriesNum": 3,
+    "BookSeries": {
+      "Hash": -642776633
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 1094512595
+    }
+  },
+  {
+    "BookSeriesID": 293,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -642776632
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 1094512594
+    }
+  },
+  {
+    "BookSeriesID": 294,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -642776635
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 1094512597
+    }
+  },
+  {
+    "BookSeriesID": 295,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -642776634
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 1094512596
+    }
+  },
+  {
+    "BookSeriesID": 296,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -642776637
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": false,
+    "BookSeriesComments": {
+      "Hash": 1094512599
+    }
+  },
+  {
+    "BookSeriesID": 297,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -642776636
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": false,
+    "BookSeriesComments": {
+      "Hash": 1094512598
+    }
+  },
+  {
+    "BookSeriesID": 298,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -642776639
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": false,
+    "BookSeriesComments": {
+      "Hash": 1094512601
+    }
+  },
+  {
+    "BookSeriesID": 299,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -642776638
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": false,
+    "BookSeriesComments": {
+      "Hash": 1094512600
+    }
+  },
+  {
+    "BookSeriesID": 300,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -1852630243
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": false,
+    "BookSeriesComments": {
+      "Hash": -1990601091
+    }
+  },
+  {
+    "BookSeriesID": 301,
+    "BookSeriesNum": 11,
+    "BookSeries": {
+      "Hash": -1852630244
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1990601090
+    }
+  },
+  {
+    "BookSeriesID": 302,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -1852630245
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1990601089
+    }
+  },
+  {
+    "BookSeriesID": 303,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -1852630246
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1990601088
+    }
+  },
+  {
+    "BookSeriesID": 304,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -1852630247
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1990601087
+    }
+  },
+  {
+    "BookSeriesID": 305,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -1852630248
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": false,
+    "BookSeriesComments": {
+      "Hash": -1990601086
+    }
+  },
+  {
+    "BookSeriesID": 306,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -1852630249
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1990601085
+    }
+  },
+  {
+    "BookSeriesID": 307,
+    "BookSeriesNum": 2,
+    "BookSeries": {
+      "Hash": -1852630250
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1990601084
+    }
+  },
+  {
+    "BookSeriesID": 308,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -1852630251
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1990601083
+    }
+  },
+  {
+    "BookSeriesID": 309,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -1852630252
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1990601082
+    }
+  },
+  {
+    "BookSeriesID": 310,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -286546302
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 738282264
+    }
+  },
+  {
+    "BookSeriesID": 311,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -286546303
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 738282265
+    }
+  },
+  {
+    "BookSeriesID": 312,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -286546304
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 738282266
+    }
+  },
+  {
+    "BookSeriesID": 313,
+    "BookSeriesNum": 11,
+    "BookSeries": {
+      "Hash": -286546305
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 738282267
+    }
+  },
+  {
+    "BookSeriesID": 314,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -286546306
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": false,
+    "BookSeriesComments": {
+      "Hash": 738282268
+    }
+  },
+  {
+    "BookSeriesID": 315,
+    "BookSeriesNum": 4,
+    "BookSeries": {
+      "Hash": -286546307
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 738282269
+    }
+  },
+  {
+    "BookSeriesID": 316,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -286546308
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": false,
+    "BookSeriesComments": {
+      "Hash": 738282270
+    }
+  },
+  {
+    "BookSeriesID": 317,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -286546309
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": false,
+    "BookSeriesComments": {
+      "Hash": 738282271
+    }
+  },
+  {
+    "BookSeriesID": 318,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -286546310
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": false,
+    "BookSeriesComments": {
+      "Hash": 738282272
+    }
+  },
+  {
+    "BookSeriesID": 319,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -286546311
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": false,
+    "BookSeriesComments": {
+      "Hash": 738282273
+    }
+  },
+  {
+    "BookSeriesID": 320,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -689830829
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": false,
+    "BookSeriesComments": {
+      "Hash": 1141566791
+    }
+  },
+  {
+    "BookSeriesID": 321,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -689830830
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 1141566792
+    }
+  },
+  {
+    "BookSeriesID": 322,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -689830831
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 1141566793
+    }
+  },
+  {
+    "BookSeriesID": 323,
+    "BookSeriesNum": 2,
+    "BookSeries": {
+      "Hash": -689830832
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 1141566794
+    }
+  },
+  {
+    "BookSeriesID": 324,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -689830833
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 1141566795
+    }
+  },
+  {
+    "BookSeriesID": 325,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -689830834
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 1141566796
+    }
+  },
+  {
+    "BookSeriesID": 326,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -689830835
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 1141566797
+    }
+  },
+  {
+    "BookSeriesID": 327,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -689830836
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 1141566798
+    }
+  },
+  {
+    "BookSeriesID": 328,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -689830837
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 1141566799
+    }
+  },
+  {
+    "BookSeriesID": 329,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -689830838
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 1141566800
+    }
+  },
+  {
+    "BookSeriesID": 330,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 876253112
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -424517150
+    }
+  },
+  {
+    "BookSeriesID": 331,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 876253111
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -424517149
+    }
+  },
+  {
+    "BookSeriesID": 332,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 876253110
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -424517148
+    }
+  },
+  {
+    "BookSeriesID": 333,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 876253109
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -424517147
+    }
+  },
+  {
+    "BookSeriesID": 334,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 876253108
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -424517146
+    }
+  },
+  {
+    "BookSeriesID": 335,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 876253107
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -424517145
+    }
+  },
+  {
+    "BookSeriesID": 336,
+    "BookSeriesNum": 2,
+    "BookSeries": {
+      "Hash": 876253106
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -424517144
+    }
+  },
+  {
+    "BookSeriesID": 337,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 876253105
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -424517143
+    }
+  },
+  {
+    "BookSeriesID": 338,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 876253104
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -424517142
+    }
+  },
+  {
+    "BookSeriesID": 339,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 876253103
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -424517141
+    }
+  },
+  {
+    "BookSeriesID": 340,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 472968585
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -21232623
+    }
+  },
+  {
+    "BookSeriesID": 341,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 472968584
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -21232622
+    }
+  },
+  {
+    "BookSeriesID": 342,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 472968583
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": false,
+    "BookSeriesComments": {
+      "Hash": -21232621
+    }
+  },
+  {
+    "BookSeriesID": 343,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 472968582
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -21232620
+    }
+  },
+  {
+    "BookSeriesID": 344,
+    "BookSeriesNum": 2,
+    "BookSeries": {
+      "Hash": 472968581
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -21232619
+    }
+  },
+  {
+    "BookSeriesID": 345,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 472968580
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -21232618
+    }
+  },
+  {
+    "BookSeriesID": 346,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 472968579
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -21232617
+    }
+  },
+  {
+    "BookSeriesID": 347,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 472968578
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": false,
+    "BookSeriesComments": {
+      "Hash": -21232616
+    }
+  },
+  {
+    "BookSeriesID": 348,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 472968577
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -21232615
+    }
+  },
+  {
+    "BookSeriesID": 349,
+    "BookSeriesNum": 3,
+    "BookSeries": {
+      "Hash": 472968576
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -21232614
+    }
+  },
+  {
+    "BookSeriesID": 350,
+    "BookSeriesNum": 6,
+    "BookSeries": {
+      "Hash": 2039052526
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1587316564
+    }
+  },
+  {
+    "BookSeriesID": 352,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 2039052524
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1587316562
+    }
+  },
+  {
+    "BookSeriesID": 353,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 2039052523
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1587316561
+    }
+  },
+  {
+    "BookSeriesID": 354,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 2039052522
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1587316560
+    }
+  },
+  {
+    "BookSeriesID": 355,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 2039052521
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1587316559
+    }
+  },
+  {
+    "BookSeriesID": 356,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 2039052520
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1587316558
+    }
+  },
+  {
+    "BookSeriesID": 357,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 2039052519
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1587316557
+    }
+  },
+  {
+    "BookSeriesID": 358,
+    "BookSeriesNum": 6,
+    "BookSeries": {
+      "Hash": 2039052518
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1587316556
+    }
+  },
+  {
+    "BookSeriesID": 359,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 2039052517
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": false,
+    "BookSeriesComments": {
+      "Hash": -1587316555
+    }
+  },
+  {
+    "BookSeriesID": 360,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 1635767999
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1184032037
+    }
+  },
+  {
+    "BookSeriesID": 361,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 1635767998
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1184032036
+    }
+  },
+  {
+    "BookSeriesID": 362,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 1635767997
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1184032035
+    }
+  },
+  {
+    "BookSeriesID": 363,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 1635767996
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1184032034
+    }
+  },
+  {
+    "BookSeriesID": 364,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 1635767995
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1184032033
+    }
+  },
+  {
+    "BookSeriesID": 365,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 1635767994
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1184032032
+    }
+  },
+  {
+    "BookSeriesID": 366,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 1635767993
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1184032031
+    }
+  },
+  {
+    "BookSeriesID": 367,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 1635767992
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1184032030
+    }
+  },
+  {
+    "BookSeriesID": 368,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 1635767991
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1184032029
+    }
+  },
+  {
+    "BookSeriesID": 369,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 1635767990
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1184032028
+    }
+  },
+  {
+    "BookSeriesID": 370,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -1093115356
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 1544851318
+    }
+  },
+  {
+    "BookSeriesID": 371,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -1093115357
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 1544851319
+    }
+  },
+  {
+    "BookSeriesID": 372,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -1093115358
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 1544851320
+    }
+  },
+  {
+    "BookSeriesID": 373,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -1093115359
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 1544851321
+    }
+  },
+  {
+    "BookSeriesID": 374,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -1093115360
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 1544851322
+    }
+  },
+  {
+    "BookSeriesID": 375,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -1093115361
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 1544851323
+    }
+  },
+  {
+    "BookSeriesID": 376,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -1093115362
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 1544851324
+    }
+  },
+  {
+    "BookSeriesID": 377,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -1093115363
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 1544851325
+    }
+  },
+  {
+    "BookSeriesID": 378,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -1093115364
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": false,
+    "BookSeriesComments": {
+      "Hash": 1544851326
+    }
+  },
+  {
+    "BookSeriesID": 379,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -1093115365
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": false,
+    "BookSeriesComments": {
+      "Hash": 1544851327
+    }
+  },
+  {
+    "BookSeriesID": 380,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 2086106693
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1634370731
+    }
+  },
+  {
+    "BookSeriesID": 381,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 2086106692
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1634370730
+    }
+  },
+  {
+    "BookSeriesID": 383,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 2086106690
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": false,
+    "BookSeriesComments": {
+      "Hash": -1634370728
+    }
+  },
+  {
+    "BookSeriesID": 384,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 2086106689
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1634370727
+    }
+  },
+  {
+    "BookSeriesID": 385,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 2086106688
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": false,
+    "BookSeriesComments": {
+      "Hash": -1634370726
+    }
+  },
+  {
+    "BookSeriesID": 386,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 2086106687
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1634370725
+    }
+  },
+  {
+    "BookSeriesID": 387,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 2086106686
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1634370724
+    }
+  },
+  {
+    "BookSeriesID": 388,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 2086106685
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1634370723
+    }
+  },
+  {
+    "BookSeriesID": 389,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 2086106684
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1634370722
+    }
+  },
+  {
+    "BookSeriesID": 390,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -642776662
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 1094512624
+    }
+  },
+  {
+    "BookSeriesID": 391,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -642776663
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 1094512625
+    }
+  },
+  {
+    "BookSeriesID": 392,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -642776664
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 1094512626
+    }
+  },
+  {
+    "BookSeriesID": 393,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -642776665
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 1094512627
+    }
+  },
+  {
+    "BookSeriesID": 394,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -642776666
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 1094512628
+    }
+  },
+  {
+    "BookSeriesID": 395,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -642776667
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 1094512629
+    }
+  },
+  {
+    "BookSeriesID": 396,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -642776668
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 1094512630
+    }
+  },
+  {
+    "BookSeriesID": 397,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -642776669
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 1094512631
+    }
+  },
+  {
+    "BookSeriesID": 398,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -642776670
+    },
+    "BookSeriesWorld": 3,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 1094512632
+    }
+  },
+  {
+    "BookSeriesID": 399,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -642776671
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 1094512633
+    }
+  },
+  {
+    "BookSeriesID": 400,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -1852630410
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1990600924
+    }
+  },
+  {
+    "BookSeriesID": 401,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -1852630409
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1990600925
+    }
+  },
+  {
+    "BookSeriesID": 402,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -1852630408
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1990600926
+    }
+  },
+  {
+    "BookSeriesID": 403,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -1852630407
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1990600927
+    }
+  },
+  {
+    "BookSeriesID": 404,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -1852630406
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1990600928
+    }
+  },
+  {
+    "BookSeriesID": 405,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -1852630405
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1990600929
+    }
+  },
+  {
+    "BookSeriesID": 406,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -1852630404
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1990600930
+    }
+  },
+  {
+    "BookSeriesID": 407,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -1852630403
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": false,
+    "BookSeriesComments": {
+      "Hash": -1990600931
+    }
+  },
+  {
+    "BookSeriesID": 408,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -1852630418
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1990600916
+    }
+  },
+  {
+    "BookSeriesID": 409,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -1852630417
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": -1990600917
+    }
+  },
+  {
+    "BookSeriesID": 410,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -286546469
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 738282431
+    }
+  },
+  {
+    "BookSeriesID": 411,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -286546468
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 738282430
+    }
+  },
+  {
+    "BookSeriesID": 412,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -286546467
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 738282429
+    }
+  },
+  {
+    "BookSeriesID": 413,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -286546466
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 738282428
+    }
+  },
+  {
+    "BookSeriesID": 414,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -286546465
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 738282427
+    }
+  },
+  {
+    "BookSeriesID": 415,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -286546464
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 738282426
+    }
+  },
+  {
+    "BookSeriesID": 416,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -286546463
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 738282425
+    }
+  },
+  {
+    "BookSeriesID": 417,
+    "BookSeriesNum": 7,
+    "BookSeries": {
+      "Hash": -286546462
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 738282424
+    }
+  },
+  {
+    "BookSeriesID": 418,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -286546477
+    },
+    "BookSeriesWorld": 1,
+    "IsShowInBookshelf": true,
+    "BookSeriesComments": {
+      "Hash": 738282439
+    }
+  },
+  {
+    "BookSeriesID": 419,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -286546476
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": false,
+    "BookSeriesComments": {
+      "Hash": 738282438
+    }
+  },
+  {
+    "BookSeriesID": 420,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -689830996
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": false,
+    "BookSeriesComments": {
+      "Hash": 1141566958
+    }
+  },
+  {
+    "BookSeriesID": 421,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -689830995
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": false,
+    "BookSeriesComments": {
+      "Hash": 1141566957
+    }
+  },
+  {
+    "BookSeriesID": 422,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -689830994
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": false,
+    "BookSeriesComments": {
+      "Hash": 1141566956
+    }
+  },
+  {
+    "BookSeriesID": 423,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -689830993
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": false,
+    "BookSeriesComments": {
+      "Hash": 1141566955
+    }
+  },
+  {
+    "BookSeriesID": 424,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -689830992
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": false,
+    "BookSeriesComments": {
+      "Hash": 1141566954
+    }
+  },
+  {
+    "BookSeriesID": 425,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -689830991
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": false,
+    "BookSeriesComments": {
+      "Hash": 1141566953
+    }
+  },
+  {
+    "BookSeriesID": 426,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -689830990
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": false,
+    "BookSeriesComments": {
+      "Hash": 1141566952
+    }
+  },
+  {
+    "BookSeriesID": 427,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -689830989
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": false,
+    "BookSeriesComments": {
+      "Hash": 1141566951
+    }
+  },
+  {
+    "BookSeriesID": 428,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -689831004
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": false,
+    "BookSeriesComments": {
+      "Hash": 1141566966
+    }
+  },
+  {
+    "BookSeriesID": 429,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": -689831003
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": false,
+    "BookSeriesComments": {
+      "Hash": 1141566965
+    }
+  },
+  {
+    "BookSeriesID": 430,
+    "BookSeriesNum": 1,
+    "BookSeries": {
+      "Hash": 876252945
+    },
+    "BookSeriesWorld": 4,
+    "IsShowInBookshelf": false,
+    "BookSeriesComments": {
+      "Hash": -424516983
+    }
+  }
+]

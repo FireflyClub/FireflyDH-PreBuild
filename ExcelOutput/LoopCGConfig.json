@@ -1,0 +1,891 @@
+[
+  {
+    "CaptionPath": "",
+    "VideoPath": "CS_ChapLoop01_Act0010.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 101
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "CS_ChapLoop01_Act0020.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 102
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "CS_ChapLoop01_Act0030.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 103
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "CS_ChapLoop_Black.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 104
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "CS_ChapLoop01_Act0070.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 108
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "CS_ChapLoop01_Act0080.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 109
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "CS_ChapLoop01_Act0090.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 110
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "CS_ChapLoop01_Act0100.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": true,
+    "VideoID": 111
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "CS_ChapLoop01_Act0110.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 112
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "CS_ChapLoop02_Act0010.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 114
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "CS_ChapLoop02_Act0040.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 117
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "CS_Chap02_Act3010.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 118
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "CS_ChapLoop02_Act0050.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 119
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "CS_ChapLoop02_Act0060.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 120
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "CS_ChapLoop02_Act0070.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 121
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "CS_ChapLoop02_Act0080.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 122
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "CS_ChapLoop02_Act0090.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 123
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "CS_ChapLoop02_Act0100.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 124
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "CS_ChapLoop02_Act0110.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 125
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "CS_ChapLoop02_Act0120.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 126
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "CS_ChapLoop02_Act0130.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 127
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "CS_ChapLoop02_Act0150.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 128
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "CS_Chap02_Act3020_Loop.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 129
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "CS_Chap01_Act3040_Loop.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 130
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "CS_ChapLoop01_Act0120.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 131
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "CS_ChapLoop02_Act0160.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 132
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "CS_ChapLoop02_Act0170.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": true,
+    "VideoID": 133
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "CS_ChapLoop02_Act0180.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 134
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "CS_ChapLoop02_Act0190.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 135
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "CS_ChapLoop02_Act0200.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": true,
+    "VideoID": 136
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "CS_ChapLoop01_Act0130.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 162
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "CS_ChapLoop01_Act0140.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 163
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "CS_ChapLoop01_Act0150.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 164
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "CS_ChapLoop01_Act0160.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 165
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "CS_ChapLoop01_Act0170.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 166
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "CS_ChapLoop01_Act0180.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 167
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "CS_ChapLoop02_Act0220.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 168
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "CS_ChapLoop02_Act0210.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 169
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "CS_ChapLoop03_Act0010.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 170
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "CS_ChapLoop00_Act0010.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 171
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "CS_ChapLoop00_Act0020.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 172
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "CS_ChapLoop02_Act0230.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 230
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "CS_ChapLoop02_Act0240.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 240
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "CS_ChapLoop_TestRes.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 999
+  },
+  {
+    "CaptionPath": "Config/BattleCollegeCaption/Chap01_BattleCollege_1.json",
+    "VideoPath": "CS_Chap01_BattleCollege_01.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 1001
+  },
+  {
+    "CaptionPath": "Config/BattleCollegeCaption/Chap01_BattleCollege_2.json",
+    "VideoPath": "CS_Chap01_BattleCollege_02.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 1002
+  },
+  {
+    "CaptionPath": "Config/BattleCollegeCaption/Chap01_BattleCollege_3.json",
+    "VideoPath": "CS_Chap01_BattleCollege_03.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 1003
+  },
+  {
+    "CaptionPath": "Config/BattleCollegeCaption/Chap01_BattleCollege_4.json",
+    "VideoPath": "CS_Chap01_BattleCollege_04.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 1004
+  },
+  {
+    "CaptionPath": "Config/BattleCollegeCaption/Chap01_BattleCollege_5.json",
+    "VideoPath": "CS_Chap01_BattleCollege_05.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 1005
+  },
+  {
+    "CaptionPath": "Config/BattleCollegeCaption/Chap01_BattleCollege_6.json",
+    "VideoPath": "CS_Chap01_BattleCollege_06.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 1006
+  },
+  {
+    "CaptionPath": "Config/BattleCollegeCaption/Chap01_BattleCollege_7.json",
+    "VideoPath": "CS_Chap01_BattleCollege_07.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 1007
+  },
+  {
+    "CaptionPath": "Config/BattleCollegeCaption/Chap01_BattleCollege_8.json",
+    "VideoPath": "CS_Chap01_BattleCollege_08.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 1008
+  },
+  {
+    "CaptionPath": "Config/BattleCollegeCaption/Chap01_BattleCollege_9.json",
+    "VideoPath": "CS_Chap01_BattleCollege_09.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 1009
+  },
+  {
+    "CaptionPath": "Config/BattleCollegeCaption/Chap01_BattleCollege_10.json",
+    "VideoPath": "CS_Chap01_BattleCollege_10.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 1010
+  },
+  {
+    "CaptionPath": "Config/BattleCollegeCaption/Chap01_BattleCollege_11.json",
+    "VideoPath": "CS_Chap01_BattleCollege_11.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 1011
+  },
+  {
+    "CaptionPath": "Config/BattleCollegeCaption/Chap01_BattleCollege_12.json",
+    "VideoPath": "CS_Chap01_BattleCollege_12.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 1012
+  },
+  {
+    "CaptionPath": "Config/BattleCollegeCaption/Chap01_BattleCollege_13.json",
+    "VideoPath": "CS_Chap01_BattleCollege_13.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 1013
+  },
+  {
+    "CaptionPath": "Config/BattleCollegeCaption/Chap01_BattleCollege_14.json",
+    "VideoPath": "CS_Chap01_BattleCollege_14.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 1014
+  },
+  {
+    "CaptionPath": "Config/BattleCollegeCaption/Chap01_BattleCollege_15.json",
+    "VideoPath": "CS_Chap01_BattleCollege_15.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 1015
+  },
+  {
+    "CaptionPath": "Config/BattleCollegeCaption/Chap01_BattleCollege_16.json",
+    "VideoPath": "CS_Chap01_BattleCollege_16.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 1016
+  },
+  {
+    "CaptionPath": "Config/BattleCollegeCaption/Chap01_BattleCollege_17.json",
+    "VideoPath": "CS_Chap01_BattleCollege_18.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 1017
+  },
+  {
+    "CaptionPath": "Config/BattleCollegeCaption/Chap01_BattleCollege_18.json",
+    "VideoPath": "CS_Chap01_BattleCollege_19.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 1018
+  },
+  {
+    "CaptionPath": "Config/BattleCollegeCaption/Chap01_BattleCollege_19.json",
+    "VideoPath": "CS_Chap01_BattleCollege_17.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 1019
+  },
+  {
+    "CaptionPath": "Config/BattleCollegeCaption/Chap01_BattleCollege_20.json",
+    "VideoPath": "CS_Chap01_BattleCollege_20.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 1020
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "Chap01_Eff_Dual_A_01.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 1401
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "Chap01_Eff_Dual_B_01_m.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 1402
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "Chap01_Eff_Dual_B_01_f.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 1403
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "Chap01_Eff_Dual_C_01_m.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 1404
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "Chap01_Eff_Dual_C_01_f.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 1405
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "Chap01_Eff_Dual_B_02_m.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 1406
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "Chap01_Eff_Dual_B_02_f.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 1407
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "Chap01_Eff_Dual_C_02_m.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 1408
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "Chap01_Eff_Dual_C_02_f.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 1409
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "Chap01_Eff_Dual_B_03_m.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 1410
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "Chap01_Eff_Dual_B_03_f.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 1411
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "Chap01_Eff_Dual_C_03_m.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 1412
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "Chap01_Eff_Dual_C_03_f.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 1413
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "Chap01_Eff_Dual_B_05_m.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 1414
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "Chap01_Eff_Dual_B_05_f.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 1415
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "Chap01_Eff_Dual_C_05_m.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 1416
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "Chap01_Eff_Dual_C_05_f.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 1417
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "Chap01_Eff_Dual_B_04_m.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 1418
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "Chap01_Eff_Dual_B_04_f.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 1419
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "Chap01_Eff_Dual_C_04_m.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 1420
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "Chap01_Eff_Dual_C_04_f.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 1421
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "Chap01_Eff_Dual_D_01_m.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 1422
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "Chap01_Eff_Dual_D_01_f.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 1423
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "Chap01_Eff_Dual_E_01_m.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 1424
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "Chap01_Eff_Dual_E_01_f.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 1425
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "CS_ChapLoop03_Act0020.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": true,
+    "VideoID": 1426
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "CS_ChapLoop03_Act0080.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": true,
+    "VideoID": 1427
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "CS_ChapLoop03_Act0090.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 1428
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "CS_ChapLoop03_Act0030.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 1429
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "CS_ChapLoop03_Act0040.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 1430
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "CS_ChapLoop03_Act0050.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 1431
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "CS_ChapLoop03_Act0060.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 1432
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "CS_ChapLoop03_Act0070.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 1433
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "CS_Chap03_Act3020_Loop.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 1434
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "Chap03_TV_Video_01.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 1435
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "CS_ChapLoop03_Act0100.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 1436
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "CS_ChapLoop03_Act0110.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 1437
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "CS_ChapLoop03_Act0120.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 1438
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "CS_ChapLoop03_Act0130.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 1439
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "CS_ChapLoop03_Act0140.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 1440
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "CS_ChapLoop03_Act0150.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 1441
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "CS_ChapLoop03_Act0160.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 1442
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "CS_ChapLoop03_Act0170.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 1443
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "Chap03_TV_Video_02.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 1444
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "Chap03_TV_Video_03.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 1445
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "Chap03_TV_Video_04.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 1446
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "CS_ChapLoop03_Act0180.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 1447
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "CS_ChapLoop03_Act0190.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 1448
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "CS_ChapLoop03_Act0200.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 1449
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "CS_ChapLoop03_Act0210.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 1450
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "CS_ChapLoop03_Act0220.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 1451
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "CS_ChapLoop03_Act0230.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 1452
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "CS_ChapLoop03_Act0240.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 1453
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "CS_ChapLoop03_Act0250.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 1454
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "CS_ChapLoop03_Act0260.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 1455
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "CS_ChapLoop03_Act0270.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 1456
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "CS_ChapLoop03_Act0280.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 1457
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "CS_ChapLoop03_Act0290.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 1458
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "CS_ChapLoop03_Act0300.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 1459
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "CS_ChapLoop03_Act0310.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 1460
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "CS_ChapLoop03_Act0320.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 1461
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "Chap03_TV_Video_Robin.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 1462
+  },
+  {
+    "CaptionPath": "",
+    "VideoPath": "CS_ChapLoop03_Act0330.usm",
+    "Encryption": false,
+    "IsPlayerInvolved": false,
+    "VideoID": 1463
+  }
+]

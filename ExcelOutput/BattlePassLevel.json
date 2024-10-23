@@ -1,0 +1,632 @@
+[
+  {
+    "GroupID": 1,
+    "PremiumOptional": 0,
+    "FreeReward": 120001,
+    "PremiumFixedReward1": 120101,
+    "Level": 1,
+    "SpeicalPoint": false,
+    "PremiumFixedReward2": 0
+  },
+  {
+    "GroupID": 1,
+    "PremiumOptional": 0,
+    "FreeReward": 120002,
+    "PremiumFixedReward1": 120102,
+    "Level": 2,
+    "SpeicalPoint": false,
+    "PremiumFixedReward2": 0
+  },
+  {
+    "GroupID": 1,
+    "PremiumOptional": 0,
+    "FreeReward": 120003,
+    "PremiumFixedReward1": 120103,
+    "Level": 3,
+    "SpeicalPoint": false,
+    "PremiumFixedReward2": 0
+  },
+  {
+    "GroupID": 1,
+    "PremiumOptional": 0,
+    "FreeReward": 120004,
+    "PremiumFixedReward1": 120104,
+    "Level": 4,
+    "SpeicalPoint": false,
+    "PremiumFixedReward2": 0
+  },
+  {
+    "GroupID": 1,
+    "PremiumOptional": 0,
+    "FreeReward": 120005,
+    "PremiumFixedReward1": 120105,
+    "Level": 5,
+    "SpeicalPoint": true,
+    "PremiumFixedReward2": 120201
+  },
+  {
+    "GroupID": 1,
+    "PremiumOptional": 0,
+    "FreeReward": 120006,
+    "PremiumFixedReward1": 120106,
+    "Level": 6,
+    "SpeicalPoint": false,
+    "PremiumFixedReward2": 0
+  },
+  {
+    "GroupID": 1,
+    "PremiumOptional": 0,
+    "FreeReward": 120007,
+    "PremiumFixedReward1": 120107,
+    "Level": 7,
+    "SpeicalPoint": false,
+    "PremiumFixedReward2": 0
+  },
+  {
+    "GroupID": 1,
+    "PremiumOptional": 0,
+    "FreeReward": 120008,
+    "PremiumFixedReward1": 120108,
+    "Level": 8,
+    "SpeicalPoint": false,
+    "PremiumFixedReward2": 0
+  },
+  {
+    "GroupID": 1,
+    "PremiumOptional": 0,
+    "FreeReward": 120009,
+    "PremiumFixedReward1": 120109,
+    "Level": 9,
+    "SpeicalPoint": false,
+    "PremiumFixedReward2": 0
+  },
+  {
+    "GroupID": 1,
+    "PremiumOptional": 0,
+    "FreeReward": 120010,
+    "PremiumFixedReward1": 120110,
+    "Level": 10,
+    "SpeicalPoint": true,
+    "PremiumFixedReward2": 120202
+  },
+  {
+    "GroupID": 1,
+    "PremiumOptional": 0,
+    "FreeReward": 120011,
+    "PremiumFixedReward1": 120111,
+    "Level": 11,
+    "SpeicalPoint": false,
+    "PremiumFixedReward2": 0
+  },
+  {
+    "GroupID": 1,
+    "PremiumOptional": 0,
+    "FreeReward": 120012,
+    "PremiumFixedReward1": 120112,
+    "Level": 12,
+    "SpeicalPoint": false,
+    "PremiumFixedReward2": 0
+  },
+  {
+    "GroupID": 1,
+    "PremiumOptional": 0,
+    "FreeReward": 120013,
+    "PremiumFixedReward1": 120113,
+    "Level": 13,
+    "SpeicalPoint": false,
+    "PremiumFixedReward2": 0
+  },
+  {
+    "GroupID": 1,
+    "PremiumOptional": 0,
+    "FreeReward": 120014,
+    "PremiumFixedReward1": 120114,
+    "Level": 14,
+    "SpeicalPoint": false,
+    "PremiumFixedReward2": 0
+  },
+  {
+    "GroupID": 1,
+    "PremiumOptional": 0,
+    "FreeReward": 120015,
+    "PremiumFixedReward1": 120115,
+    "Level": 15,
+    "SpeicalPoint": true,
+    "PremiumFixedReward2": 120203
+  },
+  {
+    "GroupID": 1,
+    "PremiumOptional": 0,
+    "FreeReward": 120016,
+    "PremiumFixedReward1": 120116,
+    "Level": 16,
+    "SpeicalPoint": false,
+    "PremiumFixedReward2": 0
+  },
+  {
+    "GroupID": 1,
+    "PremiumOptional": 0,
+    "FreeReward": 120017,
+    "PremiumFixedReward1": 120117,
+    "Level": 17,
+    "SpeicalPoint": false,
+    "PremiumFixedReward2": 0
+  },
+  {
+    "GroupID": 1,
+    "PremiumOptional": 0,
+    "FreeReward": 120018,
+    "PremiumFixedReward1": 120118,
+    "Level": 18,
+    "SpeicalPoint": false,
+    "PremiumFixedReward2": 0
+  },
+  {
+    "GroupID": 1,
+    "PremiumOptional": 0,
+    "FreeReward": 120019,
+    "PremiumFixedReward1": 120119,
+    "Level": 19,
+    "SpeicalPoint": false,
+    "PremiumFixedReward2": 0
+  },
+  {
+    "GroupID": 1,
+    "PremiumOptional": 0,
+    "FreeReward": 120020,
+    "PremiumFixedReward1": 120120,
+    "Level": 20,
+    "SpeicalPoint": true,
+    "PremiumFixedReward2": 120204
+  },
+  {
+    "GroupID": 1,
+    "PremiumOptional": 0,
+    "FreeReward": 120021,
+    "PremiumFixedReward1": 120121,
+    "Level": 21,
+    "SpeicalPoint": false,
+    "PremiumFixedReward2": 0
+  },
+  {
+    "GroupID": 1,
+    "PremiumOptional": 0,
+    "FreeReward": 120022,
+    "PremiumFixedReward1": 120122,
+    "Level": 22,
+    "SpeicalPoint": false,
+    "PremiumFixedReward2": 0
+  },
+  {
+    "GroupID": 1,
+    "PremiumOptional": 0,
+    "FreeReward": 120023,
+    "PremiumFixedReward1": 120123,
+    "Level": 23,
+    "SpeicalPoint": false,
+    "PremiumFixedReward2": 0
+  },
+  {
+    "GroupID": 1,
+    "PremiumOptional": 0,
+    "FreeReward": 120024,
+    "PremiumFixedReward1": 120124,
+    "Level": 24,
+    "SpeicalPoint": false,
+    "PremiumFixedReward2": 0
+  },
+  {
+    "GroupID": 1,
+    "PremiumOptional": 0,
+    "FreeReward": 120025,
+    "PremiumFixedReward1": 120125,
+    "Level": 25,
+    "SpeicalPoint": true,
+    "PremiumFixedReward2": 120205
+  },
+  {
+    "GroupID": 1,
+    "PremiumOptional": 0,
+    "FreeReward": 120026,
+    "PremiumFixedReward1": 120126,
+    "Level": 26,
+    "SpeicalPoint": false,
+    "PremiumFixedReward2": 0
+  },
+  {
+    "GroupID": 1,
+    "PremiumOptional": 0,
+    "FreeReward": 120027,
+    "PremiumFixedReward1": 120127,
+    "Level": 27,
+    "SpeicalPoint": false,
+    "PremiumFixedReward2": 0
+  },
+  {
+    "GroupID": 1,
+    "PremiumOptional": 0,
+    "FreeReward": 120028,
+    "PremiumFixedReward1": 120128,
+    "Level": 28,
+    "SpeicalPoint": false,
+    "PremiumFixedReward2": 0
+  },
+  {
+    "GroupID": 1,
+    "PremiumOptional": 0,
+    "FreeReward": 120029,
+    "PremiumFixedReward1": 120129,
+    "Level": 29,
+    "SpeicalPoint": false,
+    "PremiumFixedReward2": 0
+  },
+  {
+    "GroupID": 1,
+    "PremiumOptional": 300011,
+    "FreeReward": 120030,
+    "PremiumFixedReward1": 120130,
+    "Level": 30,
+    "SpeicalPoint": true,
+    "PremiumFixedReward2": 0
+  },
+  {
+    "GroupID": 1,
+    "PremiumOptional": 0,
+    "FreeReward": 120031,
+    "PremiumFixedReward1": 120131,
+    "Level": 31,
+    "SpeicalPoint": false,
+    "PremiumFixedReward2": 0
+  },
+  {
+    "GroupID": 1,
+    "PremiumOptional": 0,
+    "FreeReward": 120032,
+    "PremiumFixedReward1": 120132,
+    "Level": 32,
+    "SpeicalPoint": false,
+    "PremiumFixedReward2": 0
+  },
+  {
+    "GroupID": 1,
+    "PremiumOptional": 0,
+    "FreeReward": 120033,
+    "PremiumFixedReward1": 120133,
+    "Level": 33,
+    "SpeicalPoint": false,
+    "PremiumFixedReward2": 0
+  },
+  {
+    "GroupID": 1,
+    "PremiumOptional": 0,
+    "FreeReward": 120034,
+    "PremiumFixedReward1": 120134,
+    "Level": 34,
+    "SpeicalPoint": false,
+    "PremiumFixedReward2": 0
+  },
+  {
+    "GroupID": 1,
+    "PremiumOptional": 0,
+    "FreeReward": 120035,
+    "PremiumFixedReward1": 120135,
+    "Level": 35,
+    "SpeicalPoint": true,
+    "PremiumFixedReward2": 120207
+  },
+  {
+    "GroupID": 1,
+    "PremiumOptional": 0,
+    "FreeReward": 120036,
+    "PremiumFixedReward1": 120136,
+    "Level": 36,
+    "SpeicalPoint": false,
+    "PremiumFixedReward2": 0
+  },
+  {
+    "GroupID": 1,
+    "PremiumOptional": 0,
+    "FreeReward": 120037,
+    "PremiumFixedReward1": 120137,
+    "Level": 37,
+    "SpeicalPoint": false,
+    "PremiumFixedReward2": 0
+  },
+  {
+    "GroupID": 1,
+    "PremiumOptional": 0,
+    "FreeReward": 120038,
+    "PremiumFixedReward1": 120138,
+    "Level": 38,
+    "SpeicalPoint": false,
+    "PremiumFixedReward2": 0
+  },
+  {
+    "GroupID": 1,
+    "PremiumOptional": 0,
+    "FreeReward": 120039,
+    "PremiumFixedReward1": 120139,
+    "Level": 39,
+    "SpeicalPoint": false,
+    "PremiumFixedReward2": 0
+  },
+  {
+    "GroupID": 1,
+    "PremiumOptional": 0,
+    "FreeReward": 120040,
+    "PremiumFixedReward1": 120140,
+    "Level": 40,
+    "SpeicalPoint": true,
+    "PremiumFixedReward2": 120208
+  },
+  {
+    "GroupID": 1,
+    "PremiumOptional": 0,
+    "FreeReward": 120041,
+    "PremiumFixedReward1": 120141,
+    "Level": 41,
+    "SpeicalPoint": false,
+    "PremiumFixedReward2": 0
+  },
+  {
+    "GroupID": 1,
+    "PremiumOptional": 0,
+    "FreeReward": 120042,
+    "PremiumFixedReward1": 120142,
+    "Level": 42,
+    "SpeicalPoint": false,
+    "PremiumFixedReward2": 0
+  },
+  {
+    "GroupID": 1,
+    "PremiumOptional": 0,
+    "FreeReward": 120043,
+    "PremiumFixedReward1": 120143,
+    "Level": 43,
+    "SpeicalPoint": false,
+    "PremiumFixedReward2": 0
+  },
+  {
+    "GroupID": 1,
+    "PremiumOptional": 0,
+    "FreeReward": 120044,
+    "PremiumFixedReward1": 120144,
+    "Level": 44,
+    "SpeicalPoint": false,
+    "PremiumFixedReward2": 0
+  },
+  {
+    "GroupID": 1,
+    "PremiumOptional": 0,
+    "FreeReward": 120045,
+    "PremiumFixedReward1": 120145,
+    "Level": 45,
+    "SpeicalPoint": true,
+    "PremiumFixedReward2": 120209
+  },
+  {
+    "GroupID": 1,
+    "PremiumOptional": 0,
+    "FreeReward": 120046,
+    "PremiumFixedReward1": 120146,
+    "Level": 46,
+    "SpeicalPoint": false,
+    "PremiumFixedReward2": 0
+  },
+  {
+    "GroupID": 1,
+    "PremiumOptional": 0,
+    "FreeReward": 120047,
+    "PremiumFixedReward1": 120147,
+    "Level": 47,
+    "SpeicalPoint": false,
+    "PremiumFixedReward2": 0
+  },
+  {
+    "GroupID": 1,
+    "PremiumOptional": 0,
+    "FreeReward": 120048,
+    "PremiumFixedReward1": 120148,
+    "Level": 48,
+    "SpeicalPoint": false,
+    "PremiumFixedReward2": 0
+  },
+  {
+    "GroupID": 1,
+    "PremiumOptional": 0,
+    "FreeReward": 120049,
+    "PremiumFixedReward1": 120149,
+    "Level": 49,
+    "SpeicalPoint": false,
+    "PremiumFixedReward2": 0
+  },
+  {
+    "GroupID": 1,
+    "PremiumOptional": 0,
+    "FreeReward": 120050,
+    "PremiumFixedReward1": 120150,
+    "Level": 50,
+    "SpeicalPoint": true,
+    "PremiumFixedReward2": 120210
+  },
+  {
+    "GroupID": 1,
+    "PremiumOptional": 0,
+    "FreeReward": 120051,
+    "PremiumFixedReward1": 120151,
+    "Level": 51,
+    "SpeicalPoint": false,
+    "PremiumFixedReward2": 0
+  },
+  {
+    "GroupID": 1,
+    "PremiumOptional": 0,
+    "FreeReward": 120051,
+    "PremiumFixedReward1": 120151,
+    "Level": 52,
+    "SpeicalPoint": false,
+    "PremiumFixedReward2": 0
+  },
+  {
+    "GroupID": 1,
+    "PremiumOptional": 0,
+    "FreeReward": 120051,
+    "PremiumFixedReward1": 120151,
+    "Level": 53,
+    "SpeicalPoint": false,
+    "PremiumFixedReward2": 0
+  },
+  {
+    "GroupID": 1,
+    "PremiumOptional": 0,
+    "FreeReward": 120051,
+    "PremiumFixedReward1": 120151,
+    "Level": 54,
+    "SpeicalPoint": false,
+    "PremiumFixedReward2": 0
+  },
+  {
+    "GroupID": 1,
+    "PremiumOptional": 0,
+    "FreeReward": 120051,
+    "PremiumFixedReward1": 120151,
+    "Level": 55,
+    "SpeicalPoint": false,
+    "PremiumFixedReward2": 0
+  },
+  {
+    "GroupID": 1,
+    "PremiumOptional": 0,
+    "FreeReward": 120051,
+    "PremiumFixedReward1": 120151,
+    "Level": 56,
+    "SpeicalPoint": false,
+    "PremiumFixedReward2": 0
+  },
+  {
+    "GroupID": 1,
+    "PremiumOptional": 0,
+    "FreeReward": 120051,
+    "PremiumFixedReward1": 120151,
+    "Level": 57,
+    "SpeicalPoint": false,
+    "PremiumFixedReward2": 0
+  },
+  {
+    "GroupID": 1,
+    "PremiumOptional": 0,
+    "FreeReward": 120051,
+    "PremiumFixedReward1": 120151,
+    "Level": 58,
+    "SpeicalPoint": false,
+    "PremiumFixedReward2": 0
+  },
+  {
+    "GroupID": 1,
+    "PremiumOptional": 0,
+    "FreeReward": 120051,
+    "PremiumFixedReward1": 120151,
+    "Level": 59,
+    "SpeicalPoint": false,
+    "PremiumFixedReward2": 0
+  },
+  {
+    "GroupID": 1,
+    "PremiumOptional": 0,
+    "FreeReward": 120051,
+    "PremiumFixedReward1": 120151,
+    "Level": 60,
+    "SpeicalPoint": false,
+    "PremiumFixedReward2": 0
+  },
+  {
+    "GroupID": 1,
+    "PremiumOptional": 0,
+    "FreeReward": 120051,
+    "PremiumFixedReward1": 120151,
+    "Level": 61,
+    "SpeicalPoint": false,
+    "PremiumFixedReward2": 0
+  },
+  {
+    "GroupID": 1,
+    "PremiumOptional": 0,
+    "FreeReward": 120051,
+    "PremiumFixedReward1": 120151,
+    "Level": 62,
+    "SpeicalPoint": false,
+    "PremiumFixedReward2": 0
+  },
+  {
+    "GroupID": 1,
+    "PremiumOptional": 0,
+    "FreeReward": 120051,
+    "PremiumFixedReward1": 120151,
+    "Level": 63,
+    "SpeicalPoint": false,
+    "PremiumFixedReward2": 0
+  },
+  {
+    "GroupID": 1,
+    "PremiumOptional": 0,
+    "FreeReward": 120051,
+    "PremiumFixedReward1": 120151,
+    "Level": 64,
+    "SpeicalPoint": false,
+    "PremiumFixedReward2": 0
+  },
+  {
+    "GroupID": 1,
+    "PremiumOptional": 0,
+    "FreeReward": 120051,
+    "PremiumFixedReward1": 120151,
+    "Level": 65,
+    "SpeicalPoint": false,
+    "PremiumFixedReward2": 0
+  },
+  {
+    "GroupID": 1,
+    "PremiumOptional": 0,
+    "FreeReward": 120051,
+    "PremiumFixedReward1": 120151,
+    "Level": 66,
+    "SpeicalPoint": false,
+    "PremiumFixedReward2": 0
+  },
+  {
+    "GroupID": 1,
+    "PremiumOptional": 0,
+    "FreeReward": 120051,
+    "PremiumFixedReward1": 120151,
+    "Level": 67,
+    "SpeicalPoint": false,
+    "PremiumFixedReward2": 0
+  },
+  {
+    "GroupID": 1,
+    "PremiumOptional": 0,
+    "FreeReward": 120051,
+    "PremiumFixedReward1": 120151,
+    "Level": 68,
+    "SpeicalPoint": false,
+    "PremiumFixedReward2": 0
+  },
+  {
+    "GroupID": 1,
+    "PremiumOptional": 0,
+    "FreeReward": 120051,
+    "PremiumFixedReward1": 120151,
+    "Level": 69,
+    "SpeicalPoint": false,
+    "PremiumFixedReward2": 0
+  },
+  {
+    "GroupID": 1,
+    "PremiumOptional": 0,
+    "FreeReward": 120051,
+    "PremiumFixedReward1": 120151,
+    "Level": 70,
+    "SpeicalPoint": false,
+    "PremiumFixedReward2": 0
+  }
+]

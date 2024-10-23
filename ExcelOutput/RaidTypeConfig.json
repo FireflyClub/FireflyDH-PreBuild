@@ -1,0 +1,72 @@
+[
+  {
+    "FailedType": "Unknown",
+    "FinishCountDown": 0,
+    "RaidType": "Mission",
+    "FailedResult": "Unknown",
+    "FinishType": "RaidMissionFinish"
+  },
+  {
+    "FailedType": "Unknown",
+    "FinishCountDown": 0,
+    "RaidType": "Relic",
+    "FailedResult": "Unknown",
+    "FinishType": "None"
+  },
+  {
+    "FailedType": "Unknown",
+    "FinishCountDown": 0,
+    "RaidType": "Challenge",
+    "FailedResult": "Unknown",
+    "FinishType": "None"
+  },
+  {
+    "FailedType": "Unknown",
+    "FinishCountDown": 0,
+    "RaidType": "TreasureChallenge",
+    "FailedResult": "Unknown",
+    "FinishType": "RaidMissionFinish"
+  },
+  {
+    "FailedType": "Unknown",
+    "FinishCountDown": 30,
+    "RaidType": "PunkLord",
+    "FailedResult": "Unknown",
+    "FinishType": "None"
+  },
+  {
+    "FailedType": "Unknown",
+    "FinishCountDown": 0,
+    "RaidType": "SaveMission",
+    "FailedResult": "Unknown",
+    "FinishType": "None"
+  },
+  {
+    "FailedType": "Unknown",
+    "FinishCountDown": 0,
+    "RaidType": "Trial",
+    "FailedResult": "Unknown",
+    "FinishType": "None"
+  },
+  {
+    "FailedType": "Unknown",
+    "FinishCountDown": 999,
+    "RaidType": "EquilibriumTrial",
+    "FailedResult": "Unknown",
+    "FinishType": "RaidMissionFinish"
+  },
+  {
+    "FailedType": "Unknown",
+    "FinishCountDown": 0,
+    "RaidType": "Heliobus",
+    "FailedResult": "Unknown",
+    "FinishType": "AllMonsterDie"
+  },
+  {
+    "FailedType": "Unknown",
+    "FinishCountDown": 0,
+    "RaidType": "ActivityRaidCollection",
+    "FailedResult": "Unknown",
+    "FinishType": "RaidMissionFinish"
+  }
+]

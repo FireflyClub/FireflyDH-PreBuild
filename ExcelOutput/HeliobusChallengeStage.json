@@ -1,0 +1,513 @@
+[
+  {
+    "HeliobusSkillRecList": [
+      10001
+    ],
+    "MonsterList": [
+      200201003,
+      200203001
+    ],
+    "BattleTargetList": [
+      50006012,
+      5000602,
+      50006071
+    ],
+    "EventID": 309202,
+    "UnlockPhase": 1,
+    "HeliobusChallengeHard": 1,
+    "RewardID": 8005004,
+    "PreChallengeID": 0,
+    "ChallengeDesc": {
+      "Hash": 1238716308
+    },
+    "FloorID": 20223001,
+    "HeliobusMazeBuff": 3103002,
+    "ChallengeID": 1001,
+    "ChallengeName": {
+      "Hash": -210408586
+    },
+    "BattleAreaGroupID": 1,
+    "PlaneID": 20223,
+    "BattleAreaID": 1
+  },
+  {
+    "HeliobusSkillRecList": [
+      10001
+    ],
+    "MonsterList": [
+      202201006,
+      202206002,
+      202211001
+    ],
+    "BattleTargetList": [
+      50006012,
+      5000602,
+      50006072
+    ],
+    "EventID": 309203,
+    "UnlockPhase": 1,
+    "HeliobusChallengeHard": 2,
+    "RewardID": 8005004,
+    "PreChallengeID": 1001,
+    "ChallengeDesc": {
+      "Hash": 1238716309
+    },
+    "FloorID": 20223001,
+    "HeliobusMazeBuff": 3103002,
+    "ChallengeID": 1002,
+    "ChallengeName": {
+      "Hash": -210408585
+    },
+    "BattleAreaGroupID": 1,
+    "PlaneID": 20223,
+    "BattleAreaID": 1
+  },
+  {
+    "HeliobusSkillRecList": [
+      10001
+    ],
+    "MonsterList": [
+      202201006,
+      202301009
+    ],
+    "BattleTargetList": [
+      50006011,
+      5000602,
+      50006073
+    ],
+    "EventID": 309204,
+    "UnlockPhase": 1,
+    "HeliobusChallengeHard": 3,
+    "RewardID": 8005004,
+    "PreChallengeID": 1002,
+    "ChallengeDesc": {
+      "Hash": 1238716310
+    },
+    "FloorID": 20223001,
+    "HeliobusMazeBuff": 3103002,
+    "ChallengeID": 1003,
+    "ChallengeName": {
+      "Hash": -210408584
+    },
+    "BattleAreaGroupID": 1,
+    "PlaneID": 20223,
+    "BattleAreaID": 1
+  },
+  {
+    "HeliobusSkillRecList": [
+      10001,
+      10005
+    ],
+    "MonsterList": [
+      200201003,
+      201302001
+    ],
+    "BattleTargetList": [
+      50006011,
+      5000602,
+      50006074
+    ],
+    "EventID": 309205,
+    "UnlockPhase": 1,
+    "HeliobusChallengeHard": 4,
+    "RewardID": 8005004,
+    "PreChallengeID": 1003,
+    "ChallengeDesc": {
+      "Hash": 1238716303
+    },
+    "FloorID": 20223001,
+    "HeliobusMazeBuff": 3103002,
+    "ChallengeID": 1004,
+    "ChallengeName": {
+      "Hash": -210408583
+    },
+    "BattleAreaGroupID": 1,
+    "PlaneID": 20223,
+    "BattleAreaID": 1
+  },
+  {
+    "HeliobusSkillRecList": [
+      10002
+    ],
+    "MonsterList": [
+      201101003,
+      201201004,
+      201102003
+    ],
+    "BattleTargetList": [
+      50006012,
+      5000602,
+      50006071
+    ],
+    "EventID": 309102,
+    "UnlockPhase": 1,
+    "HeliobusChallengeHard": 1,
+    "RewardID": 8005004,
+    "PreChallengeID": 0,
+    "ChallengeDesc": {
+      "Hash": 1238716304
+    },
+    "FloorID": 20223001,
+    "HeliobusMazeBuff": 3103001,
+    "ChallengeID": 1005,
+    "ChallengeName": {
+      "Hash": -210408582
+    },
+    "BattleAreaGroupID": 1,
+    "PlaneID": 20223,
+    "BattleAreaID": 1
+  },
+  {
+    "HeliobusSkillRecList": [
+      10002
+    ],
+    "MonsterList": [
+      202205001,
+      202204002
+    ],
+    "BattleTargetList": [
+      50006012,
+      5000602,
+      50006072
+    ],
+    "EventID": 309103,
+    "UnlockPhase": 1,
+    "HeliobusChallengeHard": 2,
+    "RewardID": 8005004,
+    "PreChallengeID": 1005,
+    "ChallengeDesc": {
+      "Hash": 1238716305
+    },
+    "FloorID": 20223001,
+    "HeliobusMazeBuff": 3103001,
+    "ChallengeID": 1006,
+    "ChallengeName": {
+      "Hash": -210408581
+    },
+    "BattleAreaGroupID": 1,
+    "PlaneID": 20223,
+    "BattleAreaID": 1
+  },
+  {
+    "HeliobusSkillRecList": [
+      10002,
+      10006
+    ],
+    "MonsterList": [
+      202204002,
+      202302003,
+      202205001
+    ],
+    "BattleTargetList": [
+      50006011,
+      5000602,
+      50006073
+    ],
+    "EventID": 309104,
+    "UnlockPhase": 1,
+    "HeliobusChallengeHard": 3,
+    "RewardID": 8005004,
+    "PreChallengeID": 1006,
+    "ChallengeDesc": {
+      "Hash": 1238716306
+    },
+    "FloorID": 20223001,
+    "HeliobusMazeBuff": 3103001,
+    "ChallengeID": 1007,
+    "ChallengeName": {
+      "Hash": -210408580
+    },
+    "BattleAreaGroupID": 1,
+    "PlaneID": 20223,
+    "BattleAreaID": 1
+  },
+  {
+    "HeliobusSkillRecList": [
+      10002,
+      10006
+    ],
+    "MonsterList": [
+      201201004,
+      201301004
+    ],
+    "BattleTargetList": [
+      50006011,
+      5000602,
+      50006074
+    ],
+    "EventID": 309105,
+    "UnlockPhase": 1,
+    "HeliobusChallengeHard": 4,
+    "RewardID": 8005004,
+    "PreChallengeID": 1007,
+    "ChallengeDesc": {
+      "Hash": 1238716299
+    },
+    "FloorID": 20223001,
+    "HeliobusMazeBuff": 3103001,
+    "ChallengeID": 1008,
+    "ChallengeName": {
+      "Hash": -210408595
+    },
+    "BattleAreaGroupID": 1,
+    "PlaneID": 20223,
+    "BattleAreaID": 1
+  },
+  {
+    "HeliobusSkillRecList": [
+      10003
+    ],
+    "MonsterList": [
+      201101003,
+      202205001
+    ],
+    "BattleTargetList": [
+      50006012,
+      5000602,
+      50006071
+    ],
+    "EventID": 309302,
+    "UnlockPhase": 1,
+    "HeliobusChallengeHard": 1,
+    "RewardID": 8005004,
+    "PreChallengeID": 0,
+    "ChallengeDesc": {
+      "Hash": 1238716300
+    },
+    "FloorID": 20223001,
+    "HeliobusMazeBuff": 3103003,
+    "ChallengeID": 1009,
+    "ChallengeName": {
+      "Hash": -210408594
+    },
+    "BattleAreaGroupID": 1,
+    "PlaneID": 20223,
+    "BattleAreaID": 1
+  },
+  {
+    "HeliobusSkillRecList": [
+      10003
+    ],
+    "MonsterList": [
+      202204002,
+      202206002
+    ],
+    "BattleTargetList": [
+      50006012,
+      5000602,
+      50006072
+    ],
+    "EventID": 309303,
+    "UnlockPhase": 1,
+    "HeliobusChallengeHard": 2,
+    "RewardID": 8005004,
+    "PreChallengeID": 1009,
+    "ChallengeDesc": {
+      "Hash": -327367634
+    },
+    "FloorID": 20223001,
+    "HeliobusMazeBuff": 3103003,
+    "ChallengeID": 1010,
+    "ChallengeName": {
+      "Hash": -1776492528
+    },
+    "BattleAreaGroupID": 1,
+    "PlaneID": 20223,
+    "BattleAreaID": 1
+  },
+  {
+    "HeliobusSkillRecList": [
+      10003,
+      10006
+    ],
+    "MonsterList": [
+      201101003,
+      201301004,
+      201102003
+    ],
+    "BattleTargetList": [
+      50006011,
+      5000602,
+      50006073
+    ],
+    "EventID": 309304,
+    "UnlockPhase": 1,
+    "HeliobusChallengeHard": 3,
+    "RewardID": 8005004,
+    "PreChallengeID": 1010,
+    "ChallengeDesc": {
+      "Hash": -327367633
+    },
+    "FloorID": 20223001,
+    "HeliobusMazeBuff": 3103003,
+    "ChallengeID": 1011,
+    "ChallengeName": {
+      "Hash": -1776492527
+    },
+    "BattleAreaGroupID": 1,
+    "PlaneID": 20223,
+    "BattleAreaID": 1
+  },
+  {
+    "HeliobusSkillRecList": [
+      10003,
+      10007
+    ],
+    "MonsterList": [
+      202204002,
+      202302003,
+      202205001
+    ],
+    "BattleTargetList": [
+      50006011,
+      5000602,
+      50006074
+    ],
+    "EventID": 309305,
+    "UnlockPhase": 1,
+    "HeliobusChallengeHard": 4,
+    "RewardID": 8005004,
+    "PreChallengeID": 1011,
+    "ChallengeDesc": {
+      "Hash": -327367632
+    },
+    "FloorID": 20223001,
+    "HeliobusMazeBuff": 3103003,
+    "ChallengeID": 1012,
+    "ChallengeName": {
+      "Hash": -1776492526
+    },
+    "BattleAreaGroupID": 1,
+    "PlaneID": 20223,
+    "BattleAreaID": 1
+  },
+  {
+    "HeliobusSkillRecList": [
+      10004
+    ],
+    "MonsterList": [
+      801203007,
+      801202012,
+      801201023
+    ],
+    "BattleTargetList": [
+      50006012,
+      5000602,
+      50006071
+    ],
+    "EventID": 309402,
+    "UnlockPhase": 1,
+    "HeliobusChallengeHard": 1,
+    "RewardID": 8005004,
+    "PreChallengeID": 0,
+    "ChallengeDesc": {
+      "Hash": -327367631
+    },
+    "FloorID": 20223001,
+    "HeliobusMazeBuff": 3103004,
+    "ChallengeID": 1013,
+    "ChallengeName": {
+      "Hash": -1776492525
+    },
+    "BattleAreaGroupID": 1,
+    "PlaneID": 20223,
+    "BattleAreaID": 1
+  },
+  {
+    "HeliobusSkillRecList": [
+      10004
+    ],
+    "MonsterList": [
+      202211001,
+      202206002,
+      202202007
+    ],
+    "BattleTargetList": [
+      50006012,
+      5000602,
+      50006072
+    ],
+    "EventID": 309403,
+    "UnlockPhase": 1,
+    "HeliobusChallengeHard": 2,
+    "RewardID": 8005004,
+    "PreChallengeID": 1013,
+    "ChallengeDesc": {
+      "Hash": -327367638
+    },
+    "FloorID": 20223001,
+    "HeliobusMazeBuff": 3103004,
+    "ChallengeID": 1014,
+    "ChallengeName": {
+      "Hash": -1776492524
+    },
+    "BattleAreaGroupID": 1,
+    "PlaneID": 20223,
+    "BattleAreaID": 1
+  },
+  {
+    "HeliobusSkillRecList": [
+      10004,
+      10005
+    ],
+    "MonsterList": [
+      202202007,
+      202303005,
+      202206002
+    ],
+    "BattleTargetList": [
+      50006011,
+      5000602,
+      50006073
+    ],
+    "EventID": 309404,
+    "UnlockPhase": 1,
+    "HeliobusChallengeHard": 3,
+    "RewardID": 8005004,
+    "PreChallengeID": 1014,
+    "ChallengeDesc": {
+      "Hash": -327367637
+    },
+    "FloorID": 20223001,
+    "HeliobusMazeBuff": 3103004,
+    "ChallengeID": 1015,
+    "ChallengeName": {
+      "Hash": -1776492523
+    },
+    "BattleAreaGroupID": 1,
+    "PlaneID": 20223,
+    "BattleAreaID": 1
+  },
+  {
+    "HeliobusSkillRecList": [
+      10004,
+      10008
+    ],
+    "MonsterList": [
+      800201006,
+      800305007
+    ],
+    "BattleTargetList": [
+      50006011,
+      5000602,
+      50006074
+    ],
+    "EventID": 309405,
+    "UnlockPhase": 1,
+    "HeliobusChallengeHard": 4,
+    "RewardID": 8005004,
+    "PreChallengeID": 1015,
+    "ChallengeDesc": {
+      "Hash": -327367636
+    },
+    "FloorID": 20223001,
+    "HeliobusMazeBuff": 3103004,
+    "ChallengeID": 1016,
+    "ChallengeName": {
+      "Hash": -1776492522
+    },
+    "BattleAreaGroupID": 1,
+    "PlaneID": 20223,
+    "BattleAreaID": 1
+  }
+]

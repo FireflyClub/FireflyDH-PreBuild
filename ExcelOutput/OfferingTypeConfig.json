@@ -1,0 +1,47 @@
+[
+  {
+    "MaxLevel": 50,
+    "ID": 1,
+    "ItemID": 120003,
+    "IsAutoOffer": false,
+    "LongTailLimit": 0,
+    "ActivityModuleID": 0,
+    "UnlockID": 9937
+  },
+  {
+    "MaxLevel": 10,
+    "ID": 2,
+    "ItemID": 281005,
+    "IsAutoOffer": false,
+    "LongTailLimit": 0,
+    "ActivityModuleID": 0,
+    "UnlockID": 104001
+  },
+  {
+    "MaxLevel": 7,
+    "ID": 3,
+    "ItemID": 281024,
+    "IsAutoOffer": true,
+    "LongTailLimit": 12,
+    "ActivityModuleID": 5001400,
+    "UnlockID": 0
+  },
+  {
+    "MaxLevel": 20,
+    "ID": 4,
+    "ItemID": 281025,
+    "IsAutoOffer": false,
+    "LongTailLimit": 0,
+    "ActivityModuleID": 0,
+    "UnlockID": 105101
+  },
+  {
+    "MaxLevel": 16,
+    "ID": 5,
+    "ItemID": 270003,
+    "IsAutoOffer": false,
+    "LongTailLimit": 0,
+    "ActivityModuleID": 0,
+    "UnlockID": 105301
+  }
+]

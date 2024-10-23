@@ -1,0 +1,1324 @@
+[
+  {
+    "GamePlayEffectList": [
+      101
+    ],
+    "EffectDescParamList": [
+      {
+        "Value": 0.12000000013969839
+      }
+    ],
+    "TalentIcon": "SpriteOutput/BuffIcon/Inlevel/IconBuffDefenceUp.png",
+    "EffectTitle": {
+      "Hash": 331403361
+    },
+    "AeonDimensionID": 1,
+    "EffectDesc": {
+      "Hash": -1054333450
+    },
+    "AeonTalentID": 101,
+    "UnlockAeonDimensionPoint": 1,
+    "IsImportant": false
+  },
+  {
+    "GamePlayEffectList": [
+      102
+    ],
+    "EffectDescParamList": [
+      {
+        "Value": 0.060000000069849194
+      }
+    ],
+    "TalentIcon": "SpriteOutput/Rogue/Talent/1003.png",
+    "EffectTitle": {
+      "Hash": -1234680580
+    },
+    "AeonDimensionID": 1,
+    "EffectDesc": {
+      "Hash": -1054333453
+    },
+    "AeonTalentID": 102,
+    "UnlockAeonDimensionPoint": 3,
+    "IsImportant": true
+  },
+  {
+    "GamePlayEffectList": [
+      103
+    ],
+    "EffectDescParamList": [
+      {
+        "Value": 0.04000000004656613
+      }
+    ],
+    "TalentIcon": "SpriteOutput/BuffIcon/Inlevel/IconBuffShield.png",
+    "EffectTitle": {
+      "Hash": 1494202775
+    },
+    "AeonDimensionID": 1,
+    "EffectDesc": {
+      "Hash": -1054333452
+    },
+    "AeonTalentID": 103,
+    "UnlockAeonDimensionPoint": 5,
+    "IsImportant": false
+  },
+  {
+    "GamePlayEffectList": [
+      104
+    ],
+    "EffectDescParamList": [
+      {
+        "Value": 100.00000002328306
+      }
+    ],
+    "TalentIcon": "SpriteOutput/Rogue/Talent/1002.png",
+    "EffectTitle": {
+      "Hash": -71881166
+    },
+    "AeonDimensionID": 1,
+    "EffectDesc": {
+      "Hash": -1054333455
+    },
+    "AeonTalentID": 104,
+    "UnlockAeonDimensionPoint": 7,
+    "IsImportant": true
+  },
+  {
+    "GamePlayEffectList": [
+      105
+    ],
+    "EffectDescParamList": [
+      {
+        "Value": 0.12000000013969839
+      }
+    ],
+    "TalentIcon": "SpriteOutput/BuffIcon/Inlevel/IconBuffDefenceUp.png",
+    "EffectTitle": {
+      "Hash": -1637965107
+    },
+    "AeonDimensionID": 1,
+    "EffectDesc": {
+      "Hash": -1054333454
+    },
+    "AeonTalentID": 105,
+    "UnlockAeonDimensionPoint": 9,
+    "IsImportant": false
+  },
+  {
+    "GamePlayEffectList": [
+      106
+    ],
+    "EffectDescParamList": [
+      {
+        "Value": 0.060000000069849194
+      }
+    ],
+    "TalentIcon": "SpriteOutput/Rogue/Talent/1003.png",
+    "EffectTitle": {
+      "Hash": 1090918248
+    },
+    "AeonDimensionID": 1,
+    "EffectDesc": {
+      "Hash": -1054333457
+    },
+    "AeonTalentID": 106,
+    "UnlockAeonDimensionPoint": 11,
+    "IsImportant": true
+  },
+  {
+    "GamePlayEffectList": [
+      107
+    ],
+    "EffectDescParamList": [
+      {
+        "Value": 0.04000000004656613
+      }
+    ],
+    "TalentIcon": "SpriteOutput/BuffIcon/Inlevel/IconBuffShield.png",
+    "EffectTitle": {
+      "Hash": -475165693
+    },
+    "AeonDimensionID": 1,
+    "EffectDesc": {
+      "Hash": -1054333456
+    },
+    "AeonTalentID": 107,
+    "UnlockAeonDimensionPoint": 13,
+    "IsImportant": false
+  },
+  {
+    "GamePlayEffectList": [
+      108
+    ],
+    "EffectDescParamList": [
+      {
+        "Value": 0.12000000013969839
+      }
+    ],
+    "TalentIcon": "SpriteOutput/BuffIcon/Inlevel/IconBuffDefenceUp.png",
+    "EffectTitle": {
+      "Hash": 1541256942
+    },
+    "AeonDimensionID": 1,
+    "EffectDesc": {
+      "Hash": -1054333459
+    },
+    "AeonTalentID": 108,
+    "UnlockAeonDimensionPoint": 16,
+    "IsImportant": false
+  },
+  {
+    "GamePlayEffectList": [
+      109
+    ],
+    "EffectDescParamList": [
+      {
+        "Value": 0.04000000004656613
+      }
+    ],
+    "TalentIcon": "SpriteOutput/BuffIcon/Inlevel/IconBuffShield.png",
+    "EffectTitle": {
+      "Hash": -24826999
+    },
+    "AeonDimensionID": 1,
+    "EffectDesc": {
+      "Hash": -1054333458
+    },
+    "AeonTalentID": 109,
+    "UnlockAeonDimensionPoint": 20,
+    "IsImportant": false
+  },
+  {
+    "GamePlayEffectList": [
+      201
+    ],
+    "EffectDescParamList": [
+      {
+        "Value": 0.030000000034924597
+      }
+    ],
+    "TalentIcon": "SpriteOutput/BuffIcon/Inlevel/IconBuffDamageResistance.png",
+    "EffectTitle": {
+      "Hash": 190240860
+    },
+    "AeonDimensionID": 2,
+    "EffectDesc": {
+      "Hash": -1054333549
+    },
+    "AeonTalentID": 201,
+    "UnlockAeonDimensionPoint": 1,
+    "IsImportant": false
+  },
+  {
+    "GamePlayEffectList": [
+      202
+    ],
+    "EffectDescParamList": [
+      {
+        "Value": 10.000000002328306
+      }
+    ],
+    "TalentIcon": "SpriteOutput/Rogue/Talent/1003.png",
+    "EffectTitle": {
+      "Hash": 1756324801
+    },
+    "AeonDimensionID": 2,
+    "EffectDesc": {
+      "Hash": -1054333546
+    },
+    "AeonTalentID": 202,
+    "UnlockAeonDimensionPoint": 3,
+    "IsImportant": true
+  },
+  {
+    "GamePlayEffectList": [
+      203
+    ],
+    "EffectDescParamList": [
+      {
+        "Value": 0.050000000058207664
+      }
+    ],
+    "TalentIcon": "SpriteOutput/BuffIcon/Inlevel/IconBuffStatusProbability.png",
+    "EffectTitle": {
+      "Hash": -972558554
+    },
+    "AeonDimensionID": 2,
+    "EffectDesc": {
+      "Hash": -1054333547
+    },
+    "AeonTalentID": 203,
+    "UnlockAeonDimensionPoint": 5,
+    "IsImportant": false
+  },
+  {
+    "GamePlayEffectList": [
+      204
+    ],
+    "EffectDescParamList": [
+      {
+        "Value": 1.0000000002328306
+      }
+    ],
+    "TalentIcon": "SpriteOutput/Rogue/Talent/1002.png",
+    "EffectTitle": {
+      "Hash": 949755747
+    },
+    "AeonDimensionID": 2,
+    "EffectDesc": {
+      "Hash": -1054333552
+    },
+    "AeonTalentID": 204,
+    "UnlockAeonDimensionPoint": 7,
+    "IsImportant": true
+  },
+  {
+    "GamePlayEffectList": [
+      205
+    ],
+    "EffectDescParamList": [
+      {
+        "Value": 0.030000000034924597
+      }
+    ],
+    "TalentIcon": "SpriteOutput/BuffIcon/Inlevel/IconBuffDamageResistance.png",
+    "EffectTitle": {
+      "Hash": -1779127608
+    },
+    "AeonDimensionID": 2,
+    "EffectDesc": {
+      "Hash": -1054333553
+    },
+    "AeonTalentID": 205,
+    "UnlockAeonDimensionPoint": 9,
+    "IsImportant": false
+  },
+  {
+    "GamePlayEffectList": [
+      206
+    ],
+    "EffectDescParamList": [
+      {
+        "Value": 0.060000000069849194
+      }
+    ],
+    "TalentIcon": "SpriteOutput/Rogue/Talent/1003.png",
+    "EffectTitle": {
+      "Hash": -213043667
+    },
+    "AeonDimensionID": 2,
+    "EffectDesc": {
+      "Hash": -1054333550
+    },
+    "AeonTalentID": 206,
+    "UnlockAeonDimensionPoint": 11,
+    "IsImportant": true
+  },
+  {
+    "GamePlayEffectList": [
+      207
+    ],
+    "EffectDescParamList": [
+      {
+        "Value": 0.050000000058207664
+      }
+    ],
+    "TalentIcon": "SpriteOutput/BuffIcon/Inlevel/IconBuffStatusProbability.png",
+    "EffectTitle": {
+      "Hash": 1353040274
+    },
+    "AeonDimensionID": 2,
+    "EffectDesc": {
+      "Hash": -1054333551
+    },
+    "AeonTalentID": 207,
+    "UnlockAeonDimensionPoint": 13,
+    "IsImportant": false
+  },
+  {
+    "GamePlayEffectList": [
+      208
+    ],
+    "EffectDescParamList": [
+      {
+        "Value": 0.030000000034924597
+      }
+    ],
+    "TalentIcon": "SpriteOutput/BuffIcon/Inlevel/IconBuffDamageResistance.png",
+    "EffectTitle": {
+      "Hash": -1732073441
+    },
+    "AeonDimensionID": 2,
+    "EffectDesc": {
+      "Hash": -1054333556
+    },
+    "AeonTalentID": 208,
+    "UnlockAeonDimensionPoint": 16,
+    "IsImportant": false
+  },
+  {
+    "GamePlayEffectList": [
+      209
+    ],
+    "EffectDescParamList": [
+      {
+        "Value": 0.050000000058207664
+      }
+    ],
+    "TalentIcon": "SpriteOutput/BuffIcon/Inlevel/IconBuffStatusProbability.png",
+    "EffectTitle": {
+      "Hash": -165989500
+    },
+    "AeonDimensionID": 2,
+    "EffectDesc": {
+      "Hash": -1054333557
+    },
+    "AeonTalentID": 209,
+    "UnlockAeonDimensionPoint": 20,
+    "IsImportant": false
+  },
+  {
+    "GamePlayEffectList": [
+      301
+    ],
+    "EffectDescParamList": [
+      {
+        "Value": 0.10000000011641533
+      }
+    ],
+    "TalentIcon": "SpriteOutput/BuffIcon/Inlevel/IconBuffDotDamageAddedRatio.png",
+    "EffectTitle": {
+      "Hash": 49078359
+    },
+    "AeonDimensionID": 3,
+    "EffectDesc": {
+      "Hash": -1054333516
+    },
+    "AeonTalentID": 301,
+    "UnlockAeonDimensionPoint": 1,
+    "IsImportant": false
+  },
+  {
+    "GamePlayEffectList": [
+      302
+    ],
+    "EffectDescParamList": [
+      {
+        "Value": 0.060000000069849194
+      }
+    ],
+    "TalentIcon": "SpriteOutput/Rogue/Talent/1003.png",
+    "EffectTitle": {
+      "Hash": 452362886
+    },
+    "AeonDimensionID": 3,
+    "EffectDesc": {
+      "Hash": -1054333515
+    },
+    "AeonTalentID": 302,
+    "UnlockAeonDimensionPoint": 3,
+    "IsImportant": true
+  },
+  {
+    "GamePlayEffectList": [
+      303
+    ],
+    "EffectDescParamList": [
+      {
+        "Value": 0.15000000017462298
+      }
+    ],
+    "TalentIcon": "SpriteOutput/BuffIcon/Inlevel/IconBuffBreakDamage.png",
+    "EffectTitle": {
+      "Hash": -1113721055
+    },
+    "AeonDimensionID": 3,
+    "EffectDesc": {
+      "Hash": -1054333514
+    },
+    "AeonTalentID": 303,
+    "UnlockAeonDimensionPoint": 5,
+    "IsImportant": false
+  },
+  {
+    "GamePlayEffectList": [
+      304
+    ],
+    "EffectDescParamList": [
+      {
+        "Value": 10.000000002328306
+      }
+    ],
+    "TalentIcon": "SpriteOutput/Rogue/Talent/1002.png",
+    "EffectTitle": {
+      "Hash": -354206168
+    },
+    "AeonDimensionID": 3,
+    "EffectDesc": {
+      "Hash": -1054333521
+    },
+    "AeonTalentID": 304,
+    "UnlockAeonDimensionPoint": 7,
+    "IsImportant": true
+  },
+  {
+    "GamePlayEffectList": [
+      305
+    ],
+    "EffectDescParamList": [
+      {
+        "Value": 0.10000000011641533
+      }
+    ],
+    "TalentIcon": "SpriteOutput/BuffIcon/Inlevel/IconBuffDotDamageAddedRatio.png",
+    "EffectTitle": {
+      "Hash": -1920290109
+    },
+    "AeonDimensionID": 3,
+    "EffectDesc": {
+      "Hash": -1054333520
+    },
+    "AeonTalentID": 305,
+    "UnlockAeonDimensionPoint": 9,
+    "IsImportant": false
+  },
+  {
+    "GamePlayEffectList": [
+      306
+    ],
+    "EffectDescParamList": [
+      {
+        "Value": 0.060000000069849194
+      }
+    ],
+    "TalentIcon": "SpriteOutput/Rogue/Talent/1003.png",
+    "EffectTitle": {
+      "Hash": -1517005582
+    },
+    "AeonDimensionID": 3,
+    "EffectDesc": {
+      "Hash": -1054333519
+    },
+    "AeonTalentID": 306,
+    "UnlockAeonDimensionPoint": 11,
+    "IsImportant": true
+  },
+  {
+    "GamePlayEffectList": [
+      307
+    ],
+    "EffectDescParamList": [
+      {
+        "Value": 0.15000000017462298
+      }
+    ],
+    "TalentIcon": "SpriteOutput/BuffIcon/Inlevel/IconBuffBreakDamage.png",
+    "EffectTitle": {
+      "Hash": 1211877773
+    },
+    "AeonDimensionID": 3,
+    "EffectDesc": {
+      "Hash": -1054333518
+    },
+    "AeonTalentID": 307,
+    "UnlockAeonDimensionPoint": 13,
+    "IsImportant": false
+  },
+  {
+    "GamePlayEffectList": [
+      308
+    ],
+    "EffectDescParamList": [
+      {
+        "Value": 0.10000000011641533
+      }
+    ],
+    "TalentIcon": "SpriteOutput/BuffIcon/Inlevel/IconBuffDotDamageAddedRatio.png",
+    "EffectTitle": {
+      "Hash": 1258931940
+    },
+    "AeonDimensionID": 3,
+    "EffectDesc": {
+      "Hash": -1054333525
+    },
+    "AeonTalentID": 308,
+    "UnlockAeonDimensionPoint": 16,
+    "IsImportant": false
+  },
+  {
+    "GamePlayEffectList": [
+      309
+    ],
+    "EffectDescParamList": [
+      {
+        "Value": 0.15000000017462298
+      }
+    ],
+    "TalentIcon": "SpriteOutput/BuffIcon/Inlevel/IconBuffBreakDamage.png",
+    "EffectTitle": {
+      "Hash": -307152001
+    },
+    "AeonDimensionID": 3,
+    "EffectDesc": {
+      "Hash": -1054333524
+    },
+    "AeonTalentID": 309,
+    "UnlockAeonDimensionPoint": 20,
+    "IsImportant": false
+  },
+  {
+    "GamePlayEffectList": [
+      401
+    ],
+    "EffectDescParamList": [
+      {
+        "Value": 0.10000000011641533
+      }
+    ],
+    "TalentIcon": "SpriteOutput/BuffIcon/Inlevel/IconBuffHPBoost.png",
+    "EffectTitle": {
+      "Hash": -92084142
+    },
+    "AeonDimensionID": 4,
+    "EffectDesc": {
+      "Hash": -1054333615
+    },
+    "AeonTalentID": 401,
+    "UnlockAeonDimensionPoint": 1,
+    "IsImportant": false
+  },
+  {
+    "GamePlayEffectList": [
+      402
+    ],
+    "EffectDescParamList": [
+      {
+        "Value": 10.000000002328306
+      }
+    ],
+    "TalentIcon": "SpriteOutput/Rogue/Talent/1003.png",
+    "EffectTitle": {
+      "Hash": -495368669
+    },
+    "AeonDimensionID": 4,
+    "EffectDesc": {
+      "Hash": -1054333616
+    },
+    "AeonTalentID": 402,
+    "UnlockAeonDimensionPoint": 3,
+    "IsImportant": true
+  },
+  {
+    "GamePlayEffectList": [
+      403
+    ],
+    "EffectDescParamList": [
+      {
+        "Value": 0.060000000069849194
+      }
+    ],
+    "TalentIcon": "SpriteOutput/BuffIcon/Inlevel/IconBuffHealRatio.png",
+    "EffectTitle": {
+      "Hash": 1070715272
+    },
+    "AeonDimensionID": 4,
+    "EffectDesc": {
+      "Hash": -1054333617
+    },
+    "AeonTalentID": 403,
+    "UnlockAeonDimensionPoint": 5,
+    "IsImportant": false
+  },
+  {
+    "GamePlayEffectList": [
+      404
+    ],
+    "EffectDescParamList": [
+      {
+        "Value": 2.0000000004656613
+      }
+    ],
+    "TalentIcon": "SpriteOutput/Rogue/Talent/1002.png",
+    "EffectTitle": {
+      "Hash": 311200385
+    },
+    "AeonDimensionID": 4,
+    "EffectDesc": {
+      "Hash": -1054333610
+    },
+    "AeonTalentID": 404,
+    "UnlockAeonDimensionPoint": 7,
+    "IsImportant": true
+  },
+  {
+    "GamePlayEffectList": [
+      405
+    ],
+    "EffectDescParamList": [
+      {
+        "Value": 0.10000000011641533
+      }
+    ],
+    "TalentIcon": "SpriteOutput/BuffIcon/Inlevel/IconBuffHPBoost.png",
+    "EffectTitle": {
+      "Hash": 1877284326
+    },
+    "AeonDimensionID": 4,
+    "EffectDesc": {
+      "Hash": -1054333611
+    },
+    "AeonTalentID": 405,
+    "UnlockAeonDimensionPoint": 9,
+    "IsImportant": false
+  },
+  {
+    "GamePlayEffectList": [
+      406
+    ],
+    "EffectDescParamList": [
+      {
+        "Value": 10.000000002328306
+      }
+    ],
+    "TalentIcon": "SpriteOutput/Rogue/Talent/1003.png",
+    "EffectTitle": {
+      "Hash": 1473999799
+    },
+    "AeonDimensionID": 4,
+    "EffectDesc": {
+      "Hash": -1054333612
+    },
+    "AeonTalentID": 406,
+    "UnlockAeonDimensionPoint": 11,
+    "IsImportant": true
+  },
+  {
+    "GamePlayEffectList": [
+      407
+    ],
+    "EffectDescParamList": [
+      {
+        "Value": 0.060000000069849194
+      }
+    ],
+    "TalentIcon": "SpriteOutput/BuffIcon/Inlevel/IconBuffHealRatio.png",
+    "EffectTitle": {
+      "Hash": -1254883556
+    },
+    "AeonDimensionID": 4,
+    "EffectDesc": {
+      "Hash": -1054333613
+    },
+    "AeonTalentID": 407,
+    "UnlockAeonDimensionPoint": 13,
+    "IsImportant": false
+  },
+  {
+    "GamePlayEffectList": [
+      408
+    ],
+    "EffectDescParamList": [
+      {
+        "Value": 0.10000000011641533
+      }
+    ],
+    "TalentIcon": "SpriteOutput/BuffIcon/Inlevel/IconBuffHPBoost.png",
+    "EffectTitle": {
+      "Hash": -2014398443
+    },
+    "AeonDimensionID": 4,
+    "EffectDesc": {
+      "Hash": -1054333622
+    },
+    "AeonTalentID": 408,
+    "UnlockAeonDimensionPoint": 16,
+    "IsImportant": false
+  },
+  {
+    "GamePlayEffectList": [
+      409
+    ],
+    "EffectDescParamList": [
+      {
+        "Value": 0.060000000069849194
+      }
+    ],
+    "TalentIcon": "SpriteOutput/BuffIcon/Inlevel/IconBuffHealRatio.png",
+    "EffectTitle": {
+      "Hash": -448314502
+    },
+    "AeonDimensionID": 4,
+    "EffectDesc": {
+      "Hash": -1054333623
+    },
+    "AeonTalentID": 409,
+    "UnlockAeonDimensionPoint": 20,
+    "IsImportant": false
+  },
+  {
+    "GamePlayEffectList": [
+      501
+    ],
+    "EffectDescParamList": [
+      {
+        "Value": 0.04000000004656613
+      }
+    ],
+    "TalentIcon": "SpriteOutput/BuffIcon/Inlevel/IconBuffSpeedUp.png",
+    "EffectTitle": {
+      "Hash": -233246643
+    },
+    "AeonDimensionID": 5,
+    "EffectDesc": {
+      "Hash": -1054333582
+    },
+    "AeonTalentID": 501,
+    "UnlockAeonDimensionPoint": 1,
+    "IsImportant": false
+  },
+  {
+    "GamePlayEffectList": [
+      502
+    ],
+    "EffectDescParamList": [
+      {
+        "Value": 0.060000000069849194
+      }
+    ],
+    "TalentIcon": "SpriteOutput/Rogue/Talent/1003.png",
+    "EffectTitle": {
+      "Hash": -1799330584
+    },
+    "AeonDimensionID": 5,
+    "EffectDesc": {
+      "Hash": -1054333585
+    },
+    "AeonTalentID": 502,
+    "UnlockAeonDimensionPoint": 3,
+    "IsImportant": true
+  },
+  {
+    "GamePlayEffectList": [
+      503
+    ],
+    "EffectDescParamList": [
+      {
+        "Value": 0.060000000069849194
+      }
+    ],
+    "TalentIcon": "SpriteOutput/BuffIcon/Inlevel/IconBuffCritical.png",
+    "EffectTitle": {
+      "Hash": 929552771
+    },
+    "AeonDimensionID": 5,
+    "EffectDesc": {
+      "Hash": -1054333584
+    },
+    "AeonTalentID": 503,
+    "UnlockAeonDimensionPoint": 5,
+    "IsImportant": false
+  },
+  {
+    "GamePlayEffectList": [
+      504
+    ],
+    "EffectDescParamList": [],
+    "TalentIcon": "SpriteOutput/Rogue/Talent/1002.png",
+    "EffectTitle": {
+      "Hash": -992761530
+    },
+    "AeonDimensionID": 5,
+    "EffectDesc": {
+      "Hash": -1054333579
+    },
+    "AeonTalentID": 504,
+    "UnlockAeonDimensionPoint": 7,
+    "IsImportant": true
+  },
+  {
+    "GamePlayEffectList": [
+      505
+    ],
+    "EffectDescParamList": [
+      {
+        "Value": 0.04000000004656613
+      }
+    ],
+    "TalentIcon": "SpriteOutput/BuffIcon/Inlevel/IconBuffSpeedUp.png",
+    "EffectTitle": {
+      "Hash": 1736121825
+    },
+    "AeonDimensionID": 5,
+    "EffectDesc": {
+      "Hash": -1054333578
+    },
+    "AeonTalentID": 505,
+    "UnlockAeonDimensionPoint": 9,
+    "IsImportant": false
+  },
+  {
+    "GamePlayEffectList": [
+      506
+    ],
+    "EffectDescParamList": [
+      {
+        "Value": 0.060000000069849194
+      }
+    ],
+    "TalentIcon": "SpriteOutput/Rogue/Talent/1003.png",
+    "EffectTitle": {
+      "Hash": 170037884
+    },
+    "AeonDimensionID": 5,
+    "EffectDesc": {
+      "Hash": -1054333581
+    },
+    "AeonTalentID": 506,
+    "UnlockAeonDimensionPoint": 11,
+    "IsImportant": true
+  },
+  {
+    "GamePlayEffectList": [
+      507
+    ],
+    "EffectDescParamList": [
+      {
+        "Value": 0.060000000069849194
+      }
+    ],
+    "TalentIcon": "SpriteOutput/BuffIcon/Inlevel/IconBuffCritical.png",
+    "EffectTitle": {
+      "Hash": -1396046057
+    },
+    "AeonDimensionID": 5,
+    "EffectDesc": {
+      "Hash": -1054333580
+    },
+    "AeonTalentID": 507,
+    "UnlockAeonDimensionPoint": 13,
+    "IsImportant": false
+  },
+  {
+    "GamePlayEffectList": [
+      508
+    ],
+    "EffectDescParamList": [
+      {
+        "Value": 0.04000000004656613
+      }
+    ],
+    "TalentIcon": "SpriteOutput/BuffIcon/Inlevel/IconBuffSpeedUp.png",
+    "EffectTitle": {
+      "Hash": 976606938
+    },
+    "AeonDimensionID": 5,
+    "EffectDesc": {
+      "Hash": -1054333591
+    },
+    "AeonTalentID": 508,
+    "UnlockAeonDimensionPoint": 16,
+    "IsImportant": false
+  },
+  {
+    "GamePlayEffectList": [
+      509
+    ],
+    "EffectDescParamList": [
+      {
+        "Value": 0.060000000069849194
+      }
+    ],
+    "TalentIcon": "SpriteOutput/BuffIcon/Inlevel/IconBuffCritical.png",
+    "EffectTitle": {
+      "Hash": -589477003
+    },
+    "AeonDimensionID": 5,
+    "EffectDesc": {
+      "Hash": -1054333590
+    },
+    "AeonTalentID": 509,
+    "UnlockAeonDimensionPoint": 20,
+    "IsImportant": false
+  },
+  {
+    "GamePlayEffectList": [
+      601
+    ],
+    "EffectDescParamList": [
+      {
+        "Value": 0.12000000013969839
+      }
+    ],
+    "TalentIcon": "SpriteOutput/BuffIcon/Inlevel/IconBuffAttackUp.png",
+    "EffectTitle": {
+      "Hash": -374409144
+    },
+    "AeonDimensionID": 6,
+    "EffectDesc": {
+      "Hash": -1054333681
+    },
+    "AeonTalentID": 601,
+    "UnlockAeonDimensionPoint": 1,
+    "IsImportant": false
+  },
+  {
+    "GamePlayEffectList": [
+      602
+    ],
+    "EffectDescParamList": [
+      {
+        "Value": 10.000000002328306
+      }
+    ],
+    "TalentIcon": "SpriteOutput/Rogue/Talent/1003.png",
+    "EffectTitle": {
+      "Hash": 1191674797
+    },
+    "AeonDimensionID": 6,
+    "EffectDesc": {
+      "Hash": -1054333678
+    },
+    "AeonTalentID": 602,
+    "UnlockAeonDimensionPoint": 3,
+    "IsImportant": true
+  },
+  {
+    "GamePlayEffectList": [
+      603
+    ],
+    "EffectDescParamList": [
+      {
+        "Value": 0.050000000058207664
+      }
+    ],
+    "TalentIcon": "SpriteOutput/Rogue/Talent/1004.png",
+    "EffectTitle": {
+      "Hash": -1537208558
+    },
+    "AeonDimensionID": 6,
+    "EffectDesc": {
+      "Hash": -1054333679
+    },
+    "AeonTalentID": 603,
+    "UnlockAeonDimensionPoint": 5,
+    "IsImportant": false
+  },
+  {
+    "GamePlayEffectList": [
+      604
+    ],
+    "EffectDescParamList": [
+      {
+        "Value": 4.000000000931323
+      },
+      {
+        "Value": 0.9900000011525116
+      }
+    ],
+    "TalentIcon": "SpriteOutput/Rogue/Talent/1002.png",
+    "EffectTitle": {
+      "Hash": 28875383
+    },
+    "AeonDimensionID": 6,
+    "EffectDesc": {
+      "Hash": -1054333676
+    },
+    "AeonTalentID": 604,
+    "UnlockAeonDimensionPoint": 7,
+    "IsImportant": true
+  },
+  {
+    "GamePlayEffectList": [
+      605
+    ],
+    "EffectDescParamList": [
+      {
+        "Value": 0.12000000013969839
+      }
+    ],
+    "TalentIcon": "SpriteOutput/BuffIcon/Inlevel/IconBuffAttackUp.png",
+    "EffectTitle": {
+      "Hash": 1594959324
+    },
+    "AeonDimensionID": 6,
+    "EffectDesc": {
+      "Hash": -1054333677
+    },
+    "AeonTalentID": 605,
+    "UnlockAeonDimensionPoint": 9,
+    "IsImportant": false
+  },
+  {
+    "GamePlayEffectList": [
+      606
+    ],
+    "EffectDescParamList": [
+      {
+        "Value": 0.060000000069849194
+      }
+    ],
+    "TalentIcon": "SpriteOutput/Rogue/Talent/1003.png",
+    "EffectTitle": {
+      "Hash": -1133924031
+    },
+    "AeonDimensionID": 6,
+    "EffectDesc": {
+      "Hash": -1054333674
+    },
+    "AeonTalentID": 606,
+    "UnlockAeonDimensionPoint": 11,
+    "IsImportant": true
+  },
+  {
+    "GamePlayEffectList": [
+      607
+    ],
+    "EffectDescParamList": [
+      {
+        "Value": 0.050000000058207664
+      }
+    ],
+    "TalentIcon": "SpriteOutput/Rogue/Talent/1004.png",
+    "EffectTitle": {
+      "Hash": 432159910
+    },
+    "AeonDimensionID": 6,
+    "EffectDesc": {
+      "Hash": -1054333675
+    },
+    "AeonTalentID": 607,
+    "UnlockAeonDimensionPoint": 13,
+    "IsImportant": false
+  },
+  {
+    "GamePlayEffectList": [
+      608
+    ],
+    "EffectDescParamList": [
+      {
+        "Value": 0.12000000013969839
+      }
+    ],
+    "TalentIcon": "SpriteOutput/BuffIcon/Inlevel/IconBuffAttackUp.png",
+    "EffectTitle": {
+      "Hash": 1998243851
+    },
+    "AeonDimensionID": 6,
+    "EffectDesc": {
+      "Hash": -1054333688
+    },
+    "AeonTalentID": 608,
+    "UnlockAeonDimensionPoint": 16,
+    "IsImportant": false
+  },
+  {
+    "GamePlayEffectList": [
+      609
+    ],
+    "EffectDescParamList": [
+      {
+        "Value": 0.050000000058207664
+      }
+    ],
+    "TalentIcon": "SpriteOutput/Rogue/Talent/1004.png",
+    "EffectTitle": {
+      "Hash": -730639504
+    },
+    "AeonDimensionID": 6,
+    "EffectDesc": {
+      "Hash": -1054333689
+    },
+    "AeonTalentID": 609,
+    "UnlockAeonDimensionPoint": 20,
+    "IsImportant": false
+  },
+  {
+    "GamePlayEffectList": [
+      701
+    ],
+    "EffectDescParamList": [
+      {
+        "Value": 0.1600000001862645
+      }
+    ],
+    "TalentIcon": "SpriteOutput/BuffIcon/Inlevel/IconBuffExAttack.png",
+    "EffectTitle": {
+      "Hash": -515571645
+    },
+    "AeonDimensionID": 7,
+    "EffectDesc": {
+      "Hash": -1054333648
+    },
+    "AeonTalentID": 701,
+    "UnlockAeonDimensionPoint": 1,
+    "IsImportant": false
+  },
+  {
+    "GamePlayEffectList": [
+      702
+    ],
+    "EffectDescParamList": [
+      {
+        "Value": 0.060000000069849194
+      }
+    ],
+    "TalentIcon": "SpriteOutput/Rogue/Talent/1003.png",
+    "EffectTitle": {
+      "Hash": -112287118
+    },
+    "AeonDimensionID": 7,
+    "EffectDesc": {
+      "Hash": -1054333647
+    },
+    "AeonTalentID": 702,
+    "UnlockAeonDimensionPoint": 3,
+    "IsImportant": true
+  },
+  {
+    "GamePlayEffectList": [
+      703
+    ],
+    "EffectDescParamList": [
+      {
+        "Value": 0.10000000011641533
+      }
+    ],
+    "TalentIcon": "SpriteOutput/UI/Avatar/Icon/IconCriticalDamage.png",
+    "EffectTitle": {
+      "Hash": -1678371059
+    },
+    "AeonDimensionID": 7,
+    "EffectDesc": {
+      "Hash": -1054333646
+    },
+    "AeonTalentID": 703,
+    "UnlockAeonDimensionPoint": 5,
+    "IsImportant": false
+  },
+  {
+    "GamePlayEffectList": [
+      704
+    ],
+    "EffectDescParamList": [
+      {
+        "Value": 1.0000000002328306
+      }
+    ],
+    "TalentIcon": "SpriteOutput/Rogue/Talent/1002.png",
+    "EffectTitle": {
+      "Hash": -1275086532
+    },
+    "AeonDimensionID": 7,
+    "EffectDesc": {
+      "Hash": -1054333645
+    },
+    "AeonTalentID": 704,
+    "UnlockAeonDimensionPoint": 7,
+    "IsImportant": true
+  },
+  {
+    "GamePlayEffectList": [
+      705
+    ],
+    "EffectDescParamList": [
+      {
+        "Value": 0.1600000001862645
+      }
+    ],
+    "TalentIcon": "SpriteOutput/BuffIcon/Inlevel/IconBuffExAttack.png",
+    "EffectTitle": {
+      "Hash": 1453796823
+    },
+    "AeonDimensionID": 7,
+    "EffectDesc": {
+      "Hash": -1054333644
+    },
+    "AeonTalentID": 705,
+    "UnlockAeonDimensionPoint": 9,
+    "IsImportant": false
+  },
+  {
+    "GamePlayEffectList": [
+      706
+    ],
+    "EffectDescParamList": [
+      {
+        "Value": 0.060000000069849194
+      }
+    ],
+    "TalentIcon": "SpriteOutput/Rogue/Talent/1003.png",
+    "EffectTitle": {
+      "Hash": 1857081350
+    },
+    "AeonDimensionID": 7,
+    "EffectDesc": {
+      "Hash": -1054333643
+    },
+    "AeonTalentID": 706,
+    "UnlockAeonDimensionPoint": 11,
+    "IsImportant": true
+  },
+  {
+    "GamePlayEffectList": [
+      707
+    ],
+    "EffectDescParamList": [
+      {
+        "Value": 0.10000000011641533
+      }
+    ],
+    "TalentIcon": "SpriteOutput/UI/Avatar/Icon/IconCriticalDamage.png",
+    "EffectTitle": {
+      "Hash": 290997409
+    },
+    "AeonDimensionID": 7,
+    "EffectDesc": {
+      "Hash": -1054333642
+    },
+    "AeonTalentID": 707,
+    "UnlockAeonDimensionPoint": 13,
+    "IsImportant": false
+  },
+  {
+    "GamePlayEffectList": [
+      708
+    ],
+    "EffectDescParamList": [
+      {
+        "Value": 0.1600000001862645
+      }
+    ],
+    "TalentIcon": "SpriteOutput/BuffIcon/Inlevel/IconBuffExAttack.png",
+    "EffectTitle": {
+      "Hash": 694281936
+    },
+    "AeonDimensionID": 7,
+    "EffectDesc": {
+      "Hash": -1054333657
+    },
+    "AeonTalentID": 708,
+    "UnlockAeonDimensionPoint": 16,
+    "IsImportant": false
+  },
+  {
+    "GamePlayEffectList": [
+      709
+    ],
+    "EffectDescParamList": [
+      {
+        "Value": 0.10000000011641533
+      }
+    ],
+    "TalentIcon": "SpriteOutput/UI/Avatar/Icon/IconCriticalDamage.png",
+    "EffectTitle": {
+      "Hash": -871802005
+    },
+    "AeonDimensionID": 7,
+    "EffectDesc": {
+      "Hash": -1054333656
+    },
+    "AeonTalentID": 709,
+    "UnlockAeonDimensionPoint": 20,
+    "IsImportant": false
+  }
+]

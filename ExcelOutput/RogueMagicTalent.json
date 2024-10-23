@@ -1,0 +1,599 @@
+[
+  {
+    "TalentIcon": "SpriteOutput/Rogue/Talent/1005.png",
+    "Cost": [
+      {
+        "ItemNum": 25,
+        "ItemID": 281026
+      }
+    ],
+    "DescParams": [
+      {
+        "DOJFLNAILGJ": "0.05",
+        "MPNJPFDCBDG": "Number"
+      },
+      {
+        "DOJFLNAILGJ": "10",
+        "MPNJPFDCBDG": "Number"
+      },
+      {
+        "DOJFLNAILGJ": "1",
+        "MPNJPFDCBDG": "Number"
+      }
+    ],
+    "EffectDesc": {
+      "Hash": -1545584337
+    },
+    "Level": 1,
+    "TalentID": 1001,
+    "NameDisplayID": 201
+  },
+  {
+    "TalentIcon": "SpriteOutput/BuffIcon/Inlevel/IconBuffSpeedUp.png",
+    "Cost": [
+      {
+        "ItemNum": 25,
+        "ItemID": 281026
+      }
+    ],
+    "DescParams": [
+      {
+        "DOJFLNAILGJ": "10",
+        "MPNJPFDCBDG": "Number"
+      }
+    ],
+    "EffectDesc": {
+      "Hash": -1948868864
+    },
+    "Level": 2,
+    "TalentID": 1002,
+    "NameDisplayID": 201
+  },
+  {
+    "TalentIcon": "SpriteOutput/Rogue/Talent/1005.png",
+    "Cost": [
+      {
+        "ItemNum": 25,
+        "ItemID": 281026
+      }
+    ],
+    "DescParams": [
+      {
+        "DOJFLNAILGJ": "0.5",
+        "MPNJPFDCBDG": "Number"
+      }
+    ],
+    "EffectDesc": {
+      "Hash": -382784923
+    },
+    "Level": 3,
+    "TalentID": 1003,
+    "NameDisplayID": 201
+  },
+  {
+    "TalentIcon": "SpriteOutput/Rogue/Talent/1005.png",
+    "Cost": [
+      {
+        "ItemNum": 25,
+        "ItemID": 281026
+      }
+    ],
+    "DescParams": [
+      {
+        "DOJFLNAILGJ": "4",
+        "MPNJPFDCBDG": "Number"
+      },
+      {
+        "DOJFLNAILGJ": "0.99",
+        "MPNJPFDCBDG": "Number"
+      }
+    ],
+    "EffectDesc": {
+      "Hash": -786069450
+    },
+    "Level": 4,
+    "TalentID": 1004,
+    "NameDisplayID": 201
+  },
+  {
+    "TalentIcon": "SpriteOutput/Rogue/Talent/1006.png",
+    "Cost": [
+      {
+        "ItemNum": 50,
+        "ItemID": 281026
+      }
+    ],
+    "DescParams": [
+      {
+        "DOJFLNAILGJ": "5031_3",
+        "MPNJPFDCBDG": "MagicUnit"
+      },
+      {
+        "DOJFLNAILGJ": "5032_3",
+        "MPNJPFDCBDG": "MagicUnit"
+      },
+      {
+        "DOJFLNAILGJ": "5033_3",
+        "MPNJPFDCBDG": "MagicUnit"
+      },
+      {
+        "DOJFLNAILGJ": "5035_3",
+        "MPNJPFDCBDG": "MagicUnit"
+      }
+    ],
+    "EffectDesc": {
+      "Hash": 780014491
+    },
+    "Level": 5,
+    "TalentID": 1005,
+    "NameDisplayID": 203
+  },
+  {
+    "TalentIcon": "SpriteOutput/Rogue/Talent/1006.png",
+    "Cost": [
+      {
+        "ItemNum": 25,
+        "ItemID": 281026
+      }
+    ],
+    "DescParams": [
+      {
+        "DOJFLNAILGJ": "0.2",
+        "MPNJPFDCBDG": "Number"
+      }
+    ],
+    "EffectDesc": {
+      "Hash": 376729964
+    },
+    "Level": 6,
+    "TalentID": 1006,
+    "NameDisplayID": 201
+  },
+  {
+    "TalentIcon": "SpriteOutput/BuffIcon/Inlevel/IconBuffAttackUp.png",
+    "Cost": [
+      {
+        "ItemNum": 25,
+        "ItemID": 281026
+      }
+    ],
+    "DescParams": [
+      {
+        "DOJFLNAILGJ": "0.1",
+        "MPNJPFDCBDG": "Number"
+      }
+    ],
+    "EffectDesc": {
+      "Hash": 1942813905
+    },
+    "Level": 7,
+    "TalentID": 1007,
+    "NameDisplayID": 202
+  },
+  {
+    "TalentIcon": "SpriteOutput/Rogue/Talent/1006.png",
+    "Cost": [
+      {
+        "ItemNum": 25,
+        "ItemID": 281026
+      }
+    ],
+    "DescParams": [
+      {
+        "DOJFLNAILGJ": "1",
+        "MPNJPFDCBDG": "Number"
+      },
+      {
+        "DOJFLNAILGJ": "4",
+        "MPNJPFDCBDG": "Number"
+      }
+    ],
+    "EffectDesc": {
+      "Hash": 1539529378
+    },
+    "Level": 8,
+    "TalentID": 1008,
+    "NameDisplayID": 201
+  },
+  {
+    "TalentIcon": "SpriteOutput/BuffIcon/Inlevel/IconBuffBreakDamage.png",
+    "Cost": [
+      {
+        "ItemNum": 25,
+        "ItemID": 281026
+      }
+    ],
+    "DescParams": [
+      {
+        "DOJFLNAILGJ": "0.2",
+        "MPNJPFDCBDG": "Number"
+      }
+    ],
+    "EffectDesc": {
+      "Hash": -1189353977
+    },
+    "Level": 9,
+    "TalentID": 1009,
+    "NameDisplayID": 202
+  },
+  {
+    "TalentIcon": "SpriteOutput/Rogue/Talent/1006.png",
+    "Cost": [
+      {
+        "ItemNum": 50,
+        "ItemID": 281026
+      }
+    ],
+    "DescParams": [
+      {
+        "DOJFLNAILGJ": "5012_3",
+        "MPNJPFDCBDG": "MagicUnit"
+      },
+      {
+        "DOJFLNAILGJ": "5018_3",
+        "MPNJPFDCBDG": "MagicUnit"
+      },
+      {
+        "DOJFLNAILGJ": "5019_3",
+        "MPNJPFDCBDG": "MagicUnit"
+      },
+      {
+        "DOJFLNAILGJ": "5024_3",
+        "MPNJPFDCBDG": "MagicUnit"
+      }
+    ],
+    "EffectDesc": {
+      "Hash": 1183299019
+    },
+    "Level": 10,
+    "TalentID": 1010,
+    "NameDisplayID": 203
+  },
+  {
+    "TalentIcon": "SpriteOutput/BuffIcon/Inlevel/IconBuffSpeedUp.png",
+    "Cost": [
+      {
+        "ItemNum": 25,
+        "ItemID": 281026
+      }
+    ],
+    "DescParams": [
+      {
+        "DOJFLNAILGJ": "0.1",
+        "MPNJPFDCBDG": "Number"
+      }
+    ],
+    "EffectDesc": {
+      "Hash": -1545584336
+    },
+    "Level": 11,
+    "TalentID": 1011,
+    "NameDisplayID": 202
+  },
+  {
+    "TalentIcon": "SpriteOutput/BuffIcon/Inlevel/IconBuffHPBoost.png",
+    "Cost": [
+      {
+        "ItemNum": 25,
+        "ItemID": 281026
+      }
+    ],
+    "DescParams": [
+      {
+        "DOJFLNAILGJ": "0.1",
+        "MPNJPFDCBDG": "Number"
+      }
+    ],
+    "EffectDesc": {
+      "Hash": -1948868863
+    },
+    "Level": 12,
+    "TalentID": 1012,
+    "NameDisplayID": 202
+  },
+  {
+    "TalentIcon": "SpriteOutput/BuffIcon/Inlevel/IconBuffCritical.png",
+    "Cost": [
+      {
+        "ItemNum": 25,
+        "ItemID": 281026
+      }
+    ],
+    "DescParams": [
+      {
+        "DOJFLNAILGJ": "0.1",
+        "MPNJPFDCBDG": "Number"
+      }
+    ],
+    "EffectDesc": {
+      "Hash": -382784922
+    },
+    "Level": 13,
+    "TalentID": 1013,
+    "NameDisplayID": 202
+  },
+  {
+    "TalentIcon": "SpriteOutput/BuffIcon/Inlevel/IconBuffCriticalDamage.png",
+    "Cost": [
+      {
+        "ItemNum": 25,
+        "ItemID": 281026
+      }
+    ],
+    "DescParams": [
+      {
+        "DOJFLNAILGJ": "0.2",
+        "MPNJPFDCBDG": "Number"
+      }
+    ],
+    "EffectDesc": {
+      "Hash": -786069449
+    },
+    "Level": 14,
+    "TalentID": 1014,
+    "NameDisplayID": 202
+  },
+  {
+    "TalentIcon": "SpriteOutput/Rogue/Talent/1006.png",
+    "Cost": [
+      {
+        "ItemNum": 50,
+        "ItemID": 281026
+      }
+    ],
+    "DescParams": [
+      {
+        "DOJFLNAILGJ": "6013_3",
+        "MPNJPFDCBDG": "MagicUnit"
+      },
+      {
+        "DOJFLNAILGJ": "6014_3",
+        "MPNJPFDCBDG": "MagicUnit"
+      },
+      {
+        "DOJFLNAILGJ": "6015_3",
+        "MPNJPFDCBDG": "MagicUnit"
+      }
+    ],
+    "EffectDesc": {
+      "Hash": 780014492
+    },
+    "Level": 15,
+    "TalentID": 1015,
+    "NameDisplayID": 203
+  },
+  {
+    "TalentIcon": "SpriteOutput/BuffIcon/Inlevel/IconBuffAttackUp.png",
+    "Cost": [
+      {
+        "ItemNum": 25,
+        "ItemID": 281026
+      }
+    ],
+    "DescParams": [
+      {
+        "DOJFLNAILGJ": "0.1",
+        "MPNJPFDCBDG": "Number"
+      }
+    ],
+    "EffectDesc": {
+      "Hash": 376729965
+    },
+    "Level": 16,
+    "TalentID": 1016,
+    "NameDisplayID": 201
+  },
+  {
+    "TalentIcon": "SpriteOutput/BuffIcon/Inlevel/IconBuffAttackUp.png",
+    "Cost": [
+      {
+        "ItemNum": 25,
+        "ItemID": 281026
+      }
+    ],
+    "DescParams": [
+      {
+        "DOJFLNAILGJ": "0.1",
+        "MPNJPFDCBDG": "Number"
+      }
+    ],
+    "EffectDesc": {
+      "Hash": 1942813906
+    },
+    "Level": 17,
+    "TalentID": 1017,
+    "NameDisplayID": 202
+  },
+  {
+    "TalentIcon": "SpriteOutput/Rogue/Talent/1004.png",
+    "Cost": [
+      {
+        "ItemNum": 25,
+        "ItemID": 281026
+      }
+    ],
+    "DescParams": [
+      {
+        "DOJFLNAILGJ": "0.1",
+        "MPNJPFDCBDG": "Number"
+      }
+    ],
+    "EffectDesc": {
+      "Hash": 1539529379
+    },
+    "Level": 18,
+    "TalentID": 1018,
+    "NameDisplayID": 202
+  },
+  {
+    "TalentIcon": "SpriteOutput/Rogue/Talent/1006.png",
+    "Cost": [
+      {
+        "ItemNum": 25,
+        "ItemID": 281026
+      }
+    ],
+    "DescParams": [
+      {
+        "DOJFLNAILGJ": "1",
+        "MPNJPFDCBDG": "Number"
+      }
+    ],
+    "EffectDesc": {
+      "Hash": -1189353976
+    },
+    "Level": 19,
+    "TalentID": 1019,
+    "NameDisplayID": 201
+  },
+  {
+    "TalentIcon": "SpriteOutput/Rogue/Talent/1006.png",
+    "Cost": [
+      {
+        "ItemNum": 50,
+        "ItemID": 281026
+      }
+    ],
+    "DescParams": [
+      {
+        "DOJFLNAILGJ": "6063_1",
+        "MPNJPFDCBDG": "MagicUnit"
+      },
+      {
+        "DOJFLNAILGJ": "6064_1",
+        "MPNJPFDCBDG": "MagicUnit"
+      },
+      {
+        "DOJFLNAILGJ": "6024_3",
+        "MPNJPFDCBDG": "MagicUnit"
+      },
+      {
+        "DOJFLNAILGJ": "6025_3",
+        "MPNJPFDCBDG": "MagicUnit"
+      }
+    ],
+    "EffectDesc": {
+      "Hash": 1183299020
+    },
+    "Level": 20,
+    "TalentID": 1020,
+    "NameDisplayID": 203
+  },
+  {
+    "TalentIcon": "SpriteOutput/BuffIcon/Inlevel/IconBuffAttackUp.png",
+    "Cost": [
+      {
+        "ItemNum": 25,
+        "ItemID": 281026
+      }
+    ],
+    "DescParams": [
+      {
+        "DOJFLNAILGJ": "0.1",
+        "MPNJPFDCBDG": "Number"
+      }
+    ],
+    "EffectDesc": {
+      "Hash": -1545584335
+    },
+    "Level": 21,
+    "TalentID": 1021,
+    "NameDisplayID": 202
+  },
+  {
+    "TalentIcon": "SpriteOutput/BuffIcon/Inlevel/IconBuffAttackUp.png",
+    "Cost": [
+      {
+        "ItemNum": 25,
+        "ItemID": 281026
+      }
+    ],
+    "DescParams": [
+      {
+        "DOJFLNAILGJ": "0.1",
+        "MPNJPFDCBDG": "Number"
+      }
+    ],
+    "EffectDesc": {
+      "Hash": -1948868862
+    },
+    "Level": 22,
+    "TalentID": 1022,
+    "NameDisplayID": 201
+  },
+  {
+    "TalentIcon": "SpriteOutput/Rogue/Talent/1006.png",
+    "Cost": [
+      {
+        "ItemNum": 50,
+        "ItemID": 281026
+      }
+    ],
+    "DescParams": [
+      {
+        "DOJFLNAILGJ": "6070_1",
+        "MPNJPFDCBDG": "MagicUnit"
+      },
+      {
+        "DOJFLNAILGJ": "6074_1",
+        "MPNJPFDCBDG": "MagicUnit"
+      },
+      {
+        "DOJFLNAILGJ": "6075_1",
+        "MPNJPFDCBDG": "MagicUnit"
+      }
+    ],
+    "EffectDesc": {
+      "Hash": -382784921
+    },
+    "Level": 23,
+    "TalentID": 1023,
+    "NameDisplayID": 203
+  },
+  {
+    "TalentIcon": "SpriteOutput/Rogue/Talent/1006.png",
+    "Cost": [
+      {
+        "ItemNum": 25,
+        "ItemID": 281026
+      }
+    ],
+    "DescParams": [
+      {
+        "DOJFLNAILGJ": "1",
+        "MPNJPFDCBDG": "Number"
+      }
+    ],
+    "EffectDesc": {
+      "Hash": -786069448
+    },
+    "Level": 24,
+    "TalentID": 1024,
+    "NameDisplayID": 201
+  },
+  {
+    "TalentIcon": "SpriteOutput/Rogue/Talent/1006.png",
+    "Cost": [
+      {
+        "ItemNum": 50,
+        "ItemID": 281026
+      }
+    ],
+    "DescParams": [
+      {
+        "DOJFLNAILGJ": "6071_1",
+        "MPNJPFDCBDG": "MagicUnit"
+      },
+      {
+        "DOJFLNAILGJ": "6073_1",
+        "MPNJPFDCBDG": "MagicUnit"
+      }
+    ],
+    "EffectDesc": {
+      "Hash": 780014493
+    },
+    "Level": 25,
+    "TalentID": 1025,
+    "NameDisplayID": 203
+  }
+]

@@ -1,0 +1,6599 @@
+[
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1001.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1001.png",
+    "DescParamList": [
+      {
+        "Value": 1.0000000002328306
+      },
+      {
+        "Value": 1.0000000002328306
+      },
+      {
+        "Value": 2.0000000004656613
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 851015429
+    },
+    "MiracleName": {
+      "Hash": -1049111364
+    },
+    "MiracleDisplayID": 1,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 6994046
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1002.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1002.png",
+    "DescParamList": [
+      {
+        "Value": 1.0000000002328306
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 851015428
+    },
+    "MiracleName": {
+      "Hash": -1049111367
+    },
+    "MiracleDisplayID": 2,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 6994047
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1003.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1003.png",
+    "DescParamList": [
+      {
+        "Value": 1.0000000002328306
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 851015427
+    },
+    "MiracleName": {
+      "Hash": -1049111366
+    },
+    "MiracleDisplayID": 3,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 6994048
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1004.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1004.png",
+    "DescParamList": [
+      {
+        "Value": 1.0000000002328306
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 851015434
+    },
+    "MiracleName": {
+      "Hash": -1049111369
+    },
+    "MiracleDisplayID": 4,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 6994041
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1005.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1005.png",
+    "DescParamList": [
+      {
+        "Value": 1.0000000002328306
+      },
+      {
+        "Value": 2.0000000004656613
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 851015433
+    },
+    "MiracleName": {
+      "Hash": -1049111368
+    },
+    "MiracleDisplayID": 5,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 6994042
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1006.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1006.png",
+    "DescParamList": [
+      {
+        "Value": 0.30000000034924595
+      },
+      {
+        "Value": 5.000000001164153
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 851015432
+    },
+    "MiracleName": {
+      "Hash": -1049111371
+    },
+    "MiracleDisplayID": 6,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 6994043
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1007.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1007.png",
+    "DescParamList": [
+      {
+        "Value": 1.0000000002328306
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 851015431
+    },
+    "MiracleName": {
+      "Hash": -1049111370
+    },
+    "MiracleDisplayID": 7,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 6994044
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1008.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1008.png",
+    "DescParamList": [
+      {
+        "Value": 0.30000000034924595
+      },
+      {
+        "Value": 5.000000001164153
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 851015422
+    },
+    "MiracleName": {
+      "Hash": -1049111373
+    },
+    "MiracleDisplayID": 8,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 6994037
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1009.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1009.png",
+    "DescParamList": [],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 851015421
+    },
+    "MiracleName": {
+      "Hash": -1049111372
+    },
+    "MiracleDisplayID": 9,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 6994038
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1010.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1010.png",
+    "DescParamList": [],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 1931378197
+    },
+    "MiracleName": {
+      "Hash": -1525931348
+    },
+    "MiracleDisplayID": 10,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 1835721614
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1011.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1011.png",
+    "DescParamList": [
+      {
+        "Value": 0.4000000004656613
+      },
+      {
+        "Value": 5.000000001164153
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 365294256
+    },
+    "MiracleName": {
+      "Hash": 1202952007
+    },
+    "MiracleDisplayID": 11,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 269637673
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1012.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1012.png",
+    "DescParamList": [
+      {
+        "Value": 0.7500000008731149
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -1200789685
+    },
+    "MiracleName": {
+      "Hash": 1606236534
+    },
+    "MiracleDisplayID": 12,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 672922200
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1013.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1013.png",
+    "DescParamList": [
+      {
+        "Value": 0.30000000034924595
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 1528093670
+    },
+    "MiracleName": {
+      "Hash": 40152593
+    },
+    "MiracleDisplayID": 13,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -893161741
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1014.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1014.png",
+    "DescParamList": [
+      {
+        "Value": 100.00000002328306
+      },
+      {
+        "Value": 0.1600000001862645
+      },
+      {
+        "Value": 5.000000001164153
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -37990271
+    },
+    "MiracleName": {
+      "Hash": 443437120
+    },
+    "MiracleDisplayID": 14,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -133646854
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1015.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1015.png",
+    "DescParamList": [
+      {
+        "Value": 0.060000000069849194
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -1604074212
+    },
+    "MiracleName": {
+      "Hash": -1122646821
+    },
+    "MiracleDisplayID": 15,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -1699730795
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1016.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1016.png",
+    "DescParamList": [],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 1124809143
+    },
+    "MiracleName": {
+      "Hash": -719362294
+    },
+    "MiracleDisplayID": 16,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1017.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1017.png",
+    "DescParamList": [
+      {
+        "Value": 2.0000000004656613
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -441274798
+    },
+    "MiracleName": {
+      "Hash": 2009521061
+    },
+    "MiracleDisplayID": 17,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 1432437087
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1030.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1030.png",
+    "DescParamList": [
+      {
+        "Value": 5.000000001164153
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -2007358739
+    },
+    "MiracleName": {
+      "Hash": -1169700988
+    },
+    "MiracleDisplayID": 18,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -2103015322
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1031.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1031.png",
+    "DescParamList": [
+      {
+        "Value": 1.0000000002328306
+      },
+      {
+        "Value": 3.000000000698492
+      },
+      {
+        "Value": 5.000000001164153
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 721524616
+    },
+    "MiracleName": {
+      "Hash": 1559182367
+    },
+    "MiracleDisplayID": 19,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 625868033
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1034.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1034.png",
+    "DescParamList": [
+      {
+        "Value": 2.0000000004656613
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 1931378196
+    },
+    "MiracleName": {
+      "Hash": -1525931351
+    },
+    "MiracleDisplayID": 20,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 1835721615
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1035.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1035.png",
+    "DescParamList": [],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 365294255
+    },
+    "MiracleName": {
+      "Hash": 1202952004
+    },
+    "MiracleDisplayID": 21,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 269637674
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1020.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1020.png",
+    "DescParamList": [],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -1200789686
+    },
+    "MiracleName": {
+      "Hash": 1606236531
+    },
+    "MiracleDisplayID": 22,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 672922201
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1021.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1021.png",
+    "DescParamList": [],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 1528093669
+    },
+    "MiracleName": {
+      "Hash": 40152590
+    },
+    "MiracleDisplayID": 23,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -893161740
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1022.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1022.png",
+    "DescParamList": [],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -37990272
+    },
+    "MiracleName": {
+      "Hash": 443437117
+    },
+    "MiracleDisplayID": 24,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -133646853
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1023.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1023.png",
+    "DescParamList": [],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -1604074213
+    },
+    "MiracleName": {
+      "Hash": -1122646824
+    },
+    "MiracleDisplayID": 25,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -1699730794
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1024.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1024.png",
+    "DescParamList": [],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 1124809142
+    },
+    "MiracleName": {
+      "Hash": -719362297
+    },
+    "MiracleDisplayID": 26,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -1296446267
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1047.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1047.png",
+    "DescParamList": [],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -441274799
+    },
+    "MiracleName": {
+      "Hash": 2009521058
+    },
+    "MiracleDisplayID": 27,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 1432437088
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1025.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1025.png",
+    "DescParamList": [],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -2007358740
+    },
+    "MiracleName": {
+      "Hash": -1169700991
+    },
+    "MiracleDisplayID": 28,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -2103015321
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/ItemFigures/420001.png",
+    "MiracleIconPath": "SpriteOutput/ItemIcon/420001.png",
+    "DescParamList": [],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -1604074207
+    },
+    "MiracleName": {
+      "Hash": -1122646826
+    },
+    "MiracleDisplayID": 45,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -1699730800
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/ItemFigures/420001.png",
+    "MiracleIconPath": "SpriteOutput/ItemIcon/420001.png",
+    "DescParamList": [
+      {
+        "Value": 40.000000009313226
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 1124809148
+    },
+    "MiracleName": {
+      "Hash": -719362299
+    },
+    "MiracleDisplayID": 46,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -1296446273
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/ItemFigures/420002.png",
+    "MiracleIconPath": "SpriteOutput/ItemIcon/420002.png",
+    "DescParamList": [
+      {
+        "Value": 0.30000000034924595
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -441274793
+    },
+    "MiracleName": {
+      "Hash": 2009521056
+    },
+    "MiracleDisplayID": 47,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 1432437082
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/ItemFigures/420002.png",
+    "MiracleIconPath": "SpriteOutput/ItemIcon/420002.png",
+    "DescParamList": [
+      {
+        "Value": 0.30000000034924595
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -2007358734
+    },
+    "MiracleName": {
+      "Hash": -1169700993
+    },
+    "MiracleDisplayID": 48,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -2103015327
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/ItemFigures/420003.png",
+    "MiracleIconPath": "SpriteOutput/ItemIcon/420003.png",
+    "DescParamList": [
+      {
+        "Value": 0.5000000005820766
+      },
+      {
+        "Value": 0.3500000004074536
+      },
+      {
+        "Value": 0.5000000005820766
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 721524621
+    },
+    "MiracleName": {
+      "Hash": 1559182362
+    },
+    "MiracleDisplayID": 49,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 625868028
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/ItemFigures/420003.png",
+    "MiracleIconPath": "SpriteOutput/ItemIcon/420003.png",
+    "DescParamList": [
+      {
+        "Value": 0.5000000005820766
+      },
+      {
+        "Value": 0.2500000002910383
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 1931378201
+    },
+    "MiracleName": {
+      "Hash": -1525931352
+    },
+    "MiracleDisplayID": 50,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 1835721610
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/ItemFigures/420004.png",
+    "MiracleIconPath": "SpriteOutput/ItemIcon/420004.png",
+    "DescParamList": [
+      {
+        "Value": 0.3500000004074536
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 365294260
+    },
+    "MiracleName": {
+      "Hash": 1202952003
+    },
+    "MiracleDisplayID": 51,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 269637669
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/ItemFigures/420004.png",
+    "MiracleIconPath": "SpriteOutput/ItemIcon/420004.png",
+    "DescParamList": [
+      {
+        "Value": 0.2500000002910383
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -1200789681
+    },
+    "MiracleName": {
+      "Hash": 1606236530
+    },
+    "MiracleDisplayID": 52,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 672922196
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/ItemFigures/420005.png",
+    "MiracleIconPath": "SpriteOutput/ItemIcon/420005.png",
+    "DescParamList": [
+      {
+        "Value": 0.3500000004074536
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 1528093674
+    },
+    "MiracleName": {
+      "Hash": 40152589
+    },
+    "MiracleDisplayID": 53,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -893161745
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/ItemFigures/420005.png",
+    "MiracleIconPath": "SpriteOutput/ItemIcon/420005.png",
+    "DescParamList": [
+      {
+        "Value": 0.2500000002910383
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -37990267
+    },
+    "MiracleName": {
+      "Hash": 443437116
+    },
+    "MiracleDisplayID": 54,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -133646858
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/ItemFigures/420006.png",
+    "MiracleIconPath": "SpriteOutput/ItemIcon/420006.png",
+    "DescParamList": [
+      {
+        "Value": 1.0000000002328306
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -1604074208
+    },
+    "MiracleName": {
+      "Hash": -1122646825
+    },
+    "MiracleDisplayID": 55,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -1699730799
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/ItemFigures/420006.png",
+    "MiracleIconPath": "SpriteOutput/ItemIcon/420006.png",
+    "DescParamList": [
+      {
+        "Value": 1.0000000002328306
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 1124809147
+    },
+    "MiracleName": {
+      "Hash": -719362298
+    },
+    "MiracleDisplayID": 56,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -1296446272
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1029.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1029.png",
+    "DescParamList": [
+      {
+        "Value": 0.20000000023283065
+      },
+      {
+        "Value": 0.10000000011641533
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -441274794
+    },
+    "MiracleName": {
+      "Hash": 2009521057
+    },
+    "MiracleDisplayID": 57,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 1432437083
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1046.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1046.png",
+    "DescParamList": [
+      {
+        "Value": 0.030000000034924597
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -2007358735
+    },
+    "MiracleName": {
+      "Hash": -1169700992
+    },
+    "MiracleDisplayID": 58,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -2103015326
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1019.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1019.png",
+    "DescParamList": [
+      {
+        "Value": 0.5000000005820766
+      },
+      {
+        "Value": 0.20000000023283065
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 721524620
+    },
+    "MiracleName": {
+      "Hash": 1559182363
+    },
+    "MiracleDisplayID": 59,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 625868029
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1044.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1044.png",
+    "DescParamList": [
+      {
+        "Value": 5.000000001164153
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 1931378200
+    },
+    "MiracleName": {
+      "Hash": -1525931355
+    },
+    "MiracleDisplayID": 60,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 1835721611
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1032.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1032.png",
+    "DescParamList": [
+      {
+        "Value": 1.0000000002328306
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 365294259
+    },
+    "MiracleName": {
+      "Hash": 1202952000
+    },
+    "MiracleDisplayID": 61,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 269637670
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1028.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1028.png",
+    "DescParamList": [
+      {
+        "Value": 1.0000000002328306
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -1200789682
+    },
+    "MiracleName": {
+      "Hash": 1606236527
+    },
+    "MiracleDisplayID": 62,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 672922197
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1026.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1026.png",
+    "DescParamList": [
+      {
+        "Value": 0.9900000011525116
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 1528093673
+    },
+    "MiracleName": {
+      "Hash": 40152586
+    },
+    "MiracleDisplayID": 63,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -893161744
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1030.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1030.png",
+    "DescParamList": [],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -37990268
+    },
+    "MiracleName": {
+      "Hash": 443437113
+    },
+    "MiracleDisplayID": 64,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -133646857
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1040.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1040.png",
+    "DescParamList": [
+      {
+        "Value": 1.0000000002328306
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -1604074209
+    },
+    "MiracleName": {
+      "Hash": -1122646828
+    },
+    "MiracleDisplayID": 65,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -1699730798
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1038.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1038.png",
+    "DescParamList": [
+      {
+        "Value": 1.0000000002328306
+      },
+      {
+        "Value": 5.000000001164153
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 1124809146
+    },
+    "MiracleName": {
+      "Hash": -719362301
+    },
+    "MiracleDisplayID": 66,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -1296446271
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1041.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1041.png",
+    "DescParamList": [
+      {
+        "Value": 0.050000000058207664
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -441274795
+    },
+    "MiracleName": {
+      "Hash": 2009521054
+    },
+    "MiracleDisplayID": 67,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 1432437084
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1048.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1048.png",
+    "DescParamList": [
+      {
+        "Value": 1.0000000002328306
+      },
+      {
+        "Value": 1.0000000002328306
+      },
+      {
+        "Value": 3.000000000698492
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -2007358736
+    },
+    "MiracleName": {
+      "Hash": -1169700995
+    },
+    "MiracleDisplayID": 68,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -2103015325
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1036.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1036.png",
+    "DescParamList": [
+      {
+        "Value": 1.0000000002328306
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 721524619
+    },
+    "MiracleName": {
+      "Hash": 1559182360
+    },
+    "MiracleDisplayID": 69,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 625868030
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1039.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1039.png",
+    "DescParamList": [
+      {
+        "Value": 0.2500000002910383
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 1931378199
+    },
+    "MiracleName": {
+      "Hash": -1525931354
+    },
+    "MiracleDisplayID": 70,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 1835721612
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1010.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1010.png",
+    "DescParamList": [
+      {
+        "Value": 2.0000000004656613
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 365294258
+    },
+    "MiracleName": {
+      "Hash": 1202952001
+    },
+    "MiracleDisplayID": 71,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 269637671
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1033.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1033.png",
+    "DescParamList": [
+      {
+        "Value": 1.0000000002328306
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -1268801178
+    },
+    "MiracleName": {
+      "Hash": -973397349
+    },
+    "MiracleDisplayID": 101,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -1906578627
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1045.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1045.png",
+    "DescParamList": [
+      {
+        "Value": 0.5000000005820766
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -1268801181
+    },
+    "MiracleName": {
+      "Hash": -973397350
+    },
+    "MiracleDisplayID": 102,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -1906578624
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1059.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1059.png",
+    "DescParamList": [
+      {
+        "Value": 499.0000001161825
+      },
+      {
+        "Value": 999.0000002325978
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -1268801180
+    },
+    "MiracleName": {
+      "Hash": -973397351
+    },
+    "MiracleDisplayID": 103,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -1906578625
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1057.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1057.png",
+    "DescParamList": [
+      {
+        "Value": 0.30000000034924595
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -1268801175
+    },
+    "MiracleName": {
+      "Hash": -973397352
+    },
+    "MiracleDisplayID": 104,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -1906578630
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1069.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1069.png",
+    "DescParamList": [
+      {
+        "Value": 1.0000000002328306
+      },
+      {
+        "Value": 1.0000000002328306
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -1268801174
+    },
+    "MiracleName": {
+      "Hash": -973397353
+    },
+    "MiracleDisplayID": 105,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -1906578631
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1043.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1043.png",
+    "DescParamList": [
+      {
+        "Value": 10.000000002328306
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -1268801177
+    },
+    "MiracleName": {
+      "Hash": -973397354
+    },
+    "MiracleDisplayID": 106,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -1906578628
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1068.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1068.png",
+    "DescParamList": [],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -1268801176
+    },
+    "MiracleName": {
+      "Hash": -973397355
+    },
+    "MiracleDisplayID": 107,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -1906578629
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1053.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1053.png",
+    "DescParamList": [
+      {
+        "Value": 0.050000000058207664
+      },
+      {
+        "Value": 3.000000000698492
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -1268801187
+    },
+    "MiracleName": {
+      "Hash": -973397356
+    },
+    "MiracleDisplayID": 108,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -1906578634
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1053.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1053.png",
+    "DescParamList": [
+      {
+        "Value": 0.050000000058207664
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -1268801186
+    },
+    "MiracleName": {
+      "Hash": -973397357
+    },
+    "MiracleDisplayID": 109,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -1906578635
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1063.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1063.png",
+    "DescParamList": [
+      {
+        "Value": 1.0000000002328306
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 1460082176
+    },
+    "MiracleName": {
+      "Hash": 1755486007
+    },
+    "MiracleDisplayID": 110,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 822304729
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1056.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1056.png",
+    "DescParamList": [
+      {
+        "Value": 2.0000000004656613
+      },
+      {
+        "Value": 2.0000000004656613
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 1460082177
+    },
+    "MiracleName": {
+      "Hash": 1755486006
+    },
+    "MiracleDisplayID": 111,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 822304728
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1070.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1070.png",
+    "DescParamList": [
+      {
+        "Value": 50.00000001164153
+      },
+      {
+        "Value": 500.0000001164153
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 1460082174
+    },
+    "MiracleName": {
+      "Hash": 1755486005
+    },
+    "MiracleDisplayID": 112,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 822304731
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1065.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1065.png",
+    "DescParamList": [
+      {
+        "Value": 0.24000000027939677
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 1460082175
+    },
+    "MiracleName": {
+      "Hash": 1755486004
+    },
+    "MiracleDisplayID": 113,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 822304730
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1049.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1049.png",
+    "DescParamList": [
+      {
+        "Value": 0.08000000009313225
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 1460082180
+    },
+    "MiracleName": {
+      "Hash": 1755486003
+    },
+    "MiracleDisplayID": 114,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 822304725
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1067.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1067.png",
+    "DescParamList": [],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 1460082181
+    },
+    "MiracleName": {
+      "Hash": 1755486002
+    },
+    "MiracleDisplayID": 115,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 822304724
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1050.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1050.png",
+    "DescParamList": [
+      {
+        "Value": 0.30000000034924595
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 1460082178
+    },
+    "MiracleName": {
+      "Hash": 1755486001
+    },
+    "MiracleDisplayID": 116,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 822304727
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1051.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1051.png",
+    "DescParamList": [
+      {
+        "Value": 4.000000000931323
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 1460082179
+    },
+    "MiracleName": {
+      "Hash": 1755486000
+    },
+    "MiracleDisplayID": 117,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 822304726
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1064.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1064.png",
+    "DescParamList": [
+      {
+        "Value": 0.20000000023283065
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 1460082168
+    },
+    "MiracleName": {
+      "Hash": 1755485999
+    },
+    "MiracleDisplayID": 118,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 822304721
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1066.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1066.png",
+    "DescParamList": [
+      {
+        "Value": 1.0000000002328306
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 1460082169
+    },
+    "MiracleName": {
+      "Hash": 1755485998
+    },
+    "MiracleDisplayID": 119,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 822304720
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1061.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1061.png",
+    "DescParamList": [
+      {
+        "Value": 1.0000000002328306
+      },
+      {
+        "Value": 3.000000000698492
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -106001765
+    },
+    "MiracleName": {
+      "Hash": -2136196762
+    },
+    "MiracleDisplayID": 120,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 1225589256
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1062.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1062.png",
+    "DescParamList": [
+      {
+        "Value": 0.24000000027939677
+      },
+      {
+        "Value": 0.050000000058207664
+      },
+      {
+        "Value": 5.000000001164153
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -106001764
+    },
+    "MiracleName": {
+      "Hash": -2136196763
+    },
+    "MiracleDisplayID": 121,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 1225589255
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1060.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1060.png",
+    "DescParamList": [
+      {
+        "Value": 0.20000000023283065
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -106001767
+    },
+    "MiracleName": {
+      "Hash": -2136196764
+    },
+    "MiracleDisplayID": 122,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 1225589258
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1052.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1052.png",
+    "DescParamList": [],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -106001766
+    },
+    "MiracleName": {
+      "Hash": -2136196765
+    },
+    "MiracleDisplayID": 123,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 1225589257
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1012.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1012.png",
+    "DescParamList": [
+      {
+        "Value": 1.5000000008149073
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -1268801277
+    },
+    "MiracleName": {
+      "Hash": -973397510
+    },
+    "MiracleDisplayID": 201,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -1906578656
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1013.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1013.png",
+    "DescParamList": [
+      {
+        "Value": 0.5000000005820766
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -1268801274
+    },
+    "MiracleName": {
+      "Hash": -973397509
+    },
+    "MiracleDisplayID": 202,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -1906578659
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1015.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1015.png",
+    "DescParamList": [
+      {
+        "Value": 0.12000000013969839
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -1268801272
+    },
+    "MiracleName": {
+      "Hash": -973397515
+    },
+    "MiracleDisplayID": 204,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -1906578661
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1034.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1034.png",
+    "DescParamList": [
+      {
+        "Value": 5.000000001164153
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -1268801273
+    },
+    "MiracleName": {
+      "Hash": -973397514
+    },
+    "MiracleDisplayID": 205,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -1906578660
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1046.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1046.png",
+    "DescParamList": [
+      {
+        "Value": 0.050000000058207664
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -1268801270
+    },
+    "MiracleName": {
+      "Hash": -973397513
+    },
+    "MiracleDisplayID": 206,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -1906578663
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1026.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1026.png",
+    "DescParamList": [
+      {
+        "Value": 0.5000000005820766
+      },
+      {
+        "Value": 50.00000001164153
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -1268801271
+    },
+    "MiracleName": {
+      "Hash": -973397512
+    },
+    "MiracleDisplayID": 207,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -1906578662
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1030.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1030.png",
+    "DescParamList": [],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -1268801284
+    },
+    "MiracleName": {
+      "Hash": -973397519
+    },
+    "MiracleDisplayID": 208,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -1906578665
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1048.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1048.png",
+    "DescParamList": [
+      {
+        "Value": 1.0000000002328306
+      },
+      {
+        "Value": 5.000000001164153
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -1268801285
+    },
+    "MiracleName": {
+      "Hash": -973397518
+    },
+    "MiracleDisplayID": 209,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -1906578664
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1014.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1014.png",
+    "DescParamList": [
+      {
+        "Value": 100.00000002328306
+      },
+      {
+        "Value": 0.08000000009313225
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 1460082079
+    },
+    "MiracleName": {
+      "Hash": 1755485844
+    },
+    "MiracleDisplayID": 210,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 822304698
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1044.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1044.png",
+    "DescParamList": [
+      {
+        "Value": 3.000000000698492
+      },
+      {
+        "Value": 0.7000000008149072
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 1460082078
+    },
+    "MiracleName": {
+      "Hash": 1755485845
+    },
+    "MiracleDisplayID": 211,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 822304699
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1029.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1029.png",
+    "DescParamList": [
+      {
+        "Value": 0.20000000023283065
+      },
+      {
+        "Value": 0.10000000011641533
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 1460082081
+    },
+    "MiracleName": {
+      "Hash": 1755485846
+    },
+    "MiracleDisplayID": 212,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 822304696
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1042.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1042.png",
+    "DescParamList": [
+      {
+        "Value": 0.5000000005820766
+      },
+      {
+        "Value": 2.0000000004656613
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -1268801244
+    },
+    "MiracleName": {
+      "Hash": -973397415
+    },
+    "MiracleDisplayID": 301,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -1906578561
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1074.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1074.png",
+    "DescParamList": [
+      {
+        "Value": 150.0000000349246
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -1268801243
+    },
+    "MiracleName": {
+      "Hash": -973397412
+    },
+    "MiracleDisplayID": 302,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -1906578562
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1081.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1081.png",
+    "DescParamList": [],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -1268801242
+    },
+    "MiracleName": {
+      "Hash": -973397413
+    },
+    "MiracleDisplayID": 303,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -1906578563
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1080.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1080.png",
+    "DescParamList": [
+      {
+        "Value": 1.0000000002328306
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -1268801241
+    },
+    "MiracleName": {
+      "Hash": -973397418
+    },
+    "MiracleDisplayID": 304,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -1906578564
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1037.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1037.png",
+    "DescParamList": [
+      {
+        "Value": 3.000000000698492
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -1268801240
+    },
+    "MiracleName": {
+      "Hash": -973397419
+    },
+    "MiracleDisplayID": 305,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -1906578565
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1073.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1073.png",
+    "DescParamList": [
+      {
+        "Value": 0.20000000023283065
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -1268801239
+    },
+    "MiracleName": {
+      "Hash": -973397416
+    },
+    "MiracleDisplayID": 306,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -1906578566
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1072.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1072.png",
+    "DescParamList": [
+      {
+        "Value": 0.8000000009313226
+      },
+      {
+        "Value": 0.10000000011641533
+      },
+      {
+        "Value": 4.000000000931323
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -1268801238
+    },
+    "MiracleName": {
+      "Hash": -973397417
+    },
+    "MiracleDisplayID": 307,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -1906578567
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1084.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1084.png",
+    "DescParamList": [
+      {
+        "Value": 2.0000000004656613
+      },
+      {
+        "Value": 200.00000004656613
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -1268801253
+    },
+    "MiracleName": {
+      "Hash": -973397422
+    },
+    "MiracleDisplayID": 308,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -1906578568
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1077.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1077.png",
+    "DescParamList": [
+      {
+        "Value": 4.000000000931323
+      },
+      {
+        "Value": 2.0000000004656613
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -1268801252
+    },
+    "MiracleName": {
+      "Hash": -973397423
+    },
+    "MiracleDisplayID": 309,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -1906578569
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1078.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1078.png",
+    "DescParamList": [
+      {
+        "Value": 3.000000000698492
+      },
+      {
+        "Value": 2.0000000004656613
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 1460082110
+    },
+    "MiracleName": {
+      "Hash": 1755485941
+    },
+    "MiracleDisplayID": 310,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 822304795
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1082.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1082.png",
+    "DescParamList": [],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 1460082111
+    },
+    "MiracleName": {
+      "Hash": 1755485940
+    },
+    "MiracleDisplayID": 311,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 822304794
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1071.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1071.png",
+    "DescParamList": [],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 1460082112
+    },
+    "MiracleName": {
+      "Hash": 1755485943
+    },
+    "MiracleDisplayID": 312,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 822304793
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1083.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1083.png",
+    "DescParamList": [
+      {
+        "Value": 0.2500000002910383
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 1460082113
+    },
+    "MiracleName": {
+      "Hash": 1755485942
+    },
+    "MiracleDisplayID": 313,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 822304792
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1079.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1079.png",
+    "DescParamList": [
+      {
+        "Value": 1.0000000002328306
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 1460082114
+    },
+    "MiracleName": {
+      "Hash": 1755485937
+    },
+    "MiracleDisplayID": 314,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 822304791
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1075.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1075.png",
+    "DescParamList": [
+      {
+        "Value": 0.30000000034924595
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 1460082115
+    },
+    "MiracleName": {
+      "Hash": 1755485936
+    },
+    "MiracleDisplayID": 315,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 822304790
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1076.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1076.png",
+    "DescParamList": [
+      {
+        "Value": 1.0000000002328306
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 1460082116
+    },
+    "MiracleName": {
+      "Hash": 1755485939
+    },
+    "MiracleDisplayID": 316,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 822304789
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1136.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1136.png",
+    "DescParamList": [],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -1268801046
+    },
+    "MiracleName": {
+      "Hash": -973397481
+    },
+    "MiracleDisplayID": 501,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1138.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1138.png",
+    "DescParamList": [],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -1268801049
+    },
+    "MiracleName": {
+      "Hash": -973397482
+    },
+    "MiracleDisplayID": 502,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1137.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1137.png",
+    "DescParamList": [],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -1268801048
+    },
+    "MiracleName": {
+      "Hash": -973397483
+    },
+    "MiracleDisplayID": 503,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1135.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1135.png",
+    "DescParamList": [],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -1268801051
+    },
+    "MiracleName": {
+      "Hash": -973397476
+    },
+    "MiracleDisplayID": 504,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1139.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1139.png",
+    "DescParamList": [],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -1268801050
+    },
+    "MiracleName": {
+      "Hash": -973397477
+    },
+    "MiracleDisplayID": 505,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1003.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1003.png",
+    "DescParamList": [],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -407823648
+    },
+    "MiracleName": {
+      "Hash": 1877051247
+    },
+    "MiracleDisplayID": 6101,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -1852852091
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1004.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1004.png",
+    "DescParamList": [
+      {
+        "Value": 1.0000000002328306
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -407823645
+    },
+    "MiracleName": {
+      "Hash": 1877051246
+    },
+    "MiracleDisplayID": 6102,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -1852852092
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1005.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1005.png",
+    "DescParamList": [
+      {
+        "Value": 1.0000000002328306
+      },
+      {
+        "Value": 2.0000000004656613
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -407823646
+    },
+    "MiracleName": {
+      "Hash": 1877051245
+    },
+    "MiracleDisplayID": 6103,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -1852852093
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1006.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1006.png",
+    "DescParamList": [
+      {
+        "Value": 1.0000000002328306
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -407823643
+    },
+    "MiracleName": {
+      "Hash": 1877051244
+    },
+    "MiracleDisplayID": 6104,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -1852852086
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1008.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1008.png",
+    "DescParamList": [
+      {
+        "Value": 0.30000000034924595
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -407823644
+    },
+    "MiracleName": {
+      "Hash": 1877051243
+    },
+    "MiracleDisplayID": 6105,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -1852852087
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1011.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1011.png",
+    "DescParamList": [
+      {
+        "Value": 1.0000000002328306
+      },
+      {
+        "Value": 0.2500000002910383
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -407823641
+    },
+    "MiracleName": {
+      "Hash": 1877051242
+    },
+    "MiracleDisplayID": 6106,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -1852852088
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1012.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1012.png",
+    "DescParamList": [
+      {
+        "Value": 0.7500000008731149
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -407823642
+    },
+    "MiracleName": {
+      "Hash": 1877051241
+    },
+    "MiracleDisplayID": 6107,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -1852852089
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1013.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1013.png",
+    "DescParamList": [
+      {
+        "Value": 0.30000000034924595
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -407823655
+    },
+    "MiracleName": {
+      "Hash": 1877051240
+    },
+    "MiracleDisplayID": 6108,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -1852852098
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1017.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1017.png",
+    "DescParamList": [
+      {
+        "Value": 2.0000000004656613
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -407823656
+    },
+    "MiracleName": {
+      "Hash": 1877051239
+    },
+    "MiracleDisplayID": 6109,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -1852852099
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1031.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1031.png",
+    "DescParamList": [
+      {
+        "Value": 1.0000000002328306
+      },
+      {
+        "Value": 3.000000000698492
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 1158260294
+    },
+    "MiracleName": {
+      "Hash": 310967307
+    },
+    "MiracleDisplayID": 6110,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 876031265
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1034.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1034.png",
+    "DescParamList": [
+      {
+        "Value": 2.0000000004656613
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 1158260293
+    },
+    "MiracleName": {
+      "Hash": 310967306
+    },
+    "MiracleDisplayID": 6111,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 876031264
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1019.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1019.png",
+    "DescParamList": [
+      {
+        "Value": 0.5000000005820766
+      },
+      {
+        "Value": 0.20000000023283065
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 1158260296
+    },
+    "MiracleName": {
+      "Hash": 310967305
+    },
+    "MiracleDisplayID": 6112,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 876031263
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1044.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1044.png",
+    "DescParamList": [
+      {
+        "Value": 5.000000001164153
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 1158260295
+    },
+    "MiracleName": {
+      "Hash": 310967304
+    },
+    "MiracleDisplayID": 6113,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 876031262
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1032.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1032.png",
+    "DescParamList": [
+      {
+        "Value": 1.0000000002328306
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 1158260298
+    },
+    "MiracleName": {
+      "Hash": 310967303
+    },
+    "MiracleDisplayID": 6114,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 876031269
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1030.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1030.png",
+    "DescParamList": [],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 1158260297
+    },
+    "MiracleName": {
+      "Hash": 310967302
+    },
+    "MiracleDisplayID": 6115,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 876031268
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1043.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1043.png",
+    "DescParamList": [
+      {
+        "Value": 15.00000000349246
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 1158260299
+    },
+    "MiracleName": {
+      "Hash": 310967300
+    },
+    "MiracleDisplayID": 6117,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 876031266
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1056.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1056.png",
+    "DescParamList": [
+      {
+        "Value": 2.0000000004656613
+      },
+      {
+        "Value": 2.0000000004656613
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 1158260286
+    },
+    "MiracleName": {
+      "Hash": 310967299
+    },
+    "MiracleDisplayID": 6118,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 876031257
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1070.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1070.png",
+    "DescParamList": [
+      {
+        "Value": 50.00000001164153
+      },
+      {
+        "Value": 750.000000174623
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 1158260285
+    },
+    "MiracleName": {
+      "Hash": 310967298
+    },
+    "MiracleDisplayID": 6119,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 876031256
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1089.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1089.png",
+    "DescParamList": [
+      {
+        "Value": 1.0000000002328306
+      },
+      {
+        "Value": 1.0000000002328306
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -1570623061
+    },
+    "MiracleName": {
+      "Hash": 714251834
+    },
+    "MiracleDisplayID": 6120,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -690052676
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1090.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1090.png",
+    "DescParamList": [
+      {
+        "Value": 2.0000000004656613
+      },
+      {
+        "Value": 1.0000000002328306
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -1570623062
+    },
+    "MiracleName": {
+      "Hash": 714251833
+    },
+    "MiracleDisplayID": 6121,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -690052677
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1050.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1050.png",
+    "DescParamList": [
+      {
+        "Value": 0.30000000034924595
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -1570623059
+    },
+    "MiracleName": {
+      "Hash": 714251832
+    },
+    "MiracleDisplayID": 6122,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -690052678
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1062.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1062.png",
+    "DescParamList": [
+      {
+        "Value": 0.24000000027939677
+      },
+      {
+        "Value": 0.050000000058207664
+      },
+      {
+        "Value": 5.000000001164153
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -1570623060
+    },
+    "MiracleName": {
+      "Hash": 714251831
+    },
+    "MiracleDisplayID": 6123,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -690052679
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1060.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1060.png",
+    "DescParamList": [
+      {
+        "Value": 0.20000000023283065
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -1570623057
+    },
+    "MiracleName": {
+      "Hash": 714251830
+    },
+    "MiracleDisplayID": 6124,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -690052672
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1042.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1042.png",
+    "DescParamList": [
+      {
+        "Value": 0.5000000005820766
+      },
+      {
+        "Value": 2.0000000004656613
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -1570623058
+    },
+    "MiracleName": {
+      "Hash": 714251829
+    },
+    "MiracleDisplayID": 6125,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -690052673
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1074.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1074.png",
+    "DescParamList": [
+      {
+        "Value": 150.0000000349246
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -1570623055
+    },
+    "MiracleName": {
+      "Hash": 714251828
+    },
+    "MiracleDisplayID": 6126,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -690052674
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1081.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1081.png",
+    "DescParamList": [
+      {
+        "Value": 150.0000000349246
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -1570623056
+    },
+    "MiracleName": {
+      "Hash": 714251827
+    },
+    "MiracleDisplayID": 6127,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -690052675
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1037.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1037.png",
+    "DescParamList": [],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -1570623069
+    },
+    "MiracleName": {
+      "Hash": 714251826
+    },
+    "MiracleDisplayID": 6128,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -690052684
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1084.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1084.png",
+    "DescParamList": [
+      {
+        "Value": 50.00000001164153
+      },
+      {
+        "Value": 50.00000001164153
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -1570623070
+    },
+    "MiracleName": {
+      "Hash": 714251825
+    },
+    "MiracleDisplayID": 6129,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -690052685
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1077.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1077.png",
+    "DescParamList": [
+      {
+        "Value": 5000.000001164153
+      },
+      {
+        "Value": 0.15000000017462298
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -4539120
+    },
+    "MiracleName": {
+      "Hash": -851832107
+    },
+    "MiracleDisplayID": 6130,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 2038830679
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1100.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1100.png",
+    "DescParamList": [
+      {
+        "Value": 0.30000000034924595
+      },
+      {
+        "Value": 0.30000000034924595
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -4539121
+    },
+    "MiracleName": {
+      "Hash": -851832108
+    },
+    "MiracleDisplayID": 6131,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 2038830678
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1085.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1085.png",
+    "DescParamList": [
+      {
+        "Value": 0.20000000023283065
+      },
+      {
+        "Value": 0.20000000023283065
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -4539118
+    },
+    "MiracleName": {
+      "Hash": -851832109
+    },
+    "MiracleDisplayID": 6132,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 2038830677
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1087.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1087.png",
+    "DescParamList": [
+      {
+        "Value": 300.0000000698492
+      },
+      {
+        "Value": 4.000000000931323
+      },
+      {
+        "Value": 600.0000001396984
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -4539119
+    },
+    "MiracleName": {
+      "Hash": -851832110
+    },
+    "MiracleDisplayID": 6133,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 2038830676
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1099.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1099.png",
+    "DescParamList": [
+      {
+        "Value": 2.0000000004656613
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -4539116
+    },
+    "MiracleName": {
+      "Hash": -851832111
+    },
+    "MiracleDisplayID": 6134,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 2038830683
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1109.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1109.png",
+    "DescParamList": [],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -4539117
+    },
+    "MiracleName": {
+      "Hash": -851832112
+    },
+    "MiracleDisplayID": 6135,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 2038830682
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1109.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1109.png",
+    "DescParamList": [],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -4539114
+    },
+    "MiracleName": {
+      "Hash": -851832113
+    },
+    "MiracleDisplayID": 6136,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 2038830681
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1001.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1001.png",
+    "DescParamList": [
+      {
+        "Value": 1.0000000002328306
+      },
+      {
+        "Value": 1.0000000002328306
+      },
+      {
+        "Value": 2.0000000004656613
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -407823549
+    },
+    "MiracleName": {
+      "Hash": 1877051214
+    },
+    "MiracleDisplayID": 6201,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -1852852124
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1007.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1007.png",
+    "DescParamList": [
+      {
+        "Value": 1.0000000002328306
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -407823551
+    },
+    "MiracleName": {
+      "Hash": 1877051216
+    },
+    "MiracleDisplayID": 6203,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -1852852122
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1015.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1015.png",
+    "DescParamList": [
+      {
+        "Value": 0.060000000069849194
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -407823546
+    },
+    "MiracleName": {
+      "Hash": 1877051209
+    },
+    "MiracleDisplayID": 6204,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -1852852121
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1035.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1035.png",
+    "DescParamList": [],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -407823545
+    },
+    "MiracleName": {
+      "Hash": 1877051210
+    },
+    "MiracleDisplayID": 6205,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -1852852120
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1020.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1020.png",
+    "DescParamList": [],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -407823548
+    },
+    "MiracleName": {
+      "Hash": 1877051211
+    },
+    "MiracleDisplayID": 6206,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -1852852119
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1021.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1021.png",
+    "DescParamList": [],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -407823547
+    },
+    "MiracleName": {
+      "Hash": 1877051212
+    },
+    "MiracleDisplayID": 6207,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -1852852118
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1022.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1022.png",
+    "DescParamList": [],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -407823558
+    },
+    "MiracleName": {
+      "Hash": 1877051205
+    },
+    "MiracleDisplayID": 6208,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -1852852133
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1023.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1023.png",
+    "DescParamList": [],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -407823557
+    },
+    "MiracleName": {
+      "Hash": 1877051206
+    },
+    "MiracleDisplayID": 6209,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -1852852132
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1024.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1024.png",
+    "DescParamList": [],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 1158260391
+    },
+    "MiracleName": {
+      "Hash": 310967272
+    },
+    "MiracleDisplayID": 6210,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 876031230
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1047.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1047.png",
+    "DescParamList": [],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 1158260392
+    },
+    "MiracleName": {
+      "Hash": 310967273
+    },
+    "MiracleDisplayID": 6211,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 876031231
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1025.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1025.png",
+    "DescParamList": [],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 1158260389
+    },
+    "MiracleName": {
+      "Hash": 310967274
+    },
+    "MiracleDisplayID": 6212,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 876031232
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1052.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1052.png",
+    "DescParamList": [],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 1158260390
+    },
+    "MiracleName": {
+      "Hash": 310967275
+    },
+    "MiracleDisplayID": 6213,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 876031233
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1082.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1082.png",
+    "DescParamList": [],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 1158260395
+    },
+    "MiracleName": {
+      "Hash": 310967268
+    },
+    "MiracleDisplayID": 6214,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 876031234
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1029.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1029.png",
+    "DescParamList": [
+      {
+        "Value": 0.20000000023283065
+      },
+      {
+        "Value": 0.20000000023283065
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 1158260396
+    },
+    "MiracleName": {
+      "Hash": 310967269
+    },
+    "MiracleDisplayID": 6215,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 876031235
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1028.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1028.png",
+    "DescParamList": [
+      {
+        "Value": 1.0000000002328306
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 1158260393
+    },
+    "MiracleName": {
+      "Hash": 310967270
+    },
+    "MiracleDisplayID": 6216,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 876031236
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1026.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1026.png",
+    "DescParamList": [
+      {
+        "Value": 0.9900000011525116
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 1158260394
+    },
+    "MiracleName": {
+      "Hash": 310967271
+    },
+    "MiracleDisplayID": 6217,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 876031237
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1045.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1045.png",
+    "DescParamList": [
+      {
+        "Value": 0.5000000005820766
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 1158260383
+    },
+    "MiracleName": {
+      "Hash": 310967264
+    },
+    "MiracleDisplayID": 6218,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 876031222
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1068.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1068.png",
+    "DescParamList": [],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 1158260384
+    },
+    "MiracleName": {
+      "Hash": 310967265
+    },
+    "MiracleDisplayID": 6219,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 876031223
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1063.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1063.png",
+    "DescParamList": [
+      {
+        "Value": 1.0000000002328306
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -1570622964
+    },
+    "MiracleName": {
+      "Hash": 714251799
+    },
+    "MiracleDisplayID": 6220,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -690052711
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1067.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1067.png",
+    "DescParamList": [],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -1570622963
+    },
+    "MiracleName": {
+      "Hash": 714251800
+    },
+    "MiracleDisplayID": 6221,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -690052710
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1051.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1051.png",
+    "DescParamList": [
+      {
+        "Value": 1.0000000002328306
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -1570622966
+    },
+    "MiracleName": {
+      "Hash": 714251801
+    },
+    "MiracleDisplayID": 6222,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -690052709
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1064.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1064.png",
+    "DescParamList": [
+      {
+        "Value": 0.20000000023283065
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -1570622965
+    },
+    "MiracleName": {
+      "Hash": 714251802
+    },
+    "MiracleDisplayID": 6223,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -690052708
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1066.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1066.png",
+    "DescParamList": [
+      {
+        "Value": 1.0000000002328306
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -1570622960
+    },
+    "MiracleName": {
+      "Hash": 714251795
+    },
+    "MiracleDisplayID": 6224,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -690052707
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1061.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1061.png",
+    "DescParamList": [
+      {
+        "Value": 1.0000000002328306
+      },
+      {
+        "Value": 3.000000000698492
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -1570622959
+    },
+    "MiracleName": {
+      "Hash": 714251796
+    },
+    "MiracleDisplayID": 6225,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -690052706
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1080.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1080.png",
+    "DescParamList": [
+      {
+        "Value": 3.000000000698492
+      },
+      {
+        "Value": 1.0000000002328306
+      },
+      {
+        "Value": 1.0000000002328306
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -1570622962
+    },
+    "MiracleName": {
+      "Hash": 714251797
+    },
+    "MiracleDisplayID": 6226,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -690052705
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1073.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1073.png",
+    "DescParamList": [
+      {
+        "Value": 0.20000000023283065
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -1570622961
+    },
+    "MiracleName": {
+      "Hash": 714251798
+    },
+    "MiracleDisplayID": 6227,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -690052704
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1072.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1072.png",
+    "DescParamList": [
+      {
+        "Value": 0.8000000009313226
+      },
+      {
+        "Value": 0.10000000011641533
+      },
+      {
+        "Value": 4.000000000931323
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -1570622972
+    },
+    "MiracleName": {
+      "Hash": 714251791
+    },
+    "MiracleDisplayID": 6228,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -690052719
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1078.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1078.png",
+    "DescParamList": [
+      {
+        "Value": 3.000000000698492
+      },
+      {
+        "Value": 2.0000000004656613
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -1570622971
+    },
+    "MiracleName": {
+      "Hash": 714251792
+    },
+    "MiracleDisplayID": 6229,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -690052718
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1104.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1104.png",
+    "DescParamList": [
+      {
+        "Value": 0.4000000004656613
+      },
+      {
+        "Value": 0.4000000004656613
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -4539023
+    },
+    "MiracleName": {
+      "Hash": -851832142
+    },
+    "MiracleDisplayID": 6230,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 2038830644
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1110.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1110.png",
+    "DescParamList": [
+      {
+        "Value": 2.0000000004656613
+      },
+      {
+        "Value": 0.4000000004656613
+      },
+      {
+        "Value": 0.20000000023283065
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -4539022
+    },
+    "MiracleName": {
+      "Hash": -851832141
+    },
+    "MiracleDisplayID": 6231,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 2038830645
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1109.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1109.png",
+    "DescParamList": [],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -4539025
+    },
+    "MiracleName": {
+      "Hash": -851832140
+    },
+    "MiracleDisplayID": 6232,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 2038830646
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1114.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1114.png",
+    "DescParamList": [
+      {
+        "Value": 2.0000000004656613
+      },
+      {
+        "Value": 3.000000000698492
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 371857150
+    },
+    "MiracleName": {
+      "Hash": -851832146
+    },
+    "MiracleDisplayID": 6234,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 2038830648
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1114.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1114.png",
+    "DescParamList": [
+      {
+        "Value": 0.30000000034924595
+      },
+      {
+        "Value": 3.000000000698492
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 371857150
+    },
+    "MiracleName": {
+      "Hash": -851832145
+    },
+    "MiracleDisplayID": 6235,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 2038830649
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1114.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1114.png",
+    "DescParamList": [
+      {
+        "Value": 0.15000000017462298
+      },
+      {
+        "Value": 3.000000000698492
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 371857150
+    },
+    "MiracleName": {
+      "Hash": -851832144
+    },
+    "MiracleDisplayID": 6236,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 2038830650
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1114.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1114.png",
+    "DescParamList": [
+      {
+        "Value": 10.000000002328306
+      },
+      {
+        "Value": 5.000000001164153
+      },
+      {
+        "Value": 3.000000000698492
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 371857150
+    },
+    "MiracleName": {
+      "Hash": -851832143
+    },
+    "MiracleDisplayID": 6237,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 2038830651
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1114.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1114.png",
+    "DescParamList": [
+      {
+        "Value": 0.5000000005820766
+      },
+      {
+        "Value": 4.000000000931323
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 371857150
+    },
+    "MiracleName": {
+      "Hash": -851832150
+    },
+    "MiracleDisplayID": 6238,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 2038830636
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1114.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1114.png",
+    "DescParamList": [
+      {
+        "Value": 1.0000000002328306
+      },
+      {
+        "Value": 3.000000000698492
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 371857150
+    },
+    "MiracleName": {
+      "Hash": -851832149
+    },
+    "MiracleDisplayID": 6239,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 2038830637
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1114.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1114.png",
+    "DescParamList": [
+      {
+        "Value": 2.0000000004656613
+      },
+      {
+        "Value": 2.0000000004656613
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 371857150
+    },
+    "MiracleName": {
+      "Hash": -92317255
+    },
+    "MiracleDisplayID": 6240,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 472746703
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1114.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1114.png",
+    "DescParamList": [
+      {
+        "Value": 0.30000000034924595
+      },
+      {
+        "Value": 3.000000000698492
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 371857150
+    },
+    "MiracleName": {
+      "Hash": -92317254
+    },
+    "MiracleDisplayID": 6241,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 472746704
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1114.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1114.png",
+    "DescParamList": [
+      {
+        "Value": 1.0000000002328306
+      },
+      {
+        "Value": 2.0000000004656613
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 371857150
+    },
+    "MiracleName": {
+      "Hash": -92317253
+    },
+    "MiracleDisplayID": 6242,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 472746705
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1114.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1114.png",
+    "DescParamList": [
+      {
+        "Value": 1.0000000002328306
+      },
+      {
+        "Value": 3.000000000698492
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 371857150
+    },
+    "MiracleName": {
+      "Hash": -92317252
+    },
+    "MiracleDisplayID": 6243,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 472746706
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1114.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1114.png",
+    "DescParamList": [
+      {
+        "Value": 1.0000000002328306
+      },
+      {
+        "Value": 2.0000000004656613
+      },
+      {
+        "Value": 2.0000000004656613
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 371857150
+    },
+    "MiracleName": {
+      "Hash": -92317259
+    },
+    "MiracleDisplayID": 6244,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 472746707
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1114.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1114.png",
+    "DescParamList": [
+      {
+        "Value": 3.000000000698492
+      },
+      {
+        "Value": 2.0000000004656613
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 371857150
+    },
+    "MiracleName": {
+      "Hash": -92317258
+    },
+    "MiracleDisplayID": 6245,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 472746708
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1114.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1114.png",
+    "DescParamList": [],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 895857690
+    },
+    "MiracleName": {
+      "Hash": -1233344137
+    },
+    "MiracleDisplayID": 16234,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -563977643
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1014.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1014.png",
+    "DescParamList": [
+      {
+        "Value": 100.00000002328306
+      },
+      {
+        "Value": 0.20000000023283065
+      },
+      {
+        "Value": 0.10000000011641533
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -407823582
+    },
+    "MiracleName": {
+      "Hash": 1877051181
+    },
+    "MiracleDisplayID": 6301,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -1852852157
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1057.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1057.png",
+    "DescParamList": [
+      {
+        "Value": 0.30000000034924595
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -407823583
+    },
+    "MiracleName": {
+      "Hash": 1877051184
+    },
+    "MiracleDisplayID": 6302,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -1852852154
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1065.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1065.png",
+    "DescParamList": [
+      {
+        "Value": 0.5000000005820766
+      },
+      {
+        "Value": 100.00000002328306
+      },
+      {
+        "Value": 100.00000002328306
+      },
+      {
+        "Value": 100.00000002328306
+      },
+      {
+        "Value": 0.36000000041909513
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -407823584
+    },
+    "MiracleName": {
+      "Hash": 1877051183
+    },
+    "MiracleDisplayID": 6303,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -1852852155
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1046.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1046.png",
+    "DescParamList": [
+      {
+        "Value": 0.050000000058207664
+      },
+      {
+        "Value": 0.08000000009313225
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -407823577
+    },
+    "MiracleName": {
+      "Hash": 1877051178
+    },
+    "MiracleDisplayID": 6304,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -1852852152
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1086.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1086.png",
+    "DescParamList": [
+      {
+        "Value": 2.0000000004656613
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -407823578
+    },
+    "MiracleName": {
+      "Hash": 1877051177
+    },
+    "MiracleDisplayID": 6305,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -1852852153
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1096.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1096.png",
+    "DescParamList": [
+      {
+        "Value": 0.30000000034924595
+      },
+      {
+        "Value": 2.0000000004656613
+      },
+      {
+        "Value": 0.4000000004656613
+      },
+      {
+        "Value": 6.000000001396984
+      },
+      {
+        "Value": 0.5000000005820766
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -407823579
+    },
+    "MiracleName": {
+      "Hash": 1877051180
+    },
+    "MiracleDisplayID": 6306,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -1852852150
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1088.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1088.png",
+    "DescParamList": [
+      {
+        "Value": 300.0000000698492
+      },
+      {
+        "Value": 3.000000000698492
+      },
+      {
+        "Value": 3.000000000698492
+      },
+      {
+        "Value": 0.6000000006984919
+      },
+      {
+        "Value": 0.1600000001862645
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -407823580
+    },
+    "MiracleName": {
+      "Hash": 1877051179
+    },
+    "MiracleDisplayID": 6307,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -1852852151
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1112.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1112.png",
+    "DescParamList": [
+      {
+        "Value": 1.0000000002328306
+      },
+      {
+        "Value": 5.000000001164153
+      },
+      {
+        "Value": 0.10000000011641533
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -407823589
+    },
+    "MiracleName": {
+      "Hash": 1877051174
+    },
+    "MiracleDisplayID": 6308,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -1852852164
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1040.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1040.png",
+    "DescParamList": [
+      {
+        "Value": 1.0000000002328306
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -407823483
+    },
+    "MiracleName": {
+      "Hash": 1877051148
+    },
+    "MiracleDisplayID": 6401,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -1852851926
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1038.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1038.png",
+    "DescParamList": [
+      {
+        "Value": 1.0000000002328306
+      },
+      {
+        "Value": 5.000000001164153
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -407823482
+    },
+    "MiracleName": {
+      "Hash": 1877051145
+    },
+    "MiracleDisplayID": 6402,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -1852851929
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1041.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1041.png",
+    "DescParamList": [
+      {
+        "Value": 0.050000000058207664
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -407823481
+    },
+    "MiracleName": {
+      "Hash": 1877051146
+    },
+    "MiracleDisplayID": 6403,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -1852851928
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1039.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1039.png",
+    "DescParamList": [
+      {
+        "Value": 0.2500000002910383
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -407823488
+    },
+    "MiracleName": {
+      "Hash": 1877051151
+    },
+    "MiracleDisplayID": 6404,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -1852851931
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1010.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1010.png",
+    "DescParamList": [
+      {
+        "Value": 2.0000000004656613
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -407823487
+    },
+    "MiracleName": {
+      "Hash": 1877051152
+    },
+    "MiracleDisplayID": 6405,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -1852851930
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1009.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1009.png",
+    "DescParamList": [
+      {
+        "Value": 0.2500000002910383
+      },
+      {
+        "Value": 1.0000000002328306
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -407823486
+    },
+    "MiracleName": {
+      "Hash": 1877051149
+    },
+    "MiracleDisplayID": 6406,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -1852851933
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1053.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1053.png",
+    "DescParamList": [
+      {
+        "Value": 0.050000000058207664
+      },
+      {
+        "Value": 3.000000000698492
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -407823485
+    },
+    "MiracleName": {
+      "Hash": 1877051150
+    },
+    "MiracleDisplayID": 6407,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -1852851932
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1053.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1053.png",
+    "DescParamList": [
+      {
+        "Value": 0.050000000058207664
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -407823492
+    },
+    "MiracleName": {
+      "Hash": 1877051139
+    },
+    "MiracleDisplayID": 6408,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -1852851935
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1048.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1048.png",
+    "DescParamList": [
+      {
+        "Value": 1.0000000002328306
+      },
+      {
+        "Value": 1.0000000002328306
+      },
+      {
+        "Value": 10.000000002328306
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -407823491
+    },
+    "MiracleName": {
+      "Hash": 1877051140
+    },
+    "MiracleDisplayID": 6409,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -1852851934
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1036.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1036.png",
+    "DescParamList": [
+      {
+        "Value": 1.0000000002328306
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 1158260457
+    },
+    "MiracleName": {
+      "Hash": 310967206
+    },
+    "MiracleDisplayID": 6410,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 876031428
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1071.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1071.png",
+    "DescParamList": [],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 1158260458
+    },
+    "MiracleName": {
+      "Hash": 310967207
+    },
+    "MiracleDisplayID": 6411,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 876031429
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1083.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1083.png",
+    "DescParamList": [
+      {
+        "Value": 0.2500000002910383
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 1158260459
+    },
+    "MiracleName": {
+      "Hash": 310967204
+    },
+    "MiracleDisplayID": 6412,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 876031426
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1075.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1075.png",
+    "DescParamList": [
+      {
+        "Value": 0.30000000034924595
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 1158260460
+    },
+    "MiracleName": {
+      "Hash": 310967205
+    },
+    "MiracleDisplayID": 6413,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 876031427
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1076.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1076.png",
+    "DescParamList": [
+      {
+        "Value": 1.0000000002328306
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 1158260453
+    },
+    "MiracleName": {
+      "Hash": 310967210
+    },
+    "MiracleDisplayID": 6414,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 876031424
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1093.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1093.png",
+    "DescParamList": [
+      {
+        "Value": 0.5000000005820766
+      },
+      {
+        "Value": 4.000000000931323
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 1158260454
+    },
+    "MiracleName": {
+      "Hash": 310967211
+    },
+    "MiracleDisplayID": 6415,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 876031425
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1109.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1109.png",
+    "DescParamList": [],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 1158260455
+    },
+    "MiracleName": {
+      "Hash": 310967208
+    },
+    "MiracleDisplayID": 6416,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 876031422
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1103.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1103.png",
+    "DescParamList": [],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 1158260456
+    },
+    "MiracleName": {
+      "Hash": 310967209
+    },
+    "MiracleDisplayID": 6417,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 876031423
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1103.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1103.png",
+    "DescParamList": [
+      {
+        "Value": 1.0000000002328306
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 371857150
+    },
+    "MiracleName": {
+      "Hash": 310967198
+    },
+    "MiracleDisplayID": 6418,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 876031420
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1103.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1103.png",
+    "DescParamList": [
+      {
+        "Value": 1.5000000008149073
+      },
+      {
+        "Value": 1.0000000002328306
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 371857150
+    },
+    "MiracleName": {
+      "Hash": 310967199
+    },
+    "MiracleDisplayID": 6419,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 876031421
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1103.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1103.png",
+    "DescParamList": [
+      {
+        "Value": 1.5000000008149073
+      },
+      {
+        "Value": 5.000000001164153
+      },
+      {
+        "Value": 0.20000000023283065
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 371857150
+    },
+    "MiracleName": {
+      "Hash": 714251733
+    },
+    "MiracleDisplayID": 6420,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -690052513
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1103.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1103.png",
+    "DescParamList": [
+      {
+        "Value": 0.5000000005820766
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 371857150
+    },
+    "MiracleName": {
+      "Hash": 714251734
+    },
+    "MiracleDisplayID": 6421,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -690052512
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1103.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1103.png",
+    "DescParamList": [
+      {
+        "Value": 0.5000000005820766
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 371857150
+    },
+    "MiracleName": {
+      "Hash": 714251731
+    },
+    "MiracleDisplayID": 6422,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -690052515
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1103.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1103.png",
+    "DescParamList": [
+      {
+        "Value": 0.9900000011525116
+      },
+      {
+        "Value": 1.0000000002328306
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 371857150
+    },
+    "MiracleName": {
+      "Hash": 714251732
+    },
+    "MiracleDisplayID": 6423,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -690052514
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1103.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1103.png",
+    "DescParamList": [
+      {
+        "Value": 1.0000000002328306
+      },
+      {
+        "Value": 1.0000000002328306
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 371857150
+    },
+    "MiracleName": {
+      "Hash": 714251737
+    },
+    "MiracleDisplayID": 6424,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -690052517
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1103.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1103.png",
+    "DescParamList": [],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 371857150
+    },
+    "MiracleName": {
+      "Hash": 714251738
+    },
+    "MiracleDisplayID": 6425,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -690052516
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1111.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1111.png",
+    "DescParamList": [
+      {
+        "Value": 0.5000000005820766
+      },
+      {
+        "Value": 1.0000000002328306
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -407823516
+    },
+    "MiracleName": {
+      "Hash": 1877051115
+    },
+    "MiracleDisplayID": 6501,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -1852851959
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1101.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1101.png",
+    "DescParamList": [
+      {
+        "Value": 0.4000000004656613
+      },
+      {
+        "Value": 0.5000000005820766
+      },
+      {
+        "Value": 2.0000000004656613
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -407823513
+    },
+    "MiracleName": {
+      "Hash": 1877051114
+    },
+    "MiracleDisplayID": 6502,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -1852851960
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1113.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1113.png",
+    "DescParamList": [
+      {
+        "Value": 0.8000000009313226
+      },
+      {
+        "Value": 1.0000000002328306
+      },
+      {
+        "Value": 0.2500000002910383
+      },
+      {
+        "Value": 1.0000000002328306
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -407823514
+    },
+    "MiracleName": {
+      "Hash": 1877051113
+    },
+    "MiracleDisplayID": 6503,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -1852851961
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1108.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1108.png",
+    "DescParamList": [
+      {
+        "Value": 0.5000000005820766
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -407823519
+    },
+    "MiracleName": {
+      "Hash": 1877051120
+    },
+    "MiracleDisplayID": 6504,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -1852851962
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1097.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1097.png",
+    "DescParamList": [
+      {
+        "Value": 1.0000000002328306
+      },
+      {
+        "Value": 1.0000000002328306
+      },
+      {
+        "Value": 1.0000000002328306
+      },
+      {
+        "Value": 0.10000000011641533
+      },
+      {
+        "Value": 8.000000001862645
+      },
+      {
+        "Value": 1.0000000002328306
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -407823520
+    },
+    "MiracleName": {
+      "Hash": 1877051119
+    },
+    "MiracleDisplayID": 6505,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -1852851963
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1106.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1106.png",
+    "DescParamList": [
+      {
+        "Value": 1.0000000002328306
+      },
+      {
+        "Value": 30.00000000698492
+      },
+      {
+        "Value": 5.000000001164153
+      }
+    ],
+    "ExtraEffect": [
+      61000500
+    ],
+    "MiracleBGDesc": {
+      "Hash": -407823517
+    },
+    "MiracleName": {
+      "Hash": 1877051118
+    },
+    "MiracleDisplayID": 6506,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -1852851964
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1105.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1105.png",
+    "DescParamList": [],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -407823518
+    },
+    "MiracleName": {
+      "Hash": 1877051117
+    },
+    "MiracleDisplayID": 6507,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -1852851965
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1098.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1098.png",
+    "DescParamList": [
+      {
+        "Value": 0.5000000005820766
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -407823523
+    },
+    "MiracleName": {
+      "Hash": 1877051108
+    },
+    "MiracleDisplayID": 6508,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -1852851966
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1091.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1091.png",
+    "DescParamList": [
+      {
+        "Value": 0.30000000034924595
+      },
+      {
+        "Value": 0.2500000002910383
+      },
+      {
+        "Value": 1.0000000002328306
+      },
+      {
+        "Value": 2.0000000004656613
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -407823524
+    },
+    "MiracleName": {
+      "Hash": 1877051107
+    },
+    "MiracleDisplayID": 6509,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -1852851967
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1092.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1092.png",
+    "DescParamList": [
+      {
+        "Value": 0.30000000034924595
+      },
+      {
+        "Value": 0.014999999668216333
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 1158260426
+    },
+    "MiracleName": {
+      "Hash": 310967175
+    },
+    "MiracleDisplayID": 6510,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 876031397
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1107.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1107.png",
+    "DescParamList": [
+      {
+        "Value": 0.8000000009313226
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 1158260425
+    },
+    "MiracleName": {
+      "Hash": 310967174
+    },
+    "MiracleDisplayID": 6511,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 876031396
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1094.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1094.png",
+    "DescParamList": [
+      {
+        "Value": 0.7500000008731149
+      },
+      {
+        "Value": 5.000000001164153
+      },
+      {
+        "Value": 99.00000002305023
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 1158260428
+    },
+    "MiracleName": {
+      "Hash": 310967173
+    },
+    "MiracleDisplayID": 6512,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 876031395
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1102.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1102.png",
+    "DescParamList": [
+      {
+        "Value": 10.000000002328306
+      },
+      {
+        "Value": 3.000000000698492
+      },
+      {
+        "Value": 0.20000000023283065
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 1158260427
+    },
+    "MiracleName": {
+      "Hash": 310967172
+    },
+    "MiracleDisplayID": 6513,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 876031394
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1095.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1095.png",
+    "DescParamList": [
+      {
+        "Value": 0.5000000005820766
+      },
+      {
+        "Value": 0.5000000005820766
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 1158260422
+    },
+    "MiracleName": {
+      "Hash": 310967179
+    },
+    "MiracleDisplayID": 6514,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 876031393
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1129.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1129.png",
+    "DescParamList": [
+      {
+        "Value": 0.4000000004656613
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 1158260421
+    },
+    "MiracleName": {
+      "Hash": 310967178
+    },
+    "MiracleDisplayID": 6515,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 876031392
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1119.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1119.png",
+    "DescParamList": [
+      {
+        "Value": 0.2500000002910383
+      },
+      {
+        "Value": 2.0000000004656613
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 1158260424
+    },
+    "MiracleName": {
+      "Hash": 310967177
+    },
+    "MiracleDisplayID": 6516,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 876031391
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1124.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1124.png",
+    "DescParamList": [
+      {
+        "Value": 1.5000000008149073
+      },
+      {
+        "Value": 6.000000001396984
+      },
+      {
+        "Value": 3.000000000698492
+      },
+      {
+        "Value": 2.0000000004656613
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 1158260423
+    },
+    "MiracleName": {
+      "Hash": 310967176
+    },
+    "MiracleDisplayID": 6517,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 876031390
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1125.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1125.png",
+    "DescParamList": [
+      {
+        "Value": 30.00000000698492
+      },
+      {
+        "Value": 3.000000000698492
+      }
+    ],
+    "ExtraEffect": [
+      61000500
+    ],
+    "MiracleBGDesc": {
+      "Hash": 1158260417
+    },
+    "MiracleName": {
+      "Hash": 310967166
+    },
+    "MiracleDisplayID": 6519,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 876031388
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1128.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1128.png",
+    "DescParamList": [
+      {
+        "Value": 0.9000000010477379
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -1570622929
+    },
+    "MiracleName": {
+      "Hash": 714251702
+    },
+    "MiracleDisplayID": 6520,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -690052544
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1122.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1122.png",
+    "DescParamList": [
+      {
+        "Value": 0.5000000005820766
+      },
+      {
+        "Value": 1.2000000004656612
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -1570622930
+    },
+    "MiracleName": {
+      "Hash": 714251701
+    },
+    "MiracleDisplayID": 6521,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -690052545
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1133.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1133.png",
+    "DescParamList": [
+      {
+        "Value": 0.5000000005820766
+      },
+      {
+        "Value": 15.00000000349246
+      },
+      {
+        "Value": 0.10000000011641533
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -407823417
+    },
+    "MiracleName": {
+      "Hash": 1877051082
+    },
+    "MiracleDisplayID": 6601,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -1852851992
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1126.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1126.png",
+    "DescParamList": [
+      {
+        "Value": 0.9900000011525116
+      },
+      {
+        "Value": 2.0000000004656613
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -407823420
+    },
+    "MiracleName": {
+      "Hash": 1877051083
+    },
+    "MiracleDisplayID": 6602,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -1852851991
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1118.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1118.png",
+    "DescParamList": [
+      {
+        "Value": 5.000000001164153
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -407823419
+    },
+    "MiracleName": {
+      "Hash": 1877051084
+    },
+    "MiracleDisplayID": 6603,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -1852851990
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1115.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1115.png",
+    "DescParamList": [
+      {
+        "Value": 3.000000000698492
+      },
+      {
+        "Value": 0.9900000011525116
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -407823422
+    },
+    "MiracleName": {
+      "Hash": 1877051085
+    },
+    "MiracleDisplayID": 6604,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -1852851997
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1130.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1130.png",
+    "DescParamList": [
+      {
+        "Value": 3.000000000698492
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -407823421
+    },
+    "MiracleName": {
+      "Hash": 1877051086
+    },
+    "MiracleDisplayID": 6605,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -1852851996
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1127.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1127.png",
+    "DescParamList": [
+      {
+        "Value": 0.10000000011641533
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -407823424
+    },
+    "MiracleName": {
+      "Hash": 1877051087
+    },
+    "MiracleDisplayID": 6606,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -1852851995
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1123.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1123.png",
+    "DescParamList": [
+      {
+        "Value": 3.000000000698492
+      },
+      {
+        "Value": 6.000000001396984
+      },
+      {
+        "Value": 9.000000002095476
+      },
+      {
+        "Value": 50.00000001164153
+      },
+      {
+        "Value": 150.0000000349246
+      },
+      {
+        "Value": 250.00000005820766
+      },
+      {
+        "Value": 9.000000002095476
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -407823423
+    },
+    "MiracleName": {
+      "Hash": 1877051088
+    },
+    "MiracleDisplayID": 6607,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -1852851994
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1131.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1131.png",
+    "DescParamList": [],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -407823426
+    },
+    "MiracleName": {
+      "Hash": 1877051073
+    },
+    "MiracleDisplayID": 6608,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -1852852001
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1116.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1116.png",
+    "DescParamList": [
+      {
+        "Value": 0.5000000005820766
+      },
+      {
+        "Value": 0.30000000034924595
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -407823425
+    },
+    "MiracleName": {
+      "Hash": 1877051074
+    },
+    "MiracleDisplayID": 6609,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -1852852000
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1132.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1132.png",
+    "DescParamList": [
+      {
+        "Value": 1.0000000002328306
+      },
+      {
+        "Value": 2.0000000004656613
+      },
+      {
+        "Value": 3.000000000698492
+      },
+      {
+        "Value": 30.00000000698492
+      },
+      {
+        "Value": 60.00000001396984
+      },
+      {
+        "Value": 300.0000000698492
+      },
+      {
+        "Value": 1.0000000002328306
+      },
+      {
+        "Value": 2.0000000004656613
+      },
+      {
+        "Value": 3.000000000698492
+      },
+      {
+        "Value": 0.030000000034924597
+      },
+      {
+        "Value": 0.060000000069849194
+      },
+      {
+        "Value": 0.20000000023283065
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 1158260523
+    },
+    "MiracleName": {
+      "Hash": 310967140
+    },
+    "MiracleDisplayID": 6610,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 876031362
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1120.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1120.png",
+    "DescParamList": [
+      {
+        "Value": 1.0000000002328306
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 1158260524
+    },
+    "MiracleName": {
+      "Hash": 310967141
+    },
+    "MiracleDisplayID": 6611,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 876031363
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1117.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1117.png",
+    "DescParamList": [],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 1158260521
+    },
+    "MiracleName": {
+      "Hash": 310967142
+    },
+    "MiracleDisplayID": 6612,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 876031364
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1134.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1134.png",
+    "DescParamList": [
+      {
+        "Value": 250.00000005820766
+      },
+      {
+        "Value": 250.00000005820766
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 1158260522
+    },
+    "MiracleName": {
+      "Hash": 310967143
+    },
+    "MiracleDisplayID": 6613,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 876031365
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1145.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1145.png",
+    "DescParamList": [
+      {
+        "Value": 5.000000001164153
+      },
+      {
+        "Value": 1.0000000002328306
+      },
+      {
+        "Value": 1.5000000008149073
+      },
+      {
+        "Value": 1.0000000002328306
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 1158260519
+    },
+    "MiracleName": {
+      "Hash": 310967144
+    },
+    "MiracleDisplayID": 6614,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 876031358
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1149.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1149.png",
+    "DescParamList": [
+      {
+        "Value": 0.20000000023283065
+      },
+      {
+        "Value": 0.30000000034924595
+      },
+      {
+        "Value": 1.0000000002328306
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 1158260520
+    },
+    "MiracleName": {
+      "Hash": 310967145
+    },
+    "MiracleDisplayID": 6615,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 876031359
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1141.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1141.png",
+    "DescParamList": [
+      {
+        "Value": 1.0000000002328306
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 1158260517
+    },
+    "MiracleName": {
+      "Hash": 310967146
+    },
+    "MiracleDisplayID": 6616,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 876031360
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1143.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1143.png",
+    "DescParamList": [
+      {
+        "Value": 1.0000000002328306
+      },
+      {
+        "Value": 2.0000000004656613
+      },
+      {
+        "Value": 1.0000000002328306
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 1158260518
+    },
+    "MiracleName": {
+      "Hash": 310967147
+    },
+    "MiracleDisplayID": 6617,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 876031361
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1142.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1142.png",
+    "DescParamList": [
+      {
+        "Value": 0.15000000017462298
+      },
+      {
+        "Value": 0.2500000002910383
+      },
+      {
+        "Value": 0.7500000008731149
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 1158260515
+    },
+    "MiracleName": {
+      "Hash": 310967132
+    },
+    "MiracleDisplayID": 6618,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 876031354
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1146.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1146.png",
+    "DescParamList": [
+      {
+        "Value": 80.00000001862645
+      },
+      {
+        "Value": 1.0000000002328306
+      },
+      {
+        "Value": 1.0000000002328306
+      },
+      {
+        "Value": 3.000000000698492
+      },
+      {
+        "Value": 5.000000001164153
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 1158260516
+    },
+    "MiracleName": {
+      "Hash": 310967133
+    },
+    "MiracleDisplayID": 6619,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": 876031355
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1148.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1148.png",
+    "DescParamList": [
+      {
+        "Value": 1.0000000002328306
+      },
+      {
+        "Value": 88.0000000204891
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -1570622832
+    },
+    "MiracleName": {
+      "Hash": 714251667
+    },
+    "MiracleDisplayID": 6620,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -690052579
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1147.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1147.png",
+    "DescParamList": [
+      {
+        "Value": 2.0000000004656613
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -1570622831
+    },
+    "MiracleName": {
+      "Hash": 714251668
+    },
+    "MiracleDisplayID": 6621,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -690052578
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1144.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1144.png",
+    "DescParamList": [
+      {
+        "Value": 4.000000000931323
+      },
+      {
+        "Value": 10.000000002328306
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -1570622834
+    },
+    "MiracleName": {
+      "Hash": 714251669
+    },
+    "MiracleDisplayID": 6622,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -690052577
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1140.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1140.png",
+    "DescParamList": [],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": -1570622833
+    },
+    "MiracleName": {
+      "Hash": 714251670
+    },
+    "MiracleDisplayID": 6623,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -690052576
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1140.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1140.png",
+    "DescParamList": [
+      {
+        "Value": 0.5000000005820766
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 371857150
+    },
+    "MiracleName": {
+      "Hash": 714251671
+    },
+    "MiracleDisplayID": 6624,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -690052583
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1140.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1140.png",
+    "DescParamList": [
+      {
+        "Value": 0.5000000005820766
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 371857150
+    },
+    "MiracleName": {
+      "Hash": 714251672
+    },
+    "MiracleDisplayID": 6625,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -690052582
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1140.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1140.png",
+    "DescParamList": [
+      {
+        "Value": 0.5000000005820766
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 371857150
+    },
+    "MiracleName": {
+      "Hash": 714251673
+    },
+    "MiracleDisplayID": 6626,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -690052581
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1140.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1140.png",
+    "DescParamList": [
+      {
+        "Value": 0.5000000005820766
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 371857150
+    },
+    "MiracleName": {
+      "Hash": 714251674
+    },
+    "MiracleDisplayID": 6627,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -690052580
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1140.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1140.png",
+    "DescParamList": [
+      {
+        "Value": 0.5000000005820766
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 371857150
+    },
+    "MiracleName": {
+      "Hash": 714251659
+    },
+    "MiracleDisplayID": 6628,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -690052587
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1140.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1140.png",
+    "DescParamList": [
+      {
+        "Value": 0.5000000005820766
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 371857150
+    },
+    "MiracleName": {
+      "Hash": 714251660
+    },
+    "MiracleDisplayID": 6629,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -690052586
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1141.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1141.png",
+    "DescParamList": [
+      {
+        "Value": 1.0000000002328306
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 371857150
+    },
+    "MiracleName": {
+      "Hash": 1877050983
+    },
+    "MiracleDisplayID": 6901,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -1852852355
+    }
+  },
+  {
+    "MiracleFigureIconPath": "SpriteOutput/Rogue/MiracleFigureIcon/1147.png",
+    "MiracleIconPath": "SpriteOutput/Rogue/MiracleIcon/1147.png",
+    "DescParamList": [
+      {
+        "Value": 6.000000001396984
+      }
+    ],
+    "ExtraEffect": [],
+    "MiracleBGDesc": {
+      "Hash": 371857150
+    },
+    "MiracleName": {
+      "Hash": 1877050982
+    },
+    "MiracleDisplayID": 6902,
+    "MiracleTag": {
+      "Hash": 371857150
+    },
+    "MiracleDesc": {
+      "Hash": -1852852356
+    }
+  }
+]

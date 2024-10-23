@@ -1,0 +1,542 @@
+[
+  {
+    "SlotList": [],
+    "IconPath": "",
+    "AreaID": 11,
+    "Type": "Rubbish",
+    "UseLowLight": true,
+    "ID": 10001
+  },
+  {
+    "SlotList": [],
+    "IconPath": "",
+    "AreaID": 13,
+    "Type": "Rubbish",
+    "UseLowLight": true,
+    "ID": 10002
+  },
+  {
+    "SlotList": [],
+    "IconPath": "",
+    "AreaID": 11,
+    "Type": "Clean",
+    "UseLowLight": false,
+    "ID": 10003
+  },
+  {
+    "SlotList": [],
+    "IconPath": "",
+    "AreaID": 14,
+    "Type": "Clean",
+    "UseLowLight": false,
+    "ID": 10004
+  },
+  {
+    "SlotList": [],
+    "IconPath": "",
+    "AreaID": 16,
+    "Type": "Clean",
+    "UseLowLight": false,
+    "ID": 10005
+  },
+  {
+    "SlotList": [],
+    "IconPath": "",
+    "AreaID": 15,
+    "Type": "Clean",
+    "UseLowLight": false,
+    "ID": 10006
+  },
+  {
+    "SlotList": [],
+    "IconPath": "",
+    "AreaID": 12,
+    "Type": "Clean",
+    "UseLowLight": false,
+    "ID": 10007
+  },
+  {
+    "SlotList": [],
+    "IconPath": "",
+    "AreaID": 14,
+    "Type": "Rubbish",
+    "UseLowLight": false,
+    "ID": 10008
+  },
+  {
+    "SlotList": [],
+    "IconPath": "",
+    "AreaID": 12,
+    "Type": "Rubbish",
+    "UseLowLight": true,
+    "ID": 10009
+  },
+  {
+    "SlotList": [],
+    "IconPath": "",
+    "AreaID": 12,
+    "Type": "Rubbish",
+    "UseLowLight": false,
+    "ID": 10010
+  },
+  {
+    "SlotList": [],
+    "IconPath": "",
+    "AreaID": 15,
+    "Type": "Rubbish",
+    "UseLowLight": false,
+    "ID": 10011
+  },
+  {
+    "SlotList": [],
+    "IconPath": "",
+    "AreaID": 16,
+    "Type": "Rubbish",
+    "UseLowLight": false,
+    "ID": 10012
+  },
+  {
+    "SlotList": [],
+    "IconPath": "",
+    "AreaID": 16,
+    "Type": "Rubbish",
+    "UseLowLight": false,
+    "ID": 10013
+  },
+  {
+    "SlotList": [],
+    "IconPath": "",
+    "AreaID": 13,
+    "Type": "Clean",
+    "UseLowLight": false,
+    "ID": 10014
+  },
+  {
+    "SlotList": [
+      1100101
+    ],
+    "IconPath": "SpriteOutput/ItemIcon/Icon_Testmaterial01.png",
+    "AreaID": 11,
+    "Type": "Normal",
+    "UseLowLight": true,
+    "ID": 11001
+  },
+  {
+    "SlotList": [
+      1100201
+    ],
+    "IconPath": "SpriteOutput/ItemIcon/Icon_Testmaterial01.png",
+    "AreaID": 11,
+    "Type": "Normal",
+    "UseLowLight": false,
+    "ID": 11002
+  },
+  {
+    "SlotList": [],
+    "IconPath": "SpriteOutput/ItemIcon/Icon_Testmaterial01.png",
+    "AreaID": 11,
+    "Type": "Normal",
+    "UseLowLight": true,
+    "ID": 11003
+  },
+  {
+    "SlotList": [],
+    "IconPath": "SpriteOutput/ItemIcon/Icon_Testmaterial01.png",
+    "AreaID": 11,
+    "Type": "Normal",
+    "UseLowLight": false,
+    "ID": 11004
+  },
+  {
+    "SlotList": [],
+    "IconPath": "SpriteOutput/ItemIcon/Icon_Testmaterial01.png",
+    "AreaID": 11,
+    "Type": "Normal",
+    "UseLowLight": true,
+    "ID": 11005
+  },
+  {
+    "SlotList": [],
+    "IconPath": "SpriteOutput/ItemIcon/Icon_Testmaterial01.png",
+    "AreaID": 11,
+    "Type": "Normal",
+    "UseLowLight": true,
+    "ID": 11006
+  },
+  {
+    "SlotList": [],
+    "IconPath": "SpriteOutput/ItemIcon/Icon_Testmaterial01.png",
+    "AreaID": 11,
+    "Type": "Normal",
+    "UseLowLight": false,
+    "ID": 11007
+  },
+  {
+    "SlotList": [],
+    "IconPath": "SpriteOutput/ItemIcon/Icon_Testmaterial01.png",
+    "AreaID": 11,
+    "Type": "Normal",
+    "UseLowLight": false,
+    "ID": 11008
+  },
+  {
+    "SlotList": [
+      1100901
+    ],
+    "IconPath": "SpriteOutput/ItemIcon/Icon_Testmaterial01.png",
+    "AreaID": 11,
+    "Type": "Normal",
+    "UseLowLight": false,
+    "ID": 11009
+  },
+  {
+    "SlotList": [],
+    "IconPath": "SpriteOutput/ItemIcon/Icon_Testmaterial01.png",
+    "AreaID": 11,
+    "Type": "Normal",
+    "UseLowLight": false,
+    "ID": 11011
+  },
+  {
+    "SlotList": [
+      1200101
+    ],
+    "IconPath": "SpriteOutput/ItemIcon/Icon_Testmaterial01.png",
+    "AreaID": 12,
+    "Type": "Normal",
+    "UseLowLight": false,
+    "ID": 12001
+  },
+  {
+    "SlotList": [
+      1200201
+    ],
+    "IconPath": "SpriteOutput/ItemIcon/Icon_Testmaterial01.png",
+    "AreaID": 12,
+    "Type": "Normal",
+    "UseLowLight": false,
+    "ID": 12002
+  },
+  {
+    "SlotList": [],
+    "IconPath": "SpriteOutput/ItemIcon/Icon_Testmaterial01.png",
+    "AreaID": 12,
+    "Type": "Normal",
+    "UseLowLight": false,
+    "ID": 12003
+  },
+  {
+    "SlotList": [
+      1200401
+    ],
+    "IconPath": "SpriteOutput/ItemIcon/Icon_Testmaterial01.png",
+    "AreaID": 12,
+    "Type": "Normal",
+    "UseLowLight": false,
+    "ID": 12004
+  },
+  {
+    "SlotList": [
+      1200501
+    ],
+    "IconPath": "SpriteOutput/ItemIcon/Icon_Testmaterial01.png",
+    "AreaID": 12,
+    "Type": "Normal",
+    "UseLowLight": false,
+    "ID": 12005
+  },
+  {
+    "SlotList": [],
+    "IconPath": "SpriteOutput/ItemIcon/Icon_Testmaterial01.png",
+    "AreaID": 12,
+    "Type": "Normal",
+    "UseLowLight": false,
+    "ID": 12006
+  },
+  {
+    "SlotList": [
+      1200701,
+      1200703
+    ],
+    "IconPath": "SpriteOutput/ItemIcon/Icon_Testmaterial01.png",
+    "AreaID": 12,
+    "Type": "Normal",
+    "UseLowLight": false,
+    "ID": 12007
+  },
+  {
+    "SlotList": [],
+    "IconPath": "SpriteOutput/ItemIcon/Icon_Testmaterial01.png",
+    "AreaID": 12,
+    "Type": "Normal",
+    "UseLowLight": false,
+    "ID": 12008
+  },
+  {
+    "SlotList": [],
+    "IconPath": "SpriteOutput/ItemIcon/Icon_Testmaterial01.png",
+    "AreaID": 12,
+    "Type": "Normal",
+    "UseLowLight": false,
+    "ID": 12009
+  },
+  {
+    "SlotList": [],
+    "IconPath": "SpriteOutput/ItemIcon/Icon_Testmaterial01.png",
+    "AreaID": 12,
+    "Type": "Normal",
+    "UseLowLight": false,
+    "ID": 12011
+  },
+  {
+    "SlotList": [
+      1201201
+    ],
+    "IconPath": "SpriteOutput/ItemIcon/Icon_Testmaterial01.png",
+    "AreaID": 12,
+    "Type": "Normal",
+    "UseLowLight": false,
+    "ID": 12012
+  },
+  {
+    "SlotList": [],
+    "IconPath": "SpriteOutput/ItemIcon/Icon_Testmaterial01.png",
+    "AreaID": 12,
+    "Type": "Normal",
+    "UseLowLight": false,
+    "ID": 12013
+  },
+  {
+    "SlotList": [],
+    "IconPath": "SpriteOutput/Quest/TrainParty/BuildAreaIcon/BuildAreaIcon7.png",
+    "AreaID": 13,
+    "Type": "Normal",
+    "UseLowLight": true,
+    "ID": 13001
+  },
+  {
+    "SlotList": [
+      1300201
+    ],
+    "IconPath": "SpriteOutput/Quest/TrainParty/BuildAreaIcon/BuildAreaIcon7.png",
+    "AreaID": 13,
+    "Type": "Normal",
+    "UseLowLight": false,
+    "ID": 13002
+  },
+  {
+    "SlotList": [
+      1300301,
+      1300302
+    ],
+    "IconPath": "SpriteOutput/Quest/TrainParty/BuildAreaIcon/BuildAreaIcon7.png",
+    "AreaID": 13,
+    "Type": "Normal",
+    "UseLowLight": true,
+    "ID": 13003
+  },
+  {
+    "SlotList": [
+      1300401,
+      1300402
+    ],
+    "IconPath": "SpriteOutput/Quest/TrainParty/BuildAreaIcon/BuildAreaIcon7.png",
+    "AreaID": 13,
+    "Type": "Normal",
+    "UseLowLight": true,
+    "ID": 13004
+  },
+  {
+    "SlotList": [],
+    "IconPath": "SpriteOutput/Quest/TrainParty/BuildAreaIcon/BuildAreaIcon7.png",
+    "AreaID": 13,
+    "Type": "Normal",
+    "UseLowLight": false,
+    "ID": 13005
+  },
+  {
+    "SlotList": [],
+    "IconPath": "SpriteOutput/Quest/TrainParty/BuildAreaIcon/BuildAreaIcon7.png",
+    "AreaID": 13,
+    "Type": "Normal",
+    "UseLowLight": false,
+    "ID": 13007
+  },
+  {
+    "SlotList": [],
+    "IconPath": "SpriteOutput/Quest/TrainParty/BuildAreaIcon/BuildAreaIcon7.png",
+    "AreaID": 14,
+    "Type": "Normal",
+    "UseLowLight": false,
+    "ID": 14001
+  },
+  {
+    "SlotList": [],
+    "IconPath": "SpriteOutput/Quest/TrainParty/BuildAreaIcon/BuildAreaIcon7.png",
+    "AreaID": 14,
+    "Type": "Normal",
+    "UseLowLight": false,
+    "ID": 14002
+  },
+  {
+    "SlotList": [],
+    "IconPath": "SpriteOutput/Quest/TrainParty/BuildAreaIcon/BuildAreaIcon7.png",
+    "AreaID": 14,
+    "Type": "Normal",
+    "UseLowLight": false,
+    "ID": 14003
+  },
+  {
+    "SlotList": [],
+    "IconPath": "SpriteOutput/Quest/TrainParty/BuildAreaIcon/BuildAreaIcon7.png",
+    "AreaID": 14,
+    "Type": "Normal",
+    "UseLowLight": false,
+    "ID": 14004
+  },
+  {
+    "SlotList": [
+      1400501,
+      1400502
+    ],
+    "IconPath": "SpriteOutput/Quest/TrainParty/BuildAreaIcon/BuildAreaIcon7.png",
+    "AreaID": 14,
+    "Type": "Normal",
+    "UseLowLight": false,
+    "ID": 14005
+  },
+  {
+    "SlotList": [],
+    "IconPath": "SpriteOutput/Quest/TrainParty/BuildAreaIcon/BuildAreaIcon7.png",
+    "AreaID": 14,
+    "Type": "Normal",
+    "UseLowLight": false,
+    "ID": 14006
+  },
+  {
+    "SlotList": [],
+    "IconPath": "SpriteOutput/Quest/TrainParty/BuildAreaIcon/BuildAreaIcon7.png",
+    "AreaID": 14,
+    "Type": "Normal",
+    "UseLowLight": false,
+    "ID": 14007
+  },
+  {
+    "SlotList": [],
+    "IconPath": "SpriteOutput/Quest/TrainParty/BuildAreaIcon/BuildAreaIcon7.png",
+    "AreaID": 14,
+    "Type": "Normal",
+    "UseLowLight": false,
+    "ID": 14008
+  },
+  {
+    "SlotList": [],
+    "IconPath": "SpriteOutput/Quest/TrainParty/BuildAreaIcon/BuildAreaIcon7.png",
+    "AreaID": 14,
+    "Type": "Normal",
+    "UseLowLight": false,
+    "ID": 14009
+  },
+  {
+    "SlotList": [],
+    "IconPath": "SpriteOutput/Quest/TrainParty/BuildAreaIcon/BuildAreaIcon7.png",
+    "AreaID": 14,
+    "Type": "Normal",
+    "UseLowLight": false,
+    "ID": 14010
+  },
+  {
+    "SlotList": [],
+    "IconPath": "SpriteOutput/Quest/TrainParty/BuildAreaIcon/BuildAreaIcon7.png",
+    "AreaID": 14,
+    "Type": "Normal",
+    "UseLowLight": false,
+    "ID": 14011
+  },
+  {
+    "SlotList": [
+      1500101
+    ],
+    "IconPath": "SpriteOutput/Quest/TrainParty/BuildAreaIcon/BuildAreaIcon7.png",
+    "AreaID": 15,
+    "Type": "Normal",
+    "UseLowLight": true,
+    "ID": 15001
+  },
+  {
+    "SlotList": [],
+    "IconPath": "SpriteOutput/Quest/TrainParty/BuildAreaIcon/BuildAreaIcon7.png",
+    "AreaID": 15,
+    "Type": "Normal",
+    "UseLowLight": true,
+    "ID": 15002
+  },
+  {
+    "SlotList": [],
+    "IconPath": "SpriteOutput/Quest/TrainParty/BuildAreaIcon/BuildAreaIcon7.png",
+    "AreaID": 15,
+    "Type": "Normal",
+    "UseLowLight": false,
+    "ID": 15005
+  },
+  {
+    "SlotList": [
+      1500601,
+      1500602
+    ],
+    "IconPath": "SpriteOutput/Quest/TrainParty/BuildAreaIcon/BuildAreaIcon7.png",
+    "AreaID": 15,
+    "Type": "Normal",
+    "UseLowLight": false,
+    "ID": 15006
+  },
+  {
+    "SlotList": [
+      1500701
+    ],
+    "IconPath": "SpriteOutput/Quest/TrainParty/BuildAreaIcon/BuildAreaIcon7.png",
+    "AreaID": 15,
+    "Type": "Normal",
+    "UseLowLight": false,
+    "ID": 15007
+  },
+  {
+    "SlotList": [],
+    "IconPath": "SpriteOutput/Quest/TrainParty/BuildAreaIcon/BuildAreaIcon7.png",
+    "AreaID": 15,
+    "Type": "Normal",
+    "UseLowLight": true,
+    "ID": 15008
+  },
+  {
+    "SlotList": [],
+    "IconPath": "SpriteOutput/Quest/TrainParty/BuildAreaIcon/BuildAreaIcon7.png",
+    "AreaID": 16,
+    "Type": "Normal",
+    "UseLowLight": true,
+    "ID": 16001
+  },
+  {
+    "SlotList": [
+      1600201,
+      1600202
+    ],
+    "IconPath": "SpriteOutput/Quest/TrainParty/BuildAreaIcon/BuildAreaIcon7.png",
+    "AreaID": 16,
+    "Type": "Normal",
+    "UseLowLight": false,
+    "ID": 16002
+  },
+  {
+    "SlotList": [
+      1600301,
+      1600302,
+      1600303
+    ],
+    "IconPath": "SpriteOutput/Quest/TrainParty/BuildAreaIcon/BuildAreaIcon7.png",
+    "AreaID": 16,
+    "Type": "Normal",
+    "UseLowLight": true,
+    "ID": 16003
+  }
+]

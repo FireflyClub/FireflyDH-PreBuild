@@ -1,0 +1,962 @@
+[
+  {
+    "Reward": 0,
+    "RogueAeonID": 1,
+    "Level": 1,
+    "KeyPointRewardItemID": 0,
+    "AeonStory_Name": {
+      "Hash": 371857150
+    },
+    "AeonStory": {
+      "Hash": 371857150
+    },
+    "AeonStoryID": 1,
+    "UnlockID": 0,
+    "Exp": 0
+  },
+  {
+    "Reward": 0,
+    "RogueAeonID": 1,
+    "Level": 2,
+    "KeyPointRewardItemID": 0,
+    "AeonStory_Name": {
+      "Hash": 1911796629
+    },
+    "AeonStory": {
+      "Hash": -1073730931
+    },
+    "AeonStoryID": 2,
+    "UnlockID": 0,
+    "Exp": 100
+  },
+  {
+    "Reward": 0,
+    "RogueAeonID": 1,
+    "Level": 3,
+    "KeyPointRewardItemID": 0,
+    "AeonStory_Name": {
+      "Hash": 1911796630
+    },
+    "AeonStory": {
+      "Hash": 1655152424
+    },
+    "AeonStoryID": 3,
+    "UnlockID": 15001,
+    "Exp": 200
+  },
+  {
+    "Reward": 0,
+    "RogueAeonID": 1,
+    "Level": 4,
+    "KeyPointRewardItemID": 0,
+    "AeonStory_Name": {
+      "Hash": 1911796635
+    },
+    "AeonStory": {
+      "Hash": -267161877
+    },
+    "AeonStoryID": 4,
+    "UnlockID": 1000303,
+    "Exp": 300
+  },
+  {
+    "Reward": 0,
+    "RogueAeonID": 1,
+    "Level": 5,
+    "KeyPointRewardItemID": 0,
+    "AeonStory_Name": {
+      "Hash": 371857150
+    },
+    "AeonStory": {
+      "Hash": 371857150
+    },
+    "AeonStoryID": 5,
+    "UnlockID": 0,
+    "Exp": 400
+  },
+  {
+    "Reward": 0,
+    "RogueAeonID": 1,
+    "Level": 6,
+    "KeyPointRewardItemID": 0,
+    "AeonStory_Name": {
+      "Hash": 371857150
+    },
+    "AeonStory": {
+      "Hash": 371857150
+    },
+    "AeonStoryID": 6,
+    "UnlockID": 0,
+    "Exp": 500
+  },
+  {
+    "Reward": 0,
+    "RogueAeonID": 1,
+    "Level": 7,
+    "KeyPointRewardItemID": 0,
+    "AeonStory_Name": {
+      "Hash": 371857150
+    },
+    "AeonStory": {
+      "Hash": 371857150
+    },
+    "AeonStoryID": 7,
+    "UnlockID": 0,
+    "Exp": 600
+  },
+  {
+    "Reward": 0,
+    "RogueAeonID": 1,
+    "Level": 8,
+    "KeyPointRewardItemID": 0,
+    "AeonStory_Name": {
+      "Hash": 371857150
+    },
+    "AeonStory": {
+      "Hash": 371857150
+    },
+    "AeonStoryID": 8,
+    "UnlockID": 0,
+    "Exp": 700
+  },
+  {
+    "Reward": 0,
+    "RogueAeonID": 2,
+    "Level": 1,
+    "KeyPointRewardItemID": 0,
+    "AeonStory_Name": {
+      "Hash": 371857150
+    },
+    "AeonStory": {
+      "Hash": 371857150
+    },
+    "AeonStoryID": 1,
+    "UnlockID": 0,
+    "Exp": 0
+  },
+  {
+    "Reward": 0,
+    "RogueAeonID": 2,
+    "Level": 2,
+    "KeyPointRewardItemID": 0,
+    "AeonStory_Name": {
+      "Hash": 1911796536
+    },
+    "AeonStory": {
+      "Hash": -972974382
+    },
+    "AeonStoryID": 2,
+    "UnlockID": 0,
+    "Exp": 100
+  },
+  {
+    "Reward": 0,
+    "RogueAeonID": 2,
+    "Level": 3,
+    "KeyPointRewardItemID": 0,
+    "AeonStory_Name": {
+      "Hash": 1911796535
+    },
+    "AeonStory": {
+      "Hash": 593109559
+    },
+    "AeonStoryID": 3,
+    "UnlockID": 15002,
+    "Exp": 200
+  },
+  {
+    "Reward": 0,
+    "RogueAeonID": 2,
+    "Level": 4,
+    "KeyPointRewardItemID": 0,
+    "AeonStory_Name": {
+      "Hash": 1911796538
+    },
+    "AeonStory": {
+      "Hash": -2135773796
+    },
+    "AeonStoryID": 4,
+    "UnlockID": 1000304,
+    "Exp": 300
+  },
+  {
+    "Reward": 0,
+    "RogueAeonID": 2,
+    "Level": 5,
+    "KeyPointRewardItemID": 0,
+    "AeonStory_Name": {
+      "Hash": 371857150
+    },
+    "AeonStory": {
+      "Hash": 371857150
+    },
+    "AeonStoryID": 5,
+    "UnlockID": 0,
+    "Exp": 400
+  },
+  {
+    "Reward": 0,
+    "RogueAeonID": 2,
+    "Level": 6,
+    "KeyPointRewardItemID": 0,
+    "AeonStory_Name": {
+      "Hash": 371857150
+    },
+    "AeonStory": {
+      "Hash": 371857150
+    },
+    "AeonStoryID": 6,
+    "UnlockID": 0,
+    "Exp": 500
+  },
+  {
+    "Reward": 0,
+    "RogueAeonID": 2,
+    "Level": 7,
+    "KeyPointRewardItemID": 0,
+    "AeonStory_Name": {
+      "Hash": 371857150
+    },
+    "AeonStory": {
+      "Hash": 371857150
+    },
+    "AeonStoryID": 7,
+    "UnlockID": 0,
+    "Exp": 600
+  },
+  {
+    "Reward": 0,
+    "RogueAeonID": 2,
+    "Level": 8,
+    "KeyPointRewardItemID": 0,
+    "AeonStory_Name": {
+      "Hash": 371857150
+    },
+    "AeonStory": {
+      "Hash": 371857150
+    },
+    "AeonStoryID": 8,
+    "UnlockID": 0,
+    "Exp": 700
+  },
+  {
+    "Reward": 0,
+    "RogueAeonID": 3,
+    "Level": 1,
+    "KeyPointRewardItemID": 0,
+    "AeonStory_Name": {
+      "Hash": 371857150
+    },
+    "AeonStory": {
+      "Hash": 371857150
+    },
+    "AeonStoryID": 1,
+    "UnlockID": 0,
+    "Exp": 0
+  },
+  {
+    "Reward": 0,
+    "RogueAeonID": 3,
+    "Level": 2,
+    "KeyPointRewardItemID": 0,
+    "AeonStory_Name": {
+      "Hash": 1911796567
+    },
+    "AeonStory": {
+      "Hash": 613312535
+    },
+    "AeonStoryID": 2,
+    "UnlockID": 0,
+    "Exp": 100
+  },
+  {
+    "Reward": 0,
+    "RogueAeonID": 3,
+    "Level": 3,
+    "KeyPointRewardItemID": 0,
+    "AeonStory_Name": {
+      "Hash": 1911796568
+    },
+    "AeonStory": {
+      "Hash": -952771406
+    },
+    "AeonStoryID": 3,
+    "UnlockID": 15003,
+    "Exp": 200
+  },
+  {
+    "Reward": 0,
+    "RogueAeonID": 3,
+    "Level": 4,
+    "KeyPointRewardItemID": 0,
+    "AeonStory_Name": {
+      "Hash": 371857150
+    },
+    "AeonStory": {
+      "Hash": 371857150
+    },
+    "AeonStoryID": 4,
+    "UnlockID": 0,
+    "Exp": 300
+  },
+  {
+    "Reward": 0,
+    "RogueAeonID": 3,
+    "Level": 5,
+    "KeyPointRewardItemID": 0,
+    "AeonStory_Name": {
+      "Hash": 371857150
+    },
+    "AeonStory": {
+      "Hash": 371857150
+    },
+    "AeonStoryID": 5,
+    "UnlockID": 0,
+    "Exp": 400
+  },
+  {
+    "Reward": 0,
+    "RogueAeonID": 3,
+    "Level": 6,
+    "KeyPointRewardItemID": 0,
+    "AeonStory_Name": {
+      "Hash": 371857150
+    },
+    "AeonStory": {
+      "Hash": 371857150
+    },
+    "AeonStoryID": 6,
+    "UnlockID": 0,
+    "Exp": 500
+  },
+  {
+    "Reward": 0,
+    "RogueAeonID": 3,
+    "Level": 7,
+    "KeyPointRewardItemID": 0,
+    "AeonStory_Name": {
+      "Hash": 371857150
+    },
+    "AeonStory": {
+      "Hash": 371857150
+    },
+    "AeonStoryID": 7,
+    "UnlockID": 0,
+    "Exp": 600
+  },
+  {
+    "Reward": 0,
+    "RogueAeonID": 3,
+    "Level": 8,
+    "KeyPointRewardItemID": 0,
+    "AeonStory_Name": {
+      "Hash": 371857150
+    },
+    "AeonStory": {
+      "Hash": 371857150
+    },
+    "AeonStoryID": 8,
+    "UnlockID": 0,
+    "Exp": 700
+  },
+  {
+    "Reward": 0,
+    "RogueAeonID": 4,
+    "Level": 1,
+    "KeyPointRewardItemID": 0,
+    "AeonStory_Name": {
+      "Hash": 371857150
+    },
+    "AeonStory": {
+      "Hash": 371857150
+    },
+    "AeonStoryID": 1,
+    "UnlockID": 0,
+    "Exp": 0
+  },
+  {
+    "Reward": 0,
+    "RogueAeonID": 4,
+    "Level": 2,
+    "KeyPointRewardItemID": 0,
+    "AeonStory_Name": {
+      "Hash": 1911796730
+    },
+    "AeonStory": {
+      "Hash": -2095367844
+    },
+    "AeonStoryID": 2,
+    "UnlockID": 0,
+    "Exp": 100
+  },
+  {
+    "Reward": 0,
+    "RogueAeonID": 4,
+    "Level": 3,
+    "KeyPointRewardItemID": 0,
+    "AeonStory_Name": {
+      "Hash": 1911796729
+    },
+    "AeonStory": {
+      "Hash": -529283903
+    },
+    "AeonStoryID": 3,
+    "UnlockID": 15004,
+    "Exp": 200
+  },
+  {
+    "Reward": 0,
+    "RogueAeonID": 4,
+    "Level": 4,
+    "KeyPointRewardItemID": 0,
+    "AeonStory_Name": {
+      "Hash": 371857150
+    },
+    "AeonStory": {
+      "Hash": 371857150
+    },
+    "AeonStoryID": 4,
+    "UnlockID": 0,
+    "Exp": 300
+  },
+  {
+    "Reward": 0,
+    "RogueAeonID": 4,
+    "Level": 5,
+    "KeyPointRewardItemID": 0,
+    "AeonStory_Name": {
+      "Hash": 371857150
+    },
+    "AeonStory": {
+      "Hash": 371857150
+    },
+    "AeonStoryID": 5,
+    "UnlockID": 0,
+    "Exp": 400
+  },
+  {
+    "Reward": 0,
+    "RogueAeonID": 4,
+    "Level": 6,
+    "KeyPointRewardItemID": 0,
+    "AeonStory_Name": {
+      "Hash": 371857150
+    },
+    "AeonStory": {
+      "Hash": 371857150
+    },
+    "AeonStoryID": 6,
+    "UnlockID": 0,
+    "Exp": 500
+  },
+  {
+    "Reward": 0,
+    "RogueAeonID": 4,
+    "Level": 7,
+    "KeyPointRewardItemID": 0,
+    "AeonStory_Name": {
+      "Hash": 371857150
+    },
+    "AeonStory": {
+      "Hash": 371857150
+    },
+    "AeonStoryID": 7,
+    "UnlockID": 0,
+    "Exp": 600
+  },
+  {
+    "Reward": 0,
+    "RogueAeonID": 4,
+    "Level": 8,
+    "KeyPointRewardItemID": 0,
+    "AeonStory_Name": {
+      "Hash": 371857150
+    },
+    "AeonStory": {
+      "Hash": 371857150
+    },
+    "AeonStoryID": 8,
+    "UnlockID": 0,
+    "Exp": 700
+  },
+  {
+    "Reward": 0,
+    "RogueAeonID": 5,
+    "Level": 1,
+    "KeyPointRewardItemID": 0,
+    "AeonStory_Name": {
+      "Hash": 371857150
+    },
+    "AeonStory": {
+      "Hash": 371857150
+    },
+    "AeonStoryID": 1,
+    "UnlockID": 0,
+    "Exp": 0
+  },
+  {
+    "Reward": 0,
+    "RogueAeonID": 5,
+    "Level": 2,
+    "KeyPointRewardItemID": 0,
+    "AeonStory_Name": {
+      "Hash": 1911796761
+    },
+    "AeonStory": {
+      "Hash": -509080927
+    },
+    "AeonStoryID": 2,
+    "UnlockID": 0,
+    "Exp": 100
+  },
+  {
+    "Reward": 0,
+    "RogueAeonID": 5,
+    "Level": 3,
+    "KeyPointRewardItemID": 0,
+    "AeonStory_Name": {
+      "Hash": 1911796762
+    },
+    "AeonStory": {
+      "Hash": -2075164868
+    },
+    "AeonStoryID": 3,
+    "UnlockID": 15005,
+    "Exp": 200
+  },
+  {
+    "Reward": 0,
+    "RogueAeonID": 5,
+    "Level": 4,
+    "KeyPointRewardItemID": 0,
+    "AeonStory_Name": {
+      "Hash": 371857150
+    },
+    "AeonStory": {
+      "Hash": 371857150
+    },
+    "AeonStoryID": 4,
+    "UnlockID": 0,
+    "Exp": 300
+  },
+  {
+    "Reward": 0,
+    "RogueAeonID": 5,
+    "Level": 5,
+    "KeyPointRewardItemID": 0,
+    "AeonStory_Name": {
+      "Hash": 371857150
+    },
+    "AeonStory": {
+      "Hash": 371857150
+    },
+    "AeonStoryID": 5,
+    "UnlockID": 0,
+    "Exp": 400
+  },
+  {
+    "Reward": 0,
+    "RogueAeonID": 5,
+    "Level": 6,
+    "KeyPointRewardItemID": 0,
+    "AeonStory_Name": {
+      "Hash": 371857150
+    },
+    "AeonStory": {
+      "Hash": 371857150
+    },
+    "AeonStoryID": 6,
+    "UnlockID": 0,
+    "Exp": 500
+  },
+  {
+    "Reward": 0,
+    "RogueAeonID": 5,
+    "Level": 7,
+    "KeyPointRewardItemID": 0,
+    "AeonStory_Name": {
+      "Hash": 371857150
+    },
+    "AeonStory": {
+      "Hash": 371857150
+    },
+    "AeonStoryID": 7,
+    "UnlockID": 0,
+    "Exp": 600
+  },
+  {
+    "Reward": 0,
+    "RogueAeonID": 5,
+    "Level": 8,
+    "KeyPointRewardItemID": 0,
+    "AeonStory_Name": {
+      "Hash": 371857150
+    },
+    "AeonStory": {
+      "Hash": 371857150
+    },
+    "AeonStoryID": 8,
+    "UnlockID": 0,
+    "Exp": 700
+  },
+  {
+    "Reward": 0,
+    "RogueAeonID": 6,
+    "Level": 1,
+    "KeyPointRewardItemID": 0,
+    "AeonStory_Name": {
+      "Hash": 371857150
+    },
+    "AeonStory": {
+      "Hash": 371857150
+    },
+    "AeonStoryID": 1,
+    "UnlockID": 0,
+    "Exp": 0
+  },
+  {
+    "Reward": 0,
+    "RogueAeonID": 6,
+    "Level": 2,
+    "KeyPointRewardItemID": 0,
+    "AeonStory_Name": {
+      "Hash": 1911796668
+    },
+    "AeonStory": {
+      "Hash": -408324378
+    },
+    "AeonStoryID": 2,
+    "UnlockID": 0,
+    "Exp": 100
+  },
+  {
+    "Reward": 0,
+    "RogueAeonID": 6,
+    "Level": 3,
+    "KeyPointRewardItemID": 0,
+    "AeonStory_Name": {
+      "Hash": 1911796667
+    },
+    "AeonStory": {
+      "Hash": 1157759563
+    },
+    "AeonStoryID": 3,
+    "UnlockID": 15006,
+    "Exp": 200
+  },
+  {
+    "Reward": 0,
+    "RogueAeonID": 6,
+    "Level": 4,
+    "KeyPointRewardItemID": 0,
+    "AeonStory_Name": {
+      "Hash": 371857150
+    },
+    "AeonStory": {
+      "Hash": 371857150
+    },
+    "AeonStoryID": 4,
+    "UnlockID": 0,
+    "Exp": 300
+  },
+  {
+    "Reward": 0,
+    "RogueAeonID": 6,
+    "Level": 5,
+    "KeyPointRewardItemID": 0,
+    "AeonStory_Name": {
+      "Hash": 371857150
+    },
+    "AeonStory": {
+      "Hash": 371857150
+    },
+    "AeonStoryID": 5,
+    "UnlockID": 0,
+    "Exp": 400
+  },
+  {
+    "Reward": 0,
+    "RogueAeonID": 6,
+    "Level": 6,
+    "KeyPointRewardItemID": 0,
+    "AeonStory_Name": {
+      "Hash": 371857150
+    },
+    "AeonStory": {
+      "Hash": 371857150
+    },
+    "AeonStoryID": 6,
+    "UnlockID": 0,
+    "Exp": 500
+  },
+  {
+    "Reward": 0,
+    "RogueAeonID": 6,
+    "Level": 7,
+    "KeyPointRewardItemID": 0,
+    "AeonStory_Name": {
+      "Hash": 371857150
+    },
+    "AeonStory": {
+      "Hash": 371857150
+    },
+    "AeonStoryID": 7,
+    "UnlockID": 0,
+    "Exp": 600
+  },
+  {
+    "Reward": 0,
+    "RogueAeonID": 6,
+    "Level": 8,
+    "KeyPointRewardItemID": 0,
+    "AeonStory_Name": {
+      "Hash": 371857150
+    },
+    "AeonStory": {
+      "Hash": 371857150
+    },
+    "AeonStoryID": 8,
+    "UnlockID": 0,
+    "Exp": 700
+  },
+  {
+    "Reward": 0,
+    "RogueAeonID": 7,
+    "Level": 1,
+    "KeyPointRewardItemID": 0,
+    "AeonStory_Name": {
+      "Hash": 371857150
+    },
+    "AeonStory": {
+      "Hash": 371857150
+    },
+    "AeonStoryID": 1,
+    "UnlockID": 0,
+    "Exp": 0
+  },
+  {
+    "Reward": 0,
+    "RogueAeonID": 7,
+    "Level": 2,
+    "KeyPointRewardItemID": 0,
+    "AeonStory_Name": {
+      "Hash": 1911796699
+    },
+    "AeonStory": {
+      "Hash": 1177962539
+    },
+    "AeonStoryID": 2,
+    "UnlockID": 0,
+    "Exp": 100
+  },
+  {
+    "Reward": 0,
+    "RogueAeonID": 7,
+    "Level": 3,
+    "KeyPointRewardItemID": 0,
+    "AeonStory_Name": {
+      "Hash": 1911796700
+    },
+    "AeonStory": {
+      "Hash": -388121402
+    },
+    "AeonStoryID": 3,
+    "UnlockID": 15007,
+    "Exp": 200
+  },
+  {
+    "Reward": 0,
+    "RogueAeonID": 7,
+    "Level": 4,
+    "KeyPointRewardItemID": 0,
+    "AeonStory_Name": {
+      "Hash": 1911796693
+    },
+    "AeonStory": {
+      "Hash": 371393485
+    },
+    "AeonStoryID": 4,
+    "UnlockID": 1000305,
+    "Exp": 300
+  },
+  {
+    "Reward": 0,
+    "RogueAeonID": 7,
+    "Level": 5,
+    "KeyPointRewardItemID": 0,
+    "AeonStory_Name": {
+      "Hash": 371857150
+    },
+    "AeonStory": {
+      "Hash": 371857150
+    },
+    "AeonStoryID": 5,
+    "UnlockID": 0,
+    "Exp": 400
+  },
+  {
+    "Reward": 0,
+    "RogueAeonID": 7,
+    "Level": 6,
+    "KeyPointRewardItemID": 0,
+    "AeonStory_Name": {
+      "Hash": 371857150
+    },
+    "AeonStory": {
+      "Hash": 371857150
+    },
+    "AeonStoryID": 6,
+    "UnlockID": 0,
+    "Exp": 500
+  },
+  {
+    "Reward": 0,
+    "RogueAeonID": 7,
+    "Level": 7,
+    "KeyPointRewardItemID": 0,
+    "AeonStory_Name": {
+      "Hash": 371857150
+    },
+    "AeonStory": {
+      "Hash": 371857150
+    },
+    "AeonStoryID": 7,
+    "UnlockID": 0,
+    "Exp": 600
+  },
+  {
+    "Reward": 0,
+    "RogueAeonID": 7,
+    "Level": 8,
+    "KeyPointRewardItemID": 0,
+    "AeonStory_Name": {
+      "Hash": 371857150
+    },
+    "AeonStory": {
+      "Hash": 371857150
+    },
+    "AeonStoryID": 8,
+    "UnlockID": 0,
+    "Exp": 700
+  },
+  {
+    "Reward": 0,
+    "RogueAeonID": 8,
+    "Level": 1,
+    "KeyPointRewardItemID": 0,
+    "AeonStory_Name": {
+      "Hash": 371857150
+    },
+    "AeonStory": {
+      "Hash": 371857150
+    },
+    "AeonStoryID": 1,
+    "UnlockID": 0,
+    "Exp": 0
+  },
+  {
+    "Reward": 0,
+    "RogueAeonID": 8,
+    "Level": 2,
+    "KeyPointRewardItemID": 0,
+    "AeonStory_Name": {
+      "Hash": 1911796862
+    },
+    "AeonStory": {
+      "Hash": -1530717840
+    },
+    "AeonStoryID": 2,
+    "UnlockID": 0,
+    "Exp": 100
+  },
+  {
+    "Reward": 0,
+    "RogueAeonID": 8,
+    "Level": 3,
+    "KeyPointRewardItemID": 0,
+    "AeonStory_Name": {
+      "Hash": 1911796861
+    },
+    "AeonStory": {
+      "Hash": 35366101
+    },
+    "AeonStoryID": 3,
+    "UnlockID": 1000302,
+    "Exp": 200
+  },
+  {
+    "Reward": 0,
+    "RogueAeonID": 8,
+    "Level": 4,
+    "KeyPointRewardItemID": 0,
+    "AeonStory_Name": {
+      "Hash": 371857150
+    },
+    "AeonStory": {
+      "Hash": 371857150
+    },
+    "AeonStoryID": 4,
+    "UnlockID": 0,
+    "Exp": 300
+  },
+  {
+    "Reward": 0,
+    "RogueAeonID": 8,
+    "Level": 5,
+    "KeyPointRewardItemID": 0,
+    "AeonStory_Name": {
+      "Hash": 371857150
+    },
+    "AeonStory": {
+      "Hash": 371857150
+    },
+    "AeonStoryID": 5,
+    "UnlockID": 0,
+    "Exp": 400
+  },
+  {
+    "Reward": 0,
+    "RogueAeonID": 8,
+    "Level": 6,
+    "KeyPointRewardItemID": 0,
+    "AeonStory_Name": {
+      "Hash": 371857150
+    },
+    "AeonStory": {
+      "Hash": 371857150
+    },
+    "AeonStoryID": 6,
+    "UnlockID": 0,
+    "Exp": 500
+  },
+  {
+    "Reward": 0,
+    "RogueAeonID": 8,
+    "Level": 7,
+    "KeyPointRewardItemID": 0,
+    "AeonStory_Name": {
+      "Hash": 371857150
+    },
+    "AeonStory": {
+      "Hash": 371857150
+    },
+    "AeonStoryID": 7,
+    "UnlockID": 0,
+    "Exp": 600
+  },
+  {
+    "Reward": 0,
+    "RogueAeonID": 8,
+    "Level": 8,
+    "KeyPointRewardItemID": 0,
+    "AeonStory_Name": {
+      "Hash": 371857150
+    },
+    "AeonStory": {
+      "Hash": 371857150
+    },
+    "AeonStoryID": 8,
+    "UnlockID": 0,
+    "Exp": 700
+  }
+]

@@ -1,0 +1,1883 @@
+[
+  {
+    "EffectTypeList": [
+      "Stack",
+      "Turn"
+    ],
+    "TrenchCount": {
+      "Active": 1,
+      "Attach": 1,
+      "Passive": 2
+    },
+    "LockMagicUnit": [
+      {
+        "OBLJDNJKECG": 4001,
+        "KFDGMFMJMIA": 1
+      }
+    ],
+    "FuncType": "SP",
+    "ScepterBasicPower": {
+      "Value": 150.0000000349246
+    },
+    "LimitRangeType": "Eject",
+    "StyleType": "Dot",
+    "UnlockID": 0,
+    "ScepterID": 2001,
+    "ScepterLevel": 1,
+    "StaffMazeBuffID": 682010
+  },
+  {
+    "EffectTypeList": [
+      "Stack",
+      "Turn"
+    ],
+    "TrenchCount": {
+      "Active": 1,
+      "Attach": 2,
+      "Passive": 2
+    },
+    "LockMagicUnit": [
+      {
+        "OBLJDNJKECG": 4001,
+        "KFDGMFMJMIA": 2
+      }
+    ],
+    "FuncType": "SP",
+    "ScepterBasicPower": {
+      "Value": 300.0000000698492
+    },
+    "LimitRangeType": "Eject",
+    "StyleType": "Dot",
+    "UnlockID": 0,
+    "ScepterID": 2001,
+    "ScepterLevel": 2,
+    "StaffMazeBuffID": 682010
+  },
+  {
+    "EffectTypeList": [
+      "Stack",
+      "Turn"
+    ],
+    "TrenchCount": {
+      "Active": 1,
+      "Attach": 2,
+      "Passive": 3
+    },
+    "LockMagicUnit": [
+      {
+        "OBLJDNJKECG": 4001,
+        "KFDGMFMJMIA": 3
+      }
+    ],
+    "FuncType": "SP",
+    "ScepterBasicPower": {
+      "Value": 600.0000001396984
+    },
+    "LimitRangeType": "Eject",
+    "StyleType": "Dot",
+    "UnlockID": 0,
+    "ScepterID": 2001,
+    "ScepterLevel": 3,
+    "StaffMazeBuffID": 682010
+  },
+  {
+    "EffectTypeList": [
+      "Turn"
+    ],
+    "TrenchCount": {
+      "Active": 1,
+      "Attach": 1,
+      "Passive": 2
+    },
+    "LockMagicUnit": [
+      {
+        "OBLJDNJKECG": 4004,
+        "KFDGMFMJMIA": 1
+      }
+    ],
+    "FuncType": "SP",
+    "ScepterBasicPower": {
+      "Value": 150.0000000349246
+    },
+    "LimitRangeType": "Eject",
+    "StyleType": "Follow",
+    "UnlockID": 5013003,
+    "ScepterID": 2002,
+    "ScepterLevel": 1,
+    "StaffMazeBuffID": 682020
+  },
+  {
+    "EffectTypeList": [
+      "Turn"
+    ],
+    "TrenchCount": {
+      "Active": 1,
+      "Attach": 2,
+      "Passive": 2
+    },
+    "LockMagicUnit": [
+      {
+        "OBLJDNJKECG": 4004,
+        "KFDGMFMJMIA": 2
+      }
+    ],
+    "FuncType": "SP",
+    "ScepterBasicPower": {
+      "Value": 300.0000000698492
+    },
+    "LimitRangeType": "Eject",
+    "StyleType": "Follow",
+    "UnlockID": 5013003,
+    "ScepterID": 2002,
+    "ScepterLevel": 2,
+    "StaffMazeBuffID": 682020
+  },
+  {
+    "EffectTypeList": [
+      "Turn"
+    ],
+    "TrenchCount": {
+      "Active": 1,
+      "Attach": 2,
+      "Passive": 3
+    },
+    "LockMagicUnit": [
+      {
+        "OBLJDNJKECG": 4004,
+        "KFDGMFMJMIA": 3
+      }
+    ],
+    "FuncType": "SP",
+    "ScepterBasicPower": {
+      "Value": 600.0000001396984
+    },
+    "LimitRangeType": "Eject",
+    "StyleType": "Follow",
+    "UnlockID": 5013003,
+    "ScepterID": 2002,
+    "ScepterLevel": 3,
+    "StaffMazeBuffID": 682020
+  },
+  {
+    "EffectTypeList": [
+      "Stack"
+    ],
+    "TrenchCount": {
+      "Active": 1,
+      "Attach": 1,
+      "Passive": 2
+    },
+    "LockMagicUnit": [
+      {
+        "OBLJDNJKECG": 4006,
+        "KFDGMFMJMIA": 1
+      }
+    ],
+    "FuncType": "SP",
+    "ScepterBasicPower": {
+      "Value": 150.0000000349246
+    },
+    "LimitRangeType": "Eject",
+    "StyleType": "Ultimate",
+    "UnlockID": 0,
+    "ScepterID": 2003,
+    "ScepterLevel": 1,
+    "StaffMazeBuffID": 682030
+  },
+  {
+    "EffectTypeList": [
+      "Stack"
+    ],
+    "TrenchCount": {
+      "Active": 1,
+      "Attach": 2,
+      "Passive": 2
+    },
+    "LockMagicUnit": [
+      {
+        "OBLJDNJKECG": 4006,
+        "KFDGMFMJMIA": 2
+      }
+    ],
+    "FuncType": "SP",
+    "ScepterBasicPower": {
+      "Value": 300.0000000698492
+    },
+    "LimitRangeType": "Eject",
+    "StyleType": "Ultimate",
+    "UnlockID": 0,
+    "ScepterID": 2003,
+    "ScepterLevel": 2,
+    "StaffMazeBuffID": 682030
+  },
+  {
+    "EffectTypeList": [
+      "Stack"
+    ],
+    "TrenchCount": {
+      "Active": 1,
+      "Attach": 2,
+      "Passive": 3
+    },
+    "LockMagicUnit": [
+      {
+        "OBLJDNJKECG": 4006,
+        "KFDGMFMJMIA": 3
+      }
+    ],
+    "FuncType": "SP",
+    "ScepterBasicPower": {
+      "Value": 600.0000001396984
+    },
+    "LimitRangeType": "Eject",
+    "StyleType": "Ultimate",
+    "UnlockID": 0,
+    "ScepterID": 2003,
+    "ScepterLevel": 3,
+    "StaffMazeBuffID": 682030
+  },
+  {
+    "EffectTypeList": [
+      "Turn"
+    ],
+    "TrenchCount": {
+      "Active": 1,
+      "Attach": 1,
+      "Passive": 2
+    },
+    "LockMagicUnit": [
+      {
+        "OBLJDNJKECG": 4021,
+        "KFDGMFMJMIA": 1
+      }
+    ],
+    "FuncType": "SP",
+    "ScepterBasicPower": {
+      "Value": 150.0000000349246
+    },
+    "LimitRangeType": "Concentrate",
+    "StyleType": "Follow",
+    "UnlockID": 5013001,
+    "ScepterID": 2004,
+    "ScepterLevel": 1,
+    "StaffMazeBuffID": 682040
+  },
+  {
+    "EffectTypeList": [
+      "Turn"
+    ],
+    "TrenchCount": {
+      "Active": 1,
+      "Attach": 2,
+      "Passive": 2
+    },
+    "LockMagicUnit": [
+      {
+        "OBLJDNJKECG": 4021,
+        "KFDGMFMJMIA": 2
+      }
+    ],
+    "FuncType": "SP",
+    "ScepterBasicPower": {
+      "Value": 300.0000000698492
+    },
+    "LimitRangeType": "Concentrate",
+    "StyleType": "Follow",
+    "UnlockID": 5013001,
+    "ScepterID": 2004,
+    "ScepterLevel": 2,
+    "StaffMazeBuffID": 682040
+  },
+  {
+    "EffectTypeList": [
+      "Turn"
+    ],
+    "TrenchCount": {
+      "Active": 1,
+      "Attach": 2,
+      "Passive": 3
+    },
+    "LockMagicUnit": [
+      {
+        "OBLJDNJKECG": 4021,
+        "KFDGMFMJMIA": 3
+      }
+    ],
+    "FuncType": "SP",
+    "ScepterBasicPower": {
+      "Value": 600.0000001396984
+    },
+    "LimitRangeType": "Concentrate",
+    "StyleType": "Follow",
+    "UnlockID": 5013001,
+    "ScepterID": 2004,
+    "ScepterLevel": 3,
+    "StaffMazeBuffID": 682040
+  },
+  {
+    "EffectTypeList": [
+      "None"
+    ],
+    "TrenchCount": {
+      "Active": 1,
+      "Attach": 1,
+      "Passive": 2
+    },
+    "LockMagicUnit": [
+      {
+        "OBLJDNJKECG": 4023,
+        "KFDGMFMJMIA": 1
+      }
+    ],
+    "FuncType": "SP",
+    "ScepterBasicPower": {
+      "Value": 150.0000000349246
+    },
+    "LimitRangeType": "Concentrate",
+    "StyleType": "Break",
+    "UnlockID": 5013002,
+    "ScepterID": 2005,
+    "ScepterLevel": 1,
+    "StaffMazeBuffID": 682050
+  },
+  {
+    "EffectTypeList": [
+      "None"
+    ],
+    "TrenchCount": {
+      "Active": 1,
+      "Attach": 2,
+      "Passive": 2
+    },
+    "LockMagicUnit": [
+      {
+        "OBLJDNJKECG": 4023,
+        "KFDGMFMJMIA": 2
+      }
+    ],
+    "FuncType": "SP",
+    "ScepterBasicPower": {
+      "Value": 300.0000000698492
+    },
+    "LimitRangeType": "Concentrate",
+    "StyleType": "Break",
+    "UnlockID": 5013002,
+    "ScepterID": 2005,
+    "ScepterLevel": 2,
+    "StaffMazeBuffID": 682050
+  },
+  {
+    "EffectTypeList": [
+      "None"
+    ],
+    "TrenchCount": {
+      "Active": 1,
+      "Attach": 2,
+      "Passive": 3
+    },
+    "LockMagicUnit": [
+      {
+        "OBLJDNJKECG": 4023,
+        "KFDGMFMJMIA": 3
+      }
+    ],
+    "FuncType": "SP",
+    "ScepterBasicPower": {
+      "Value": 600.0000001396984
+    },
+    "LimitRangeType": "Concentrate",
+    "StyleType": "Break",
+    "UnlockID": 5013002,
+    "ScepterID": 2005,
+    "ScepterLevel": 3,
+    "StaffMazeBuffID": 682050
+  },
+  {
+    "EffectTypeList": [
+      "Turn"
+    ],
+    "TrenchCount": {
+      "Active": 1,
+      "Attach": 1,
+      "Passive": 2
+    },
+    "LockMagicUnit": [
+      {
+        "OBLJDNJKECG": 4024,
+        "KFDGMFMJMIA": 1
+      }
+    ],
+    "FuncType": "SP",
+    "ScepterBasicPower": {
+      "Value": 150.0000000349246
+    },
+    "LimitRangeType": "Concentrate",
+    "StyleType": "Break",
+    "UnlockID": 5013002,
+    "ScepterID": 2006,
+    "ScepterLevel": 1,
+    "StaffMazeBuffID": 682060
+  },
+  {
+    "EffectTypeList": [
+      "Turn"
+    ],
+    "TrenchCount": {
+      "Active": 1,
+      "Attach": 2,
+      "Passive": 2
+    },
+    "LockMagicUnit": [
+      {
+        "OBLJDNJKECG": 4024,
+        "KFDGMFMJMIA": 2
+      }
+    ],
+    "FuncType": "SP",
+    "ScepterBasicPower": {
+      "Value": 300.0000000698492
+    },
+    "LimitRangeType": "Concentrate",
+    "StyleType": "Break",
+    "UnlockID": 5013002,
+    "ScepterID": 2006,
+    "ScepterLevel": 2,
+    "StaffMazeBuffID": 682060
+  },
+  {
+    "EffectTypeList": [
+      "Turn"
+    ],
+    "TrenchCount": {
+      "Active": 1,
+      "Attach": 2,
+      "Passive": 3
+    },
+    "LockMagicUnit": [
+      {
+        "OBLJDNJKECG": 4024,
+        "KFDGMFMJMIA": 3
+      }
+    ],
+    "FuncType": "SP",
+    "ScepterBasicPower": {
+      "Value": 600.0000001396984
+    },
+    "LimitRangeType": "Concentrate",
+    "StyleType": "Break",
+    "UnlockID": 5013002,
+    "ScepterID": 2006,
+    "ScepterLevel": 3,
+    "StaffMazeBuffID": 682060
+  },
+  {
+    "EffectTypeList": [
+      "None"
+    ],
+    "TrenchCount": {
+      "Active": 1,
+      "Attach": 1,
+      "Passive": 2
+    },
+    "LockMagicUnit": [
+      {
+        "OBLJDNJKECG": 4025,
+        "KFDGMFMJMIA": 1
+      }
+    ],
+    "FuncType": "ActionDelay",
+    "ScepterBasicPower": {
+      "Value": 150.0000000349246
+    },
+    "LimitRangeType": "Concentrate",
+    "StyleType": "Dot",
+    "UnlockID": 5013003,
+    "ScepterID": 2007,
+    "ScepterLevel": 1,
+    "StaffMazeBuffID": 682070
+  },
+  {
+    "EffectTypeList": [
+      "None"
+    ],
+    "TrenchCount": {
+      "Active": 1,
+      "Attach": 2,
+      "Passive": 2
+    },
+    "LockMagicUnit": [
+      {
+        "OBLJDNJKECG": 4025,
+        "KFDGMFMJMIA": 2
+      }
+    ],
+    "FuncType": "ActionDelay",
+    "ScepterBasicPower": {
+      "Value": 300.0000000698492
+    },
+    "LimitRangeType": "Concentrate",
+    "StyleType": "Dot",
+    "UnlockID": 5013003,
+    "ScepterID": 2007,
+    "ScepterLevel": 2,
+    "StaffMazeBuffID": 682070
+  },
+  {
+    "EffectTypeList": [
+      "None"
+    ],
+    "TrenchCount": {
+      "Active": 1,
+      "Attach": 2,
+      "Passive": 3
+    },
+    "LockMagicUnit": [
+      {
+        "OBLJDNJKECG": 4025,
+        "KFDGMFMJMIA": 3
+      }
+    ],
+    "FuncType": "ActionDelay",
+    "ScepterBasicPower": {
+      "Value": 600.0000001396984
+    },
+    "LimitRangeType": "Concentrate",
+    "StyleType": "Dot",
+    "UnlockID": 5013003,
+    "ScepterID": 2007,
+    "ScepterLevel": 3,
+    "StaffMazeBuffID": 682070
+  },
+  {
+    "EffectTypeList": [
+      "None"
+    ],
+    "TrenchCount": {
+      "Active": 1,
+      "Attach": 1,
+      "Passive": 2
+    },
+    "LockMagicUnit": [
+      {
+        "OBLJDNJKECG": 4042,
+        "KFDGMFMJMIA": 1
+      }
+    ],
+    "FuncType": "SP",
+    "ScepterBasicPower": {
+      "Value": 150.0000000349246
+    },
+    "LimitRangeType": "AOE",
+    "StyleType": "Dot",
+    "UnlockID": 0,
+    "ScepterID": 2008,
+    "ScepterLevel": 1,
+    "StaffMazeBuffID": 682080
+  },
+  {
+    "EffectTypeList": [
+      "None"
+    ],
+    "TrenchCount": {
+      "Active": 1,
+      "Attach": 2,
+      "Passive": 2
+    },
+    "LockMagicUnit": [
+      {
+        "OBLJDNJKECG": 4042,
+        "KFDGMFMJMIA": 2
+      }
+    ],
+    "FuncType": "SP",
+    "ScepterBasicPower": {
+      "Value": 300.0000000698492
+    },
+    "LimitRangeType": "AOE",
+    "StyleType": "Dot",
+    "UnlockID": 0,
+    "ScepterID": 2008,
+    "ScepterLevel": 2,
+    "StaffMazeBuffID": 682080
+  },
+  {
+    "EffectTypeList": [
+      "None"
+    ],
+    "TrenchCount": {
+      "Active": 1,
+      "Attach": 2,
+      "Passive": 3
+    },
+    "LockMagicUnit": [
+      {
+        "OBLJDNJKECG": 4042,
+        "KFDGMFMJMIA": 3
+      }
+    ],
+    "FuncType": "SP",
+    "ScepterBasicPower": {
+      "Value": 600.0000001396984
+    },
+    "LimitRangeType": "AOE",
+    "StyleType": "Dot",
+    "UnlockID": 0,
+    "ScepterID": 2008,
+    "ScepterLevel": 3,
+    "StaffMazeBuffID": 682080
+  },
+  {
+    "EffectTypeList": [
+      "Turn"
+    ],
+    "TrenchCount": {
+      "Active": 1,
+      "Attach": 1,
+      "Passive": 2
+    },
+    "LockMagicUnit": [
+      {
+        "OBLJDNJKECG": 4043,
+        "KFDGMFMJMIA": 1
+      }
+    ],
+    "FuncType": "SP",
+    "ScepterBasicPower": {
+      "Value": 150.0000000349246
+    },
+    "LimitRangeType": "AOE",
+    "StyleType": "Ultimate",
+    "UnlockID": 0,
+    "ScepterID": 2009,
+    "ScepterLevel": 1,
+    "StaffMazeBuffID": 682090
+  },
+  {
+    "EffectTypeList": [
+      "Turn"
+    ],
+    "TrenchCount": {
+      "Active": 1,
+      "Attach": 2,
+      "Passive": 2
+    },
+    "LockMagicUnit": [
+      {
+        "OBLJDNJKECG": 4043,
+        "KFDGMFMJMIA": 2
+      }
+    ],
+    "FuncType": "SP",
+    "ScepterBasicPower": {
+      "Value": 300.0000000698492
+    },
+    "LimitRangeType": "AOE",
+    "StyleType": "Ultimate",
+    "UnlockID": 0,
+    "ScepterID": 2009,
+    "ScepterLevel": 2,
+    "StaffMazeBuffID": 682090
+  },
+  {
+    "EffectTypeList": [
+      "Turn"
+    ],
+    "TrenchCount": {
+      "Active": 1,
+      "Attach": 2,
+      "Passive": 3
+    },
+    "LockMagicUnit": [
+      {
+        "OBLJDNJKECG": 4043,
+        "KFDGMFMJMIA": 3
+      }
+    ],
+    "FuncType": "SP",
+    "ScepterBasicPower": {
+      "Value": 600.0000001396984
+    },
+    "LimitRangeType": "AOE",
+    "StyleType": "Ultimate",
+    "UnlockID": 0,
+    "ScepterID": 2009,
+    "ScepterLevel": 3,
+    "StaffMazeBuffID": 682090
+  },
+  {
+    "EffectTypeList": [
+      "Turn"
+    ],
+    "TrenchCount": {
+      "Active": 1,
+      "Attach": 1,
+      "Passive": 2
+    },
+    "LockMagicUnit": [
+      {
+        "OBLJDNJKECG": 4046,
+        "KFDGMFMJMIA": 1
+      }
+    ],
+    "FuncType": "SP",
+    "ScepterBasicPower": {
+      "Value": 150.0000000349246
+    },
+    "LimitRangeType": "AOE",
+    "StyleType": "Follow",
+    "UnlockID": 5013001,
+    "ScepterID": 2010,
+    "ScepterLevel": 1,
+    "StaffMazeBuffID": 682100
+  },
+  {
+    "EffectTypeList": [
+      "Turn"
+    ],
+    "TrenchCount": {
+      "Active": 1,
+      "Attach": 2,
+      "Passive": 2
+    },
+    "LockMagicUnit": [
+      {
+        "OBLJDNJKECG": 4046,
+        "KFDGMFMJMIA": 2
+      }
+    ],
+    "FuncType": "SP",
+    "ScepterBasicPower": {
+      "Value": 300.0000000698492
+    },
+    "LimitRangeType": "AOE",
+    "StyleType": "Follow",
+    "UnlockID": 5013001,
+    "ScepterID": 2010,
+    "ScepterLevel": 2,
+    "StaffMazeBuffID": 682100
+  },
+  {
+    "EffectTypeList": [
+      "Turn"
+    ],
+    "TrenchCount": {
+      "Active": 1,
+      "Attach": 2,
+      "Passive": 3
+    },
+    "LockMagicUnit": [
+      {
+        "OBLJDNJKECG": 4046,
+        "KFDGMFMJMIA": 3
+      }
+    ],
+    "FuncType": "SP",
+    "ScepterBasicPower": {
+      "Value": 600.0000001396984
+    },
+    "LimitRangeType": "AOE",
+    "StyleType": "Follow",
+    "UnlockID": 5013001,
+    "ScepterID": 2010,
+    "ScepterLevel": 3,
+    "StaffMazeBuffID": 682100
+  },
+  {
+    "EffectTypeList": [
+      "Turn"
+    ],
+    "TrenchCount": {
+      "Active": 1,
+      "Attach": 1,
+      "Passive": 2
+    },
+    "LockMagicUnit": [
+      {
+        "OBLJDNJKECG": 4061,
+        "KFDGMFMJMIA": 1
+      }
+    ],
+    "FuncType": "SP",
+    "ScepterBasicPower": {
+      "Value": 150.0000000349246
+    },
+    "LimitRangeType": "Spread",
+    "StyleType": "Ultimate",
+    "UnlockID": 5013005,
+    "ScepterID": 2011,
+    "ScepterLevel": 1,
+    "StaffMazeBuffID": 682110
+  },
+  {
+    "EffectTypeList": [
+      "Turn"
+    ],
+    "TrenchCount": {
+      "Active": 1,
+      "Attach": 2,
+      "Passive": 2
+    },
+    "LockMagicUnit": [
+      {
+        "OBLJDNJKECG": 4061,
+        "KFDGMFMJMIA": 2
+      }
+    ],
+    "FuncType": "SP",
+    "ScepterBasicPower": {
+      "Value": 300.0000000698492
+    },
+    "LimitRangeType": "Spread",
+    "StyleType": "Ultimate",
+    "UnlockID": 5013005,
+    "ScepterID": 2011,
+    "ScepterLevel": 2,
+    "StaffMazeBuffID": 682110
+  },
+  {
+    "EffectTypeList": [
+      "Turn"
+    ],
+    "TrenchCount": {
+      "Active": 1,
+      "Attach": 2,
+      "Passive": 3
+    },
+    "LockMagicUnit": [
+      {
+        "OBLJDNJKECG": 4061,
+        "KFDGMFMJMIA": 3
+      }
+    ],
+    "FuncType": "SP",
+    "ScepterBasicPower": {
+      "Value": 600.0000001396984
+    },
+    "LimitRangeType": "Spread",
+    "StyleType": "Ultimate",
+    "UnlockID": 5013005,
+    "ScepterID": 2011,
+    "ScepterLevel": 3,
+    "StaffMazeBuffID": 682110
+  },
+  {
+    "EffectTypeList": [
+      "Stack"
+    ],
+    "TrenchCount": {
+      "Active": 1,
+      "Attach": 1,
+      "Passive": 2
+    },
+    "LockMagicUnit": [
+      {
+        "OBLJDNJKECG": 4063,
+        "KFDGMFMJMIA": 1
+      }
+    ],
+    "FuncType": "SP",
+    "ScepterBasicPower": {
+      "Value": 150.0000000349246
+    },
+    "LimitRangeType": "Spread",
+    "StyleType": "Break",
+    "UnlockID": 5013005,
+    "ScepterID": 2012,
+    "ScepterLevel": 1,
+    "StaffMazeBuffID": 682120
+  },
+  {
+    "EffectTypeList": [
+      "Stack"
+    ],
+    "TrenchCount": {
+      "Active": 1,
+      "Attach": 2,
+      "Passive": 2
+    },
+    "LockMagicUnit": [
+      {
+        "OBLJDNJKECG": 4063,
+        "KFDGMFMJMIA": 2
+      }
+    ],
+    "FuncType": "SP",
+    "ScepterBasicPower": {
+      "Value": 300.0000000698492
+    },
+    "LimitRangeType": "Spread",
+    "StyleType": "Break",
+    "UnlockID": 5013005,
+    "ScepterID": 2012,
+    "ScepterLevel": 2,
+    "StaffMazeBuffID": 682120
+  },
+  {
+    "EffectTypeList": [
+      "Stack"
+    ],
+    "TrenchCount": {
+      "Active": 1,
+      "Attach": 2,
+      "Passive": 3
+    },
+    "LockMagicUnit": [
+      {
+        "OBLJDNJKECG": 4063,
+        "KFDGMFMJMIA": 3
+      }
+    ],
+    "FuncType": "SP",
+    "ScepterBasicPower": {
+      "Value": 600.0000001396984
+    },
+    "LimitRangeType": "Spread",
+    "StyleType": "Break",
+    "UnlockID": 5013005,
+    "ScepterID": 2012,
+    "ScepterLevel": 3,
+    "StaffMazeBuffID": 682120
+  },
+  {
+    "EffectTypeList": [
+      "Turn"
+    ],
+    "TrenchCount": {
+      "Active": 1,
+      "Attach": 1,
+      "Passive": 2
+    },
+    "LockMagicUnit": [
+      {
+        "OBLJDNJKECG": 4065,
+        "KFDGMFMJMIA": 1
+      }
+    ],
+    "FuncType": "SP",
+    "ScepterBasicPower": {
+      "Value": 150.0000000349246
+    },
+    "LimitRangeType": "Spread",
+    "StyleType": "Dot",
+    "UnlockID": 0,
+    "ScepterID": 2013,
+    "ScepterLevel": 1,
+    "StaffMazeBuffID": 682130
+  },
+  {
+    "EffectTypeList": [
+      "Turn"
+    ],
+    "TrenchCount": {
+      "Active": 1,
+      "Attach": 2,
+      "Passive": 2
+    },
+    "LockMagicUnit": [
+      {
+        "OBLJDNJKECG": 4065,
+        "KFDGMFMJMIA": 2
+      }
+    ],
+    "FuncType": "SP",
+    "ScepterBasicPower": {
+      "Value": 300.0000000698492
+    },
+    "LimitRangeType": "Spread",
+    "StyleType": "Dot",
+    "UnlockID": 0,
+    "ScepterID": 2013,
+    "ScepterLevel": 2,
+    "StaffMazeBuffID": 682130
+  },
+  {
+    "EffectTypeList": [
+      "Turn"
+    ],
+    "TrenchCount": {
+      "Active": 1,
+      "Attach": 2,
+      "Passive": 3
+    },
+    "LockMagicUnit": [
+      {
+        "OBLJDNJKECG": 4065,
+        "KFDGMFMJMIA": 3
+      }
+    ],
+    "FuncType": "SP",
+    "ScepterBasicPower": {
+      "Value": 600.0000001396984
+    },
+    "LimitRangeType": "Spread",
+    "StyleType": "Dot",
+    "UnlockID": 0,
+    "ScepterID": 2013,
+    "ScepterLevel": 3,
+    "StaffMazeBuffID": 682130
+  },
+  {
+    "EffectTypeList": [
+      "Stack",
+      "Turn"
+    ],
+    "TrenchCount": {
+      "Active": 1,
+      "Attach": 1,
+      "Passive": 2
+    },
+    "LockMagicUnit": [
+      {
+        "OBLJDNJKECG": 4002,
+        "KFDGMFMJMIA": 1
+      }
+    ],
+    "FuncType": "ActionDelay",
+    "ScepterBasicPower": {
+      "Value": 150.0000000349246
+    },
+    "LimitRangeType": "Eject",
+    "StyleType": "Dot",
+    "UnlockID": 5013001,
+    "ScepterID": 3001,
+    "ScepterLevel": 1,
+    "StaffMazeBuffID": 687010
+  },
+  {
+    "EffectTypeList": [
+      "Stack",
+      "Turn"
+    ],
+    "TrenchCount": {
+      "Active": 1,
+      "Attach": 2,
+      "Passive": 2
+    },
+    "LockMagicUnit": [
+      {
+        "OBLJDNJKECG": 4002,
+        "KFDGMFMJMIA": 2
+      }
+    ],
+    "FuncType": "ActionDelay",
+    "ScepterBasicPower": {
+      "Value": 300.0000000698492
+    },
+    "LimitRangeType": "Eject",
+    "StyleType": "Dot",
+    "UnlockID": 5013001,
+    "ScepterID": 3001,
+    "ScepterLevel": 2,
+    "StaffMazeBuffID": 687010
+  },
+  {
+    "EffectTypeList": [
+      "Stack",
+      "Turn"
+    ],
+    "TrenchCount": {
+      "Active": 1,
+      "Attach": 2,
+      "Passive": 3
+    },
+    "LockMagicUnit": [
+      {
+        "OBLJDNJKECG": 4002,
+        "KFDGMFMJMIA": 3
+      }
+    ],
+    "FuncType": "ActionDelay",
+    "ScepterBasicPower": {
+      "Value": 600.0000001396984
+    },
+    "LimitRangeType": "Eject",
+    "StyleType": "Dot",
+    "UnlockID": 5013001,
+    "ScepterID": 3001,
+    "ScepterLevel": 3,
+    "StaffMazeBuffID": 687010
+  },
+  {
+    "EffectTypeList": [
+      "Stack",
+      "Turn"
+    ],
+    "TrenchCount": {
+      "Active": 1,
+      "Attach": 1,
+      "Passive": 2
+    },
+    "LockMagicUnit": [
+      {
+        "OBLJDNJKECG": 4003,
+        "KFDGMFMJMIA": 1
+      }
+    ],
+    "FuncType": "ActionDelay",
+    "ScepterBasicPower": {
+      "Value": 150.0000000349246
+    },
+    "LimitRangeType": "Eject",
+    "StyleType": "Follow",
+    "UnlockID": 5013001,
+    "ScepterID": 3002,
+    "ScepterLevel": 1,
+    "StaffMazeBuffID": 687020
+  },
+  {
+    "EffectTypeList": [
+      "Stack",
+      "Turn"
+    ],
+    "TrenchCount": {
+      "Active": 1,
+      "Attach": 2,
+      "Passive": 2
+    },
+    "LockMagicUnit": [
+      {
+        "OBLJDNJKECG": 4003,
+        "KFDGMFMJMIA": 2
+      }
+    ],
+    "FuncType": "ActionDelay",
+    "ScepterBasicPower": {
+      "Value": 300.0000000698492
+    },
+    "LimitRangeType": "Eject",
+    "StyleType": "Follow",
+    "UnlockID": 5013001,
+    "ScepterID": 3002,
+    "ScepterLevel": 2,
+    "StaffMazeBuffID": 687020
+  },
+  {
+    "EffectTypeList": [
+      "Stack",
+      "Turn"
+    ],
+    "TrenchCount": {
+      "Active": 1,
+      "Attach": 2,
+      "Passive": 3
+    },
+    "LockMagicUnit": [
+      {
+        "OBLJDNJKECG": 4003,
+        "KFDGMFMJMIA": 3
+      }
+    ],
+    "FuncType": "ActionDelay",
+    "ScepterBasicPower": {
+      "Value": 600.0000001396984
+    },
+    "LimitRangeType": "Eject",
+    "StyleType": "Follow",
+    "UnlockID": 5013001,
+    "ScepterID": 3002,
+    "ScepterLevel": 3,
+    "StaffMazeBuffID": 687020
+  },
+  {
+    "EffectTypeList": [
+      "None"
+    ],
+    "TrenchCount": {
+      "Active": 1,
+      "Attach": 1,
+      "Passive": 2
+    },
+    "LockMagicUnit": [
+      {
+        "OBLJDNJKECG": 4022,
+        "KFDGMFMJMIA": 1
+      }
+    ],
+    "FuncType": "ActionDelay",
+    "ScepterBasicPower": {
+      "Value": 150.0000000349246
+    },
+    "LimitRangeType": "Concentrate",
+    "StyleType": "Follow",
+    "UnlockID": 5013005,
+    "ScepterID": 3003,
+    "ScepterLevel": 1,
+    "StaffMazeBuffID": 687030
+  },
+  {
+    "EffectTypeList": [
+      "None"
+    ],
+    "TrenchCount": {
+      "Active": 1,
+      "Attach": 2,
+      "Passive": 2
+    },
+    "LockMagicUnit": [
+      {
+        "OBLJDNJKECG": 4022,
+        "KFDGMFMJMIA": 2
+      }
+    ],
+    "FuncType": "ActionDelay",
+    "ScepterBasicPower": {
+      "Value": 300.0000000698492
+    },
+    "LimitRangeType": "Concentrate",
+    "StyleType": "Follow",
+    "UnlockID": 5013005,
+    "ScepterID": 3003,
+    "ScepterLevel": 2,
+    "StaffMazeBuffID": 687030
+  },
+  {
+    "EffectTypeList": [
+      "None"
+    ],
+    "TrenchCount": {
+      "Active": 1,
+      "Attach": 2,
+      "Passive": 3
+    },
+    "LockMagicUnit": [
+      {
+        "OBLJDNJKECG": 4022,
+        "KFDGMFMJMIA": 3
+      }
+    ],
+    "FuncType": "ActionDelay",
+    "ScepterBasicPower": {
+      "Value": 600.0000001396984
+    },
+    "LimitRangeType": "Concentrate",
+    "StyleType": "Follow",
+    "UnlockID": 5013005,
+    "ScepterID": 3003,
+    "ScepterLevel": 3,
+    "StaffMazeBuffID": 687030
+  },
+  {
+    "EffectTypeList": [
+      "Turn"
+    ],
+    "TrenchCount": {
+      "Active": 1,
+      "Attach": 1,
+      "Passive": 2
+    },
+    "LockMagicUnit": [
+      {
+        "OBLJDNJKECG": 4026,
+        "KFDGMFMJMIA": 1
+      }
+    ],
+    "FuncType": "ActionDelay",
+    "ScepterBasicPower": {
+      "Value": 150.0000000349246
+    },
+    "LimitRangeType": "Concentrate",
+    "StyleType": "Ultimate",
+    "UnlockID": 5013002,
+    "ScepterID": 3004,
+    "ScepterLevel": 1,
+    "StaffMazeBuffID": 687040
+  },
+  {
+    "EffectTypeList": [
+      "Turn"
+    ],
+    "TrenchCount": {
+      "Active": 1,
+      "Attach": 2,
+      "Passive": 2
+    },
+    "LockMagicUnit": [
+      {
+        "OBLJDNJKECG": 4026,
+        "KFDGMFMJMIA": 2
+      }
+    ],
+    "FuncType": "ActionDelay",
+    "ScepterBasicPower": {
+      "Value": 300.0000000698492
+    },
+    "LimitRangeType": "Concentrate",
+    "StyleType": "Ultimate",
+    "UnlockID": 5013002,
+    "ScepterID": 3004,
+    "ScepterLevel": 2,
+    "StaffMazeBuffID": 687040
+  },
+  {
+    "EffectTypeList": [
+      "Turn"
+    ],
+    "TrenchCount": {
+      "Active": 1,
+      "Attach": 2,
+      "Passive": 3
+    },
+    "LockMagicUnit": [
+      {
+        "OBLJDNJKECG": 4026,
+        "KFDGMFMJMIA": 3
+      }
+    ],
+    "FuncType": "ActionDelay",
+    "ScepterBasicPower": {
+      "Value": 600.0000001396984
+    },
+    "LimitRangeType": "Concentrate",
+    "StyleType": "Ultimate",
+    "UnlockID": 5013002,
+    "ScepterID": 3004,
+    "ScepterLevel": 3,
+    "StaffMazeBuffID": 687040
+  },
+  {
+    "EffectTypeList": [
+      "Turn"
+    ],
+    "TrenchCount": {
+      "Active": 1,
+      "Attach": 1,
+      "Passive": 2
+    },
+    "LockMagicUnit": [
+      {
+        "OBLJDNJKECG": 4041,
+        "KFDGMFMJMIA": 1
+      }
+    ],
+    "FuncType": "ActionDelay",
+    "ScepterBasicPower": {
+      "Value": 150.0000000349246
+    },
+    "LimitRangeType": "AOE",
+    "StyleType": "Dot",
+    "UnlockID": 5013002,
+    "ScepterID": 3005,
+    "ScepterLevel": 1,
+    "StaffMazeBuffID": 687050
+  },
+  {
+    "EffectTypeList": [
+      "Turn"
+    ],
+    "TrenchCount": {
+      "Active": 1,
+      "Attach": 2,
+      "Passive": 2
+    },
+    "LockMagicUnit": [
+      {
+        "OBLJDNJKECG": 4041,
+        "KFDGMFMJMIA": 2
+      }
+    ],
+    "FuncType": "ActionDelay",
+    "ScepterBasicPower": {
+      "Value": 300.0000000698492
+    },
+    "LimitRangeType": "AOE",
+    "StyleType": "Dot",
+    "UnlockID": 5013002,
+    "ScepterID": 3005,
+    "ScepterLevel": 2,
+    "StaffMazeBuffID": 687050
+  },
+  {
+    "EffectTypeList": [
+      "Turn"
+    ],
+    "TrenchCount": {
+      "Active": 1,
+      "Attach": 2,
+      "Passive": 3
+    },
+    "LockMagicUnit": [
+      {
+        "OBLJDNJKECG": 4041,
+        "KFDGMFMJMIA": 3
+      }
+    ],
+    "FuncType": "ActionDelay",
+    "ScepterBasicPower": {
+      "Value": 600.0000001396984
+    },
+    "LimitRangeType": "AOE",
+    "StyleType": "Dot",
+    "UnlockID": 5013002,
+    "ScepterID": 3005,
+    "ScepterLevel": 3,
+    "StaffMazeBuffID": 687050
+  },
+  {
+    "EffectTypeList": [
+      "None"
+    ],
+    "TrenchCount": {
+      "Active": 1,
+      "Attach": 1,
+      "Passive": 2
+    },
+    "LockMagicUnit": [
+      {
+        "OBLJDNJKECG": 4044,
+        "KFDGMFMJMIA": 1
+      }
+    ],
+    "FuncType": "ActionDelay",
+    "ScepterBasicPower": {
+      "Value": 150.0000000349246
+    },
+    "LimitRangeType": "AOE",
+    "StyleType": "Ultimate",
+    "UnlockID": 5013001,
+    "ScepterID": 3006,
+    "ScepterLevel": 1,
+    "StaffMazeBuffID": 687060
+  },
+  {
+    "EffectTypeList": [
+      "None"
+    ],
+    "TrenchCount": {
+      "Active": 1,
+      "Attach": 2,
+      "Passive": 2
+    },
+    "LockMagicUnit": [
+      {
+        "OBLJDNJKECG": 4044,
+        "KFDGMFMJMIA": 2
+      }
+    ],
+    "FuncType": "ActionDelay",
+    "ScepterBasicPower": {
+      "Value": 300.0000000698492
+    },
+    "LimitRangeType": "AOE",
+    "StyleType": "Ultimate",
+    "UnlockID": 5013001,
+    "ScepterID": 3006,
+    "ScepterLevel": 2,
+    "StaffMazeBuffID": 687060
+  },
+  {
+    "EffectTypeList": [
+      "None"
+    ],
+    "TrenchCount": {
+      "Active": 1,
+      "Attach": 2,
+      "Passive": 3
+    },
+    "LockMagicUnit": [
+      {
+        "OBLJDNJKECG": 4044,
+        "KFDGMFMJMIA": 3
+      }
+    ],
+    "FuncType": "ActionDelay",
+    "ScepterBasicPower": {
+      "Value": 600.0000001396984
+    },
+    "LimitRangeType": "AOE",
+    "StyleType": "Ultimate",
+    "UnlockID": 5013001,
+    "ScepterID": 3006,
+    "ScepterLevel": 3,
+    "StaffMazeBuffID": 687060
+  },
+  {
+    "EffectTypeList": [
+      "Turn"
+    ],
+    "TrenchCount": {
+      "Active": 1,
+      "Attach": 1,
+      "Passive": 2
+    },
+    "LockMagicUnit": [
+      {
+        "OBLJDNJKECG": 4062,
+        "KFDGMFMJMIA": 1
+      }
+    ],
+    "FuncType": "ActionDelay",
+    "ScepterBasicPower": {
+      "Value": 150.0000000349246
+    },
+    "LimitRangeType": "Spread",
+    "StyleType": "Ultimate",
+    "UnlockID": 5013003,
+    "ScepterID": 3007,
+    "ScepterLevel": 1,
+    "StaffMazeBuffID": 687070
+  },
+  {
+    "EffectTypeList": [
+      "Turn"
+    ],
+    "TrenchCount": {
+      "Active": 1,
+      "Attach": 2,
+      "Passive": 2
+    },
+    "LockMagicUnit": [
+      {
+        "OBLJDNJKECG": 4062,
+        "KFDGMFMJMIA": 2
+      }
+    ],
+    "FuncType": "ActionDelay",
+    "ScepterBasicPower": {
+      "Value": 300.0000000698492
+    },
+    "LimitRangeType": "Spread",
+    "StyleType": "Ultimate",
+    "UnlockID": 5013003,
+    "ScepterID": 3007,
+    "ScepterLevel": 2,
+    "StaffMazeBuffID": 687070
+  },
+  {
+    "EffectTypeList": [
+      "Turn"
+    ],
+    "TrenchCount": {
+      "Active": 1,
+      "Attach": 2,
+      "Passive": 3
+    },
+    "LockMagicUnit": [
+      {
+        "OBLJDNJKECG": 4062,
+        "KFDGMFMJMIA": 3
+      }
+    ],
+    "FuncType": "ActionDelay",
+    "ScepterBasicPower": {
+      "Value": 600.0000001396984
+    },
+    "LimitRangeType": "Spread",
+    "StyleType": "Ultimate",
+    "UnlockID": 5013003,
+    "ScepterID": 3007,
+    "ScepterLevel": 3,
+    "StaffMazeBuffID": 687070
+  },
+  {
+    "EffectTypeList": [
+      "None"
+    ],
+    "TrenchCount": {
+      "Active": 1,
+      "Attach": 1,
+      "Passive": 2
+    },
+    "LockMagicUnit": [
+      {
+        "OBLJDNJKECG": 4066,
+        "KFDGMFMJMIA": 1
+      }
+    ],
+    "FuncType": "ActionDelay",
+    "ScepterBasicPower": {
+      "Value": 150.0000000349246
+    },
+    "LimitRangeType": "Spread",
+    "StyleType": "Follow",
+    "UnlockID": 5013005,
+    "ScepterID": 3008,
+    "ScepterLevel": 1,
+    "StaffMazeBuffID": 687080
+  },
+  {
+    "EffectTypeList": [
+      "None"
+    ],
+    "TrenchCount": {
+      "Active": 1,
+      "Attach": 2,
+      "Passive": 2
+    },
+    "LockMagicUnit": [
+      {
+        "OBLJDNJKECG": 4066,
+        "KFDGMFMJMIA": 2
+      }
+    ],
+    "FuncType": "ActionDelay",
+    "ScepterBasicPower": {
+      "Value": 300.0000000698492
+    },
+    "LimitRangeType": "Spread",
+    "StyleType": "Follow",
+    "UnlockID": 5013005,
+    "ScepterID": 3008,
+    "ScepterLevel": 2,
+    "StaffMazeBuffID": 687080
+  },
+  {
+    "EffectTypeList": [
+      "None"
+    ],
+    "TrenchCount": {
+      "Active": 1,
+      "Attach": 2,
+      "Passive": 3
+    },
+    "LockMagicUnit": [
+      {
+        "OBLJDNJKECG": 4066,
+        "KFDGMFMJMIA": 3
+      }
+    ],
+    "FuncType": "ActionDelay",
+    "ScepterBasicPower": {
+      "Value": 600.0000001396984
+    },
+    "LimitRangeType": "Spread",
+    "StyleType": "Follow",
+    "UnlockID": 5013005,
+    "ScepterID": 3008,
+    "ScepterLevel": 3,
+    "StaffMazeBuffID": 687080
+  },
+  {
+    "EffectTypeList": [
+      "Stack"
+    ],
+    "TrenchCount": {
+      "Active": 1,
+      "Attach": 1,
+      "Passive": 2
+    },
+    "LockMagicUnit": [
+      {
+        "OBLJDNJKECG": 4005,
+        "KFDGMFMJMIA": 1
+      }
+    ],
+    "FuncType": "ActionDelay",
+    "ScepterBasicPower": {
+      "Value": 150.0000000349246
+    },
+    "LimitRangeType": "Eject",
+    "StyleType": "Break",
+    "UnlockID": 5013005,
+    "ScepterID": 3009,
+    "ScepterLevel": 1,
+    "StaffMazeBuffID": 687090
+  },
+  {
+    "EffectTypeList": [
+      "Stack"
+    ],
+    "TrenchCount": {
+      "Active": 1,
+      "Attach": 2,
+      "Passive": 2
+    },
+    "LockMagicUnit": [
+      {
+        "OBLJDNJKECG": 4005,
+        "KFDGMFMJMIA": 2
+      }
+    ],
+    "FuncType": "ActionDelay",
+    "ScepterBasicPower": {
+      "Value": 300.0000000698492
+    },
+    "LimitRangeType": "Eject",
+    "StyleType": "Break",
+    "UnlockID": 5013005,
+    "ScepterID": 3009,
+    "ScepterLevel": 2,
+    "StaffMazeBuffID": 687090
+  },
+  {
+    "EffectTypeList": [
+      "Stack"
+    ],
+    "TrenchCount": {
+      "Active": 1,
+      "Attach": 2,
+      "Passive": 3
+    },
+    "LockMagicUnit": [
+      {
+        "OBLJDNJKECG": 4005,
+        "KFDGMFMJMIA": 3
+      }
+    ],
+    "FuncType": "ActionDelay",
+    "ScepterBasicPower": {
+      "Value": 600.0000001396984
+    },
+    "LimitRangeType": "Eject",
+    "StyleType": "Break",
+    "UnlockID": 5013005,
+    "ScepterID": 3009,
+    "ScepterLevel": 3,
+    "StaffMazeBuffID": 687090
+  },
+  {
+    "EffectTypeList": [
+      "Turn"
+    ],
+    "TrenchCount": {
+      "Active": 1,
+      "Attach": 1,
+      "Passive": 2
+    },
+    "LockMagicUnit": [
+      {
+        "OBLJDNJKECG": 4045,
+        "KFDGMFMJMIA": 1
+      }
+    ],
+    "FuncType": "ActionDelay",
+    "ScepterBasicPower": {
+      "Value": 150.0000000349246
+    },
+    "LimitRangeType": "AOE",
+    "StyleType": "Break",
+    "UnlockID": 5013002,
+    "ScepterID": 3010,
+    "ScepterLevel": 1,
+    "StaffMazeBuffID": 687100
+  },
+  {
+    "EffectTypeList": [
+      "Turn"
+    ],
+    "TrenchCount": {
+      "Active": 1,
+      "Attach": 2,
+      "Passive": 2
+    },
+    "LockMagicUnit": [
+      {
+        "OBLJDNJKECG": 4045,
+        "KFDGMFMJMIA": 2
+      }
+    ],
+    "FuncType": "ActionDelay",
+    "ScepterBasicPower": {
+      "Value": 300.0000000698492
+    },
+    "LimitRangeType": "AOE",
+    "StyleType": "Break",
+    "UnlockID": 5013002,
+    "ScepterID": 3010,
+    "ScepterLevel": 2,
+    "StaffMazeBuffID": 687100
+  },
+  {
+    "EffectTypeList": [
+      "Turn"
+    ],
+    "TrenchCount": {
+      "Active": 1,
+      "Attach": 2,
+      "Passive": 3
+    },
+    "LockMagicUnit": [
+      {
+        "OBLJDNJKECG": 4045,
+        "KFDGMFMJMIA": 3
+      }
+    ],
+    "FuncType": "ActionDelay",
+    "ScepterBasicPower": {
+      "Value": 600.0000001396984
+    },
+    "LimitRangeType": "AOE",
+    "StyleType": "Break",
+    "UnlockID": 5013002,
+    "ScepterID": 3010,
+    "ScepterLevel": 3,
+    "StaffMazeBuffID": 687100
+  },
+  {
+    "EffectTypeList": [
+      "Turn"
+    ],
+    "TrenchCount": {
+      "Active": 1,
+      "Attach": 1,
+      "Passive": 2
+    },
+    "LockMagicUnit": [
+      {
+        "OBLJDNJKECG": 4064,
+        "KFDGMFMJMIA": 1
+      }
+    ],
+    "FuncType": "ActionDelay",
+    "ScepterBasicPower": {
+      "Value": 150.0000000349246
+    },
+    "LimitRangeType": "Spread",
+    "StyleType": "Break",
+    "UnlockID": 5013003,
+    "ScepterID": 3011,
+    "ScepterLevel": 1,
+    "StaffMazeBuffID": 687110
+  },
+  {
+    "EffectTypeList": [
+      "Turn"
+    ],
+    "TrenchCount": {
+      "Active": 1,
+      "Attach": 2,
+      "Passive": 2
+    },
+    "LockMagicUnit": [
+      {
+        "OBLJDNJKECG": 4064,
+        "KFDGMFMJMIA": 2
+      }
+    ],
+    "FuncType": "ActionDelay",
+    "ScepterBasicPower": {
+      "Value": 300.0000000698492
+    },
+    "LimitRangeType": "Spread",
+    "StyleType": "Break",
+    "UnlockID": 5013003,
+    "ScepterID": 3011,
+    "ScepterLevel": 2,
+    "StaffMazeBuffID": 687110
+  },
+  {
+    "EffectTypeList": [
+      "Turn"
+    ],
+    "TrenchCount": {
+      "Active": 1,
+      "Attach": 2,
+      "Passive": 3
+    },
+    "LockMagicUnit": [
+      {
+        "OBLJDNJKECG": 4064,
+        "KFDGMFMJMIA": 3
+      }
+    ],
+    "FuncType": "ActionDelay",
+    "ScepterBasicPower": {
+      "Value": 600.0000001396984
+    },
+    "LimitRangeType": "Spread",
+    "StyleType": "Break",
+    "UnlockID": 5013003,
+    "ScepterID": 3011,
+    "ScepterLevel": 3,
+    "StaffMazeBuffID": 687110
+  }
+]

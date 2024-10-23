@@ -1,0 +1,1361 @@
+[
+  {
+    "MultiTarget": [],
+    "AbilityName": "BattleTarget_FantasticStoryBattleScore1",
+    "HintStep": [
+      0,
+      30000
+    ],
+    "IsFixableHeight": false,
+    "ShowInScoreCounter": false,
+    "ID": 2001,
+    "TargetNameSimple": {
+      "Hash": -1189776312
+    },
+    "TargetParam": 30000,
+    "IconType": "Round",
+    "TargetName": {
+      "Hash": -1687625818
+    },
+    "IsShowProgress": 0,
+    "Type": "PassTarget",
+    "ParamType": "GreaterEqual"
+  },
+  {
+    "MultiTarget": [
+      40000,
+      50000
+    ],
+    "AbilityName": "BattleTarget_FantasticStoryBattleScore2",
+    "HintStep": [
+      0,
+      60000
+    ],
+    "IsFixableHeight": false,
+    "ShowInScoreCounter": true,
+    "ID": 2002,
+    "TargetNameSimple": {
+      "Hash": 376307629
+    },
+    "TargetParam": 60000,
+    "IconType": "Star",
+    "TargetName": {
+      "Hash": -2090910345
+    },
+    "IsShowProgress": 0,
+    "Type": "ChallengeTarget",
+    "ParamType": "GreaterEqual"
+  },
+  {
+    "MultiTarget": [],
+    "AbilityName": "",
+    "HintStep": [
+      0,
+      1
+    ],
+    "IsFixableHeight": false,
+    "ShowInScoreCounter": false,
+    "ID": 5000401,
+    "TargetNameSimple": {
+      "Hash": -1164450255
+    },
+    "TargetParam": 1,
+    "IconType": "Star",
+    "TargetName": {
+      "Hash": -293001425
+    },
+    "IsShowProgress": 0,
+    "Type": "ChallengeTarget",
+    "ParamType": "GreaterEqual"
+  },
+  {
+    "MultiTarget": [],
+    "AbilityName": "",
+    "HintStep": [
+      0,
+      1
+    ],
+    "IsFixableHeight": false,
+    "ShowInScoreCounter": false,
+    "ID": 5000402,
+    "TargetNameSimple": {
+      "Hash": -1164450254
+    },
+    "TargetParam": 1,
+    "IconType": "Star",
+    "TargetName": {
+      "Hash": -293001424
+    },
+    "IsShowProgress": 0,
+    "Type": "ChallengeTarget",
+    "ParamType": "GreaterEqual"
+  },
+  {
+    "MultiTarget": [],
+    "AbilityName": "",
+    "HintStep": [
+      0,
+      1
+    ],
+    "IsFixableHeight": false,
+    "ShowInScoreCounter": false,
+    "ID": 5000403,
+    "TargetNameSimple": {
+      "Hash": -1164450253
+    },
+    "TargetParam": 1,
+    "IconType": "Star",
+    "TargetName": {
+      "Hash": -293001423
+    },
+    "IsShowProgress": 0,
+    "Type": "ChallengeTarget",
+    "ParamType": "GreaterEqual"
+  },
+  {
+    "MultiTarget": [],
+    "AbilityName": "",
+    "HintStep": [
+      0,
+      1
+    ],
+    "IsFixableHeight": false,
+    "ShowInScoreCounter": false,
+    "ID": 5000404,
+    "TargetNameSimple": {
+      "Hash": -1164450260
+    },
+    "TargetParam": 1,
+    "IconType": "Star",
+    "TargetName": {
+      "Hash": -293001422
+    },
+    "IsShowProgress": 0,
+    "Type": "ChallengeTarget",
+    "ParamType": "GreaterEqual"
+  },
+  {
+    "MultiTarget": [],
+    "AbilityName": "",
+    "HintStep": [
+      0,
+      1
+    ],
+    "IsFixableHeight": false,
+    "ShowInScoreCounter": false,
+    "ID": 5000405,
+    "TargetNameSimple": {
+      "Hash": -1164450259
+    },
+    "TargetParam": 1,
+    "IconType": "Star",
+    "TargetName": {
+      "Hash": -293001421
+    },
+    "IsShowProgress": 0,
+    "Type": "ChallengeTarget",
+    "ParamType": "GreaterEqual"
+  },
+  {
+    "MultiTarget": [
+      30000,
+      40000
+    ],
+    "AbilityName": "",
+    "HintStep": [
+      0,
+      55000
+    ],
+    "IsFixableHeight": false,
+    "ShowInScoreCounter": false,
+    "ID": 5000501,
+    "TargetNameSimple": {
+      "Hash": -1164450288
+    },
+    "TargetParam": 55000,
+    "IconType": "Star",
+    "TargetName": {
+      "Hash": -293001458
+    },
+    "IsShowProgress": 1,
+    "Type": "ChallengeTarget",
+    "ParamType": "GreaterEqual"
+  },
+  {
+    "MultiTarget": [],
+    "AbilityName": "",
+    "HintStep": [
+      0,
+      40000
+    ],
+    "IsFixableHeight": false,
+    "ShowInScoreCounter": false,
+    "ID": 5000502,
+    "TargetNameSimple": {
+      "Hash": -1164450285
+    },
+    "TargetParam": 40000,
+    "IconType": "Star",
+    "TargetName": {
+      "Hash": -293001455
+    },
+    "IsShowProgress": 1,
+    "Type": "ChallengeTarget",
+    "ParamType": "GreaterEqual"
+  },
+  {
+    "MultiTarget": [],
+    "AbilityName": "",
+    "HintStep": [
+      0,
+      60000
+    ],
+    "IsFixableHeight": false,
+    "ShowInScoreCounter": false,
+    "ID": 5000503,
+    "TargetNameSimple": {
+      "Hash": -1164450286
+    },
+    "TargetParam": 60000,
+    "IconType": "Star",
+    "TargetName": {
+      "Hash": -293001456
+    },
+    "IsShowProgress": 1,
+    "Type": "ChallengeTarget",
+    "ParamType": "GreaterEqual"
+  },
+  {
+    "MultiTarget": [],
+    "AbilityName": "BattleTarget_EnemyActionEventCount",
+    "HintStep": [
+      0,
+      1,
+      2
+    ],
+    "IsFixableHeight": true,
+    "ShowInScoreCounter": false,
+    "ID": 50006011,
+    "TargetNameSimple": {
+      "Hash": -1355493528
+    },
+    "TargetParam": 2,
+    "IconType": "Star",
+    "TargetName": {
+      "Hash": 300373062
+    },
+    "IsShowProgress": 1,
+    "Type": "ChallengeTarget",
+    "ParamType": "LessEqual"
+  },
+  {
+    "MultiTarget": [],
+    "AbilityName": "BattleTarget_EnemyActionEventCount",
+    "HintStep": [
+      0,
+      1
+    ],
+    "IsFixableHeight": true,
+    "ShowInScoreCounter": false,
+    "ID": 50006012,
+    "TargetNameSimple": {
+      "Hash": 210590413
+    },
+    "TargetParam": 1,
+    "IconType": "Star",
+    "TargetName": {
+      "Hash": -102911465
+    },
+    "IsShowProgress": 1,
+    "Type": "ChallengeTarget",
+    "ParamType": "LessEqual"
+  },
+  {
+    "MultiTarget": [],
+    "AbilityName": "BattleTarget_DeathCount",
+    "HintStep": [],
+    "IsFixableHeight": true,
+    "ShowInScoreCounter": false,
+    "ID": 5000602,
+    "TargetNameSimple": {
+      "Hash": -1164450192
+    },
+    "TargetParam": 0,
+    "IconType": "Star",
+    "TargetName": {
+      "Hash": -293001362
+    },
+    "IsShowProgress": 1,
+    "Type": "ChallengeTarget",
+    "ParamType": "LessEqual"
+  },
+  {
+    "MultiTarget": [],
+    "AbilityName": "BattleTarget_TurnLimit",
+    "HintStep": [
+      1,
+      2,
+      3
+    ],
+    "IsFixableHeight": true,
+    "ShowInScoreCounter": false,
+    "ID": 50006071,
+    "TargetNameSimple": {
+      "Hash": -1355493534
+    },
+    "TargetParam": 4,
+    "IconType": "Star",
+    "TargetName": {
+      "Hash": 300373064
+    },
+    "IsShowProgress": 1,
+    "Type": "ChallengeTarget",
+    "ParamType": "LessEqual"
+  },
+  {
+    "MultiTarget": [],
+    "AbilityName": "BattleTarget_TurnLimit",
+    "HintStep": [
+      1,
+      2,
+      3
+    ],
+    "IsFixableHeight": true,
+    "ShowInScoreCounter": false,
+    "ID": 50006072,
+    "TargetNameSimple": {
+      "Hash": 210590407
+    },
+    "TargetParam": 4,
+    "IconType": "Star",
+    "TargetName": {
+      "Hash": -102911463
+    },
+    "IsShowProgress": 1,
+    "Type": "ChallengeTarget",
+    "ParamType": "LessEqual"
+  },
+  {
+    "MultiTarget": [],
+    "AbilityName": "BattleTarget_TurnLimit",
+    "HintStep": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "IsFixableHeight": true,
+    "ShowInScoreCounter": false,
+    "ID": 50006073,
+    "TargetNameSimple": {
+      "Hash": 1776674348
+    },
+    "TargetParam": 5,
+    "IconType": "Star",
+    "TargetName": {
+      "Hash": 1463172478
+    },
+    "IsShowProgress": 1,
+    "Type": "ChallengeTarget",
+    "ParamType": "LessEqual"
+  },
+  {
+    "MultiTarget": [],
+    "AbilityName": "BattleTarget_TurnLimit",
+    "HintStep": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "IsFixableHeight": true,
+    "ShowInScoreCounter": false,
+    "ID": 50006074,
+    "TargetNameSimple": {
+      "Hash": -595978647
+    },
+    "TargetParam": 5,
+    "IconType": "Star",
+    "TargetName": {
+      "Hash": 1059887951
+    },
+    "IsShowProgress": 1,
+    "Type": "ChallengeTarget",
+    "ParamType": "LessEqual"
+  },
+  {
+    "MultiTarget": [
+      30000,
+      40000,
+      60000
+    ],
+    "AbilityName": "",
+    "HintStep": [
+      0,
+      80000
+    ],
+    "IsFixableHeight": false,
+    "ShowInScoreCounter": false,
+    "ID": 5000701,
+    "TargetNameSimple": {
+      "Hash": -1164450222
+    },
+    "TargetParam": 80000,
+    "IconType": "Round",
+    "TargetName": {
+      "Hash": -293001392
+    },
+    "IsShowProgress": 1,
+    "Type": "ChallengeTarget",
+    "ParamType": "GreaterEqual"
+  },
+  {
+    "MultiTarget": [
+      40000,
+      60000
+    ],
+    "AbilityName": "",
+    "HintStep": [
+      0,
+      80000
+    ],
+    "IsFixableHeight": false,
+    "ShowInScoreCounter": false,
+    "ID": 5000702,
+    "TargetNameSimple": {
+      "Hash": -1164450223
+    },
+    "TargetParam": 80000,
+    "IconType": "Round",
+    "TargetName": {
+      "Hash": -293001393
+    },
+    "IsShowProgress": 1,
+    "Type": "ChallengeTarget",
+    "ParamType": "GreaterEqual"
+  },
+  {
+    "MultiTarget": [],
+    "AbilityName": "",
+    "HintStep": [
+      0,
+      5
+    ],
+    "IsFixableHeight": false,
+    "ShowInScoreCounter": false,
+    "ID": 5000703,
+    "TargetNameSimple": {
+      "Hash": -1164450224
+    },
+    "TargetParam": 5,
+    "IconType": "Round",
+    "TargetName": {
+      "Hash": -293001394
+    },
+    "IsShowProgress": 1,
+    "Type": "ChallengeTarget",
+    "ParamType": "GreaterEqual"
+  },
+  {
+    "MultiTarget": [],
+    "AbilityName": "",
+    "HintStep": [
+      0,
+      20
+    ],
+    "IsFixableHeight": false,
+    "ShowInScoreCounter": false,
+    "ID": 5000704,
+    "TargetNameSimple": {
+      "Hash": -1164450225
+    },
+    "TargetParam": 20,
+    "IconType": "Round",
+    "TargetName": {
+      "Hash": -293001387
+    },
+    "IsShowProgress": 1,
+    "Type": "ChallengeTarget",
+    "ParamType": "GreaterEqual"
+  },
+  {
+    "MultiTarget": [],
+    "AbilityName": "",
+    "HintStep": [
+      0,
+      12
+    ],
+    "IsFixableHeight": false,
+    "ShowInScoreCounter": false,
+    "ID": 5000705,
+    "TargetNameSimple": {
+      "Hash": -1164450226
+    },
+    "TargetParam": 12,
+    "IconType": "Round",
+    "TargetName": {
+      "Hash": -293001388
+    },
+    "IsShowProgress": 1,
+    "Type": "ChallengeTarget",
+    "ParamType": "GreaterEqual"
+  },
+  {
+    "MultiTarget": [],
+    "AbilityName": "",
+    "HintStep": [
+      0,
+      4
+    ],
+    "IsFixableHeight": false,
+    "ShowInScoreCounter": false,
+    "ID": 5000706,
+    "TargetNameSimple": {
+      "Hash": -1164450227
+    },
+    "TargetParam": 4,
+    "IconType": "Round",
+    "TargetName": {
+      "Hash": -293001389
+    },
+    "IsShowProgress": 1,
+    "Type": "ChallengeTarget",
+    "ParamType": "GreaterEqual"
+  },
+  {
+    "MultiTarget": [],
+    "AbilityName": "BattleTarget_FeverTime_Fever",
+    "HintStep": [
+      0,
+      1
+    ],
+    "IsFixableHeight": false,
+    "ShowInScoreCounter": false,
+    "ID": 5000800,
+    "TargetNameSimple": {
+      "Hash": -1164450652
+    },
+    "TargetParam": 1,
+    "IconType": "Round",
+    "TargetName": {
+      "Hash": -293001030
+    },
+    "IsShowProgress": 0,
+    "Type": "ChallengeTarget",
+    "ParamType": "GreaterEqual"
+  },
+  {
+    "MultiTarget": [],
+    "AbilityName": "BattleTarget_FeverTime_Wave1",
+    "HintStep": [
+      0,
+      1
+    ],
+    "IsFixableHeight": false,
+    "ShowInScoreCounter": false,
+    "ID": 5000801,
+    "TargetNameSimple": {
+      "Hash": -1164450651
+    },
+    "TargetParam": 1,
+    "IconType": "Round",
+    "TargetName": {
+      "Hash": -293001029
+    },
+    "IsShowProgress": 0,
+    "Type": "ChallengeTarget",
+    "ParamType": "GreaterEqual"
+  },
+  {
+    "MultiTarget": [],
+    "AbilityName": "BattleTarget_FeverTime_Wave2",
+    "HintStep": [
+      0,
+      1
+    ],
+    "IsFixableHeight": false,
+    "ShowInScoreCounter": false,
+    "ID": 5000802,
+    "TargetNameSimple": {
+      "Hash": -1164450650
+    },
+    "TargetParam": 1,
+    "IconType": "Round",
+    "TargetName": {
+      "Hash": -293001028
+    },
+    "IsShowProgress": 0,
+    "Type": "ChallengeTarget",
+    "ParamType": "GreaterEqual"
+  },
+  {
+    "MultiTarget": [],
+    "AbilityName": "BattleTarget_FeverTime_Wave3",
+    "HintStep": [
+      0,
+      1
+    ],
+    "IsFixableHeight": false,
+    "ShowInScoreCounter": false,
+    "ID": 5000803,
+    "TargetNameSimple": {
+      "Hash": -1164450649
+    },
+    "TargetParam": 1,
+    "IconType": "Round",
+    "TargetName": {
+      "Hash": -293001027
+    },
+    "IsShowProgress": 0,
+    "Type": "ChallengeTarget",
+    "ParamType": "GreaterEqual"
+  },
+  {
+    "MultiTarget": [],
+    "AbilityName": "",
+    "HintStep": [
+      0,
+      1
+    ],
+    "IsFixableHeight": false,
+    "ShowInScoreCounter": false,
+    "ID": 5000901,
+    "TargetNameSimple": {
+      "Hash": -1164450684
+    },
+    "TargetParam": 1,
+    "IconType": "Round",
+    "TargetName": {
+      "Hash": -293001062
+    },
+    "IsShowProgress": 0,
+    "Type": "ChallengeTarget",
+    "ParamType": "GreaterEqual"
+  },
+  {
+    "MultiTarget": [],
+    "AbilityName": "",
+    "HintStep": [
+      0,
+      1
+    ],
+    "IsFixableHeight": false,
+    "ShowInScoreCounter": false,
+    "ID": 5000902,
+    "TargetNameSimple": {
+      "Hash": -1164450681
+    },
+    "TargetParam": 1,
+    "IconType": "Round",
+    "TargetName": {
+      "Hash": -293001059
+    },
+    "IsShowProgress": 0,
+    "Type": "ChallengeTarget",
+    "ParamType": "GreaterEqual"
+  },
+  {
+    "MultiTarget": [],
+    "AbilityName": "",
+    "HintStep": [
+      0,
+      1500
+    ],
+    "IsFixableHeight": false,
+    "ShowInScoreCounter": true,
+    "ID": 5001001,
+    "TargetNameSimple": {
+      "Hash": 1826554994
+    },
+    "TargetParam": 1500,
+    "IconType": "Star",
+    "TargetName": {
+      "Hash": -1596963208
+    },
+    "IsShowProgress": 0,
+    "Type": "ChallengeTarget",
+    "ParamType": "GreaterEqual"
+  },
+  {
+    "MultiTarget": [],
+    "AbilityName": "",
+    "HintStep": [
+      0,
+      15
+    ],
+    "IsFixableHeight": false,
+    "ShowInScoreCounter": false,
+    "ID": 5001002,
+    "TargetNameSimple": {
+      "Hash": 1826554995
+    },
+    "TargetParam": 15,
+    "IconType": "Star",
+    "TargetName": {
+      "Hash": -1596963207
+    },
+    "IsShowProgress": 1,
+    "Type": "ChallengeTarget",
+    "ParamType": "GreaterEqual"
+  },
+  {
+    "MultiTarget": [],
+    "AbilityName": "",
+    "HintStep": [
+      0,
+      500
+    ],
+    "IsFixableHeight": false,
+    "ShowInScoreCounter": false,
+    "ID": 5001003,
+    "TargetNameSimple": {
+      "Hash": 1826554996
+    },
+    "TargetParam": 500,
+    "IconType": "Star",
+    "TargetName": {
+      "Hash": -1596963206
+    },
+    "IsShowProgress": 1,
+    "Type": "ChallengeTarget",
+    "ParamType": "GreaterEqual"
+  },
+  {
+    "MultiTarget": [],
+    "AbilityName": "",
+    "HintStep": [
+      0,
+      4000
+    ],
+    "IsFixableHeight": false,
+    "ShowInScoreCounter": true,
+    "ID": 5001004,
+    "TargetNameSimple": {
+      "Hash": 1826554997
+    },
+    "TargetParam": 4000,
+    "IconType": "Star",
+    "TargetName": {
+      "Hash": -1596963213
+    },
+    "IsShowProgress": 0,
+    "Type": "ChallengeTarget",
+    "ParamType": "GreaterEqual"
+  },
+  {
+    "MultiTarget": [],
+    "AbilityName": "",
+    "HintStep": [
+      0,
+      10000
+    ],
+    "IsFixableHeight": false,
+    "ShowInScoreCounter": true,
+    "ID": 5001005,
+    "TargetNameSimple": {
+      "Hash": 1826554998
+    },
+    "TargetParam": 10000,
+    "IconType": "Star",
+    "TargetName": {
+      "Hash": -1596963212
+    },
+    "IsShowProgress": 0,
+    "Type": "ChallengeTarget",
+    "ParamType": "GreaterEqual"
+  },
+  {
+    "MultiTarget": [],
+    "AbilityName": "BattleTarget_StarBattle_1",
+    "HintStep": [
+      0,
+      1
+    ],
+    "IsFixableHeight": false,
+    "ShowInScoreCounter": false,
+    "ID": 5001101,
+    "TargetNameSimple": {
+      "Hash": 1826554961
+    },
+    "TargetParam": 1,
+    "IconType": "Star",
+    "TargetName": {
+      "Hash": -1596963241
+    },
+    "IsShowProgress": 0,
+    "Type": "ChallengeTarget",
+    "ParamType": "GreaterEqual"
+  },
+  {
+    "MultiTarget": [],
+    "AbilityName": "BattleTarget_StarBattle_2",
+    "HintStep": [
+      0,
+      1
+    ],
+    "IsFixableHeight": false,
+    "ShowInScoreCounter": false,
+    "ID": 5001102,
+    "TargetNameSimple": {
+      "Hash": 1826554964
+    },
+    "TargetParam": 1,
+    "IconType": "Star",
+    "TargetName": {
+      "Hash": -1596963238
+    },
+    "IsShowProgress": 0,
+    "Type": "ChallengeTarget",
+    "ParamType": "GreaterEqual"
+  },
+  {
+    "MultiTarget": [],
+    "AbilityName": "BattleTarget_StarBattle_3",
+    "HintStep": [
+      0,
+      1
+    ],
+    "IsFixableHeight": false,
+    "ShowInScoreCounter": false,
+    "ID": 5001103,
+    "TargetNameSimple": {
+      "Hash": 1826554963
+    },
+    "TargetParam": 1,
+    "IconType": "Star",
+    "TargetName": {
+      "Hash": -1596963239
+    },
+    "IsShowProgress": 0,
+    "Type": "ChallengeTarget",
+    "ParamType": "GreaterEqual"
+  },
+  {
+    "MultiTarget": [],
+    "AbilityName": "BattleTarget_StarBattle_Easy",
+    "HintStep": [
+      0,
+      1
+    ],
+    "IsFixableHeight": false,
+    "ShowInScoreCounter": false,
+    "ID": 5001104,
+    "TargetNameSimple": {
+      "Hash": 1826554966
+    },
+    "TargetParam": 1,
+    "IconType": "Star",
+    "TargetName": {
+      "Hash": -1596963244
+    },
+    "IsShowProgress": 0,
+    "Type": "ChallengeTarget",
+    "ParamType": "GreaterEqual"
+  },
+  {
+    "MultiTarget": [],
+    "AbilityName": "ActivitySummon_BattleTarget_Easy",
+    "HintStep": [
+      0,
+      1
+    ],
+    "IsFixableHeight": false,
+    "ShowInScoreCounter": false,
+    "ID": 5001201,
+    "TargetNameSimple": {
+      "Hash": 1826555060
+    },
+    "TargetParam": 1,
+    "IconType": "Round",
+    "TargetName": {
+      "Hash": -1596963142
+    },
+    "IsShowProgress": 0,
+    "Type": "ChallengeTarget",
+    "ParamType": "GreaterEqual"
+  },
+  {
+    "MultiTarget": [],
+    "AbilityName": "ActivitySummon_BattleTarget_LifeCount",
+    "HintStep": [
+      0,
+      1
+    ],
+    "IsFixableHeight": false,
+    "ShowInScoreCounter": false,
+    "ID": 5001202,
+    "TargetNameSimple": {
+      "Hash": 1826555057
+    },
+    "TargetParam": 1,
+    "IconType": "Star",
+    "TargetName": {
+      "Hash": -1596963145
+    },
+    "IsShowProgress": 0,
+    "Type": "ChallengeTarget",
+    "ParamType": "GreaterEqual"
+  },
+  {
+    "MultiTarget": [],
+    "AbilityName": "ActivitySummon_BattleTarget_2",
+    "HintStep": [
+      0,
+      1
+    ],
+    "IsFixableHeight": false,
+    "ShowInScoreCounter": false,
+    "ID": 5001203,
+    "TargetNameSimple": {
+      "Hash": 1826555058
+    },
+    "TargetParam": 5,
+    "IconType": "Star",
+    "TargetName": {
+      "Hash": -1596963144
+    },
+    "IsShowProgress": 0,
+    "Type": "ChallengeTarget",
+    "ParamType": "GreaterEqual"
+  },
+  {
+    "MultiTarget": [],
+    "AbilityName": "ActivitySummon_BattleTarget_3",
+    "HintStep": [
+      0,
+      1
+    ],
+    "IsFixableHeight": false,
+    "ShowInScoreCounter": false,
+    "ID": 5001204,
+    "TargetNameSimple": {
+      "Hash": 1826555063
+    },
+    "TargetParam": 5,
+    "IconType": "Star",
+    "TargetName": {
+      "Hash": -1596963147
+    },
+    "IsShowProgress": 0,
+    "Type": "ChallengeTarget",
+    "ParamType": "GreaterEqual"
+  },
+  {
+    "MultiTarget": [],
+    "AbilityName": "ActivitySummon_BattleTarget_Upgrade",
+    "HintStep": [
+      0,
+      1
+    ],
+    "IsFixableHeight": false,
+    "ShowInScoreCounter": false,
+    "ID": 5001205,
+    "TargetNameSimple": {
+      "Hash": 1826555064
+    },
+    "TargetParam": 1,
+    "IconType": "Star",
+    "TargetName": {
+      "Hash": -1596963146
+    },
+    "IsShowProgress": 0,
+    "Type": "ChallengeTarget",
+    "ParamType": "GreaterEqual"
+  },
+  {
+    "MultiTarget": [],
+    "AbilityName": "ActivitySummon_BattleTarget_2",
+    "HintStep": [
+      0,
+      1
+    ],
+    "IsFixableHeight": false,
+    "ShowInScoreCounter": false,
+    "ID": 5001206,
+    "TargetNameSimple": {
+      "Hash": 1826555061
+    },
+    "TargetParam": 5,
+    "IconType": "Star",
+    "TargetName": {
+      "Hash": -1596963149
+    },
+    "IsShowProgress": 0,
+    "Type": "ChallengeTarget",
+    "ParamType": "GreaterEqual"
+  },
+  {
+    "MultiTarget": [],
+    "AbilityName": "ActivitySummon_BattleTarget_3",
+    "HintStep": [
+      0,
+      1
+    ],
+    "IsFixableHeight": false,
+    "ShowInScoreCounter": false,
+    "ID": 5001207,
+    "TargetNameSimple": {
+      "Hash": 1826555062
+    },
+    "TargetParam": 5,
+    "IconType": "Star",
+    "TargetName": {
+      "Hash": -1596963148
+    },
+    "IsShowProgress": 0,
+    "Type": "ChallengeTarget",
+    "ParamType": "GreaterEqual"
+  },
+  {
+    "MultiTarget": [],
+    "AbilityName": "ActivitySummon_BattleTarget_LifeCount",
+    "HintStep": [
+      0,
+      1
+    ],
+    "IsFixableHeight": false,
+    "ShowInScoreCounter": false,
+    "ID": 5001208,
+    "TargetNameSimple": {
+      "Hash": 1826555051
+    },
+    "TargetParam": 2,
+    "IconType": "Star",
+    "TargetName": {
+      "Hash": -1596963135
+    },
+    "IsShowProgress": 0,
+    "Type": "ChallengeTarget",
+    "ParamType": "GreaterEqual"
+  },
+  {
+    "MultiTarget": [],
+    "AbilityName": "ActivitySummon_BattleTarget_2",
+    "HintStep": [
+      0,
+      1
+    ],
+    "IsFixableHeight": false,
+    "ShowInScoreCounter": false,
+    "ID": 5001209,
+    "TargetNameSimple": {
+      "Hash": 1826555052
+    },
+    "TargetParam": 5,
+    "IconType": "Star",
+    "TargetName": {
+      "Hash": -1596963134
+    },
+    "IsShowProgress": 0,
+    "Type": "ChallengeTarget",
+    "ParamType": "GreaterEqual"
+  },
+  {
+    "MultiTarget": [],
+    "AbilityName": "ActivitySummon_BattleTarget_3",
+    "HintStep": [
+      0,
+      1
+    ],
+    "IsFixableHeight": false,
+    "ShowInScoreCounter": false,
+    "ID": 5001210,
+    "TargetNameSimple": {
+      "Hash": 260471118
+    },
+    "TargetParam": 5,
+    "IconType": "Star",
+    "TargetName": {
+      "Hash": 1131920212
+    },
+    "IsShowProgress": 0,
+    "Type": "ChallengeTarget",
+    "ParamType": "GreaterEqual"
+  },
+  {
+    "MultiTarget": [],
+    "AbilityName": "ActivitySummon_BattleTarget_Upgrade",
+    "HintStep": [
+      0,
+      1
+    ],
+    "IsFixableHeight": false,
+    "ShowInScoreCounter": false,
+    "ID": 5001211,
+    "TargetNameSimple": {
+      "Hash": 260471119
+    },
+    "TargetParam": 1,
+    "IconType": "Star",
+    "TargetName": {
+      "Hash": 1131920213
+    },
+    "IsShowProgress": 0,
+    "Type": "ChallengeTarget",
+    "ParamType": "GreaterEqual"
+  },
+  {
+    "MultiTarget": [],
+    "AbilityName": "ActivitySummon_BattleTarget_2",
+    "HintStep": [
+      0,
+      1
+    ],
+    "IsFixableHeight": false,
+    "ShowInScoreCounter": false,
+    "ID": 5001212,
+    "TargetNameSimple": {
+      "Hash": 260471116
+    },
+    "TargetParam": 5,
+    "IconType": "Star",
+    "TargetName": {
+      "Hash": 1131920210
+    },
+    "IsShowProgress": 0,
+    "Type": "ChallengeTarget",
+    "ParamType": "GreaterEqual"
+  },
+  {
+    "MultiTarget": [],
+    "AbilityName": "ActivitySummon_BattleTarget_3",
+    "HintStep": [
+      0,
+      1
+    ],
+    "IsFixableHeight": false,
+    "ShowInScoreCounter": false,
+    "ID": 5001213,
+    "TargetNameSimple": {
+      "Hash": 260471117
+    },
+    "TargetParam": 5,
+    "IconType": "Star",
+    "TargetName": {
+      "Hash": 1131920211
+    },
+    "IsShowProgress": 0,
+    "Type": "ChallengeTarget",
+    "ParamType": "GreaterEqual"
+  },
+  {
+    "MultiTarget": [],
+    "AbilityName": "ActivitySummon_BattleTarget_BombCount",
+    "HintStep": [
+      0,
+      1
+    ],
+    "IsFixableHeight": false,
+    "ShowInScoreCounter": false,
+    "ID": 5001214,
+    "TargetNameSimple": {
+      "Hash": 260471122
+    },
+    "TargetParam": 1,
+    "IconType": "Star",
+    "TargetName": {
+      "Hash": 1131920208
+    },
+    "IsShowProgress": 0,
+    "Type": "ChallengeTarget",
+    "ParamType": "GreaterEqual"
+  },
+  {
+    "MultiTarget": [],
+    "AbilityName": "ActivitySummon_BattleTarget_2",
+    "HintStep": [
+      0,
+      1
+    ],
+    "IsFixableHeight": false,
+    "ShowInScoreCounter": false,
+    "ID": 5001215,
+    "TargetNameSimple": {
+      "Hash": 260471123
+    },
+    "TargetParam": 5,
+    "IconType": "Star",
+    "TargetName": {
+      "Hash": 1131920209
+    },
+    "IsShowProgress": 0,
+    "Type": "ChallengeTarget",
+    "ParamType": "GreaterEqual"
+  },
+  {
+    "MultiTarget": [],
+    "AbilityName": "ActivitySummon_BattleTarget_3",
+    "HintStep": [
+      0,
+      1
+    ],
+    "IsFixableHeight": false,
+    "ShowInScoreCounter": false,
+    "ID": 5001216,
+    "TargetNameSimple": {
+      "Hash": 260471120
+    },
+    "TargetParam": 5,
+    "IconType": "Star",
+    "TargetName": {
+      "Hash": 1131920206
+    },
+    "IsShowProgress": 0,
+    "Type": "ChallengeTarget",
+    "ParamType": "GreaterEqual"
+  },
+  {
+    "MultiTarget": [],
+    "AbilityName": "BattleTarget_FightFest_Wave1",
+    "HintStep": [
+      0,
+      1
+    ],
+    "IsFixableHeight": false,
+    "ShowInScoreCounter": false,
+    "ID": 5001301,
+    "TargetNameSimple": {
+      "Hash": 1826555027
+    },
+    "TargetParam": 1,
+    "IconType": "Round",
+    "TargetName": {
+      "Hash": -1596963175
+    },
+    "IsShowProgress": 0,
+    "Type": "ChallengeTarget",
+    "ParamType": "GreaterEqual"
+  },
+  {
+    "MultiTarget": [],
+    "AbilityName": "BattleTarget_FightFest_Wave2",
+    "HintStep": [
+      0,
+      1
+    ],
+    "IsFixableHeight": false,
+    "ShowInScoreCounter": false,
+    "ID": 5001302,
+    "TargetNameSimple": {
+      "Hash": 1826555026
+    },
+    "TargetParam": 1,
+    "IconType": "Round",
+    "TargetName": {
+      "Hash": -1596963176
+    },
+    "IsShowProgress": 0,
+    "Type": "ChallengeTarget",
+    "ParamType": "GreaterEqual"
+  },
+  {
+    "MultiTarget": [],
+    "AbilityName": "BattleTarget_FightFest_Wave3",
+    "HintStep": [
+      0,
+      1
+    ],
+    "IsFixableHeight": false,
+    "ShowInScoreCounter": false,
+    "ID": 5001303,
+    "TargetNameSimple": {
+      "Hash": 1826555025
+    },
+    "TargetParam": 1,
+    "IconType": "Round",
+    "TargetName": {
+      "Hash": -1596963177
+    },
+    "IsShowProgress": 0,
+    "Type": "ChallengeTarget",
+    "ParamType": "GreaterEqual"
+  },
+  {
+    "MultiTarget": [],
+    "AbilityName": "BattleTarget_FightFest_Fever",
+    "HintStep": [
+      0,
+      1
+    ],
+    "IsFixableHeight": false,
+    "ShowInScoreCounter": false,
+    "ID": 5001304,
+    "TargetNameSimple": {
+      "Hash": 1826555032
+    },
+    "TargetParam": 1,
+    "IconType": "Round",
+    "TargetName": {
+      "Hash": -1596963178
+    },
+    "IsShowProgress": 0,
+    "Type": "ChallengeTarget",
+    "ParamType": "GreaterEqual"
+  },
+  {
+    "MultiTarget": [],
+    "AbilityName": "BattleTarget_RogueMagic_MiddleElite_1",
+    "HintStep": [
+      0,
+      1
+    ],
+    "IsFixableHeight": false,
+    "ShowInScoreCounter": false,
+    "ID": 5001401,
+    "TargetNameSimple": {
+      "Hash": 1826555126
+    },
+    "TargetParam": 1,
+    "IconType": "Round",
+    "TargetName": {
+      "Hash": -1596963340
+    },
+    "IsShowProgress": 0,
+    "Type": "ChallengeTarget",
+    "ParamType": "GreaterEqual"
+  },
+  {
+    "MultiTarget": [],
+    "AbilityName": "BattleTarget_RogueMagic_MiddleElite_2",
+    "HintStep": [
+      0,
+      1
+    ],
+    "IsFixableHeight": false,
+    "ShowInScoreCounter": false,
+    "ID": 5001402,
+    "TargetNameSimple": {
+      "Hash": 1826555127
+    },
+    "TargetParam": 1,
+    "IconType": "Round",
+    "TargetName": {
+      "Hash": -1596963339
+    },
+    "IsShowProgress": 0,
+    "Type": "ChallengeTarget",
+    "ParamType": "GreaterEqual"
+  },
+  {
+    "MultiTarget": [],
+    "AbilityName": "BattleTarget_DeathCount",
+    "HintStep": [
+      0,
+      1
+    ],
+    "IsFixableHeight": true,
+    "ShowInScoreCounter": false,
+    "ID": 9000101,
+    "TargetNameSimple": {
+      "Hash": -1164594168
+    },
+    "TargetParam": 2,
+    "IconType": "Star",
+    "TargetName": {
+      "Hash": -292857578
+    },
+    "IsShowProgress": 1,
+    "Type": "ChallengeTarget",
+    "ParamType": "Less"
+  }
+]

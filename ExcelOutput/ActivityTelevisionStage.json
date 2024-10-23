@@ -1,0 +1,142 @@
+[
+  {
+    "OriginalImagePath": "SpriteOutput/Quest/Television/TelevisionMonsterIconFigure/TelevisionMonsterNotExpose01.png",
+    "OriginalMiniImagePath": "SpriteOutput/Quest/Television/TelevisionMonsterIconSmall/TelevisionMonsterSmallNotExpose01.png",
+    "MiniImagePath": "SpriteOutput/Quest/Television/TelevisionMonsterIconSmall/TelevisionMonsterSmall01.png",
+    "ImagePath": "SpriteOutput/Quest/Television/TelevisionMonsterIconFigure/TelevisionMonster01.png",
+    "TelevisionID": 2,
+    "MappingInfo": 2386,
+    "ActivityModuleID": 4000501,
+    "EntranceID": 2031103,
+    "ChannelName": {
+      "Hash": -113709525
+    },
+    "OriginalDesc": {
+      "Hash": -1889128025
+    },
+    "QuestGroupID": 2,
+    "StageName": {
+      "Hash": 855110064
+    },
+    "Desc": {
+      "Hash": -1783154580
+    },
+    "MissionID": 802030203,
+    "GotoID": 26003,
+    "OriginalStageName": {
+      "Hash": 598244113
+    }
+  },
+  {
+    "OriginalImagePath": "SpriteOutput/Quest/Television/TelevisionMonsterIconFigure/TelevisionMonsterNotExpose04.png",
+    "OriginalMiniImagePath": "SpriteOutput/Quest/Television/TelevisionMonsterIconSmall/TelevisionMonsterSmallNotExpose04.png",
+    "MiniImagePath": "SpriteOutput/Quest/Television/TelevisionMonsterIconSmall/TelevisionMonsterSmall04.png",
+    "ImagePath": "SpriteOutput/Quest/Television/TelevisionMonsterIconFigure/TelevisionMonster04.png",
+    "TelevisionID": 4,
+    "MappingInfo": 2388,
+    "ActivityModuleID": 4000502,
+    "EntranceID": 2031302,
+    "ChannelName": {
+      "Hash": -113709519
+    },
+    "OriginalDesc": {
+      "Hash": 1599270217
+    },
+    "QuestGroupID": 4,
+    "StageName": {
+      "Hash": 855110058
+    },
+    "Desc": {
+      "Hash": -976585526
+    },
+    "MissionID": 802030403,
+    "GotoID": 26005,
+    "OriginalStageName": {
+      "Hash": 598244119
+    }
+  },
+  {
+    "OriginalImagePath": "SpriteOutput/Quest/Television/TelevisionMonsterIconFigure/TelevisionMonsterNotExpose02.png",
+    "OriginalMiniImagePath": "SpriteOutput/Quest/Television/TelevisionMonsterIconSmall/TelevisionMonsterSmallNotExpose02.png",
+    "MiniImagePath": "SpriteOutput/Quest/Television/TelevisionMonsterIconSmall/TelevisionMonsterSmall02.png",
+    "ImagePath": "SpriteOutput/Quest/Television/TelevisionMonsterIconFigure/TelevisionMonster02.png",
+    "TelevisionID": 3,
+    "MappingInfo": 2387,
+    "ActivityModuleID": 4000503,
+    "EntranceID": 1030107,
+    "ChannelName": {
+      "Hash": -113709526
+    },
+    "OriginalDesc": {
+      "Hash": -323044084
+    },
+    "QuestGroupID": 3,
+    "StageName": {
+      "Hash": 855110065
+    },
+    "Desc": {
+      "Hash": 945728775
+    },
+    "MissionID": 802030303,
+    "GotoID": 26004,
+    "OriginalStageName": {
+      "Hash": 598244114
+    }
+  },
+  {
+    "OriginalImagePath": "SpriteOutput/Quest/Television/TelevisionMonsterIconFigure/TelevisionMonsterNotExpose03.png",
+    "OriginalMiniImagePath": "SpriteOutput/Quest/Television/TelevisionMonsterIconSmall/TelevisionMonsterSmallNotExpose03.png",
+    "MiniImagePath": "SpriteOutput/Quest/Television/TelevisionMonsterIconSmall/TelevisionMonsterSmall03.png",
+    "ImagePath": "SpriteOutput/Quest/Television/TelevisionMonsterIconFigure/TelevisionMonster03.png",
+    "TelevisionID": 1,
+    "MappingInfo": 2385,
+    "ActivityModuleID": 4000504,
+    "EntranceID": 1030106,
+    "ChannelName": {
+      "Hash": -113709524
+    },
+    "OriginalDesc": {
+      "Hash": 839755330
+    },
+    "QuestGroupID": 1,
+    "StageName": {
+      "Hash": 855110063
+    },
+    "Desc": {
+      "Hash": -217070639
+    },
+    "MissionID": 802030103,
+    "GotoID": 26002,
+    "OriginalStageName": {
+      "Hash": 598244116
+    }
+  },
+  {
+    "OriginalImagePath": "SpriteOutput/Quest/Television/TelevisionMonsterIconFigure/TelevisionMonsterNotExpose05.png",
+    "OriginalMiniImagePath": "SpriteOutput/Quest/Television/TelevisionMonsterIconSmall/TelevisionMonsterSmallNotExpose05.png",
+    "MiniImagePath": "SpriteOutput/Quest/Television/TelevisionMonsterIconSmall/TelevisionMonsterSmall05.png",
+    "ImagePath": "SpriteOutput/Quest/Television/TelevisionMonsterIconFigure/TelevisionMonster05.png",
+    "TelevisionID": 5,
+    "MappingInfo": 2389,
+    "ActivityModuleID": 4000505,
+    "EntranceID": 2031104,
+    "ChannelName": {
+      "Hash": -113709520
+    },
+    "OriginalDesc": {
+      "Hash": -1129613138
+    },
+    "QuestGroupID": 5,
+    "StageName": {
+      "Hash": 855110059
+    },
+    "Desc": {
+      "Hash": 1752297829
+    },
+    "MissionID": 802030505,
+    "GotoID": 26006,
+    "OriginalStageName": {
+      "Hash": 598244120
+    }
+  }
+]

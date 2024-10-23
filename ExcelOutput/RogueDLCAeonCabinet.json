@@ -1,0 +1,963 @@
+[
+  {
+    "FinishAeonDimensionPointList": [
+      {
+        "DimensionID": 1,
+        "Increments": 1
+      },
+      {
+        "DimensionID": 3,
+        "Increments": 2
+      }
+    ],
+    "DescParam": [
+      750
+    ],
+    "UnlockCabinetID": [],
+    "CabinetIcon": "SpriteOutput/Rogue/DLC/Dice/MissionTree/IconRogueDlcPathQuestIcon6a.png",
+    "Sort": 1,
+    "CabinetType": "Normal",
+    "CabinetDesc": {
+      "Hash": -1409860076
+    },
+    "CabinetName": {
+      "Hash": 790391890
+    },
+    "CabinetID": 1,
+    "QuestID": 6013201,
+    "CabinetMissionDesc": {
+      "Hash": -717349996
+    }
+  },
+  {
+    "FinishAeonDimensionPointList": [
+      {
+        "DimensionID": 1,
+        "Increments": 2
+      },
+      {
+        "DimensionID": 2,
+        "Increments": 1
+      }
+    ],
+    "DescParam": [
+      3
+    ],
+    "UnlockCabinetID": [
+      7
+    ],
+    "CabinetIcon": "SpriteOutput/Rogue/DLC/Dice/MissionTree/IconRogueDlcPathQuestIcon2a.png",
+    "Sort": 6,
+    "CabinetType": "Normal",
+    "CabinetDesc": {
+      "Hash": -1409860073
+    },
+    "CabinetName": {
+      "Hash": 790391889
+    },
+    "CabinetID": 2,
+    "QuestID": 6013202,
+    "CabinetMissionDesc": {
+      "Hash": 2011533359
+    }
+  },
+  {
+    "FinishAeonDimensionPointList": [
+      {
+        "DimensionID": 2,
+        "Increments": 2
+      },
+      {
+        "DimensionID": 5,
+        "Increments": 1
+      }
+    ],
+    "DescParam": [
+      4
+    ],
+    "UnlockCabinetID": [
+      11
+    ],
+    "CabinetIcon": "SpriteOutput/Rogue/DLC/Dice/MissionTree/IconRogueDlcPathQuestIcon3a.png",
+    "Sort": 12,
+    "CabinetType": "Normal",
+    "CabinetDesc": {
+      "Hash": -1409860074
+    },
+    "CabinetName": {
+      "Hash": 790391888
+    },
+    "CabinetID": 3,
+    "QuestID": 6013203,
+    "CabinetMissionDesc": {
+      "Hash": 445449418
+    }
+  },
+  {
+    "FinishAeonDimensionPointList": [
+      {
+        "DimensionID": 2,
+        "Increments": 2
+      },
+      {
+        "DimensionID": 6,
+        "Increments": 2
+      }
+    ],
+    "DescParam": [
+      6
+    ],
+    "UnlockCabinetID": [
+      1
+    ],
+    "CabinetIcon": "SpriteOutput/Rogue/DLC/Dice/MissionTree/IconRogueDlcPathQuestIcon4a.png",
+    "Sort": 2,
+    "CabinetType": "Normal",
+    "CabinetDesc": {
+      "Hash": -1409860071
+    },
+    "CabinetName": {
+      "Hash": 790391895
+    },
+    "CabinetID": 4,
+    "QuestID": 6013204,
+    "CabinetMissionDesc": {
+      "Hash": -1476864883
+    }
+  },
+  {
+    "FinishAeonDimensionPointList": [
+      {
+        "DimensionID": 3,
+        "Increments": 1
+      },
+      {
+        "DimensionID": 5,
+        "Increments": 3
+      }
+    ],
+    "DescParam": [
+      3
+    ],
+    "UnlockCabinetID": [
+      12,
+      8
+    ],
+    "CabinetIcon": "SpriteOutput/Rogue/DLC/Dice/MissionTree/IconRogueDlcPathQuestIcon7a.png",
+    "Sort": 10,
+    "CabinetType": "Normal",
+    "CabinetDesc": {
+      "Hash": -1409860072
+    },
+    "CabinetName": {
+      "Hash": 790391894
+    },
+    "CabinetID": 5,
+    "QuestID": 6013205,
+    "CabinetMissionDesc": {
+      "Hash": 1252018472
+    }
+  },
+  {
+    "FinishAeonDimensionPointList": [
+      {
+        "DimensionID": 4,
+        "Increments": 1
+      },
+      {
+        "DimensionID": 3,
+        "Increments": 3
+      }
+    ],
+    "DescParam": [
+      2
+    ],
+    "UnlockCabinetID": [
+      4,
+      7
+    ],
+    "CabinetIcon": "SpriteOutput/Rogue/DLC/Dice/MissionTree/IconRogueDlcPathQuestIcon8a.png",
+    "Sort": 4,
+    "CabinetType": "Normal",
+    "CabinetDesc": {
+      "Hash": -1409860069
+    },
+    "CabinetName": {
+      "Hash": 790391893
+    },
+    "CabinetID": 6,
+    "QuestID": 6013206,
+    "CabinetMissionDesc": {
+      "Hash": -314065469
+    }
+  },
+  {
+    "FinishAeonDimensionPointList": [
+      {
+        "DimensionID": 5,
+        "Increments": 2
+      },
+      {
+        "DimensionID": 4,
+        "Increments": 2
+      }
+    ],
+    "DescParam": [
+      10
+    ],
+    "UnlockCabinetID": [
+      1
+    ],
+    "CabinetIcon": "SpriteOutput/Rogue/DLC/Dice/MissionTree/IconRogueDlcPathQuestIcon1a.png",
+    "Sort": 3,
+    "CabinetType": "Normal",
+    "CabinetDesc": {
+      "Hash": -1409860070
+    },
+    "CabinetName": {
+      "Hash": 790391892
+    },
+    "CabinetID": 7,
+    "QuestID": 6013207,
+    "CabinetMissionDesc": {
+      "Hash": -1880149410
+    }
+  },
+  {
+    "FinishAeonDimensionPointList": [
+      {
+        "DimensionID": 5,
+        "Increments": 1
+      },
+      {
+        "DimensionID": 7,
+        "Increments": 1
+      }
+    ],
+    "DescParam": [
+      4
+    ],
+    "UnlockCabinetID": [
+      2
+    ],
+    "CabinetIcon": "SpriteOutput/Rogue/DLC/Dice/MissionTree/IconRogueDlcPathQuestIcon9a.png",
+    "Sort": 8,
+    "CabinetType": "Normal",
+    "CabinetDesc": {
+      "Hash": -1409860067
+    },
+    "CabinetName": {
+      "Hash": 790391899
+    },
+    "CabinetID": 8,
+    "QuestID": 6013208,
+    "CabinetMissionDesc": {
+      "Hash": 492503585
+    }
+  },
+  {
+    "FinishAeonDimensionPointList": [
+      {
+        "DimensionID": 7,
+        "Increments": 2
+      },
+      {
+        "DimensionID": 2,
+        "Increments": 1
+      }
+    ],
+    "DescParam": [
+      1
+    ],
+    "UnlockCabinetID": [
+      12,
+      11
+    ],
+    "CabinetIcon": "SpriteOutput/Rogue/DLC/Dice/MissionTree/IconRogueDlcPathQuestIcon5a.png",
+    "Sort": 11,
+    "CabinetType": "Normal",
+    "CabinetDesc": {
+      "Hash": -1409860068
+    },
+    "CabinetName": {
+      "Hash": 790391898
+    },
+    "CabinetID": 9,
+    "QuestID": 6013209,
+    "CabinetMissionDesc": {
+      "Hash": -1073580356
+    }
+  },
+  {
+    "FinishAeonDimensionPointList": [
+      {
+        "DimensionID": 6,
+        "Increments": 2
+      },
+      {
+        "DimensionID": 7,
+        "Increments": 2
+      }
+    ],
+    "DescParam": [
+      6
+    ],
+    "UnlockCabinetID": [
+      4
+    ],
+    "CabinetIcon": "SpriteOutput/Rogue/DLC/Dice/MissionTree/IconRogueDlcPathQuestIcon11a.png",
+    "Sort": 5,
+    "CabinetType": "Normal",
+    "CabinetDesc": {
+      "Hash": 820462468
+    },
+    "CabinetName": {
+      "Hash": 1839117474
+    },
+    "CabinetID": 10,
+    "QuestID": 6013210,
+    "CabinetMissionDesc": {
+      "Hash": 1837249796
+    }
+  },
+  {
+    "FinishAeonDimensionPointList": [
+      {
+        "DimensionID": 6,
+        "Increments": 3
+      },
+      {
+        "DimensionID": 1,
+        "Increments": 2
+      }
+    ],
+    "DescParam": [
+      1
+    ],
+    "UnlockCabinetID": [
+      10
+    ],
+    "CabinetIcon": "SpriteOutput/Rogue/DLC/Dice/MissionTree/IconRogueDlcPathQuestIcon10a.png",
+    "Sort": 9,
+    "CabinetType": "Normal",
+    "CabinetDesc": {
+      "Hash": -1908420887
+    },
+    "CabinetName": {
+      "Hash": -889765881
+    },
+    "CabinetID": 11,
+    "QuestID": 6013211,
+    "CabinetMissionDesc": {
+      "Hash": 1837249797
+    }
+  },
+  {
+    "FinishAeonDimensionPointList": [
+      {
+        "DimensionID": 7,
+        "Increments": 1
+      },
+      {
+        "DimensionID": 4,
+        "Increments": 4
+      }
+    ],
+    "DescParam": [
+      10
+    ],
+    "UnlockCabinetID": [
+      6,
+      2
+    ],
+    "CabinetIcon": "SpriteOutput/Rogue/DLC/Dice/MissionTree/IconRogueDlcPathQuestIcon12a.png",
+    "Sort": 7,
+    "CabinetType": "Normal",
+    "CabinetDesc": {
+      "Hash": -342336946
+    },
+    "CabinetName": {
+      "Hash": 676318060
+    },
+    "CabinetID": 12,
+    "QuestID": 6013212,
+    "CabinetMissionDesc": {
+      "Hash": 1837249794
+    }
+  },
+  {
+    "FinishAeonDimensionPointList": [
+      {
+        "DimensionID": 1,
+        "Increments": 1
+      },
+      {
+        "DimensionID": 3,
+        "Increments": 4
+      }
+    ],
+    "DescParam": [
+      1000
+    ],
+    "UnlockCabinetID": [
+      17
+    ],
+    "CabinetIcon": "SpriteOutput/Rogue/DLC/Dice/MissionTree/IconRogueDlcPathQuestIcon6b.png",
+    "Sort": 23,
+    "CabinetType": "Normal",
+    "CabinetDesc": {
+      "Hash": 1223746995
+    },
+    "CabinetName": {
+      "Hash": -2052565295
+    },
+    "CabinetID": 13,
+    "QuestID": 6013213,
+    "CabinetMissionDesc": {
+      "Hash": 1837249795
+    }
+  },
+  {
+    "FinishAeonDimensionPointList": [
+      {
+        "DimensionID": 1,
+        "Increments": 5
+      },
+      {
+        "DimensionID": 2,
+        "Increments": 1
+      }
+    ],
+    "DescParam": [
+      2,
+      3
+    ],
+    "UnlockCabinetID": [
+      15,
+      16
+    ],
+    "CabinetIcon": "SpriteOutput/Rogue/DLC/Dice/MissionTree/IconRogueDlcPathQuestIcon2b.png",
+    "Sort": 16,
+    "CabinetType": "Normal",
+    "CabinetDesc": {
+      "Hash": -1148906000
+    },
+    "CabinetName": {
+      "Hash": -486481354
+    },
+    "CabinetID": 14,
+    "QuestID": 6013214,
+    "CabinetMissionDesc": {
+      "Hash": 1837249800
+    }
+  },
+  {
+    "FinishAeonDimensionPointList": [
+      {
+        "DimensionID": 2,
+        "Increments": 4
+      },
+      {
+        "DimensionID": 5,
+        "Increments": 1
+      }
+    ],
+    "DescParam": [
+      2
+    ],
+    "UnlockCabinetID": [
+      5
+    ],
+    "CabinetIcon": "SpriteOutput/Rogue/DLC/Dice/MissionTree/IconRogueDlcPathQuestIcon3b.png",
+    "Sort": 13,
+    "CabinetType": "Normal",
+    "CabinetDesc": {
+      "Hash": 417177941
+    },
+    "CabinetName": {
+      "Hash": 1079602587
+    },
+    "CabinetID": 15,
+    "QuestID": 6013215,
+    "CabinetMissionDesc": {
+      "Hash": 1837249801
+    }
+  },
+  {
+    "FinishAeonDimensionPointList": [
+      {
+        "DimensionID": 2,
+        "Increments": 4
+      },
+      {
+        "DimensionID": 6,
+        "Increments": 4
+      }
+    ],
+    "DescParam": [
+      4,
+      3
+    ],
+    "UnlockCabinetID": [
+      9,
+      3
+    ],
+    "CabinetIcon": "SpriteOutput/Rogue/DLC/Dice/MissionTree/IconRogueDlcPathQuestIcon4b.png",
+    "Sort": 14,
+    "CabinetType": "Normal",
+    "CabinetDesc": {
+      "Hash": 1983261882
+    },
+    "CabinetName": {
+      "Hash": -1649280768
+    },
+    "CabinetID": 16,
+    "QuestID": 6013216,
+    "CabinetMissionDesc": {
+      "Hash": 1837249798
+    }
+  },
+  {
+    "FinishAeonDimensionPointList": [
+      {
+        "DimensionID": 3,
+        "Increments": 1
+      },
+      {
+        "DimensionID": 5,
+        "Increments": 4
+      }
+    ],
+    "DescParam": [
+      12
+    ],
+    "UnlockCabinetID": [
+      21,
+      19
+    ],
+    "CabinetIcon": "SpriteOutput/Rogue/DLC/Dice/MissionTree/IconRogueDlcPathQuestIcon7b.png",
+    "Sort": 21,
+    "CabinetType": "Normal",
+    "CabinetDesc": {
+      "Hash": -745621473
+    },
+    "CabinetName": {
+      "Hash": -83196827
+    },
+    "CabinetID": 17,
+    "QuestID": 6013217,
+    "CabinetMissionDesc": {
+      "Hash": 1837249799
+    }
+  },
+  {
+    "FinishAeonDimensionPointList": [
+      {
+        "DimensionID": 4,
+        "Increments": 2
+      },
+      {
+        "DimensionID": 3,
+        "Increments": 5
+      }
+    ],
+    "DescParam": [
+      1
+    ],
+    "UnlockCabinetID": [
+      20,
+      14
+    ],
+    "CabinetIcon": "SpriteOutput/Rogue/DLC/Dice/MissionTree/IconRogueDlcPathQuestIcon8b.png",
+    "Sort": 17,
+    "CabinetType": "Normal",
+    "CabinetDesc": {
+      "Hash": 464232108
+    },
+    "CabinetName": {
+      "Hash": 1482887114
+    },
+    "CabinetID": 18,
+    "QuestID": 6013218,
+    "CabinetMissionDesc": {
+      "Hash": 1837249788
+    }
+  },
+  {
+    "FinishAeonDimensionPointList": [
+      {
+        "DimensionID": 5,
+        "Increments": 2
+      },
+      {
+        "DimensionID": 4,
+        "Increments": 2
+      }
+    ],
+    "DescParam": [
+      20
+    ],
+    "UnlockCabinetID": [
+      18,
+      23
+    ],
+    "CabinetIcon": "SpriteOutput/Rogue/DLC/Dice/MissionTree/IconRogueDlcPathQuestIcon1b.png",
+    "Sort": 20,
+    "CabinetType": "Normal",
+    "CabinetDesc": {
+      "Hash": 2030316049
+    },
+    "CabinetName": {
+      "Hash": -1245996241
+    },
+    "CabinetID": 19,
+    "QuestID": 6013219,
+    "CabinetMissionDesc": {
+      "Hash": 1837249789
+    }
+  },
+  {
+    "FinishAeonDimensionPointList": [
+      {
+        "DimensionID": 5,
+        "Increments": 2
+      },
+      {
+        "DimensionID": 7,
+        "Increments": 2
+      }
+    ],
+    "DescParam": [
+      3
+    ],
+    "UnlockCabinetID": [
+      16
+    ],
+    "CabinetIcon": "SpriteOutput/Rogue/DLC/Dice/MissionTree/IconRogueDlcPathQuestIcon9b.png",
+    "Sort": 15,
+    "CabinetType": "Normal",
+    "CabinetDesc": {
+      "Hash": 820462471
+    },
+    "CabinetName": {
+      "Hash": 1839117473
+    },
+    "CabinetID": 20,
+    "QuestID": 6013220,
+    "CabinetMissionDesc": {
+      "Hash": 271165855
+    }
+  },
+  {
+    "FinishAeonDimensionPointList": [
+      {
+        "DimensionID": 6,
+        "Increments": 3
+      },
+      {
+        "DimensionID": 1,
+        "Increments": 5
+      }
+    ],
+    "DescParam": [
+      1000
+    ],
+    "UnlockCabinetID": [
+      18
+    ],
+    "CabinetIcon": "SpriteOutput/Rogue/DLC/Dice/MissionTree/IconRogueDlcPathQuestIcon5b.png",
+    "Sort": 19,
+    "CabinetType": "Normal",
+    "CabinetDesc": {
+      "Hash": -1908420884
+    },
+    "CabinetName": {
+      "Hash": -889765882
+    },
+    "CabinetID": 21,
+    "QuestID": 6013221,
+    "CabinetMissionDesc": {
+      "Hash": 271165856
+    }
+  },
+  {
+    "FinishAeonDimensionPointList": [
+      {
+        "DimensionID": 6,
+        "Increments": 2
+      },
+      {
+        "DimensionID": 7,
+        "Increments": 3
+      }
+    ],
+    "DescParam": [
+      3
+    ],
+    "UnlockCabinetID": [
+      24,
+      13
+    ],
+    "CabinetIcon": "SpriteOutput/Rogue/DLC/Dice/MissionTree/IconRogueDlcPathQuestIcon11b.png",
+    "Sort": 24,
+    "CabinetType": "Normal",
+    "CabinetDesc": {
+      "Hash": -342336943
+    },
+    "CabinetName": {
+      "Hash": 676318059
+    },
+    "CabinetID": 22,
+    "QuestID": 6013222,
+    "CabinetMissionDesc": {
+      "Hash": 271165853
+    }
+  },
+  {
+    "FinishAeonDimensionPointList": [
+      {
+        "DimensionID": 7,
+        "Increments": 4
+      },
+      {
+        "DimensionID": 2,
+        "Increments": 1
+      }
+    ],
+    "DescParam": [
+      5,
+      4
+    ],
+    "UnlockCabinetID": [
+      14
+    ],
+    "CabinetIcon": "SpriteOutput/Rogue/DLC/Dice/MissionTree/IconRogueDlcPathQuestIcon10b.png",
+    "Sort": 18,
+    "CabinetType": "Normal",
+    "CabinetDesc": {
+      "Hash": 1223746998
+    },
+    "CabinetName": {
+      "Hash": -2052565296
+    },
+    "CabinetID": 23,
+    "QuestID": 6013223,
+    "CabinetMissionDesc": {
+      "Hash": 271165854
+    }
+  },
+  {
+    "FinishAeonDimensionPointList": [
+      {
+        "DimensionID": 7,
+        "Increments": 1
+      },
+      {
+        "DimensionID": 4,
+        "Increments": 5
+      }
+    ],
+    "DescParam": [
+      6
+    ],
+    "UnlockCabinetID": [
+      21
+    ],
+    "CabinetIcon": "SpriteOutput/Rogue/DLC/Dice/MissionTree/IconRogueDlcPathQuestIcon12b.png",
+    "Sort": 22,
+    "CabinetType": "Normal",
+    "CabinetDesc": {
+      "Hash": -1148905997
+    },
+    "CabinetName": {
+      "Hash": -486481355
+    },
+    "CabinetID": 24,
+    "QuestID": 6013224,
+    "CabinetMissionDesc": {
+      "Hash": 271165859
+    }
+  },
+  {
+    "FinishAeonDimensionPointList": [
+      {
+        "DimensionID": 6,
+        "Increments": 4
+      }
+    ],
+    "DescParam": [
+      20
+    ],
+    "UnlockCabinetID": [],
+    "CabinetIcon": "SpriteOutput/Rogue/DLC/Dice/MissionTree/IconRogueDlcPathQuestIconScrect1.png",
+    "Sort": 101,
+    "CabinetType": "Hide",
+    "CabinetDesc": {
+      "Hash": -1418124363
+    },
+    "CabinetName": {
+      "Hash": -399332077
+    },
+    "CabinetID": 101,
+    "QuestID": 6013225,
+    "CabinetMissionDesc": {
+      "Hash": 1525955737
+    }
+  },
+  {
+    "FinishAeonDimensionPointList": [
+      {
+        "DimensionID": 3,
+        "Increments": 4
+      }
+    ],
+    "DescParam": [
+      20
+    ],
+    "UnlockCabinetID": [],
+    "CabinetIcon": "SpriteOutput/Rogue/DLC/Dice/MissionTree/IconRogueDlcPathQuestIconScrect5.png",
+    "Sort": 102,
+    "CabinetType": "Hide",
+    "CabinetDesc": {
+      "Hash": -1418124362
+    },
+    "CabinetName": {
+      "Hash": -399332080
+    },
+    "CabinetID": 102,
+    "QuestID": 6013226,
+    "CabinetMissionDesc": {
+      "Hash": 1122671210
+    }
+  },
+  {
+    "FinishAeonDimensionPointList": [
+      {
+        "DimensionID": 2,
+        "Increments": 4
+      }
+    ],
+    "DescParam": [
+      20
+    ],
+    "UnlockCabinetID": [],
+    "CabinetIcon": "SpriteOutput/Rogue/DLC/Dice/MissionTree/IconRogueDlcPathQuestIconScrect6.png",
+    "Sort": 103,
+    "CabinetType": "Hide",
+    "CabinetDesc": {
+      "Hash": -1418124361
+    },
+    "CabinetName": {
+      "Hash": -399332079
+    },
+    "CabinetID": 103,
+    "QuestID": 6013227,
+    "CabinetMissionDesc": {
+      "Hash": -1606212145
+    }
+  },
+  {
+    "FinishAeonDimensionPointList": [
+      {
+        "DimensionID": 7,
+        "Increments": 4
+      }
+    ],
+    "DescParam": [
+      20
+    ],
+    "UnlockCabinetID": [],
+    "CabinetIcon": "SpriteOutput/Rogue/DLC/Dice/MissionTree/IconRogueDlcPathQuestIconScrect7.png",
+    "Sort": 104,
+    "CabinetType": "Hide",
+    "CabinetDesc": {
+      "Hash": -1418124360
+    },
+    "CabinetName": {
+      "Hash": -399332074
+    },
+    "CabinetID": 104,
+    "QuestID": 6013228,
+    "CabinetMissionDesc": {
+      "Hash": 1929240264
+    }
+  },
+  {
+    "FinishAeonDimensionPointList": [
+      {
+        "DimensionID": 4,
+        "Increments": 4
+      }
+    ],
+    "DescParam": [
+      20
+    ],
+    "UnlockCabinetID": [],
+    "CabinetIcon": "SpriteOutput/Rogue/DLC/Dice/MissionTree/IconRogueDlcPathQuestIconScrect3.png",
+    "Sort": 105,
+    "CabinetType": "Hide",
+    "CabinetDesc": {
+      "Hash": -1418124359
+    },
+    "CabinetName": {
+      "Hash": -399332073
+    },
+    "CabinetID": 105,
+    "QuestID": 6013229,
+    "CabinetMissionDesc": {
+      "Hash": -799643091
+    }
+  },
+  {
+    "FinishAeonDimensionPointList": [
+      {
+        "DimensionID": 5,
+        "Increments": 4
+      }
+    ],
+    "DescParam": [
+      20
+    ],
+    "UnlockCabinetID": [],
+    "CabinetIcon": "SpriteOutput/Rogue/DLC/Dice/MissionTree/IconRogueDlcPathQuestIconScrect2.png",
+    "Sort": 106,
+    "CabinetType": "Hide",
+    "CabinetDesc": {
+      "Hash": -1418124358
+    },
+    "CabinetName": {
+      "Hash": -399332076
+    },
+    "CabinetID": 106,
+    "QuestID": 6013230,
+    "CabinetMissionDesc": {
+      "Hash": -1202927618
+    }
+  },
+  {
+    "FinishAeonDimensionPointList": [
+      {
+        "DimensionID": 1,
+        "Increments": 4
+      }
+    ],
+    "DescParam": [
+      20
+    ],
+    "UnlockCabinetID": [],
+    "CabinetIcon": "SpriteOutput/Rogue/DLC/Dice/MissionTree/IconRogueDlcPathQuestIconScrect4.png",
+    "Sort": 107,
+    "CabinetType": "Hide",
+    "CabinetDesc": {
+      "Hash": -1418124357
+    },
+    "CabinetName": {
+      "Hash": -399332075
+    },
+    "CabinetID": 107,
+    "QuestID": 6013231,
+    "CabinetMissionDesc": {
+      "Hash": 363156323
+    }
+  }
+]

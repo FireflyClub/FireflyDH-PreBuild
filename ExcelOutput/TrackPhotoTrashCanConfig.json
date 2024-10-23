@@ -1,0 +1,38 @@
+[
+  {
+    "ExtraAnimList": [],
+    "IconPath": "SpriteOutput/MonsterRoundIcon/Monster_3002051.png",
+    "ExtraScore": 0,
+    "CanTypeID": "CopperCan",
+    "NpcTemplateID": 3147,
+    "Score": 100
+  },
+  {
+    "ExtraAnimList": [],
+    "IconPath": "SpriteOutput/MonsterRoundIcon/Monster_3002050.png",
+    "ExtraScore": 0,
+    "CanTypeID": "SilverCan",
+    "NpcTemplateID": 3146,
+    "Score": 150
+  },
+  {
+    "ExtraAnimList": [],
+    "IconPath": "SpriteOutput/MonsterRoundIcon/Monster_3002052.png",
+    "ExtraScore": 0,
+    "CanTypeID": "GoldCan",
+    "NpcTemplateID": 3145,
+    "Score": 200
+  },
+  {
+    "ExtraAnimList": [
+      "Attack",
+      "Skill02",
+      "Skill02_02"
+    ],
+    "IconPath": "SpriteOutput/MonsterRoundIcon/Monster_3002052.png",
+    "ExtraScore": 100,
+    "CanTypeID": "GoldCanExtra",
+    "NpcTemplateID": 2321,
+    "Score": 200
+  }
+]

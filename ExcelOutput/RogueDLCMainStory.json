@@ -1,0 +1,197 @@
+[
+  {
+    "MainStoryButtonIcon": "SpriteOutput/UI/Rogue/DLC/Dice/StarGodStory/IconRogueDlcMainStoryGodFace3.png",
+    "MainStoryName": {
+      "Hash": 1230260339
+    },
+    "UnlockAeonDimension": 5,
+    "UnlockPoint": 2,
+    "MainStoryID": 1,
+    "Layer": 3,
+    "BonusToast": {
+      "Hash": 371857150
+    },
+    "MainStoryToastType": "None",
+    "IsBonusUnlock": false
+  },
+  {
+    "MainStoryButtonIcon": "SpriteOutput/UI/Rogue/DLC/Dice/StarGodStory/IconRogueDlcMainStoryGodFace5.png",
+    "MainStoryName": {
+      "Hash": 1230260342
+    },
+    "UnlockAeonDimension": 1,
+    "UnlockPoint": 8,
+    "MainStoryID": 2,
+    "Layer": 2,
+    "BonusToast": {
+      "Hash": -2013670777
+    },
+    "MainStoryToastType": "Buff",
+    "IsBonusUnlock": true
+  },
+  {
+    "MainStoryButtonIcon": "SpriteOutput/UI/Rogue/DLC/Dice/StarGodStory/IconRogueDlcMainStoryGodFace6.png",
+    "MainStoryName": {
+      "Hash": 1230260341
+    },
+    "UnlockAeonDimension": 1,
+    "UnlockPoint": 13,
+    "MainStoryID": 3,
+    "Layer": 3,
+    "BonusToast": {
+      "Hash": 715212578
+    },
+    "MainStoryToastType": "Effect",
+    "IsBonusUnlock": false
+  },
+  {
+    "MainStoryButtonIcon": "SpriteOutput/UI/Rogue/DLC/Dice/StarGodStory/IconRogueDlcMainStoryGodFace4.png",
+    "MainStoryName": {
+      "Hash": 1230260336
+    },
+    "UnlockAeonDimension": 3,
+    "UnlockPoint": 6,
+    "MainStoryID": 4,
+    "Layer": 1,
+    "BonusToast": {
+      "Hash": 1474727465
+    },
+    "MainStoryToastType": "Effect",
+    "IsBonusUnlock": false
+  },
+  {
+    "MainStoryButtonIcon": "SpriteOutput/UI/Rogue/DLC/Dice/StarGodStory/IconRogueDlcMainStoryGodFace10.png",
+    "MainStoryName": {
+      "Hash": 1230260335
+    },
+    "UnlockAeonDimension": 2,
+    "UnlockPoint": 2,
+    "MainStoryID": 5,
+    "Layer": 2,
+    "BonusToast": {
+      "Hash": -91356476
+    },
+    "MainStoryToastType": "Buff",
+    "IsBonusUnlock": true
+  },
+  {
+    "MainStoryButtonIcon": "SpriteOutput/UI/Rogue/DLC/Dice/StarGodStory/IconRogueDlcMainStoryGodFace12.png",
+    "MainStoryName": {
+      "Hash": 1230260338
+    },
+    "UnlockAeonDimension": 2,
+    "UnlockPoint": 7,
+    "MainStoryID": 6,
+    "Layer": 2,
+    "BonusToast": {
+      "Hash": 311928051
+    },
+    "MainStoryToastType": "Effect",
+    "IsBonusUnlock": false
+  },
+  {
+    "MainStoryButtonIcon": "SpriteOutput/UI/Rogue/DLC/Dice/StarGodStory/IconRogueDlcMainStoryGodFace1.png",
+    "MainStoryName": {
+      "Hash": 1230260337
+    },
+    "UnlockAeonDimension": 6,
+    "UnlockPoint": 3,
+    "MainStoryID": 7,
+    "Layer": 2,
+    "BonusToast": {
+      "Hash": -1254155890
+    },
+    "MainStoryToastType": "Buff",
+    "IsBonusUnlock": true
+  },
+  {
+    "MainStoryButtonIcon": "SpriteOutput/UI/Rogue/DLC/Dice/StarGodStory/IconRogueDlcMainStoryGodFace2.png",
+    "MainStoryName": {
+      "Hash": 1230260332
+    },
+    "UnlockAeonDimension": 6,
+    "UnlockPoint": 5,
+    "MainStoryID": 8,
+    "Layer": 1,
+    "BonusToast": {
+      "Hash": -1207101723
+    },
+    "MainStoryToastType": "Effect",
+    "IsBonusUnlock": false
+  },
+  {
+    "MainStoryButtonIcon": "SpriteOutput/UI/Rogue/DLC/Dice/StarGodStory/IconRogueDlcMainStoryGodFace9.png",
+    "MainStoryName": {
+      "Hash": 1230260331
+    },
+    "UnlockAeonDimension": 7,
+    "UnlockPoint": 8,
+    "MainStoryID": 9,
+    "Layer": 2,
+    "BonusToast": {
+      "Hash": 1521781632
+    },
+    "MainStoryToastType": "Effect",
+    "IsBonusUnlock": false
+  },
+  {
+    "MainStoryButtonIcon": "SpriteOutput/UI/Rogue/DLC/Dice/StarGodStory/IconRogueDlcMainStoryGodFace11.png",
+    "MainStoryName": {
+      "Hash": 958777251
+    },
+    "UnlockAeonDimension": 7,
+    "UnlockPoint": 10,
+    "MainStoryID": 10,
+    "Layer": 2,
+    "BonusToast": {
+      "Hash": -747529016
+    },
+    "MainStoryToastType": "Effect",
+    "IsBonusUnlock": false
+  },
+  {
+    "MainStoryButtonIcon": "SpriteOutput/UI/Rogue/DLC/Dice/StarGodStory/IconRogueDlcMainStoryGodFace7.png",
+    "MainStoryName": {
+      "Hash": -607306690
+    },
+    "UnlockAeonDimension": 4,
+    "UnlockPoint": 5,
+    "MainStoryID": 11,
+    "Layer": 2,
+    "BonusToast": {
+      "Hash": -747529015
+    },
+    "MainStoryToastType": "Effect",
+    "IsBonusUnlock": false
+  },
+  {
+    "MainStoryButtonIcon": "SpriteOutput/UI/Rogue/DLC/Dice/StarGodStory/IconRogueDlcMainStoryGodFace8.png",
+    "MainStoryName": {
+      "Hash": 2121576665
+    },
+    "UnlockAeonDimension": 4,
+    "UnlockPoint": 8,
+    "MainStoryID": 12,
+    "Layer": 3,
+    "BonusToast": {
+      "Hash": 371857150
+    },
+    "MainStoryToastType": "None",
+    "IsBonusUnlock": false
+  },
+  {
+    "MainStoryButtonIcon": "SpriteOutput/UI/Rogue/DLC/Dice/StarGodStory/IconRogueDlcMainStoryGodFace13.png",
+    "MainStoryName": {
+      "Hash": 555492724
+    },
+    "UnlockAeonDimension": 0,
+    "UnlockPoint": 0,
+    "MainStoryID": 13,
+    "Layer": 3,
+    "BonusToast": {
+      "Hash": 371857150
+    },
+    "MainStoryToastType": "None",
+    "IsBonusUnlock": false
+  }
+]

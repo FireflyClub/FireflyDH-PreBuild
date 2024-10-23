@@ -1,0 +1,146 @@
+[
+  {
+    "RogueRoomTypeIcon": "SpriteOutput/Rogue/Map/RogueFoeIcon.png",
+    "RoomIconEffect": "Stages/OriginalResPos/InteractiveProp/Rogue/Rogue_GameplayProp_Portal_01/Eff_Rogue_MAZ_NextRoom_FoeIcon.prefab",
+    "RoomTypeDescTextmapID": {
+      "Hash": -183548444
+    },
+    "RogueRoomTypeTextmapID": {
+      "Hash": -48634535
+    },
+    "RogueRoomType": 1,
+    "RoomTypeDescTextmapID2": {
+      "Hash": 371857150
+    },
+    "IsSuper": false,
+    "MapShowType": true
+  },
+  {
+    "RogueRoomTypeIcon": "SpriteOutput/Rogue/Map/RogueFoeIcon.png",
+    "RoomIconEffect": "Stages/OriginalResPos/InteractiveProp/Rogue/Rogue_GameplayProp_Portal_01/Eff_Rogue_MAZ_NextRoom_FoeIcon.prefab",
+    "RoomTypeDescTextmapID": {
+      "Hash": -183548443
+    },
+    "RogueRoomTypeTextmapID": {
+      "Hash": -1614718476
+    },
+    "RogueRoomType": 2,
+    "RoomTypeDescTextmapID2": {
+      "Hash": 371857150
+    },
+    "IsSuper": false,
+    "MapShowType": true
+  },
+  {
+    "RogueRoomTypeIcon": "SpriteOutput/Rogue/Map/RogueRandomIcon.png",
+    "RoomIconEffect": "Stages/OriginalResPos/InteractiveProp/Rogue/Rogue_GameplayProp_Portal_01/Eff_Rogue_MAZ_NextRoom_RandomIcon.prefab",
+    "RoomTypeDescTextmapID": {
+      "Hash": -183548442
+    },
+    "RogueRoomTypeTextmapID": {
+      "Hash": 1114164879
+    },
+    "RogueRoomType": 3,
+    "RoomTypeDescTextmapID2": {
+      "Hash": 371857150
+    },
+    "IsSuper": false,
+    "MapShowType": true
+  },
+  {
+    "RogueRoomTypeIcon": "SpriteOutput/Rogue/Map/RoguePowerfulEnemyIcon.png",
+    "RoomIconEffect": "Stages/OriginalResPos/InteractiveProp/Rogue/Rogue_GameplayProp_Portal_01/Eff_Rogue_MAZ_NextRoom_PowerfulEnemyIcon.prefab",
+    "RoomTypeDescTextmapID": {
+      "Hash": -183548441
+    },
+    "RogueRoomTypeTextmapID": {
+      "Hash": -451919062
+    },
+    "RogueRoomType": 4,
+    "RoomTypeDescTextmapID2": {
+      "Hash": 371857150
+    },
+    "IsSuper": false,
+    "MapShowType": true
+  },
+  {
+    "RogueRoomTypeIcon": "SpriteOutput/Rogue/Map/RogueIntensifyIcon.png",
+    "RoomIconEffect": "Stages/OriginalResPos/InteractiveProp/Rogue/Rogue_GameplayProp_Portal_01/Eff_Rogue_MAZ_NextRoom_IntensifyIcon.prefab",
+    "RoomTypeDescTextmapID": {
+      "Hash": -183548440
+    },
+    "RogueRoomTypeTextmapID": {
+      "Hash": -2018003003
+    },
+    "RogueRoomType": 5,
+    "RoomTypeDescTextmapID2": {
+      "Hash": 371857150
+    },
+    "IsSuper": false,
+    "MapShowType": true
+  },
+  {
+    "RogueRoomTypeIcon": "SpriteOutput/Rogue/Map/RogueFoeEliteIcon.png",
+    "RoomIconEffect": "Stages/OriginalResPos/InteractiveProp/Rogue/Rogue_GameplayProp_Portal_01/Eff_Rogue_MAZ_NextRoom_FoeEliteIcon.prefab",
+    "RoomTypeDescTextmapID": {
+      "Hash": -183548439
+    },
+    "RogueRoomTypeTextmapID": {
+      "Hash": 710880352
+    },
+    "RogueRoomType": 6,
+    "RoomTypeDescTextmapID2": {
+      "Hash": -609314277
+    },
+    "IsSuper": true,
+    "MapShowType": true
+  },
+  {
+    "RogueRoomTypeIcon": "SpriteOutput/Rogue/Map/RogueBossIcon.png",
+    "RoomIconEffect": "Stages/OriginalResPos/InteractiveProp/Rogue/Rogue_GameplayProp_Portal_01/Eff_Rogue_MAZ_NextRoom_BossIcon.prefab",
+    "RoomTypeDescTextmapID": {
+      "Hash": -183548438
+    },
+    "RogueRoomTypeTextmapID": {
+      "Hash": -855203589
+    },
+    "RogueRoomType": 7,
+    "RoomTypeDescTextmapID2": {
+      "Hash": 956769664
+    },
+    "IsSuper": true,
+    "MapShowType": true
+  },
+  {
+    "RogueRoomTypeIcon": "SpriteOutput/Rogue/Map/RogueDealIcon.png",
+    "RoomIconEffect": "Stages/OriginalResPos/InteractiveProp/Rogue/Rogue_GameplayProp_Portal_01/Eff_Rogue_MAZ_NextRoom_DealIcon.prefab",
+    "RoomTypeDescTextmapID": {
+      "Hash": -183548437
+    },
+    "RogueRoomTypeTextmapID": {
+      "Hash": 1873679766
+    },
+    "RogueRoomType": 8,
+    "RoomTypeDescTextmapID2": {
+      "Hash": 371857150
+    },
+    "IsSuper": false,
+    "MapShowType": true
+  },
+  {
+    "RogueRoomTypeIcon": "SpriteOutput/Rogue/Map/RogueDlcGameIcon.png",
+    "RoomIconEffect": "Stages/OriginalResPos/InteractiveProp/Rogue/Rogue_GameplayProp_Portal_01/Eff_Rogue_MAZ_NextRoom_AdvIcon.prefab",
+    "RoomTypeDescTextmapID": {
+      "Hash": -183548436
+    },
+    "RogueRoomTypeTextmapID": {
+      "Hash": 307595825
+    },
+    "RogueRoomType": 9,
+    "RoomTypeDescTextmapID2": {
+      "Hash": 371857150
+    },
+    "IsSuper": false,
+    "MapShowType": true
+  }
+]

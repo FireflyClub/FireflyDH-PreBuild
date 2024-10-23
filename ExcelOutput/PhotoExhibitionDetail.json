@@ -1,0 +1,578 @@
+[
+  {
+    "TaskOption": [],
+    "FemalePicPath": [
+      "SpriteOutput/Quest/PhotoExhibition/PhotoExhibitionPhoto0.png"
+    ],
+    "MalePicPath": [
+      "SpriteOutput/Quest/PhotoExhibition/PhotoExhibitionPhoto0.png"
+    ],
+    "UnlockPicPath": "SpriteOutput/Quest/PhotoExhibition/PhotoExhibitionPhoto100.png",
+    "AuthorName": {
+      "Hash": 541401049
+    },
+    "ID": 100,
+    "RuikeReply": {
+      "Hash": -824478683
+    },
+    "Unlock": {
+      "Hash": -1159596265
+    },
+    "Name": {
+      "Hash": 2046972532
+    },
+    "ShowRuikeName": false,
+    "GroupphotoDesc": {
+      "Hash": 371857150
+    },
+    "FinishSubMissionID": 802720005,
+    "MissionID": 8027200
+  },
+  {
+    "TaskOption": [],
+    "FemalePicPath": [
+      "SpriteOutput/Quest/PhotoExhibition/PhotoExhibitionPhoto1.png"
+    ],
+    "MalePicPath": [
+      "SpriteOutput/Quest/PhotoExhibition/PhotoExhibitionPhoto1.png"
+    ],
+    "UnlockPicPath": "SpriteOutput/Quest/PhotoExhibition/PhotoExhibitionPhoto101.png",
+    "AuthorName": {
+      "Hash": -1740319879
+    },
+    "ID": 1,
+    "RuikeReply": {
+      "Hash": 256906565
+    },
+    "Unlock": {
+      "Hash": -490360009
+    },
+    "Name": {
+      "Hash": -1954997548
+    },
+    "ShowRuikeName": true,
+    "GroupphotoDesc": {
+      "Hash": 371857150
+    },
+    "FinishSubMissionID": 802720102,
+    "MissionID": 8027201
+  },
+  {
+    "TaskOption": [
+      6029532,
+      6029533
+    ],
+    "FemalePicPath": [
+      "SpriteOutput/Quest/PhotoExhibition/PhotoExhibitionPhoto201.png",
+      "SpriteOutput/Quest/PhotoExhibition/PhotoExhibitionPhoto203.png"
+    ],
+    "MalePicPath": [
+      "SpriteOutput/Quest/PhotoExhibition/PhotoExhibitionPhoto201.png",
+      "SpriteOutput/Quest/PhotoExhibition/PhotoExhibitionPhoto202.png"
+    ],
+    "UnlockPicPath": "SpriteOutput/Quest/PhotoExhibition/PhotoExhibitionPhoto102.png",
+    "AuthorName": {
+      "Hash": -174235938
+    },
+    "ID": 2,
+    "RuikeReply": {
+      "Hash": -146377962
+    },
+    "Unlock": {
+      "Hash": -87075482
+    },
+    "Name": {
+      "Hash": 773885807
+    },
+    "ShowRuikeName": true,
+    "GroupphotoDesc": {
+      "Hash": 371857150
+    },
+    "FinishSubMissionID": 802720106,
+    "MissionID": 8027201
+  },
+  {
+    "TaskOption": [],
+    "FemalePicPath": [
+      "SpriteOutput/Quest/PhotoExhibition/PhotoExhibitionPhoto3.png"
+    ],
+    "MalePicPath": [
+      "SpriteOutput/Quest/PhotoExhibition/PhotoExhibitionPhoto3.png"
+    ],
+    "UnlockPicPath": "SpriteOutput/Quest/PhotoExhibition/PhotoExhibitionPhoto103.png",
+    "AuthorName": {
+      "Hash": 1391848003
+    },
+    "ID": 3,
+    "RuikeReply": {
+      "Hash": 1419705979
+    },
+    "Unlock": {
+      "Hash": -1653159423
+    },
+    "Name": {
+      "Hash": -792198134
+    },
+    "ShowRuikeName": false,
+    "GroupphotoDesc": {
+      "Hash": 371857150
+    },
+    "FinishSubMissionID": 802720206,
+    "MissionID": 8027202
+  },
+  {
+    "TaskOption": [],
+    "FemalePicPath": [
+      "SpriteOutput/Quest/PhotoExhibition/PhotoExhibitionPhoto4.png"
+    ],
+    "MalePicPath": [
+      "SpriteOutput/Quest/PhotoExhibition/PhotoExhibitionPhoto4.png"
+    ],
+    "UnlockPicPath": "SpriteOutput/Quest/PhotoExhibition/PhotoExhibitionPhoto104.png",
+    "AuthorName": {
+      "Hash": -1337035352
+    },
+    "ID": 4,
+    "RuikeReply": {
+      "Hash": 1016421452
+    },
+    "Unlock": {
+      "Hash": -1249874896
+    },
+    "Name": {
+      "Hash": 1936685221
+    },
+    "ShowRuikeName": true,
+    "GroupphotoDesc": {
+      "Hash": 371857150
+    },
+    "FinishSubMissionID": 802720210,
+    "MissionID": 8027202
+  },
+  {
+    "TaskOption": [],
+    "FemalePicPath": [
+      "SpriteOutput/Quest/PhotoExhibition/PhotoExhibitionPhoto5.png"
+    ],
+    "MalePicPath": [
+      "SpriteOutput/Quest/PhotoExhibition/PhotoExhibitionPhoto5.png"
+    ],
+    "UnlockPicPath": "SpriteOutput/Quest/PhotoExhibition/PhotoExhibitionPhoto105.png",
+    "AuthorName": {
+      "Hash": 229048589
+    },
+    "ID": 5,
+    "RuikeReply": {
+      "Hash": -1712461903
+    },
+    "Unlock": {
+      "Hash": 1479008459
+    },
+    "Name": {
+      "Hash": 370601280
+    },
+    "ShowRuikeName": true,
+    "GroupphotoDesc": {
+      "Hash": 371857150
+    },
+    "FinishSubMissionID": 802720305,
+    "MissionID": 8027203
+  },
+  {
+    "TaskOption": [
+      6029520,
+      6029521
+    ],
+    "FemalePicPath": [
+      "SpriteOutput/Quest/PhotoExhibition/PhotoExhibitionPhoto602.png",
+      "SpriteOutput/Quest/PhotoExhibition/PhotoExhibitionPhoto601.png"
+    ],
+    "MalePicPath": [
+      "SpriteOutput/Quest/PhotoExhibition/PhotoExhibitionPhoto602.png",
+      "SpriteOutput/Quest/PhotoExhibition/PhotoExhibitionPhoto601.png"
+    ],
+    "UnlockPicPath": "SpriteOutput/Quest/PhotoExhibition/PhotoExhibitionPhoto106.png",
+    "AuthorName": {
+      "Hash": 1795132530
+    },
+    "ID": 6,
+    "RuikeReply": {
+      "Hash": -2115746430
+    },
+    "Unlock": {
+      "Hash": 1882292986
+    },
+    "Name": {
+      "Hash": -1195482661
+    },
+    "ShowRuikeName": true,
+    "GroupphotoDesc": {
+      "Hash": 371857150
+    },
+    "FinishSubMissionID": 802720314,
+    "MissionID": 8027203
+  },
+  {
+    "TaskOption": [],
+    "FemalePicPath": [
+      "SpriteOutput/Quest/PhotoExhibition/PhotoExhibitionPhoto7.png"
+    ],
+    "MalePicPath": [
+      "SpriteOutput/Quest/PhotoExhibition/PhotoExhibitionPhoto7.png"
+    ],
+    "UnlockPicPath": "SpriteOutput/Quest/PhotoExhibition/PhotoExhibitionPhoto107.png",
+    "AuthorName": {
+      "Hash": -933750825
+    },
+    "ID": 7,
+    "RuikeReply": {
+      "Hash": -549662489
+    },
+    "Unlock": {
+      "Hash": 316209045
+    },
+    "Name": {
+      "Hash": 1533400694
+    },
+    "ShowRuikeName": true,
+    "GroupphotoDesc": {
+      "Hash": 371857150
+    },
+    "FinishSubMissionID": 802720404,
+    "MissionID": 8027204
+  },
+  {
+    "TaskOption": [
+      6029522,
+      6029523
+    ],
+    "FemalePicPath": [
+      "SpriteOutput/Quest/PhotoExhibition/PhotoExhibitionPhoto801.png",
+      "SpriteOutput/Quest/PhotoExhibition/PhotoExhibitionPhoto802.png"
+    ],
+    "MalePicPath": [
+      "SpriteOutput/Quest/PhotoExhibition/PhotoExhibitionPhoto801.png",
+      "SpriteOutput/Quest/PhotoExhibition/PhotoExhibitionPhoto802.png"
+    ],
+    "UnlockPicPath": "SpriteOutput/Quest/PhotoExhibition/PhotoExhibitionPhoto108.png",
+    "AuthorName": {
+      "Hash": 632333116
+    },
+    "ID": 8,
+    "RuikeReply": {
+      "Hash": -952947016
+    },
+    "Unlock": {
+      "Hash": 719493572
+    },
+    "Name": {
+      "Hash": -32683247
+    },
+    "ShowRuikeName": true,
+    "GroupphotoDesc": {
+      "Hash": 371857150
+    },
+    "FinishSubMissionID": 802720408,
+    "MissionID": 8027204
+  },
+  {
+    "TaskOption": [],
+    "FemalePicPath": [
+      "SpriteOutput/Quest/PhotoExhibition/PhotoExhibitionPhoto9.png"
+    ],
+    "MalePicPath": [
+      "SpriteOutput/Quest/PhotoExhibition/PhotoExhibitionPhoto9.png"
+    ],
+    "UnlockPicPath": "SpriteOutput/Quest/PhotoExhibition/PhotoExhibitionPhoto109.png",
+    "AuthorName": {
+      "Hash": -2096550239
+    },
+    "ID": 9,
+    "RuikeReply": {
+      "Hash": 613136925
+    },
+    "Unlock": {
+      "Hash": -846590369
+    },
+    "Name": {
+      "Hash": -1598767188
+    },
+    "ShowRuikeName": true,
+    "GroupphotoDesc": {
+      "Hash": 371857150
+    },
+    "FinishSubMissionID": 802720503,
+    "MissionID": 8027205
+  },
+  {
+    "TaskOption": [],
+    "FemalePicPath": [
+      "SpriteOutput/Quest/PhotoExhibition/PhotoExhibitionPhoto10.png"
+    ],
+    "MalePicPath": [
+      "SpriteOutput/Quest/PhotoExhibition/PhotoExhibitionPhoto10.png"
+    ],
+    "UnlockPicPath": "SpriteOutput/Quest/PhotoExhibition/PhotoExhibitionPhoto110.png",
+    "AuthorName": {
+      "Hash": -324090839
+    },
+    "ID": 10,
+    "RuikeReply": {
+      "Hash": -730080651
+    },
+    "Unlock": {
+      "Hash": -1456555001
+    },
+    "Name": {
+      "Hash": -682961244
+    },
+    "ShowRuikeName": true,
+    "GroupphotoDesc": {
+      "Hash": 371857150
+    },
+    "FinishSubMissionID": 802720507,
+    "MissionID": 8027205
+  },
+  {
+    "TaskOption": [
+      6029524,
+      6029525
+    ],
+    "FemalePicPath": [
+      "SpriteOutput/Quest/PhotoExhibition/PhotoExhibitionPhoto1101.png",
+      "SpriteOutput/Quest/PhotoExhibition/PhotoExhibitionPhoto1102.png"
+    ],
+    "MalePicPath": [
+      "SpriteOutput/Quest/PhotoExhibition/PhotoExhibitionPhoto1101.png",
+      "SpriteOutput/Quest/PhotoExhibition/PhotoExhibitionPhoto1102.png"
+    ],
+    "UnlockPicPath": "SpriteOutput/Quest/PhotoExhibition/PhotoExhibitionPhoto111.png",
+    "AuthorName": {
+      "Hash": -324090838
+    },
+    "ID": 11,
+    "RuikeReply": {
+      "Hash": -730080650
+    },
+    "Unlock": {
+      "Hash": -1456555002
+    },
+    "Name": {
+      "Hash": -682961243
+    },
+    "ShowRuikeName": true,
+    "GroupphotoDesc": {
+      "Hash": 371857150
+    },
+    "FinishSubMissionID": 802720605,
+    "MissionID": 8027206
+  },
+  {
+    "TaskOption": [],
+    "FemalePicPath": [
+      "SpriteOutput/Quest/PhotoExhibition/PhotoExhibitionPhoto12.png"
+    ],
+    "MalePicPath": [
+      "SpriteOutput/Quest/PhotoExhibition/PhotoExhibitionPhoto12.png"
+    ],
+    "UnlockPicPath": "SpriteOutput/Quest/PhotoExhibition/PhotoExhibitionPhoto112.png",
+    "AuthorName": {
+      "Hash": -324090837
+    },
+    "ID": 12,
+    "RuikeReply": {
+      "Hash": -730080653
+    },
+    "Unlock": {
+      "Hash": -1456555003
+    },
+    "Name": {
+      "Hash": -682961246
+    },
+    "ShowRuikeName": true,
+    "GroupphotoDesc": {
+      "Hash": 371857150
+    },
+    "FinishSubMissionID": 802720608,
+    "MissionID": 8027206
+  },
+  {
+    "TaskOption": [],
+    "FemalePicPath": [
+      "SpriteOutput/Quest/PhotoExhibition/PhotoExhibitionPhoto13.png"
+    ],
+    "MalePicPath": [
+      "SpriteOutput/Quest/PhotoExhibition/PhotoExhibitionPhoto13.png"
+    ],
+    "UnlockPicPath": "SpriteOutput/Quest/PhotoExhibition/PhotoExhibitionPhoto113.png",
+    "AuthorName": {
+      "Hash": -324090836
+    },
+    "ID": 13,
+    "RuikeReply": {
+      "Hash": -730080652
+    },
+    "Unlock": {
+      "Hash": -1456555004
+    },
+    "Name": {
+      "Hash": -682961245
+    },
+    "ShowRuikeName": true,
+    "GroupphotoDesc": {
+      "Hash": 371857150
+    },
+    "FinishSubMissionID": 802720702,
+    "MissionID": 8027207
+  },
+  {
+    "TaskOption": [],
+    "FemalePicPath": [
+      "SpriteOutput/Quest/PhotoExhibition/PhotoExhibitionPhoto14.png"
+    ],
+    "MalePicPath": [
+      "SpriteOutput/Quest/PhotoExhibition/PhotoExhibitionPhoto14.png"
+    ],
+    "UnlockPicPath": "SpriteOutput/Quest/PhotoExhibition/PhotoExhibitionPhoto114.png",
+    "AuthorName": {
+      "Hash": -324090843
+    },
+    "ID": 14,
+    "RuikeReply": {
+      "Hash": -730080647
+    },
+    "Unlock": {
+      "Hash": -1456555005
+    },
+    "Name": {
+      "Hash": -682961248
+    },
+    "ShowRuikeName": true,
+    "GroupphotoDesc": {
+      "Hash": 371857150
+    },
+    "FinishSubMissionID": 802720707,
+    "MissionID": 8027207
+  },
+  {
+    "TaskOption": [
+      6029526,
+      6029527
+    ],
+    "FemalePicPath": [
+      "SpriteOutput/Quest/PhotoExhibition/PhotoExhibitionPhoto1502.png",
+      "SpriteOutput/Quest/PhotoExhibition/PhotoExhibitionPhoto1802.png"
+    ],
+    "MalePicPath": [
+      "SpriteOutput/Quest/PhotoExhibition/PhotoExhibitionPhoto1501.png",
+      "SpriteOutput/Quest/PhotoExhibition/PhotoExhibitionPhoto1801.png"
+    ],
+    "UnlockPicPath": "SpriteOutput/Quest/PhotoExhibition/PhotoExhibitionPhoto115.png",
+    "AuthorName": {
+      "Hash": 371857150
+    },
+    "ID": 15,
+    "RuikeReply": {
+      "Hash": -730080646
+    },
+    "Unlock": {
+      "Hash": -1456555006
+    },
+    "Name": {
+      "Hash": 371857150
+    },
+    "ShowRuikeName": true,
+    "GroupphotoDesc": {
+      "Hash": -273931534
+    },
+    "FinishSubMissionID": 802720803,
+    "MissionID": 8027208
+  },
+  {
+    "TaskOption": [
+      6029527
+    ],
+    "FemalePicPath": [],
+    "MalePicPath": [
+      "SpriteOutput/Quest/PhotoExhibition/PhotoExhibitionPhoto1801.png"
+    ],
+    "UnlockPicPath": "SpriteOutput/Quest/PhotoExhibition/PhotoExhibitionPhoto115.png",
+    "AuthorName": {
+      "Hash": 371857150
+    },
+    "ID": 16,
+    "RuikeReply": {
+      "Hash": -730080649
+    },
+    "Unlock": {
+      "Hash": -1456555007
+    },
+    "Name": {
+      "Hash": 371857150
+    },
+    "ShowRuikeName": true,
+    "GroupphotoDesc": {
+      "Hash": -273931537
+    },
+    "FinishSubMissionID": 802720803,
+    "MissionID": 8027208
+  },
+  {
+    "TaskOption": [
+      6029529
+    ],
+    "FemalePicPath": [
+      "SpriteOutput/Quest/PhotoExhibition/PhotoExhibitionPhoto1502.png"
+    ],
+    "MalePicPath": [],
+    "UnlockPicPath": "SpriteOutput/Quest/PhotoExhibition/PhotoExhibitionPhoto115.png",
+    "AuthorName": {
+      "Hash": 371857150
+    },
+    "ID": 18,
+    "RuikeReply": {
+      "Hash": -730080659
+    },
+    "Unlock": {
+      "Hash": -1456554993
+    },
+    "Name": {
+      "Hash": 371857150
+    },
+    "ShowRuikeName": true,
+    "GroupphotoDesc": {
+      "Hash": -273931539
+    },
+    "FinishSubMissionID": 802720803,
+    "MissionID": 8027208
+  },
+  {
+    "TaskOption": [
+      6029530
+    ],
+    "FemalePicPath": [
+      "SpriteOutput/Quest/PhotoExhibition/PhotoExhibitionPhoto1802.png"
+    ],
+    "MalePicPath": [],
+    "UnlockPicPath": "SpriteOutput/Quest/PhotoExhibition/PhotoExhibitionPhoto115.png",
+    "AuthorName": {
+      "Hash": 371857150
+    },
+    "ID": 19,
+    "RuikeReply": {
+      "Hash": -730080658
+    },
+    "Unlock": {
+      "Hash": -1456554994
+    },
+    "Name": {
+      "Hash": 371857150
+    },
+    "ShowRuikeName": true,
+    "GroupphotoDesc": {
+      "Hash": -273931538
+    },
+    "FinishSubMissionID": 802720803,
+    "MissionID": 8027208
+  }
+]

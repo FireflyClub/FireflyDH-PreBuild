@@ -1,0 +1,623 @@
+[
+  {
+    "StaticPropIDList": [
+      10003
+    ],
+    "ImgPath": "SpriteOutput/Quest/TrainParty/BuildAreaIcon/BuildAreaIcon6.png",
+    "HasPreview": true,
+    "HasCutScene": true,
+    "SortID": 1,
+    "Name": {
+      "Hash": -1906825118
+    },
+    "GroupID": 100,
+    "CoinCost": 1000,
+    "ID": 101010
+  },
+  {
+    "StaticPropIDList": [
+      10001,
+      11009
+    ],
+    "ImgPath": "SpriteOutput/Quest/TrainParty/BuildAreaIcon/BuildAreaIcon7.png",
+    "HasPreview": true,
+    "HasCutScene": true,
+    "SortID": 2,
+    "Name": {
+      "Hash": 822058237
+    },
+    "GroupID": 100,
+    "CoinCost": 12000,
+    "ID": 101011
+  },
+  {
+    "StaticPropIDList": [
+      11001,
+      11006
+    ],
+    "ImgPath": "SpriteOutput/Quest/TrainParty/BuildAreaIcon/BuildAreaIcon7.png",
+    "HasPreview": true,
+    "HasCutScene": true,
+    "SortID": 3,
+    "Name": {
+      "Hash": -744025704
+    },
+    "GroupID": 101,
+    "CoinCost": 2000,
+    "ID": 101012
+  },
+  {
+    "StaticPropIDList": [
+      11003
+    ],
+    "ImgPath": "SpriteOutput/Quest/TrainParty/BuildAreaIcon/BuildAreaIcon7.png",
+    "HasPreview": true,
+    "HasCutScene": false,
+    "SortID": 4,
+    "Name": {
+      "Hash": 1984857651
+    },
+    "GroupID": 102,
+    "CoinCost": 2000,
+    "ID": 101013
+  },
+  {
+    "StaticPropIDList": [
+      11004
+    ],
+    "ImgPath": "SpriteOutput/Quest/TrainParty/BuildAreaIcon/BuildAreaIcon7.png",
+    "HasPreview": true,
+    "HasCutScene": false,
+    "SortID": 5,
+    "Name": {
+      "Hash": 62543350
+    },
+    "GroupID": 102,
+    "CoinCost": 6000,
+    "ID": 101014
+  },
+  {
+    "StaticPropIDList": [
+      11005
+    ],
+    "ImgPath": "SpriteOutput/Quest/TrainParty/BuildAreaIcon/BuildAreaIcon7.png",
+    "HasPreview": true,
+    "HasCutScene": false,
+    "SortID": 6,
+    "Name": {
+      "Hash": -1503540591
+    },
+    "GroupID": 103,
+    "CoinCost": 6000,
+    "ID": 101015
+  },
+  {
+    "StaticPropIDList": [
+      11002
+    ],
+    "ImgPath": "SpriteOutput/Quest/TrainParty/BuildAreaIcon/BuildAreaIcon7.png",
+    "HasPreview": true,
+    "HasCutScene": false,
+    "SortID": 7,
+    "Name": {
+      "Hash": 1225342764
+    },
+    "GroupID": 102,
+    "CoinCost": 6000,
+    "ID": 101016
+  },
+  {
+    "StaticPropIDList": [
+      11007
+    ],
+    "ImgPath": "SpriteOutput/Quest/TrainParty/BuildAreaIcon/BuildAreaIcon7.png",
+    "HasPreview": true,
+    "HasCutScene": true,
+    "SortID": 8,
+    "Name": {
+      "Hash": -340741177
+    },
+    "GroupID": 103,
+    "CoinCost": 30000,
+    "ID": 101017
+  },
+  {
+    "StaticPropIDList": [
+      11008
+    ],
+    "ImgPath": "SpriteOutput/Quest/TrainParty/BuildAreaIcon/BuildAreaIcon7.png",
+    "HasPreview": true,
+    "HasCutScene": false,
+    "SortID": 9,
+    "Name": {
+      "Hash": 2031911818
+    },
+    "GroupID": 103,
+    "CoinCost": 12000,
+    "ID": 101018
+  },
+  {
+    "StaticPropIDList": [
+      10007
+    ],
+    "ImgPath": "SpriteOutput/Quest/TrainParty/BuildAreaIcon/BuildAreaIcon2.png",
+    "HasPreview": true,
+    "HasCutScene": true,
+    "SortID": 10,
+    "Name": {
+      "Hash": -1906830433
+    },
+    "GroupID": 200,
+    "CoinCost": 1000,
+    "ID": 201010
+  },
+  {
+    "StaticPropIDList": [
+      12001,
+      12005,
+      12009
+    ],
+    "ImgPath": "SpriteOutput/Quest/TrainParty/BuildAreaIcon/BuildAreaIcon7.png",
+    "HasPreview": true,
+    "HasCutScene": false,
+    "SortID": 11,
+    "Name": {
+      "Hash": 822052922
+    },
+    "GroupID": 200,
+    "CoinCost": 1000,
+    "ID": 201011
+  },
+  {
+    "StaticPropIDList": [
+      12007,
+      10009,
+      10010
+    ],
+    "ImgPath": "SpriteOutput/Quest/TrainParty/BuildAreaIcon/BuildAreaIcon7.png",
+    "HasPreview": true,
+    "HasCutScene": true,
+    "SortID": 12,
+    "Name": {
+      "Hash": 1984852336
+    },
+    "GroupID": 202,
+    "CoinCost": 1000,
+    "ID": 201013
+  },
+  {
+    "StaticPropIDList": [
+      12002,
+      12003,
+      12013
+    ],
+    "ImgPath": "SpriteOutput/Quest/TrainParty/BuildAreaIcon/BuildAreaIcon7.png",
+    "HasPreview": true,
+    "HasCutScene": false,
+    "SortID": 13,
+    "Name": {
+      "Hash": 62538035
+    },
+    "GroupID": 202,
+    "CoinCost": 1000,
+    "ID": 201014
+  },
+  {
+    "StaticPropIDList": [
+      12004
+    ],
+    "ImgPath": "SpriteOutput/Quest/TrainParty/BuildAreaIcon/BuildAreaIcon7.png",
+    "HasPreview": true,
+    "HasCutScene": false,
+    "SortID": 14,
+    "Name": {
+      "Hash": 1225337449
+    },
+    "GroupID": 203,
+    "CoinCost": 2000,
+    "ID": 201016
+  },
+  {
+    "StaticPropIDList": [
+      12008,
+      12006
+    ],
+    "ImgPath": "SpriteOutput/Quest/TrainParty/BuildAreaIcon/BuildAreaIcon7.png",
+    "HasPreview": true,
+    "HasCutScene": false,
+    "SortID": 15,
+    "Name": {
+      "Hash": -340746492
+    },
+    "GroupID": 202,
+    "CoinCost": 1000,
+    "ID": 201017
+  },
+  {
+    "StaticPropIDList": [
+      12011
+    ],
+    "ImgPath": "SpriteOutput/Quest/TrainParty/BuildAreaIcon/BuildAreaIcon7.png",
+    "HasPreview": true,
+    "HasCutScene": false,
+    "SortID": 17,
+    "Name": {
+      "Hash": 822052925
+    },
+    "GroupID": 201,
+    "CoinCost": 0,
+    "ID": 201021
+  },
+  {
+    "StaticPropIDList": [
+      12012
+    ],
+    "ImgPath": "SpriteOutput/Quest/TrainParty/BuildAreaIcon/BuildAreaIcon7.png",
+    "HasPreview": true,
+    "HasCutScene": false,
+    "SortID": 18,
+    "Name": {
+      "Hash": -744031016
+    },
+    "GroupID": 203,
+    "CoinCost": 2000,
+    "ID": 201022
+  },
+  {
+    "StaticPropIDList": [
+      10014
+    ],
+    "ImgPath": "SpriteOutput/Quest/TrainParty/BuildAreaIcon/BuildAreaIcon3.png",
+    "HasPreview": true,
+    "HasCutScene": true,
+    "SortID": 18,
+    "Name": {
+      "Hash": 822056059
+    },
+    "GroupID": 300,
+    "CoinCost": 2000,
+    "ID": 301011
+  },
+  {
+    "StaticPropIDList": [
+      13002
+    ],
+    "ImgPath": "SpriteOutput/Quest/TrainParty/BuildAreaIcon/BuildAreaIcon7.png",
+    "HasPreview": true,
+    "HasCutScene": false,
+    "SortID": 19,
+    "Name": {
+      "Hash": -744027882
+    },
+    "GroupID": 301,
+    "CoinCost": 6000,
+    "ID": 301012
+  },
+  {
+    "StaticPropIDList": [
+      13003,
+      13007,
+      10002,
+      13001
+    ],
+    "ImgPath": "SpriteOutput/Quest/TrainParty/BuildAreaIcon/BuildAreaIcon7.png",
+    "HasPreview": true,
+    "HasCutScene": true,
+    "SortID": 20,
+    "Name": {
+      "Hash": 1984855473
+    },
+    "GroupID": 300,
+    "CoinCost": 6000,
+    "ID": 301013
+  },
+  {
+    "StaticPropIDList": [
+      13004
+    ],
+    "ImgPath": "SpriteOutput/Quest/TrainParty/BuildAreaIcon/BuildAreaIcon7.png",
+    "HasPreview": true,
+    "HasCutScene": false,
+    "SortID": 21,
+    "Name": {
+      "Hash": 62541172
+    },
+    "GroupID": 301,
+    "CoinCost": 6000,
+    "ID": 301014
+  },
+  {
+    "StaticPropIDList": [
+      13005
+    ],
+    "ImgPath": "SpriteOutput/Quest/TrainParty/BuildAreaIcon/BuildAreaIcon7.png",
+    "HasPreview": true,
+    "HasCutScene": false,
+    "SortID": 22,
+    "Name": {
+      "Hash": -1503542769
+    },
+    "GroupID": 301,
+    "CoinCost": 12000,
+    "ID": 301015
+  },
+  {
+    "StaticPropIDList": [
+      10004
+    ],
+    "ImgPath": "SpriteOutput/Quest/TrainParty/BuildAreaIcon/BuildAreaIcon1.png",
+    "HasPreview": true,
+    "HasCutScene": true,
+    "SortID": 23,
+    "Name": {
+      "Hash": -1906823899
+    },
+    "GroupID": 400,
+    "CoinCost": 6000,
+    "ID": 401010
+  },
+  {
+    "StaticPropIDList": [
+      14002,
+      14003,
+      14004
+    ],
+    "ImgPath": "SpriteOutput/Quest/TrainParty/BuildAreaIcon/BuildAreaIcon7.png",
+    "HasPreview": true,
+    "HasCutScene": false,
+    "SortID": 24,
+    "Name": {
+      "Hash": 822059456
+    },
+    "GroupID": 401,
+    "CoinCost": 6000,
+    "ID": 401011
+  },
+  {
+    "StaticPropIDList": [
+      14001,
+      10008
+    ],
+    "ImgPath": "SpriteOutput/Quest/TrainParty/BuildAreaIcon/BuildAreaIcon7.png",
+    "HasPreview": true,
+    "HasCutScene": true,
+    "SortID": 25,
+    "Name": {
+      "Hash": -744024485
+    },
+    "GroupID": 400,
+    "CoinCost": 12000,
+    "ID": 401012
+  },
+  {
+    "StaticPropIDList": [
+      14005
+    ],
+    "ImgPath": "SpriteOutput/Quest/TrainParty/BuildAreaIcon/BuildAreaIcon7.png",
+    "HasPreview": true,
+    "HasCutScene": false,
+    "SortID": 26,
+    "Name": {
+      "Hash": -1503539372
+    },
+    "GroupID": 402,
+    "CoinCost": 12000,
+    "ID": 401015
+  },
+  {
+    "StaticPropIDList": [
+      14006,
+      14007
+    ],
+    "ImgPath": "SpriteOutput/Quest/TrainParty/BuildAreaIcon/BuildAreaIcon7.png",
+    "HasPreview": true,
+    "HasCutScene": true,
+    "SortID": 27,
+    "Name": {
+      "Hash": 1225343983
+    },
+    "GroupID": 401,
+    "CoinCost": 30000,
+    "ID": 401016
+  },
+  {
+    "StaticPropIDList": [
+      14008,
+      14009
+    ],
+    "ImgPath": "SpriteOutput/Quest/TrainParty/BuildAreaIcon/BuildAreaIcon7.png",
+    "HasPreview": true,
+    "HasCutScene": false,
+    "SortID": 28,
+    "Name": {
+      "Hash": 2031913037
+    },
+    "GroupID": 401,
+    "CoinCost": 6000,
+    "ID": 401018
+  },
+  {
+    "StaticPropIDList": [
+      14010,
+      14011
+    ],
+    "ImgPath": "SpriteOutput/Quest/TrainParty/BuildAreaIcon/BuildAreaIcon7.png",
+    "HasPreview": true,
+    "HasCutScene": false,
+    "SortID": 29,
+    "Name": {
+      "Hash": -1906823900
+    },
+    "GroupID": 402,
+    "CoinCost": 6000,
+    "ID": 401020
+  },
+  {
+    "StaticPropIDList": [
+      10006
+    ],
+    "ImgPath": "SpriteOutput/Quest/TrainParty/BuildAreaIcon/BuildAreaIcon4.png",
+    "HasPreview": true,
+    "HasCutScene": true,
+    "SortID": 30,
+    "Name": {
+      "Hash": -1906820762
+    },
+    "GroupID": 500,
+    "CoinCost": 12000,
+    "ID": 501010
+  },
+  {
+    "StaticPropIDList": [
+      15001,
+      10011
+    ],
+    "ImgPath": "SpriteOutput/Quest/TrainParty/BuildAreaIcon/BuildAreaIcon7.png",
+    "HasPreview": true,
+    "HasCutScene": true,
+    "SortID": 31,
+    "Name": {
+      "Hash": 822062593
+    },
+    "GroupID": 500,
+    "CoinCost": 12000,
+    "ID": 501011
+  },
+  {
+    "StaticPropIDList": [
+      15002
+    ],
+    "ImgPath": "SpriteOutput/Quest/TrainParty/BuildAreaIcon/BuildAreaIcon7.png",
+    "HasPreview": true,
+    "HasCutScene": false,
+    "SortID": 32,
+    "Name": {
+      "Hash": 1984862007
+    },
+    "GroupID": 501,
+    "CoinCost": 12000,
+    "ID": 501013
+  },
+  {
+    "StaticPropIDList": [
+      15005
+    ],
+    "ImgPath": "SpriteOutput/Quest/TrainParty/BuildAreaIcon/BuildAreaIcon7.png",
+    "HasPreview": true,
+    "HasCutScene": false,
+    "SortID": 33,
+    "Name": {
+      "Hash": 62547706
+    },
+    "GroupID": 501,
+    "CoinCost": 12000,
+    "ID": 501014
+  },
+  {
+    "StaticPropIDList": [
+      15006
+    ],
+    "ImgPath": "SpriteOutput/Quest/TrainParty/BuildAreaIcon/BuildAreaIcon7.png",
+    "HasPreview": true,
+    "HasCutScene": false,
+    "SortID": 34,
+    "Name": {
+      "Hash": -1503536235
+    },
+    "GroupID": 502,
+    "CoinCost": 12000,
+    "ID": 501015
+  },
+  {
+    "StaticPropIDList": [
+      15007
+    ],
+    "ImgPath": "SpriteOutput/Quest/TrainParty/BuildAreaIcon/BuildAreaIcon7.png",
+    "HasPreview": true,
+    "HasCutScene": false,
+    "SortID": 35,
+    "Name": {
+      "Hash": 1225347120
+    },
+    "GroupID": 502,
+    "CoinCost": 12000,
+    "ID": 501016
+  },
+  {
+    "StaticPropIDList": [
+      15008
+    ],
+    "ImgPath": "SpriteOutput/Quest/TrainParty/BuildAreaIcon/BuildAreaIcon7.png",
+    "HasPreview": true,
+    "HasCutScene": false,
+    "SortID": 36,
+    "Name": {
+      "Hash": -340736821
+    },
+    "GroupID": 502,
+    "CoinCost": 30000,
+    "ID": 501017
+  },
+  {
+    "StaticPropIDList": [
+      10005
+    ],
+    "ImgPath": "SpriteOutput/Quest/TrainParty/BuildAreaIcon/BuildAreaIcon5.png",
+    "HasPreview": true,
+    "HasCutScene": true,
+    "SortID": 37,
+    "Name": {
+      "Hash": -1906826077
+    },
+    "GroupID": 600,
+    "CoinCost": 12000,
+    "ID": 601010
+  },
+  {
+    "StaticPropIDList": [
+      16001
+    ],
+    "ImgPath": "SpriteOutput/Quest/TrainParty/BuildAreaIcon/BuildAreaIcon7.png",
+    "HasPreview": true,
+    "HasCutScene": true,
+    "SortID": 38,
+    "Name": {
+      "Hash": -744026663
+    },
+    "GroupID": 601,
+    "CoinCost": 50000,
+    "ID": 601012
+  },
+  {
+    "StaticPropIDList": [
+      16002
+    ],
+    "ImgPath": "SpriteOutput/Quest/TrainParty/BuildAreaIcon/BuildAreaIcon7.png",
+    "HasPreview": true,
+    "HasCutScene": false,
+    "SortID": 39,
+    "Name": {
+      "Hash": 1984856692
+    },
+    "GroupID": 601,
+    "CoinCost": 50000,
+    "ID": 601013
+  },
+  {
+    "StaticPropIDList": [
+      16003,
+      10012,
+      10013
+    ],
+    "ImgPath": "SpriteOutput/Quest/TrainParty/BuildAreaIcon/BuildAreaIcon7.png",
+    "HasPreview": true,
+    "HasCutScene": true,
+    "SortID": 40,
+    "Name": {
+      "Hash": 62542391
+    },
+    "GroupID": 600,
+    "CoinCost": 12000,
+    "ID": 601014
+  }
+]

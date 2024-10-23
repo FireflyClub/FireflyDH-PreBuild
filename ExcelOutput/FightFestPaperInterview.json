@@ -1,0 +1,542 @@
+[
+  {
+    "IconPath": "SpriteOutput/Quest/FightFest/Avatar/CommentHeadIcon/CommentHeadIcon_1.png",
+    "SortWeight": 1,
+    "Detail": {
+      "Hash": 200048453
+    },
+    "Comment": {
+      "Hash": 1743905659
+    },
+    "Info": {
+      "Hash": 68267764
+    },
+    "TextJoinItemID": 1071,
+    "PaperID": 1,
+    "Name": {
+      "Hash": 1667141095
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/FightFest/Avatar/CommentHeadIcon/CommentHeadIcon_1.png",
+    "SortWeight": 1,
+    "Detail": {
+      "Hash": 200048450
+    },
+    "Comment": {
+      "Hash": 177821718
+    },
+    "Info": {
+      "Hash": 68267765
+    },
+    "TextJoinItemID": 1072,
+    "PaperID": 1,
+    "Name": {
+      "Hash": 1667141096
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/FightFest/Avatar/CommentHeadIcon/CommentHeadIcon_1.png",
+    "SortWeight": 1,
+    "Detail": {
+      "Hash": 200048451
+    },
+    "Comment": {
+      "Hash": -1388262223
+    },
+    "Info": {
+      "Hash": 68267766
+    },
+    "TextJoinItemID": 1073,
+    "PaperID": 1,
+    "Name": {
+      "Hash": 1667141097
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/FightFest/Avatar/CommentHeadIcon/CommentHeadIcon_1.png",
+    "SortWeight": 2,
+    "Detail": {
+      "Hash": 959563340
+    },
+    "Comment": {
+      "Hash": 1743905648
+    },
+    "Info": {
+      "Hash": 1278121345
+    },
+    "TextJoinItemID": 1081,
+    "PaperID": 1,
+    "Name": {
+      "Hash": 2070425622
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/FightFest/Avatar/CommentHeadIcon/CommentHeadIcon_1.png",
+    "SortWeight": 2,
+    "Detail": {
+      "Hash": 959563337
+    },
+    "Comment": {
+      "Hash": 177821707
+    },
+    "Info": {
+      "Hash": 1278121346
+    },
+    "TextJoinItemID": 1082,
+    "PaperID": 1,
+    "Name": {
+      "Hash": 2070425623
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/FightFest/Avatar/CommentHeadIcon/CommentHeadIcon_1.png",
+    "SortWeight": 2,
+    "Detail": {
+      "Hash": 959563338
+    },
+    "Comment": {
+      "Hash": -1388262234
+    },
+    "Info": {
+      "Hash": 1278121347
+    },
+    "TextJoinItemID": 1083,
+    "PaperID": 1,
+    "Name": {
+      "Hash": 2070425624
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/FightFest/Avatar/CommentHeadIcon/CommentHeadIcon_1.png",
+    "SortWeight": 1,
+    "Detail": {
+      "Hash": 603332947
+    },
+    "Comment": {
+      "Hash": 1885068157
+    },
+    "Info": {
+      "Hash": 1634351672
+    },
+    "TextJoinItemID": 1101,
+    "PaperID": 2,
+    "Name": {
+      "Hash": -1868311219
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/FightFest/Avatar/CommentHeadIcon/CommentHeadIcon_1.png",
+    "SortWeight": 1,
+    "Detail": {
+      "Hash": 603332946
+    },
+    "Comment": {
+      "Hash": 1481783630
+    },
+    "Info": {
+      "Hash": 1634351675
+    },
+    "TextJoinItemID": 1102,
+    "PaperID": 2,
+    "Name": {
+      "Hash": -1868311216
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/FightFest/Avatar/CommentHeadIcon/CommentHeadIcon_1.png",
+    "SortWeight": 1,
+    "Detail": {
+      "Hash": 603332945
+    },
+    "Comment": {
+      "Hash": -1247099725
+    },
+    "Info": {
+      "Hash": 1634351674
+    },
+    "TextJoinItemID": 1103,
+    "PaperID": 2,
+    "Name": {
+      "Hash": -1868311217
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/FightFest/Avatar/CommentHeadIcon/CommentHeadIcon_1.png",
+    "SortWeight": 2,
+    "Detail": {
+      "Hash": -962750994
+    },
+    "Comment": {
+      "Hash": 1885068158
+    },
+    "Info": {
+      "Hash": -1094531683
+    },
+    "TextJoinItemID": 1111,
+    "PaperID": 2,
+    "Name": {
+      "Hash": 860572136
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/FightFest/Avatar/CommentHeadIcon/CommentHeadIcon_1.png",
+    "SortWeight": 2,
+    "Detail": {
+      "Hash": -962750995
+    },
+    "Comment": {
+      "Hash": 1481783631
+    },
+    "Info": {
+      "Hash": -1094531680
+    },
+    "TextJoinItemID": 1112,
+    "PaperID": 2,
+    "Name": {
+      "Hash": 860572139
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/FightFest/Avatar/CommentHeadIcon/CommentHeadIcon_1.png",
+    "SortWeight": 2,
+    "Detail": {
+      "Hash": -962750996
+    },
+    "Comment": {
+      "Hash": -1247099724
+    },
+    "Info": {
+      "Hash": -1094531681
+    },
+    "TextJoinItemID": 1113,
+    "PaperID": 2,
+    "Name": {
+      "Hash": 860572138
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/FightFest/Avatar/CommentHeadIcon/CommentHeadIcon_1.png",
+    "SortWeight": 1,
+    "Detail": {
+      "Hash": -559466467
+    },
+    "Comment": {
+      "Hash": 1885068155
+    },
+    "Info": {
+      "Hash": 471552258
+    },
+    "TextJoinItemID": 1121,
+    "PaperID": 3,
+    "Name": {
+      "Hash": 1263856663
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/FightFest/Avatar/CommentHeadIcon/CommentHeadIcon_1.png",
+    "SortWeight": 1,
+    "Detail": {
+      "Hash": -559466468
+    },
+    "Comment": {
+      "Hash": 1481783628
+    },
+    "Info": {
+      "Hash": 471552261
+    },
+    "TextJoinItemID": 1122,
+    "PaperID": 3,
+    "Name": {
+      "Hash": 1263856666
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/FightFest/Avatar/CommentHeadIcon/CommentHeadIcon_1.png",
+    "SortWeight": 1,
+    "Detail": {
+      "Hash": -559466469
+    },
+    "Comment": {
+      "Hash": -1247099727
+    },
+    "Info": {
+      "Hash": 471552260
+    },
+    "TextJoinItemID": 1123,
+    "PaperID": 3,
+    "Name": {
+      "Hash": 1263856665
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/FightFest/Avatar/CommentHeadIcon/CommentHeadIcon_1.png",
+    "SortWeight": 1,
+    "Detail": {
+      "Hash": -559466462
+    },
+    "Comment": {
+      "Hash": -1650384254
+    },
+    "Info": {
+      "Hash": 471552255
+    },
+    "TextJoinItemID": 1124,
+    "PaperID": 3,
+    "Name": {
+      "Hash": 1263856668
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/FightFest/Avatar/CommentHeadIcon/CommentHeadIcon_1.png",
+    "SortWeight": 2,
+    "Detail": {
+      "Hash": -2125550408
+    },
+    "Comment": {
+      "Hash": 1885068156
+    },
+    "Info": {
+      "Hash": 2037636199
+    },
+    "TextJoinItemID": 1131,
+    "PaperID": 3,
+    "Name": {
+      "Hash": -302227278
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/FightFest/Avatar/CommentHeadIcon/CommentHeadIcon_1.png",
+    "SortWeight": 2,
+    "Detail": {
+      "Hash": -2125550409
+    },
+    "Comment": {
+      "Hash": 1481783629
+    },
+    "Info": {
+      "Hash": 2037636202
+    },
+    "TextJoinItemID": 1132,
+    "PaperID": 3,
+    "Name": {
+      "Hash": -302227275
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/FightFest/Avatar/CommentHeadIcon/CommentHeadIcon_1.png",
+    "SortWeight": 2,
+    "Detail": {
+      "Hash": -2125550410
+    },
+    "Comment": {
+      "Hash": -1247099726
+    },
+    "Info": {
+      "Hash": 2037636201
+    },
+    "TextJoinItemID": 1133,
+    "PaperID": 3,
+    "Name": {
+      "Hash": -302227276
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/FightFest/Avatar/CommentHeadIcon/CommentHeadIcon_1.png",
+    "SortWeight": 2,
+    "Detail": {
+      "Hash": -2125550403
+    },
+    "Comment": {
+      "Hash": -1650384253
+    },
+    "Info": {
+      "Hash": 2037636196
+    },
+    "TextJoinItemID": 1134,
+    "PaperID": 3,
+    "Name": {
+      "Hash": -302227273
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/FightFest/Avatar/CommentHeadIcon/CommentHeadIcon_1.png",
+    "SortWeight": 1,
+    "Detail": {
+      "Hash": -1366035521
+    },
+    "Comment": {
+      "Hash": 1885068161
+    },
+    "Info": {
+      "Hash": -335016796
+    },
+    "TextJoinItemID": 1141,
+    "PaperID": 4,
+    "Name": {
+      "Hash": 101057249
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/FightFest/Avatar/CommentHeadIcon/CommentHeadIcon_1.png",
+    "SortWeight": 1,
+    "Detail": {
+      "Hash": -1366035522
+    },
+    "Comment": {
+      "Hash": 1481783634
+    },
+    "Info": {
+      "Hash": -335016793
+    },
+    "TextJoinItemID": 1142,
+    "PaperID": 4,
+    "Name": {
+      "Hash": 101057252
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/FightFest/Avatar/CommentHeadIcon/CommentHeadIcon_1.png",
+    "SortWeight": 1,
+    "Detail": {
+      "Hash": -1366035523
+    },
+    "Comment": {
+      "Hash": -1247099721
+    },
+    "Info": {
+      "Hash": -335016794
+    },
+    "TextJoinItemID": 1143,
+    "PaperID": 4,
+    "Name": {
+      "Hash": 101057251
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/FightFest/Avatar/CommentHeadIcon/CommentHeadIcon_1.png",
+    "SortWeight": 2,
+    "Detail": {
+      "Hash": 1362847834
+    },
+    "Comment": {
+      "Hash": 1885068162
+    },
+    "Info": {
+      "Hash": 1231067145
+    },
+    "TextJoinItemID": 1151,
+    "PaperID": 4,
+    "Name": {
+      "Hash": -1465026692
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/FightFest/Avatar/CommentHeadIcon/CommentHeadIcon_1.png",
+    "SortWeight": 2,
+    "Detail": {
+      "Hash": 1362847833
+    },
+    "Comment": {
+      "Hash": 1481783635
+    },
+    "Info": {
+      "Hash": 1231067148
+    },
+    "TextJoinItemID": 1152,
+    "PaperID": 4,
+    "Name": {
+      "Hash": -1465026689
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/FightFest/Avatar/CommentHeadIcon/CommentHeadIcon_1.png",
+    "SortWeight": 2,
+    "Detail": {
+      "Hash": 1362847832
+    },
+    "Comment": {
+      "Hash": -1247099720
+    },
+    "Info": {
+      "Hash": 1231067147
+    },
+    "TextJoinItemID": 1153,
+    "PaperID": 4,
+    "Name": {
+      "Hash": -1465026690
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/FightFest/Avatar/CommentHeadIcon/CommentHeadIcon_1.png",
+    "SortWeight": 1,
+    "Detail": {
+      "Hash": 1766132361
+    },
+    "Comment": {
+      "Hash": 1885068159
+    },
+    "Info": {
+      "Hash": -1497816210
+    },
+    "TextJoinItemID": 1161,
+    "PaperID": 5,
+    "Name": {
+      "Hash": -1061742165
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/FightFest/Avatar/CommentHeadIcon/CommentHeadIcon_1.png",
+    "SortWeight": 2,
+    "Detail": {
+      "Hash": 200048420
+    },
+    "Comment": {
+      "Hash": 1885068160
+    },
+    "Info": {
+      "Hash": 68267731
+    },
+    "TextJoinItemID": 1171,
+    "PaperID": 5,
+    "Name": {
+      "Hash": 1667141190
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/FightFest/Avatar/CommentHeadIcon/CommentHeadIcon_1.png",
+    "SortWeight": 1,
+    "Detail": {
+      "Hash": 959563307
+    },
+    "Comment": {
+      "Hash": 1885068149
+    },
+    "Info": {
+      "Hash": 1278121312
+    },
+    "TextJoinItemID": 1181,
+    "PaperID": 6,
+    "Name": {
+      "Hash": 2070425717
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/FightFest/Avatar/CommentHeadIcon/CommentHeadIcon_1.png",
+    "SortWeight": 2,
+    "Detail": {
+      "Hash": -606520634
+    },
+    "Comment": {
+      "Hash": 1885068150
+    },
+    "Info": {
+      "Hash": -1450762043
+    },
+    "TextJoinItemID": 1191,
+    "PaperID": 6,
+    "Name": {
+      "Hash": 504341776
+    }
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "RogueBuffTypeLargeIcon": "SpriteOutput/AvatarProfessionTattoo/Profession/BgPathsKnight.png",
+    "RogueBuffTypeIcon": "SpriteOutput/ProfessionIconMiddle/IconProfessionKnightMiddle.png",
+    "RogueBuffTypeDecoName": "Preservation",
+    "RogueBuffTypeSmallIcon": "SpriteOutput/ProfessionIconSmall/IconProfessionKnightSmall.png",
+    "RogueBuffTypeName": {
+      "Hash": 1330826108
+    },
+    "RogueBuffType": 120
+  },
+  {
+    "RogueBuffTypeLargeIcon": "SpriteOutput/AvatarProfessionTattoo/Profession/BgPathsMemory.png",
+    "RogueBuffTypeIcon": "SpriteOutput/ProfessionIconMiddle/IconProfessionMemoryMiddle.png",
+    "RogueBuffTypeDecoName": "Remembrance",
+    "RogueBuffTypeSmallIcon": "SpriteOutput/ProfessionIconSmall/IconProfessionMemorySmall.png",
+    "RogueBuffTypeName": {
+      "Hash": -235257833
+    },
+    "RogueBuffType": 121
+  },
+  {
+    "RogueBuffTypeLargeIcon": "SpriteOutput/AvatarProfessionTattoo/Profession/BgPathsWarlock.png",
+    "RogueBuffTypeIcon": "SpriteOutput/ProfessionIconMiddle/IconProfessionWarlockMiddle.png",
+    "RogueBuffTypeDecoName": "Elation",
+    "RogueBuffTypeSmallIcon": "SpriteOutput/ProfessionIconSmall/IconProfessionWarlockSmall.png",
+    "RogueBuffTypeName": {
+      "Hash": 168026694
+    },
+    "RogueBuffType": 122
+  },
+  {
+    "RogueBuffTypeLargeIcon": "SpriteOutput/AvatarProfessionTattoo/Profession/BgPathsPirest.png",
+    "RogueBuffTypeIcon": "SpriteOutput/ProfessionIconMiddle/IconProfessionPirestMiddle.png",
+    "RogueBuffTypeDecoName": "TheHunt",
+    "RogueBuffTypeSmallIcon": "SpriteOutput/ProfessionIconSmall/IconProfessionPirestSmall.png",
+    "RogueBuffTypeName": {
+      "Hash": -1398057247
+    },
+    "RogueBuffType": 123
+  },
+  {
+    "RogueBuffTypeLargeIcon": "SpriteOutput/AvatarProfessionTattoo/Profession/BgPathsRogue.png",
+    "RogueBuffTypeIcon": "SpriteOutput/ProfessionIconMiddle/IconProfessionRogueMiddle.png",
+    "RogueBuffTypeDecoName": "Destruction",
+    "RogueBuffTypeSmallIcon": "SpriteOutput/ProfessionIconSmall/IconProfessionRogueSmall.png",
+    "RogueBuffTypeName": {
+      "Hash": -638542360
+    },
+    "RogueBuffType": 124
+  },
+  {
+    "RogueBuffTypeLargeIcon": "SpriteOutput/AvatarProfessionTattoo/Profession/BgPathsWarrior.png",
+    "RogueBuffTypeIcon": "SpriteOutput/ProfessionIconMiddle/IconProfessionWarriorMiddle.png",
+    "RogueBuffTypeDecoName": "Nihility",
+    "RogueBuffTypeSmallIcon": "SpriteOutput/ProfessionIconSmall/IconProfessionWarriorSmall.png",
+    "RogueBuffTypeName": {
+      "Hash": 2090340995
+    },
+    "RogueBuffType": 125
+  },
+  {
+    "RogueBuffTypeLargeIcon": "SpriteOutput/AvatarProfessionTattoo/Profession/BgPathsJoy.png",
+    "RogueBuffTypeIcon": "SpriteOutput/ProfessionIconMiddle/IconProfessionJoyMiddle.png",
+    "RogueBuffTypeDecoName": "Abundance",
+    "RogueBuffTypeSmallIcon": "SpriteOutput/ProfessionIconSmall/IconProfessionJoySmall.png",
+    "RogueBuffTypeName": {
+      "Hash": -1801341774
+    },
+    "RogueBuffType": 126
+  },
+  {
+    "RogueBuffTypeLargeIcon": "SpriteOutput/AvatarProfessionTattoo/Profession/BgPathsPropagation.png",
+    "RogueBuffTypeIcon": "SpriteOutput/ProfessionIconMiddle/IconProfessionPropagationMiddle.png",
+    "RogueBuffTypeDecoName": "Propagation",
+    "RogueBuffTypeSmallIcon": "SpriteOutput/ProfessionIconSmall/IconProfessionPropagationSmall.png",
+    "RogueBuffTypeName": {
+      "Hash": 927541581
+    },
+    "RogueBuffType": 127
+  },
+  {
+    "RogueBuffTypeLargeIcon": "SpriteOutput/AvatarProfessionTattoo/Profession/BgPathsnMage.png",
+    "RogueBuffTypeIcon": "SpriteOutput/ProfessionIconMiddle/IconProfessionMageMiddle.png",
+    "RogueBuffTypeDecoName": "Erudition",
+    "RogueBuffTypeSmallIcon": "SpriteOutput/ProfessionIconSmall/IconProfessionMageSmall.png",
+    "RogueBuffTypeName": {
+      "Hash": 974595748
+    },
+    "RogueBuffType": 128
+  }
+]

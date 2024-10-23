@@ -1,0 +1,2409 @@
+[
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 100086,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 2000169,
+    "MazePlaneID": 10101,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 10101001,
+    "ID": 100086,
+    "TakeType": "Auto",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 100087,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 2000034,
+    "MazePlaneID": 10101,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 10101001,
+    "ID": 100087,
+    "TakeType": "Auto",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 100088,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 2000045,
+    "MazePlaneID": 10101,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 10101001,
+    "ID": 100088,
+    "TakeType": "Auto",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 100089,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 2000070,
+    "MazePlaneID": 10101,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 10101001,
+    "ID": 100089,
+    "TakeType": "Auto",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 100113,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 2000019,
+    "MazePlaneID": 10102,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 10102001,
+    "ID": 100113,
+    "TakeType": "Auto",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 100114,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 1001,
+    "MazePlaneID": 10101,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 10101001,
+    "ID": 100114,
+    "TakeType": "Client",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 100115,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 2000049,
+    "MazePlaneID": 20003,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 20003001,
+    "ID": 100115,
+    "TakeType": "Auto",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 100116,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 2000050,
+    "MazePlaneID": 20003,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 20003001,
+    "ID": 100116,
+    "TakeType": "Auto",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 100117,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 2000051,
+    "MazePlaneID": 20003,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 20003001,
+    "ID": 100117,
+    "TakeType": "Auto",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 100118,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 2000052,
+    "MazePlaneID": 20002,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 20002001,
+    "ID": 100118,
+    "TakeType": "Auto",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 100119,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 2000053,
+    "MazePlaneID": 20002,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 20002001,
+    "ID": 100119,
+    "TakeType": "Auto",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 100120,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 2000054,
+    "MazePlaneID": 20002,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 20002001,
+    "ID": 100120,
+    "TakeType": "Auto",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 100121,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 2000055,
+    "MazePlaneID": 20002,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 20002001,
+    "ID": 100121,
+    "TakeType": "Auto",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 100122,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 2000056,
+    "MazePlaneID": 20003,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 20003001,
+    "ID": 100122,
+    "TakeType": "Auto",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 100123,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 100,
+    "MazePlaneID": 10101,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 10101005,
+    "ID": 100123,
+    "TakeType": "Client",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 100124,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 100,
+    "MazePlaneID": 10101,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 10101005,
+    "ID": 100124,
+    "TakeType": "Client",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 100125,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 100,
+    "MazePlaneID": 10101,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 10101005,
+    "ID": 100125,
+    "TakeType": "Client",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 100126,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 100,
+    "MazePlaneID": 10101,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 10101007,
+    "ID": 100126,
+    "TakeType": "Client",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 100127,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 100,
+    "MazePlaneID": 10101,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 10101001,
+    "ID": 100127,
+    "TakeType": "Client",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 100128,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 2000258,
+    "MazePlaneID": 20122,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 20122001,
+    "ID": 100128,
+    "TakeType": "Client",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 100129,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 100,
+    "MazePlaneID": 10102,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 10102001,
+    "ID": 100129,
+    "TakeType": "Client",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 100130,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 100,
+    "MazePlaneID": 10101,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 10101007,
+    "ID": 100130,
+    "TakeType": "Client",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 100131,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 100,
+    "MazePlaneID": 10101,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 10101007,
+    "ID": 100131,
+    "TakeType": "Client",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [
+      200002
+    ],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 200001,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 100,
+    "MazePlaneID": 10101,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 10101001,
+    "ID": 200001,
+    "TakeType": "Auto",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [
+      200003
+    ],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 200002,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 100,
+    "MazePlaneID": 10101,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 10101001,
+    "ID": 200002,
+    "TakeType": "Manual",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [
+      200004,
+      200005,
+      200006,
+      200007,
+      200008,
+      200009,
+      200010,
+      200011,
+      200012,
+      200013,
+      200014,
+      200015,
+      200016,
+      200017,
+      200018,
+      200019,
+      200020,
+      200021,
+      200022,
+      200045
+    ],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 200003,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 2000107,
+    "MazePlaneID": 10101,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 10101001,
+    "ID": 200003,
+    "TakeType": "Manual",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 200009,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 2000031,
+    "MazePlaneID": 10101,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 10101001,
+    "ID": 200009,
+    "TakeType": "Manual",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 200010,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 2000110,
+    "MazePlaneID": 10101,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 10101001,
+    "ID": 200010,
+    "TakeType": "Manual",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 200004,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 1002,
+    "MazePlaneID": 10101,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 10101001,
+    "ID": 200004,
+    "TakeType": "Manual",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 200005,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 1003,
+    "MazePlaneID": 10101,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 10101001,
+    "ID": 200005,
+    "TakeType": "Manual",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 200006,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 1004,
+    "MazePlaneID": 10101,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 10101001,
+    "ID": 200006,
+    "TakeType": "Manual",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 200007,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 1001,
+    "MazePlaneID": 10101,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 10101001,
+    "ID": 200007,
+    "TakeType": "Manual",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 200008,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 1002,
+    "MazePlaneID": 10101,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 10101001,
+    "ID": 200008,
+    "TakeType": "Manual",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 200011,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 2000108,
+    "MazePlaneID": 10101,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 10101001,
+    "ID": 200011,
+    "TakeType": "Manual",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 200012,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 2000040,
+    "MazePlaneID": 10101,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 10101001,
+    "ID": 200012,
+    "TakeType": "Manual",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 200013,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 2000163,
+    "MazePlaneID": 10101,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 10101001,
+    "ID": 200013,
+    "TakeType": "Manual",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 200014,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 1001,
+    "MazePlaneID": 10101,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 10101001,
+    "ID": 200014,
+    "TakeType": "Manual",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 200015,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 2000111,
+    "MazePlaneID": 10101,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 10101001,
+    "ID": 200015,
+    "TakeType": "Manual",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 200016,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 1003,
+    "MazePlaneID": 10101,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 10101001,
+    "ID": 200016,
+    "TakeType": "Manual",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 200017,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 1004,
+    "MazePlaneID": 10101,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 10101001,
+    "ID": 200017,
+    "TakeType": "Manual",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 200018,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 1001,
+    "MazePlaneID": 10101,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 10101001,
+    "ID": 200018,
+    "TakeType": "Manual",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 200019,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 2000032,
+    "MazePlaneID": 10101,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 10101001,
+    "ID": 200019,
+    "TakeType": "Manual",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 200020,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 2000109,
+    "MazePlaneID": 10101,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 10101001,
+    "ID": 200020,
+    "TakeType": "Manual",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 200021,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 1003,
+    "MazePlaneID": 10101,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 10101001,
+    "ID": 200021,
+    "TakeType": "Manual",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 200022,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 1004,
+    "MazePlaneID": 10101,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 10101001,
+    "ID": 200022,
+    "TakeType": "Manual",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 200023,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 1001,
+    "MazePlaneID": 10101,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 10101001,
+    "ID": 200023,
+    "TakeType": "Auto",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 200024,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 1002,
+    "MazePlaneID": 10101,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 10101001,
+    "ID": 200024,
+    "TakeType": "Auto",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 200025,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 1003,
+    "MazePlaneID": 10101,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 10101001,
+    "ID": 200025,
+    "TakeType": "Auto",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 200026,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 1004,
+    "MazePlaneID": 10101,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 10101001,
+    "ID": 200026,
+    "TakeType": "Auto",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 200027,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 100,
+    "MazePlaneID": 10101,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 10101001,
+    "ID": 200027,
+    "TakeType": "Client",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 200028,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 100,
+    "MazePlaneID": 10101,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 10101001,
+    "ID": 200028,
+    "TakeType": "Client",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 200029,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 100,
+    "MazePlaneID": 10101,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 10101001,
+    "ID": 200029,
+    "TakeType": "Client",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 200030,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 100,
+    "MazePlaneID": 10101,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 10101001,
+    "ID": 200030,
+    "TakeType": "Client",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 200031,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 100,
+    "MazePlaneID": 10101,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 10101001,
+    "ID": 200031,
+    "TakeType": "Client",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 200032,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 100,
+    "MazePlaneID": 10101,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 10101001,
+    "ID": 200032,
+    "TakeType": "Client",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 200033,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 100,
+    "MazePlaneID": 10101,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 10101001,
+    "ID": 200033,
+    "TakeType": "Client",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 200034,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 2000112,
+    "MazePlaneID": 10101,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 10101001,
+    "ID": 200034,
+    "TakeType": "Client",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 200035,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 100,
+    "MazePlaneID": 10101,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 10101001,
+    "ID": 200035,
+    "TakeType": "Client",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 200036,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 100,
+    "MazePlaneID": 10101,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 10101001,
+    "ID": 200036,
+    "TakeType": "Client",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 200037,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 100,
+    "MazePlaneID": 10101,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 10101001,
+    "ID": 200037,
+    "TakeType": "Client",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 200038,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 100,
+    "MazePlaneID": 10101,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 10101001,
+    "ID": 200038,
+    "TakeType": "Client",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 200039,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 2000135,
+    "MazePlaneID": 10101,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 10101001,
+    "ID": 200039,
+    "TakeType": "Client",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 200040,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 2000134,
+    "MazePlaneID": 10101,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 10101001,
+    "ID": 200040,
+    "TakeType": "Client",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 200041,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 100,
+    "MazePlaneID": 10101,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 10101001,
+    "ID": 200041,
+    "TakeType": "Client",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 200042,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 2000134,
+    "MazePlaneID": 10101,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 10101001,
+    "ID": 200042,
+    "TakeType": "Client",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 200043,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 2000136,
+    "MazePlaneID": 10101,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 10101001,
+    "ID": 200043,
+    "TakeType": "Client",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 200044,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 100,
+    "MazePlaneID": 10101,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 10101001,
+    "ID": 200044,
+    "TakeType": "Client",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 200045,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 1004,
+    "MazePlaneID": 10101,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 10101001,
+    "ID": 200045,
+    "TakeType": "Manual",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 200046,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 1004,
+    "MazePlaneID": 10101,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 10101001,
+    "ID": 200046,
+    "TakeType": "Auto",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 200047,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 1004,
+    "MazePlaneID": 10101,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 10101001,
+    "ID": 200047,
+    "TakeType": "Auto",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 200048,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 100,
+    "MazePlaneID": 10101,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 10101001,
+    "ID": 200048,
+    "TakeType": "Client",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 200049,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 100,
+    "MazePlaneID": 10101,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 10101001,
+    "ID": 200049,
+    "TakeType": "Client",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 200050,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 2000137,
+    "MazePlaneID": 10101,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 10101001,
+    "ID": 200050,
+    "TakeType": "Client",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 200051,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 2000138,
+    "MazePlaneID": 10101,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 10101001,
+    "ID": 200051,
+    "TakeType": "Client",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 200052,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 2000134,
+    "MazePlaneID": 10101,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 10101001,
+    "ID": 200052,
+    "TakeType": "Client",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 200101,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 100,
+    "MazePlaneID": 10101,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 10101004,
+    "ID": 200101,
+    "TakeType": "Auto",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [
+      200101
+    ],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 200102,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 100,
+    "MazePlaneID": 10101,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 10101004,
+    "ID": 200102,
+    "TakeType": "SequenceNextDay",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [
+      200102
+    ],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 200103,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 100,
+    "MazePlaneID": 10101,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 10101004,
+    "ID": 200103,
+    "TakeType": "SequenceNextDay",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [
+      200103
+    ],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 200104,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 100,
+    "MazePlaneID": 10101,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 10101004,
+    "ID": 200104,
+    "TakeType": "SequenceNextDay",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 200201,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 1001,
+    "MazePlaneID": 10102,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 10102001,
+    "ID": 200201,
+    "TakeType": "Auto",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 200202,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 1001,
+    "MazePlaneID": 10102,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 10102001,
+    "ID": 200202,
+    "TakeType": "Auto",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 200203,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 1001,
+    "MazePlaneID": 10102,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 10102001,
+    "ID": 200203,
+    "TakeType": "Auto",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 200204,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 1001,
+    "MazePlaneID": 10102,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 10102001,
+    "ID": 200204,
+    "TakeType": "Auto",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 200205,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 1001,
+    "MazePlaneID": 10102,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 10102001,
+    "ID": 200205,
+    "TakeType": "Auto",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 200206,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 1001,
+    "MazePlaneID": 10102,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 10102001,
+    "ID": 200206,
+    "TakeType": "Auto",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 200207,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 1001,
+    "MazePlaneID": 10102,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 10102001,
+    "ID": 200207,
+    "TakeType": "Auto",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 200208,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 1001,
+    "MazePlaneID": 10102,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 10102001,
+    "ID": 200208,
+    "TakeType": "Auto",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 200209,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 1001,
+    "MazePlaneID": 10102,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 10102001,
+    "ID": 200209,
+    "TakeType": "Auto",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 200210,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 1001,
+    "MazePlaneID": 10102,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 10102001,
+    "ID": 200210,
+    "TakeType": "Auto",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 200211,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 1001,
+    "MazePlaneID": 10102,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 10102001,
+    "ID": 200211,
+    "TakeType": "Auto",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 200212,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 1001,
+    "MazePlaneID": 10102,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 10102001,
+    "ID": 200212,
+    "TakeType": "Auto",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 200213,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 1001,
+    "MazePlaneID": 10102,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 10102001,
+    "ID": 200213,
+    "TakeType": "Auto",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 200214,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 1001,
+    "MazePlaneID": 10102,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 10102001,
+    "ID": 200214,
+    "TakeType": "Auto",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 200215,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 1001,
+    "MazePlaneID": 10102,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 10102001,
+    "ID": 200215,
+    "TakeType": "Auto",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 200216,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 1001,
+    "MazePlaneID": 10102,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 10102001,
+    "ID": 200216,
+    "TakeType": "Auto",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 200217,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 1001,
+    "MazePlaneID": 10102,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 10102004,
+    "ID": 200217,
+    "TakeType": "Auto",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 200218,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 2000109,
+    "MazePlaneID": 10102,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 10102001,
+    "ID": 200218,
+    "TakeType": "Client",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 200219,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 2000170,
+    "MazePlaneID": 10102,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 10102001,
+    "ID": 200219,
+    "TakeType": "Client",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 200220,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 2000134,
+    "MazePlaneID": 10102,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 10102001,
+    "ID": 200220,
+    "TakeType": "Client",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 200221,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 2000171,
+    "MazePlaneID": 10102,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 10102001,
+    "ID": 200221,
+    "TakeType": "Client",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 200222,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 2000172,
+    "MazePlaneID": 10102,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 10102001,
+    "ID": 200222,
+    "TakeType": "Client",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 200223,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 2000173,
+    "MazePlaneID": 10102,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 10102001,
+    "ID": 200223,
+    "TakeType": "Client",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 200224,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 2000174,
+    "MazePlaneID": 10102,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 10102001,
+    "ID": 200224,
+    "TakeType": "Client",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 200225,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 2000108,
+    "MazePlaneID": 10102,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 10102001,
+    "ID": 200225,
+    "TakeType": "Client",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 200226,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 2000175,
+    "MazePlaneID": 10102,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 10102001,
+    "ID": 200226,
+    "TakeType": "Client",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 200227,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 100,
+    "MazePlaneID": 10102,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 10102001,
+    "ID": 200227,
+    "TakeType": "Client",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 200228,
+    "Title": {
+      "Hash": 371857150
+    },
+    "RewardID": 100,
+    "MazePlaneID": 10102,
+    "Desc": {
+      "Hash": 371857150
+    },
+    "MazeFloorID": 10102001,
+    "ID": 200228,
+    "TakeType": "Client",
+    "TakeParamInt1": 0,
+    "Type": "Normal"
+  },
+  {
+    "NextEventMissionList": [],
+    "LoadGroupList": [],
+    "ClearGroupList": [],
+    "UnLoadGroupList": [],
+    "TakeParamIntList": [],
+    "MissionJsonPath": "Config/Level/Mission/Common/Mission_Null.json",
+    "FinishWayID": 900201,
+    "Title": {
+      "Hash": -1618761686
+    },
+    "RewardID": 0,
+    "MazePlaneID": 40131,
+    "Desc": {
+      "Hash": -377872577
+    },
+    "MazeFloorID": 40131001,
+    "ID": 900201,
+    "TakeType": "Client",
+    "TakeParamInt1": 0,
+    "Type": "Challenge"
+  }
+]

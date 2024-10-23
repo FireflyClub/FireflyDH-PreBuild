@@ -1,0 +1,822 @@
+[
+  {
+    "WorldLevel2DisplayMonster": [
+      {
+        "BEOCIDJJMJC": 25,
+        "PMCGJGFCKCK": 2004011
+      },
+      {
+        "BEOCIDJJMJC": 35,
+        "PMCGJGFCKCK": 2004011
+      },
+      {
+        "BEOCIDJJMJC": 45,
+        "PMCGJGFCKCK": 2004011
+      },
+      {
+        "BEOCIDJJMJC": 55,
+        "PMCGJGFCKCK": 2004011
+      },
+      {
+        "BEOCIDJJMJC": 65,
+        "PMCGJGFCKCK": 2004011
+      },
+      {
+        "BEOCIDJJMJC": 80,
+        "PMCGJGFCKCK": 2004011
+      },
+      {
+        "BEOCIDJJMJC": 90,
+        "PMCGJGFCKCK": 2004011
+      }
+    ],
+    "CustomStageDisplayParams": [],
+    "CustomStageDisplayIcon": "",
+    "LayerIDList": [
+      101
+    ],
+    "DifficultyIDList": [
+      1
+    ],
+    "IsHard": false,
+    "AreaGroupID": "Guide",
+    "AreaNameID": {
+      "Hash": -886443383
+    },
+    "ExtraLayerID": 0,
+    "AreaID": 101,
+    "AreaIndex": 0,
+    "UnlockID": 0,
+    "FirstReward": 111300,
+    "DefaultStyle": "Ultimate"
+  },
+  {
+    "WorldLevel2DisplayMonster": [
+      {
+        "BEOCIDJJMJC": 30,
+        "PMCGJGFCKCK": 3003042
+      },
+      {
+        "BEOCIDJJMJC": 40,
+        "PMCGJGFCKCK": 3003042
+      },
+      {
+        "BEOCIDJJMJC": 50,
+        "PMCGJGFCKCK": 3003042
+      },
+      {
+        "BEOCIDJJMJC": 60,
+        "PMCGJGFCKCK": 3003042
+      },
+      {
+        "BEOCIDJJMJC": 70,
+        "PMCGJGFCKCK": 3003042
+      },
+      {
+        "BEOCIDJJMJC": 85,
+        "PMCGJGFCKCK": 3003042
+      },
+      {
+        "BEOCIDJJMJC": 95,
+        "PMCGJGFCKCK": 3003042
+      }
+    ],
+    "CustomStageDisplayParams": [],
+    "CustomStageDisplayIcon": "",
+    "LayerIDList": [
+      201,
+      202
+    ],
+    "DifficultyIDList": [
+      11,
+      12
+    ],
+    "IsHard": false,
+    "AreaGroupID": "Formal",
+    "AreaNameID": {
+      "Hash": -886443350
+    },
+    "ExtraLayerID": 0,
+    "AreaID": 201,
+    "AreaIndex": 1,
+    "UnlockID": 5013017,
+    "FirstReward": 111301,
+    "DefaultStyle": "Dot"
+  },
+  {
+    "WorldLevel2DisplayMonster": [
+      {
+        "BEOCIDJJMJC": 30,
+        "PMCGJGFCKCK": 3024023
+      },
+      {
+        "BEOCIDJJMJC": 40,
+        "PMCGJGFCKCK": 3024023
+      },
+      {
+        "BEOCIDJJMJC": 50,
+        "PMCGJGFCKCK": 3024023
+      },
+      {
+        "BEOCIDJJMJC": 60,
+        "PMCGJGFCKCK": 3024023
+      },
+      {
+        "BEOCIDJJMJC": 70,
+        "PMCGJGFCKCK": 3024023
+      },
+      {
+        "BEOCIDJJMJC": 85,
+        "PMCGJGFCKCK": 3024023
+      },
+      {
+        "BEOCIDJJMJC": 95,
+        "PMCGJGFCKCK": 3024023
+      }
+    ],
+    "CustomStageDisplayParams": [],
+    "CustomStageDisplayIcon": "",
+    "LayerIDList": [
+      301,
+      302,
+      303
+    ],
+    "DifficultyIDList": [
+      21,
+      22,
+      23
+    ],
+    "IsHard": false,
+    "AreaGroupID": "Formal",
+    "AreaNameID": {
+      "Hash": -886443317
+    },
+    "ExtraLayerID": 0,
+    "AreaID": 301,
+    "AreaIndex": 2,
+    "UnlockID": 5013001,
+    "FirstReward": 111302,
+    "DefaultStyle": "Follow"
+  },
+  {
+    "WorldLevel2DisplayMonster": [
+      {
+        "BEOCIDJJMJC": 30,
+        "PMCGJGFCKCK": 8024012
+      },
+      {
+        "BEOCIDJJMJC": 40,
+        "PMCGJGFCKCK": 8024012
+      },
+      {
+        "BEOCIDJJMJC": 50,
+        "PMCGJGFCKCK": 8024012
+      },
+      {
+        "BEOCIDJJMJC": 60,
+        "PMCGJGFCKCK": 8024012
+      },
+      {
+        "BEOCIDJJMJC": 70,
+        "PMCGJGFCKCK": 8024012
+      },
+      {
+        "BEOCIDJJMJC": 85,
+        "PMCGJGFCKCK": 8024012
+      },
+      {
+        "BEOCIDJJMJC": 95,
+        "PMCGJGFCKCK": 8024012
+      }
+    ],
+    "CustomStageDisplayParams": [],
+    "CustomStageDisplayIcon": "",
+    "LayerIDList": [
+      1101,
+      1201,
+      1302
+    ],
+    "DifficultyIDList": [
+      31,
+      32,
+      33
+    ],
+    "IsHard": false,
+    "AreaGroupID": "Formal",
+    "AreaNameID": {
+      "Hash": -886443548
+    },
+    "ExtraLayerID": 0,
+    "AreaID": 401,
+    "AreaIndex": 3,
+    "UnlockID": 5013002,
+    "FirstReward": 111303,
+    "DefaultStyle": "Break"
+  },
+  {
+    "WorldLevel2DisplayMonster": [
+      {
+        "BEOCIDJJMJC": 30,
+        "PMCGJGFCKCK": 2034012
+      },
+      {
+        "BEOCIDJJMJC": 40,
+        "PMCGJGFCKCK": 2034012
+      },
+      {
+        "BEOCIDJJMJC": 50,
+        "PMCGJGFCKCK": 2034012
+      },
+      {
+        "BEOCIDJJMJC": 60,
+        "PMCGJGFCKCK": 2034012
+      },
+      {
+        "BEOCIDJJMJC": 70,
+        "PMCGJGFCKCK": 2034012
+      },
+      {
+        "BEOCIDJJMJC": 85,
+        "PMCGJGFCKCK": 2034012
+      },
+      {
+        "BEOCIDJJMJC": 95,
+        "PMCGJGFCKCK": 2034012
+      }
+    ],
+    "CustomStageDisplayParams": [],
+    "CustomStageDisplayIcon": "",
+    "LayerIDList": [
+      1101,
+      1201,
+      1302
+    ],
+    "DifficultyIDList": [
+      41,
+      42,
+      43
+    ],
+    "IsHard": false,
+    "AreaGroupID": "Formal",
+    "AreaNameID": {
+      "Hash": -886443515
+    },
+    "ExtraLayerID": 0,
+    "AreaID": 501,
+    "AreaIndex": 4,
+    "UnlockID": 5013003,
+    "FirstReward": 111304,
+    "DefaultStyle": "Ultimate"
+  },
+  {
+    "WorldLevel2DisplayMonster": [
+      {
+        "BEOCIDJJMJC": 30,
+        "PMCGJGFCKCK": 2034012
+      },
+      {
+        "BEOCIDJJMJC": 40,
+        "PMCGJGFCKCK": 2034012
+      },
+      {
+        "BEOCIDJJMJC": 50,
+        "PMCGJGFCKCK": 2034012
+      },
+      {
+        "BEOCIDJJMJC": 60,
+        "PMCGJGFCKCK": 2034012
+      },
+      {
+        "BEOCIDJJMJC": 70,
+        "PMCGJGFCKCK": 2034012
+      },
+      {
+        "BEOCIDJJMJC": 85,
+        "PMCGJGFCKCK": 2034012
+      },
+      {
+        "BEOCIDJJMJC": 95,
+        "PMCGJGFCKCK": 2034012
+      }
+    ],
+    "CustomStageDisplayParams": [],
+    "CustomStageDisplayIcon": "",
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      51,
+      52,
+      53,
+      54
+    ],
+    "IsHard": true,
+    "AreaGroupID": "Formal",
+    "AreaNameID": {
+      "Hash": -886443482
+    },
+    "ExtraLayerID": 1401,
+    "AreaID": 601,
+    "AreaIndex": 5,
+    "UnlockID": 5013004,
+    "FirstReward": 111305,
+    "DefaultStyle": "Ultimate"
+  },
+  {
+    "WorldLevel2DisplayMonster": [
+      {
+        "BEOCIDJJMJC": 30,
+        "PMCGJGFCKCK": 2034012
+      },
+      {
+        "BEOCIDJJMJC": 40,
+        "PMCGJGFCKCK": 2034012
+      },
+      {
+        "BEOCIDJJMJC": 50,
+        "PMCGJGFCKCK": 2034012
+      },
+      {
+        "BEOCIDJJMJC": 60,
+        "PMCGJGFCKCK": 2034012
+      },
+      {
+        "BEOCIDJJMJC": 70,
+        "PMCGJGFCKCK": 2034012
+      },
+      {
+        "BEOCIDJJMJC": 85,
+        "PMCGJGFCKCK": 2034012
+      },
+      {
+        "BEOCIDJJMJC": 95,
+        "PMCGJGFCKCK": 2034012
+      }
+    ],
+    "CustomStageDisplayParams": [],
+    "CustomStageDisplayIcon": "",
+    "LayerIDList": [
+      4101,
+      4201,
+      4301
+    ],
+    "DifficultyIDList": [
+      31,
+      32,
+      33
+    ],
+    "IsHard": false,
+    "AreaGroupID": "Final",
+    "AreaNameID": {
+      "Hash": -886443449
+    },
+    "ExtraLayerID": 0,
+    "AreaID": 701,
+    "AreaIndex": 0,
+    "UnlockID": 5013260,
+    "FirstReward": 111306,
+    "DefaultStyle": "Ultimate"
+  },
+  {
+    "WorldLevel2DisplayMonster": [
+      {
+        "BEOCIDJJMJC": 30,
+        "PMCGJGFCKCK": 8024010
+      },
+      {
+        "BEOCIDJJMJC": 40,
+        "PMCGJGFCKCK": 8024010
+      },
+      {
+        "BEOCIDJJMJC": 50,
+        "PMCGJGFCKCK": 8024010
+      },
+      {
+        "BEOCIDJJMJC": 60,
+        "PMCGJGFCKCK": 8024010
+      },
+      {
+        "BEOCIDJJMJC": 70,
+        "PMCGJGFCKCK": 8024010
+      },
+      {
+        "BEOCIDJJMJC": 85,
+        "PMCGJGFCKCK": 8024010
+      },
+      {
+        "BEOCIDJJMJC": 95,
+        "PMCGJGFCKCK": 8024010
+      }
+    ],
+    "CustomStageDisplayParams": [
+      {
+        "DOJFLNAILGJ": "2006_2",
+        "MPNJPFDCBDG": "Scepter"
+      },
+      {
+        "DOJFLNAILGJ": "6056_1",
+        "MPNJPFDCBDG": "MagicUnit"
+      },
+      {
+        "DOJFLNAILGJ": "5013_2",
+        "MPNJPFDCBDG": "MagicUnit"
+      },
+      {
+        "DOJFLNAILGJ": "6017_2",
+        "MPNJPFDCBDG": "MagicUnit"
+      }
+    ],
+    "CustomStageDisplayIcon": "UI/UI3D/Rogue/DLC/RogueMagic/Texture/RogueMagicBattleCustomDetail_Icon3.png",
+    "LayerIDList": [
+      1101,
+      1201,
+      1302
+    ],
+    "DifficultyIDList": [
+      71,
+      72,
+      73
+    ],
+    "IsHard": false,
+    "AreaGroupID": "Customization",
+    "AreaNameID": {
+      "Hash": -886443152
+    },
+    "ExtraLayerID": 0,
+    "AreaID": 801,
+    "AreaIndex": 1,
+    "UnlockID": 5013028,
+    "FirstReward": 111311,
+    "DefaultStyle": "Break"
+  },
+  {
+    "WorldLevel2DisplayMonster": [
+      {
+        "BEOCIDJJMJC": 30,
+        "PMCGJGFCKCK": 8024010
+      },
+      {
+        "BEOCIDJJMJC": 40,
+        "PMCGJGFCKCK": 8024010
+      },
+      {
+        "BEOCIDJJMJC": 50,
+        "PMCGJGFCKCK": 8024010
+      },
+      {
+        "BEOCIDJJMJC": 60,
+        "PMCGJGFCKCK": 8024010
+      },
+      {
+        "BEOCIDJJMJC": 70,
+        "PMCGJGFCKCK": 8024010
+      },
+      {
+        "BEOCIDJJMJC": 85,
+        "PMCGJGFCKCK": 8024010
+      },
+      {
+        "BEOCIDJJMJC": 95,
+        "PMCGJGFCKCK": 8024010
+      }
+    ],
+    "CustomStageDisplayParams": [
+      {
+        "DOJFLNAILGJ": "2001_2",
+        "MPNJPFDCBDG": "Scepter"
+      },
+      {
+        "DOJFLNAILGJ": "6064_1",
+        "MPNJPFDCBDG": "MagicUnit"
+      },
+      {
+        "DOJFLNAILGJ": "5002_2",
+        "MPNJPFDCBDG": "MagicUnit"
+      },
+      {
+        "DOJFLNAILGJ": "6019_2",
+        "MPNJPFDCBDG": "MagicUnit"
+      }
+    ],
+    "CustomStageDisplayIcon": "UI/UI3D/Rogue/DLC/RogueMagic/Texture/RogueMagicBattleCustomDetail_Icon4.png",
+    "LayerIDList": [
+      1101,
+      1201,
+      1302
+    ],
+    "DifficultyIDList": [
+      71,
+      72,
+      73
+    ],
+    "IsHard": false,
+    "AreaGroupID": "Customization",
+    "AreaNameID": {
+      "Hash": -886443149
+    },
+    "ExtraLayerID": 0,
+    "AreaID": 802,
+    "AreaIndex": 2,
+    "UnlockID": 5013028,
+    "FirstReward": 111312,
+    "DefaultStyle": "Dot"
+  },
+  {
+    "WorldLevel2DisplayMonster": [
+      {
+        "BEOCIDJJMJC": 30,
+        "PMCGJGFCKCK": 8024010
+      },
+      {
+        "BEOCIDJJMJC": 40,
+        "PMCGJGFCKCK": 8024010
+      },
+      {
+        "BEOCIDJJMJC": 50,
+        "PMCGJGFCKCK": 8024010
+      },
+      {
+        "BEOCIDJJMJC": 60,
+        "PMCGJGFCKCK": 8024010
+      },
+      {
+        "BEOCIDJJMJC": 70,
+        "PMCGJGFCKCK": 8024010
+      },
+      {
+        "BEOCIDJJMJC": 85,
+        "PMCGJGFCKCK": 8024010
+      },
+      {
+        "BEOCIDJJMJC": 95,
+        "PMCGJGFCKCK": 8024010
+      }
+    ],
+    "CustomStageDisplayParams": [
+      {
+        "DOJFLNAILGJ": "7303",
+        "MPNJPFDCBDG": "Miracle"
+      },
+      {
+        "DOJFLNAILGJ": "7402",
+        "MPNJPFDCBDG": "Miracle"
+      },
+      {
+        "DOJFLNAILGJ": "7305",
+        "MPNJPFDCBDG": "Miracle"
+      },
+      {
+        "DOJFLNAILGJ": "7307",
+        "MPNJPFDCBDG": "Miracle"
+      }
+    ],
+    "CustomStageDisplayIcon": "UI/UI3D/Rogue/DLC/RogueMagic/Texture/RogueMagicBattleCustomDetail_Icon1.png",
+    "LayerIDList": [
+      1101,
+      1201,
+      1302
+    ],
+    "DifficultyIDList": [
+      71,
+      72,
+      73
+    ],
+    "IsHard": false,
+    "AreaGroupID": "Customization",
+    "AreaNameID": {
+      "Hash": -886443150
+    },
+    "ExtraLayerID": 0,
+    "AreaID": 803,
+    "AreaIndex": 3,
+    "UnlockID": 5013028,
+    "FirstReward": 111313,
+    "DefaultStyle": "Ultimate"
+  },
+  {
+    "WorldLevel2DisplayMonster": [
+      {
+        "BEOCIDJJMJC": 30,
+        "PMCGJGFCKCK": 8024010
+      },
+      {
+        "BEOCIDJJMJC": 40,
+        "PMCGJGFCKCK": 8024010
+      },
+      {
+        "BEOCIDJJMJC": 50,
+        "PMCGJGFCKCK": 8024010
+      },
+      {
+        "BEOCIDJJMJC": 60,
+        "PMCGJGFCKCK": 8024010
+      },
+      {
+        "BEOCIDJJMJC": 70,
+        "PMCGJGFCKCK": 8024010
+      },
+      {
+        "BEOCIDJJMJC": 85,
+        "PMCGJGFCKCK": 8024010
+      },
+      {
+        "BEOCIDJJMJC": 95,
+        "PMCGJGFCKCK": 8024010
+      }
+    ],
+    "CustomStageDisplayParams": [
+      {
+        "DOJFLNAILGJ": "3007_2",
+        "MPNJPFDCBDG": "Scepter"
+      },
+      {
+        "DOJFLNAILGJ": "6071_1",
+        "MPNJPFDCBDG": "MagicUnit"
+      },
+      {
+        "DOJFLNAILGJ": "5009_2",
+        "MPNJPFDCBDG": "MagicUnit"
+      },
+      {
+        "DOJFLNAILGJ": "6006_2",
+        "MPNJPFDCBDG": "MagicUnit"
+      }
+    ],
+    "CustomStageDisplayIcon": "UI/UI3D/Rogue/DLC/RogueMagic/Texture/RogueMagicBattleCustomDetail_Icon6.png",
+    "LayerIDList": [
+      1101,
+      1201,
+      1302
+    ],
+    "DifficultyIDList": [
+      71,
+      72,
+      73
+    ],
+    "IsHard": false,
+    "AreaGroupID": "Customization",
+    "AreaNameID": {
+      "Hash": -886443155
+    },
+    "ExtraLayerID": 0,
+    "AreaID": 804,
+    "AreaIndex": 4,
+    "UnlockID": 5013028,
+    "FirstReward": 111314,
+    "DefaultStyle": "Ultimate"
+  },
+  {
+    "WorldLevel2DisplayMonster": [
+      {
+        "BEOCIDJJMJC": 30,
+        "PMCGJGFCKCK": 8024010
+      },
+      {
+        "BEOCIDJJMJC": 40,
+        "PMCGJGFCKCK": 8024010
+      },
+      {
+        "BEOCIDJJMJC": 50,
+        "PMCGJGFCKCK": 8024010
+      },
+      {
+        "BEOCIDJJMJC": 60,
+        "PMCGJGFCKCK": 8024010
+      },
+      {
+        "BEOCIDJJMJC": 70,
+        "PMCGJGFCKCK": 8024010
+      },
+      {
+        "BEOCIDJJMJC": 85,
+        "PMCGJGFCKCK": 8024010
+      },
+      {
+        "BEOCIDJJMJC": 95,
+        "PMCGJGFCKCK": 8024010
+      }
+    ],
+    "CustomStageDisplayParams": [
+      {
+        "DOJFLNAILGJ": "3003_2",
+        "MPNJPFDCBDG": "Scepter"
+      },
+      {
+        "DOJFLNAILGJ": "6070_1",
+        "MPNJPFDCBDG": "MagicUnit"
+      },
+      {
+        "DOJFLNAILGJ": "5007_2",
+        "MPNJPFDCBDG": "MagicUnit"
+      },
+      {
+        "DOJFLNAILGJ": "6023_2",
+        "MPNJPFDCBDG": "MagicUnit"
+      }
+    ],
+    "CustomStageDisplayIcon": "UI/UI3D/Rogue/DLC/RogueMagic/Texture/RogueMagicBattleCustomDetail_Icon5.png",
+    "LayerIDList": [
+      1101,
+      1201,
+      1302
+    ],
+    "DifficultyIDList": [
+      71,
+      72,
+      73
+    ],
+    "IsHard": false,
+    "AreaGroupID": "Customization",
+    "AreaNameID": {
+      "Hash": -886443156
+    },
+    "ExtraLayerID": 0,
+    "AreaID": 805,
+    "AreaIndex": 5,
+    "UnlockID": 5013028,
+    "FirstReward": 111315,
+    "DefaultStyle": "Follow"
+  },
+  {
+    "WorldLevel2DisplayMonster": [
+      {
+        "BEOCIDJJMJC": 30,
+        "PMCGJGFCKCK": 8024010
+      },
+      {
+        "BEOCIDJJMJC": 40,
+        "PMCGJGFCKCK": 8024010
+      },
+      {
+        "BEOCIDJJMJC": 50,
+        "PMCGJGFCKCK": 8024010
+      },
+      {
+        "BEOCIDJJMJC": 60,
+        "PMCGJGFCKCK": 8024010
+      },
+      {
+        "BEOCIDJJMJC": 70,
+        "PMCGJGFCKCK": 8024010
+      },
+      {
+        "BEOCIDJJMJC": 85,
+        "PMCGJGFCKCK": 8024010
+      },
+      {
+        "BEOCIDJJMJC": 95,
+        "PMCGJGFCKCK": 8024010
+      }
+    ],
+    "CustomStageDisplayParams": [
+      {
+        "DOJFLNAILGJ": "6066_1",
+        "MPNJPFDCBDG": "MagicUnit"
+      },
+      {
+        "DOJFLNAILGJ": "6067_1",
+        "MPNJPFDCBDG": "MagicUnit"
+      },
+      {
+        "DOJFLNAILGJ": "6068_1",
+        "MPNJPFDCBDG": "MagicUnit"
+      },
+      {
+        "DOJFLNAILGJ": "6069_1",
+        "MPNJPFDCBDG": "MagicUnit"
+      },
+      {
+        "DOJFLNAILGJ": "6059_1",
+        "MPNJPFDCBDG": "MagicUnit"
+      },
+      {
+        "DOJFLNAILGJ": "6060_1",
+        "MPNJPFDCBDG": "MagicUnit"
+      }
+    ],
+    "CustomStageDisplayIcon": "UI/UI3D/Rogue/DLC/RogueMagic/Texture/RogueMagicBattleCustomDetail_Icon2.png",
+    "LayerIDList": [
+      1101,
+      1201,
+      1302
+    ],
+    "DifficultyIDList": [
+      71,
+      72,
+      73
+    ],
+    "IsHard": false,
+    "AreaGroupID": "Customization",
+    "AreaNameID": {
+      "Hash": -886443153
+    },
+    "ExtraLayerID": 0,
+    "AreaID": 806,
+    "AreaIndex": 6,
+    "UnlockID": 5013028,
+    "FirstReward": 111316,
+    "DefaultStyle": "Ultimate"
+  }
+]

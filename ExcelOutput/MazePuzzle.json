@@ -1,0 +1,724 @@
+[
+  {
+    "ProgressList": [
+      2,
+      3,
+      1
+    ],
+    "NormalModeID": 1000,
+    "IsBeginPrepare": 0,
+    "SpecialModeID": 0,
+    "IsResetable": 1,
+    "MazePuzzleID": 1000,
+    "IsShowToast": true,
+    "IsTopPriority": true,
+    "IsShowWaypoint": true,
+    "TutorialID": 0,
+    "RemainingStep": 0,
+    "LimitTime": 0
+  },
+  {
+    "ProgressList": [
+      0
+    ],
+    "NormalModeID": 1006,
+    "IsBeginPrepare": 0,
+    "SpecialModeID": 0,
+    "IsResetable": 1,
+    "MazePuzzleID": 1001,
+    "IsShowToast": true,
+    "IsTopPriority": true,
+    "IsShowWaypoint": true,
+    "TutorialID": 0,
+    "RemainingStep": 0,
+    "LimitTime": 0
+  },
+  {
+    "ProgressList": [
+      0
+    ],
+    "NormalModeID": 1006,
+    "IsBeginPrepare": 0,
+    "SpecialModeID": 0,
+    "IsResetable": 1,
+    "MazePuzzleID": 1002,
+    "IsShowToast": true,
+    "IsTopPriority": true,
+    "IsShowWaypoint": true,
+    "TutorialID": 0,
+    "RemainingStep": 0,
+    "LimitTime": 0
+  },
+  {
+    "ProgressList": [
+      0
+    ],
+    "NormalModeID": 1006,
+    "IsBeginPrepare": 0,
+    "SpecialModeID": 0,
+    "IsResetable": 1,
+    "MazePuzzleID": 1003,
+    "IsShowToast": true,
+    "IsTopPriority": true,
+    "IsShowWaypoint": true,
+    "TutorialID": 0,
+    "RemainingStep": 0,
+    "LimitTime": 0
+  },
+  {
+    "ProgressList": [
+      0
+    ],
+    "NormalModeID": 1006,
+    "IsBeginPrepare": 0,
+    "SpecialModeID": 0,
+    "IsResetable": 1,
+    "MazePuzzleID": 1004,
+    "IsShowToast": true,
+    "IsTopPriority": true,
+    "IsShowWaypoint": true,
+    "TutorialID": 0,
+    "RemainingStep": 0,
+    "LimitTime": 0
+  },
+  {
+    "ProgressList": [
+      0
+    ],
+    "NormalModeID": 1006,
+    "IsBeginPrepare": 0,
+    "SpecialModeID": 0,
+    "IsResetable": 1,
+    "MazePuzzleID": 1005,
+    "IsShowToast": true,
+    "IsTopPriority": true,
+    "IsShowWaypoint": true,
+    "TutorialID": 0,
+    "RemainingStep": 0,
+    "LimitTime": 0
+  },
+  {
+    "ProgressList": [
+      0
+    ],
+    "NormalModeID": 1006,
+    "IsBeginPrepare": 0,
+    "SpecialModeID": 0,
+    "IsResetable": 1,
+    "MazePuzzleID": 1006,
+    "IsShowToast": true,
+    "IsTopPriority": true,
+    "IsShowWaypoint": true,
+    "TutorialID": 0,
+    "RemainingStep": 0,
+    "LimitTime": 0
+  },
+  {
+    "ProgressList": [
+      0
+    ],
+    "NormalModeID": 1007,
+    "IsBeginPrepare": 0,
+    "SpecialModeID": 0,
+    "IsResetable": 0,
+    "MazePuzzleID": 1007,
+    "IsShowToast": true,
+    "IsTopPriority": true,
+    "IsShowWaypoint": true,
+    "TutorialID": 0,
+    "RemainingStep": 0,
+    "LimitTime": 0
+  },
+  {
+    "ProgressList": [
+      0
+    ],
+    "NormalModeID": 1008,
+    "IsBeginPrepare": 0,
+    "SpecialModeID": 0,
+    "IsResetable": 0,
+    "MazePuzzleID": 1008,
+    "IsShowToast": true,
+    "IsTopPriority": true,
+    "IsShowWaypoint": true,
+    "TutorialID": 0,
+    "RemainingStep": 0,
+    "LimitTime": 0
+  },
+  {
+    "ProgressList": [
+      0
+    ],
+    "NormalModeID": 1009,
+    "IsBeginPrepare": 0,
+    "SpecialModeID": 0,
+    "IsResetable": 0,
+    "MazePuzzleID": 1009,
+    "IsShowToast": true,
+    "IsTopPriority": true,
+    "IsShowWaypoint": true,
+    "TutorialID": 0,
+    "RemainingStep": 0,
+    "LimitTime": 0
+  },
+  {
+    "ProgressList": [
+      0
+    ],
+    "NormalModeID": 1010,
+    "IsBeginPrepare": 0,
+    "SpecialModeID": 0,
+    "IsResetable": 1,
+    "MazePuzzleID": 1010,
+    "IsShowToast": true,
+    "IsTopPriority": true,
+    "IsShowWaypoint": true,
+    "TutorialID": 0,
+    "RemainingStep": 0,
+    "LimitTime": 0
+  },
+  {
+    "ProgressList": [
+      0
+    ],
+    "NormalModeID": 1011,
+    "IsBeginPrepare": 0,
+    "SpecialModeID": 0,
+    "IsResetable": 1,
+    "MazePuzzleID": 1011,
+    "IsShowToast": true,
+    "IsTopPriority": true,
+    "IsShowWaypoint": true,
+    "TutorialID": 0,
+    "RemainingStep": 0,
+    "LimitTime": 0
+  },
+  {
+    "ProgressList": [
+      0
+    ],
+    "NormalModeID": 1012,
+    "IsBeginPrepare": 0,
+    "SpecialModeID": 0,
+    "IsResetable": 0,
+    "MazePuzzleID": 1012,
+    "IsShowToast": true,
+    "IsTopPriority": true,
+    "IsShowWaypoint": true,
+    "TutorialID": 0,
+    "RemainingStep": 0,
+    "LimitTime": 0
+  },
+  {
+    "ProgressList": [
+      0
+    ],
+    "NormalModeID": 1013,
+    "IsBeginPrepare": 0,
+    "SpecialModeID": 0,
+    "IsResetable": 0,
+    "MazePuzzleID": 1013,
+    "IsShowToast": true,
+    "IsTopPriority": true,
+    "IsShowWaypoint": true,
+    "TutorialID": 0,
+    "RemainingStep": 0,
+    "LimitTime": 0
+  },
+  {
+    "ProgressList": [
+      0
+    ],
+    "NormalModeID": 1014,
+    "IsBeginPrepare": 0,
+    "SpecialModeID": 0,
+    "IsResetable": 0,
+    "MazePuzzleID": 1014,
+    "IsShowToast": true,
+    "IsTopPriority": true,
+    "IsShowWaypoint": true,
+    "TutorialID": 0,
+    "RemainingStep": 0,
+    "LimitTime": 0
+  },
+  {
+    "ProgressList": [
+      0
+    ],
+    "NormalModeID": 1015,
+    "IsBeginPrepare": 0,
+    "SpecialModeID": 0,
+    "IsResetable": 0,
+    "MazePuzzleID": 1015,
+    "IsShowToast": true,
+    "IsTopPriority": true,
+    "IsShowWaypoint": true,
+    "TutorialID": 0,
+    "RemainingStep": 0,
+    "LimitTime": 0
+  },
+  {
+    "ProgressList": [
+      0
+    ],
+    "NormalModeID": 1016,
+    "IsBeginPrepare": 0,
+    "SpecialModeID": 0,
+    "IsResetable": 0,
+    "MazePuzzleID": 1016,
+    "IsShowToast": true,
+    "IsTopPriority": true,
+    "IsShowWaypoint": true,
+    "TutorialID": 0,
+    "RemainingStep": 0,
+    "LimitTime": 0
+  },
+  {
+    "ProgressList": [
+      0
+    ],
+    "NormalModeID": 0,
+    "IsBeginPrepare": 0,
+    "SpecialModeID": 1017,
+    "IsResetable": 0,
+    "MazePuzzleID": 1017,
+    "IsShowToast": false,
+    "IsTopPriority": true,
+    "IsShowWaypoint": true,
+    "TutorialID": 6012,
+    "RemainingStep": 0,
+    "LimitTime": 0
+  },
+  {
+    "ProgressList": [
+      0
+    ],
+    "NormalModeID": 0,
+    "IsBeginPrepare": 0,
+    "SpecialModeID": 1018,
+    "IsResetable": 0,
+    "MazePuzzleID": 1018,
+    "IsShowToast": false,
+    "IsTopPriority": true,
+    "IsShowWaypoint": true,
+    "TutorialID": 6008,
+    "RemainingStep": 0,
+    "LimitTime": 0
+  },
+  {
+    "ProgressList": [
+      0
+    ],
+    "NormalModeID": 0,
+    "IsBeginPrepare": 0,
+    "SpecialModeID": 1019,
+    "IsResetable": 1,
+    "MazePuzzleID": 1019,
+    "IsShowToast": false,
+    "IsTopPriority": true,
+    "IsShowWaypoint": true,
+    "TutorialID": 6009,
+    "RemainingStep": 0,
+    "LimitTime": 0
+  },
+  {
+    "ProgressList": [
+      0
+    ],
+    "NormalModeID": 0,
+    "IsBeginPrepare": 0,
+    "SpecialModeID": 1020,
+    "IsResetable": 1,
+    "MazePuzzleID": 1020,
+    "IsShowToast": false,
+    "IsTopPriority": true,
+    "IsShowWaypoint": true,
+    "TutorialID": 6023,
+    "RemainingStep": 0,
+    "LimitTime": 0
+  },
+  {
+    "ProgressList": [
+      0
+    ],
+    "NormalModeID": 1021,
+    "IsBeginPrepare": 0,
+    "SpecialModeID": 0,
+    "IsResetable": 0,
+    "MazePuzzleID": 1021,
+    "IsShowToast": true,
+    "IsTopPriority": true,
+    "IsShowWaypoint": true,
+    "TutorialID": 0,
+    "RemainingStep": 0,
+    "LimitTime": 0
+  },
+  {
+    "ProgressList": [
+      0
+    ],
+    "NormalModeID": 1022,
+    "IsBeginPrepare": 0,
+    "SpecialModeID": 0,
+    "IsResetable": 0,
+    "MazePuzzleID": 1022,
+    "IsShowToast": true,
+    "IsTopPriority": true,
+    "IsShowWaypoint": true,
+    "TutorialID": 0,
+    "RemainingStep": 0,
+    "LimitTime": 0
+  },
+  {
+    "ProgressList": [
+      0
+    ],
+    "NormalModeID": 1023,
+    "IsBeginPrepare": 0,
+    "SpecialModeID": 0,
+    "IsResetable": 0,
+    "MazePuzzleID": 1023,
+    "IsShowToast": false,
+    "IsTopPriority": true,
+    "IsShowWaypoint": true,
+    "TutorialID": 0,
+    "RemainingStep": 0,
+    "LimitTime": 0
+  },
+  {
+    "ProgressList": [
+      0
+    ],
+    "NormalModeID": 1024,
+    "IsBeginPrepare": 0,
+    "SpecialModeID": 0,
+    "IsResetable": 1,
+    "MazePuzzleID": 1024,
+    "IsShowToast": false,
+    "IsTopPriority": true,
+    "IsShowWaypoint": true,
+    "TutorialID": 0,
+    "RemainingStep": 0,
+    "LimitTime": 0
+  },
+  {
+    "ProgressList": [
+      0
+    ],
+    "NormalModeID": 1025,
+    "IsBeginPrepare": 0,
+    "SpecialModeID": 0,
+    "IsResetable": 1,
+    "MazePuzzleID": 1025,
+    "IsShowToast": false,
+    "IsTopPriority": true,
+    "IsShowWaypoint": true,
+    "TutorialID": 0,
+    "RemainingStep": 0,
+    "LimitTime": 0
+  },
+  {
+    "ProgressList": [
+      0
+    ],
+    "NormalModeID": 0,
+    "IsBeginPrepare": 0,
+    "SpecialModeID": 1017,
+    "IsResetable": 0,
+    "MazePuzzleID": 1026,
+    "IsShowToast": false,
+    "IsTopPriority": true,
+    "IsShowWaypoint": true,
+    "TutorialID": 6029,
+    "RemainingStep": 0,
+    "LimitTime": 0
+  },
+  {
+    "ProgressList": [
+      0
+    ],
+    "NormalModeID": 1027,
+    "IsBeginPrepare": 0,
+    "SpecialModeID": 0,
+    "IsResetable": 2,
+    "MazePuzzleID": 1027,
+    "IsShowToast": true,
+    "IsTopPriority": true,
+    "IsShowWaypoint": true,
+    "TutorialID": 0,
+    "RemainingStep": 0,
+    "LimitTime": 0
+  },
+  {
+    "ProgressList": [
+      0
+    ],
+    "NormalModeID": 0,
+    "IsBeginPrepare": 0,
+    "SpecialModeID": 1028,
+    "IsResetable": 0,
+    "MazePuzzleID": 1028,
+    "IsShowToast": false,
+    "IsTopPriority": true,
+    "IsShowWaypoint": true,
+    "TutorialID": 6043,
+    "RemainingStep": 0,
+    "LimitTime": 0
+  },
+  {
+    "ProgressList": [
+      0
+    ],
+    "NormalModeID": 1029,
+    "IsBeginPrepare": 0,
+    "SpecialModeID": 0,
+    "IsResetable": 1,
+    "MazePuzzleID": 1029,
+    "IsShowToast": false,
+    "IsTopPriority": true,
+    "IsShowWaypoint": true,
+    "TutorialID": 0,
+    "RemainingStep": 0,
+    "LimitTime": 0
+  },
+  {
+    "ProgressList": [
+      0
+    ],
+    "NormalModeID": 1030,
+    "IsBeginPrepare": 0,
+    "SpecialModeID": 0,
+    "IsResetable": 0,
+    "MazePuzzleID": 1030,
+    "IsShowToast": true,
+    "IsTopPriority": true,
+    "IsShowWaypoint": true,
+    "TutorialID": 0,
+    "RemainingStep": 0,
+    "LimitTime": 0
+  },
+  {
+    "ProgressList": [
+      0
+    ],
+    "NormalModeID": 0,
+    "IsBeginPrepare": 0,
+    "SpecialModeID": 1031,
+    "IsResetable": 1,
+    "MazePuzzleID": 1031,
+    "IsShowToast": false,
+    "IsTopPriority": true,
+    "IsShowWaypoint": true,
+    "TutorialID": 6051,
+    "RemainingStep": 0,
+    "LimitTime": 0
+  },
+  {
+    "ProgressList": [
+      0
+    ],
+    "NormalModeID": 1032,
+    "IsBeginPrepare": 0,
+    "SpecialModeID": 0,
+    "IsResetable": 1,
+    "MazePuzzleID": 1032,
+    "IsShowToast": false,
+    "IsTopPriority": true,
+    "IsShowWaypoint": true,
+    "TutorialID": 6056,
+    "RemainingStep": 0,
+    "LimitTime": 0
+  },
+  {
+    "ProgressList": [
+      0
+    ],
+    "NormalModeID": 0,
+    "IsBeginPrepare": 0,
+    "SpecialModeID": 1033,
+    "IsResetable": 0,
+    "MazePuzzleID": 1033,
+    "IsShowToast": false,
+    "IsTopPriority": true,
+    "IsShowWaypoint": true,
+    "TutorialID": 6064,
+    "RemainingStep": 0,
+    "LimitTime": 0
+  },
+  {
+    "ProgressList": [
+      0
+    ],
+    "NormalModeID": 0,
+    "IsBeginPrepare": 0,
+    "SpecialModeID": 1034,
+    "IsResetable": 0,
+    "MazePuzzleID": 1034,
+    "IsShowToast": false,
+    "IsTopPriority": true,
+    "IsShowWaypoint": true,
+    "TutorialID": 6098,
+    "RemainingStep": 0,
+    "LimitTime": 0
+  },
+  {
+    "ProgressList": [
+      0
+    ],
+    "NormalModeID": 0,
+    "IsBeginPrepare": 0,
+    "SpecialModeID": 1034,
+    "IsResetable": 0,
+    "MazePuzzleID": 1035,
+    "IsShowToast": false,
+    "IsTopPriority": true,
+    "IsShowWaypoint": true,
+    "TutorialID": 6099,
+    "RemainingStep": 0,
+    "LimitTime": 0
+  },
+  {
+    "ProgressList": [
+      0
+    ],
+    "NormalModeID": 0,
+    "IsBeginPrepare": 0,
+    "SpecialModeID": 1041,
+    "IsResetable": 0,
+    "MazePuzzleID": 1041,
+    "IsShowToast": false,
+    "IsTopPriority": true,
+    "IsShowWaypoint": true,
+    "TutorialID": 6113,
+    "RemainingStep": 0,
+    "LimitTime": 0
+  },
+  {
+    "ProgressList": [
+      0
+    ],
+    "NormalModeID": 0,
+    "IsBeginPrepare": 0,
+    "SpecialModeID": 1017,
+    "IsResetable": 0,
+    "MazePuzzleID": 1051,
+    "IsShowToast": false,
+    "IsTopPriority": true,
+    "IsShowWaypoint": true,
+    "TutorialID": 9901,
+    "RemainingStep": 0,
+    "LimitTime": 0
+  },
+  {
+    "ProgressList": [
+      0
+    ],
+    "NormalModeID": 0,
+    "IsBeginPrepare": 0,
+    "SpecialModeID": 1017,
+    "IsResetable": 0,
+    "MazePuzzleID": 1052,
+    "IsShowToast": false,
+    "IsTopPriority": true,
+    "IsShowWaypoint": true,
+    "TutorialID": 9905,
+    "RemainingStep": 0,
+    "LimitTime": 0
+  },
+  {
+    "ProgressList": [
+      0
+    ],
+    "NormalModeID": 0,
+    "IsBeginPrepare": 0,
+    "SpecialModeID": 1041,
+    "IsResetable": 0,
+    "MazePuzzleID": 1053,
+    "IsShowToast": false,
+    "IsTopPriority": true,
+    "IsShowWaypoint": true,
+    "TutorialID": 9902,
+    "RemainingStep": 0,
+    "LimitTime": 0
+  },
+  {
+    "ProgressList": [
+      0
+    ],
+    "NormalModeID": 0,
+    "IsBeginPrepare": 0,
+    "SpecialModeID": 1028,
+    "IsResetable": 0,
+    "MazePuzzleID": 1054,
+    "IsShowToast": false,
+    "IsTopPriority": true,
+    "IsShowWaypoint": true,
+    "TutorialID": 6119,
+    "RemainingStep": 0,
+    "LimitTime": 0
+  },
+  {
+    "ProgressList": [
+      0
+    ],
+    "NormalModeID": 8001,
+    "IsBeginPrepare": 0,
+    "SpecialModeID": 0,
+    "IsResetable": 0,
+    "MazePuzzleID": 8001,
+    "IsShowToast": false,
+    "IsTopPriority": false,
+    "IsShowWaypoint": true,
+    "TutorialID": 0,
+    "RemainingStep": 0,
+    "LimitTime": 0
+  },
+  {
+    "ProgressList": [
+      0
+    ],
+    "NormalModeID": 90001,
+    "IsBeginPrepare": 0,
+    "SpecialModeID": 0,
+    "IsResetable": 1,
+    "MazePuzzleID": 90001,
+    "IsShowToast": false,
+    "IsTopPriority": false,
+    "IsShowWaypoint": false,
+    "TutorialID": 0,
+    "RemainingStep": 0,
+    "LimitTime": 0
+  },
+  {
+    "ProgressList": [
+      2
+    ],
+    "NormalModeID": 90002,
+    "IsBeginPrepare": 0,
+    "SpecialModeID": 0,
+    "IsResetable": 1,
+    "MazePuzzleID": 90002,
+    "IsShowToast": false,
+    "IsTopPriority": false,
+    "IsShowWaypoint": false,
+    "TutorialID": 0,
+    "RemainingStep": 0,
+    "LimitTime": 0
+  },
+  {
+    "ProgressList": [
+      0
+    ],
+    "NormalModeID": 90003,
+    "IsBeginPrepare": 0,
+    "SpecialModeID": 0,
+    "IsResetable": 2,
+    "MazePuzzleID": 90003,
+    "IsShowToast": true,
+    "IsTopPriority": true,
+    "IsShowWaypoint": false,
+    "TutorialID": 0,
+    "RemainingStep": 0,
+    "LimitTime": 0
+  }
+]

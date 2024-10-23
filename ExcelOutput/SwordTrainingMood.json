@@ -1,0 +1,64 @@
+[
+  {
+    "MoodIcon": "SpriteOutput/Quest/SwordTraining/SwordTrainingIcon/SwordTrainingEmoIcon3.png",
+    "EffectIDList": [
+      40001
+    ],
+    "MinimumValue": 0,
+    "MoodStatus": "Low",
+    "EffectNumDesc": {
+      "Hash": -1001486207
+    },
+    "MaximumValue": 19,
+    "MoodLevel": 1,
+    "EffectDesc": {
+      "Hash": -944870669
+    }
+  },
+  {
+    "MoodIcon": "SpriteOutput/Quest/SwordTraining/SwordTrainingIcon/SwordTrainingEmoIcon2.png",
+    "EffectIDList": [
+      40002
+    ],
+    "MinimumValue": 20,
+    "MoodStatus": "Middle",
+    "EffectNumDesc": {
+      "Hash": -1001486210
+    },
+    "MaximumValue": 39,
+    "MoodLevel": 2,
+    "EffectDesc": {
+      "Hash": -541586142
+    }
+  },
+  {
+    "MoodIcon": "SpriteOutput/Quest/SwordTraining/SwordTrainingIcon/SwordTrainingEmoIcon1.png",
+    "EffectIDList": [],
+    "MinimumValue": 40,
+    "MoodStatus": "Normal",
+    "EffectNumDesc": {
+      "Hash": 371857150
+    },
+    "MaximumValue": 79,
+    "MoodLevel": 3,
+    "EffectDesc": {
+      "Hash": 371857150
+    }
+  },
+  {
+    "MoodIcon": "SpriteOutput/Quest/SwordTraining/SwordTrainingIcon/SwordTrainingEmoIcon1.png",
+    "EffectIDList": [
+      40004
+    ],
+    "MinimumValue": 80,
+    "MoodStatus": "High",
+    "EffectNumDesc": {
+      "Hash": -1001486212
+    },
+    "MaximumValue": 150,
+    "MoodLevel": 4,
+    "EffectDesc": {
+      "Hash": -1704385556
+    }
+  }
+]

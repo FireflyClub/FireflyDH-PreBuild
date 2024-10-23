@@ -1,0 +1,152 @@
+[
+  {
+    "GuestID": 1,
+    "SequenceID": 11,
+    "NeedOpenWorkBook": true,
+    "StartChatID": 1101
+  },
+  {
+    "GuestID": 2,
+    "SequenceID": 12,
+    "NeedOpenWorkBook": true,
+    "StartChatID": 1201
+  },
+  {
+    "GuestID": 1,
+    "SequenceID": 21,
+    "NeedOpenWorkBook": true,
+    "StartChatID": 2101
+  },
+  {
+    "GuestID": 2,
+    "SequenceID": 22,
+    "NeedOpenWorkBook": true,
+    "StartChatID": 2201
+  },
+  {
+    "GuestID": 4,
+    "SequenceID": 23,
+    "NeedOpenWorkBook": true,
+    "StartChatID": 2301
+  },
+  {
+    "GuestID": 5,
+    "SequenceID": 31,
+    "NeedOpenWorkBook": true,
+    "StartChatID": 3101
+  },
+  {
+    "GuestID": 6,
+    "SequenceID": 32,
+    "NeedOpenWorkBook": true,
+    "StartChatID": 3201
+  },
+  {
+    "GuestID": 4,
+    "SequenceID": 33,
+    "NeedOpenWorkBook": true,
+    "StartChatID": 3301
+  },
+  {
+    "GuestID": 5,
+    "SequenceID": 41,
+    "NeedOpenWorkBook": true,
+    "StartChatID": 4101
+  },
+  {
+    "GuestID": 6,
+    "SequenceID": 42,
+    "NeedOpenWorkBook": true,
+    "StartChatID": 4201
+  },
+  {
+    "GuestID": 3,
+    "SequenceID": 43,
+    "NeedOpenWorkBook": true,
+    "StartChatID": 4301
+  },
+  {
+    "GuestID": 4,
+    "SequenceID": 51,
+    "NeedOpenWorkBook": false,
+    "StartChatID": 5101
+  },
+  {
+    "GuestID": 3,
+    "SequenceID": 52,
+    "NeedOpenWorkBook": true,
+    "StartChatID": 5201
+  },
+  {
+    "GuestID": 1,
+    "SequenceID": 101,
+    "NeedOpenWorkBook": false,
+    "StartChatID": 10101
+  },
+  {
+    "GuestID": 1,
+    "SequenceID": 102,
+    "NeedOpenWorkBook": false,
+    "StartChatID": 10201
+  },
+  {
+    "GuestID": 2,
+    "SequenceID": 111,
+    "NeedOpenWorkBook": false,
+    "StartChatID": 11101
+  },
+  {
+    "GuestID": 2,
+    "SequenceID": 112,
+    "NeedOpenWorkBook": false,
+    "StartChatID": 11201
+  },
+  {
+    "GuestID": 4,
+    "SequenceID": 121,
+    "NeedOpenWorkBook": false,
+    "StartChatID": 12101
+  },
+  {
+    "GuestID": 4,
+    "SequenceID": 122,
+    "NeedOpenWorkBook": false,
+    "StartChatID": 12201
+  },
+  {
+    "GuestID": 5,
+    "SequenceID": 131,
+    "NeedOpenWorkBook": false,
+    "StartChatID": 13101
+  },
+  {
+    "GuestID": 5,
+    "SequenceID": 132,
+    "NeedOpenWorkBook": false,
+    "StartChatID": 13201
+  },
+  {
+    "GuestID": 6,
+    "SequenceID": 141,
+    "NeedOpenWorkBook": false,
+    "StartChatID": 14101
+  },
+  {
+    "GuestID": 6,
+    "SequenceID": 142,
+    "NeedOpenWorkBook": false,
+    "StartChatID": 14201
+  },
+  {
+    "GuestID": 3,
+    "SequenceID": 151,
+    "NeedOpenWorkBook": false,
+    "StartChatID": 15101
+  },
+  {
+    "GuestID": 3,
+    "SequenceID": 152,
+    "NeedOpenWorkBook": false,
+    "StartChatID": 15201
+  }
+]

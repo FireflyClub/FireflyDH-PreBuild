@@ -1,0 +1,22 @@
+{
+  "GroupName": "CocoonWhiteBox",
+  "AreaAnchorName": "LevelArea_P20111_F20111001_G8",
+  "SaveType": "Permanent",
+  "LoadCondition": {
+    "Conditions": []
+  },
+  "UnloadCondition": {
+    "Conditions": []
+  },
+  "StreamingTemplateType": "Standard",
+  "HoyoGroupLowestLoadPlatformQuality": "VeryLow",
+  "AnchorList": [],
+  "MonsterList": [],
+  "PropList": [],
+  "WaypointList": [],
+  "PathwayList": [],
+  "BattleAreaList": [],
+  "NPCList": [],
+  "CrowdList": [],
+  "PedestrianList": []
+}

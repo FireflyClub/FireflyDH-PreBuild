@@ -1,0 +1,68 @@
+[
+  {
+    "StageAlleyEvent": [
+      303,
+      304,
+      307
+    ],
+    "StageSpecialOrder": [
+      101,
+      102,
+      103
+    ],
+    "StageMainMission": 8003220,
+    "TakeMainMission": 8003201,
+    "StageID": 1,
+    "StageTitle": {
+      "Hash": -189194688
+    },
+    "StageTarget": 100000,
+    "StageDesc": {
+      "Hash": -1935752415
+    }
+  },
+  {
+    "StageAlleyEvent": [
+      301,
+      305,
+      308
+    ],
+    "StageSpecialOrder": [
+      104,
+      105,
+      106
+    ],
+    "StageMainMission": 8003221,
+    "TakeMainMission": 8003207,
+    "StageID": 2,
+    "StageTitle": {
+      "Hash": -189194685
+    },
+    "StageTarget": 300000,
+    "StageDesc": {
+      "Hash": 1955930354
+    }
+  },
+  {
+    "StageAlleyEvent": [
+      302,
+      306,
+      309
+    ],
+    "StageSpecialOrder": [
+      107,
+      108,
+      109
+    ],
+    "StageMainMission": 8003222,
+    "TakeMainMission": 8003210,
+    "StageID": 3,
+    "StageTitle": {
+      "Hash": -189194686
+    },
+    "StageTarget": 500000,
+    "StageDesc": {
+      "Hash": -772953001
+    }
+  }
+]

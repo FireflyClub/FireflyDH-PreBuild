@@ -1,0 +1,18 @@
+[
+  {
+    "UltraSkillResourcePath": "UI/Battle/Widget/SpecialUltraSP/UltraSPInfo_Acheron_Slim.prefab",
+    "UltraSkillUse": {
+      "Hash": -809295600
+    },
+    "UltraSkillType": "SpecialSP",
+    "AvatarID": 1308
+  },
+  {
+    "UltraSkillResourcePath": "UI/Battle/Widget/SpecialUltraSP/1220/UltraSPInfo_Feixiao_Slim.prefab",
+    "UltraSkillUse": {
+      "Hash": -1972095103
+    },
+    "UltraSkillType": "SpecialSP",
+    "AvatarID": 1220
+  }
+]

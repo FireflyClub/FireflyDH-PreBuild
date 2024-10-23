@@ -1,0 +1,590 @@
+[
+  {
+    "BonusBaseTypeList": [
+      "Priest"
+    ],
+    "AvatarNumMax": 4,
+    "ExpeditionTag": 2,
+    "AssignDesc": {
+      "Hash": -920188914
+    },
+    "Grade1ExtraRewardID": 3125002,
+    "Duration": 4,
+    "ExpeditionRank": "High",
+    "Grade3ExtraRewardID": 3125004,
+    "AssignerName": {
+      "Hash": 432266131
+    },
+    "ExpeditionID": 100201,
+    "RewardID": 3125001,
+    "Grade2ExtraRewardID": 3125003,
+    "AvatarNumMin": 2,
+    "Name": {
+      "Hash": -1155845119
+    }
+  },
+  {
+    "BonusBaseTypeList": [
+      "Rogue"
+    ],
+    "AvatarNumMax": 4,
+    "ExpeditionTag": 2,
+    "AssignDesc": {
+      "Hash": 1808694441
+    },
+    "Grade1ExtraRewardID": 3125006,
+    "Duration": 4,
+    "ExpeditionRank": "Middle",
+    "Grade3ExtraRewardID": 3125008,
+    "AssignerName": {
+      "Hash": 28981604
+    },
+    "ExpeditionID": 100202,
+    "RewardID": 3125005,
+    "Grade2ExtraRewardID": 3125007,
+    "AvatarNumMin": 2,
+    "Name": {
+      "Hash": -1559129646
+    }
+  },
+  {
+    "BonusBaseTypeList": [
+      "Warrior",
+      "Knight"
+    ],
+    "AvatarNumMax": 4,
+    "ExpeditionTag": 1,
+    "AssignDesc": {
+      "Hash": 242610500
+    },
+    "Grade1ExtraRewardID": 3125010,
+    "Duration": 4,
+    "ExpeditionRank": "Low",
+    "Grade3ExtraRewardID": 3125012,
+    "AssignerName": {
+      "Hash": 1595065545
+    },
+    "ExpeditionID": 100203,
+    "RewardID": 3125009,
+    "Grade2ExtraRewardID": 3125011,
+    "AvatarNumMin": 2,
+    "Name": {
+      "Hash": 6954295
+    }
+  },
+  {
+    "BonusBaseTypeList": [
+      "Mage",
+      "Warlock"
+    ],
+    "AvatarNumMax": 4,
+    "ExpeditionTag": 1,
+    "AssignDesc": {
+      "Hash": -1679703801
+    },
+    "Grade1ExtraRewardID": 3125014,
+    "Duration": 4,
+    "ExpeditionRank": "Low",
+    "Grade3ExtraRewardID": 3125016,
+    "AssignerName": {
+      "Hash": 835550658
+    },
+    "ExpeditionID": 100204,
+    "RewardID": 3125013,
+    "Grade2ExtraRewardID": 3125015,
+    "AvatarNumMin": 2,
+    "Name": {
+      "Hash": -752560592
+    }
+  },
+  {
+    "BonusBaseTypeList": [
+      "Warlock"
+    ],
+    "AvatarNumMax": 4,
+    "ExpeditionTag": 1,
+    "AssignDesc": {
+      "Hash": 1049179554
+    },
+    "Grade1ExtraRewardID": 3125018,
+    "Duration": 4,
+    "ExpeditionRank": "High",
+    "Grade3ExtraRewardID": 3125020,
+    "AssignerName": {
+      "Hash": -1893332697
+    },
+    "ExpeditionID": 100205,
+    "RewardID": 3125017,
+    "Grade2ExtraRewardID": 3125019,
+    "AvatarNumMin": 2,
+    "Name": {
+      "Hash": 813523349
+    }
+  },
+  {
+    "BonusBaseTypeList": [
+      "Mage"
+    ],
+    "AvatarNumMax": 4,
+    "ExpeditionTag": 1,
+    "AssignDesc": {
+      "Hash": -516904387
+    },
+    "Grade1ExtraRewardID": 3125022,
+    "Duration": 4,
+    "ExpeditionRank": "Middle",
+    "Grade3ExtraRewardID": 3125024,
+    "AssignerName": {
+      "Hash": 1998350072
+    },
+    "ExpeditionID": 100206,
+    "RewardID": 3125021,
+    "Grade2ExtraRewardID": 3125023,
+    "AvatarNumMin": 2,
+    "Name": {
+      "Hash": 410238822
+    }
+  },
+  {
+    "BonusBaseTypeList": [
+      "Shaman",
+      "Knight"
+    ],
+    "AvatarNumMax": 4,
+    "ExpeditionTag": 1,
+    "AssignDesc": {
+      "Hash": -2082988328
+    },
+    "Grade1ExtraRewardID": 3125026,
+    "Duration": 4,
+    "ExpeditionRank": "Low",
+    "Grade3ExtraRewardID": 3125028,
+    "AssignerName": {
+      "Hash": -730533283
+    },
+    "ExpeditionID": 100207,
+    "RewardID": 3125025,
+    "Grade2ExtraRewardID": 3125027,
+    "AvatarNumMin": 2,
+    "Name": {
+      "Hash": 1976322763
+    }
+  },
+  {
+    "BonusBaseTypeList": [
+      "Warrior",
+      "Priest"
+    ],
+    "AvatarNumMax": 4,
+    "ExpeditionTag": 2,
+    "AssignDesc": {
+      "Hash": 289664667
+    },
+    "Grade1ExtraRewardID": 3125030,
+    "Duration": 4,
+    "ExpeditionRank": "Low",
+    "Grade3ExtraRewardID": 3125032,
+    "AssignerName": {
+      "Hash": -1490048170
+    },
+    "ExpeditionID": 100208,
+    "RewardID": 3125029,
+    "Grade2ExtraRewardID": 3125031,
+    "AvatarNumMin": 2,
+    "Name": {
+      "Hash": 1216807876
+    }
+  },
+  {
+    "BonusBaseTypeList": [
+      "Shaman"
+    ],
+    "AvatarNumMax": 4,
+    "ExpeditionTag": 1,
+    "AssignDesc": {
+      "Hash": -1276419274
+    },
+    "Grade1ExtraRewardID": 3125034,
+    "Duration": 4,
+    "ExpeditionRank": "High",
+    "Grade3ExtraRewardID": 3125036,
+    "AssignerName": {
+      "Hash": 76035771
+    },
+    "ExpeditionID": 100209,
+    "RewardID": 3125033,
+    "Grade2ExtraRewardID": 3125035,
+    "AvatarNumMin": 2,
+    "Name": {
+      "Hash": -1512075479
+    }
+  },
+  {
+    "BonusBaseTypeList": [
+      "Knight"
+    ],
+    "AvatarNumMax": 4,
+    "ExpeditionTag": 2,
+    "AssignDesc": {
+      "Hash": 645895028
+    },
+    "Grade1ExtraRewardID": 3125038,
+    "Duration": 4,
+    "ExpeditionRank": "Middle",
+    "Grade3ExtraRewardID": 3125040,
+    "AssignerName": {
+      "Hash": -1133817809
+    },
+    "ExpeditionID": 100210,
+    "RewardID": 3125037,
+    "Grade2ExtraRewardID": 3125039,
+    "AvatarNumMin": 2,
+    "Name": {
+      "Hash": 1573038237
+    }
+  },
+  {
+    "BonusBaseTypeList": [
+      "Warrior",
+      "Mage"
+    ],
+    "AvatarNumMax": 4,
+    "ExpeditionTag": 1,
+    "AssignDesc": {
+      "Hash": -920188913
+    },
+    "Grade1ExtraRewardID": 3125042,
+    "Duration": 4,
+    "ExpeditionRank": "Low",
+    "Grade3ExtraRewardID": 3125044,
+    "AssignerName": {
+      "Hash": 432266132
+    },
+    "ExpeditionID": 100211,
+    "RewardID": 3125041,
+    "Grade2ExtraRewardID": 3125043,
+    "AvatarNumMin": 2,
+    "Name": {
+      "Hash": -1155845118
+    }
+  },
+  {
+    "BonusBaseTypeList": [
+      "Rogue",
+      "Warlock"
+    ],
+    "AvatarNumMax": 4,
+    "ExpeditionTag": 1,
+    "AssignDesc": {
+      "Hash": 1808694442
+    },
+    "Grade1ExtraRewardID": 3125046,
+    "Duration": 4,
+    "ExpeditionRank": "Low",
+    "Grade3ExtraRewardID": 3125048,
+    "AssignerName": {
+      "Hash": 28981605
+    },
+    "ExpeditionID": 100212,
+    "RewardID": 3125045,
+    "Grade2ExtraRewardID": 3125047,
+    "AvatarNumMin": 2,
+    "Name": {
+      "Hash": -1559129645
+    }
+  },
+  {
+    "BonusBaseTypeList": [
+      "Rogue"
+    ],
+    "AvatarNumMax": 4,
+    "ExpeditionTag": 1,
+    "AssignDesc": {
+      "Hash": 242610501
+    },
+    "Grade1ExtraRewardID": 3125050,
+    "Duration": 4,
+    "ExpeditionRank": "High",
+    "Grade3ExtraRewardID": 3125052,
+    "AssignerName": {
+      "Hash": 1595065546
+    },
+    "ExpeditionID": 100213,
+    "RewardID": 3125049,
+    "Grade2ExtraRewardID": 3125051,
+    "AvatarNumMin": 2,
+    "Name": {
+      "Hash": 6954296
+    }
+  },
+  {
+    "BonusBaseTypeList": [
+      "Warrior"
+    ],
+    "AvatarNumMax": 4,
+    "ExpeditionTag": 2,
+    "AssignDesc": {
+      "Hash": -1679703800
+    },
+    "Grade1ExtraRewardID": 3125054,
+    "Duration": 4,
+    "ExpeditionRank": "Middle",
+    "Grade3ExtraRewardID": 3125056,
+    "AssignerName": {
+      "Hash": 835550659
+    },
+    "ExpeditionID": 100214,
+    "RewardID": 3125053,
+    "Grade2ExtraRewardID": 3125055,
+    "AvatarNumMin": 2,
+    "Name": {
+      "Hash": -752560591
+    }
+  },
+  {
+    "BonusBaseTypeList": [
+      "Mage",
+      "Knight"
+    ],
+    "AvatarNumMax": 4,
+    "ExpeditionTag": 2,
+    "AssignDesc": {
+      "Hash": 1049179555
+    },
+    "Grade1ExtraRewardID": 3125058,
+    "Duration": 4,
+    "ExpeditionRank": "Low",
+    "Grade3ExtraRewardID": 3125060,
+    "AssignerName": {
+      "Hash": -1893332696
+    },
+    "ExpeditionID": 100215,
+    "RewardID": 3125057,
+    "Grade2ExtraRewardID": 3125059,
+    "AvatarNumMin": 2,
+    "Name": {
+      "Hash": 813523350
+    }
+  },
+  {
+    "BonusBaseTypeList": [
+      "Shaman",
+      "Warlock"
+    ],
+    "AvatarNumMax": 4,
+    "ExpeditionTag": 2,
+    "AssignDesc": {
+      "Hash": -516904386
+    },
+    "Grade1ExtraRewardID": 3125062,
+    "Duration": 4,
+    "ExpeditionRank": "Low",
+    "Grade3ExtraRewardID": 3125064,
+    "AssignerName": {
+      "Hash": 1998350073
+    },
+    "ExpeditionID": 100216,
+    "RewardID": 3125061,
+    "Grade2ExtraRewardID": 3125063,
+    "AvatarNumMin": 2,
+    "Name": {
+      "Hash": 410238823
+    }
+  },
+  {
+    "BonusBaseTypeList": [
+      "Warrior"
+    ],
+    "AvatarNumMax": 4,
+    "ExpeditionTag": 1,
+    "AssignDesc": {
+      "Hash": -2082988327
+    },
+    "Grade1ExtraRewardID": 3125066,
+    "Duration": 4,
+    "ExpeditionRank": "High",
+    "Grade3ExtraRewardID": 3125068,
+    "AssignerName": {
+      "Hash": -730533282
+    },
+    "ExpeditionID": 100217,
+    "RewardID": 3125065,
+    "Grade2ExtraRewardID": 3125067,
+    "AvatarNumMin": 2,
+    "Name": {
+      "Hash": 1976322764
+    }
+  },
+  {
+    "BonusBaseTypeList": [
+      "Shaman"
+    ],
+    "AvatarNumMax": 4,
+    "ExpeditionTag": 1,
+    "AssignDesc": {
+      "Hash": 289664668
+    },
+    "Grade1ExtraRewardID": 3125070,
+    "Duration": 4,
+    "ExpeditionRank": "Middle",
+    "Grade3ExtraRewardID": 3125072,
+    "AssignerName": {
+      "Hash": -1490048169
+    },
+    "ExpeditionID": 100218,
+    "RewardID": 3125069,
+    "Grade2ExtraRewardID": 3125071,
+    "AvatarNumMin": 2,
+    "Name": {
+      "Hash": 1216807877
+    }
+  },
+  {
+    "BonusBaseTypeList": [
+      "Rogue",
+      "Knight"
+    ],
+    "AvatarNumMax": 4,
+    "ExpeditionTag": 1,
+    "AssignDesc": {
+      "Hash": -1276419273
+    },
+    "Grade1ExtraRewardID": 3125074,
+    "Duration": 4,
+    "ExpeditionRank": "Low",
+    "Grade3ExtraRewardID": 3125076,
+    "AssignerName": {
+      "Hash": 76035772
+    },
+    "ExpeditionID": 100219,
+    "RewardID": 3125073,
+    "Grade2ExtraRewardID": 3125075,
+    "AvatarNumMin": 2,
+    "Name": {
+      "Hash": -1512075478
+    }
+  },
+  {
+    "BonusBaseTypeList": [
+      "Warlock",
+      "Priest"
+    ],
+    "AvatarNumMax": 4,
+    "ExpeditionTag": 1,
+    "AssignDesc": {
+      "Hash": 645895029
+    },
+    "Grade1ExtraRewardID": 3125078,
+    "Duration": 4,
+    "ExpeditionRank": "Low",
+    "Grade3ExtraRewardID": 3125080,
+    "AssignerName": {
+      "Hash": -1133817808
+    },
+    "ExpeditionID": 100220,
+    "RewardID": 3125077,
+    "Grade2ExtraRewardID": 3125079,
+    "AvatarNumMin": 2,
+    "Name": {
+      "Hash": 1573038234
+    }
+  },
+  {
+    "BonusBaseTypeList": [
+      "Knight"
+    ],
+    "AvatarNumMax": 4,
+    "ExpeditionTag": 1,
+    "AssignDesc": {
+      "Hash": -920188912
+    },
+    "Grade1ExtraRewardID": 3125082,
+    "Duration": 4,
+    "ExpeditionRank": "High",
+    "Grade3ExtraRewardID": 3125084,
+    "AssignerName": {
+      "Hash": 432266133
+    },
+    "ExpeditionID": 100221,
+    "RewardID": 3125081,
+    "Grade2ExtraRewardID": 3125083,
+    "AvatarNumMin": 2,
+    "Name": {
+      "Hash": -1155845121
+    }
+  },
+  {
+    "BonusBaseTypeList": [
+      "Warlock"
+    ],
+    "AvatarNumMax": 4,
+    "ExpeditionTag": 1,
+    "AssignDesc": {
+      "Hash": 1808694443
+    },
+    "Grade1ExtraRewardID": 3125086,
+    "Duration": 4,
+    "ExpeditionRank": "Middle",
+    "Grade3ExtraRewardID": 3125088,
+    "AssignerName": {
+      "Hash": 28981606
+    },
+    "ExpeditionID": 100222,
+    "RewardID": 3125085,
+    "Grade2ExtraRewardID": 3125087,
+    "AvatarNumMin": 2,
+    "Name": {
+      "Hash": -1559129648
+    }
+  },
+  {
+    "BonusBaseTypeList": [
+      "Rogue",
+      "Mage"
+    ],
+    "AvatarNumMax": 4,
+    "ExpeditionTag": 1,
+    "AssignDesc": {
+      "Hash": 242610502
+    },
+    "Grade1ExtraRewardID": 3125090,
+    "Duration": 4,
+    "ExpeditionRank": "Low",
+    "Grade3ExtraRewardID": 3125092,
+    "AssignerName": {
+      "Hash": 1595065547
+    },
+    "ExpeditionID": 100223,
+    "RewardID": 3125089,
+    "Grade2ExtraRewardID": 3125091,
+    "AvatarNumMin": 2,
+    "Name": {
+      "Hash": 6954293
+    }
+  },
+  {
+    "BonusBaseTypeList": [
+      "Shaman",
+      "Priest"
+    ],
+    "AvatarNumMax": 4,
+    "ExpeditionTag": 1,
+    "AssignDesc": {
+      "Hash": -1679703799
+    },
+    "Grade1ExtraRewardID": 3125094,
+    "Duration": 4,
+    "ExpeditionRank": "Low",
+    "Grade3ExtraRewardID": 3125096,
+    "AssignerName": {
+      "Hash": 835550660
+    },
+    "ExpeditionID": 100224,
+    "RewardID": 3125093,
+    "Grade2ExtraRewardID": 3125095,
+    "AvatarNumMin": 2,
+    "Name": {
+      "Hash": -752560594
+    }
+  }
+]

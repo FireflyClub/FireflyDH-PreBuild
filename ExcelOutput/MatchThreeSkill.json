@@ -1,0 +1,62 @@
+[
+  {
+    "SkillChargedImg": "SpriteOutput/Quest/MatchThree/FruitSkillKiwi.png",
+    "SkillJson": "Config/Gameplays/Match3/BirdSkills/test_instant_2x2.json",
+    "DescFigure": "SpriteOutput/Quest/MatchThree/SkillTutPlayer.png",
+    "SkillUnchangedImg": "SpriteOutput/Quest/MatchThree/UnlockFruitSkillKiwi.png",
+    "Desc": {
+      "Hash": 2036455245
+    },
+    "SkillID": 400
+  },
+  {
+    "SkillChargedImg": "SpriteOutput/Quest/MatchThree/FruitSkillBlueberry.png",
+    "SkillJson": "Config/Gameplays/Match3/BirdSkills/test_five_break.json",
+    "DescFigure": "SpriteOutput/Quest/MatchThree/SkillTutSilverWolf.png",
+    "SkillUnchangedImg": "SpriteOutput/Quest/MatchThree/UnlockFruitSkillBlueberry.png",
+    "Desc": {
+      "Hash": -692428110
+    },
+    "SkillID": 401
+  },
+  {
+    "SkillChargedImg": "SpriteOutput/Quest/MatchThree/FruitSkillStrawberry.png",
+    "SkillJson": "Config/Gameplays/Match3/BirdSkills/test_random_four.json",
+    "DescFigure": "SpriteOutput/Quest/MatchThree/SkillTutMarch7.png",
+    "SkillUnchangedImg": "SpriteOutput/Quest/MatchThree/UnlockFruitSkillStrawberry.png",
+    "Desc": {
+      "Hash": -1095712637
+    },
+    "SkillID": 402
+  },
+  {
+    "SkillChargedImg": "SpriteOutput/Quest/MatchThree/FruitSkillBanana.png",
+    "SkillJson": "Config/Gameplays/Match3/BirdSkills/test_vertical_and_horizontal.json",
+    "DescFigure": "SpriteOutput/Quest/MatchThree/SkillTutFirefly.png",
+    "SkillUnchangedImg": "SpriteOutput/Quest/MatchThree/UnlockFruitSkillBanana.png",
+    "Desc": {
+      "Hash": 470371304
+    },
+    "SkillID": 403
+  },
+  {
+    "SkillChargedImg": "SpriteOutput/Quest/MatchThree/FruitSkillPeach.png",
+    "SkillJson": "Config/Gameplays/Match3/BirdSkills/test_square_bomb.json",
+    "DescFigure": "SpriteOutput/Quest/MatchThree/SkillTutRobin.png",
+    "SkillUnchangedImg": "SpriteOutput/Quest/MatchThree/UnlockFruitSkillPeach.png",
+    "Desc": {
+      "Hash": 67086777
+    },
+    "SkillID": 404
+  },
+  {
+    "SkillChargedImg": "SpriteOutput/Quest/MatchThree/FruitSkillKiwi.png",
+    "SkillJson": "Config/Gameplays/Match3/BirdSkills/test_MainMission.json",
+    "DescFigure": "SpriteOutput/Quest/MatchThree/SkillTutRobin.png",
+    "SkillUnchangedImg": "SpriteOutput/Quest/MatchThree/UnlockFruitSkillKiwi.png",
+    "Desc": {
+      "Hash": -336197743
+    },
+    "SkillID": 499
+  }
+]

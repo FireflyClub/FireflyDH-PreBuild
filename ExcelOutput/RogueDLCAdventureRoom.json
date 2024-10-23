@@ -1,0 +1,42 @@
+[
+  {
+    "ParamGroupID": 2001,
+    "AdventureType": "RogueCaptureMonster",
+    "RoomID": 2320601
+  },
+  {
+    "ParamGroupID": 2001,
+    "AdventureType": "RogueCaptureMonster",
+    "RoomID": 1210601
+  },
+  {
+    "ParamGroupID": 2001,
+    "AdventureType": "RogueCaptureMonster",
+    "RoomID": 2110601
+  },
+  {
+    "ParamGroupID": 1001,
+    "AdventureType": "RogueDestroyProp",
+    "RoomID": 2000601
+  },
+  {
+    "ParamGroupID": 1002,
+    "AdventureType": "RogueDestroyProp",
+    "RoomID": 1210602
+  },
+  {
+    "ParamGroupID": 1003,
+    "AdventureType": "RogueDestroyProp",
+    "RoomID": 1310601
+  },
+  {
+    "ParamGroupID": 3001,
+    "AdventureType": "RogueTurntable",
+    "RoomID": 2110602
+  },
+  {
+    "ParamGroupID": 4001,
+    "AdventureType": "RogueEscapeLaser",
+    "RoomID": 2210601
+  }
+]

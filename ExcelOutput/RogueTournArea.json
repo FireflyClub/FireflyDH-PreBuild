@@ -1,0 +1,5783 @@
+[
+  {
+    "LayerIDList": [
+      101
+    ],
+    "DifficultyIDList": [
+      1001
+    ],
+    "MonsterDisplayItemList": [],
+    "WorldLevelLimit": 0,
+    "Difficulty": "Difficulty_1",
+    "FirstReward": 110600,
+    "ExpScoreID": 99,
+    "AreaNameID": {
+      "Hash": -1874504598
+    },
+    "TournMode": "Permanent",
+    "AreaID": 101,
+    "AreaGroupID": "Guide",
+    "UnlockID": 3001301,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1011,
+      1012,
+      1013
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111002,
+      111012,
+      112002,
+      112012,
+      113002,
+      113012,
+      114002,
+      114012
+    ],
+    "WorldLevelLimit": 3,
+    "Difficulty": "Difficulty_1",
+    "FirstReward": 110601,
+    "ExpScoreID": 1,
+    "AreaNameID": {
+      "Hash": -1874504627
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 201,
+    "AreaGroupID": "Formal",
+    "UnlockID": 3001302,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1021,
+      1022,
+      1023
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111002,
+      111012,
+      112002,
+      112012,
+      113002,
+      113012,
+      114002,
+      114012
+    ],
+    "WorldLevelLimit": 4,
+    "Difficulty": "Difficulty_2",
+    "FirstReward": 110602,
+    "ExpScoreID": 2,
+    "AreaNameID": {
+      "Hash": -1874504630
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 202,
+    "AreaGroupID": "Formal",
+    "UnlockID": 3000501,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1031,
+      1032,
+      1033
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "WorldLevelLimit": 5,
+    "Difficulty": "Difficulty_3",
+    "FirstReward": 110603,
+    "ExpScoreID": 3,
+    "AreaNameID": {
+      "Hash": -1874504629
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 203,
+    "AreaGroupID": "Formal",
+    "UnlockID": 3000502,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1041,
+      1042,
+      1043
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "WorldLevelLimit": 6,
+    "Difficulty": "Difficulty_4",
+    "FirstReward": 110604,
+    "ExpScoreID": 4,
+    "AreaNameID": {
+      "Hash": -1874504624
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 204,
+    "AreaGroupID": "Formal",
+    "UnlockID": 3000503,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1051,
+      1052,
+      1053
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "WorldLevelLimit": 6,
+    "Difficulty": "Difficulty_5",
+    "FirstReward": 110605,
+    "ExpScoreID": 5,
+    "AreaNameID": {
+      "Hash": -1874504623
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 205,
+    "AreaGroupID": "Formal",
+    "UnlockID": 3000504,
+    "IsHard": true
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1011,
+      1012,
+      1013
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111002,
+      111012,
+      112002,
+      112012,
+      113002,
+      113012,
+      114002,
+      114012
+    ],
+    "WorldLevelLimit": 3,
+    "Difficulty": "Difficulty_1",
+    "FirstReward": 0,
+    "ExpScoreID": 1,
+    "AreaNameID": {
+      "Hash": 1612698623
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1011,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3001302,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1021,
+      1022,
+      1023
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111002,
+      111012,
+      112002,
+      112012,
+      113002,
+      113012,
+      114002,
+      114012
+    ],
+    "WorldLevelLimit": 4,
+    "Difficulty": "Difficulty_2",
+    "FirstReward": 0,
+    "ExpScoreID": 2,
+    "AreaNameID": {
+      "Hash": 1209414096
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1012,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000501,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1031,
+      1032,
+      1033
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "WorldLevelLimit": 5,
+    "Difficulty": "Difficulty_3",
+    "FirstReward": 0,
+    "ExpScoreID": 3,
+    "AreaNameID": {
+      "Hash": -1519469259
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1013,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000502,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1041,
+      1042,
+      1043
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "WorldLevelLimit": 6,
+    "Difficulty": "Difficulty_4",
+    "FirstReward": 0,
+    "ExpScoreID": 4,
+    "AreaNameID": {
+      "Hash": 2015983150
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1014,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000503,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1051,
+      1052,
+      1053
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "WorldLevelLimit": 6,
+    "Difficulty": "Difficulty_5",
+    "FirstReward": 0,
+    "ExpScoreID": 5,
+    "AreaNameID": {
+      "Hash": -712900205
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1015,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000504,
+    "IsHard": true
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1011,
+      1012,
+      1013
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111002,
+      111012,
+      112002,
+      112012,
+      113002,
+      113012,
+      114002,
+      114012
+    ],
+    "WorldLevelLimit": 3,
+    "Difficulty": "Difficulty_1",
+    "FirstReward": 0,
+    "ExpScoreID": 1,
+    "AreaNameID": {
+      "Hash": 1612698626
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1021,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3001302,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1021,
+      1022,
+      1023
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111002,
+      111012,
+      112002,
+      112012,
+      113002,
+      113012,
+      114002,
+      114012
+    ],
+    "WorldLevelLimit": 4,
+    "Difficulty": "Difficulty_2",
+    "FirstReward": 0,
+    "ExpScoreID": 2,
+    "AreaNameID": {
+      "Hash": 1209414099
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1022,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000501,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1031,
+      1032,
+      1033
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "WorldLevelLimit": 5,
+    "Difficulty": "Difficulty_3",
+    "FirstReward": 0,
+    "ExpScoreID": 3,
+    "AreaNameID": {
+      "Hash": -1519469256
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1023,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000502,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1041,
+      1042,
+      1043
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "WorldLevelLimit": 6,
+    "Difficulty": "Difficulty_4",
+    "FirstReward": 0,
+    "ExpScoreID": 4,
+    "AreaNameID": {
+      "Hash": 2015983153
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1024,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000503,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1051,
+      1052,
+      1053
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "WorldLevelLimit": 6,
+    "Difficulty": "Difficulty_5",
+    "FirstReward": 0,
+    "ExpScoreID": 5,
+    "AreaNameID": {
+      "Hash": -712900202
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1025,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000504,
+    "IsHard": true
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1011,
+      1012,
+      1013
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111002,
+      111012,
+      112002,
+      112012,
+      113002,
+      113012,
+      114002,
+      114012
+    ],
+    "WorldLevelLimit": 3,
+    "Difficulty": "Difficulty_1",
+    "FirstReward": 0,
+    "ExpScoreID": 1,
+    "AreaNameID": {
+      "Hash": 1612698625
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1031,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3001302,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1021,
+      1022,
+      1023
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111002,
+      111012,
+      112002,
+      112012,
+      113002,
+      113012,
+      114002,
+      114012
+    ],
+    "WorldLevelLimit": 4,
+    "Difficulty": "Difficulty_2",
+    "FirstReward": 0,
+    "ExpScoreID": 2,
+    "AreaNameID": {
+      "Hash": 1209414098
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1032,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000501,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1031,
+      1032,
+      1033
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "WorldLevelLimit": 5,
+    "Difficulty": "Difficulty_3",
+    "FirstReward": 0,
+    "ExpScoreID": 3,
+    "AreaNameID": {
+      "Hash": -1519469257
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1033,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000502,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1041,
+      1042,
+      1043
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "WorldLevelLimit": 6,
+    "Difficulty": "Difficulty_4",
+    "FirstReward": 0,
+    "ExpScoreID": 4,
+    "AreaNameID": {
+      "Hash": 2015983152
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1034,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000503,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1051,
+      1052,
+      1053
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "WorldLevelLimit": 6,
+    "Difficulty": "Difficulty_5",
+    "FirstReward": 0,
+    "ExpScoreID": 5,
+    "AreaNameID": {
+      "Hash": -712900203
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1035,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000504,
+    "IsHard": true
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1011,
+      1012,
+      1013
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111002,
+      111012,
+      112002,
+      112012,
+      113002,
+      113012,
+      114002,
+      114012
+    ],
+    "WorldLevelLimit": 3,
+    "Difficulty": "Difficulty_1",
+    "FirstReward": 0,
+    "ExpScoreID": 1,
+    "AreaNameID": {
+      "Hash": 1612698628
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1041,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3001302,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1021,
+      1022,
+      1023
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111002,
+      111012,
+      112002,
+      112012,
+      113002,
+      113012,
+      114002,
+      114012
+    ],
+    "WorldLevelLimit": 4,
+    "Difficulty": "Difficulty_2",
+    "FirstReward": 0,
+    "ExpScoreID": 2,
+    "AreaNameID": {
+      "Hash": 1209414101
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1042,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000501,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1031,
+      1032,
+      1033
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "WorldLevelLimit": 5,
+    "Difficulty": "Difficulty_3",
+    "FirstReward": 0,
+    "ExpScoreID": 3,
+    "AreaNameID": {
+      "Hash": -1519469254
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1043,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000502,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1041,
+      1042,
+      1043
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "WorldLevelLimit": 6,
+    "Difficulty": "Difficulty_4",
+    "FirstReward": 0,
+    "ExpScoreID": 4,
+    "AreaNameID": {
+      "Hash": 2015983155
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1044,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000503,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1051,
+      1052,
+      1053
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "WorldLevelLimit": 6,
+    "Difficulty": "Difficulty_5",
+    "FirstReward": 0,
+    "ExpScoreID": 5,
+    "AreaNameID": {
+      "Hash": -712900200
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1045,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000504,
+    "IsHard": true
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1011,
+      1012,
+      1013
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111002,
+      111012,
+      112002,
+      112012,
+      113002,
+      113012,
+      114002,
+      114012
+    ],
+    "WorldLevelLimit": 3,
+    "Difficulty": "Difficulty_1",
+    "FirstReward": 0,
+    "ExpScoreID": 1,
+    "AreaNameID": {
+      "Hash": 1612698627
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1051,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3001302,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1021,
+      1022,
+      1023
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111002,
+      111012,
+      112002,
+      112012,
+      113002,
+      113012,
+      114002,
+      114012
+    ],
+    "WorldLevelLimit": 4,
+    "Difficulty": "Difficulty_2",
+    "FirstReward": 0,
+    "ExpScoreID": 2,
+    "AreaNameID": {
+      "Hash": 1209414100
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1052,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000501,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1031,
+      1032,
+      1033
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "WorldLevelLimit": 5,
+    "Difficulty": "Difficulty_3",
+    "FirstReward": 0,
+    "ExpScoreID": 3,
+    "AreaNameID": {
+      "Hash": -1519469255
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1053,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000502,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1041,
+      1042,
+      1043
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "WorldLevelLimit": 6,
+    "Difficulty": "Difficulty_4",
+    "FirstReward": 0,
+    "ExpScoreID": 4,
+    "AreaNameID": {
+      "Hash": 2015983154
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1054,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000503,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1051,
+      1052,
+      1053
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "WorldLevelLimit": 6,
+    "Difficulty": "Difficulty_5",
+    "FirstReward": 0,
+    "ExpScoreID": 5,
+    "AreaNameID": {
+      "Hash": -712900201
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1055,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000504,
+    "IsHard": true
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1011,
+      1012,
+      1013
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111002,
+      111012,
+      112002,
+      112012,
+      113002,
+      113012,
+      114002,
+      114012
+    ],
+    "WorldLevelLimit": 3,
+    "Difficulty": "Difficulty_1",
+    "FirstReward": 0,
+    "ExpScoreID": 1,
+    "AreaNameID": {
+      "Hash": 1612698630
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1061,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3001302,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1021,
+      1022,
+      1023
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111002,
+      111012,
+      112002,
+      112012,
+      113002,
+      113012,
+      114002,
+      114012
+    ],
+    "WorldLevelLimit": 4,
+    "Difficulty": "Difficulty_2",
+    "FirstReward": 0,
+    "ExpScoreID": 2,
+    "AreaNameID": {
+      "Hash": 1209414103
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1062,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000501,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1031,
+      1032,
+      1033
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "WorldLevelLimit": 5,
+    "Difficulty": "Difficulty_3",
+    "FirstReward": 0,
+    "ExpScoreID": 3,
+    "AreaNameID": {
+      "Hash": -1519469252
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1063,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000502,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1041,
+      1042,
+      1043
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "WorldLevelLimit": 6,
+    "Difficulty": "Difficulty_4",
+    "FirstReward": 0,
+    "ExpScoreID": 4,
+    "AreaNameID": {
+      "Hash": 2015983157
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1064,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000503,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1051,
+      1052,
+      1053
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "WorldLevelLimit": 6,
+    "Difficulty": "Difficulty_5",
+    "FirstReward": 0,
+    "ExpScoreID": 5,
+    "AreaNameID": {
+      "Hash": -712900198
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1065,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000504,
+    "IsHard": true
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1011,
+      1012,
+      1013
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111002,
+      111012,
+      112002,
+      112012,
+      113002,
+      113012,
+      114002,
+      114012
+    ],
+    "WorldLevelLimit": 3,
+    "Difficulty": "Difficulty_1",
+    "FirstReward": 0,
+    "ExpScoreID": 1,
+    "AreaNameID": {
+      "Hash": 1612698629
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1071,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3001302,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1021,
+      1022,
+      1023
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111002,
+      111012,
+      112002,
+      112012,
+      113002,
+      113012,
+      114002,
+      114012
+    ],
+    "WorldLevelLimit": 4,
+    "Difficulty": "Difficulty_2",
+    "FirstReward": 0,
+    "ExpScoreID": 2,
+    "AreaNameID": {
+      "Hash": 1209414102
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1072,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000501,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1031,
+      1032,
+      1033
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "WorldLevelLimit": 5,
+    "Difficulty": "Difficulty_3",
+    "FirstReward": 0,
+    "ExpScoreID": 3,
+    "AreaNameID": {
+      "Hash": -1519469253
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1073,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000502,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1041,
+      1042,
+      1043
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "WorldLevelLimit": 6,
+    "Difficulty": "Difficulty_4",
+    "FirstReward": 0,
+    "ExpScoreID": 4,
+    "AreaNameID": {
+      "Hash": 2015983156
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1074,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000503,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1051,
+      1052,
+      1053
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "WorldLevelLimit": 6,
+    "Difficulty": "Difficulty_5",
+    "FirstReward": 0,
+    "ExpScoreID": 5,
+    "AreaNameID": {
+      "Hash": -712900199
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1075,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000504,
+    "IsHard": true
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1011,
+      1012,
+      1013
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111002,
+      111012,
+      112002,
+      112012,
+      113002,
+      113012,
+      114002,
+      114012
+    ],
+    "WorldLevelLimit": 3,
+    "Difficulty": "Difficulty_1",
+    "FirstReward": 0,
+    "ExpScoreID": 1,
+    "AreaNameID": {
+      "Hash": 1612698632
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1081,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 0,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1021,
+      1022,
+      1023
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111002,
+      111012,
+      112002,
+      112012,
+      113002,
+      113012,
+      114002,
+      114012
+    ],
+    "WorldLevelLimit": 4,
+    "Difficulty": "Difficulty_2",
+    "FirstReward": 0,
+    "ExpScoreID": 2,
+    "AreaNameID": {
+      "Hash": 1209414105
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1082,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000501,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1031,
+      1032,
+      1033
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "WorldLevelLimit": 5,
+    "Difficulty": "Difficulty_3",
+    "FirstReward": 0,
+    "ExpScoreID": 3,
+    "AreaNameID": {
+      "Hash": -1519469250
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1083,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000502,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1041,
+      1042,
+      1043
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "WorldLevelLimit": 6,
+    "Difficulty": "Difficulty_4",
+    "FirstReward": 0,
+    "ExpScoreID": 4,
+    "AreaNameID": {
+      "Hash": 2015983159
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1084,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000503,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1051,
+      1052,
+      1053
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "WorldLevelLimit": 6,
+    "Difficulty": "Difficulty_5",
+    "FirstReward": 0,
+    "ExpScoreID": 5,
+    "AreaNameID": {
+      "Hash": -712900196
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1085,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000504,
+    "IsHard": true
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1011,
+      1012,
+      1013
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111002,
+      111012,
+      112002,
+      112012,
+      113002,
+      113012,
+      114002,
+      114012
+    ],
+    "WorldLevelLimit": 3,
+    "Difficulty": "Difficulty_1",
+    "FirstReward": 0,
+    "ExpScoreID": 1,
+    "AreaNameID": {
+      "Hash": 1612698631
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1091,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 0,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1021,
+      1022,
+      1023
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111002,
+      111012,
+      112002,
+      112012,
+      113002,
+      113012,
+      114002,
+      114012
+    ],
+    "WorldLevelLimit": 4,
+    "Difficulty": "Difficulty_2",
+    "FirstReward": 0,
+    "ExpScoreID": 2,
+    "AreaNameID": {
+      "Hash": 1209414104
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1092,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000501,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1031,
+      1032,
+      1033
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "WorldLevelLimit": 5,
+    "Difficulty": "Difficulty_3",
+    "FirstReward": 0,
+    "ExpScoreID": 3,
+    "AreaNameID": {
+      "Hash": -1519469251
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1093,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000502,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1041,
+      1042,
+      1043
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "WorldLevelLimit": 6,
+    "Difficulty": "Difficulty_4",
+    "FirstReward": 0,
+    "ExpScoreID": 4,
+    "AreaNameID": {
+      "Hash": 2015983158
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1094,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000503,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1051,
+      1052,
+      1053
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "WorldLevelLimit": 6,
+    "Difficulty": "Difficulty_5",
+    "FirstReward": 0,
+    "ExpScoreID": 5,
+    "AreaNameID": {
+      "Hash": -712900197
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1095,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000504,
+    "IsHard": true
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1011,
+      1012,
+      1013
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111002,
+      111012,
+      112002,
+      112012,
+      113002,
+      113012,
+      114002,
+      114012
+    ],
+    "WorldLevelLimit": 3,
+    "Difficulty": "Difficulty_1",
+    "FirstReward": 0,
+    "ExpScoreID": 1,
+    "AreaNameID": {
+      "Hash": 1471536123
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1101,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 0,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1021,
+      1022,
+      1023
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111002,
+      111012,
+      112002,
+      112012,
+      113002,
+      113012,
+      114002,
+      114012
+    ],
+    "WorldLevelLimit": 4,
+    "Difficulty": "Difficulty_2",
+    "FirstReward": 0,
+    "ExpScoreID": 2,
+    "AreaNameID": {
+      "Hash": -94547818
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1102,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000501,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1031,
+      1032,
+      1033
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "WorldLevelLimit": 5,
+    "Difficulty": "Difficulty_3",
+    "FirstReward": 0,
+    "ExpScoreID": 3,
+    "AreaNameID": {
+      "Hash": -1660631759
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1103,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000502,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1041,
+      1042,
+      1043
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "WorldLevelLimit": 6,
+    "Difficulty": "Difficulty_4",
+    "FirstReward": 0,
+    "ExpScoreID": 4,
+    "AreaNameID": {
+      "Hash": 712021236
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1104,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000503,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1051,
+      1052,
+      1053
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "WorldLevelLimit": 6,
+    "Difficulty": "Difficulty_5",
+    "FirstReward": 0,
+    "ExpScoreID": 5,
+    "AreaNameID": {
+      "Hash": -854062705
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1105,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000504,
+    "IsHard": true
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1011,
+      1012,
+      1013
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111002,
+      111012,
+      112002,
+      112012,
+      113002,
+      113012,
+      114002,
+      114012
+    ],
+    "WorldLevelLimit": 3,
+    "Difficulty": "Difficulty_1",
+    "FirstReward": 0,
+    "ExpScoreID": 1,
+    "AreaNameID": {
+      "Hash": 1471536122
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1111,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 0,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1021,
+      1022,
+      1023
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111002,
+      111012,
+      112002,
+      112012,
+      113002,
+      113012,
+      114002,
+      114012
+    ],
+    "WorldLevelLimit": 4,
+    "Difficulty": "Difficulty_2",
+    "FirstReward": 0,
+    "ExpScoreID": 2,
+    "AreaNameID": {
+      "Hash": -94547819
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1112,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000501,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1031,
+      1032,
+      1033
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "WorldLevelLimit": 5,
+    "Difficulty": "Difficulty_3",
+    "FirstReward": 0,
+    "ExpScoreID": 3,
+    "AreaNameID": {
+      "Hash": -1660631760
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1113,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000502,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1041,
+      1042,
+      1043
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "WorldLevelLimit": 6,
+    "Difficulty": "Difficulty_4",
+    "FirstReward": 0,
+    "ExpScoreID": 4,
+    "AreaNameID": {
+      "Hash": 712021235
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1114,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000503,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1051,
+      1052,
+      1053
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "WorldLevelLimit": 6,
+    "Difficulty": "Difficulty_5",
+    "FirstReward": 0,
+    "ExpScoreID": 5,
+    "AreaNameID": {
+      "Hash": -854062706
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1115,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000504,
+    "IsHard": true
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1011,
+      1012,
+      1013
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111002,
+      111012,
+      112002,
+      112012,
+      113002,
+      113012,
+      114002,
+      114012
+    ],
+    "WorldLevelLimit": 3,
+    "Difficulty": "Difficulty_1",
+    "FirstReward": 0,
+    "ExpScoreID": 1,
+    "AreaNameID": {
+      "Hash": 1471536125
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1121,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 0,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1021,
+      1022,
+      1023
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111002,
+      111012,
+      112002,
+      112012,
+      113002,
+      113012,
+      114002,
+      114012
+    ],
+    "WorldLevelLimit": 4,
+    "Difficulty": "Difficulty_2",
+    "FirstReward": 0,
+    "ExpScoreID": 2,
+    "AreaNameID": {
+      "Hash": -94547816
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1122,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000501,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1031,
+      1032,
+      1033
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "WorldLevelLimit": 5,
+    "Difficulty": "Difficulty_3",
+    "FirstReward": 0,
+    "ExpScoreID": 3,
+    "AreaNameID": {
+      "Hash": -1660631757
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1123,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000502,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1041,
+      1042,
+      1043
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "WorldLevelLimit": 6,
+    "Difficulty": "Difficulty_4",
+    "FirstReward": 0,
+    "ExpScoreID": 4,
+    "AreaNameID": {
+      "Hash": 712021238
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1124,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000503,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1051,
+      1052,
+      1053
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "WorldLevelLimit": 6,
+    "Difficulty": "Difficulty_5",
+    "FirstReward": 0,
+    "ExpScoreID": 5,
+    "AreaNameID": {
+      "Hash": -854062703
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1125,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000504,
+    "IsHard": true
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1011,
+      1012,
+      1013
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111002,
+      111012,
+      112002,
+      112012,
+      113002,
+      113012,
+      114002,
+      114012
+    ],
+    "WorldLevelLimit": 3,
+    "Difficulty": "Difficulty_1",
+    "FirstReward": 0,
+    "ExpScoreID": 1,
+    "AreaNameID": {
+      "Hash": 1471536124
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1131,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 0,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1021,
+      1022,
+      1023
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111002,
+      111012,
+      112002,
+      112012,
+      113002,
+      113012,
+      114002,
+      114012
+    ],
+    "WorldLevelLimit": 4,
+    "Difficulty": "Difficulty_2",
+    "FirstReward": 0,
+    "ExpScoreID": 2,
+    "AreaNameID": {
+      "Hash": -94547817
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1132,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000501,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1031,
+      1032,
+      1033
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "WorldLevelLimit": 5,
+    "Difficulty": "Difficulty_3",
+    "FirstReward": 0,
+    "ExpScoreID": 3,
+    "AreaNameID": {
+      "Hash": -1660631758
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1133,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000502,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1041,
+      1042,
+      1043
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "WorldLevelLimit": 6,
+    "Difficulty": "Difficulty_4",
+    "FirstReward": 0,
+    "ExpScoreID": 4,
+    "AreaNameID": {
+      "Hash": 712021237
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1134,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000503,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1051,
+      1052,
+      1053
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "WorldLevelLimit": 6,
+    "Difficulty": "Difficulty_5",
+    "FirstReward": 0,
+    "ExpScoreID": 5,
+    "AreaNameID": {
+      "Hash": -854062704
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1135,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000504,
+    "IsHard": true
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1011,
+      1012,
+      1013
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111002,
+      111012,
+      112002,
+      112012,
+      113002,
+      113012,
+      114002,
+      114012
+    ],
+    "WorldLevelLimit": 3,
+    "Difficulty": "Difficulty_1",
+    "FirstReward": 0,
+    "ExpScoreID": 1,
+    "AreaNameID": {
+      "Hash": 1471536127
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1141,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 0,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1021,
+      1022,
+      1023
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111002,
+      111012,
+      112002,
+      112012,
+      113002,
+      113012,
+      114002,
+      114012
+    ],
+    "WorldLevelLimit": 4,
+    "Difficulty": "Difficulty_2",
+    "FirstReward": 0,
+    "ExpScoreID": 2,
+    "AreaNameID": {
+      "Hash": -94547814
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1142,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000501,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1031,
+      1032,
+      1033
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "WorldLevelLimit": 5,
+    "Difficulty": "Difficulty_3",
+    "FirstReward": 0,
+    "ExpScoreID": 3,
+    "AreaNameID": {
+      "Hash": -1660631755
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1143,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000502,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1041,
+      1042,
+      1043
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "WorldLevelLimit": 6,
+    "Difficulty": "Difficulty_4",
+    "FirstReward": 0,
+    "ExpScoreID": 4,
+    "AreaNameID": {
+      "Hash": 712021240
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1144,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000503,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1051,
+      1052,
+      1053
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "WorldLevelLimit": 6,
+    "Difficulty": "Difficulty_5",
+    "FirstReward": 0,
+    "ExpScoreID": 5,
+    "AreaNameID": {
+      "Hash": -854062701
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1145,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000504,
+    "IsHard": true
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1011,
+      1012,
+      1013
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111002,
+      111012,
+      112002,
+      112012,
+      113002,
+      113012,
+      114002,
+      114012
+    ],
+    "WorldLevelLimit": 3,
+    "Difficulty": "Difficulty_1",
+    "FirstReward": 0,
+    "ExpScoreID": 1,
+    "AreaNameID": {
+      "Hash": 1471536126
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1151,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 0,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1021,
+      1022,
+      1023
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111002,
+      111012,
+      112002,
+      112012,
+      113002,
+      113012,
+      114002,
+      114012
+    ],
+    "WorldLevelLimit": 4,
+    "Difficulty": "Difficulty_2",
+    "FirstReward": 0,
+    "ExpScoreID": 2,
+    "AreaNameID": {
+      "Hash": -94547815
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1152,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000501,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1031,
+      1032,
+      1033
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "WorldLevelLimit": 5,
+    "Difficulty": "Difficulty_3",
+    "FirstReward": 0,
+    "ExpScoreID": 3,
+    "AreaNameID": {
+      "Hash": -1660631756
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1153,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000502,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1041,
+      1042,
+      1043
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "WorldLevelLimit": 6,
+    "Difficulty": "Difficulty_4",
+    "FirstReward": 0,
+    "ExpScoreID": 4,
+    "AreaNameID": {
+      "Hash": 712021239
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1154,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000503,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1051,
+      1052,
+      1053
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "WorldLevelLimit": 6,
+    "Difficulty": "Difficulty_5",
+    "FirstReward": 0,
+    "ExpScoreID": 5,
+    "AreaNameID": {
+      "Hash": -854062702
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1155,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000504,
+    "IsHard": true
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1011,
+      1012,
+      1013
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111002,
+      111012,
+      112002,
+      112012,
+      113002,
+      113012,
+      114002,
+      114012
+    ],
+    "WorldLevelLimit": 3,
+    "Difficulty": "Difficulty_1",
+    "FirstReward": 0,
+    "ExpScoreID": 1,
+    "AreaNameID": {
+      "Hash": 1471536129
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1161,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 0,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1021,
+      1022,
+      1023
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111002,
+      111012,
+      112002,
+      112012,
+      113002,
+      113012,
+      114002,
+      114012
+    ],
+    "WorldLevelLimit": 4,
+    "Difficulty": "Difficulty_2",
+    "FirstReward": 0,
+    "ExpScoreID": 2,
+    "AreaNameID": {
+      "Hash": -94547812
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1162,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000501,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1031,
+      1032,
+      1033
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "WorldLevelLimit": 5,
+    "Difficulty": "Difficulty_3",
+    "FirstReward": 0,
+    "ExpScoreID": 3,
+    "AreaNameID": {
+      "Hash": -1660631753
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1163,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000502,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1041,
+      1042,
+      1043
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "WorldLevelLimit": 6,
+    "Difficulty": "Difficulty_4",
+    "FirstReward": 0,
+    "ExpScoreID": 4,
+    "AreaNameID": {
+      "Hash": 712021242
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1164,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000503,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1051,
+      1052,
+      1053
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "WorldLevelLimit": 6,
+    "Difficulty": "Difficulty_5",
+    "FirstReward": 0,
+    "ExpScoreID": 5,
+    "AreaNameID": {
+      "Hash": -854062699
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1165,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000504,
+    "IsHard": true
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1011,
+      1012,
+      1013
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111002,
+      111012,
+      112002,
+      112012,
+      113002,
+      113012,
+      114002,
+      114012
+    ],
+    "WorldLevelLimit": 3,
+    "Difficulty": "Difficulty_1",
+    "FirstReward": 0,
+    "ExpScoreID": 1,
+    "AreaNameID": {
+      "Hash": 1471536128
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1171,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 0,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1021,
+      1022,
+      1023
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111002,
+      111012,
+      112002,
+      112012,
+      113002,
+      113012,
+      114002,
+      114012
+    ],
+    "WorldLevelLimit": 4,
+    "Difficulty": "Difficulty_2",
+    "FirstReward": 0,
+    "ExpScoreID": 2,
+    "AreaNameID": {
+      "Hash": -94547813
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1172,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000501,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1031,
+      1032,
+      1033
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "WorldLevelLimit": 5,
+    "Difficulty": "Difficulty_3",
+    "FirstReward": 0,
+    "ExpScoreID": 3,
+    "AreaNameID": {
+      "Hash": -1660631754
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1173,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000502,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1041,
+      1042,
+      1043
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "WorldLevelLimit": 6,
+    "Difficulty": "Difficulty_4",
+    "FirstReward": 0,
+    "ExpScoreID": 4,
+    "AreaNameID": {
+      "Hash": 712021241
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1174,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000503,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1051,
+      1052,
+      1053
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "WorldLevelLimit": 6,
+    "Difficulty": "Difficulty_5",
+    "FirstReward": 0,
+    "ExpScoreID": 5,
+    "AreaNameID": {
+      "Hash": -854062700
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1175,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000504,
+    "IsHard": true
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1011,
+      1012,
+      1013
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111002,
+      111012,
+      112002,
+      112012,
+      113002,
+      113012,
+      114002,
+      114012
+    ],
+    "WorldLevelLimit": 3,
+    "Difficulty": "Difficulty_1",
+    "FirstReward": 0,
+    "ExpScoreID": 1,
+    "AreaNameID": {
+      "Hash": 1471536131
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1181,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 0,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1021,
+      1022,
+      1023
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111002,
+      111012,
+      112002,
+      112012,
+      113002,
+      113012,
+      114002,
+      114012
+    ],
+    "WorldLevelLimit": 4,
+    "Difficulty": "Difficulty_2",
+    "FirstReward": 0,
+    "ExpScoreID": 2,
+    "AreaNameID": {
+      "Hash": -94547810
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1182,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000501,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1031,
+      1032,
+      1033
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "WorldLevelLimit": 5,
+    "Difficulty": "Difficulty_3",
+    "FirstReward": 0,
+    "ExpScoreID": 3,
+    "AreaNameID": {
+      "Hash": -1660631751
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1183,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000502,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1041,
+      1042,
+      1043
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "WorldLevelLimit": 6,
+    "Difficulty": "Difficulty_4",
+    "FirstReward": 0,
+    "ExpScoreID": 4,
+    "AreaNameID": {
+      "Hash": 712021244
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1184,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000503,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1051,
+      1052,
+      1053
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "WorldLevelLimit": 6,
+    "Difficulty": "Difficulty_5",
+    "FirstReward": 0,
+    "ExpScoreID": 5,
+    "AreaNameID": {
+      "Hash": -854062697
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1185,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000504,
+    "IsHard": true
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1011,
+      1012,
+      1013
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111002,
+      111012,
+      112002,
+      112012,
+      113002,
+      113012,
+      114002,
+      114012
+    ],
+    "WorldLevelLimit": 3,
+    "Difficulty": "Difficulty_1",
+    "FirstReward": 0,
+    "ExpScoreID": 1,
+    "AreaNameID": {
+      "Hash": 1471536130
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1191,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 0,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1021,
+      1022,
+      1023
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111002,
+      111012,
+      112002,
+      112012,
+      113002,
+      113012,
+      114002,
+      114012
+    ],
+    "WorldLevelLimit": 4,
+    "Difficulty": "Difficulty_2",
+    "FirstReward": 0,
+    "ExpScoreID": 2,
+    "AreaNameID": {
+      "Hash": -94547811
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1192,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000501,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1031,
+      1032,
+      1033
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "WorldLevelLimit": 5,
+    "Difficulty": "Difficulty_3",
+    "FirstReward": 0,
+    "ExpScoreID": 3,
+    "AreaNameID": {
+      "Hash": -1660631752
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1193,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000502,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1041,
+      1042,
+      1043
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "WorldLevelLimit": 6,
+    "Difficulty": "Difficulty_4",
+    "FirstReward": 0,
+    "ExpScoreID": 4,
+    "AreaNameID": {
+      "Hash": 712021243
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1194,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000503,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1051,
+      1052,
+      1053
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "WorldLevelLimit": 6,
+    "Difficulty": "Difficulty_5",
+    "FirstReward": 0,
+    "ExpScoreID": 5,
+    "AreaNameID": {
+      "Hash": -854062698
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1195,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000504,
+    "IsHard": true
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1011,
+      1012,
+      1013
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "WorldLevelLimit": 3,
+    "Difficulty": "Difficulty_1",
+    "FirstReward": 0,
+    "ExpScoreID": 1,
+    "AreaNameID": {
+      "Hash": 1330373622
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1201,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 0,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1021,
+      1022,
+      1023
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "WorldLevelLimit": 4,
+    "Difficulty": "Difficulty_2",
+    "FirstReward": 0,
+    "ExpScoreID": 2,
+    "AreaNameID": {
+      "Hash": -1398509733
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1202,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000501,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1031,
+      1032,
+      1033
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111002,
+      111012,
+      112002,
+      112012,
+      113002,
+      113012,
+      114002,
+      114012
+    ],
+    "WorldLevelLimit": 5,
+    "Difficulty": "Difficulty_3",
+    "FirstReward": 0,
+    "ExpScoreID": 3,
+    "AreaNameID": {
+      "Hash": 167574208
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1203,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000502,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1041,
+      1042,
+      1043
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111002,
+      111012,
+      112002,
+      112012,
+      113002,
+      113012,
+      114002,
+      114012
+    ],
+    "WorldLevelLimit": 6,
+    "Difficulty": "Difficulty_4",
+    "FirstReward": 0,
+    "ExpScoreID": 4,
+    "AreaNameID": {
+      "Hash": 1733658149
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1204,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000503,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1051,
+      1052,
+      1053
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "WorldLevelLimit": 6,
+    "Difficulty": "Difficulty_5",
+    "FirstReward": 0,
+    "ExpScoreID": 5,
+    "AreaNameID": {
+      "Hash": -995225206
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1205,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000504,
+    "IsHard": true
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1011,
+      1012,
+      1013
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "WorldLevelLimit": 3,
+    "Difficulty": "Difficulty_1",
+    "FirstReward": 0,
+    "ExpScoreID": 1,
+    "AreaNameID": {
+      "Hash": 1330373621
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1211,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 0,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1021,
+      1022,
+      1023
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "WorldLevelLimit": 4,
+    "Difficulty": "Difficulty_2",
+    "FirstReward": 0,
+    "ExpScoreID": 2,
+    "AreaNameID": {
+      "Hash": -1398509734
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1212,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000501,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1031,
+      1032,
+      1033
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "WorldLevelLimit": 5,
+    "Difficulty": "Difficulty_3",
+    "FirstReward": 0,
+    "ExpScoreID": 3,
+    "AreaNameID": {
+      "Hash": 167574207
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1213,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000502,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1041,
+      1042,
+      1043
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "WorldLevelLimit": 6,
+    "Difficulty": "Difficulty_4",
+    "FirstReward": 0,
+    "ExpScoreID": 4,
+    "AreaNameID": {
+      "Hash": 1733658148
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1214,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000503,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1051,
+      1052,
+      1053
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111002,
+      111012,
+      112002,
+      112012,
+      113002,
+      113012,
+      114002,
+      114012
+    ],
+    "WorldLevelLimit": 6,
+    "Difficulty": "Difficulty_5",
+    "FirstReward": 0,
+    "ExpScoreID": 5,
+    "AreaNameID": {
+      "Hash": -995225207
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1215,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000504,
+    "IsHard": true
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1011,
+      1012,
+      1013
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111002,
+      111012,
+      112002,
+      112012,
+      113002,
+      113012,
+      114002,
+      114012
+    ],
+    "WorldLevelLimit": 3,
+    "Difficulty": "Difficulty_1",
+    "FirstReward": 0,
+    "ExpScoreID": 1,
+    "AreaNameID": {
+      "Hash": 1330373624
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1221,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 0,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1021,
+      1022,
+      1023
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "WorldLevelLimit": 4,
+    "Difficulty": "Difficulty_2",
+    "FirstReward": 0,
+    "ExpScoreID": 2,
+    "AreaNameID": {
+      "Hash": -1398509731
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1222,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000501,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1031,
+      1032,
+      1033
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "WorldLevelLimit": 5,
+    "Difficulty": "Difficulty_3",
+    "FirstReward": 0,
+    "ExpScoreID": 3,
+    "AreaNameID": {
+      "Hash": 167574210
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1223,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000502,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1041,
+      1042,
+      1043
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "WorldLevelLimit": 6,
+    "Difficulty": "Difficulty_4",
+    "FirstReward": 0,
+    "ExpScoreID": 4,
+    "AreaNameID": {
+      "Hash": 1733658151
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1224,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000503,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1051,
+      1052,
+      1053
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "WorldLevelLimit": 6,
+    "Difficulty": "Difficulty_5",
+    "FirstReward": 0,
+    "ExpScoreID": 5,
+    "AreaNameID": {
+      "Hash": -995225204
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1225,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000504,
+    "IsHard": true
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1011,
+      1012,
+      1013
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "WorldLevelLimit": 3,
+    "Difficulty": "Difficulty_1",
+    "FirstReward": 0,
+    "ExpScoreID": 1,
+    "AreaNameID": {
+      "Hash": 1330373623
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1231,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 0,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1021,
+      1022,
+      1023
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111002,
+      111012,
+      112002,
+      112012,
+      113002,
+      113012,
+      114002,
+      114012
+    ],
+    "WorldLevelLimit": 4,
+    "Difficulty": "Difficulty_2",
+    "FirstReward": 0,
+    "ExpScoreID": 2,
+    "AreaNameID": {
+      "Hash": -1398509732
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1232,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000501,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1031,
+      1032,
+      1033
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111002,
+      111012,
+      112002,
+      112012,
+      113002,
+      113012,
+      114002,
+      114012
+    ],
+    "WorldLevelLimit": 5,
+    "Difficulty": "Difficulty_3",
+    "FirstReward": 0,
+    "ExpScoreID": 3,
+    "AreaNameID": {
+      "Hash": 167574209
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1233,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000502,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1041,
+      1042,
+      1043
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "WorldLevelLimit": 6,
+    "Difficulty": "Difficulty_4",
+    "FirstReward": 0,
+    "ExpScoreID": 4,
+    "AreaNameID": {
+      "Hash": 1733658150
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1234,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000503,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1051,
+      1052,
+      1053
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "WorldLevelLimit": 6,
+    "Difficulty": "Difficulty_5",
+    "FirstReward": 0,
+    "ExpScoreID": 5,
+    "AreaNameID": {
+      "Hash": -995225205
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1235,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000504,
+    "IsHard": true
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1011,
+      1012,
+      1013
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "WorldLevelLimit": 3,
+    "Difficulty": "Difficulty_1",
+    "FirstReward": 0,
+    "ExpScoreID": 1,
+    "AreaNameID": {
+      "Hash": 1330373626
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1241,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 0,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1021,
+      1022,
+      1023
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "WorldLevelLimit": 4,
+    "Difficulty": "Difficulty_2",
+    "FirstReward": 0,
+    "ExpScoreID": 2,
+    "AreaNameID": {
+      "Hash": -1398509729
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1242,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000501,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1031,
+      1032,
+      1033
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "WorldLevelLimit": 5,
+    "Difficulty": "Difficulty_3",
+    "FirstReward": 0,
+    "ExpScoreID": 3,
+    "AreaNameID": {
+      "Hash": 167574212
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1243,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000502,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1041,
+      1042,
+      1043
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111002,
+      111012,
+      112002,
+      112012,
+      113002,
+      113012,
+      114002,
+      114012
+    ],
+    "WorldLevelLimit": 6,
+    "Difficulty": "Difficulty_4",
+    "FirstReward": 0,
+    "ExpScoreID": 4,
+    "AreaNameID": {
+      "Hash": 1733658153
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1244,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000503,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1051,
+      1052,
+      1053
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111002,
+      111012,
+      112002,
+      112012,
+      113002,
+      113012,
+      114002,
+      114012
+    ],
+    "WorldLevelLimit": 6,
+    "Difficulty": "Difficulty_5",
+    "FirstReward": 0,
+    "ExpScoreID": 5,
+    "AreaNameID": {
+      "Hash": -995225202
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1245,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000504,
+    "IsHard": true
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1011,
+      1012,
+      1013
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "WorldLevelLimit": 3,
+    "Difficulty": "Difficulty_1",
+    "FirstReward": 0,
+    "ExpScoreID": 1,
+    "AreaNameID": {
+      "Hash": 1330373625
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1251,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 0,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1021,
+      1022,
+      1023
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "WorldLevelLimit": 4,
+    "Difficulty": "Difficulty_2",
+    "FirstReward": 0,
+    "ExpScoreID": 2,
+    "AreaNameID": {
+      "Hash": -1398509730
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1252,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000501,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1031,
+      1032,
+      1033
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "WorldLevelLimit": 5,
+    "Difficulty": "Difficulty_3",
+    "FirstReward": 0,
+    "ExpScoreID": 3,
+    "AreaNameID": {
+      "Hash": 167574211
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1253,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000502,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1041,
+      1042,
+      1043
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "WorldLevelLimit": 6,
+    "Difficulty": "Difficulty_4",
+    "FirstReward": 0,
+    "ExpScoreID": 4,
+    "AreaNameID": {
+      "Hash": 1733658152
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1254,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000503,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1051,
+      1052,
+      1053
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "WorldLevelLimit": 6,
+    "Difficulty": "Difficulty_5",
+    "FirstReward": 0,
+    "ExpScoreID": 5,
+    "AreaNameID": {
+      "Hash": -995225203
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1255,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000504,
+    "IsHard": true
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1011,
+      1012,
+      1013
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "WorldLevelLimit": 3,
+    "Difficulty": "Difficulty_1",
+    "FirstReward": 0,
+    "ExpScoreID": 1,
+    "AreaNameID": {
+      "Hash": 1330373628
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1261,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 0,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1021,
+      1022,
+      1023
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "WorldLevelLimit": 4,
+    "Difficulty": "Difficulty_2",
+    "FirstReward": 0,
+    "ExpScoreID": 2,
+    "AreaNameID": {
+      "Hash": -1398509727
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1262,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000501,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1031,
+      1032,
+      1033
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111002,
+      111012,
+      112002,
+      112012,
+      113002,
+      113012,
+      114002,
+      114012
+    ],
+    "WorldLevelLimit": 5,
+    "Difficulty": "Difficulty_3",
+    "FirstReward": 0,
+    "ExpScoreID": 3,
+    "AreaNameID": {
+      "Hash": 167574214
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1263,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000502,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1041,
+      1042,
+      1043
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111002,
+      111012,
+      112002,
+      112012,
+      113002,
+      113012,
+      114002,
+      114012
+    ],
+    "WorldLevelLimit": 6,
+    "Difficulty": "Difficulty_4",
+    "FirstReward": 0,
+    "ExpScoreID": 4,
+    "AreaNameID": {
+      "Hash": 1733658155
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1264,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000503,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1051,
+      1052,
+      1053
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "WorldLevelLimit": 6,
+    "Difficulty": "Difficulty_5",
+    "FirstReward": 0,
+    "ExpScoreID": 5,
+    "AreaNameID": {
+      "Hash": -995225200
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1265,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000504,
+    "IsHard": true
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1011,
+      1012,
+      1013
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "WorldLevelLimit": 3,
+    "Difficulty": "Difficulty_1",
+    "FirstReward": 0,
+    "ExpScoreID": 1,
+    "AreaNameID": {
+      "Hash": 1330373627
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1271,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 0,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1021,
+      1022,
+      1023
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "WorldLevelLimit": 4,
+    "Difficulty": "Difficulty_2",
+    "FirstReward": 0,
+    "ExpScoreID": 2,
+    "AreaNameID": {
+      "Hash": -1398509728
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1272,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000501,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1031,
+      1032,
+      1033
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "WorldLevelLimit": 5,
+    "Difficulty": "Difficulty_3",
+    "FirstReward": 0,
+    "ExpScoreID": 3,
+    "AreaNameID": {
+      "Hash": 167574213
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1273,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000502,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1041,
+      1042,
+      1043
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "WorldLevelLimit": 6,
+    "Difficulty": "Difficulty_4",
+    "FirstReward": 0,
+    "ExpScoreID": 4,
+    "AreaNameID": {
+      "Hash": 1733658154
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1274,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000503,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1051,
+      1052,
+      1053
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111002,
+      111012,
+      112002,
+      112012,
+      113002,
+      113012,
+      114002,
+      114012
+    ],
+    "WorldLevelLimit": 6,
+    "Difficulty": "Difficulty_5",
+    "FirstReward": 0,
+    "ExpScoreID": 5,
+    "AreaNameID": {
+      "Hash": -995225201
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1275,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000504,
+    "IsHard": true
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1011,
+      1012,
+      1013
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111002,
+      111012,
+      112002,
+      112012,
+      113002,
+      113012,
+      114002,
+      114012
+    ],
+    "WorldLevelLimit": 3,
+    "Difficulty": "Difficulty_1",
+    "FirstReward": 0,
+    "ExpScoreID": 1,
+    "AreaNameID": {
+      "Hash": 1330373630
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1281,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 0,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1021,
+      1022,
+      1023
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "WorldLevelLimit": 4,
+    "Difficulty": "Difficulty_2",
+    "FirstReward": 0,
+    "ExpScoreID": 2,
+    "AreaNameID": {
+      "Hash": -1398509725
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1282,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000501,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1031,
+      1032,
+      1033
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "WorldLevelLimit": 5,
+    "Difficulty": "Difficulty_3",
+    "FirstReward": 0,
+    "ExpScoreID": 3,
+    "AreaNameID": {
+      "Hash": 167574216
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1283,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000502,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1041,
+      1042,
+      1043
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "WorldLevelLimit": 6,
+    "Difficulty": "Difficulty_4",
+    "FirstReward": 0,
+    "ExpScoreID": 4,
+    "AreaNameID": {
+      "Hash": 1733658157
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1284,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000503,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1051,
+      1052,
+      1053
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "WorldLevelLimit": 6,
+    "Difficulty": "Difficulty_5",
+    "FirstReward": 0,
+    "ExpScoreID": 5,
+    "AreaNameID": {
+      "Hash": -995225198
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1285,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000504,
+    "IsHard": true
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1011,
+      1012,
+      1013
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "WorldLevelLimit": 3,
+    "Difficulty": "Difficulty_1",
+    "FirstReward": 0,
+    "ExpScoreID": 1,
+    "AreaNameID": {
+      "Hash": 1330373629
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1291,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 0,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1021,
+      1022,
+      1023
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111002,
+      111012,
+      112002,
+      112012,
+      113002,
+      113012,
+      114002,
+      114012
+    ],
+    "WorldLevelLimit": 4,
+    "Difficulty": "Difficulty_2",
+    "FirstReward": 0,
+    "ExpScoreID": 2,
+    "AreaNameID": {
+      "Hash": -1398509726
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1292,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000501,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1031,
+      1032,
+      1033
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111002,
+      111012,
+      112002,
+      112012,
+      113002,
+      113012,
+      114002,
+      114012
+    ],
+    "WorldLevelLimit": 5,
+    "Difficulty": "Difficulty_3",
+    "FirstReward": 0,
+    "ExpScoreID": 3,
+    "AreaNameID": {
+      "Hash": 167574215
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1293,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000502,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1041,
+      1042,
+      1043
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "WorldLevelLimit": 6,
+    "Difficulty": "Difficulty_4",
+    "FirstReward": 0,
+    "ExpScoreID": 4,
+    "AreaNameID": {
+      "Hash": 1733658156
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1294,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000503,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1051,
+      1052,
+      1053
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "WorldLevelLimit": 6,
+    "Difficulty": "Difficulty_5",
+    "FirstReward": 0,
+    "ExpScoreID": 5,
+    "AreaNameID": {
+      "Hash": -995225199
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1295,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000504,
+    "IsHard": true
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1011,
+      1012,
+      1013
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "WorldLevelLimit": 3,
+    "Difficulty": "Difficulty_1",
+    "FirstReward": 0,
+    "ExpScoreID": 1,
+    "AreaNameID": {
+      "Hash": 1189211121
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1301,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 0,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1021,
+      1022,
+      1023
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "WorldLevelLimit": 4,
+    "Difficulty": "Difficulty_2",
+    "FirstReward": 0,
+    "ExpScoreID": 2,
+    "AreaNameID": {
+      "Hash": 1592495648
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1302,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000501,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1031,
+      1032,
+      1033
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "WorldLevelLimit": 5,
+    "Difficulty": "Difficulty_3",
+    "FirstReward": 0,
+    "ExpScoreID": 3,
+    "AreaNameID": {
+      "Hash": 26411707
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1303,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000502,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1041,
+      1042,
+      1043
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111002,
+      111012,
+      112002,
+      112012,
+      113002,
+      113012,
+      114002,
+      114012
+    ],
+    "WorldLevelLimit": 6,
+    "Difficulty": "Difficulty_4",
+    "FirstReward": 0,
+    "ExpScoreID": 4,
+    "AreaNameID": {
+      "Hash": 429696234
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1304,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000503,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1051,
+      1052,
+      1053
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111002,
+      111012,
+      112002,
+      112012,
+      113002,
+      113012,
+      114002,
+      114012
+    ],
+    "WorldLevelLimit": 6,
+    "Difficulty": "Difficulty_5",
+    "FirstReward": 0,
+    "ExpScoreID": 5,
+    "AreaNameID": {
+      "Hash": -1136387707
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1305,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000504,
+    "IsHard": true
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1011,
+      1012,
+      1013
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "WorldLevelLimit": 3,
+    "Difficulty": "Difficulty_1",
+    "FirstReward": 0,
+    "ExpScoreID": 1,
+    "AreaNameID": {
+      "Hash": 1189211120
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1311,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 0,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1021,
+      1022,
+      1023
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "WorldLevelLimit": 4,
+    "Difficulty": "Difficulty_2",
+    "FirstReward": 0,
+    "ExpScoreID": 2,
+    "AreaNameID": {
+      "Hash": 1592495647
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1312,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000501,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1031,
+      1032,
+      1033
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "WorldLevelLimit": 5,
+    "Difficulty": "Difficulty_3",
+    "FirstReward": 0,
+    "ExpScoreID": 3,
+    "AreaNameID": {
+      "Hash": 26411706
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1313,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000502,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1041,
+      1042,
+      1043
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "WorldLevelLimit": 6,
+    "Difficulty": "Difficulty_4",
+    "FirstReward": 0,
+    "ExpScoreID": 4,
+    "AreaNameID": {
+      "Hash": 429696233
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1314,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000503,
+    "IsHard": false
+  },
+  {
+    "LayerIDList": [
+      1101,
+      1201,
+      1301
+    ],
+    "DifficultyIDList": [
+      1051,
+      1052,
+      1053
+    ],
+    "MonsterDisplayItemList": [
+      2,
+      231,
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "WorldLevelLimit": 6,
+    "Difficulty": "Difficulty_5",
+    "FirstReward": 0,
+    "ExpScoreID": 5,
+    "AreaNameID": {
+      "Hash": -1136387708
+    },
+    "TournMode": "Tourn1",
+    "AreaID": 1315,
+    "AreaGroupID": "WeekChallenge",
+    "UnlockID": 3000504,
+    "IsHard": true
+  }
+]

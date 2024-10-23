@@ -1,0 +1,393 @@
+[
+  {
+    "EndCondition": {
+      "Param": "103120101",
+      "Type": "FinishSubMission"
+    },
+    "PerformanceStoryAvatar": "NPC_Avatar_Lad_Aventurine_00",
+    "ShowCondition": "[BetweenSubMission:103110108,103110151]|[BetweenSubMission:103110156,103110163]",
+    "BeginCondition": {
+      "Param": "103100103",
+      "Type": "SubMissionTaken"
+    },
+    "EarlyAccessContentID": 0,
+    "InitGroupID": 634,
+    "StoryLineID": 1031101,
+    "InitAnchorID": 1,
+    "InitEntranceID": 2031101
+  },
+  {
+    "EndCondition": {
+      "Param": "103110155",
+      "Type": "FinishSubMission"
+    },
+    "PerformanceStoryAvatar": "NPC_Avatar_Male_Dr_Ratio_00",
+    "ShowCondition": "[BetweenSubMission:103110174,103110155]",
+    "BeginCondition": {
+      "Param": "103110152",
+      "Type": "SubMissionTaken"
+    },
+    "EarlyAccessContentID": 0,
+    "InitGroupID": 66,
+    "StoryLineID": 1031102,
+    "InitAnchorID": 1,
+    "InitEntranceID": 2032201
+  },
+  {
+    "EndCondition": {
+      "Param": "103140111",
+      "Type": "FinishSubMission"
+    },
+    "PerformanceStoryAvatar": "NPC_Avatar_Lad_Aventurine_00",
+    "ShowCondition": "[BetweenSubMission:103140101,103140111]",
+    "BeginCondition": {
+      "Param": "103130107",
+      "Type": "SubMissionTaken"
+    },
+    "EarlyAccessContentID": 0,
+    "InitGroupID": 174,
+    "StoryLineID": 1031401,
+    "InitAnchorID": 1,
+    "InitEntranceID": 1030101
+  },
+  {
+    "EndCondition": {
+      "Param": "103160120",
+      "Type": "FinishSubMission"
+    },
+    "PerformanceStoryAvatar": "NPC_Avatar_Lady_Acheron_00",
+    "ShowCondition": "[BetweenSubMission:103160102,103160120]",
+    "BeginCondition": {
+      "Param": "103150117",
+      "Type": "SubMissionTaken"
+    },
+    "EarlyAccessContentID": 0,
+    "InitGroupID": 1,
+    "StoryLineID": 1031601,
+    "InitAnchorID": 1,
+    "InitEntranceID": 2032201
+  },
+  {
+    "EndCondition": {
+      "Param": "103170160",
+      "Type": "FinishSubMission"
+    },
+    "PerformanceStoryAvatar": "NPC_Avatar_Lad_Aventurine_00",
+    "ShowCondition": "[BetweenSubMission:103170102,103170160]",
+    "BeginCondition": {
+      "Param": "103160120",
+      "Type": "SubMissionTaken"
+    },
+    "EarlyAccessContentID": 0,
+    "InitGroupID": 1,
+    "StoryLineID": 1031701,
+    "InitAnchorID": 1,
+    "InitEntranceID": 2032101
+  },
+  {
+    "EndCondition": {
+      "Param": "103260102",
+      "Type": "FinishSubMission"
+    },
+    "PerformanceStoryAvatar": "NPC_Avatar_Maid_Robin_00",
+    "ShowCondition": "[BetweenSubMission:103260101,103260102]",
+    "BeginCondition": {
+      "Param": "103260202",
+      "Type": "SubMissionTaken"
+    },
+    "EarlyAccessContentID": 0,
+    "InitGroupID": 461,
+    "StoryLineID": 1032601,
+    "InitAnchorID": 1,
+    "InitEntranceID": 1030101
+  },
+  {
+    "EndCondition": {
+      "Param": "103260202",
+      "Type": "FinishSubMission"
+    },
+    "PerformanceStoryAvatar": "NPC_Avatar_Male_Boothill_00",
+    "ShowCondition": "[BetweenSubMission:103260203,103260202]",
+    "BeginCondition": {
+      "Param": "103250106",
+      "Type": "SubMissionTaken"
+    },
+    "EarlyAccessContentID": 0,
+    "InitGroupID": 2,
+    "StoryLineID": 1032602,
+    "InitAnchorID": 1,
+    "InitEntranceID": 1030501
+  },
+  {
+    "EndCondition": {
+      "Param": "103230204",
+      "Type": "FinishSubMission"
+    },
+    "PerformanceStoryAvatar": "NPC_Avatar_Maid_Robin_00",
+    "ShowCondition": "[BetweenSubMission:103230201,103230204]",
+    "BeginCondition": {
+      "Param": "103230104",
+      "Type": "SubMissionTaken"
+    },
+    "EarlyAccessContentID": 0,
+    "InitGroupID": 469,
+    "StoryLineID": 1032301,
+    "InitAnchorID": 1,
+    "InitEntranceID": 1030101
+  },
+  {
+    "EndCondition": {
+      "Param": "103410302",
+      "Type": "FinishSubMission"
+    },
+    "PerformanceStoryAvatar": "NPC_Avatar_Maid_Topaz_00",
+    "ShowCondition": "[BetweenSubMission:103410301,103410302]",
+    "BeginCondition": {
+      "Param": "103410102",
+      "Type": "SubMissionTaken"
+    },
+    "EarlyAccessContentID": 0,
+    "InitGroupID": 50,
+    "StoryLineID": 1034101,
+    "InitAnchorID": 1,
+    "InitEntranceID": 1034101
+  },
+  {
+    "EndCondition": {
+      "Param": "103410502",
+      "Type": "FinishSubMission"
+    },
+    "PerformanceStoryAvatar": "NPC_Avatar_Lady_Jade_00",
+    "ShowCondition": "[BetweenSubMission:103410501,103410502]",
+    "BeginCondition": {
+      "Param": "103410407",
+      "Type": "SubMissionTaken"
+    },
+    "EarlyAccessContentID": 0,
+    "InitGroupID": 42,
+    "StoryLineID": 1034102,
+    "InitAnchorID": 1,
+    "InitEntranceID": 1034101
+  },
+  {
+    "EndCondition": {
+      "Param": "103410728",
+      "Type": "FinishSubMission"
+    },
+    "PerformanceStoryAvatar": "NPC_Avatar_Maid_Firefly_00",
+    "ShowCondition": "[BetweenSubMission:103410701,103410728]",
+    "BeginCondition": {
+      "Param": "103410502",
+      "Type": "SubMissionTaken"
+    },
+    "EarlyAccessContentID": 0,
+    "InitGroupID": 18,
+    "StoryLineID": 1034103,
+    "InitAnchorID": 1,
+    "InitEntranceID": 1034101
+  },
+  {
+    "EndCondition": {
+      "Param": "202210110",
+      "Type": "FinishSubMission"
+    },
+    "PerformanceStoryAvatar": "NPC_Avatar_Maid_Mar_7th_10",
+    "ShowCondition": "[BetweenSubMission:202210102,202210110]",
+    "BeginCondition": {
+      "Param": "202210101",
+      "Type": "SubMissionTaken"
+    },
+    "EarlyAccessContentID": 200003,
+    "InitGroupID": 198,
+    "StoryLineID": 2022101,
+    "InitAnchorID": 1,
+    "InitEntranceID": 102010102
+  },
+  {
+    "EndCondition": {
+      "Param": "202210422",
+      "Type": "FinishSubMission"
+    },
+    "PerformanceStoryAvatar": "NPC_Avatar_Lad_Jiaoqiu_00",
+    "ShowCondition": "[BetweenSubMission:202210415,202210422]",
+    "BeginCondition": {
+      "Param": "202210414",
+      "Type": "SubMissionTaken"
+    },
+    "EarlyAccessContentID": 200003,
+    "InitGroupID": 40,
+    "StoryLineID": 2022102,
+    "InitAnchorID": 1,
+    "InitEntranceID": 2024101
+  },
+  {
+    "EndCondition": {
+      "Param": "202220205",
+      "Type": "FinishSubMission"
+    },
+    "PerformanceStoryAvatar": "NPC_Avatar_Maid_Lingsha_00",
+    "ShowCondition": "[BetweenSubMission:202220201,202220205]",
+    "BeginCondition": {
+      "Param": "202220103",
+      "Type": "SubMissionTaken"
+    },
+    "EarlyAccessContentID": 200003,
+    "InitGroupID": 85,
+    "StoryLineID": 2022202,
+    "InitAnchorID": 1,
+    "InitEntranceID": 2024101
+  },
+  {
+    "EndCondition": {
+      "Param": "202220311",
+      "Type": "FinishSubMission"
+    },
+    "PerformanceStoryAvatar": "NPC_Avatar_Lad_Jiaoqiu_00",
+    "ShowCondition": "[BetweenSubMission:202220301,202220311]",
+    "BeginCondition": {
+      "Param": "202220205",
+      "Type": "SubMissionTaken"
+    },
+    "EarlyAccessContentID": 200003,
+    "InitGroupID": 191,
+    "StoryLineID": 2022203,
+    "InitAnchorID": 1,
+    "InitEntranceID": 1020201
+  },
+  {
+    "EndCondition": {
+      "Param": "202220509",
+      "Type": "FinishSubMission"
+    },
+    "PerformanceStoryAvatar": "NPC_Avatar_Maid_Mar_7th_10",
+    "ShowCondition": "[BetweenSubMission:202220501,202220509]",
+    "BeginCondition": {
+      "Param": "202220410",
+      "Type": "SubMissionTaken"
+    },
+    "EarlyAccessContentID": 200003,
+    "InitGroupID": 39,
+    "StoryLineID": 2022205,
+    "InitAnchorID": 1,
+    "InitEntranceID": 2024201
+  },
+  {
+    "EndCondition": {
+      "Param": "202230107",
+      "Type": "FinishSubMission"
+    },
+    "PerformanceStoryAvatar": "NPC_Avatar_Lady_Feixiao_00",
+    "ShowCondition": "[BetweenSubMission:202230101,202230107]",
+    "BeginCondition": {
+      "Param": "202220603",
+      "Type": "SubMissionTaken"
+    },
+    "EarlyAccessContentID": 200003,
+    "InitGroupID": 235,
+    "StoryLineID": 2022301,
+    "InitAnchorID": 1,
+    "InitEntranceID": 1020101
+  },
+  {
+    "EndCondition": {
+      "Param": "202230316",
+      "Type": "FinishSubMission"
+    },
+    "PerformanceStoryAvatar": "NPC_Avatar_Girl_Yunli_00",
+    "ShowCondition": "[BetweenSubMission:202230301,202230316]",
+    "BeginCondition": {
+      "Param": "202230902",
+      "Type": "SubMissionTaken"
+    },
+    "EarlyAccessContentID": 200003,
+    "InitGroupID": 22,
+    "StoryLineID": 2022303,
+    "InitAnchorID": 1,
+    "InitEntranceID": 2024201
+  },
+  {
+    "EndCondition": {
+      "Param": "202230501",
+      "Type": "FinishSubMission"
+    },
+    "PerformanceStoryAvatar": "NPC_Avatar_Maid_Mar_7th_10",
+    "ShowCondition": "[BetweenSubMission:202230401,202230501]",
+    "BeginCondition": {
+      "Param": "202230316",
+      "Type": "SubMissionTaken"
+    },
+    "EarlyAccessContentID": 200003,
+    "InitGroupID": 25,
+    "StoryLineID": 2022304,
+    "InitAnchorID": 1,
+    "InitEntranceID": 2024201
+  },
+  {
+    "EndCondition": {
+      "Param": "202230703",
+      "Type": "FinishSubMission"
+    },
+    "PerformanceStoryAvatar": "NPC_Avatar_Lad_DanHeng_00",
+    "ShowCondition": "[BetweenSubMission:202230701,202230703]",
+    "BeginCondition": {
+      "Param": "202230501",
+      "Type": "SubMissionTaken"
+    },
+    "EarlyAccessContentID": 200003,
+    "InitGroupID": 132,
+    "StoryLineID": 2022307,
+    "InitAnchorID": 1,
+    "InitEntranceID": 2023201
+  },
+  {
+    "EndCondition": {
+      "Param": "103420910",
+      "Type": "FinishSubMission"
+    },
+    "PerformanceStoryAvatar": "NPC_Avatar_Male_Boothill_00",
+    "ShowCondition": "[BetweenSubMission:103420401,103420415]|[BetweenSubMission:103420601,103420604]|[BetweenSubMission:103420901,103420910]",
+    "BeginCondition": {
+      "Param": "103420321",
+      "Type": "SubMissionTaken"
+    },
+    "EarlyAccessContentID": 200004,
+    "InitGroupID": 186,
+    "StoryLineID": 1034204,
+    "InitAnchorID": 1,
+    "InitEntranceID": 1030401
+  },
+  {
+    "EndCondition": {
+      "Param": "103600225",
+      "Type": "FinishSubMission"
+    },
+    "PerformanceStoryAvatar": "NPC_Avatar_Lad_Sunday_10",
+    "ShowCondition": "[BetweenSubMission:103600201,103600225]",
+    "BeginCondition": {
+      "Param": "103600101",
+      "Type": "SubMissionTaken"
+    },
+    "EarlyAccessContentID": 200005,
+    "InitGroupID": 529,
+    "StoryLineID": 1036002,
+    "InitAnchorID": 1,
+    "InitEntranceID": 1030101
+  },
+  {
+    "EndCondition": {
+      "Param": "103610410",
+      "Type": "FinishSubMission"
+    },
+    "PerformanceStoryAvatar": "NPC_Avatar_Lad_Sunday_10",
+    "ShowCondition": "[BetweenSubMission:103610401,103610410]",
+    "BeginCondition": {
+      "Param": "103610302",
+      "Type": "SubMissionTaken"
+    },
+    "EarlyAccessContentID": 200005,
+    "InitGroupID": 273,
+    "StoryLineID": 1036104,
+    "InitAnchorID": 1,
+    "InitEntranceID": 2031301
+  }
+]

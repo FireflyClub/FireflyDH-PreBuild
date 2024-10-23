@@ -1,0 +1,86 @@
+[
+  {
+    "IconPath": "SpriteOutput/Quest/Monopoly/MapIcon/MonopolyMapIconAddCoin.png",
+    "CellDesc": {
+      "Hash": 920059439
+    },
+    "CellName": {
+      "Hash": 313439205
+    },
+    "DisplayID": 1,
+    "Type": "Common",
+    "DisplaySort": 10
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/Monopoly/MapIcon/MonopolyMapIconShop.png",
+    "CellDesc": {
+      "Hash": -1808823916
+    },
+    "CellName": {
+      "Hash": -89845322
+    },
+    "DisplayID": 2,
+    "Type": "Common",
+    "DisplaySort": 9
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/Monopoly/MapIcon/MonopolyMapIconOther.png",
+    "CellDesc": {
+      "Hash": 1679574326
+    },
+    "CellName": {
+      "Hash": 1072954092
+    },
+    "DisplayID": 4,
+    "Type": "Common",
+    "DisplaySort": 8
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/Monopoly/MapIcon/MonopolyMapIconQuiz.png",
+    "CellDesc": {
+      "Hash": 516774912
+    },
+    "CellName": {
+      "Hash": -2059213790
+    },
+    "DisplayID": 6,
+    "Type": "Common",
+    "DisplaySort": 7
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/Monopoly/MapIcon/MonopolyMapIconMove.png",
+    "CellDesc": {
+      "Hash": 2082858853
+    },
+    "CellName": {
+      "Hash": -493129849
+    },
+    "DisplayID": 7,
+    "Type": "Common",
+    "DisplaySort": 6
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/Monopoly/MapIcon/MonopolyMapIconBuilding0.png",
+    "CellDesc": {
+      "Hash": 888691626
+    },
+    "CellName": {
+      "Hash": -1949906880
+    },
+    "DisplayID": 101,
+    "Type": "Asset",
+    "DisplaySort": 101
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/Monopoly/MapIcon/MonopolyMapIconMiniGame.png",
+    "CellDesc": {
+      "Hash": 1291976153
+    },
+    "CellName": {
+      "Hash": 778976475
+    },
+    "DisplayID": 102,
+    "Type": "Game",
+    "DisplaySort": 102
+  }
+]

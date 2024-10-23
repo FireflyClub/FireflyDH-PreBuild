@@ -1,0 +1,76 @@
+[
+  {
+    "UnloadConditions": [],
+    "UnlockConditions": [],
+    "MappingInfoID": 5001,
+    "ActivityModuleID": 3000401,
+    "Priority": 1,
+    "ID": 50001,
+    "MiniMapIconID": 120
+  },
+  {
+    "UnloadConditions": [],
+    "UnlockConditions": [],
+    "MappingInfoID": 2261,
+    "ActivityModuleID": 5000210,
+    "Priority": 1,
+    "ID": 50003,
+    "MiniMapIconID": 124
+  },
+  {
+    "UnloadConditions": [],
+    "UnlockConditions": [
+      {
+        "Param": "2010720",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "MappingInfoID": 2257,
+    "ActivityModuleID": 5000001,
+    "Priority": 1,
+    "ID": 50000,
+    "MiniMapIconID": 115
+  },
+  {
+    "UnloadConditions": [],
+    "UnlockConditions": [
+      {
+        "Param": "2010720",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "MappingInfoID": 2267,
+    "ActivityModuleID": 5000013,
+    "Priority": 1,
+    "ID": 50002,
+    "MiniMapIconID": 115
+  },
+  {
+    "UnloadConditions": [],
+    "UnlockConditions": [
+      {
+        "Param": "8020219",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "MappingInfoID": 2384,
+    "ActivityModuleID": 5000702,
+    "Priority": 1,
+    "ID": 50005,
+    "MiniMapIconID": 197
+  },
+  {
+    "UnloadConditions": [],
+    "UnlockConditions": [
+      {
+        "Param": "8026209",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "MappingInfoID": 5012,
+    "ActivityModuleID": 3001101,
+    "Priority": 1,
+    "ID": 50006,
+    "MiniMapIconID": 256
+  }
+]

@@ -1,0 +1,289 @@
+[
+  {
+    "VoiceID": 100025128,
+    "AdvertisingBoardID": 1001,
+    "IsSwitch": true,
+    "IsPlayerInvolved": false,
+    "Interval": 0
+  },
+  {
+    "VoiceID": 100025128,
+    "AdvertisingBoardID": 1002,
+    "IsSwitch": true,
+    "IsPlayerInvolved": false,
+    "Interval": 0
+  },
+  {
+    "VoiceID": 502010010,
+    "AdvertisingBoardID": 1003,
+    "IsSwitch": true,
+    "IsPlayerInvolved": false,
+    "Interval": 0
+  },
+  {
+    "VoiceID": 502010011,
+    "AdvertisingBoardID": 1004,
+    "IsSwitch": true,
+    "IsPlayerInvolved": false,
+    "Interval": 0
+  },
+  {
+    "VoiceID": 502010009,
+    "AdvertisingBoardID": 1005,
+    "IsSwitch": true,
+    "IsPlayerInvolved": false,
+    "Interval": 0
+  },
+  {
+    "VoiceID": 502010004,
+    "AdvertisingBoardID": 1006,
+    "IsSwitch": true,
+    "IsPlayerInvolved": false,
+    "Interval": 0
+  },
+  {
+    "VoiceID": 502010003,
+    "AdvertisingBoardID": 1007,
+    "IsSwitch": true,
+    "IsPlayerInvolved": false,
+    "Interval": 0
+  },
+  {
+    "VoiceID": 502010002,
+    "AdvertisingBoardID": 1008,
+    "IsSwitch": true,
+    "IsPlayerInvolved": false,
+    "Interval": 0
+  },
+  {
+    "VoiceID": 502010009,
+    "AdvertisingBoardID": 2001,
+    "IsSwitch": false,
+    "IsPlayerInvolved": false,
+    "Interval": 120
+  },
+  {
+    "VoiceID": 502010001,
+    "AdvertisingBoardID": 2002,
+    "IsSwitch": false,
+    "IsPlayerInvolved": false,
+    "Interval": 45
+  },
+  {
+    "VoiceID": 502010005,
+    "AdvertisingBoardID": 2003,
+    "IsSwitch": false,
+    "IsPlayerInvolved": false,
+    "Interval": 20
+  },
+  {
+    "VoiceID": 502010006,
+    "AdvertisingBoardID": 2004,
+    "IsSwitch": false,
+    "IsPlayerInvolved": false,
+    "Interval": 20
+  },
+  {
+    "VoiceID": 502010007,
+    "AdvertisingBoardID": 2005,
+    "IsSwitch": false,
+    "IsPlayerInvolved": false,
+    "Interval": 20
+  },
+  {
+    "VoiceID": 502010008,
+    "AdvertisingBoardID": 2006,
+    "IsSwitch": false,
+    "IsPlayerInvolved": false,
+    "Interval": 60
+  },
+  {
+    "VoiceID": 502010009,
+    "AdvertisingBoardID": 2007,
+    "IsSwitch": false,
+    "IsPlayerInvolved": false,
+    "Interval": 20
+  },
+  {
+    "VoiceID": 502010010,
+    "AdvertisingBoardID": 2008,
+    "IsSwitch": false,
+    "IsPlayerInvolved": false,
+    "Interval": 20
+  },
+  {
+    "VoiceID": 502010011,
+    "AdvertisingBoardID": 2009,
+    "IsSwitch": false,
+    "IsPlayerInvolved": false,
+    "Interval": 20
+  },
+  {
+    "VoiceID": 502010012,
+    "AdvertisingBoardID": 2010,
+    "IsSwitch": false,
+    "IsPlayerInvolved": false,
+    "Interval": 20
+  },
+  {
+    "VoiceID": 502010013,
+    "AdvertisingBoardID": 2011,
+    "IsSwitch": false,
+    "IsPlayerInvolved": false,
+    "Interval": 20
+  },
+  {
+    "VoiceID": 502010014,
+    "AdvertisingBoardID": 2012,
+    "IsSwitch": false,
+    "IsPlayerInvolved": false,
+    "Interval": 20
+  },
+  {
+    "VoiceID": 502010015,
+    "AdvertisingBoardID": 2013,
+    "IsSwitch": false,
+    "IsPlayerInvolved": false,
+    "Interval": 20
+  },
+  {
+    "VoiceID": 502010016,
+    "AdvertisingBoardID": 2014,
+    "IsSwitch": false,
+    "IsPlayerInvolved": false,
+    "Interval": 20
+  },
+  {
+    "VoiceID": 502010017,
+    "AdvertisingBoardID": 2015,
+    "IsSwitch": false,
+    "IsPlayerInvolved": false,
+    "Interval": 20
+  },
+  {
+    "VoiceID": 502010021,
+    "AdvertisingBoardID": 1009,
+    "IsSwitch": true,
+    "IsPlayerInvolved": false,
+    "Interval": 0
+  },
+  {
+    "VoiceID": 502010022,
+    "AdvertisingBoardID": 1010,
+    "IsSwitch": true,
+    "IsPlayerInvolved": false,
+    "Interval": 0
+  },
+  {
+    "VoiceID": 502010023,
+    "AdvertisingBoardID": 1011,
+    "IsSwitch": true,
+    "IsPlayerInvolved": false,
+    "Interval": 0
+  },
+  {
+    "VoiceID": 502110040,
+    "AdvertisingBoardID": 1012,
+    "IsSwitch": false,
+    "IsPlayerInvolved": false,
+    "Interval": 30
+  },
+  {
+    "VoiceID": 502110041,
+    "AdvertisingBoardID": 1013,
+    "IsSwitch": false,
+    "IsPlayerInvolved": false,
+    "Interval": 30
+  },
+  {
+    "VoiceID": 502110042,
+    "AdvertisingBoardID": 1014,
+    "IsSwitch": false,
+    "IsPlayerInvolved": false,
+    "Interval": 30
+  },
+  {
+    "VoiceID": 502110043,
+    "AdvertisingBoardID": 1015,
+    "IsSwitch": false,
+    "IsPlayerInvolved": false,
+    "Interval": 30
+  },
+  {
+    "VoiceID": 502110044,
+    "AdvertisingBoardID": 1016,
+    "IsSwitch": false,
+    "IsPlayerInvolved": false,
+    "Interval": 30
+  },
+  {
+    "VoiceID": 502110035,
+    "AdvertisingBoardID": 1017,
+    "IsSwitch": false,
+    "IsPlayerInvolved": false,
+    "Interval": 30
+  },
+  {
+    "VoiceID": 502110036,
+    "AdvertisingBoardID": 1018,
+    "IsSwitch": false,
+    "IsPlayerInvolved": false,
+    "Interval": 30
+  },
+  {
+    "VoiceID": 502110037,
+    "AdvertisingBoardID": 1019,
+    "IsSwitch": false,
+    "IsPlayerInvolved": false,
+    "Interval": 30
+  },
+  {
+    "VoiceID": 502110038,
+    "AdvertisingBoardID": 1020,
+    "IsSwitch": false,
+    "IsPlayerInvolved": false,
+    "Interval": 30
+  },
+  {
+    "VoiceID": 502110039,
+    "AdvertisingBoardID": 1021,
+    "IsSwitch": false,
+    "IsPlayerInvolved": false,
+    "Interval": 30
+  },
+  {
+    "VoiceID": 502110040,
+    "AdvertisingBoardID": 1022,
+    "IsSwitch": false,
+    "IsPlayerInvolved": false,
+    "Interval": 30
+  },
+  {
+    "VoiceID": 502110041,
+    "AdvertisingBoardID": 1023,
+    "IsSwitch": false,
+    "IsPlayerInvolved": false,
+    "Interval": 30
+  },
+  {
+    "VoiceID": 502110042,
+    "AdvertisingBoardID": 1024,
+    "IsSwitch": false,
+    "IsPlayerInvolved": false,
+    "Interval": 30
+  },
+  {
+    "VoiceID": 502110043,
+    "AdvertisingBoardID": 1025,
+    "IsSwitch": false,
+    "IsPlayerInvolved": false,
+    "Interval": 30
+  },
+  {
+    "VoiceID": 502110044,
+    "AdvertisingBoardID": 1026,
+    "IsSwitch": false,
+    "IsPlayerInvolved": false,
+    "Interval": 30
+  }
+]

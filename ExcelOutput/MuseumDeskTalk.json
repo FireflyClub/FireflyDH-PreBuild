@@ -1,0 +1,222 @@
+[
+  {
+    "TextIDList": [
+      {
+        "Hash": -647054177
+      },
+      {
+        "Hash": -647054180
+      },
+      {
+        "Hash": -647054179
+      },
+      {
+        "Hash": -647054174
+      }
+    ],
+    "TalkTypeParameter": "",
+    "CustomString": "MuseumDeskTalk_101",
+    "IsMustTriggered": false,
+    "TriggerType": "EnterOpenDay",
+    "TalkType": "EnterOpenDayDefault",
+    "Priority": 100,
+    "TalkID": 101
+  },
+  {
+    "TextIDList": [
+      {
+        "Hash": -1971492259
+      }
+    ],
+    "TalkTypeParameter": "",
+    "CustomString": "MuseumDeskTalk_103",
+    "IsMustTriggered": false,
+    "TriggerType": "EnterOpenDay",
+    "TalkType": "ExecutingPhaseMission",
+    "Priority": 300,
+    "TalkID": 103
+  },
+  {
+    "TextIDList": [
+      {
+        "Hash": -2112654760
+      }
+    ],
+    "TalkTypeParameter": "",
+    "CustomString": "MuseumDeskTalk_104",
+    "IsMustTriggered": false,
+    "TriggerType": "EnterOpenDay",
+    "TalkType": "AtlasMissionListFull",
+    "Priority": 300,
+    "TalkID": 104
+  },
+  {
+    "TextIDList": [
+      {
+        "Hash": 1476500031
+      }
+    ],
+    "TalkTypeParameter": "",
+    "CustomString": "MuseumDeskTalk_105",
+    "IsMustTriggered": false,
+    "TriggerType": "EnterOpenDay",
+    "TalkType": "ExecutingAtlasMission",
+    "Priority": 100,
+    "TalkID": 105
+  },
+  {
+    "TextIDList": [
+      {
+        "Hash": -1211704181
+      }
+    ],
+    "TalkTypeParameter": "2011902",
+    "CustomString": "MuseumDeskTalk_1061",
+    "IsMustTriggered": false,
+    "TriggerType": "EnterOpenDay",
+    "TalkType": "FinishMission",
+    "Priority": 300,
+    "TalkID": 1061
+  },
+  {
+    "TextIDList": [
+      {
+        "Hash": -1211704184
+      }
+    ],
+    "TalkTypeParameter": "2011903",
+    "CustomString": "MuseumDeskTalk_1062",
+    "IsMustTriggered": false,
+    "TriggerType": "EnterOpenDay",
+    "TalkType": "FinishMission",
+    "Priority": 300,
+    "TalkID": 1062
+  },
+  {
+    "TextIDList": [
+      {
+        "Hash": -1211704183
+      }
+    ],
+    "TalkTypeParameter": "2011905",
+    "CustomString": "MuseumDeskTalk_1063",
+    "IsMustTriggered": false,
+    "TriggerType": "EnterOpenDay",
+    "TalkType": "FinishMission",
+    "Priority": 300,
+    "TalkID": 1063
+  },
+  {
+    "TextIDList": [
+      {
+        "Hash": -929379179
+      },
+      {
+        "Hash": -929379182
+      }
+    ],
+    "TalkTypeParameter": "",
+    "CustomString": "MuseumDeskTalk_301",
+    "IsMustTriggered": false,
+    "TriggerType": "Market",
+    "TalkType": "MarketDefault",
+    "Priority": 100,
+    "TalkID": 301
+  },
+  {
+    "TextIDList": [
+      {
+        "Hash": -1635191684
+      },
+      {
+        "Hash": -1635191687
+      }
+    ],
+    "TalkTypeParameter": "",
+    "CustomString": "MuseumDeskTalk_401",
+    "IsMustTriggered": false,
+    "TriggerType": "ReturnOpenDay",
+    "TalkType": "ReturnOpenDayDefault",
+    "Priority": 100,
+    "TalkID": 401
+  },
+  {
+    "TextIDList": [
+      {
+        "Hash": -1776354185
+      },
+      {
+        "Hash": -1776354188
+      }
+    ],
+    "TalkTypeParameter": "",
+    "CustomString": "MuseumDeskTalk_402",
+    "IsMustTriggered": false,
+    "TriggerType": "ReturnOpenDay",
+    "TalkType": "AllAreaGotFullRenewPoint",
+    "Priority": 100,
+    "TalkID": 402
+  },
+  {
+    "TextIDList": [
+      {
+        "Hash": 1857585775
+      },
+      {
+        "Hash": -2034096994
+      },
+      {
+        "Hash": 694786361
+      }
+    ],
+    "TalkTypeParameter": "",
+    "CustomString": "MuseumDeskTalk_403",
+    "IsMustTriggered": false,
+    "TriggerType": "ReturnOpenDay",
+    "TalkType": "NotAllAreaGotFullRenewPoint",
+    "Priority": 100,
+    "TalkID": 403
+  },
+  {
+    "TextIDList": [
+      {
+        "Hash": 770687535
+      }
+    ],
+    "TalkTypeParameter": "2011901",
+    "CustomString": "MuseumDeskTalk_991",
+    "IsMustTriggered": false,
+    "TriggerType": "EnterOpenDay",
+    "TalkType": "FinishMission",
+    "Priority": 500,
+    "TalkID": 991
+  },
+  {
+    "TextIDList": [
+      {
+        "Hash": 1173972062
+      }
+    ],
+    "TalkTypeParameter": "",
+    "CustomString": "MuseumDeskTalk_992",
+    "IsMustTriggered": false,
+    "TriggerType": "EnterOpenDay",
+    "TalkType": "RenewPointMax",
+    "Priority": 1000,
+    "TalkID": 992
+  },
+  {
+    "TextIDList": [
+      {
+        "Hash": -2112654760
+      }
+    ],
+    "TalkTypeParameter": "",
+    "CustomString": "MuseumDeskTalk_993",
+    "IsMustTriggered": false,
+    "TriggerType": "EnterOpenDay",
+    "TalkType": "MissionListFull",
+    "Priority": 500,
+    "TalkID": 993
+  }
+]

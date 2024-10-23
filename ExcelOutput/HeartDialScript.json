@@ -1,0 +1,4990 @@
+[
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1001,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1003,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1002,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [
+      "Sad"
+    ],
+    "StepList": [
+      "Missing",
+      "Full",
+      "Normal"
+    ],
+    "DefaultEmoType": "Peace",
+    "ScriptID": 10001,
+    "FullDialogueID": 1005,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 1004,
+    "RaidID": 0,
+    "LockDialogueID": 1006
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1010804,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1010805,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1010806,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1010807,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [
+      "Sad"
+    ],
+    "StepList": [
+      "Missing",
+      "Lock",
+      "UnLock",
+      "Normal"
+    ],
+    "DefaultEmoType": "Sad",
+    "ScriptID": 10108,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 1010803,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 1010801,
+    "RaidID": 43305,
+    "LockDialogueID": 1010802
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1310301,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1310302,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1310303,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1310304,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Peace",
+    "ScriptID": 13103,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1310501,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1310502,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1310503,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1310504,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Peace",
+    "ScriptID": 13105,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1310801,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1310802,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1310803,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1310804,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [
+      "Anger"
+    ],
+    "StepList": [
+      "Missing",
+      "Full",
+      "Normal"
+    ],
+    "DefaultEmoType": "Anger",
+    "ScriptID": 13108,
+    "FullDialogueID": 1310806,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 1310805,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1311001,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1311002,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1311003,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1311004,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Anger",
+    "ScriptID": 13110,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1311101,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1311102,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1311103,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1311104,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Sad",
+    "ScriptID": 13111,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1311201,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1311202,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1311203,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1311204,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [
+      "Peace"
+    ],
+    "StepList": [
+      "Missing",
+      "Full",
+      "Normal"
+    ],
+    "DefaultEmoType": "Peace",
+    "ScriptID": 13112,
+    "FullDialogueID": 1311206,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 1311205,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1311301,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1311302,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1311303,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1311304,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [
+      "Peace"
+    ],
+    "StepList": [
+      "Missing",
+      "Full",
+      "Normal"
+    ],
+    "DefaultEmoType": "Peace",
+    "ScriptID": 13113,
+    "FullDialogueID": 1311306,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 1311305,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1311601,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1311602,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1311603,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1311604,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Peace",
+    "ScriptID": 13116,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1311701,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1311702,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1311703,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1311704,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Peace",
+    "ScriptID": 13117,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1311801,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1311802,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1311803,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1311804,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Peace",
+    "ScriptID": 13118,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1311901,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1311902,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1311903,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1311904,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Peace",
+    "ScriptID": 13119,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1312001,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1312002,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1312003,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1312004,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Peace",
+    "ScriptID": 13120,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1312101,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1312102,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1312103,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1312104,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Peace",
+    "ScriptID": 13121,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1314601,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1314603,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1314602,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1314604,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Happy",
+    "ScriptID": 13146,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1319601,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1319602,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1319603,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1319604,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Anger",
+    "ScriptID": 13196,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1319701,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1319702,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1319703,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1319704,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Happy",
+    "ScriptID": 13197,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1319801,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1319802,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1319803,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1319804,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Happy",
+    "ScriptID": 13198,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1319901,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1319902,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1319903,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1319904,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Peace",
+    "ScriptID": 13199,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1320301,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1320302,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1320303,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1320304,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Sad",
+    "ScriptID": 13203,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1320501,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1320502,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1320503,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1320504,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [
+      "Anger"
+    ],
+    "StepList": [
+      "Missing",
+      "Full",
+      "Normal"
+    ],
+    "DefaultEmoType": "Anger",
+    "ScriptID": 13205,
+    "FullDialogueID": 1320506,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 1320505,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1320801,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1320802,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1320803,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1320804,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [
+      "Sad"
+    ],
+    "StepList": [
+      "Missing",
+      "Lock",
+      "UnLock",
+      "Normal"
+    ],
+    "DefaultEmoType": "Sad",
+    "ScriptID": 13208,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 1320807,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 1320805,
+    "RaidID": 43310,
+    "LockDialogueID": 1320806
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1321001,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1321002,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1321003,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1321004,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [
+      "Peace"
+    ],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Peace",
+    "ScriptID": 13210,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1321201,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1321202,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1321203,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1321204,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Peace",
+    "ScriptID": 13212,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1321301,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1321302,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1321303,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1321304,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [
+      "Happy"
+    ],
+    "StepList": [
+      "Missing",
+      "Full",
+      "Normal"
+    ],
+    "DefaultEmoType": "Happy",
+    "ScriptID": 13213,
+    "FullDialogueID": 1321306,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 1321305,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1321401,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1321402,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1321403,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1321404,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Anger",
+    "ScriptID": 13214,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1321501,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1321502,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1321503,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1321504,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Peace",
+    "ScriptID": 13215,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1321701,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1321702,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1321703,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1321704,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [
+      "Anger"
+    ],
+    "StepList": [
+      "Missing",
+      "Full",
+      "Normal"
+    ],
+    "DefaultEmoType": "Anger",
+    "ScriptID": 13217,
+    "FullDialogueID": 1321706,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 1321705,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1321801,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1321802,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1321803,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1321804,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Happy",
+    "ScriptID": 13218,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1322101,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1322102,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1322103,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1322104,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [
+      "Happy"
+    ],
+    "StepList": [
+      "Missing",
+      "Full",
+      "Normal"
+    ],
+    "DefaultEmoType": "Happy",
+    "ScriptID": 13221,
+    "FullDialogueID": 1322106,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 1322105,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1322201,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1322202,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1322203,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1322204,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Happy",
+    "ScriptID": 13222,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1324801,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1324802,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1324803,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1324804,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Peace",
+    "ScriptID": 13248,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1324901,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1324902,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1324903,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1324904,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Happy",
+    "ScriptID": 13249,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1330301,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1330302,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1330303,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1330304,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [
+      "Sad"
+    ],
+    "StepList": [
+      "Missing",
+      "Full",
+      "Normal"
+    ],
+    "DefaultEmoType": "Sad",
+    "ScriptID": 13303,
+    "FullDialogueID": 1330306,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 1330305,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1330401,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1330402,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1330403,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1330404,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [
+      "Sad"
+    ],
+    "StepList": [
+      "Missing",
+      "Full",
+      "Normal"
+    ],
+    "DefaultEmoType": "Sad",
+    "ScriptID": 13304,
+    "FullDialogueID": 1330406,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 1330405,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1330501,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1330502,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1330503,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1330504,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Peace",
+    "ScriptID": 13305,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1330601,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1330602,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1330603,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1330604,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Peace",
+    "ScriptID": 13306,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1330701,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1330702,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1330703,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1330704,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Happy",
+    "ScriptID": 13307,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1330801,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1330802,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1330803,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1330804,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Peace",
+    "ScriptID": 13308,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1330901,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1330902,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1330903,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1330904,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Peace",
+    "ScriptID": 13309,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1331101,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1331102,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1331103,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1331104,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Peace",
+    "ScriptID": 13311,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1331201,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1331202,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1331203,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1331204,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [
+      "Anger"
+    ],
+    "StepList": [
+      "Missing",
+      "Full",
+      "Normal"
+    ],
+    "DefaultEmoType": "Anger",
+    "ScriptID": 13312,
+    "FullDialogueID": 1331206,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 1331205,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1331301,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1331302,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1331303,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1331304,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Peace",
+    "ScriptID": 13313,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1331401,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1331402,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1331403,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1331404,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Peace",
+    "ScriptID": 13314,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1332501,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1332503,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1332502,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1332504,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Peace",
+    "ScriptID": 13325,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1340301,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1340302,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1340303,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1340304,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [
+      "Sad"
+    ],
+    "StepList": [
+      "Missing",
+      "Full",
+      "Normal"
+    ],
+    "DefaultEmoType": "Sad",
+    "ScriptID": 13403,
+    "FullDialogueID": 1340306,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 1340305,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1340401,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1340402,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1340403,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1340404,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [
+      "Anger"
+    ],
+    "StepList": [
+      "Missing",
+      "Lock",
+      "UnLock",
+      "Normal"
+    ],
+    "DefaultEmoType": "Anger",
+    "ScriptID": 13404,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 1340407,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 1340405,
+    "RaidID": 43312,
+    "LockDialogueID": 1340406
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1340601,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1340602,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1340603,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1340604,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Peace",
+    "ScriptID": 13406,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 2001,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 2002,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 2003,
+        "HABHFNGEBMF": "Happy"
+      },
+      {
+        "NFDPPJGNJOA": 2004,
+        "HABHFNGEBMF": "Sad"
+      }
+    ],
+    "MissingEmoList": [
+      "Peace"
+    ],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Peace",
+    "ScriptID": 20001,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 2000201,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 2000202,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 2000203,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 2000204,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Anger",
+    "ScriptID": 20002,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 2000301,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 2000302,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 2000303,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 2000304,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Peace",
+    "ScriptID": 20003,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 2000401,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 2000402,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 2000403,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 2000404,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [
+      "Happy"
+    ],
+    "StepList": [
+      "Missing",
+      "Normal"
+    ],
+    "DefaultEmoType": "Happy",
+    "ScriptID": 20004,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 2000405,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 2000501,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 2000502,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 2000503,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 2000504,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Peace",
+    "ScriptID": 20005,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 2000604,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 2000605,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 2000606,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 2000607,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [
+      "Anger"
+    ],
+    "StepList": [
+      "Missing",
+      "Lock",
+      "UnLock",
+      "Normal"
+    ],
+    "DefaultEmoType": "Anger",
+    "ScriptID": 20006,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 2000603,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 2000601,
+    "RaidID": 43313,
+    "LockDialogueID": 2000602
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 2000701,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 2000702,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 2000703,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 2000704,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Peace",
+    "ScriptID": 20007,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1321101,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1321102,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1321103,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1321104,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [
+      "Happy"
+    ],
+    "StepList": [
+      "Missing",
+      "Full",
+      "Normal"
+    ],
+    "DefaultEmoType": "Happy",
+    "ScriptID": 13211,
+    "FullDialogueID": 1321106,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 1321105,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1342801,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1342802,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1342803,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1342804,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Peace",
+    "ScriptID": 13428,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1330201,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1330202,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1330203,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1330204,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [
+      "Happy"
+    ],
+    "StepList": [
+      "Missing",
+      "Full",
+      "Normal"
+    ],
+    "DefaultEmoType": "Happy",
+    "ScriptID": 13302,
+    "FullDialogueID": 1330206,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 1330205,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 2000801,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 2000802,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 2000803,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 2000804,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Peace",
+    "ScriptID": 20008,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 2000901,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 2000902,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 2000903,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 2000904,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Peace",
+    "ScriptID": 20009,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1310901,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1310902,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1310903,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1310904,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [
+      "Peace"
+    ],
+    "StepList": [
+      "Missing",
+      "Full",
+      "Normal"
+    ],
+    "DefaultEmoType": "Peace",
+    "ScriptID": 13109,
+    "FullDialogueID": 1310906,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 1310905,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 13199101,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 13199102,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 13199103,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 13199104,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Peace",
+    "ScriptID": 131991,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 2001003,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 2001004,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 2001005,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 2001006,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Lock",
+      "UnLock",
+      "Normal"
+    ],
+    "DefaultEmoType": "Happy",
+    "ScriptID": 20010,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 2001002,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 4430301,
+    "LockDialogueID": 2001001
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 2001101,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 2001102,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 2001103,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 2001104,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Sad",
+    "ScriptID": 20011,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 2001201,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 2001202,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 2001203,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 2001204,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Anger",
+    "ScriptID": 20012,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 2001301,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 2001302,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 2001303,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 2001304,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Happy",
+    "ScriptID": 20013,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 2001401,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 2001402,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 2001403,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 2001404,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Sad",
+    "ScriptID": 20014,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 2001501,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 2001502,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 2001503,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 2001504,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Happy",
+    "ScriptID": 20015,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1321601,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1321602,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1321603,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1321604,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [
+      "Anger"
+    ],
+    "StepList": [
+      "Missing",
+      "Full",
+      "Normal"
+    ],
+    "DefaultEmoType": "Anger",
+    "ScriptID": 13216,
+    "FullDialogueID": 1321606,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 1321605,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1314501,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1314502,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1314503,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1314504,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [
+      "Sad"
+    ],
+    "StepList": [
+      "Missing",
+      "Full",
+      "Normal"
+    ],
+    "DefaultEmoType": "Sad",
+    "ScriptID": 13145,
+    "FullDialogueID": 1314506,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 1314505,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 2001603,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 2001604,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 2001605,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 2001606,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Lock",
+      "UnLock",
+      "Normal"
+    ],
+    "DefaultEmoType": "Happy",
+    "ScriptID": 20016,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 2001602,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 4430302,
+    "LockDialogueID": 2001601
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 2001703,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 2001704,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 2001705,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 2001706,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Lock",
+      "UnLock",
+      "Normal"
+    ],
+    "DefaultEmoType": "Happy",
+    "ScriptID": 20017,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 2001702,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 4430303,
+    "LockDialogueID": 2001701
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 2001803,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 2001804,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 2001805,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 2001806,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Lock",
+      "UnLock",
+      "Normal"
+    ],
+    "DefaultEmoType": "Sad",
+    "ScriptID": 20018,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 2001802,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 4430201,
+    "LockDialogueID": 2001801
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 2001903,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 2001904,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 2001905,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 2001906,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Lock",
+      "UnLock",
+      "Normal"
+    ],
+    "DefaultEmoType": "Sad",
+    "ScriptID": 20019,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 2001902,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 4430203,
+    "LockDialogueID": 2001901
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 2002003,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 2002004,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 2002005,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 2002006,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Lock",
+      "UnLock",
+      "Normal"
+    ],
+    "DefaultEmoType": "Sad",
+    "ScriptID": 20020,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 2002002,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 4430202,
+    "LockDialogueID": 2002001
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 2002103,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 2002104,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 2002105,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 2002106,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Lock",
+      "UnLock",
+      "Normal"
+    ],
+    "DefaultEmoType": "Sad",
+    "ScriptID": 20021,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 2002102,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 4430204,
+    "LockDialogueID": 2002101
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1324301,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1324302,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1324303,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1324304,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [
+      "Happy"
+    ],
+    "StepList": [
+      "Missing",
+      "Full",
+      "Normal"
+    ],
+    "DefaultEmoType": "Happy",
+    "ScriptID": 13243,
+    "FullDialogueID": 1324306,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 1324305,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1332301,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1332302,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1332303,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1332304,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Peace",
+    "ScriptID": 13323,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1324501,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1324502,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1324503,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1324504,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Happy",
+    "ScriptID": 13245,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1314301,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1314302,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1314303,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1314304,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Peace",
+    "ScriptID": 13143,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1314201,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1314202,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1314203,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1314204,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Peace",
+    "ScriptID": 13142,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1314001,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1314002,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1314003,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1314004,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Peace",
+    "ScriptID": 13140,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1324401,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1324402,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1324403,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1324404,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Peace",
+    "ScriptID": 13244,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1332401,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1332402,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1332403,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1332404,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Peace",
+    "ScriptID": 13324,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1325801,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1325802,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1325803,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1325804,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Peace",
+    "ScriptID": 13258,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1333101,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1333102,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1333103,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1333104,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Happy",
+    "ScriptID": 13331,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1315901,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1315902,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1315903,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1315904,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Peace",
+    "ScriptID": 13159,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1326501,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1326502,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1326503,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1326504,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Peace",
+    "ScriptID": 13265,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1333001,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1333002,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1333003,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1333004,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Happy",
+    "ScriptID": 13330,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1315701,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1315702,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1315703,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1315704,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Peace",
+    "ScriptID": 13157,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1325601,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1325602,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1325603,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1325604,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Peace",
+    "ScriptID": 13256,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1325901,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1325902,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1325903,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1325904,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Anger",
+    "ScriptID": 13259,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 2002201,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 2002202,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 2002203,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 2002204,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Peace",
+    "ScriptID": 20022,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1315501,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1315502,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1315503,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1315504,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Happy",
+    "ScriptID": 13155,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1315601,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1315602,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1315603,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1315604,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [
+      "Peace"
+    ],
+    "StepList": [
+      "Missing",
+      "Full",
+      "Normal"
+    ],
+    "DefaultEmoType": "Peace",
+    "ScriptID": 13156,
+    "FullDialogueID": 1315606,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 1315605,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1325401,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1325402,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1325403,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1325404,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Happy",
+    "ScriptID": 13254,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1314401,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1314402,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1314403,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1314404,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Peace",
+    "ScriptID": 13144,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1325301,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1325302,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1325303,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1325304,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Peace",
+    "ScriptID": 13253,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 2002301,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 2002302,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 2002303,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 2002304,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Peace",
+    "ScriptID": 20023,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1315301,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1315302,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1315303,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1315304,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Peace",
+    "ScriptID": 13153,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1341501,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1341502,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1341503,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1341504,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Happy",
+    "ScriptID": 13415,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1325101,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1325102,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1325103,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1325104,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Sad",
+    "ScriptID": 13251,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 2002401,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 2002402,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 2002403,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 2002404,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Peace",
+    "ScriptID": 20024,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1315401,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1315402,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1315403,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1315404,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Happy",
+    "ScriptID": 13154,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1341801,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1341802,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1341803,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1341804,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Peace",
+    "ScriptID": 13418,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 2002501,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 2002502,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 2002503,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 2002504,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Peace",
+    "ScriptID": 20025,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1325201,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1325202,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1325203,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1325204,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Happy",
+    "ScriptID": 13252,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1316001,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1316002,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1316003,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1316004,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Peace",
+    "ScriptID": 13160,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1316101,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1316102,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1316103,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1316104,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Happy",
+    "ScriptID": 13161,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 2002601,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 2002602,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 2002603,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 2002604,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Peace",
+    "ScriptID": 20026,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 2012601,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 2012602,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 2012603,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 2012604,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Peace",
+    "ScriptID": 20126,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 2002701,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 2002702,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 2002703,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 2002704,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Lock",
+      "UnLock",
+      "Normal"
+    ],
+    "DefaultEmoType": "Peace",
+    "ScriptID": 20027,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 2002706,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 43322,
+    "LockDialogueID": 2002705
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 2002801,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 2002802,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 2002803,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 2002804,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Control",
+      "Normal"
+    ],
+    "DefaultEmoType": "Peace",
+    "ScriptID": 20028,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 2002805,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 2002901,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 2002902,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 2002903,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 2002904,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Control",
+      "Normal"
+    ],
+    "DefaultEmoType": "Peace",
+    "ScriptID": 20029,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 2002905,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 2003001,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 2003002,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 2003003,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 2003004,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Control",
+      "Normal"
+    ],
+    "DefaultEmoType": "Peace",
+    "ScriptID": 20030,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 2003005,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1316901,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1316902,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1316903,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1316904,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Peace",
+    "ScriptID": 13169,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1317001,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1317002,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1317003,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1317004,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Peace",
+    "ScriptID": 13170,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1317101,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1317102,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1317103,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1317104,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Happy",
+    "ScriptID": 13171,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1317201,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1317202,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1317203,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1317204,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Peace",
+    "ScriptID": 13172,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1326101,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1326102,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1326103,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1326104,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Peace",
+    "ScriptID": 13261,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1326201,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1326202,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1326203,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1326204,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Peace",
+    "ScriptID": 13262,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1326301,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1326302,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1326303,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1326304,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Peace",
+    "ScriptID": 13263,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1326401,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1326402,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1326403,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1326404,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Peace",
+    "ScriptID": 13264,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1333901,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1333902,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1333903,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1333904,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Anger",
+    "ScriptID": 13339,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1334001,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1334002,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1334003,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1334004,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Peace",
+    "ScriptID": 13340,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1342101,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1342102,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1342103,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1342104,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Peace",
+    "ScriptID": 13421,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1317401,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1317402,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1317403,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1317404,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Peace",
+    "ScriptID": 13174,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1325501,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1325502,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1325503,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1325504,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Sad",
+    "ScriptID": 13255,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1313901,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1313902,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1313903,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1313904,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Peace",
+    "ScriptID": 13139,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 2003101,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 2003102,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 2003103,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 2003104,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Sad",
+    "ScriptID": 20031,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 2003201,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 2003202,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 2003203,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 2003204,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Lock",
+      "UnLock",
+      "Normal"
+    ],
+    "DefaultEmoType": "Anger",
+    "ScriptID": 20032,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 2003206,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 43315,
+    "LockDialogueID": 2003205
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1342301,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1342302,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1342303,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1342304,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [
+      "Peace"
+    ],
+    "StepList": [
+      "Missing",
+      "Full",
+      "Normal"
+    ],
+    "DefaultEmoType": "Peace",
+    "ScriptID": 13423,
+    "FullDialogueID": 1342306,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 1342305,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1342401,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1342402,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1342403,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1342404,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Happy",
+    "ScriptID": 13424,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1317801,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1317802,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1317803,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1317804,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Anger",
+    "ScriptID": 13178,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1317901,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1317902,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1317903,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1317904,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Peace",
+    "ScriptID": 13179,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1350101,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1350102,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1350103,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1350104,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Anger",
+    "ScriptID": 13501,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1350201,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1350202,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1350203,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1350204,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Happy",
+    "ScriptID": 13502,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1350301,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1350302,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1350303,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1350304,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Peace",
+    "ScriptID": 13503,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1350401,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1350402,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1350403,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1350404,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Peace",
+    "ScriptID": 13504,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1350501,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1350502,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1350503,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1350504,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Peace",
+    "ScriptID": 13505,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1350601,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1350602,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1350603,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1350604,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Peace",
+    "ScriptID": 13506,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1350701,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1350702,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1350703,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1350704,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Peace",
+    "ScriptID": 13507,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1350801,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1350802,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1350803,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1350804,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Peace",
+    "ScriptID": 13508,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1350901,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1350902,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1350903,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1350904,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Peace",
+    "ScriptID": 13509,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1351001,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1351002,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1351003,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1351004,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Peace",
+    "ScriptID": 13510,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1351101,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1351102,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1351103,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1351104,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Peace",
+    "ScriptID": 13511,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1351201,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1351202,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1351203,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1351204,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Peace",
+    "ScriptID": 13512,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1351301,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1351302,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1351303,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1351304,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Peace",
+    "ScriptID": 13513,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1351401,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1351402,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1351403,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1351404,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Peace",
+    "ScriptID": 13514,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1351501,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1351502,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1351503,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1351504,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Peace",
+    "ScriptID": 13515,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  },
+  {
+    "TotalEmoInfoList": [
+      {
+        "NFDPPJGNJOA": 1351601,
+        "HABHFNGEBMF": "Peace"
+      },
+      {
+        "NFDPPJGNJOA": 1351602,
+        "HABHFNGEBMF": "Anger"
+      },
+      {
+        "NFDPPJGNJOA": 1351603,
+        "HABHFNGEBMF": "Sad"
+      },
+      {
+        "NFDPPJGNJOA": 1351604,
+        "HABHFNGEBMF": "Happy"
+      }
+    ],
+    "MissingEmoList": [],
+    "StepList": [
+      "Normal"
+    ],
+    "DefaultEmoType": "Peace",
+    "ScriptID": 13516,
+    "FullDialogueID": 0,
+    "UnLockDialogueID": 0,
+    "ControlDialogueID": 0,
+    "MissingDialogueID": 0,
+    "RaidID": 0,
+    "LockDialogueID": 0
+  }
+]

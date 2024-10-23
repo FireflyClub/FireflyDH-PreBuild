@@ -1,0 +1,625 @@
+[
+  {
+    "StagePeriod3": [],
+    "GearRecommendList": [],
+    "TeamBonusIconPath": "SpriteOutput/BuffIcon/Inlevel/IconBuffAttackUp.png",
+    "RankList": [
+      {
+        "MMENCOEDNGJ": "C",
+        "OFAGGKBMPJN": 0
+      },
+      {
+        "MMENCOEDNGJ": "B",
+        "OFAGGKBMPJN": 20000
+      },
+      {
+        "MMENCOEDNGJ": "A",
+        "OFAGGKBMPJN": 40000
+      },
+      {
+        "MMENCOEDNGJ": "S",
+        "OFAGGKBMPJN": 60000
+      },
+      {
+        "MMENCOEDNGJ": "SS",
+        "OFAGGKBMPJN": 80000
+      }
+    ],
+    "StagePeriod1": [
+      414001
+    ],
+    "TrialAvatar": [
+      1021106,
+      1048001,
+      1048002,
+      3231202,
+      1031105
+    ],
+    "FirstWinReward": [
+      100
+    ],
+    "RecommendList": [],
+    "StagePeriod2": [
+      414002
+    ],
+    "StagePeriod4": [],
+    "InitialWeapon": [],
+    "Desc": {
+      "Hash": 371857150
+    },
+    "UnlockQuest": 0,
+    "Name": {
+      "Hash": 1869664957
+    },
+    "StageMergedID": 414000,
+    "Difficulty": 0,
+    "TeamBonusMazeBuffID": 3106608,
+    "WeaponSelectable": false,
+    "BuffTextFormat": {
+      "Hash": -1755639624
+    },
+    "TeamBonusShortDesc": {
+      "Hash": 2141940433
+    },
+    "IntroID": 8140
+  },
+  {
+    "StagePeriod3": [
+      414013
+    ],
+    "GearRecommendList": [
+      3106013,
+      3106011,
+      3106010
+    ],
+    "TeamBonusIconPath": "SpriteOutput/BuffIcon/Inlevel/IconBuffAttackUp.png",
+    "RankList": [
+      {
+        "MMENCOEDNGJ": "C",
+        "OFAGGKBMPJN": 0
+      },
+      {
+        "MMENCOEDNGJ": "B",
+        "OFAGGKBMPJN": 20000
+      },
+      {
+        "MMENCOEDNGJ": "A",
+        "OFAGGKBMPJN": 40000
+      },
+      {
+        "MMENCOEDNGJ": "S",
+        "OFAGGKBMPJN": 60000
+      },
+      {
+        "MMENCOEDNGJ": "SS",
+        "OFAGGKBMPJN": 80000
+      }
+    ],
+    "StagePeriod1": [
+      414011
+    ],
+    "TrialAvatar": [
+      1021003,
+      1031013,
+      3231110
+    ],
+    "FirstWinReward": [
+      100
+    ],
+    "RecommendList": [
+      {
+        "NJOOFABGCBB": 3106807,
+        "JKOCJIMAGBN": 1
+      },
+      {
+        "NJOOFABGCBB": 3106804,
+        "JKOCJIMAGBN": 2
+      },
+      {
+        "NJOOFABGCBB": 3106805,
+        "JKOCJIMAGBN": 1
+      }
+    ],
+    "StagePeriod2": [
+      414012
+    ],
+    "StagePeriod4": [],
+    "InitialWeapon": [
+      3106002
+    ],
+    "Desc": {
+      "Hash": 371857150
+    },
+    "UnlockQuest": 6020108,
+    "Name": {
+      "Hash": 303581016
+    },
+    "StageMergedID": 414001,
+    "Difficulty": 1,
+    "TeamBonusMazeBuffID": 3106601,
+    "WeaponSelectable": false,
+    "BuffTextFormat": {
+      "Hash": -1755639624
+    },
+    "TeamBonusShortDesc": {
+      "Hash": 575856492
+    },
+    "IntroID": 8141
+  },
+  {
+    "StagePeriod3": [
+      414023
+    ],
+    "GearRecommendList": [
+      3106003,
+      3106011,
+      3106005
+    ],
+    "TeamBonusIconPath": "SpriteOutput/BuffIcon/Inlevel/IconBuffAttackUp.png",
+    "RankList": [
+      {
+        "MMENCOEDNGJ": "C",
+        "OFAGGKBMPJN": 0
+      },
+      {
+        "MMENCOEDNGJ": "B",
+        "OFAGGKBMPJN": 20000
+      },
+      {
+        "MMENCOEDNGJ": "A",
+        "OFAGGKBMPJN": 40000
+      },
+      {
+        "MMENCOEDNGJ": "S",
+        "OFAGGKBMPJN": 60000
+      },
+      {
+        "MMENCOEDNGJ": "SS",
+        "OFAGGKBMPJN": 80000
+      }
+    ],
+    "StagePeriod1": [
+      414021
+    ],
+    "TrialAvatar": [
+      1031307,
+      1031005,
+      1031217
+    ],
+    "FirstWinReward": [
+      100
+    ],
+    "RecommendList": [
+      {
+        "NJOOFABGCBB": 3106801,
+        "JKOCJIMAGBN": 2
+      },
+      {
+        "NJOOFABGCBB": 3106805,
+        "JKOCJIMAGBN": 1
+      },
+      {
+        "NJOOFABGCBB": 3106804,
+        "JKOCJIMAGBN": 2
+      }
+    ],
+    "StagePeriod2": [
+      414022
+    ],
+    "StagePeriod4": [],
+    "InitialWeapon": [
+      3106004
+    ],
+    "Desc": {
+      "Hash": 371857150
+    },
+    "UnlockQuest": 6020110,
+    "Name": {
+      "Hash": -1262502925
+    },
+    "StageMergedID": 414002,
+    "Difficulty": 1,
+    "TeamBonusMazeBuffID": 3106602,
+    "WeaponSelectable": false,
+    "BuffTextFormat": {
+      "Hash": -1755639624
+    },
+    "TeamBonusShortDesc": {
+      "Hash": -990227449
+    },
+    "IntroID": 8142
+  },
+  {
+    "StagePeriod3": [
+      414033
+    ],
+    "GearRecommendList": [
+      3106001,
+      3106011,
+      3106008
+    ],
+    "TeamBonusIconPath": "SpriteOutput/BuffIcon/Inlevel/IconBuffAttackUp.png",
+    "RankList": [
+      {
+        "MMENCOEDNGJ": "C",
+        "OFAGGKBMPJN": 0
+      },
+      {
+        "MMENCOEDNGJ": "B",
+        "OFAGGKBMPJN": 20000
+      },
+      {
+        "MMENCOEDNGJ": "A",
+        "OFAGGKBMPJN": 40000
+      },
+      {
+        "MMENCOEDNGJ": "S",
+        "OFAGGKBMPJN": 60000
+      },
+      {
+        "MMENCOEDNGJ": "SS",
+        "OFAGGKBMPJN": 80000
+      }
+    ],
+    "StagePeriod1": [
+      414031
+    ],
+    "TrialAvatar": [
+      1031315,
+      1038005,
+      1038006,
+      3231301
+    ],
+    "FirstWinReward": [
+      100
+    ],
+    "RecommendList": [
+      {
+        "NJOOFABGCBB": 3106811,
+        "JKOCJIMAGBN": 1
+      },
+      {
+        "NJOOFABGCBB": 3106806,
+        "JKOCJIMAGBN": 1
+      },
+      {
+        "NJOOFABGCBB": 3106802,
+        "JKOCJIMAGBN": 2
+      },
+      {
+        "NJOOFABGCBB": 3106804,
+        "JKOCJIMAGBN": 2
+      }
+    ],
+    "StagePeriod2": [
+      414032
+    ],
+    "StagePeriod4": [],
+    "InitialWeapon": [
+      3106005
+    ],
+    "Desc": {
+      "Hash": 371857150
+    },
+    "UnlockQuest": 6020111,
+    "Name": {
+      "Hash": 1466380430
+    },
+    "StageMergedID": 414003,
+    "Difficulty": 1,
+    "TeamBonusMazeBuffID": 3106603,
+    "WeaponSelectable": false,
+    "BuffTextFormat": {
+      "Hash": -1755639624
+    },
+    "TeamBonusShortDesc": {
+      "Hash": 1738655906
+    },
+    "IntroID": 8143
+  },
+  {
+    "StagePeriod3": [
+      414043
+    ],
+    "GearRecommendList": [
+      3106009,
+      3106001,
+      3106002
+    ],
+    "TeamBonusIconPath": "SpriteOutput/BuffIcon/Inlevel/IconBuffAttackUp.png",
+    "RankList": [
+      {
+        "MMENCOEDNGJ": "C",
+        "OFAGGKBMPJN": 0
+      },
+      {
+        "MMENCOEDNGJ": "B",
+        "OFAGGKBMPJN": 20000
+      },
+      {
+        "MMENCOEDNGJ": "A",
+        "OFAGGKBMPJN": 40000
+      },
+      {
+        "MMENCOEDNGJ": "S",
+        "OFAGGKBMPJN": 60000
+      },
+      {
+        "MMENCOEDNGJ": "SS",
+        "OFAGGKBMPJN": 80000
+      }
+    ],
+    "StagePeriod1": [
+      414041
+    ],
+    "TrialAvatar": [
+      3231305,
+      3231112,
+      1031309
+    ],
+    "FirstWinReward": [
+      100
+    ],
+    "RecommendList": [
+      {
+        "NJOOFABGCBB": 3106805,
+        "JKOCJIMAGBN": 2
+      },
+      {
+        "NJOOFABGCBB": 3106801,
+        "JKOCJIMAGBN": 2
+      },
+      {
+        "NJOOFABGCBB": 3106812,
+        "JKOCJIMAGBN": 2
+      },
+      {
+        "NJOOFABGCBB": 3106809,
+        "JKOCJIMAGBN": 2
+      },
+      {
+        "NJOOFABGCBB": 3106813,
+        "JKOCJIMAGBN": 1
+      }
+    ],
+    "StagePeriod2": [
+      414042
+    ],
+    "StagePeriod4": [],
+    "InitialWeapon": [
+      3106007
+    ],
+    "Desc": {
+      "Hash": 371857150
+    },
+    "UnlockQuest": 6020112,
+    "Name": {
+      "Hash": -99703511
+    },
+    "StageMergedID": 414004,
+    "Difficulty": 2,
+    "TeamBonusMazeBuffID": 3106605,
+    "WeaponSelectable": false,
+    "BuffTextFormat": {
+      "Hash": -1755639624
+    },
+    "TeamBonusShortDesc": {
+      "Hash": -183658395
+    },
+    "IntroID": 8144
+  },
+  {
+    "StagePeriod3": [
+      414063
+    ],
+    "GearRecommendList": [
+      3106010,
+      3106009,
+      3106003
+    ],
+    "TeamBonusIconPath": "SpriteOutput/BuffIcon/Inlevel/IconBuffAttackUp.png",
+    "RankList": [
+      {
+        "MMENCOEDNGJ": "C",
+        "OFAGGKBMPJN": 0
+      },
+      {
+        "MMENCOEDNGJ": "B",
+        "OFAGGKBMPJN": 20000
+      },
+      {
+        "MMENCOEDNGJ": "A",
+        "OFAGGKBMPJN": 40000
+      },
+      {
+        "MMENCOEDNGJ": "S",
+        "OFAGGKBMPJN": 60000
+      },
+      {
+        "MMENCOEDNGJ": "SS",
+        "OFAGGKBMPJN": 80000
+      }
+    ],
+    "StagePeriod1": [
+      414061
+    ],
+    "TrialAvatar": [
+      3231308,
+      3231106,
+      3231304
+    ],
+    "FirstWinReward": [
+      100
+    ],
+    "RecommendList": [
+      {
+        "NJOOFABGCBB": 3106808,
+        "JKOCJIMAGBN": 2
+      },
+      {
+        "NJOOFABGCBB": 3106802,
+        "JKOCJIMAGBN": 3
+      },
+      {
+        "NJOOFABGCBB": 3106811,
+        "JKOCJIMAGBN": 2
+      },
+      {
+        "NJOOFABGCBB": 3106812,
+        "JKOCJIMAGBN": 2
+      },
+      {
+        "NJOOFABGCBB": 3106804,
+        "JKOCJIMAGBN": 3
+      }
+    ],
+    "StagePeriod2": [
+      414062
+    ],
+    "StagePeriod4": [],
+    "InitialWeapon": [
+      3106012
+    ],
+    "Desc": {
+      "Hash": 371857150
+    },
+    "UnlockQuest": 6020113,
+    "Name": {
+      "Hash": 1063095903
+    },
+    "StageMergedID": 414006,
+    "Difficulty": 2,
+    "TeamBonusMazeBuffID": 3106606,
+    "WeaponSelectable": false,
+    "BuffTextFormat": {
+      "Hash": -1755639624
+    },
+    "TeamBonusShortDesc": {
+      "Hash": 979141019
+    },
+    "IntroID": 8146
+  },
+  {
+    "StagePeriod3": [
+      414301,
+      414302,
+      414303,
+      414304,
+      414305,
+      414306
+    ],
+    "GearRecommendList": [],
+    "TeamBonusIconPath": "SpriteOutput/BuffIcon/Inlevel/IconBuffAttackUp.png",
+    "RankList": [
+      {
+        "MMENCOEDNGJ": "C",
+        "OFAGGKBMPJN": 0
+      },
+      {
+        "MMENCOEDNGJ": "B",
+        "OFAGGKBMPJN": 20000
+      },
+      {
+        "MMENCOEDNGJ": "A",
+        "OFAGGKBMPJN": 40000
+      },
+      {
+        "MMENCOEDNGJ": "S",
+        "OFAGGKBMPJN": 60000
+      },
+      {
+        "MMENCOEDNGJ": "SS",
+        "OFAGGKBMPJN": 80000
+      }
+    ],
+    "StagePeriod1": [
+      414101,
+      414102,
+      414103,
+      414104,
+      414105,
+      414106,
+      414107,
+      414108,
+      414109,
+      414110,
+      414111,
+      414112
+    ],
+    "TrialAvatar": [
+      1021003,
+      1031013,
+      3231110,
+      1031307,
+      1031005,
+      1031217,
+      1031315,
+      1038005,
+      1038006,
+      3231301,
+      3231305,
+      3231112,
+      1031309,
+      3231308,
+      3231106,
+      3231304
+    ],
+    "FirstWinReward": [
+      100
+    ],
+    "RecommendList": [
+      {
+        "NJOOFABGCBB": 3106814,
+        "JKOCJIMAGBN": 1
+      },
+      {
+        "NJOOFABGCBB": 3106804,
+        "JKOCJIMAGBN": 4
+      },
+      {
+        "NJOOFABGCBB": 3106809,
+        "JKOCJIMAGBN": 3
+      },
+      {
+        "NJOOFABGCBB": 3106812,
+        "JKOCJIMAGBN": 2
+      }
+    ],
+    "StagePeriod2": [
+      414201,
+      414202,
+      414203,
+      414204,
+      414205,
+      414206,
+      414207,
+      414208,
+      414209,
+      414210,
+      414211,
+      414212
+    ],
+    "StagePeriod4": [
+      414999
+    ],
+    "InitialWeapon": [],
+    "Desc": {
+      "Hash": 371857150
+    },
+    "UnlockQuest": 6020115,
+    "Name": {
+      "Hash": -502988038
+    },
+    "StageMergedID": 414007,
+    "Difficulty": 3,
+    "TeamBonusMazeBuffID": 3106607,
+    "WeaponSelectable": true,
+    "BuffTextFormat": {
+      "Hash": -1755639624
+    },
+    "TeamBonusShortDesc": {
+      "Hash": -586942922
+    },
+    "IntroID": 8140
+  }
+]

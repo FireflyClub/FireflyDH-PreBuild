@@ -1,0 +1,240 @@
+[
+  {
+    "StageID": 2,
+    "CanTypeID": "SilverCan",
+    "NpcID": 400002,
+    "IsExtraNpc": false,
+    "GroupID": 19
+  },
+  {
+    "StageID": 2,
+    "CanTypeID": "SilverCan",
+    "NpcID": 400010,
+    "IsExtraNpc": false,
+    "GroupID": 19
+  },
+  {
+    "StageID": 2,
+    "CanTypeID": "SilverCan",
+    "NpcID": 400012,
+    "IsExtraNpc": false,
+    "GroupID": 19
+  },
+  {
+    "StageID": 2,
+    "CanTypeID": "SilverCan",
+    "NpcID": 400014,
+    "IsExtraNpc": false,
+    "GroupID": 19
+  },
+  {
+    "StageID": 2,
+    "CanTypeID": "SilverCan",
+    "NpcID": 400029,
+    "IsExtraNpc": false,
+    "GroupID": 19
+  },
+  {
+    "StageID": 2,
+    "CanTypeID": "SilverCan",
+    "NpcID": 400023,
+    "IsExtraNpc": false,
+    "GroupID": 19
+  },
+  {
+    "StageID": 2,
+    "CanTypeID": "SilverCan",
+    "NpcID": 400031,
+    "IsExtraNpc": false,
+    "GroupID": 19
+  },
+  {
+    "StageID": 2,
+    "CanTypeID": "SilverCan",
+    "NpcID": 400034,
+    "IsExtraNpc": false,
+    "GroupID": 19
+  },
+  {
+    "StageID": 2,
+    "CanTypeID": "SilverCan",
+    "NpcID": 400036,
+    "IsExtraNpc": false,
+    "GroupID": 19
+  },
+  {
+    "StageID": 1,
+    "CanTypeID": "SilverCan",
+    "NpcID": 400008,
+    "IsExtraNpc": false,
+    "GroupID": 11
+  },
+  {
+    "StageID": 1,
+    "CanTypeID": "SilverCan",
+    "NpcID": 400011,
+    "IsExtraNpc": false,
+    "GroupID": 11
+  },
+  {
+    "StageID": 1,
+    "CanTypeID": "SilverCan",
+    "NpcID": 400007,
+    "IsExtraNpc": false,
+    "GroupID": 11
+  },
+  {
+    "StageID": 1,
+    "CanTypeID": "SilverCan",
+    "NpcID": 400013,
+    "IsExtraNpc": false,
+    "GroupID": 11
+  },
+  {
+    "StageID": 1,
+    "CanTypeID": "SilverCan",
+    "NpcID": 400025,
+    "IsExtraNpc": false,
+    "GroupID": 11
+  },
+  {
+    "StageID": 1,
+    "CanTypeID": "SilverCan",
+    "NpcID": 400023,
+    "IsExtraNpc": false,
+    "GroupID": 11
+  },
+  {
+    "StageID": 6,
+    "CanTypeID": "SilverCan",
+    "NpcID": 400004,
+    "IsExtraNpc": false,
+    "GroupID": 10
+  },
+  {
+    "StageID": 6,
+    "CanTypeID": "SilverCan",
+    "NpcID": 400009,
+    "IsExtraNpc": false,
+    "GroupID": 10
+  },
+  {
+    "StageID": 6,
+    "CanTypeID": "SilverCan",
+    "NpcID": 400014,
+    "IsExtraNpc": false,
+    "GroupID": 10
+  },
+  {
+    "StageID": 6,
+    "CanTypeID": "SilverCan",
+    "NpcID": 400022,
+    "IsExtraNpc": false,
+    "GroupID": 10
+  },
+  {
+    "StageID": 6,
+    "CanTypeID": "SilverCan",
+    "NpcID": 400023,
+    "IsExtraNpc": false,
+    "GroupID": 10
+  },
+  {
+    "StageID": 4,
+    "CanTypeID": "SilverCan",
+    "NpcID": 400001,
+    "IsExtraNpc": false,
+    "GroupID": 22
+  },
+  {
+    "StageID": 4,
+    "CanTypeID": "SilverCan",
+    "NpcID": 400002,
+    "IsExtraNpc": false,
+    "GroupID": 22
+  },
+  {
+    "StageID": 4,
+    "CanTypeID": "SilverCan",
+    "NpcID": 400017,
+    "IsExtraNpc": false,
+    "GroupID": 22
+  },
+  {
+    "StageID": 4,
+    "CanTypeID": "SilverCan",
+    "NpcID": 400028,
+    "IsExtraNpc": false,
+    "GroupID": 22
+  },
+  {
+    "StageID": 4,
+    "CanTypeID": "SilverCan",
+    "NpcID": 400032,
+    "IsExtraNpc": false,
+    "GroupID": 22
+  },
+  {
+    "StageID": 3,
+    "CanTypeID": "SilverCan",
+    "NpcID": 400011,
+    "IsExtraNpc": false,
+    "GroupID": 6
+  },
+  {
+    "StageID": 3,
+    "CanTypeID": "SilverCan",
+    "NpcID": 400012,
+    "IsExtraNpc": false,
+    "GroupID": 6
+  },
+  {
+    "StageID": 3,
+    "CanTypeID": "SilverCan",
+    "NpcID": 400018,
+    "IsExtraNpc": false,
+    "GroupID": 6
+  },
+  {
+    "StageID": 3,
+    "CanTypeID": "SilverCan",
+    "NpcID": 400023,
+    "IsExtraNpc": false,
+    "GroupID": 6
+  },
+  {
+    "StageID": 3,
+    "CanTypeID": "SilverCan",
+    "NpcID": 400029,
+    "IsExtraNpc": false,
+    "GroupID": 6
+  },
+  {
+    "StageID": 5,
+    "CanTypeID": "SilverCan",
+    "NpcID": 400027,
+    "IsExtraNpc": false,
+    "GroupID": 26
+  },
+  {
+    "StageID": 5,
+    "CanTypeID": "SilverCan",
+    "NpcID": 400028,
+    "IsExtraNpc": false,
+    "GroupID": 26
+  },
+  {
+    "StageID": 5,
+    "CanTypeID": "SilverCan",
+    "NpcID": 400029,
+    "IsExtraNpc": false,
+    "GroupID": 26
+  },
+  {
+    "StageID": 5,
+    "CanTypeID": "SilverCan",
+    "NpcID": 400030,
+    "IsExtraNpc": false,
+    "GroupID": 26
+  }
+]

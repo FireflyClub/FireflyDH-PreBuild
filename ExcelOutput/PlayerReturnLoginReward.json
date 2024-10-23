@@ -1,0 +1,37 @@
+[
+  {
+    "FirstWordText": "Stellar Jade",
+    "LoginReward": 160101,
+    "ID": 1
+  },
+  {
+    "FirstWordText": "Fuel",
+    "LoginReward": 160102,
+    "ID": 2
+  },
+  {
+    "FirstWordText": "Stellar Jade",
+    "LoginReward": 160103,
+    "ID": 3
+  },
+  {
+    "FirstWordText": "Traveler's Guide",
+    "LoginReward": 160104,
+    "ID": 4
+  },
+  {
+    "FirstWordText": "Fuel",
+    "LoginReward": 160105,
+    "ID": 5
+  },
+  {
+    "FirstWordText": "Refined Aether",
+    "LoginReward": 160106,
+    "ID": 6
+  },
+  {
+    "FirstWordText": "Stellar Jade",
+    "LoginReward": 160107,
+    "ID": 7
+  }
+]

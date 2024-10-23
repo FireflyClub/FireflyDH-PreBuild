@@ -1,0 +1,162 @@
+[
+  {
+    "ParameterList": [],
+    "SkillID": 0,
+    "TextGuideID": 10010,
+    "TextGuideDescription": {
+      "Hash": -709163062
+    }
+  },
+  {
+    "ParameterList": [],
+    "SkillID": 0,
+    "TextGuideID": 10011,
+    "TextGuideDescription": {
+      "Hash": -709163061
+    }
+  },
+  {
+    "ParameterList": [],
+    "SkillID": 0,
+    "TextGuideID": 10020,
+    "TextGuideDescription": {
+      "Hash": 2019720293
+    }
+  },
+  {
+    "ParameterList": [],
+    "SkillID": 0,
+    "TextGuideID": 10021,
+    "TextGuideDescription": {
+      "Hash": 2019720294
+    }
+  },
+  {
+    "ParameterList": [],
+    "SkillID": 0,
+    "TextGuideID": 10030,
+    "TextGuideDescription": {
+      "Hash": 453636352
+    }
+  },
+  {
+    "ParameterList": [],
+    "SkillID": 0,
+    "TextGuideID": 10031,
+    "TextGuideDescription": {
+      "Hash": 453636353
+    }
+  },
+  {
+    "ParameterList": [],
+    "SkillID": 0,
+    "TextGuideID": 10040,
+    "TextGuideDescription": {
+      "Hash": -1112447589
+    }
+  },
+  {
+    "ParameterList": [],
+    "SkillID": 0,
+    "TextGuideID": 10041,
+    "TextGuideDescription": {
+      "Hash": -1112447588
+    }
+  },
+  {
+    "ParameterList": [],
+    "SkillID": 0,
+    "TextGuideID": 10042,
+    "TextGuideDescription": {
+      "Hash": -1112447587
+    }
+  },
+  {
+    "ParameterList": [],
+    "SkillID": 0,
+    "TextGuideID": 10050,
+    "TextGuideDescription": {
+      "Hash": 1616435766
+    }
+  },
+  {
+    "ParameterList": [],
+    "SkillID": 0,
+    "TextGuideID": 10051,
+    "TextGuideDescription": {
+      "Hash": 1616435767
+    }
+  },
+  {
+    "ParameterList": [],
+    "SkillID": 0,
+    "TextGuideID": 10060,
+    "TextGuideDescription": {
+      "Hash": 50351825
+    }
+  },
+  {
+    "ParameterList": [],
+    "SkillID": 0,
+    "TextGuideID": 10061,
+    "TextGuideDescription": {
+      "Hash": 50351826
+    }
+  },
+  {
+    "ParameterList": [],
+    "SkillID": 0,
+    "TextGuideID": 10062,
+    "TextGuideDescription": {
+      "Hash": 50351827
+    }
+  },
+  {
+    "ParameterList": [],
+    "SkillID": 0,
+    "TextGuideID": 10070,
+    "TextGuideDescription": {
+      "Hash": -1515732116
+    }
+  },
+  {
+    "ParameterList": [],
+    "SkillID": 0,
+    "TextGuideID": 10071,
+    "TextGuideDescription": {
+      "Hash": -1515732115
+    }
+  },
+  {
+    "ParameterList": [],
+    "SkillID": 0,
+    "TextGuideID": 10072,
+    "TextGuideDescription": {
+      "Hash": -1515732114
+    }
+  },
+  {
+    "ParameterList": [],
+    "SkillID": 0,
+    "TextGuideID": 10080,
+    "TextGuideDescription": {
+      "Hash": 500690519
+    }
+  },
+  {
+    "ParameterList": [],
+    "SkillID": 0,
+    "TextGuideID": 10081,
+    "TextGuideDescription": {
+      "Hash": 500690520
+    }
+  },
+  {
+    "ParameterList": [],
+    "SkillID": 0,
+    "TextGuideID": 10082,
+    "TextGuideDescription": {
+      "Hash": 500690521
+    }
+  }
+]

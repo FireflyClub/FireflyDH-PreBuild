@@ -1,0 +1,272 @@
+[
+  {
+    "SpecialCatIsMask": "Translucent",
+    "SpecialCatID": 10001,
+    "HintTip": {
+      "Hash": 601698742
+    },
+    "EventState": "Unlock",
+    "ProgenitorIsMask": "None"
+  },
+  {
+    "SpecialCatIsMask": "Translucent",
+    "SpecialCatID": 10002,
+    "HintTip": {
+      "Hash": -702263173
+    },
+    "EventState": "Unlock",
+    "ProgenitorIsMask": "None"
+  },
+  {
+    "SpecialCatIsMask": "Translucent",
+    "SpecialCatID": 10003,
+    "HintTip": {
+      "Hash": -2006225088
+    },
+    "EventState": "Unlock",
+    "ProgenitorIsMask": "None"
+  },
+  {
+    "SpecialCatIsMask": "Translucent",
+    "SpecialCatID": 10004,
+    "HintTip": {
+      "Hash": 1341010653
+    },
+    "EventState": "Unlock",
+    "ProgenitorIsMask": "None"
+  },
+  {
+    "SpecialCatIsMask": "Translucent",
+    "SpecialCatID": 10005,
+    "HintTip": {
+      "Hash": 37048738
+    },
+    "EventState": "Unlock",
+    "ProgenitorIsMask": "None"
+  },
+  {
+    "SpecialCatIsMask": "Translucent",
+    "SpecialCatID": 10006,
+    "HintTip": {
+      "Hash": -1266913177
+    },
+    "EventState": "Unlock",
+    "ProgenitorIsMask": "None"
+  },
+  {
+    "SpecialCatIsMask": "Translucent",
+    "SpecialCatID": 10008,
+    "HintTip": {
+      "Hash": -1260006631
+    },
+    "EventState": "Unlock",
+    "ProgenitorIsMask": "None"
+  },
+  {
+    "SpecialCatIsMask": "Translucent",
+    "SpecialCatID": 10007,
+    "HintTip": {
+      "Hash": 1724092204
+    },
+    "EventState": "Unlock",
+    "ProgenitorIsMask": "None"
+  },
+  {
+    "SpecialCatIsMask": "Translucent",
+    "SpecialCatID": 10009,
+    "HintTip": {
+      "Hash": 1730998750
+    },
+    "EventState": "Unlock",
+    "ProgenitorIsMask": "None"
+  },
+  {
+    "SpecialCatIsMask": "Translucent",
+    "SpecialCatID": 10010,
+    "HintTip": {
+      "Hash": 1905660560
+    },
+    "EventState": "Unlock",
+    "ProgenitorIsMask": "None"
+  },
+  {
+    "SpecialCatIsMask": "None",
+    "SpecialCatID": 10001,
+    "HintTip": {
+      "Hash": -964385199
+    },
+    "EventState": "Get",
+    "ProgenitorIsMask": "None"
+  },
+  {
+    "SpecialCatIsMask": "None",
+    "SpecialCatID": 10002,
+    "HintTip": {
+      "Hash": 863820768
+    },
+    "EventState": "Get",
+    "ProgenitorIsMask": "None"
+  },
+  {
+    "SpecialCatIsMask": "None",
+    "SpecialCatID": 10003,
+    "HintTip": {
+      "Hash": 722658267
+    },
+    "EventState": "Get",
+    "ProgenitorIsMask": "None"
+  },
+  {
+    "SpecialCatIsMask": "None",
+    "SpecialCatID": 10004,
+    "HintTip": {
+      "Hash": -1387872702
+    },
+    "EventState": "Get",
+    "ProgenitorIsMask": "None"
+  },
+  {
+    "SpecialCatIsMask": "None",
+    "SpecialCatID": 10005,
+    "HintTip": {
+      "Hash": -1529035203
+    },
+    "EventState": "Get",
+    "ProgenitorIsMask": "None"
+  },
+  {
+    "SpecialCatIsMask": "None",
+    "SpecialCatID": 10006,
+    "HintTip": {
+      "Hash": 299170764
+    },
+    "EventState": "Get",
+    "ProgenitorIsMask": "None"
+  },
+  {
+    "SpecialCatIsMask": "None",
+    "SpecialCatID": 10008,
+    "HintTip": {
+      "Hash": 306077310
+    },
+    "EventState": "Get",
+    "ProgenitorIsMask": "None"
+  },
+  {
+    "SpecialCatIsMask": "None",
+    "SpecialCatID": 10007,
+    "HintTip": {
+      "Hash": 158008263
+    },
+    "EventState": "Get",
+    "ProgenitorIsMask": "None"
+  },
+  {
+    "SpecialCatIsMask": "None",
+    "SpecialCatID": 10009,
+    "HintTip": {
+      "Hash": 164914809
+    },
+    "EventState": "Get",
+    "ProgenitorIsMask": "None"
+  },
+  {
+    "SpecialCatIsMask": "None",
+    "SpecialCatID": 10010,
+    "HintTip": {
+      "Hash": -823222795
+    },
+    "EventState": "Get",
+    "ProgenitorIsMask": "None"
+  },
+  {
+    "SpecialCatIsMask": "Hide",
+    "SpecialCatID": 10001,
+    "HintTip": {
+      "Hash": 371857150
+    },
+    "EventState": "Lock",
+    "ProgenitorIsMask": "None"
+  },
+  {
+    "SpecialCatIsMask": "Hide",
+    "SpecialCatID": 10008,
+    "HintTip": {
+      "Hash": -856722104
+    },
+    "EventState": "Lock",
+    "ProgenitorIsMask": "None"
+  },
+  {
+    "SpecialCatIsMask": "Hide",
+    "SpecialCatID": 10002,
+    "HintTip": {
+      "Hash": 2026620182
+    },
+    "EventState": "Lock",
+    "ProgenitorIsMask": "None"
+  },
+  {
+    "SpecialCatIsMask": "Hide",
+    "SpecialCatID": 10004,
+    "HintTip": {
+      "Hash": 1744295180
+    },
+    "EventState": "Lock",
+    "ProgenitorIsMask": "None"
+  },
+  {
+    "SpecialCatIsMask": "Hide",
+    "SpecialCatID": 10003,
+    "HintTip": {
+      "Hash": 1885457681
+    },
+    "EventState": "Lock",
+    "ProgenitorIsMask": "None"
+  },
+  {
+    "SpecialCatIsMask": "Hide",
+    "SpecialCatID": 10006,
+    "HintTip": {
+      "Hash": 1461970178
+    },
+    "EventState": "Lock",
+    "ProgenitorIsMask": "None"
+  },
+  {
+    "SpecialCatIsMask": "Hide",
+    "SpecialCatID": 10005,
+    "HintTip": {
+      "Hash": 1603132679
+    },
+    "EventState": "Lock",
+    "ProgenitorIsMask": "None"
+  },
+  {
+    "SpecialCatIsMask": "Hide",
+    "SpecialCatID": 10007,
+    "HintTip": {
+      "Hash": 1320807677
+    },
+    "EventState": "Lock",
+    "ProgenitorIsMask": "None"
+  },
+  {
+    "SpecialCatIsMask": "Hide",
+    "SpecialCatID": 10009,
+    "HintTip": {
+      "Hash": -997884605
+    },
+    "EventState": "Lock",
+    "ProgenitorIsMask": "None"
+  },
+  {
+    "SpecialCatIsMask": "Hide",
+    "SpecialCatID": 10010,
+    "HintTip": {
+      "Hash": -1986022209
+    },
+    "EventState": "Lock",
+    "ProgenitorIsMask": "None"
+  }
+]

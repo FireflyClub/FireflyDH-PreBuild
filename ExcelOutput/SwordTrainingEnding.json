@@ -1,0 +1,72 @@
+[
+  {
+    "StoryUnlockImage": "SpriteOutput/Quest/SwordTraining/CoverImg/SwordTrainingCoverImgLock5.png",
+    "StoryImage": "SpriteOutput/Quest/SwordTraining/CoverImg/SwordTrainingCoverImg5.png",
+    "QuestID": 6025122,
+    "RewardID": 0,
+    "StoryID": 1,
+    "StoryTitle": {
+      "Hash": 735592874
+    },
+    "UnlockDesc": {
+      "Hash": 394622034
+    },
+    "EndingID": 1
+  },
+  {
+    "StoryUnlockImage": "SpriteOutput/Quest/SwordTraining/CoverImg/SwordTrainingCoverImgLock1.png",
+    "StoryImage": "SpriteOutput/Quest/SwordTraining/CoverImg/SwordTrainingCoverImg1.png",
+    "QuestID": 6025123,
+    "RewardID": 0,
+    "StoryID": 11,
+    "StoryTitle": {
+      "Hash": 332308347
+    },
+    "UnlockDesc": {
+      "Hash": 797906561
+    },
+    "EndingID": 2
+  },
+  {
+    "StoryUnlockImage": "SpriteOutput/Quest/SwordTraining/CoverImg/SwordTrainingCoverImgLock2.png",
+    "StoryImage": "SpriteOutput/Quest/SwordTraining/CoverImg/SwordTrainingCoverImg2.png",
+    "QuestID": 6025124,
+    "RewardID": 0,
+    "StoryID": 12,
+    "StoryTitle": {
+      "Hash": 1898392288
+    },
+    "UnlockDesc": {
+      "Hash": -768177380
+    },
+    "EndingID": 3
+  },
+  {
+    "StoryUnlockImage": "SpriteOutput/Quest/SwordTraining/CoverImg/SwordTrainingCoverImgLock4.png",
+    "StoryImage": "SpriteOutput/Quest/SwordTraining/CoverImg/SwordTrainingCoverImg3.png",
+    "QuestID": 6025126,
+    "RewardID": 0,
+    "StoryID": 13,
+    "StoryTitle": {
+      "Hash": 1495107761
+    },
+    "UnlockDesc": {
+      "Hash": -364892853
+    },
+    "EndingID": 4
+  },
+  {
+    "StoryUnlockImage": "SpriteOutput/Quest/SwordTraining/CoverImg/SwordTrainingCoverImgLock3.png",
+    "StoryImage": "SpriteOutput/Quest/SwordTraining/CoverImg/SwordTrainingCoverImg4.png",
+    "QuestID": 6025127,
+    "RewardID": 0,
+    "StoryID": 14,
+    "StoryTitle": {
+      "Hash": -1233775594
+    },
+    "UnlockDesc": {
+      "Hash": -1930976794
+    },
+    "EndingID": 5
+  }
+]

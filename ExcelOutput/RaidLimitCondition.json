@@ -1,0 +1,68 @@
+[
+  {
+    "ParamIntList": [],
+    "LimitType": "HasMainMission",
+    "ID": 3,
+    "ParamInt2": 0,
+    "LimitDesc": {
+      "Hash": -1435848261
+    },
+    "ParamInt1": 2011301,
+    "ParamType": "Equal"
+  },
+  {
+    "ParamIntList": [],
+    "LimitType": "FinishQuest",
+    "ID": 10,
+    "ParamInt2": 0,
+    "LimitDesc": {
+      "Hash": -1401718687
+    },
+    "ParamInt1": 6030010,
+    "ParamType": "Equal"
+  },
+  {
+    "ParamIntList": [],
+    "LimitType": "FinishQuest",
+    "ID": 14,
+    "ParamInt2": 0,
+    "LimitDesc": {
+      "Hash": 371857150
+    },
+    "ParamInt1": 6030015,
+    "ParamType": "Equal"
+  },
+  {
+    "ParamIntList": [],
+    "LimitType": "FinishQuest",
+    "ID": 15,
+    "ParamInt2": 0,
+    "LimitDesc": {
+      "Hash": 371857150
+    },
+    "ParamInt1": 6030016,
+    "ParamType": "Equal"
+  },
+  {
+    "ParamIntList": [],
+    "LimitType": "FinishQuest",
+    "ID": 16,
+    "ParamInt2": 0,
+    "LimitDesc": {
+      "Hash": 371857150
+    },
+    "ParamInt1": 6030017,
+    "ParamType": "Equal"
+  },
+  {
+    "ParamIntList": [],
+    "LimitType": "FinishQuest",
+    "ID": 17,
+    "ParamInt2": 0,
+    "LimitDesc": {
+      "Hash": 371857150
+    },
+    "ParamInt1": 6030018,
+    "ParamType": "Equal"
+  }
+]

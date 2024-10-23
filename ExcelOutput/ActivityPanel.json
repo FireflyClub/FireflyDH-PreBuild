@@ -1,0 +1,5656 @@
+[
+  {
+    "UIPrefab": "UI/Quest/Widget/SevenDayRewardPanel.prefab",
+    "UnlockConditions": "[FinishMainMission:1000510]",
+    "FinishConditions": [],
+    "DisplayItemList": [],
+    "TabIcon": "SpriteOutput/Quest/TabIcon/BtnSevenDayReward2.png",
+    "FinishType": "None",
+    "PanelDesc": {
+      "Hash": 371857150
+    },
+    "TitleName": {
+      "Hash": -1661041984
+    },
+    "IsSkipSwitchStoryLine": false,
+    "DisplayItemManualSort": false,
+    "DailyHint": false,
+    "PanelID": 10014,
+    "TagDesc": {
+      "Hash": 1452015932
+    },
+    "TabName": {
+      "Hash": -1251713569
+    },
+    "IntroDesc": {
+      "Hash": -916758154
+    },
+    "SortWeight": 3010,
+    "ActivityThemeID": 0
+  },
+  {
+    "UIPrefab": "UI/Quest/Widget/QuestExploitMissionPanel.prefab",
+    "UnlockConditions": "[FinishMainMission:1000510]",
+    "FinishConditions": [],
+    "DisplayItemList": [],
+    "TabIcon": "SpriteOutput/Quest/TabIcon/BtnQuestExploitMission.png",
+    "FinishType": "None",
+    "PanelDesc": {
+      "Hash": 371857150
+    },
+    "TitleName": {
+      "Hash": -1661041983
+    },
+    "IsSkipSwitchStoryLine": false,
+    "DisplayItemManualSort": false,
+    "DailyHint": false,
+    "PanelID": 10015,
+    "TagDesc": {
+      "Hash": 1452015933
+    },
+    "TabName": {
+      "Hash": -1251713570
+    },
+    "IntroDesc": {
+      "Hash": -916758155
+    },
+    "SortWeight": 3001,
+    "ActivityThemeID": 0
+  },
+  {
+    "UIPrefab": "UI/Quest/Widget/QuestNewbieMissionPanel.prefab",
+    "UnlockConditions": "[FinishMainMission:1000510]",
+    "FinishConditions": [],
+    "DisplayItemList": [],
+    "TabIcon": "SpriteOutput/Quest/TabIcon/BtnQuestNewbieMission.png",
+    "FinishType": "None",
+    "PanelDesc": {
+      "Hash": 371857150
+    },
+    "TitleName": {
+      "Hash": -1661041982
+    },
+    "IsSkipSwitchStoryLine": false,
+    "DisplayItemManualSort": false,
+    "DailyHint": false,
+    "PanelID": 10016,
+    "TagDesc": {
+      "Hash": 1452015934
+    },
+    "TabName": {
+      "Hash": -1251713571
+    },
+    "IntroDesc": {
+      "Hash": -916758152
+    },
+    "SortWeight": 3000,
+    "ActivityThemeID": 0
+  },
+  {
+    "UIPrefab": "UI/Quest/Widget/SingleTaskActivityPanel.prefab",
+    "UnlockConditions": "[FinishMainMission:1000510]",
+    "FinishConditions": [],
+    "DisplayItemList": [],
+    "TabIcon": "SpriteOutput/Quest/TabIcon/BtnImgSingleTask.png",
+    "FinishType": "None",
+    "PanelDesc": {
+      "Hash": 371857150
+    },
+    "TitleName": {
+      "Hash": -1661041981
+    },
+    "IsSkipSwitchStoryLine": false,
+    "DisplayItemManualSort": false,
+    "DailyHint": false,
+    "PanelID": 10017,
+    "TagDesc": {
+      "Hash": 1452015935
+    },
+    "TabName": {
+      "Hash": -1251713572
+    },
+    "IntroDesc": {
+      "Hash": -916758153
+    },
+    "SortWeight": 2000,
+    "ActivityThemeID": 1002
+  },
+  {
+    "UIPrefab": "UI/Quest/Widget/SevenDayRewardPanelVersion.prefab",
+    "UnlockConditions": "[FinishMainMission:1000510]",
+    "FinishConditions": [],
+    "DisplayItemList": [],
+    "TabIcon": "SpriteOutput/Quest/TabIcon/BtnSevenDayVervionDH.png",
+    "FinishType": "None",
+    "PanelDesc": {
+      "Hash": 371857150
+    },
+    "TitleName": {
+      "Hash": -1661041980
+    },
+    "IsSkipSwitchStoryLine": false,
+    "DisplayItemManualSort": false,
+    "DailyHint": false,
+    "PanelID": 10018,
+    "TagDesc": {
+      "Hash": 1452015944
+    },
+    "TabName": {
+      "Hash": -1251713565
+    },
+    "IntroDesc": {
+      "Hash": -916758142
+    },
+    "SortWeight": 3011,
+    "ActivityThemeID": 0
+  },
+  {
+    "UIPrefab": "UI/Quest/Widget/PlayerReturnPanel.prefab",
+    "UnlockConditions": "[PlayerLevel:10],[FinishMainMission:1010403]",
+    "FinishConditions": [],
+    "DisplayItemList": [],
+    "TabIcon": "SpriteOutput/Quest/TabIcon/BtnQuesPlayerReturn.png",
+    "FinishType": "None",
+    "PanelDesc": {
+      "Hash": 371857150
+    },
+    "TitleName": {
+      "Hash": -1661041979
+    },
+    "IsSkipSwitchStoryLine": false,
+    "DisplayItemManualSort": false,
+    "DailyHint": false,
+    "PanelID": 10019,
+    "TagDesc": {
+      "Hash": 1452015945
+    },
+    "TabName": {
+      "Hash": -1251713566
+    },
+    "IntroDesc": {
+      "Hash": -916758143
+    },
+    "SortWeight": 8000,
+    "ActivityThemeID": 0
+  },
+  {
+    "UIPrefab": "UI/Quest/Widget/QuestDoubleFarmCocoonPanel.prefab",
+    "UnlockConditions": "[FinishMainMission:4010121]",
+    "FinishConditions": [],
+    "DisplayItemList": [],
+    "TabIcon": "SpriteOutput/Quest/TabIcon/BtnDoubleCocoon.png",
+    "FinishType": "None",
+    "PanelDesc": {
+      "Hash": 1427255767
+    },
+    "TitleName": {
+      "Hash": -1257757461
+    },
+    "IsSkipSwitchStoryLine": false,
+    "DisplayItemManualSort": false,
+    "DailyHint": false,
+    "PanelID": 10020,
+    "TagDesc": {
+      "Hash": 1855300463
+    },
+    "TabName": {
+      "Hash": -848429046
+    },
+    "IntroDesc": {
+      "Hash": 649325791
+    },
+    "SortWeight": 6001,
+    "ActivityThemeID": 0
+  },
+  {
+    "UIPrefab": "UI/Quest/Widget/QuestFarmMultipleDropPanel.prefab",
+    "UnlockConditions": "[PlayerLevel:21]",
+    "FinishConditions": [],
+    "DisplayItemList": [],
+    "TabIcon": "SpriteOutput/Quest/TabIcon/BtnFarmMultipleDrop.png",
+    "FinishType": "None",
+    "PanelDesc": {
+      "Hash": 1427255766
+    },
+    "TitleName": {
+      "Hash": -1257757460
+    },
+    "IsSkipSwitchStoryLine": false,
+    "DisplayItemManualSort": false,
+    "DailyHint": false,
+    "PanelID": 10021,
+    "TagDesc": {
+      "Hash": 1855300464
+    },
+    "TabName": {
+      "Hash": -848429047
+    },
+    "IntroDesc": {
+      "Hash": 649325790
+    },
+    "SortWeight": 6001,
+    "ActivityThemeID": 0
+  },
+  {
+    "UIPrefab": "UI/Quest/SevenDay/SevenDayRewardPanelVersion0120.prefab",
+    "UnlockConditions": "[FinishMainMission:1000510]",
+    "FinishConditions": [],
+    "DisplayItemList": [],
+    "TabIcon": "SpriteOutput/Quest/TabIcon/BtnSevenDayRewardPanelVersion0120.png",
+    "FinishType": "None",
+    "PanelDesc": {
+      "Hash": 371857150
+    },
+    "TitleName": {
+      "Hash": -1257757458
+    },
+    "IsSkipSwitchStoryLine": false,
+    "DisplayItemManualSort": false,
+    "DailyHint": false,
+    "PanelID": 10023,
+    "TagDesc": {
+      "Hash": 1855300466
+    },
+    "TabName": {
+      "Hash": -848429049
+    },
+    "IntroDesc": {
+      "Hash": 649325792
+    },
+    "SortWeight": 3012,
+    "ActivityThemeID": 0
+  },
+  {
+    "UIPrefab": "UI/Quest/Widget/QuestFarmMultipleDrop2SetPanel.prefab",
+    "UnlockConditions": "[FinishMainMission:1011502]",
+    "FinishConditions": [],
+    "DisplayItemList": [],
+    "TabIcon": "SpriteOutput/Quest/TabIcon/BtnFarmMultipleDrop2Set.png",
+    "FinishType": "None",
+    "PanelDesc": {
+      "Hash": 1427255763
+    },
+    "TitleName": {
+      "Hash": -1257757457
+    },
+    "IsSkipSwitchStoryLine": false,
+    "DisplayItemManualSort": false,
+    "DailyHint": false,
+    "PanelID": 10024,
+    "TagDesc": {
+      "Hash": 1855300459
+    },
+    "TabName": {
+      "Hash": -848429042
+    },
+    "IntroDesc": {
+      "Hash": 649325787
+    },
+    "SortWeight": 6001,
+    "ActivityThemeID": 0
+  },
+  {
+    "UIPrefab": "UI/Quest/Widget/QuestAbyssPanel.prefab",
+    "UnlockConditions": "[QuestClose:3000018]",
+    "FinishConditions": [],
+    "DisplayItemList": [],
+    "TabIcon": "SpriteOutput/Quest/TabIcon/BtnAbyssReward_1207.png",
+    "FinishType": "None",
+    "PanelDesc": {
+      "Hash": 1427255762
+    },
+    "TitleName": {
+      "Hash": -1257757456
+    },
+    "IsSkipSwitchStoryLine": false,
+    "DisplayItemManualSort": false,
+    "DailyHint": false,
+    "PanelID": 10025,
+    "TagDesc": {
+      "Hash": 1855300460
+    },
+    "TabName": {
+      "Hash": -848429043
+    },
+    "IntroDesc": {
+      "Hash": 649325786
+    },
+    "SortWeight": 2000,
+    "ActivityThemeID": 1002
+  },
+  {
+    "UIPrefab": "UI/Quest/Widget/QuestFarmMultipleDrop2SetPanel.prefab",
+    "UnlockConditions": "[FinishMainMission:1011502]",
+    "FinishConditions": [],
+    "DisplayItemList": [],
+    "TabIcon": "SpriteOutput/Quest/TabIcon/BtnFarmMultipleDrop2Set.png",
+    "FinishType": "None",
+    "PanelDesc": {
+      "Hash": 1427255765
+    },
+    "TitleName": {
+      "Hash": -1257757455
+    },
+    "IsSkipSwitchStoryLine": false,
+    "DisplayItemManualSort": false,
+    "DailyHint": false,
+    "PanelID": 10026,
+    "TagDesc": {
+      "Hash": 1855300461
+    },
+    "TabName": {
+      "Hash": -848429044
+    },
+    "IntroDesc": {
+      "Hash": 649325789
+    },
+    "SortWeight": 6001,
+    "ActivityThemeID": 0
+  },
+  {
+    "UIPrefab": "UI/Quest/SevenDay/SevenDayRewardPanelVersion0130.prefab",
+    "UnlockConditions": "[FinishMainMission:1000510]",
+    "FinishConditions": [],
+    "DisplayItemList": [],
+    "TabIcon": "SpriteOutput/Quest/TabIcon/BtnSevenDayVersion0130.png",
+    "FinishType": "None",
+    "PanelDesc": {
+      "Hash": 371857150
+    },
+    "TitleName": {
+      "Hash": -1257757453
+    },
+    "IsSkipSwitchStoryLine": false,
+    "DisplayItemManualSort": false,
+    "DailyHint": false,
+    "PanelID": 10028,
+    "TagDesc": {
+      "Hash": 1855300471
+    },
+    "TabName": {
+      "Hash": -848429038
+    },
+    "IntroDesc": {
+      "Hash": 649325799
+    },
+    "SortWeight": 3013,
+    "ActivityThemeID": 0
+  },
+  {
+    "UIPrefab": "UI/Quest/SevenDay/SevenDayRewardPanelVersion0140.prefab",
+    "UnlockConditions": "[FinishMainMission:1000510]",
+    "FinishConditions": [],
+    "DisplayItemList": [],
+    "TabIcon": "SpriteOutput/Quest/TabIcon/BtnSevenDayVersion0140.png",
+    "FinishType": "None",
+    "PanelDesc": {
+      "Hash": 371857150
+    },
+    "TitleName": {
+      "Hash": 1471125896
+    },
+    "IsSkipSwitchStoryLine": false,
+    "DisplayItemManualSort": false,
+    "DailyHint": false,
+    "PanelID": 10032,
+    "TagDesc": {
+      "Hash": 289216524
+    },
+    "TabName": {
+      "Hash": 1880454307
+    },
+    "IntroDesc": {
+      "Hash": -2079557562
+    },
+    "SortWeight": 3014,
+    "ActivityThemeID": 0
+  },
+  {
+    "UIPrefab": "UI/Quest/SevenDay/SevenDayRewardPanelVersion0150.prefab",
+    "UnlockConditions": "[FinishMainMission:1000510]",
+    "FinishConditions": [],
+    "DisplayItemList": [],
+    "TabIcon": "SpriteOutput/Quest/TabIcon/BtnSevenDayVersion0150.png",
+    "FinishType": "None",
+    "PanelDesc": {
+      "Hash": 371857150
+    },
+    "TitleName": {
+      "Hash": 1471125899
+    },
+    "IsSkipSwitchStoryLine": false,
+    "DisplayItemManualSort": false,
+    "DailyHint": false,
+    "PanelID": 10035,
+    "TagDesc": {
+      "Hash": 289216519
+    },
+    "TabName": {
+      "Hash": 1880454312
+    },
+    "IntroDesc": {
+      "Hash": -2079557569
+    },
+    "SortWeight": 3015,
+    "ActivityThemeID": 0
+  },
+  {
+    "UIPrefab": "UI/Quest/SevenDay/SevenDayRewardPanelVersion0131.prefab",
+    "UnlockConditions": "[FinishMainMission:1000510]",
+    "FinishConditions": [],
+    "DisplayItemList": [],
+    "TabIcon": "SpriteOutput/Quest/TabIcon/BtnSevenDayVersion0131.png",
+    "FinishType": "None",
+    "PanelDesc": {
+      "Hash": 371857150
+    },
+    "TitleName": {
+      "Hash": 1471125903
+    },
+    "IsSkipSwitchStoryLine": false,
+    "DisplayItemManualSort": false,
+    "DailyHint": false,
+    "PanelID": 10039,
+    "TagDesc": {
+      "Hash": 289216531
+    },
+    "TabName": {
+      "Hash": 1880454316
+    },
+    "IntroDesc": {
+      "Hash": -2079557557
+    },
+    "SortWeight": 3016,
+    "ActivityThemeID": 0
+  },
+  {
+    "UIPrefab": "UI/Quest/SevenDay/SevenDayRewardPanelVersion0160.prefab",
+    "UnlockConditions": "[FinishMainMission:1000510]",
+    "FinishConditions": [],
+    "DisplayItemList": [],
+    "TabIcon": "SpriteOutput/Quest/TabIcon/BtnSevenDayVersion0160.png",
+    "FinishType": "None",
+    "PanelDesc": {
+      "Hash": 371857150
+    },
+    "TitleName": {
+      "Hash": -2064326515
+    },
+    "IsSkipSwitchStoryLine": false,
+    "DisplayItemManualSort": false,
+    "DailyHint": false,
+    "PanelID": 10040,
+    "TagDesc": {
+      "Hash": 1048731409
+    },
+    "TabName": {
+      "Hash": -2011228460
+    },
+    "IntroDesc": {
+      "Hash": -513473623
+    },
+    "SortWeight": 3017,
+    "ActivityThemeID": 0
+  },
+  {
+    "UIPrefab": "UI/Quest/Widget/QuestChallengeStoryPanel.prefab",
+    "UnlockConditions": "[FinishMainMission:4020102]",
+    "FinishConditions": [],
+    "DisplayItemList": [],
+    "TabIcon": "SpriteOutput/Quest/TabIcon/BtnChallengeStoryReward_1110.png",
+    "FinishType": "None",
+    "PanelDesc": {
+      "Hash": 264456352
+    },
+    "TitleName": {
+      "Hash": -2064326514
+    },
+    "IsSkipSwitchStoryLine": false,
+    "DisplayItemManualSort": false,
+    "DailyHint": false,
+    "PanelID": 10041,
+    "TagDesc": {
+      "Hash": 1048731410
+    },
+    "TabName": {
+      "Hash": -2011228461
+    },
+    "IntroDesc": {
+      "Hash": -513473624
+    },
+    "SortWeight": 2001,
+    "ActivityThemeID": 1002
+  },
+  {
+    "UIPrefab": "UI/Quest/Widget/PlayerReturnRecallPanel2.prefab",
+    "UnlockConditions": "[PlayerLevel:10],[FinishMainMission:1010403]",
+    "FinishConditions": [],
+    "DisplayItemList": [],
+    "TabIcon": "SpriteOutput/Quest/TabIcon/BtnQuestRetrunRecall.png",
+    "FinishType": "None",
+    "PanelDesc": {
+      "Hash": 264456354
+    },
+    "TitleName": {
+      "Hash": -2064326512
+    },
+    "IsSkipSwitchStoryLine": false,
+    "DisplayItemManualSort": false,
+    "DailyHint": false,
+    "PanelID": 10043,
+    "TagDesc": {
+      "Hash": 1048731412
+    },
+    "TabName": {
+      "Hash": -2011228463
+    },
+    "IntroDesc": {
+      "Hash": -513473622
+    },
+    "SortWeight": 5900,
+    "ActivityThemeID": 0
+  },
+  {
+    "UIPrefab": "UI/Quest/SevenDay/SevenDayRewardPanelVersion0200.prefab",
+    "UnlockConditions": "[FinishMainMission:1000510]",
+    "FinishConditions": [],
+    "DisplayItemList": [],
+    "TabIcon": "SpriteOutput/Quest/TabIcon/BtnSevenDayVersion0200.png",
+    "FinishType": "None",
+    "PanelDesc": {
+      "Hash": 371857150
+    },
+    "TitleName": {
+      "Hash": -2064326508
+    },
+    "IsSkipSwitchStoryLine": false,
+    "DisplayItemManualSort": false,
+    "DailyHint": false,
+    "PanelID": 10047,
+    "TagDesc": {
+      "Hash": 1048731408
+    },
+    "TabName": {
+      "Hash": -2011228459
+    },
+    "IntroDesc": {
+      "Hash": -513473626
+    },
+    "SortWeight": 3018,
+    "ActivityThemeID": 0
+  },
+  {
+    "UIPrefab": "UI/Quest/SevenDay/SevenDayRewardPanelVersion0220.prefab",
+    "UnlockConditions": "[FinishMainMission:1000510]",
+    "FinishConditions": [],
+    "DisplayItemList": [],
+    "TabIcon": "SpriteOutput/Quest/TabIcon/BtnSevenDayVersion0220.png",
+    "FinishType": "None",
+    "PanelDesc": {
+      "Hash": 371857150
+    },
+    "TitleName": {
+      "Hash": 664556846
+    },
+    "IsSkipSwitchStoryLine": false,
+    "DisplayItemManualSort": false,
+    "DailyHint": false,
+    "PanelID": 10056,
+    "TagDesc": {
+      "Hash": -517352534
+    },
+    "TabName": {
+      "Hash": 717654897
+    },
+    "IntroDesc": {
+      "Hash": 1052610316
+    },
+    "SortWeight": 7999,
+    "ActivityThemeID": 0
+  },
+  {
+    "UIPrefab": "UI/Quest/SevenDay/SevenDayRewardPanelVersion0230.prefab",
+    "UnlockConditions": "[FinishMainMission:1000510]",
+    "FinishConditions": [],
+    "DisplayItemList": [],
+    "TabIcon": "SpriteOutput/Quest/TabIcon/BtnSevenDayVersion0230.png",
+    "FinishType": "None",
+    "PanelDesc": {
+      "Hash": 371857150
+    },
+    "TitleName": {
+      "Hash": 664556847
+    },
+    "IsSkipSwitchStoryLine": false,
+    "DisplayItemManualSort": false,
+    "DailyHint": false,
+    "PanelID": 10057,
+    "TagDesc": {
+      "Hash": -517352533
+    },
+    "TabName": {
+      "Hash": 717654896
+    },
+    "IntroDesc": {
+      "Hash": 1052610315
+    },
+    "SortWeight": 7900,
+    "ActivityThemeID": 0
+  },
+  {
+    "UIPrefab": "UI/Quest/SevenDay/SevenDayRewardPanelVersion0240.prefab",
+    "UnlockConditions": "[FinishMainMission:1000510]",
+    "FinishConditions": [],
+    "DisplayItemList": [],
+    "TabIcon": "SpriteOutput/Quest/TabIcon/BtnSevenDayVersion0240.png",
+    "FinishType": "None",
+    "PanelDesc": {
+      "Hash": 371857150
+    },
+    "TitleName": {
+      "Hash": 664556848
+    },
+    "IsSkipSwitchStoryLine": false,
+    "DisplayItemManualSort": false,
+    "DailyHint": false,
+    "PanelID": 10058,
+    "TagDesc": {
+      "Hash": -517352524
+    },
+    "TabName": {
+      "Hash": 717654903
+    },
+    "IntroDesc": {
+      "Hash": 1052610326
+    },
+    "SortWeight": 7900,
+    "ActivityThemeID": 0
+  },
+  {
+    "UIPrefab": "UI/Quest/Widget/QuestChallengeBoss.prefab",
+    "UnlockConditions": "[FinishMainMission:4020103]|[FinishMainMission:4010106]|[FinishSubMission:801710102]",
+    "FinishConditions": [],
+    "DisplayItemList": [
+      {
+        "ItemNum": 800,
+        "ItemID": 1
+      },
+      {
+        "ItemNum": 600,
+        "ItemID": 262
+      },
+      {
+        "ItemNum": 24,
+        "ItemID": 213
+      },
+      {
+        "ItemNum": 12,
+        "ItemID": 223
+      },
+      {
+        "ItemNum": 24,
+        "ItemID": 233
+      },
+      {
+        "ItemNum": 96,
+        "ItemID": 261
+      },
+      {
+        "ItemNum": 360000,
+        "ItemID": 2
+      }
+    ],
+    "TabIcon": "SpriteOutput/Quest/TabIcon/BtnAbyssAlternation.png",
+    "FinishType": "None",
+    "PanelDesc": {
+      "Hash": 371857150
+    },
+    "TitleName": {
+      "Hash": 1067841368
+    },
+    "IsSkipSwitchStoryLine": false,
+    "DisplayItemManualSort": false,
+    "DailyHint": false,
+    "PanelID": 10061,
+    "TagDesc": {
+      "Hash": -114068004
+    },
+    "TabName": {
+      "Hash": 1120939421
+    },
+    "IntroDesc": {
+      "Hash": -1676273038
+    },
+    "SortWeight": 2002,
+    "ActivityThemeID": 1002
+  },
+  {
+    "UIPrefab": "UI/Quest/Widget/QuestChallengeBossPanel.prefab",
+    "UnlockConditions": "[FinishMainMission:4020103]",
+    "FinishConditions": [],
+    "DisplayItemList": [
+      {
+        "ItemNum": 300,
+        "ItemID": 1
+      },
+      {
+        "ItemNum": 1,
+        "ItemID": 236
+      }
+    ],
+    "TabIcon": "SpriteOutput/Quest/TabIcon/BtnChallengeBossReward_1214.png",
+    "FinishType": "None",
+    "PanelDesc": {
+      "Hash": -898343059
+    },
+    "TitleName": {
+      "Hash": 1067841369
+    },
+    "IsSkipSwitchStoryLine": false,
+    "DisplayItemManualSort": false,
+    "DailyHint": false,
+    "PanelID": 10062,
+    "TagDesc": {
+      "Hash": -114068003
+    },
+    "TabName": {
+      "Hash": 1120939420
+    },
+    "IntroDesc": {
+      "Hash": -1676273035
+    },
+    "SortWeight": 2000,
+    "ActivityThemeID": 1002
+  },
+  {
+    "UIPrefab": "UI/Quest/Widget/QuestHarmonyHeroPanel.prefab",
+    "UnlockConditions": "[FinishMainMission:1011403]",
+    "FinishConditions": [],
+    "DisplayItemList": [],
+    "TabIcon": "SpriteOutput/Quest/TabIcon/BtnQuestHarmonyHero.png",
+    "FinishType": "None",
+    "PanelDesc": {
+      "Hash": 371857150
+    },
+    "TitleName": {
+      "Hash": 1067841375
+    },
+    "IsSkipSwitchStoryLine": false,
+    "DisplayItemManualSort": false,
+    "DailyHint": false,
+    "PanelID": 10068,
+    "TagDesc": {
+      "Hash": -114067997
+    },
+    "TabName": {
+      "Hash": 1120939430
+    },
+    "IntroDesc": {
+      "Hash": -1676273029
+    },
+    "SortWeight": 7910,
+    "ActivityThemeID": 0
+  },
+  {
+    "UIPrefab": "UI/Quest/Widget/RoleTrialPanel.prefab",
+    "UnlockConditions": "[FinishMainMission:1000510]",
+    "FinishConditions": [],
+    "DisplayItemList": [],
+    "TabIcon": "SpriteOutput/Quest/TabIcon/BtnQuestRoleTrial.png",
+    "FinishType": "None",
+    "PanelDesc": {
+      "Hash": 371857150
+    },
+    "TitleName": {
+      "Hash": -94952669
+    },
+    "IsSkipSwitchStoryLine": false,
+    "DisplayItemManualSort": false,
+    "DailyHint": false,
+    "PanelID": 20001,
+    "TagDesc": {
+      "Hash": -1276866265
+    },
+    "TabName": {
+      "Hash": 314364990
+    },
+    "IntroDesc": {
+      "Hash": 1812128407
+    },
+    "SortWeight": 5000,
+    "ActivityThemeID": 0
+  },
+  {
+    "UIPrefab": "UI/Quest/Widget/RoleTrialPanel.prefab",
+    "UnlockConditions": "[FinishMainMission:1000510]",
+    "FinishConditions": [],
+    "DisplayItemList": [],
+    "TabIcon": "SpriteOutput/Quest/TabIcon/BtnQuestRoleTrial2.png",
+    "FinishType": "None",
+    "PanelDesc": {
+      "Hash": 371857150
+    },
+    "TitleName": {
+      "Hash": -94952670
+    },
+    "IsSkipSwitchStoryLine": false,
+    "DisplayItemManualSort": false,
+    "DailyHint": false,
+    "PanelID": 20002,
+    "TagDesc": {
+      "Hash": 371857150
+    },
+    "TabName": {
+      "Hash": 314364991
+    },
+    "IntroDesc": {
+      "Hash": 1812128404
+    },
+    "SortWeight": 5001,
+    "ActivityThemeID": 0
+  },
+  {
+    "UIPrefab": "UI/Quest/Widget/QuestAntiVirusPanel.prefab",
+    "UnlockConditions": "[PlayerLevel:22]",
+    "FinishConditions": [],
+    "DisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 1
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 241
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 213
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 223
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 233
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      }
+    ],
+    "TabIcon": "SpriteOutput/Quest/TabIcon/BtnAntiVirus.png",
+    "FinishType": "None",
+    "PanelDesc": {
+      "Hash": -1704909939
+    },
+    "TitleName": {
+      "Hash": -94955871
+    },
+    "IsSkipSwitchStoryLine": false,
+    "DisplayItemManualSort": false,
+    "DailyHint": false,
+    "PanelID": 30002,
+    "TagDesc": {
+      "Hash": -1276865243
+    },
+    "TabName": {
+      "Hash": 314368192
+    },
+    "IntroDesc": {
+      "Hash": 1812127381
+    },
+    "SortWeight": 6001,
+    "ActivityThemeID": 0
+  },
+  {
+    "UIPrefab": "UI/Quest/Widget/QuestBoxingClubPanel.prefab",
+    "UnlockConditions": "[PlayerLevel:21]",
+    "FinishConditions": [],
+    "DisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 1
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 241
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 213
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 235
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 232
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 110112
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      }
+    ],
+    "TabIcon": "SpriteOutput/Quest/TabIcon/BtnQuestStarBattle.png",
+    "FinishType": "None",
+    "PanelDesc": {
+      "Hash": 371857150
+    },
+    "TitleName": {
+      "Hash": -94950491
+    },
+    "IsSkipSwitchStoryLine": false,
+    "DisplayItemManualSort": false,
+    "DailyHint": false,
+    "PanelID": 40001,
+    "TagDesc": {
+      "Hash": -1276872799
+    },
+    "TabName": {
+      "Hash": 314371524
+    },
+    "IntroDesc": {
+      "Hash": 1812121873
+    },
+    "SortWeight": 6001,
+    "ActivityThemeID": 0
+  },
+  {
+    "UIPrefab": "UI/Quest/Widget/QuestFistClubPaperPanel.prefab",
+    "UnlockConditions": "[PlayerLevel:21],[FinishMainMission:1011001]",
+    "FinishConditions": [],
+    "DisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 1
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 241
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 213
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 223
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 232
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      }
+    ],
+    "TabIcon": "SpriteOutput/Quest/TabIcon/BtnFistClubQuestMission.png",
+    "FinishType": "None",
+    "PanelDesc": {
+      "Hash": 371857150
+    },
+    "TitleName": {
+      "Hash": -94953691
+    },
+    "IsSkipSwitchStoryLine": false,
+    "DisplayItemManualSort": false,
+    "DailyHint": false,
+    "PanelID": 50000,
+    "TagDesc": {
+      "Hash": -1276871775
+    },
+    "TabName": {
+      "Hash": 314374724
+    },
+    "IntroDesc": {
+      "Hash": 1812120849
+    },
+    "SortWeight": 6001,
+    "ActivityThemeID": 0
+  },
+  {
+    "UIPrefab": "UI/Quest/Widget/QuestGraffitiPixelPanel.prefab",
+    "UnlockConditions": "[PlayerLevel:21]",
+    "FinishConditions": [],
+    "DisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 241
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 1
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 22000
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 213
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 110406
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 110112
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      }
+    ],
+    "TabIcon": "SpriteOutput/Quest/TabIcon/BtnQuestGraffiti.png",
+    "FinishType": "None",
+    "PanelDesc": {
+      "Hash": 371857150
+    },
+    "TitleName": {
+      "Hash": -94953690
+    },
+    "IsSkipSwitchStoryLine": false,
+    "DisplayItemManualSort": true,
+    "DailyHint": false,
+    "PanelID": 50001,
+    "TagDesc": {
+      "Hash": -1276871774
+    },
+    "TabName": {
+      "Hash": 314374723
+    },
+    "IntroDesc": {
+      "Hash": 371857150
+    },
+    "SortWeight": 6000,
+    "ActivityThemeID": 0
+  },
+  {
+    "UIPrefab": "UI/Quest/Widget/QuestMuseumPanel.prefab",
+    "UnlockConditions": "[PlayerLevel:21]",
+    "FinishConditions": [],
+    "DisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 1
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 236
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 241
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 213
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 223
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 233
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      }
+    ],
+    "TabIcon": "SpriteOutput/Quest/TabIcon/BtnQuestMuseum.png",
+    "FinishType": "None",
+    "PanelDesc": {
+      "Hash": 371857150
+    },
+    "TitleName": {
+      "Hash": -94953689
+    },
+    "IsSkipSwitchStoryLine": false,
+    "DisplayItemManualSort": false,
+    "DailyHint": false,
+    "PanelID": 50002,
+    "TagDesc": {
+      "Hash": -1276871773
+    },
+    "TabName": {
+      "Hash": 314374722
+    },
+    "IntroDesc": {
+      "Hash": 1812120851
+    },
+    "SortWeight": 6001,
+    "ActivityThemeID": 0
+  },
+  {
+    "UIPrefab": "UI/Quest/Widget/RoleTrialPanel.prefab",
+    "UnlockConditions": "[FinishMainMission:1000510]",
+    "FinishConditions": [],
+    "DisplayItemList": [],
+    "TabIcon": "SpriteOutput/Quest/TabIcon/BtnQuestRoleTrial2.png",
+    "FinishType": "None",
+    "PanelDesc": {
+      "Hash": 371857150
+    },
+    "TitleName": {
+      "Hash": -94952671
+    },
+    "IsSkipSwitchStoryLine": false,
+    "DisplayItemManualSort": false,
+    "DailyHint": false,
+    "PanelID": 20003,
+    "TagDesc": {
+      "Hash": -1276866267
+    },
+    "TabName": {
+      "Hash": 314364992
+    },
+    "IntroDesc": {
+      "Hash": 1812128405
+    },
+    "SortWeight": 5002,
+    "ActivityThemeID": 0
+  },
+  {
+    "UIPrefab": "UI/Quest/Widget/QuestTreasureTrotterPanel.prefab",
+    "UnlockConditions": "[PlayerLevel:21],[FinishMainMission:1010701]",
+    "FinishConditions": [],
+    "DisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 1
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 213
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 223
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 233
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 241
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 110112
+      }
+    ],
+    "TabIcon": "SpriteOutput/Quest/TabIcon/BtnQuestTreasureTrotter.png",
+    "FinishType": "None",
+    "PanelDesc": {
+      "Hash": -1704909941
+    },
+    "TitleName": {
+      "Hash": -94955865
+    },
+    "IsSkipSwitchStoryLine": false,
+    "DisplayItemManualSort": false,
+    "DailyHint": false,
+    "PanelID": 30004,
+    "TagDesc": {
+      "Hash": -1276865245
+    },
+    "TabName": {
+      "Hash": 314368194
+    },
+    "IntroDesc": {
+      "Hash": 1812127379
+    },
+    "SortWeight": 6001,
+    "ActivityThemeID": 0
+  },
+  {
+    "UIPrefab": "UI/Quest/Widget/RoleTrialPanel.prefab",
+    "UnlockConditions": "[FinishMainMission:1000510]",
+    "FinishConditions": [],
+    "DisplayItemList": [],
+    "TabIcon": "SpriteOutput/Quest/TabIcon/BtnQuestRoleTrial3.png",
+    "FinishType": "None",
+    "PanelDesc": {
+      "Hash": 371857150
+    },
+    "TitleName": {
+      "Hash": -94952665
+    },
+    "IsSkipSwitchStoryLine": false,
+    "DisplayItemManualSort": false,
+    "DailyHint": false,
+    "PanelID": 20005,
+    "TagDesc": {
+      "Hash": -1276866269
+    },
+    "TabName": {
+      "Hash": 314364994
+    },
+    "IntroDesc": {
+      "Hash": 1812128403
+    },
+    "SortWeight": 5003,
+    "ActivityThemeID": 0
+  },
+  {
+    "UIPrefab": "UI/Quest/Widget/RoleTrialPanel.prefab",
+    "UnlockConditions": "[FinishMainMission:1000510]",
+    "FinishConditions": [],
+    "DisplayItemList": [],
+    "TabIcon": "SpriteOutput/Quest/TabIcon/BtnQuestRoleTrial4.png",
+    "FinishType": "None",
+    "PanelDesc": {
+      "Hash": 371857150
+    },
+    "TitleName": {
+      "Hash": -94952666
+    },
+    "IsSkipSwitchStoryLine": false,
+    "DisplayItemManualSort": false,
+    "DailyHint": false,
+    "PanelID": 20006,
+    "TagDesc": {
+      "Hash": -1276866270
+    },
+    "TabName": {
+      "Hash": 314364995
+    },
+    "IntroDesc": {
+      "Hash": 1812128400
+    },
+    "SortWeight": 5004,
+    "ActivityThemeID": 0
+  },
+  {
+    "UIPrefab": "UI/Quest/Widget/RoleTrialPanel.prefab",
+    "UnlockConditions": "[FinishMainMission:1000510]",
+    "FinishConditions": [],
+    "DisplayItemList": [],
+    "TabIcon": "SpriteOutput/Quest/TabIcon/BtnQuestRoleTrial3.png",
+    "FinishType": "None",
+    "PanelDesc": {
+      "Hash": 371857150
+    },
+    "TitleName": {
+      "Hash": -94952667
+    },
+    "IsSkipSwitchStoryLine": false,
+    "DisplayItemManualSort": false,
+    "DailyHint": false,
+    "PanelID": 20007,
+    "TagDesc": {
+      "Hash": -1276866271
+    },
+    "TabName": {
+      "Hash": 314364996
+    },
+    "IntroDesc": {
+      "Hash": 1812128401
+    },
+    "SortWeight": 5005,
+    "ActivityThemeID": 0
+  },
+  {
+    "UIPrefab": "UI/Quest/Widget/RoleTrialPanel.prefab",
+    "UnlockConditions": "[FinishMainMission:1000510]",
+    "FinishConditions": [],
+    "DisplayItemList": [],
+    "TabIcon": "SpriteOutput/Quest/TabIcon/BtnQuestRoleTrial5.png",
+    "FinishType": "None",
+    "PanelDesc": {
+      "Hash": 371857150
+    },
+    "TitleName": {
+      "Hash": -94952660
+    },
+    "IsSkipSwitchStoryLine": false,
+    "DisplayItemManualSort": false,
+    "DailyHint": false,
+    "PanelID": 20008,
+    "TagDesc": {
+      "Hash": -1276866256
+    },
+    "TabName": {
+      "Hash": 314364997
+    },
+    "IntroDesc": {
+      "Hash": 1812128414
+    },
+    "SortWeight": 5006,
+    "ActivityThemeID": 0
+  },
+  {
+    "UIPrefab": "UI/Quest/Widget/RoleTrialPanel.prefab",
+    "UnlockConditions": "[FinishMainMission:1000510]",
+    "FinishConditions": [],
+    "DisplayItemList": [],
+    "TabIcon": "SpriteOutput/Quest/TabIcon/BtnQuestRoleTrial6.png",
+    "FinishType": "None",
+    "PanelDesc": {
+      "Hash": 371857150
+    },
+    "TitleName": {
+      "Hash": -94952661
+    },
+    "IsSkipSwitchStoryLine": false,
+    "DisplayItemManualSort": false,
+    "DailyHint": false,
+    "PanelID": 20009,
+    "TagDesc": {
+      "Hash": -1276866257
+    },
+    "TabName": {
+      "Hash": 314364998
+    },
+    "IntroDesc": {
+      "Hash": 1812128415
+    },
+    "SortWeight": 5007,
+    "ActivityThemeID": 0
+  },
+  {
+    "UIPrefab": "UI/Quest/Widget/RoleTrialPanel.prefab",
+    "UnlockConditions": "[FinishMainMission:1000510]",
+    "FinishConditions": [],
+    "DisplayItemList": [],
+    "TabIcon": "SpriteOutput/Quest/TabIcon/BtnQuestRoleTrial6.png",
+    "FinishType": "None",
+    "PanelDesc": {
+      "Hash": 371857150
+    },
+    "TitleName": {
+      "Hash": -1661036609
+    },
+    "IsSkipSwitchStoryLine": false,
+    "DisplayItemManualSort": false,
+    "DailyHint": false,
+    "PanelID": 20010,
+    "TagDesc": {
+      "Hash": 1452017091
+    },
+    "TabName": {
+      "Hash": -1251718952
+    },
+    "IntroDesc": {
+      "Hash": -916754949
+    },
+    "SortWeight": 5008,
+    "ActivityThemeID": 0
+  },
+  {
+    "UIPrefab": "UI/Quest/Widget/RoleTrialPanel.prefab",
+    "UnlockConditions": "[FinishMainMission:1000510]",
+    "FinishConditions": [],
+    "DisplayItemList": [],
+    "TabIcon": "SpriteOutput/Quest/TabIcon/BtnQuestRoleTrial7.png",
+    "FinishType": "None",
+    "PanelDesc": {
+      "Hash": 371857150
+    },
+    "TitleName": {
+      "Hash": -1661036610
+    },
+    "IsSkipSwitchStoryLine": false,
+    "DisplayItemManualSort": false,
+    "DailyHint": false,
+    "PanelID": 20011,
+    "TagDesc": {
+      "Hash": 1452017090
+    },
+    "TabName": {
+      "Hash": -1251718951
+    },
+    "IntroDesc": {
+      "Hash": -916754948
+    },
+    "SortWeight": 5007,
+    "ActivityThemeID": 0
+  },
+  {
+    "UIPrefab": "UI/Quest/Widget/RoleTrialPanel.prefab",
+    "UnlockConditions": "[FinishMainMission:1000510]",
+    "FinishConditions": [],
+    "DisplayItemList": [],
+    "TabIcon": "SpriteOutput/Quest/TabIcon/BtnQuestRoleTrial8.png",
+    "FinishType": "None",
+    "PanelDesc": {
+      "Hash": 371857150
+    },
+    "TitleName": {
+      "Hash": -1661036611
+    },
+    "IsSkipSwitchStoryLine": false,
+    "DisplayItemManualSort": false,
+    "DailyHint": false,
+    "PanelID": 20012,
+    "TagDesc": {
+      "Hash": 1452017089
+    },
+    "TabName": {
+      "Hash": -1251718950
+    },
+    "IntroDesc": {
+      "Hash": -916754951
+    },
+    "SortWeight": 5007,
+    "ActivityThemeID": 0
+  },
+  {
+    "UIPrefab": "UI/Quest/Widget/RoleTrialPanel.prefab",
+    "UnlockConditions": "[FinishMainMission:1000510]",
+    "FinishConditions": [],
+    "DisplayItemList": [],
+    "TabIcon": "SpriteOutput/Quest/TabIcon/BtnQuestRoleTrial7.png",
+    "FinishType": "None",
+    "PanelDesc": {
+      "Hash": 371857150
+    },
+    "TitleName": {
+      "Hash": -1661036612
+    },
+    "IsSkipSwitchStoryLine": false,
+    "DisplayItemManualSort": false,
+    "DailyHint": false,
+    "PanelID": 20013,
+    "TagDesc": {
+      "Hash": 1452017088
+    },
+    "TabName": {
+      "Hash": -1251718949
+    },
+    "IntroDesc": {
+      "Hash": -916754950
+    },
+    "SortWeight": 5008,
+    "ActivityThemeID": 0
+  },
+  {
+    "UIPrefab": "UI/Quest/Widget/RoleTrialPanel.prefab",
+    "UnlockConditions": "[FinishMainMission:1000510]",
+    "FinishConditions": [],
+    "DisplayItemList": [],
+    "TabIcon": "SpriteOutput/Quest/TabIcon/BtnQuestRoleTrial7.png",
+    "FinishType": "None",
+    "PanelDesc": {
+      "Hash": 371857150
+    },
+    "TitleName": {
+      "Hash": 371857150
+    },
+    "IsSkipSwitchStoryLine": false,
+    "DisplayItemManualSort": false,
+    "DailyHint": false,
+    "PanelID": 20015,
+    "TagDesc": {
+      "Hash": 1452017086
+    },
+    "TabName": {
+      "Hash": 371857150
+    },
+    "IntroDesc": {
+      "Hash": 371857150
+    },
+    "SortWeight": 5008,
+    "ActivityThemeID": 0
+  },
+  {
+    "UIPrefab": "UI/Quest/Widget/RoleTrialPanel.prefab",
+    "UnlockConditions": "[FinishMainMission:1000510]",
+    "FinishConditions": [],
+    "DisplayItemList": [],
+    "TabIcon": "SpriteOutput/Quest/TabIcon/BtnQuestRoleTrial10.png",
+    "FinishType": "None",
+    "PanelDesc": {
+      "Hash": 371857150
+    },
+    "TitleName": {
+      "Hash": -1661036601
+    },
+    "IsSkipSwitchStoryLine": false,
+    "DisplayItemManualSort": false,
+    "DailyHint": false,
+    "PanelID": 20018,
+    "TagDesc": {
+      "Hash": 1452017099
+    },
+    "TabName": {
+      "Hash": -1251718944
+    },
+    "IntroDesc": {
+      "Hash": -916754941
+    },
+    "SortWeight": 5008,
+    "ActivityThemeID": 0
+  },
+  {
+    "UIPrefab": "UI/Quest/Widget/RoleTrialPanel.prefab",
+    "UnlockConditions": "[FinishMainMission:1000510]",
+    "FinishConditions": [],
+    "DisplayItemList": [],
+    "TabIcon": "SpriteOutput/Quest/TabIcon/BtnQuestRoleTrial11.png",
+    "FinishType": "None",
+    "PanelDesc": {
+      "Hash": 371857150
+    },
+    "TitleName": {
+      "Hash": -1257752083
+    },
+    "IsSkipSwitchStoryLine": false,
+    "DisplayItemManualSort": false,
+    "DailyHint": false,
+    "PanelID": 20021,
+    "TagDesc": {
+      "Hash": 1855301617
+    },
+    "TabName": {
+      "Hash": -848434424
+    },
+    "IntroDesc": {
+      "Hash": 649328993
+    },
+    "SortWeight": 5008,
+    "ActivityThemeID": 0
+  },
+  {
+    "UIPrefab": "UI/Quest/Widget/RoleTrialPanel.prefab",
+    "UnlockConditions": "[FinishMainMission:1000510]",
+    "FinishConditions": [],
+    "DisplayItemList": [],
+    "TabIcon": "SpriteOutput/Quest/TabIcon/BtnQuestRoleTrial13.png",
+    "FinishType": "None",
+    "PanelDesc": {
+      "Hash": 371857150
+    },
+    "TitleName": {
+      "Hash": -1257752078
+    },
+    "IsSkipSwitchStoryLine": false,
+    "DisplayItemManualSort": false,
+    "DailyHint": false,
+    "PanelID": 20024,
+    "TagDesc": {
+      "Hash": 1855301614
+    },
+    "TabName": {
+      "Hash": -848434421
+    },
+    "IntroDesc": {
+      "Hash": 649328988
+    },
+    "SortWeight": 5008,
+    "ActivityThemeID": 0
+  },
+  {
+    "UIPrefab": "UI/Quest/Widget/RoleTrialPanel.prefab",
+    "UnlockConditions": "[FinishMainMission:1000510]",
+    "FinishConditions": [],
+    "DisplayItemList": [],
+    "TabIcon": "SpriteOutput/Quest/TabIcon/BtnQuestRoleTrial15.png",
+    "FinishType": "None",
+    "PanelDesc": {
+      "Hash": 371857150
+    },
+    "TitleName": {
+      "Hash": -1257752081
+    },
+    "IsSkipSwitchStoryLine": false,
+    "DisplayItemManualSort": false,
+    "DailyHint": false,
+    "PanelID": 20027,
+    "TagDesc": {
+      "Hash": 1855301611
+    },
+    "TabName": {
+      "Hash": -848434418
+    },
+    "IntroDesc": {
+      "Hash": 649328987
+    },
+    "SortWeight": 5008,
+    "ActivityThemeID": 0
+  },
+  {
+    "UIPrefab": "UI/Quest/Widget/RoleTrialPanel.prefab",
+    "UnlockConditions": "[FinishMainMission:1000510]",
+    "FinishConditions": [],
+    "DisplayItemList": [],
+    "TabIcon": "SpriteOutput/Quest/TabIcon/BtnQuestRoleTrial17.png",
+    "FinishType": "None",
+    "PanelDesc": {
+      "Hash": 371857150
+    },
+    "TitleName": {
+      "Hash": 1471131273
+    },
+    "IsSkipSwitchStoryLine": false,
+    "DisplayItemManualSort": false,
+    "DailyHint": false,
+    "PanelID": 20030,
+    "TagDesc": {
+      "Hash": 289217677
+    },
+    "TabName": {
+      "Hash": 1880448930
+    },
+    "IntroDesc": {
+      "Hash": -2079554363
+    },
+    "SortWeight": 5008,
+    "ActivityThemeID": 0
+  },
+  {
+    "UIPrefab": "UI/Quest/Widget/RoleTrialPanel.prefab",
+    "UnlockConditions": "[FinishMainMission:1000510]",
+    "FinishConditions": [],
+    "DisplayItemList": [],
+    "TabIcon": "SpriteOutput/Quest/TabIcon/BtnQuestRoleTrial19.png",
+    "FinishType": "None",
+    "PanelDesc": {
+      "Hash": 371857150
+    },
+    "TitleName": {
+      "Hash": 1471131270
+    },
+    "IsSkipSwitchStoryLine": false,
+    "DisplayItemManualSort": false,
+    "DailyHint": false,
+    "PanelID": 20033,
+    "TagDesc": {
+      "Hash": 289217674
+    },
+    "TabName": {
+      "Hash": 1880448933
+    },
+    "IntroDesc": {
+      "Hash": -2079554364
+    },
+    "SortWeight": 5008,
+    "ActivityThemeID": 0
+  },
+  {
+    "UIPrefab": "UI/Quest/Widget/RoleTrialPanel.prefab",
+    "UnlockConditions": "[FinishMainMission:1000510]",
+    "FinishConditions": [],
+    "DisplayItemList": [],
+    "TabIcon": "SpriteOutput/Quest/TabIcon/BtnQuestRoleTrial21.png",
+    "FinishType": "None",
+    "PanelDesc": {
+      "Hash": 371857150
+    },
+    "TitleName": {
+      "Hash": 1471131275
+    },
+    "IsSkipSwitchStoryLine": false,
+    "DisplayItemManualSort": false,
+    "DailyHint": false,
+    "PanelID": 20036,
+    "TagDesc": {
+      "Hash": 289217671
+    },
+    "TabName": {
+      "Hash": 1880448936
+    },
+    "IntroDesc": {
+      "Hash": -2079554369
+    },
+    "SortWeight": 5008,
+    "ActivityThemeID": 0
+  },
+  {
+    "UIPrefab": "UI/Quest/Widget/RoleTrialPanel.prefab",
+    "UnlockConditions": "[FinishMainMission:1000510]",
+    "FinishConditions": [],
+    "DisplayItemList": [],
+    "TabIcon": "SpriteOutput/Quest/TabIcon/BtnQuestRoleTrial23.png",
+    "FinishType": "None",
+    "PanelDesc": {
+      "Hash": 371857150
+    },
+    "TitleName": {
+      "Hash": 1471131280
+    },
+    "IsSkipSwitchStoryLine": false,
+    "DisplayItemManualSort": false,
+    "DailyHint": false,
+    "PanelID": 20039,
+    "TagDesc": {
+      "Hash": 289217684
+    },
+    "TabName": {
+      "Hash": 1880448939
+    },
+    "IntroDesc": {
+      "Hash": -2079554354
+    },
+    "SortWeight": 5008,
+    "ActivityThemeID": 0
+  },
+  {
+    "UIPrefab": "UI/Quest/Widget/RoleTrialPanel.prefab",
+    "UnlockConditions": "[FinishMainMission:1000510]",
+    "FinishConditions": [],
+    "DisplayItemList": [],
+    "TabIcon": "SpriteOutput/Quest/TabIcon/BtnQuestRoleTrial25.png",
+    "FinishType": "None",
+    "PanelDesc": {
+      "Hash": 371857150
+    },
+    "TitleName": {
+      "Hash": -2064321138
+    },
+    "IsSkipSwitchStoryLine": false,
+    "DisplayItemManualSort": false,
+    "DailyHint": false,
+    "PanelID": 20042,
+    "TagDesc": {
+      "Hash": 1048732562
+    },
+    "TabName": {
+      "Hash": -2011233837
+    },
+    "IntroDesc": {
+      "Hash": -513470424
+    },
+    "SortWeight": 5008,
+    "ActivityThemeID": 0
+  },
+  {
+    "UIPrefab": "UI/Quest/Widget/RoleTrialPanel.prefab",
+    "UnlockConditions": "[FinishMainMission:1000510]",
+    "FinishConditions": [],
+    "DisplayItemList": [],
+    "TabIcon": "SpriteOutput/Quest/TabIcon/BtnQuestRoleTrial27.png",
+    "FinishType": "None",
+    "PanelDesc": {
+      "Hash": 371857150
+    },
+    "TitleName": {
+      "Hash": -2064321134
+    },
+    "IsSkipSwitchStoryLine": false,
+    "DisplayItemManualSort": false,
+    "DailyHint": false,
+    "PanelID": 20046,
+    "TagDesc": {
+      "Hash": 1048732558
+    },
+    "TabName": {
+      "Hash": -2011233833
+    },
+    "IntroDesc": {
+      "Hash": -513470428
+    },
+    "SortWeight": 5008,
+    "ActivityThemeID": 0
+  },
+  {
+    "UIPrefab": "UI/Quest/Widget/RoleTrialPanel.prefab",
+    "UnlockConditions": "[FinishMainMission:1000510]",
+    "FinishConditions": [],
+    "DisplayItemList": [],
+    "TabIcon": "SpriteOutput/Quest/TabIcon/BtnQuestRoleTrial28.png",
+    "FinishType": "None",
+    "PanelDesc": {
+      "Hash": 371857150
+    },
+    "TitleName": {
+      "Hash": -2064321129
+    },
+    "IsSkipSwitchStoryLine": false,
+    "DisplayItemManualSort": false,
+    "DailyHint": false,
+    "PanelID": 20049,
+    "TagDesc": {
+      "Hash": 1048732571
+    },
+    "TabName": {
+      "Hash": -2011233830
+    },
+    "IntroDesc": {
+      "Hash": -513470413
+    },
+    "SortWeight": 5008,
+    "ActivityThemeID": 0
+  },
+  {
+    "UIPrefab": "UI/Quest/Widget/QuestGuessTheSilhouettePanel.prefab",
+    "UnlockConditions": "[PlayerLevel:21],[FinishMainMission:1010701]",
+    "FinishConditions": [],
+    "DisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 1
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 241
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 213
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 223
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 110112
+      }
+    ],
+    "TabIcon": "SpriteOutput/Quest/TabIcon/BtnQuestGuessTheSilhouetteTask.png",
+    "FinishType": "None",
+    "PanelDesc": {
+      "Hash": -1704909943
+    },
+    "TitleName": {
+      "Hash": -94955867
+    },
+    "IsSkipSwitchStoryLine": false,
+    "DisplayItemManualSort": false,
+    "DailyHint": false,
+    "PanelID": 30006,
+    "TagDesc": {
+      "Hash": -1276865247
+    },
+    "TabName": {
+      "Hash": 314368196
+    },
+    "IntroDesc": {
+      "Hash": 1812127377
+    },
+    "SortWeight": 6001,
+    "ActivityThemeID": 0
+  },
+  {
+    "UIPrefab": "UI/Quest/Widget/QuestMedicineAssignmentPanel.prefab",
+    "UnlockConditions": "[PlayerLevel:21],[FinishMainMission:1010206]",
+    "FinishConditions": [],
+    "DisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 1
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 213
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 233
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      }
+    ],
+    "TabIcon": "SpriteOutput/Quest/TabIcon/BtnQuestMedicineAssignment.png",
+    "FinishType": "None",
+    "PanelDesc": {
+      "Hash": -1704909944
+    },
+    "TitleName": {
+      "Hash": -94955866
+    },
+    "IsSkipSwitchStoryLine": false,
+    "DisplayItemManualSort": false,
+    "DailyHint": false,
+    "PanelID": 30007,
+    "TagDesc": {
+      "Hash": -1276865246
+    },
+    "TabName": {
+      "Hash": 314368195
+    },
+    "IntroDesc": {
+      "Hash": 1812127376
+    },
+    "SortWeight": 6001,
+    "ActivityThemeID": 0
+  },
+  {
+    "UIPrefab": "UI/Quest/Widget/QuestAlleyPanel.prefab",
+    "UnlockConditions": "[PlayerLevel:21]",
+    "FinishConditions": [],
+    "DisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 236
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 241
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 1
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 1206
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 221001
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 213
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 233
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 110112
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      }
+    ],
+    "TabIcon": "SpriteOutput/Quest/TabIcon/BtnQuesAlley.png",
+    "FinishType": "None",
+    "PanelDesc": {
+      "Hash": -1704916470
+    },
+    "TitleName": {
+      "Hash": -94953688
+    },
+    "IsSkipSwitchStoryLine": false,
+    "DisplayItemManualSort": true,
+    "DailyHint": false,
+    "PanelID": 50003,
+    "TagDesc": {
+      "Hash": -1276871772
+    },
+    "TabName": {
+      "Hash": 314374721
+    },
+    "IntroDesc": {
+      "Hash": 1812120850
+    },
+    "SortWeight": 6001,
+    "ActivityThemeID": 0
+  },
+  {
+    "UIPrefab": "UI/Quest/Widget/QuestColleaguePanel.prefab",
+    "UnlockConditions": "[PlayerLevel:21]",
+    "FinishConditions": [],
+    "DisplayItemList": [],
+    "TabIcon": "SpriteOutput/Quest/TabIcon/BtnQuestColleague.png",
+    "FinishType": "None",
+    "PanelDesc": {
+      "Hash": 371857150
+    },
+    "TitleName": {
+      "Hash": 371857150
+    },
+    "IsSkipSwitchStoryLine": false,
+    "DisplayItemManualSort": false,
+    "DailyHint": false,
+    "PanelID": 22001,
+    "TagDesc": {
+      "Hash": 371857150
+    },
+    "TabName": {
+      "Hash": 596689992
+    },
+    "IntroDesc": {
+      "Hash": 371857150
+    },
+    "SortWeight": 4000,
+    "ActivityThemeID": 0
+  },
+  {
+    "UIPrefab": "UI/Quest/Widget/QuestColleaguePanel.prefab",
+    "UnlockConditions": "[PlayerLevel:21]",
+    "FinishConditions": [],
+    "DisplayItemList": [],
+    "TabIcon": "SpriteOutput/Quest/TabIcon/BtnQuestColleague.png",
+    "FinishType": "None",
+    "PanelDesc": {
+      "Hash": 371857150
+    },
+    "TitleName": {
+      "Hash": 371857150
+    },
+    "IsSkipSwitchStoryLine": false,
+    "DisplayItemManualSort": false,
+    "DailyHint": false,
+    "PanelID": 22002,
+    "TagDesc": {
+      "Hash": 371857150
+    },
+    "TabName": {
+      "Hash": 596689993
+    },
+    "IntroDesc": {
+      "Hash": 371857150
+    },
+    "SortWeight": 4000,
+    "ActivityThemeID": 0
+  },
+  {
+    "UIPrefab": "UI/Quest/Widget/QuestColleaguePanel.prefab",
+    "UnlockConditions": "[PlayerLevel:21]",
+    "FinishConditions": [],
+    "DisplayItemList": [],
+    "TabIcon": "SpriteOutput/Quest/TabIcon/BtnQuestColleague.png",
+    "FinishType": "None",
+    "PanelDesc": {
+      "Hash": 371857150
+    },
+    "TitleName": {
+      "Hash": 371857150
+    },
+    "IsSkipSwitchStoryLine": false,
+    "DisplayItemManualSort": false,
+    "DailyHint": false,
+    "PanelID": 22003,
+    "TagDesc": {
+      "Hash": 371857150
+    },
+    "TabName": {
+      "Hash": 596689994
+    },
+    "IntroDesc": {
+      "Hash": 371857150
+    },
+    "SortWeight": 4000,
+    "ActivityThemeID": 0
+  },
+  {
+    "UIPrefab": "UI/Quest/TreasureDungeon/Widget/QuestTreasureDungeonPanel.prefab",
+    "UnlockConditions": "[PlayerLevel:21]",
+    "FinishConditions": [],
+    "DisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 236
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 241
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 1
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 235
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 220001
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 213
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 110153
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 110152
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      }
+    ],
+    "TabIcon": "SpriteOutput/Quest/TabIcon/BtnTresureDungeon.png",
+    "FinishType": "None",
+    "PanelDesc": {
+      "Hash": 371857150
+    },
+    "TitleName": {
+      "Hash": -94953695
+    },
+    "IsSkipSwitchStoryLine": false,
+    "DisplayItemManualSort": true,
+    "DailyHint": false,
+    "PanelID": 50004,
+    "TagDesc": {
+      "Hash": -1276871771
+    },
+    "TabName": {
+      "Hash": 314374720
+    },
+    "IntroDesc": {
+      "Hash": 1812120853
+    },
+    "SortWeight": 6001,
+    "ActivityThemeID": 0
+  },
+  {
+    "UIPrefab": "UI/Quest/Widget/QuestPrincipalLineBannerPanel.prefab",
+    "UnlockConditions": "[FinishMainMission:1000510]",
+    "FinishConditions": [],
+    "DisplayItemList": [],
+    "TabIcon": "SpriteOutput/Quest/TabIcon/BtnQuestPrincipalLineBanner.png",
+    "FinishType": "None",
+    "PanelDesc": {
+      "Hash": -1704902379
+    },
+    "TitleName": {
+      "Hash": -94946135
+    },
+    "IsSkipSwitchStoryLine": false,
+    "DisplayItemManualSort": false,
+    "DailyHint": false,
+    "PanelID": 80001,
+    "TagDesc": {
+      "Hash": -1276859731
+    },
+    "TabName": {
+      "Hash": 314375880
+    },
+    "IntroDesc": {
+      "Hash": 1812134941
+    },
+    "SortWeight": 6001,
+    "ActivityThemeID": 0
+  },
+  {
+    "UIPrefab": "UI/Quest/Widget/QuestMainStory130Panel.prefab",
+    "UnlockConditions": "[FinishMainMission:1000510]",
+    "FinishConditions": [],
+    "DisplayItemList": [],
+    "TabIcon": "SpriteOutput/Quest/TabIcon/BtnMainStory130.png",
+    "FinishType": "None",
+    "PanelDesc": {
+      "Hash": -1704902378
+    },
+    "TitleName": {
+      "Hash": -94946132
+    },
+    "IsSkipSwitchStoryLine": false,
+    "DisplayItemManualSort": false,
+    "DailyHint": false,
+    "PanelID": 80002,
+    "TagDesc": {
+      "Hash": -1276859728
+    },
+    "TabName": {
+      "Hash": 314375877
+    },
+    "IntroDesc": {
+      "Hash": 1812134942
+    },
+    "SortWeight": 6001,
+    "ActivityThemeID": 0
+  },
+  {
+    "UIPrefab": "UI/Quest/Widget/QuestMainStory140Panel.prefab",
+    "UnlockConditions": "[FinishMainMission:1000510]",
+    "FinishConditions": [],
+    "DisplayItemList": [],
+    "TabIcon": "SpriteOutput/Quest/TabIcon/BtnMainStory140.png",
+    "FinishType": "None",
+    "PanelDesc": {
+      "Hash": -1704902377
+    },
+    "TitleName": {
+      "Hash": -94946133
+    },
+    "IsSkipSwitchStoryLine": false,
+    "DisplayItemManualSort": false,
+    "DailyHint": false,
+    "PanelID": 80003,
+    "TagDesc": {
+      "Hash": -1276859729
+    },
+    "TabName": {
+      "Hash": 314375878
+    },
+    "IntroDesc": {
+      "Hash": 1812134943
+    },
+    "SortWeight": 6000,
+    "ActivityThemeID": 0
+  },
+  {
+    "UIPrefab": "UI/Quest/Widget/QuestSubStory140Panel.prefab",
+    "UnlockConditions": "[FinishMainMission:1000510]",
+    "FinishConditions": [],
+    "DisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 1
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 22
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 213
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 223
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 233
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 110112
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      }
+    ],
+    "TabIcon": "SpriteOutput/Quest/TabIcon/BtnSubStory140.png",
+    "FinishType": "None",
+    "PanelDesc": {
+      "Hash": -1704902384
+    },
+    "TitleName": {
+      "Hash": -94946130
+    },
+    "IsSkipSwitchStoryLine": false,
+    "DisplayItemManualSort": false,
+    "DailyHint": false,
+    "PanelID": 80004,
+    "TagDesc": {
+      "Hash": -1276859734
+    },
+    "TabName": {
+      "Hash": 314375883
+    },
+    "IntroDesc": {
+      "Hash": 1812134936
+    },
+    "SortWeight": 6001,
+    "ActivityThemeID": 0
+  },
+  {
+    "UIPrefab": "UI/Quest/Widget/QuestMainStory160Panel.prefab",
+    "UnlockConditions": "[FinishMainMission:1000510]",
+    "FinishConditions": [],
+    "DisplayItemList": [],
+    "TabIcon": "SpriteOutput/Quest/TabIcon/BtnMainStory160.png",
+    "FinishType": "None",
+    "PanelDesc": {
+      "Hash": -1704902383
+    },
+    "TitleName": {
+      "Hash": -94946131
+    },
+    "IsSkipSwitchStoryLine": false,
+    "DisplayItemManualSort": false,
+    "DailyHint": false,
+    "PanelID": 80005,
+    "TagDesc": {
+      "Hash": -1276859735
+    },
+    "TabName": {
+      "Hash": 314375884
+    },
+    "IntroDesc": {
+      "Hash": 1812134937
+    },
+    "SortWeight": 6001,
+    "ActivityThemeID": 0
+  },
+  {
+    "UIPrefab": "UI/Quest/Widget/QuestAetherDividePanel.prefab",
+    "UnlockConditions": "[PlayerLevel:21]",
+    "FinishConditions": [],
+    "DisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 236
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 241
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 1
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 235
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 309001
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 220002
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 213
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 223
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 233
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 110113
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 110112
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      }
+    ],
+    "TabIcon": "SpriteOutput/Quest/TabIcon/BtnQuestAetherDivide.png",
+    "FinishType": "None",
+    "PanelDesc": {
+      "Hash": -1704916468
+    },
+    "TitleName": {
+      "Hash": -94953694
+    },
+    "IsSkipSwitchStoryLine": false,
+    "DisplayItemManualSort": true,
+    "DailyHint": false,
+    "PanelID": 50005,
+    "TagDesc": {
+      "Hash": -1276871770
+    },
+    "TabName": {
+      "Hash": 314374719
+    },
+    "IntroDesc": {
+      "Hash": 1812120852
+    },
+    "SortWeight": 6001,
+    "ActivityThemeID": 0
+  },
+  {
+    "UIPrefab": "UI/Quest/Widget/FantasticStoryPanel.prefab",
+    "UnlockConditions": "[PlayerLevel:21]",
+    "FinishConditions": [],
+    "DisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 241
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 1
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 235
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 140310
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 213
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 233
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 110112
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      }
+    ],
+    "TabIcon": "SpriteOutput/Quest/TabIcon/BtnFantasticStory.png",
+    "FinishType": "None",
+    "PanelDesc": {
+      "Hash": -1704915446
+    },
+    "TitleName": {
+      "Hash": -94950488
+    },
+    "IsSkipSwitchStoryLine": false,
+    "DisplayItemManualSort": true,
+    "DailyHint": false,
+    "PanelID": 40002,
+    "TagDesc": {
+      "Hash": -1276872796
+    },
+    "TabName": {
+      "Hash": 314371521
+    },
+    "IntroDesc": {
+      "Hash": 1812121874
+    },
+    "SortWeight": 6001,
+    "ActivityThemeID": 0
+  },
+  {
+    "UIPrefab": "UI/Quest/Widget/QuestRogueRewardPanel.prefab",
+    "UnlockConditions": "[FinishMainMission:4030010]",
+    "FinishConditions": [
+      {
+        "Param": "3000015",
+        "Type": "FinishQuest"
+      }
+    ],
+    "DisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 101
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 24004
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 24003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 24002
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 24001
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 24000
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 271
+      }
+    ],
+    "TabIcon": "SpriteOutput/Quest/TabIcon/BtnRogueReward.png",
+    "FinishType": "HidePanel",
+    "PanelDesc": {
+      "Hash": -1704913269
+    },
+    "TitleName": {
+      "Hash": -94948313
+    },
+    "IsSkipSwitchStoryLine": false,
+    "DisplayItemManualSort": true,
+    "DailyHint": false,
+    "PanelID": 60001,
+    "TagDesc": {
+      "Hash": -1276870621
+    },
+    "TabName": {
+      "Hash": 314369346
+    },
+    "IntroDesc": {
+      "Hash": 1812124051
+    },
+    "SortWeight": 1000,
+    "ActivityThemeID": 0
+  },
+  {
+    "UIPrefab": "UI/Quest/Widget/QuestRoguePlanet7Panel.prefab",
+    "UnlockConditions": "[FinishMainMission:1021101]",
+    "FinishConditions": [],
+    "DisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 1
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 503
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83094
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83104
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 1013
+      }
+    ],
+    "TabIcon": "SpriteOutput/Quest/TabIcon/BtnRogueReward.png",
+    "FinishType": "None",
+    "PanelDesc": {
+      "Hash": -1704913266
+    },
+    "TitleName": {
+      "Hash": -94948316
+    },
+    "IsSkipSwitchStoryLine": false,
+    "DisplayItemManualSort": false,
+    "DailyHint": false,
+    "PanelID": 60004,
+    "TagDesc": {
+      "Hash": -1276870616
+    },
+    "TabName": {
+      "Hash": 314369341
+    },
+    "IntroDesc": {
+      "Hash": 1812124054
+    },
+    "SortWeight": 1000,
+    "ActivityThemeID": 0
+  },
+  {
+    "UIPrefab": "UI/Quest/Widget/QuestRogueDlcPanel.prefab",
+    "UnlockConditions": "[FinishMainMission:8013103]",
+    "FinishConditions": [],
+    "DisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 1
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 236
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 241
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 101
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 235
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 213
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 233
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 300041
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      }
+    ],
+    "TabIcon": "SpriteOutput/Quest/TabIcon/BtnRogueDlcQuestBannerSmall1.png",
+    "FinishType": "None",
+    "PanelDesc": {
+      "Hash": 371857150
+    },
+    "TitleName": {
+      "Hash": -94948315
+    },
+    "IsSkipSwitchStoryLine": false,
+    "DisplayItemManualSort": false,
+    "DailyHint": false,
+    "PanelID": 60003,
+    "TagDesc": {
+      "Hash": -1276870623
+    },
+    "TabName": {
+      "Hash": 314369348
+    },
+    "IntroDesc": {
+      "Hash": 1812124049
+    },
+    "SortWeight": 1000,
+    "ActivityThemeID": 0
+  },
+  {
+    "UIPrefab": "UI/Quest/Widget/QuestRoguePlanet8Panel.prefab",
+    "UnlockConditions": "[FinishMainMission:1021201]",
+    "FinishConditions": [],
+    "DisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 1
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 101
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 503
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83114
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83124
+      }
+    ],
+    "TabIcon": "SpriteOutput/Quest/TabIcon/BtnRogueReward.png",
+    "FinishType": "None",
+    "PanelDesc": {
+      "Hash": -1704913265
+    },
+    "TitleName": {
+      "Hash": -94948317
+    },
+    "IsSkipSwitchStoryLine": false,
+    "DisplayItemManualSort": false,
+    "DailyHint": false,
+    "PanelID": 60005,
+    "TagDesc": {
+      "Hash": -1276870617
+    },
+    "TabName": {
+      "Hash": 314369342
+    },
+    "IntroDesc": {
+      "Hash": 1812124055
+    },
+    "SortWeight": 1000,
+    "ActivityThemeID": 0
+  },
+  {
+    "UIPrefab": "UI/Quest/Widget/QuestRogueEndlessPanel.prefab",
+    "UnlockConditions": "[PlayerLevel:21]",
+    "FinishConditions": [],
+    "DisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 1
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 241
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 235
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 213
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 223
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 110123
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 110122
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      }
+    ],
+    "TabIcon": "SpriteOutput/Quest/TabIcon/BtnRogueReward.png",
+    "FinishType": "None",
+    "PanelDesc": {
+      "Hash": -1704913268
+    },
+    "TitleName": {
+      "Hash": -94948318
+    },
+    "IsSkipSwitchStoryLine": false,
+    "DisplayItemManualSort": false,
+    "DailyHint": false,
+    "PanelID": 60006,
+    "TagDesc": {
+      "Hash": -1276870618
+    },
+    "TabName": {
+      "Hash": 314369343
+    },
+    "IntroDesc": {
+      "Hash": 1812124052
+    },
+    "SortWeight": 6001,
+    "ActivityThemeID": 0
+  },
+  {
+    "UIPrefab": "UI/Quest/Widget/QuestRogueNousDlcPanel.prefab",
+    "UnlockConditions": "[PlayerLevel:21],[FinishMainMission:4030009]",
+    "FinishConditions": [],
+    "DisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 1
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 236
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 241
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 101
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 235
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 213
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 223
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 233
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      }
+    ],
+    "TabIcon": "SpriteOutput/Quest/TabIcon/BtnQuestRogueNous.png",
+    "FinishType": "None",
+    "PanelDesc": {
+      "Hash": 371857150
+    },
+    "TitleName": {
+      "Hash": -94948319
+    },
+    "IsSkipSwitchStoryLine": false,
+    "DisplayItemManualSort": false,
+    "DailyHint": false,
+    "PanelID": 60007,
+    "TagDesc": {
+      "Hash": -1276870619
+    },
+    "TabName": {
+      "Hash": 314369344
+    },
+    "IntroDesc": {
+      "Hash": 1812124053
+    },
+    "SortWeight": 1000,
+    "ActivityThemeID": 0
+  },
+  {
+    "UIPrefab": "UI/Quest/Widget/QuestRoguePlanet9Panel.prefab",
+    "UnlockConditions": "[FinishMainMission:1011502]",
+    "FinishConditions": [],
+    "DisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 1
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 503
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83134
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83144
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 1013
+      }
+    ],
+    "TabIcon": "SpriteOutput/Quest/TabIcon/BtnRogueM9.png",
+    "FinishType": "None",
+    "PanelDesc": {
+      "Hash": -1704913262
+    },
+    "TitleName": {
+      "Hash": -94948304
+    },
+    "IsSkipSwitchStoryLine": false,
+    "DisplayItemManualSort": false,
+    "DailyHint": false,
+    "PanelID": 60008,
+    "TagDesc": {
+      "Hash": -1276870612
+    },
+    "TabName": {
+      "Hash": 314369353
+    },
+    "IntroDesc": {
+      "Hash": 1812124058
+    },
+    "SortWeight": 1000,
+    "ActivityThemeID": 0
+  },
+  {
+    "UIPrefab": "UI/Quest/Widget/QuestRogueTourn1Panel.prefab",
+    "UnlockConditions": "[PlayerLevel:21],[FinishMainMission:4030009]",
+    "FinishConditions": [],
+    "DisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 236
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 241
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 1
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 24004
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 101
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 503
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 235
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 221006
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 202018
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 250601
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 250602
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 250604
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 110101
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 213
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 223
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 233
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      }
+    ],
+    "TabIcon": "SpriteOutput/Quest/TabIcon/BtnRogueTourntBannerSmall1.png",
+    "FinishType": "HideRedDot",
+    "PanelDesc": {
+      "Hash": 371857150
+    },
+    "TitleName": {
+      "Hash": -1661032254
+    },
+    "IsSkipSwitchStoryLine": false,
+    "DisplayItemManualSort": true,
+    "DailyHint": true,
+    "PanelID": 60011,
+    "TagDesc": {
+      "Hash": 1452012734
+    },
+    "TabName": {
+      "Hash": -1251714595
+    },
+    "IntroDesc": {
+      "Hash": -916759304
+    },
+    "SortWeight": 5990,
+    "ActivityThemeID": 0
+  },
+  {
+    "UIPrefab": "UI/Quest/Widget/QuestRogueMagicPanel.prefab",
+    "UnlockConditions": "[PlayerLevel:21],[FinishMainMission:4030009]",
+    "FinishConditions": [],
+    "DisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 236
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 241
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 1
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 101
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 235
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 250603
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 213
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 223
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 233
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      }
+    ],
+    "TabIcon": "SpriteOutput/Quest/TabIcon/BtnRogueMagic.png",
+    "FinishType": "None",
+    "PanelDesc": {
+      "Hash": -138829327
+    },
+    "TitleName": {
+      "Hash": -1661032259
+    },
+    "IsSkipSwitchStoryLine": false,
+    "DisplayItemManualSort": true,
+    "DailyHint": false,
+    "PanelID": 60016,
+    "TagDesc": {
+      "Hash": 1452012737
+    },
+    "TabName": {
+      "Hash": -1251714598
+    },
+    "IntroDesc": {
+      "Hash": -916759303
+    },
+    "SortWeight": 1001,
+    "ActivityThemeID": 0
+  },
+  {
+    "UIPrefab": "UI/Quest/Widget/QuestHeliobusPanel.prefab",
+    "UnlockConditions": "[PlayerLevel:21]",
+    "FinishConditions": [],
+    "DisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 236
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 241
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 1
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 235
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 22001
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 221003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 213
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 223
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 233
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 110173
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 110172
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      }
+    ],
+    "TabIcon": "SpriteOutput/Quest/TabIcon/BtnQuesHeliobus.png",
+    "FinishType": "None",
+    "PanelDesc": {
+      "Hash": -1704916465
+    },
+    "TitleName": {
+      "Hash": -94953693
+    },
+    "IsSkipSwitchStoryLine": false,
+    "DisplayItemManualSort": true,
+    "DailyHint": false,
+    "PanelID": 50006,
+    "TagDesc": {
+      "Hash": -1276871769
+    },
+    "TabName": {
+      "Hash": 314374718
+    },
+    "IntroDesc": {
+      "Hash": 1812120855
+    },
+    "SortWeight": 6001,
+    "ActivityThemeID": 0
+  },
+  {
+    "UIPrefab": "UI/Quest/Widget/QuestBoxingClubResonancePanel_Resident.prefab",
+    "UnlockConditions": "[PlayerLevel:21],[FinishMainMission:1011001]",
+    "FinishConditions": [],
+    "DisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 241
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 1
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 235
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 213
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 223
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 233
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 140363
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 110112
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      }
+    ],
+    "TabIcon": "SpriteOutput/Quest/TabIcon/BtnBoxingClubResonance.png",
+    "FinishType": "None",
+    "PanelDesc": {
+      "Hash": 371857150
+    },
+    "TitleName": {
+      "Hash": -94950489
+    },
+    "IsSkipSwitchStoryLine": false,
+    "DisplayItemManualSort": true,
+    "DailyHint": false,
+    "PanelID": 40003,
+    "TagDesc": {
+      "Hash": -1276872797
+    },
+    "TabName": {
+      "Hash": 314371522
+    },
+    "IntroDesc": {
+      "Hash": 1812121875
+    },
+    "SortWeight": 6001,
+    "ActivityThemeID": 0
+  },
+  {
+    "UIPrefab": "UI/Quest/Widget/ActivityStrongChallengePanel.prefab",
+    "UnlockConditions": "[PlayerLevel:21]",
+    "FinishConditions": [],
+    "DisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 241
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 1
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 235
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 213
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 223
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 233
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      }
+    ],
+    "TabIcon": "SpriteOutput/Quest/TabIcon/BtnQuestActivityStrongChallenge.png",
+    "FinishType": "None",
+    "PanelDesc": {
+      "Hash": -1704915444
+    },
+    "TitleName": {
+      "Hash": -94950494
+    },
+    "IsSkipSwitchStoryLine": false,
+    "DisplayItemManualSort": true,
+    "DailyHint": false,
+    "PanelID": 40004,
+    "TagDesc": {
+      "Hash": -1276872794
+    },
+    "TabName": {
+      "Hash": 314371519
+    },
+    "IntroDesc": {
+      "Hash": 1812121876
+    },
+    "SortWeight": 6001,
+    "ActivityThemeID": 0
+  },
+  {
+    "UIPrefab": "UI/Quest/Widget/QuestSpaceZooPanel.prefab",
+    "UnlockConditions": "[PlayerLevel:21]",
+    "FinishConditions": [],
+    "DisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 241
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 1
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 220003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 213
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 223
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 233
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 405020
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      }
+    ],
+    "TabIcon": "SpriteOutput/Quest/TabIcon/BtnQuestSpaceZoo.png",
+    "FinishType": "None",
+    "PanelDesc": {
+      "Hash": -1704909929
+    },
+    "TitleName": {
+      "Hash": -94955861
+    },
+    "IsSkipSwitchStoryLine": false,
+    "DisplayItemManualSort": true,
+    "DailyHint": false,
+    "PanelID": 30008,
+    "TagDesc": {
+      "Hash": -1276865233
+    },
+    "TabName": {
+      "Hash": 314368198
+    },
+    "IntroDesc": {
+      "Hash": 1812127391
+    },
+    "SortWeight": 6000,
+    "ActivityThemeID": 0
+  },
+  {
+    "UIPrefab": "UI/Quest/Widget/QuestMiniGamePanel.prefab",
+    "UnlockConditions": "[PlayerLevel:21]",
+    "FinishConditions": [
+      {
+        "Param": "6017240",
+        "Type": "FinishQuest"
+      },
+      {
+        "Param": "6017201",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6017202",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6017203",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6017204",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6017205",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6017206",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6017207",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6017208",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6017209",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6017210",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6017211",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6017212",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6017221",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6017222",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6017223",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6017224",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6017225",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6017226",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6017227",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6017228",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6017229",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6017230",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6017101",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6017102",
+        "Type": "QuestClose"
+      }
+    ],
+    "DisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 236
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 241
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 1
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 309002
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 213
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 223
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 233
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 110222
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      }
+    ],
+    "TabIcon": "SpriteOutput/Quest/TabIcon/BtnQuestMiniGame.png",
+    "FinishType": "None",
+    "PanelDesc": {
+      "Hash": -1704916466
+    },
+    "TitleName": {
+      "Hash": -94953692
+    },
+    "IsSkipSwitchStoryLine": false,
+    "DisplayItemManualSort": true,
+    "DailyHint": false,
+    "PanelID": 50007,
+    "TagDesc": {
+      "Hash": -1276871768
+    },
+    "TabName": {
+      "Hash": 314374717
+    },
+    "IntroDesc": {
+      "Hash": 1812120854
+    },
+    "SortWeight": 6001,
+    "ActivityThemeID": 0
+  },
+  {
+    "UIPrefab": "UI/Quest/Widget/QuestTelevisionPanel.prefab",
+    "UnlockConditions": "[PlayerLevel:21]",
+    "FinishConditions": [],
+    "DisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 241
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 1
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 235
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 213
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 223
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 233
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      }
+    ],
+    "TabIcon": "SpriteOutput/Quest/TabIcon/BtnQuestTelevision.png",
+    "FinishType": "None",
+    "PanelDesc": {
+      "Hash": -1704915443
+    },
+    "TitleName": {
+      "Hash": -94950495
+    },
+    "IsSkipSwitchStoryLine": false,
+    "DisplayItemManualSort": true,
+    "DailyHint": false,
+    "PanelID": 40005,
+    "TagDesc": {
+      "Hash": -1276872795
+    },
+    "TabName": {
+      "Hash": 314371520
+    },
+    "IntroDesc": {
+      "Hash": 1812121877
+    },
+    "SortWeight": 6001,
+    "ActivityThemeID": 0
+  },
+  {
+    "UIPrefab": "UI/Quest/Widget/PenaconyActivityQuestTimeLimitPanel.prefab",
+    "UnlockConditions": "[PlayerLevel:21]",
+    "FinishConditions": [
+      {
+        "Param": "6000601",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6000602",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6000603",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6000604",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6000605",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6000606",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6000607",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6000608",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6000609",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6000610",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6000611",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6000612",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6000613",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6000614",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6000615",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6000616",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6000617",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6000618",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6000619",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6000620",
+        "Type": "QuestClose"
+      }
+    ],
+    "DisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 1
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 201
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 213
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 233
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 110222
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      }
+    ],
+    "TabIcon": "SpriteOutput/Quest/TabIcon/BtnQuestPenaconyActivityTimeLimit.png",
+    "FinishType": "None",
+    "PanelDesc": {
+      "Hash": -138825996
+    },
+    "TitleName": {
+      "Hash": -1661039810
+    },
+    "IsSkipSwitchStoryLine": false,
+    "DisplayItemManualSort": false,
+    "DailyHint": false,
+    "PanelID": 30010,
+    "TagDesc": {
+      "Hash": 1452018114
+    },
+    "TabName": {
+      "Hash": -1251715751
+    },
+    "IntroDesc": {
+      "Hash": -916755972
+    },
+    "SortWeight": 6000,
+    "ActivityThemeID": 0
+  },
+  {
+    "UIPrefab": "UI/Quest/Widget/QuestMonopolyPanel.prefab",
+    "UnlockConditions": "[PlayerLevel:21]",
+    "FinishConditions": [
+      {
+        "Param": "6021131",
+        "Type": "FinishQuest"
+      },
+      {
+        "Param": "6021132",
+        "Type": "FinishQuest"
+      },
+      {
+        "Param": "6021101",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6021102",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6021103",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6021104",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6021105",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6021106",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6021107",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6021108",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6021109",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6021110",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6021111",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6021112",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6021113",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6021114",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6021115",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6021116",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6021117",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6021118",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6021119",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6021120",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6021121",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6021122",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6021123",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6021124",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6021125",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6021126",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6021127",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6021128",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6021129",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6021130",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6021133",
+        "Type": "QuestClose"
+      }
+    ],
+    "DisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 236
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 241
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 1
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 221005
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 202016
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 213
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 223
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 233
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 110222
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      }
+    ],
+    "TabIcon": "SpriteOutput/Quest/TabIcon/BtnQuestMonopoly.png",
+    "FinishType": "None",
+    "PanelDesc": {
+      "Hash": -1704916463
+    },
+    "TitleName": {
+      "Hash": -94953683
+    },
+    "IsSkipSwitchStoryLine": true,
+    "DisplayItemManualSort": true,
+    "DailyHint": true,
+    "PanelID": 50008,
+    "TagDesc": {
+      "Hash": -1276871767
+    },
+    "TabName": {
+      "Hash": 314374732
+    },
+    "IntroDesc": {
+      "Hash": 1812120857
+    },
+    "SortWeight": 7800,
+    "ActivityThemeID": 1001
+  },
+  {
+    "UIPrefab": "UI/Quest/Widget/QuestDrinkMakerPanel.prefab",
+    "UnlockConditions": "[PlayerLevel:21]",
+    "FinishConditions": [],
+    "DisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 236
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 241
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 1
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 309003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 220004
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 213
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 223
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 233
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      }
+    ],
+    "TabIcon": "SpriteOutput/Quest/TabIcon/BtnQuestDrinkMaker.png",
+    "FinishType": "None",
+    "PanelDesc": {
+      "Hash": -1704916464
+    },
+    "TitleName": {
+      "Hash": -94953682
+    },
+    "IsSkipSwitchStoryLine": false,
+    "DisplayItemManualSort": true,
+    "DailyHint": true,
+    "PanelID": 50009,
+    "TagDesc": {
+      "Hash": -1276871766
+    },
+    "TabName": {
+      "Hash": 314374731
+    },
+    "IntroDesc": {
+      "Hash": 1812120856
+    },
+    "SortWeight": 6001,
+    "ActivityThemeID": 0
+  },
+  {
+    "UIPrefab": "UI/Quest/Widget/QuestFeverTimeChallengePanel.prefab",
+    "UnlockConditions": "[PlayerLevel:21]",
+    "FinishConditions": [
+      {
+        "Param": "6019101",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6019102",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6019103",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6019104",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6019105",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6019106",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6019107",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6019108",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6019109",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6019110",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6019111",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6019112",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6019113",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6019114",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6019115",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6019116",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6019117",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6019118",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6019122",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6019123",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6019124",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6019125",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6019126",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6019127",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6019128",
+        "Type": "QuestClose"
+      }
+    ],
+    "DisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 241
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 1
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 235
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 213
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 223
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 233
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      }
+    ],
+    "TabIcon": "SpriteOutput/Quest/TabIcon/BtnQuestFeverTime.png",
+    "FinishType": "None",
+    "PanelDesc": {
+      "Hash": -138832530
+    },
+    "TitleName": {
+      "Hash": -1661037632
+    },
+    "IsSkipSwitchStoryLine": false,
+    "DisplayItemManualSort": true,
+    "DailyHint": false,
+    "PanelID": 50010,
+    "TagDesc": {
+      "Hash": 1452011580
+    },
+    "TabName": {
+      "Hash": -1251709217
+    },
+    "IntroDesc": {
+      "Hash": -916762506
+    },
+    "SortWeight": 6001,
+    "ActivityThemeID": 0
+  },
+  {
+    "UIPrefab": "UI/Quest/Widget/QuestEvolveBuildPanel.prefab",
+    "UnlockConditions": "[PlayerLevel:21]",
+    "FinishConditions": [],
+    "DisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 236
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 241
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 1
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 235
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 213
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 223
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 233
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 110192
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      }
+    ],
+    "TabIcon": "SpriteOutput/Quest/TabIcon/BtnEvolveBuild.png",
+    "FinishType": "None",
+    "PanelDesc": {
+      "Hash": -138832531
+    },
+    "TitleName": {
+      "Hash": -1661037631
+    },
+    "IsSkipSwitchStoryLine": false,
+    "DisplayItemManualSort": true,
+    "DailyHint": true,
+    "PanelID": 50011,
+    "TagDesc": {
+      "Hash": 1452011581
+    },
+    "TabName": {
+      "Hash": -1251709218
+    },
+    "IntroDesc": {
+      "Hash": -916762507
+    },
+    "SortWeight": 6001,
+    "ActivityThemeID": 0
+  },
+  {
+    "UIPrefab": "UI/Quest/Widget/QuestClockParkPanel.prefab",
+    "UnlockConditions": "[PlayerLevel:21]",
+    "FinishConditions": [
+      {
+        "Param": "6022101",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6022102",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6022103",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6022104",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6022105",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6022106",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6022107",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6022108",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6022109",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6022110",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6022112",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6022117",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6022118",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6022119",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6022123",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6022124",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6022125",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6022126",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6022127",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6022128",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6022129",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6022130",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6022131",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6022132",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6022133",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6022134",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6022135",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6022136",
+        "Type": "QuestClose"
+      }
+    ],
+    "DisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 236
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 241
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 1
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 22002
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 220005
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 213
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 223
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 233
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 110232
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      }
+    ],
+    "TabIcon": "SpriteOutput/Quest/TabIcon/BtnClockPark.png",
+    "FinishType": "None",
+    "PanelDesc": {
+      "Hash": -138832528
+    },
+    "TitleName": {
+      "Hash": -1661037630
+    },
+    "IsSkipSwitchStoryLine": false,
+    "DisplayItemManualSort": true,
+    "DailyHint": true,
+    "PanelID": 50012,
+    "TagDesc": {
+      "Hash": 1452011582
+    },
+    "TabName": {
+      "Hash": -1251709219
+    },
+    "IntroDesc": {
+      "Hash": -916762504
+    },
+    "SortWeight": 6000,
+    "ActivityThemeID": 0
+  },
+  {
+    "UIPrefab": "UI/Quest/Widget/QuestPanelExpeditionAboutBoothill.prefab",
+    "UnlockConditions": "[PlayerLevel:21],[FinishMainMission:1010206]",
+    "FinishConditions": [
+      {
+        "Param": "8022302",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "DisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 1
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 213
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 233
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      }
+    ],
+    "TabIcon": "SpriteOutput/UI/Quest/ExpeditionAboutBoothill/ImgExpeditionAboutBoothillBanner.png",
+    "FinishType": "None",
+    "PanelDesc": {
+      "Hash": -138832529
+    },
+    "TitleName": {
+      "Hash": -1661037629
+    },
+    "IsSkipSwitchStoryLine": false,
+    "DisplayItemManualSort": true,
+    "DailyHint": false,
+    "PanelID": 50013,
+    "TagDesc": {
+      "Hash": 1452011583
+    },
+    "TabName": {
+      "Hash": -1251709220
+    },
+    "IntroDesc": {
+      "Hash": -916762505
+    },
+    "SortWeight": 6001,
+    "ActivityThemeID": 0
+  },
+  {
+    "UIPrefab": "UI/Quest/Widget/QuestMatchThreePanel.prefab",
+    "UnlockConditions": "[PlayerLevel:21]",
+    "FinishConditions": [],
+    "DisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 236
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 241
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 1
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 309004
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 213
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 223
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 233
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 110182
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      }
+    ],
+    "TabIcon": "SpriteOutput/Quest/TabIcon/BtnQuestMatchThree.png",
+    "FinishType": "None",
+    "PanelDesc": {
+      "Hash": -138832526
+    },
+    "TitleName": {
+      "Hash": -1661037636
+    },
+    "IsSkipSwitchStoryLine": false,
+    "DisplayItemManualSort": true,
+    "DailyHint": true,
+    "PanelID": 50014,
+    "TagDesc": {
+      "Hash": 1452011584
+    },
+    "TabName": {
+      "Hash": -1251709221
+    },
+    "IntroDesc": {
+      "Hash": -916762502
+    },
+    "SortWeight": 6001,
+    "ActivityThemeID": 0
+  },
+  {
+    "UIPrefab": "UI/Quest/Widget/QuestSwordTrainingPanel.prefab",
+    "UnlockConditions": "[PlayerLevel:21]",
+    "FinishConditions": [
+      {
+        "Param": "6025103",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6025130",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6025122",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6025123",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6025124",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6025126",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6025127",
+        "Type": "QuestClose"
+      }
+    ],
+    "DisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 236
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 241
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 1
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 220006
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 11224
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 213
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 223
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 233
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 110183
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 110182
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      }
+    ],
+    "TabIcon": "SpriteOutput/Quest/TabIcon/BtnQuestSwordTraining.png",
+    "FinishType": "None",
+    "PanelDesc": {
+      "Hash": -138832527
+    },
+    "TitleName": {
+      "Hash": -1661037635
+    },
+    "IsSkipSwitchStoryLine": false,
+    "DisplayItemManualSort": true,
+    "DailyHint": true,
+    "PanelID": 50015,
+    "TagDesc": {
+      "Hash": 1452011585
+    },
+    "TabName": {
+      "Hash": -1251709222
+    },
+    "IntroDesc": {
+      "Hash": -916762503
+    },
+    "SortWeight": 6000,
+    "ActivityThemeID": 0
+  },
+  {
+    "UIPrefab": "UI/Quest/Widget/QuestStarChallengePanel.prefab",
+    "UnlockConditions": "[PlayerLevel:21]",
+    "FinishConditions": [],
+    "DisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 1
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 241
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 213
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 235
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 232
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 110202
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      }
+    ],
+    "TabIcon": "SpriteOutput/Quest/TabIcon/BtnQuestStarChallenge.png",
+    "FinishType": "None",
+    "PanelDesc": {
+      "Hash": -138832524
+    },
+    "TitleName": {
+      "Hash": -1661037634
+    },
+    "IsSkipSwitchStoryLine": false,
+    "DisplayItemManualSort": false,
+    "DailyHint": true,
+    "PanelID": 50016,
+    "TagDesc": {
+      "Hash": 1452011586
+    },
+    "TabName": {
+      "Hash": -1251709223
+    },
+    "IntroDesc": {
+      "Hash": -916762500
+    },
+    "SortWeight": 6001,
+    "ActivityThemeID": 0
+  },
+  {
+    "UIPrefab": "UI/Quest/Widget/QuestTouringCarPhotoPanel.prefab",
+    "UnlockConditions": "[PlayerLevel:21]",
+    "FinishConditions": [
+      {
+        "Param": "6029119",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6029101",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6029102",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6029103",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6029104",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6029105",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6029106",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6029107",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6029108",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6029109",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6029110",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6029111",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6029112",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6029113",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6029114",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6029115",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6029116",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6029117",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6029118",
+        "Type": "QuestClose"
+      }
+    ],
+    "DisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 241
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 1
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 213
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 223
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 233
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 110182
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      }
+    ],
+    "TabIcon": "SpriteOutput/Quest/TabIcon/BtnQuestTouringCarPhoto.png",
+    "FinishType": "None",
+    "PanelDesc": {
+      "Hash": -138832525
+    },
+    "TitleName": {
+      "Hash": -1661037633
+    },
+    "IsSkipSwitchStoryLine": false,
+    "DisplayItemManualSort": false,
+    "DailyHint": true,
+    "PanelID": 50017,
+    "TagDesc": {
+      "Hash": 1452011587
+    },
+    "TabName": {
+      "Hash": -1251709224
+    },
+    "IntroDesc": {
+      "Hash": -916762501
+    },
+    "SortWeight": 6001,
+    "ActivityThemeID": 0
+  },
+  {
+    "UIPrefab": "UI/Quest/Widget/FightFestPanel.prefab",
+    "UnlockConditions": "[PlayerLevel:21]",
+    "FinishConditions": [
+      {
+        "Param": "6027152",
+        "Type": "FinishQuest"
+      },
+      {
+        "Param": "6027205",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6027209",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6027213",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6027218",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6027219",
+        "Type": "QuestClose"
+      }
+    ],
+    "DisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 236
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 241
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 1
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 235
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 251001
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 221007
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 11224
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 213
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 223
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 233
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 110192
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      }
+    ],
+    "TabIcon": "SpriteOutput/Quest/TabIcon/BtnQuestFightFest.png",
+    "FinishType": "None",
+    "PanelDesc": {
+      "Hash": -138832522
+    },
+    "TitleName": {
+      "Hash": -1661037624
+    },
+    "IsSkipSwitchStoryLine": false,
+    "DisplayItemManualSort": true,
+    "DailyHint": true,
+    "PanelID": 50018,
+    "TagDesc": {
+      "Hash": 1452011588
+    },
+    "TabName": {
+      "Hash": -1251709209
+    },
+    "IntroDesc": {
+      "Hash": -916762498
+    },
+    "SortWeight": 6000,
+    "ActivityThemeID": 0
+  },
+  {
+    "UIPrefab": "UI/Quest/Widget/QuestTrashCanSummonPanel.prefab",
+    "UnlockConditions": "[PlayerLevel:21]",
+    "FinishConditions": [
+      {
+        "Param": "6026170",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6026171",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6026172",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6026173",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6026174",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6026181",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6026182",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6026183",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6026184",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6026185",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6026186",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6026187",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6026188",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6026189",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6026190",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6026191",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6026192",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6026193",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6026194",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6026195",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6026175",
+        "Type": "QuestClose"
+      }
+    ],
+    "DisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 241
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 1
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 235
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 213
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 223
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 233
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      }
+    ],
+    "TabIcon": "SpriteOutput/Quest/TabIcon/BtnQuestTrashCanSummon.png",
+    "FinishType": "None",
+    "PanelDesc": {
+      "Hash": 1427251411
+    },
+    "TitleName": {
+      "Hash": -1257753105
+    },
+    "IsSkipSwitchStoryLine": false,
+    "DisplayItemManualSort": true,
+    "DailyHint": true,
+    "PanelID": 50020,
+    "TagDesc": {
+      "Hash": 1855296107
+    },
+    "TabName": {
+      "Hash": -848424690
+    },
+    "IntroDesc": {
+      "Hash": 649321435
+    },
+    "SortWeight": 6001,
+    "ActivityThemeID": 0
+  },
+  {
+    "UIPrefab": "UI/Quest/Widget/QuestSecondWorldRaidCollectionPanel.prefab",
+    "UnlockConditions": "[PlayerLevel:21]",
+    "FinishConditions": [
+      {
+        "Param": "6028240",
+        "Type": "FinishQuest"
+      },
+      {
+        "Param": "6028101",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6028201",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6028202",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6028203",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6028204",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6028205",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6028206",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6028207",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6028208",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6028209",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6028210",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6028211",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6028212",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6028221",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6028222",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6028223",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6028224",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6028225",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6028226",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6028227",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6028228",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6028229",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6028230",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6028231",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6028232",
+        "Type": "QuestClose"
+      }
+    ],
+    "DisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 241
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 1
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 213
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 223
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 233
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 110242
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      }
+    ],
+    "TabIcon": "SpriteOutput/Quest/TabIcon/BtnSecondWorldRaidCollection.png",
+    "FinishType": "None",
+    "PanelDesc": {
+      "Hash": 1427251410
+    },
+    "TitleName": {
+      "Hash": -1257753104
+    },
+    "IsSkipSwitchStoryLine": false,
+    "DisplayItemManualSort": true,
+    "DailyHint": true,
+    "PanelID": 50021,
+    "TagDesc": {
+      "Hash": 1855296108
+    },
+    "TabName": {
+      "Hash": -848424691
+    },
+    "IntroDesc": {
+      "Hash": 649321434
+    },
+    "SortWeight": 6001,
+    "ActivityThemeID": 0
+  },
+  {
+    "UIPrefab": "UI/Quest/Widget/QuestMusicRhythm.prefab",
+    "UnlockConditions": "[PlayerLevel:21]",
+    "FinishConditions": [
+      {
+        "Param": "6029201",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6029202",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6029203",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6029204",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6029205",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6029210",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6029211",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6029212",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6029213",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6029214",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6029215",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6029221",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6029222",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6029223",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6029231",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6029232",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6029233",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6029234",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6029235",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6029236",
+        "Type": "QuestClose"
+      }
+    ],
+    "DisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 236
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 241
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 1
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 220007
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 22003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 121003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 213
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 223
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 233
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 110202
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      }
+    ],
+    "TabIcon": "SpriteOutput/Quest/TabIcon/BtnQuestMusicRhythm.png",
+    "FinishType": "None",
+    "PanelDesc": {
+      "Hash": 1427251413
+    },
+    "TitleName": {
+      "Hash": -1257753103
+    },
+    "IsSkipSwitchStoryLine": false,
+    "DisplayItemManualSort": true,
+    "DailyHint": true,
+    "PanelID": 50022,
+    "TagDesc": {
+      "Hash": 1855296109
+    },
+    "TabName": {
+      "Hash": -848424692
+    },
+    "IntroDesc": {
+      "Hash": 649321437
+    },
+    "SortWeight": 6001,
+    "ActivityThemeID": 0
+  },
+  {
+    "UIPrefab": "UI/Quest/Widget/QuestBelobogSubmitPanel.prefab",
+    "UnlockConditions": "[PlayerLevel:21]",
+    "FinishConditions": [
+      {
+        "Param": "8026207",
+        "Type": "FinishMainMission"
+      },
+      {
+        "Param": "6018011",
+        "Type": "FinishQuest"
+      }
+    ],
+    "DisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 1
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 213
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 402010
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 402015
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 402013
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 402012
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 402011
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 402009
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 402014
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      }
+    ],
+    "TabIcon": "SpriteOutput/Quest/TabIcon/BtnBelogogSubmit.png",
+    "FinishType": "None",
+    "PanelDesc": {
+      "Hash": -138825997
+    },
+    "TitleName": {
+      "Hash": -1661039809
+    },
+    "IsSkipSwitchStoryLine": false,
+    "DisplayItemManualSort": false,
+    "DailyHint": true,
+    "PanelID": 30011,
+    "TagDesc": {
+      "Hash": 1452018115
+    },
+    "TabName": {
+      "Hash": -1251715752
+    },
+    "IntroDesc": {
+      "Hash": -916755973
+    },
+    "SortWeight": 6001,
+    "ActivityThemeID": 0
+  },
+  {
+    "UIPrefab": "UI/Quest/Widget/QuestPanelExpeditionAboutRanger.prefab",
+    "UnlockConditions": "[PlayerLevel:21],[FinishMainMission:1010206]",
+    "FinishConditions": [
+      {
+        "Param": "6029601",
+        "Type": "FinishQuest"
+      }
+    ],
+    "DisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 1
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 213
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 233
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      }
+    ],
+    "TabIcon": "SpriteOutput/UI/Quest/ExpeditionAboutRanger/ImgExpeditionAboutRangerBanner.png",
+    "FinishType": "None",
+    "PanelDesc": {
+      "Hash": -138825998
+    },
+    "TitleName": {
+      "Hash": -1661039812
+    },
+    "IsSkipSwitchStoryLine": false,
+    "DisplayItemManualSort": true,
+    "DailyHint": true,
+    "PanelID": 30012,
+    "TagDesc": {
+      "Hash": 1452018112
+    },
+    "TabName": {
+      "Hash": -1251715749
+    },
+    "IntroDesc": {
+      "Hash": -916755974
+    },
+    "SortWeight": 6001,
+    "ActivityThemeID": 0
+  },
+  {
+    "UIPrefab": "UI/Quest/Widget/QuestTrainPartyPanel.prefab",
+    "UnlockConditions": "[PlayerLevel:21]",
+    "FinishConditions": [
+      {
+        "Param": "6029357",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6029359",
+        "Type": "FinishQuest"
+      },
+      {
+        "Param": "6029321",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6029322",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6029323",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6029324",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6029325",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6029326",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6029327",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6029328",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6029329",
+        "Type": "QuestClose"
+      }
+    ],
+    "DisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 236
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 241
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 1
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 252001
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 309007
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 221008
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 213
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 223
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 233
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 110232
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      }
+    ],
+    "TabIcon": "SpriteOutput/Quest/TabIcon/BtnQuestTrainParty.png",
+    "FinishType": "None",
+    "PanelDesc": {
+      "Hash": 1427251415
+    },
+    "TitleName": {
+      "Hash": -1257753109
+    },
+    "IsSkipSwitchStoryLine": false,
+    "DisplayItemManualSort": false,
+    "DailyHint": true,
+    "PanelID": 50024,
+    "TagDesc": {
+      "Hash": 1855296111
+    },
+    "TabName": {
+      "Hash": -848424694
+    },
+    "IntroDesc": {
+      "Hash": 649321439
+    },
+    "SortWeight": 6000,
+    "ActivityThemeID": 0
+  },
+  {
+    "UIPrefab": "UI/Quest/Widget/QuestPhotoExhibitionPanel.prefab",
+    "UnlockConditions": "[PlayerLevel:21]",
+    "FinishConditions": [
+      {
+        "Param": "8027209",
+        "Type": "FinishMainMission"
+      },
+      {
+        "Param": "6029501",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6029502",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6029503",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6029504",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6029505",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6029506",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6029507",
+        "Type": "QuestClose"
+      },
+      {
+        "Param": "6029508",
+        "Type": "QuestClose"
+      }
+    ],
+    "DisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 241
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 1
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 213
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 223
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 110182
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      }
+    ],
+    "TabIcon": "SpriteOutput/Quest/TabIcon/BtnPhotoExhibition.png",
+    "FinishType": "None",
+    "PanelDesc": {
+      "Hash": 1427251414
+    },
+    "TitleName": {
+      "Hash": -1257753108
+    },
+    "IsSkipSwitchStoryLine": false,
+    "DisplayItemManualSort": true,
+    "DailyHint": true,
+    "PanelID": 50025,
+    "TagDesc": {
+      "Hash": 1855296112
+    },
+    "TabName": {
+      "Hash": -848424695
+    },
+    "IntroDesc": {
+      "Hash": 649321438
+    },
+    "SortWeight": 6001,
+    "ActivityThemeID": 0
+  }
+]

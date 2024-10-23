@@ -1,0 +1,20 @@
+{
+  "GroupName": "RogueOrigin_Area",
+  "AreaAnchorName": "LevelArea_P81222_F81222001_G11",
+  "SaveType": "Permanent",
+  "LoadSide": "Server",
+  "ConflictIDList": [],
+  "StreamingTemplateType": "Standard",
+  "HoyoGroupLowestLoadPlatformQuality": "VeryLow",
+  "AnchorList": [],
+  "MonsterList": [],
+  "PropList": [],
+  "DistrictList": [],
+  "WaypointList": [],
+  "PathwayList": [],
+  "BattleAreaList": [],
+  "NPCList": [],
+  "CrowdList": [],
+  "PedestrianList": [],
+  "SmartObjectList": []
+}

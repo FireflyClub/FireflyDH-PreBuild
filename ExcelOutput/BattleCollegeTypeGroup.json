@@ -1,0 +1,35 @@
+[
+  {
+    "TabIconPath": "SpriteOutput/TabIcon/Teach/BattleTeachBasicIcon .png",
+    "BackGroundImagePath": "SpriteOutput/DailyMission/TeachCompleteIcon/BattleTeachBasicIcon_M.png",
+    "UnlockConditions": [],
+    "RewardID": 0,
+    "BattleCollegeTypeGroupID": 1,
+    "IsAdvanced": false,
+    "BattleCollegeTypeGroupIDTitle": {
+      "Hash": -1939594824
+    }
+  },
+  {
+    "TabIconPath": "SpriteOutput/TabIcon/Teach/BattleTeachBrokenShieldIcon.png",
+    "BackGroundImagePath": "SpriteOutput/DailyMission/TeachCompleteIcon/BattleTeachBrokenShieldIcon_M.png",
+    "UnlockConditions": [],
+    "RewardID": 0,
+    "BattleCollegeTypeGroupID": 2,
+    "IsAdvanced": true,
+    "BattleCollegeTypeGroupIDTitle": {
+      "Hash": 789288531
+    }
+  },
+  {
+    "TabIconPath": "SpriteOutput/TabIcon/Teach/BattleTeachMazeIcon.png",
+    "BackGroundImagePath": "SpriteOutput/DailyMission/TeachCompleteIcon/BattleTeachMazeIcon_M.png",
+    "UnlockConditions": [],
+    "RewardID": 0,
+    "BattleCollegeTypeGroupID": 3,
+    "IsAdvanced": true,
+    "BattleCollegeTypeGroupIDTitle": {
+      "Hash": -776795410
+    }
+  }
+]

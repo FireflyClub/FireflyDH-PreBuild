@@ -1,0 +1,408 @@
+[
+  {
+    "IconPath": "SpriteOutput/Quest/Monopoly/MonopolyIcon/MonopolyIconBuff1.png",
+    "BuffID": 100,
+    "IsPermanent": false,
+    "BuffName": {
+      "Hash": -812266063
+    },
+    "BuffDesc": {
+      "Hash": 1325415339
+    },
+    "EffectID": 1100,
+    "Duration": 4,
+    "Rank": 1
+  },
+  {
+    "IconPath": "",
+    "BuffID": 101,
+    "IsPermanent": false,
+    "BuffName": {
+      "Hash": 371857150
+    },
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "EffectID": 1101,
+    "Duration": 1,
+    "Rank": 1
+  },
+  {
+    "IconPath": "",
+    "BuffID": 102,
+    "IsPermanent": false,
+    "BuffName": {
+      "Hash": 371857150
+    },
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "EffectID": 1102,
+    "Duration": 2,
+    "Rank": 1
+  },
+  {
+    "IconPath": "",
+    "BuffID": 103,
+    "IsPermanent": false,
+    "BuffName": {
+      "Hash": 371857150
+    },
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "EffectID": 1103,
+    "Duration": 3,
+    "Rank": 1
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/Monopoly/MonopolyIcon/MonopolyIconBuff1.png",
+    "BuffID": 104,
+    "IsPermanent": false,
+    "BuffName": {
+      "Hash": -812266059
+    },
+    "BuffDesc": {
+      "Hash": 1325415343
+    },
+    "EffectID": 1104,
+    "Duration": 4,
+    "Rank": 1
+  },
+  {
+    "IconPath": "",
+    "BuffID": 105,
+    "IsPermanent": false,
+    "BuffName": {
+      "Hash": 371857150
+    },
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "EffectID": 1105,
+    "Duration": 5,
+    "Rank": 1
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/Monopoly/MonopolyIcon/MonopolyIconBuff3.png",
+    "BuffID": 201,
+    "IsPermanent": false,
+    "BuffName": {
+      "Hash": -812266097
+    },
+    "BuffDesc": {
+      "Hash": 1325415437
+    },
+    "EffectID": 1201,
+    "Duration": 1,
+    "Rank": 3
+  },
+  {
+    "IconPath": "",
+    "BuffID": 202,
+    "IsPermanent": false,
+    "BuffName": {
+      "Hash": 371857150
+    },
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "EffectID": 1202,
+    "Duration": 2,
+    "Rank": 2
+  },
+  {
+    "IconPath": "",
+    "BuffID": 203,
+    "IsPermanent": false,
+    "BuffName": {
+      "Hash": 371857150
+    },
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "EffectID": 1203,
+    "Duration": 3,
+    "Rank": 2
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/Monopoly/MonopolyIcon/MonopolyIconBuff2.png",
+    "BuffID": 204,
+    "IsPermanent": false,
+    "BuffName": {
+      "Hash": -812266094
+    },
+    "BuffDesc": {
+      "Hash": 1325415440
+    },
+    "EffectID": 1204,
+    "Duration": 4,
+    "Rank": 2
+  },
+  {
+    "IconPath": "",
+    "BuffID": 205,
+    "IsPermanent": false,
+    "BuffName": {
+      "Hash": 371857150
+    },
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "EffectID": 1205,
+    "Duration": 5,
+    "Rank": 2
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/Monopoly/MonopolyIcon/MonopolyIconBuff3.png",
+    "BuffID": 301,
+    "IsPermanent": false,
+    "BuffName": {
+      "Hash": -812266130
+    },
+    "BuffDesc": {
+      "Hash": 1325415404
+    },
+    "EffectID": 1301,
+    "Duration": 1,
+    "Rank": 3
+  },
+  {
+    "IconPath": "",
+    "BuffID": 302,
+    "IsPermanent": false,
+    "BuffName": {
+      "Hash": 371857150
+    },
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "EffectID": 1302,
+    "Duration": 2,
+    "Rank": 3
+  },
+  {
+    "IconPath": "",
+    "BuffID": 303,
+    "IsPermanent": false,
+    "BuffName": {
+      "Hash": 371857150
+    },
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "EffectID": 1303,
+    "Duration": 3,
+    "Rank": 3
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/Monopoly/MonopolyIcon/MonopolyIconBuff2.png",
+    "BuffID": 304,
+    "IsPermanent": false,
+    "BuffName": {
+      "Hash": -812266125
+    },
+    "BuffDesc": {
+      "Hash": 1325415409
+    },
+    "EffectID": 1304,
+    "Duration": 4,
+    "Rank": 2
+  },
+  {
+    "IconPath": "",
+    "BuffID": 305,
+    "IsPermanent": false,
+    "BuffName": {
+      "Hash": 371857150
+    },
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "EffectID": 1305,
+    "Duration": 5,
+    "Rank": 3
+  },
+  {
+    "IconPath": "",
+    "BuffID": 401,
+    "IsPermanent": false,
+    "BuffName": {
+      "Hash": 371857150
+    },
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "EffectID": 1401,
+    "Duration": 1,
+    "Rank": 1
+  },
+  {
+    "IconPath": "",
+    "BuffID": 402,
+    "IsPermanent": false,
+    "BuffName": {
+      "Hash": 371857150
+    },
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "EffectID": 1402,
+    "Duration": 2,
+    "Rank": 1
+  },
+  {
+    "IconPath": "",
+    "BuffID": 403,
+    "IsPermanent": false,
+    "BuffName": {
+      "Hash": 371857150
+    },
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "EffectID": 1403,
+    "Duration": 3,
+    "Rank": 1
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/Monopoly/MonopolyIcon/MonopolyIconBuff1.png",
+    "BuffID": 404,
+    "IsPermanent": false,
+    "BuffName": {
+      "Hash": -812265904
+    },
+    "BuffDesc": {
+      "Hash": 1325415498
+    },
+    "EffectID": 1404,
+    "Duration": 4,
+    "Rank": 1
+  },
+  {
+    "IconPath": "",
+    "BuffID": 405,
+    "IsPermanent": false,
+    "BuffName": {
+      "Hash": 371857150
+    },
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "EffectID": 1405,
+    "Duration": 5,
+    "Rank": 1
+  },
+  {
+    "IconPath": "",
+    "BuffID": 501,
+    "IsPermanent": false,
+    "BuffName": {
+      "Hash": 371857150
+    },
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "EffectID": 1501,
+    "Duration": 1,
+    "Rank": 1
+  },
+  {
+    "IconPath": "",
+    "BuffID": 502,
+    "IsPermanent": false,
+    "BuffName": {
+      "Hash": 371857150
+    },
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "EffectID": 1502,
+    "Duration": 2,
+    "Rank": 1
+  },
+  {
+    "IconPath": "",
+    "BuffID": 503,
+    "IsPermanent": false,
+    "BuffName": {
+      "Hash": 371857150
+    },
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "EffectID": 1503,
+    "Duration": 3,
+    "Rank": 1
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/Monopoly/MonopolyIcon/MonopolyIconBuff1.png",
+    "BuffID": 504,
+    "IsPermanent": false,
+    "BuffName": {
+      "Hash": -812265935
+    },
+    "BuffDesc": {
+      "Hash": 1325415467
+    },
+    "EffectID": 1504,
+    "Duration": 4,
+    "Rank": 1
+  },
+  {
+    "IconPath": "",
+    "BuffID": 505,
+    "IsPermanent": false,
+    "BuffName": {
+      "Hash": 371857150
+    },
+    "BuffDesc": {
+      "Hash": 371857150
+    },
+    "EffectID": 1505,
+    "Duration": 5,
+    "Rank": 1
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/Monopoly/MonopolyIcon/MonopolyIconBuff3.png",
+    "BuffID": 901,
+    "IsPermanent": true,
+    "BuffName": {
+      "Hash": -812265800
+    },
+    "BuffDesc": {
+      "Hash": 1325415602
+    },
+    "EffectID": 1600,
+    "Duration": 0,
+    "Rank": 3
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/Monopoly/MonopolyIcon/MonopolyIconBuff3.png",
+    "BuffID": 902,
+    "IsPermanent": true,
+    "BuffName": {
+      "Hash": -812265801
+    },
+    "BuffDesc": {
+      "Hash": 1325415605
+    },
+    "EffectID": 1105,
+    "Duration": 0,
+    "Rank": 3
+  },
+  {
+    "IconPath": "SpriteOutput/Quest/Monopoly/MonopolyIcon/MonopolyIconBuff3.png",
+    "BuffID": 903,
+    "IsPermanent": true,
+    "BuffName": {
+      "Hash": -812265802
+    },
+    "BuffDesc": {
+      "Hash": 1325415604
+    },
+    "EffectID": 1105,
+    "Duration": 0,
+    "Rank": 3
+  }
+]
